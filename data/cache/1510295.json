@@ -1,0 +1,338 @@
+{
+ "proxies": {
+  "0001510295-26-000023": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000023/mpc-20260316.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001510295-26-000009",
+   "result": {
+    "ceoPay": 19016261,
+    "medianPay": 186132,
+    "payRatio": 102,
+    "method": "cross-checked",
+    "employees": 18371,
+    "statedYear": 2025,
+    "excerpt": "mpensation to the CEO in the \" 2025 Summary Compensation Table\" on page 57 . | | | | Pay Ratio Calculation | | | | | | | Ms. Mannen's total compensation as CEO . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | | $19,016,261 | | | Median employee's annual total compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | | $186,132 | | | Ratio of CEO to median employee annual total compensation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | | 102 to 1 | | Pay Versus Performance SEC rules require us to disclose the following information concerning executive compensat"
+   }
+  },
+  "0001510295-25-000023": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029525000023/mpc-20250317.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001510295-25-000012",
+   "result": {
+    "ceoPay": 17395923,
+    "medianPay": 173773,
+    "payRatio": 100,
+    "method": "cross-checked",
+    "employees": 18371,
+    "statedYear": null,
+    "excerpt": "l\" column of the \"2024 Summary Compensation Table\" on page 53 because the total below reflects a larger base salary ($1,400,000 as annualized) and a larger LTI target ($12,000,000 as annualized). | | | | | | | | Pay Ratio Calculation | | | | | Ms. Mannen's total compensation as CEO (annualized) | | $17,395,923 | | Median employee's annual total compensation | | $173,773 | | Ratio of CEO to median employee annual total compensation | | 100 to 1 | | | | | | | | | | | | | 2025 Proxy Statement | | | 65 | | | | | | | | | | | | | | | | | | | | | | | | | | PROXY STATEMENT SUMMARY | | CORPORATE GOVERNANCE | | SUSTAINABILITY AT MPC | | AUDIT MATTERS | | EXECUTIVE COMPENSATION | | BOARD PROPOSALS | | SHAREHOLDER PROPOSAL | | OTHER INFORMATION | | | | | | | | | | | | | Pay Versus Performance | | | SE"
+   }
+  },
+  "0001510295-24-000033": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029524000033/mpc-20240313.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001510295-24-000015",
+   "result": {
+    "ceoPay": 24054492,
+    "medianPay": 176205,
+    "payRatio": 137,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ee's total compensation using the same methodology required by the SEC rules for disclosure of compensation to the principal executive officer in the \"2023 Summary Compensation Table.\" | | | | | | | | | | | | | | Pay Ratio Calculation | | | | | | | | | Mr. Hennigan's annual total compensation | | | $24,054,492 | | | Median employee's annual total compensation | | | $176,205 | | | Ratio of CEO to median employee annual total compensation | | | 137 to 1 | | | | | | | | | | | | | | | | 66 | | | Marathon Petroleum Corporation | | | | | EXECUTIVE COMPENSATION | | | | | Pay Versus Performance | | | SEC rules require us to disclose the following information concerning executive compensation and certain financial performance information about the Company for the periods shown. Based on 2023 SEC gu"
+   }
+  },
+  "0001510295-23-000028": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029523000028/mpc-20230313.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001510295-23-000012",
+   "result": {
+    "ceoPay": 21288532,
+    "medianPay": 147088,
+    "payRatio": 145,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "by the SEC rules for disclosure of compensation to the principal executive officer in the \"2022 Summary Compensation Table.\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | PAY RATIO CALCULATION | | | | | | | | | | Mr. Hennigan's annual total compensation | | | | $21,288,532 | | | | | | Median employee's annual total compensation | | | | $147,088 | | * | | | | Ratio of CEO to median employee annual total compensation | | | | 145 to 1 | | | | | | | | | | | | | | | | | | | | | | | | | | * Excludes $52,544 in relocation assistance received during 2022 as this is not a standard element of the median employee's compensation. Including this benefit would result in a ratio of 107 to 1. | | | | | | | | | | | | | | | | | | | | 66 | | | | Marathon Petroleum Corpor"
+   }
+  },
+  "0001510295-22-000023": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029522000023/a2022mpcproxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001510295-22-000011",
+   "result": {
+    "ceoPay": 21185206,
+    "medianPay": 148850,
+    "payRatio": 142,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "ethodology required by the SEC rules for disclosure of compensation to the principal executive officer in the \"2021 Summary Compensation Table.\" | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | PAY RATIO CALCULATION | | | | | | | | Mr. Hennigan's annual total compensation | | | | $21,185,206 | | | | Median employee's annual total compensation | | | | $148,850 | | | | Ratio of CEO to median employee annual total compensation | | | | 142 to 1 | | | | | | | | | | | | | | | | | | The Compensation and Organization Development Committee relies on market data and recommendations provided by its independent compensation consultant to structure variable pay opportunities (largely performance-based) for our NEOs, including our CEO, while management relies on competitive survey dat"
+   }
+  },
+  "0001510295-21-000046": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029521000046/a2021mpcproxystatement.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001510295-21-000027",
+   "result": {
+    "ceoPay": 15648848,
+    "medianPay": 41285,
+    "payRatio": 379,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "ximately 0.07% of our total employee population. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | PAY RATIO CALCULATION | | | | Including Speedway Employees (1) | | | | MPC Employees Only | | Mr. Hennigan's annual total compensation (2) | | | | $15,648,848 | | | | $15,648,848 | | Median employee's annual total compensation | | | | $41,285 | | | | $158,331 | | Ratio of CEO to median employee compensation | | | | 379 to 1 | | | | 99 to 1 | | | | | | | | | | | | (1) As noted above, our Speedway employee population includes many retail part-time employees who generally are compensated at lower levels than employees working in traditional downstream refining jobs. | | (2) Compensation for Mr. Hennigan, who was promoted to CEO effective March 17, 2020, is shown"
+   }
+  },
+  "0001510295-20-000017": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029520000017/a2020mpcproxystatement.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001510295-20-000006",
+   "result": {
+    "ceoPay": 24129164,
+    "medianPay": 27507,
+    "payRatio": 877,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "e believe our ratio reflecting MPC employees only is more indicative of our ratio following completion of that transaction targeted for later this year. | | | | | | | | | | | | | | | MPC Employees Only | | Including Speedway Employees | | Mr. Heminger's annual total compensation | | $24,129,164 | | $24,129,164 | | Median employee's annual total compensation | | $210,248 | | $27,507 | | Ratio of CEO to median employee compensation | | 115 to 1 | | 877 to 1 | We identified our median employee for each ratio in 2018 by analyzing the accumulated actual wages and bonus amounts paid to each employee, other than Mr. Heminger, between January 1, 2018 and October 1, 2018. We selected this process to determine our median employees as we believe such accumulated pay reasonably reflects the median emp"
+   }
+  },
+  "0001510295-19-000021": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029519000021/def14a_2019mpcproxystateme.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001510295-19-000014",
+   "result": null
+  },
+  "0001193125-18-084039": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312518084039/d496012ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001510295-18-000024",
+   "result": {
+    "ceoPay": 19670807,
+    "medianPay": 21034,
+    "payRatio": 935,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "median employee, that employees total compensation was calculated using the same methodology required for disclosure of compensation to the CEO, under the requirements established by the SEC, in the Summary Compensation Table. | | | | | | | | | | | Mr. Hemingers total annual compensation: | | | | $ | | 19,670,807 | | | | Median Employee total annual compensation: | | | | $ | | 21,034 | | | | Ratio of PEO to Median Employee Compensation: | | | | | | 935:1 | | | Our Ratio in Context We expect our ratio of 935:1 may be relatively high when compared to other domestic U.S. refiners. This expected difference is largely due to our substantial retail operations (more than 2,700 stores), staffed by approximately 32,000 employees, many of whom are part-time employees. Marathon Petroleum is the onl"
+   }
+  }
+ },
+ "tenKs": {
+  "0001510295-18-000024": {
+   "parserVersion": 1,
+   "employees": 43800
+  },
+  "0001510295-20-000006": {
+   "parserVersion": 1,
+   "employees": 60910
+  },
+  "0001510295-21-000027": {
+   "parserVersion": 1,
+   "employees": 57900
+  },
+  "0001510295-22-000011": {
+   "parserVersion": 1,
+   "employees": 17700
+  },
+  "0001510295-23-000012": {
+   "parserVersion": 1,
+   "employees": 17800
+  },
+  "0001510295-24-000015": {
+   "parserVersion": 1,
+   "employees": 18200
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 45530000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-088690"
+   },
+   "2010": {
+    "revenue": 62487000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-088690"
+   },
+   "2011": {
+    "revenue": 78638000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-088690"
+   },
+   "2012": {
+    "revenue": 82243000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001510295-15-000007"
+   },
+   "2013": {
+    "revenue": 100160000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001510295-16-000078"
+   },
+   "2014": {
+    "revenue": 97817000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001510295-16-000078"
+   },
+   "2015": {
+    "revenue": 72051000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001510295-16-000078"
+   },
+   "2016": {
+    "revenue": 63277000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001510295-19-000014"
+   },
+   "2017": {
+    "revenue": 74733000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001510295-20-000006"
+   },
+   "2018": {
+    "revenue": 86086000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001510295-21-000027"
+   },
+   "2019": {
+    "revenue": 111148000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001510295-22-000011"
+   },
+   "2020": {
+    "revenue": 69779000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001510295-23-000012"
+   },
+   "2021": {
+    "revenue": 119983000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001510295-24-000015"
+   },
+   "2022": {
+    "revenue": 177453000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001510295-25-000012"
+   },
+   "2023": {
+    "revenue": 148379000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001510295-26-000009"
+   },
+   "2024": {
+    "revenue": 138864000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001510295-26-000009"
+   },
+   "2025": {
+    "revenue": 132699000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001510295-26-000009"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001510295-26-000009",
+    "filingDate": "2026-02-26",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000009/mpc-20251231.htm"
+   },
+   {
+    "accession": "0001510295-25-000012",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029525000012/mpc-20241231.htm"
+   },
+   {
+    "accession": "0001510295-24-000015",
+    "filingDate": "2024-02-28",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029524000015/mpc-20231231.htm"
+   },
+   {
+    "accession": "0001510295-23-000012",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029523000012/mpc-20221231.htm"
+   },
+   {
+    "accession": "0001510295-22-000011",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029522000011/mpc-20211231.htm"
+   },
+   {
+    "accession": "0001510295-21-000027",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029521000027/mpc-20201231.htm"
+   },
+   {
+    "accession": "0001510295-20-000006",
+    "filingDate": "2020-02-28",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029520000006/mpc-20191231x10k.htm"
+   },
+   {
+    "accession": "0001510295-19-000014",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029519000014/mpc-20181231x10k.htm"
+   },
+   {
+    "accession": "0001510295-18-000024",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029518000024/mpc-20171231x10k.htm"
+   },
+   {
+    "accession": "0001510295-17-000017",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029517000017/mpc-20161231x10k.htm"
+   }
+  ]
+ }
+}

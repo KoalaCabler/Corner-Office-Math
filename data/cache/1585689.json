@@ -1,0 +1,340 @@
+{
+ "proxies": {
+  "0001585689-26-000023": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568926000023/hlt-20260401.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001585689-26-000007",
+   "result": {
+    "ceoPay": 27692276,
+    "medianPay": 50461,
+    "payRatio": 549,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "or benefits, and we would expect that any such payments and benefits would be paid pursuant to the Severance Plan in the event his employment is terminated. PAY RATIO For the fiscal year ended December 31, 2025, we estimate that the ratio of the 2025 annual total compensation of our CEO, which was $27,692,276 (1) , to the 2025 annual total compensation of our median employee, which was $50,461 (2) , was 549:1. In accordance with SEC rules, we have concluded that it would be appropriate to use the 2023 median employee for our 2025 pay ratio calculation, given that there has neither been a material change in our employee population or median employee compensation arrangements that would significantly impact our pay ratio. To identify the median employee in 2023, we used the methodology desc"
+   }
+  },
+  "0001585689-25-000078": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568925000078/hlt-20250403.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001585689-25-000008",
+   "result": {
+    "ceoPay": 27974583,
+    "medianPay": 48448,
+    "payRatio": 577,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ayments and benefits Ms. D'Angelo would have received had she remained with the Company and the applicable triggering event(s) occurred on December 31, 2024. PAY RATIO For the fiscal year ended December 31, 2024, we estimate that the ratio of the 2024 annual total compensation of our CEO, which was $27,974,583 (1) , to the 2024 annual total compensation of our median employee, which was $48,448 (2) , was 577:1. In accordance with SEC rules, we have concluded that it would be appropriate to use the 2023 median employee for our 2024 pay ratio calculation, given that there has neither been a material change in our employee population or median employee compensation arrangements that would significantly impact our pay ratio. To identify the median employee in 2023, we used the methodology desc"
+   }
+  },
+  "0001585689-24-000088": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568924000088/hlt-20240403.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001585689-24-000027",
+   "result": {
+    "ceoPay": 26571986,
+    "medianPay": 48435,
+    "payRatio": 549,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ments and benefits would be paid pursuant to the Severance Plan in the event his employment is terminated. | | | | | | | | | | Hilton | | PROXY STATEMENT | | 49 | PAY RATIO For the fiscal year ended December 31, 2023, we estimate that the ratio of the annual total compensation of our CEO, which was $26,571,986 (1) , to the annual total compensation of our median employee, which was $48,435 (2) , was 549:1. In order to identify a new median employee for 2023, as required by the SEC rules, we used the methodology described below: • As of October 1, 2023, the date chosen for identifying the median employee, we collected data for all employees globally and used base pay as our consistently applied compensation measure. For hourly workers, we calculated annual base pay based on a reasonable est"
+   }
+  },
+  "0001585689-23-000088": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568923000088/hlt-20230405.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001585689-23-000036",
+   "result": {
+    "ceoPay": 23547415,
+    "medianPay": 43702,
+    "payRatio": 539,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "would be paid pursuant to the Severance Plan in the event his employment is terminated. | | | | | | | | | | | | | | | | | | | Hilton | | PROXY STATEMENT | | 49 | PAY RATIO For the fiscal year ended December 31, 2022, we estimate that the ratio of the annual total compensation of our CEO, which was $23,547,415 (1) , to the annual total compensation of our median employee, which was $43,702 (2) , was 539:1. In order to identify a new median employee for 2022, as required by the SEC rules, we used the methodology described below: • As of October 1, 2022, the date chosen for identifying the median employee, we collected data for all employees globally and used base pay as our consistently applied compensation measure. For hourly workers, we calculated annual base pay based on a reasonable est"
+   }
+  },
+  "0001585689-22-000067": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568922000067/a2022proxy.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001585689-22-000013",
+   "result": {
+    "ceoPay": 23298795,
+    "medianPay": 36915,
+    "payRatio": 631,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "d benefits would be paid pursuant to the Severance Plan in the event his employment is terminated. | | | | | | | | | | | | | | | | | | | Hilton | | PROXY STATEMENT | | 53 | PAY RATIO For the fiscal year ended December 31, 2021, we estimate that the ratio of the annual total compensation of our CEO ($23,298,795 (1) ) to the annual total compensation of our median employee ($36,915 (2) ) was 631:1. In order to identify a new median employee for 2021, as required by the SEC rules, we used the methodology described below: • As of October 1, 2021, the date chosen for identifying the median employee, we collected data for all employees globally and used base pay as our consistently applied compensation measure. For hourly workers, we calculated annual base pay based on a reasonable estimate of h"
+   }
+  },
+  "0001585689-21-000050": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568921000050/a2021proxy.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001585689-21-000016",
+   "result": {
+    "ceoPay": 55884527,
+    "medianPay": 28608,
+    "payRatio": 1953,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "equity awards was $2,552,032 as of December 31, 2020 based on the closing price of our common stock on the NYSE as of December 31, 2020 ($111.26). 52 PROXY STATEMENT Hilton PAY RATIO For the fiscal year ended December 31, 2020, we estimate that the ratio of the annual total compensation of our CEO ($55,884,527 (1) ) to the annual total compensation of our median employee ($28,608 (2) ) was 1,953:1. The pandemic has significantly affected the global economy and strained the hospitality industry, including Hilton. Due to materially reduced travel around the world, Hilton temporarily reduced compensation for certain roles, reduced our workforce, reduced work hours and furloughed a substantial number of our employees, which resulted in the decline in the median employee's pay. The 2020 figures"
+   }
+  },
+  "0001585689-20-000097": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568920000097/a2020proxy.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001585689-20-000013",
+   "result": {
+    "ceoPay": 21387511,
+    "medianPay": 43695,
+    "payRatio": 489,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "be paid pursuant to the Severance Plan in the event his employment is terminated. Hilton PROXY STATEMENT 43 PAY RATIO For the fiscal year that ended December 31, 2019, we estimate that the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 489:1 based on the following: • The annual total compensation of our CEO was $21,387,511 (1) • The annual total compensation of our median employee was $43,695 (2) Annual total compensation includes Company-paid healthcare benefits because they are part of the total rewards that employees receive. In order for employees to tailor their benefits to individual circumstances, our benefits programs offer a variety of choices in coverage. The healthcare figures reflected above correspond to the selec"
+   }
+  },
+  "0001193125-19-091400": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1585689/000119312519091400/d685494ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001585689-19-000034",
+   "result": {
+    "ceoPay": 19803897,
+    "medianPay": 36530,
+    "payRatio": 542,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "018 Fiscal Year-End table. | | | | | | | | | | | | Hilton | | | | PROXY STATEMENT | | | | 43 | Table of Contents PAY RATIO For the fiscal year ended December 31, 2018, we estimate that the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 542:1 based on the following: | | | ● | | | | The annual total compensation of our CEO was $19,803,897 (1) | | | | ● | | | | The annual total compensation of our median employee was $36,530 (2) | For 2018, annual total compensation now also includes Company-paid healthcare benefits because they are part of the total rewards that employees receive. In order for employees to tailor their benefits to individual circumstances, our benefits programs offer a variety of choices in coverage. The healthc"
+   }
+  },
+  "0001193125-18-102092": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1585689/000119312518102092/d554811ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001585689-18-000033",
+   "result": {
+    "ceoPay": 18790698,
+    "medianPay": 33168,
+    "payRatio": 567,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "this award as of the last trading day of 2017 is shown in the Outstanding Equity Awards at 2017 Fiscal Year-End table. | | | | | | | | | | | | Hilton | | | | PROXY STATEMENT | | | | 41 | Table of Contents PAY RATIO For 2017, we estimate that the ratio of the annual total compensation of our CEO ($18,790,698) to the annual total compensation of our median employee ($33,168) was 567:1. This ratio would have been 325:1 if not for the one-time grant made to the CEO in 2017. The one-time grant was awarded in recognition of successfully completing the spin-offs and transforming Hilton into a new fee-based, capital-efficient business model. In order to identify the median employee, we used the methodology described below: | | | · | | | | As of October 1, 2017, we collected data for all employe"
+   }
+  }
+ },
+ "tenKs": {
+  "0001585689-18-000033": {
+   "parserVersion": 1,
+   "employees": 163000
+  },
+  "0001585689-19-000034": {
+   "parserVersion": 1,
+   "employees": 169000
+  },
+  "0001585689-20-000013": {
+   "parserVersion": 1,
+   "employees": 173000
+  },
+  "0001585689-21-000016": {
+   "parserVersion": 1,
+   "employees": 141000
+  },
+  "0001585689-22-000013": {
+   "parserVersion": 1,
+   "employees": 142000
+  },
+  "0001585689-23-000036": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001585689-24-000027": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001585689-25-000008": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001585689-26-000007": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2012": {
+    "revenue": 9276000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-15-000032"
+   },
+   "2013": {
+    "revenue": 9735000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-16-000161"
+   },
+   "2014": {
+    "revenue": 10502000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-17-000038"
+   },
+   "2015": {
+    "revenue": 7133000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-18-000033"
+   },
+   "2016": {
+    "revenue": 6576000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-19-000034"
+   },
+   "2017": {
+    "revenue": 8131000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-20-000013"
+   },
+   "2018": {
+    "revenue": 8906000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-21-000016"
+   },
+   "2019": {
+    "revenue": 9452000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-22-000013"
+   },
+   "2020": {
+    "revenue": 4307000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-23-000036"
+   },
+   "2021": {
+    "revenue": 5788000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-24-000027"
+   },
+   "2022": {
+    "revenue": 8773000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-25-000008"
+   },
+   "2023": {
+    "revenue": 10235000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-26-000007"
+   },
+   "2024": {
+    "revenue": 11174000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-26-000007"
+   },
+   "2025": {
+    "revenue": 12039000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001585689-26-000007"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001585689-26-000007",
+    "filingDate": "2026-02-11",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568926000007/hlt-20251231.htm"
+   },
+   {
+    "accession": "0001585689-25-000008",
+    "filingDate": "2025-02-06",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568925000008/hlt-20241231.htm"
+   },
+   {
+    "accession": "0001585689-24-000027",
+    "filingDate": "2024-02-07",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568924000027/hlt-20231231.htm"
+   },
+   {
+    "accession": "0001585689-23-000036",
+    "filingDate": "2023-02-09",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568923000036/hlt-20221231.htm"
+   },
+   {
+    "accession": "0001585689-22-000013",
+    "filingDate": "2022-02-16",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568922000013/hlt-20211231.htm"
+   },
+   {
+    "accession": "0001585689-21-000016",
+    "filingDate": "2021-02-17",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568921000016/hlt-20201231.htm"
+   },
+   {
+    "accession": "0001585689-20-000013",
+    "filingDate": "2020-02-11",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568920000013/hlt-20191231.htm"
+   },
+   {
+    "accession": "0001585689-19-000034",
+    "filingDate": "2019-02-13",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568919000034/q42018hwh10-k.htm"
+   },
+   {
+    "accession": "0001585689-18-000033",
+    "filingDate": "2018-02-14",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568918000033/a2017hwh10-k.htm"
+   },
+   {
+    "accession": "0001585689-17-000038",
+    "filingDate": "2017-02-15",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1585689/000158568917000038/a2016hwh10-knospin.htm"
+   }
+  ]
+ }
+}

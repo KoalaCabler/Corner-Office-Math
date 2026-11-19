@@ -1,0 +1,80 @@
+{
+ "proxies": {
+  "0001964738-26-000017": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000017/solv-20260327.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001964738-26-000007",
+   "result": {
+    "ceoPay": 20139981,
+    "medianPay": 82152,
+    "payRatio": 245,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ables CEO pay ratio Presented below is the ratio of the annual total compensation of our Chief Executive Officer (\"CEO\") to the annual total compensation of our median employee, calculated pursuant to Item 402(u) of Regulation S-K. | | | | | | | | | Annual total compensation of the CEO for 2025 | | $ | | 20,139,981 | | | | | | | Annual total compensation of the median employee for 2025 | | $ | | 82,152 | | | | | | | CEO Pay Ratio for 2025 | | 245:1 | | | The ratio presented above is a reasonable estimate calculated in a manner consistent with Item 402(u). The SEC rules for identifying the median employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable est"
+   }
+  },
+  "0001964738-25-000038": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473825000038/solv-20250321.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001964738-25-000019",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001964738-26-000007": {
+   "parserVersion": 1,
+   "employees": 20000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2022": {
+    "revenue": 8130000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001964738-25-000019"
+   },
+   "2023": {
+    "revenue": 8197000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001964738-26-000007"
+   },
+   "2024": {
+    "revenue": 8254000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001964738-26-000007"
+   },
+   "2025": {
+    "revenue": 8325000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001964738-26-000007"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001964738-26-000007",
+    "filingDate": "2026-02-27",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000007/solv-20251231.htm"
+   },
+   {
+    "accession": "0001964738-25-000019",
+    "filingDate": "2025-02-28",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1964738/000196473825000019/solv-20241231.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,346 @@
+{
+ "proxies": {
+  "0001308179-26-000432": {
+   "parserVersion": 1,
+   "filingDate": "2026-10-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000130817926000432/panw-20261027.htm",
+   "periodEnd": "2026-07-31",
+   "tenK": "0001327567-26-000023",
+   "result": {
+    "ceoPay": 80270519,
+    "medianPay": 260431,
+    "payRatio": 308,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "on of our Chief Executive Officer and the annual total compensation of our median employee. For our last completed fiscal year, which ended July 31, 2026: • The median of the annual total compensation of all employees of our Company and our consolidated subsidiaries in fiscal 2026 was approximately $260,431, excluding our Chief Executive Officer. This annual total compensation was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K, and reflects, among other things, salary, all bonuses earned, any other cash payments (such as from our short-term incentive compensation plan), 401(k) contribution matches, life insurance premiums paid by the Company, and the aggregate \"grant date fair value\" of equity awards granted during fiscal 2026. • Mr. Arora's annual total compensation, as"
+   }
+  },
+  "0001308179-25-000624": {
+   "parserVersion": 1,
+   "filingDate": "2025-11-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000130817925000624/panw-20251107.htm",
+   "periodEnd": "2025-07-31",
+   "tenK": "0001327567-25-000027",
+   "result": {
+    "ceoPay": 99736336,
+    "medianPay": 225828,
+    "payRatio": 442,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "5 that we believe would significantly change our Chief Executive Officer pay ratio results. For our last completed fiscal year, which ended July 31, 2025: • The median of the annual total compensation of all employees of our Company and our consolidated subsidiaries in fiscal 2025 was approximately $225,828, excluding our Chief Executive Officer. This annual total compensation was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K, and reflects, among other things, salary, all bonuses earned, other cash payments (such as from our cash incentive plan), 401(k) contribution matches, life insurance premiums paid by the Company, and the aggregate \"grant date fair value\" of equity awards granted during fiscal 2025. • Mr. Arora's annual total compensation, as reported in the Fiscal"
+   }
+  },
+  "0001308179-24-000770": {
+   "parserVersion": 1,
+   "filingDate": "2024-10-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000130817924000770/panw4345341-def14a.htm",
+   "periodEnd": "2024-07-31",
+   "tenK": "0001327567-24-000029",
+   "result": {
+    "ceoPay": 58036875,
+    "medianPay": 215882,
+    "payRatio": 269,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ficantly change our Chief Executive Officer pay ratio results. For our last completed fiscal year, which ended July 31, 2024: | ● | | The median of the annual total compensation of all employees (other than Mr. Arora) of our Company and our consolidated subsidiaries in fiscal 2024 was approximately $215,882. This annual total compensation was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K, and reflects, among other things, salary, all bonuses earned, other cash payments (such as from our cash incentive plan), 401(k) contribution matches, life and disability insurance premiums paid by the Company, and the aggregate grant date fair value of equity awards granted during fiscal 2024. | | ● | | Mr. Aroras annual total compensation, as reported in the Fiscal 2024 Summary Co"
+   }
+  },
+  "0001308179-23-001049": {
+   "parserVersion": 1,
+   "filingDate": "2023-10-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000130817923001049/panw4225281-def14a.htm",
+   "periodEnd": "2023-07-31",
+   "tenK": "0001327567-23-000024",
+   "result": {
+    "ceoPay": 151425203,
+    "medianPay": 206035,
+    "payRatio": 735,
+    "method": "cross-checked",
+    "employees": 14081,
+    "statedYear": 2023,
+    "excerpt": "icer and the annual total compensation of our median employee. For our last completed fiscal year, which ended July 31, 2023: | ● | | The median of the annual total compensation of all employees (other than Mr. Arora) of our company and our consolidated subsidiaries in fiscal 2023 was approximately $206,035. This annual total compensation was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K, and reflects, among other things, salary, all bonuses earned, 401(k) contribution matches, life and disability insurance premiums paid by the Company and the aggregate \"grant date fair value\" of equity awards granted during fiscal 2023. | | ● | | Mr. Arora's annual total compensation, as reported in the Fiscal 2023 Summary Compensation Table included in this Proxy Statement, was $151,4"
+   }
+  },
+  "0001206774-22-002637": {
+   "parserVersion": 1,
+   "filingDate": "2022-11-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000120677422002637/panw4099631-def14a.htm",
+   "periodEnd": "2022-07-31",
+   "tenK": "0001327567-22-000028",
+   "result": {
+    "ceoPay": 10410477,
+    "medianPay": 268463,
+    "payRatio": 39,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "nificantly change our Chief Executive Officer pay ratio results. For our last completed fiscal year, which ended July 31, 2022: | | | The median of the annual total compensation of all employees (other than Mr. Arora) of our company and our consolidated subsidiaries in fiscal 2022 was approximately $268,463. This annual total compensation was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K, and reflects, among other things, salary, all bonuses earned, 401(k) contribution matches, life and disability insurance premiums paid by the Company and the aggregate \"grant date fair value\" of equity awards granted during fiscal 2022. | | | | Mr. Arora's annual total compensation, as reported in the Fiscal 2022 Summary Compensation Table included in this Proxy Statement, was $10,410,"
+   }
+  },
+  "0001206774-21-002675": {
+   "parserVersion": 1,
+   "filingDate": "2021-10-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000120677421002675/panw3943601-def14a.htm",
+   "periodEnd": "2021-07-31",
+   "tenK": "0001327567-21-000029",
+   "result": {
+    "ceoPay": 23283858,
+    "medianPay": 269821,
+    "payRatio": 86.3,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "significantly change our Chief Executive Officer pay ratio results. For our last completed fiscal year, which ended July 31, 2021: ● The median of the annual total compensation of all employees (other than Mr. Arora) of our company and our consolidated subsidiaries in fiscal 2021 was approximately $269,821. This annual total compensation was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K, and reflects, among other things, salary, all bonuses earned, commissions, other cash payments, PTO payouts, allowance, employer benefit and 401(k) contribution matches, ESPP purchase gain, and the aggregate \"grant date fair value\" of equity awards granted during fiscal 2021. ● Mr. Arora's annual total compensation, as reported in the Fiscal 2021 Summary Compensation Table included in"
+   }
+  },
+  "0001193125-20-272883": {
+   "parserVersion": 1,
+   "filingDate": "2020-10-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000119312520272883/d51596ddef14a.htm",
+   "periodEnd": "2020-07-31",
+   "tenK": "0001327567-20-000032",
+   "result": {
+    "ceoPay": 2206785,
+    "medianPay": 229812,
+    "payRatio": 10,
+    "method": "cross-checked",
+    "employees": 7903,
+    "statedYear": 2020,
+    "excerpt": "the annual total compensation of our median employee. For our last completed fiscal year, which ended July 31, 2020: | | |  | | | | The median of the annual total compensation of all employees (other than Mr. Arora) of our company and our consolidated subsidiaries in fiscal 2020 was approximately $229,812. This annual total compensation was | 66 Table of Contents | | | calculated in accordance with Item 402(c)(2)(x) of Regulation S-K, and reflects, among other things, salary, all bonuses earned, commissions, other cash payments, PTO payouts, allowance, employer benefit and 401(k) contribution matches, ESPP purchase gain, and the aggregate grant date fair value of equity awards granted during fiscal 2020. | | | |  | | | | Mr. Aroras annual total compensation, as reported in the Fiscal"
+   }
+  },
+  "0001193125-19-271674": {
+   "parserVersion": 1,
+   "filingDate": "2019-10-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000119312519271674/d796547ddef14a.htm",
+   "periodEnd": "2019-07-31",
+   "tenK": "0001327567-19-000032",
+   "result": {
+    "ceoPay": 23885839,
+    "medianPay": 219722,
+    "payRatio": 109,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ould significantly change our CEO pay ratio results. For our last completed fiscal year, which ended July 31, 2019: | | |  | | | | The median of the annual total compensation of all of our employees (other than Mr. Arora and including our consolidated subsidiaries) in fiscal 2019 was approximately $219,722. This annual total | 52 Table of Contents | | | compensation was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K, and reflects, among other things, salary, all bonuses earned, commissions, other cash payments, PTO payouts, allowance, employer benefit and 401(k) contribution matches, ESPP purchase gain, and the aggregate grant date fair value of RSU awards granted during the 12- month period ended July 31, 2019. | | | |  | | | | Mr. Aroras annual total compensation,"
+   }
+  },
+  "0001193125-18-304252": {
+   "parserVersion": 1,
+   "filingDate": "2018-10-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1327567/000119312518304252/d621751ddef14a.htm",
+   "periodEnd": "2018-07-31",
+   "tenK": "0001327567-18-000024",
+   "result": {
+    "ceoPay": 14356271,
+    "medianPay": 223885,
+    "payRatio": 64,
+    "method": "cross-checked",
+    "employees": 5139,
+    "statedYear": 2018,
+    "excerpt": "O which are not representative of our typical CEO pay practices. For our last completed fiscal year, which ended July 31, 2018: | | |  | | | | The median of the annual total compensation of all employees (other than Mr. McLaughlin) of ours (including our consolidated subsidiaries was approximately $223,885. This annual total compensation is calculated in accordance with Item 402(c)(2)(x) of Regulation S-K, and reflects, among other things, salary, all bonuses earned, commissions, other cash payments, PTO payouts, allowance, employer benefit and 401(k) contribution matches, ESPP purchase gain, and the aggregate grant date fair value of RSU awards granted during the 12- month period ended July 31, 2018. | | | |  | | | | Mr. McLaughlins annual total compensation, as reported in the 2018"
+   }
+  }
+ },
+ "tenKs": {
+  "0001327567-19-000032": {
+   "parserVersion": 1,
+   "employees": 7014
+  },
+  "0001327567-21-000029": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001327567-22-000028": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001327567-24-000029": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001327567-25-000027": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001327567-26-000023": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2011": {
+    "revenue": 118597000,
+    "periodEnd": "2011-07-31",
+    "revenueTag": "Revenues",
+    "accession": "0001327567-13-000026"
+   },
+   "2012": {
+    "revenue": 255138000,
+    "periodEnd": "2012-07-31",
+    "revenueTag": "Revenues",
+    "accession": "0001327567-14-000028"
+   },
+   "2013": {
+    "revenue": 396107000,
+    "periodEnd": "2013-07-31",
+    "revenueTag": "Revenues",
+    "accession": "0001327567-15-000027"
+   },
+   "2014": {
+    "revenue": 598200000,
+    "periodEnd": "2014-07-31",
+    "revenueTag": "Revenues",
+    "accession": "0001327567-16-000064"
+   },
+   "2015": {
+    "revenue": 928100000,
+    "periodEnd": "2015-07-31",
+    "revenueTag": "Revenues",
+    "accession": "0001327567-17-000027"
+   },
+   "2016": {
+    "revenue": 1378500000,
+    "periodEnd": "2016-07-31",
+    "revenueTag": "Revenues",
+    "accession": "0001327567-18-000024"
+   },
+   "2017": {
+    "revenue": 1761600000,
+    "periodEnd": "2017-07-31",
+    "revenueTag": "Revenues",
+    "accession": "0001327567-18-000024"
+   },
+   "2018": {
+    "revenue": 2273600000,
+    "periodEnd": "2018-07-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001327567-20-000032"
+   },
+   "2019": {
+    "revenue": 2899600000,
+    "periodEnd": "2019-07-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001327567-21-000029"
+   },
+   "2020": {
+    "revenue": 3408400000,
+    "periodEnd": "2020-07-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001327567-22-000028"
+   },
+   "2021": {
+    "revenue": 4256100000,
+    "periodEnd": "2021-07-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001327567-23-000024"
+   },
+   "2022": {
+    "revenue": 5501500000,
+    "periodEnd": "2022-07-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001327567-24-000029"
+   },
+   "2023": {
+    "revenue": 6892700000,
+    "periodEnd": "2023-07-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001327567-25-000027"
+   },
+   "2024": {
+    "revenue": 8027000000,
+    "periodEnd": "2024-07-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001327567-26-000023"
+   },
+   "2025": {
+    "revenue": 9221000000,
+    "periodEnd": "2025-07-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001327567-26-000023"
+   },
+   "2026": {
+    "revenue": 11480000000,
+    "periodEnd": "2026-07-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001327567-26-000023"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 10410477,
+   "2023": 151425203,
+   "2024": 58036875,
+   "2025": 99736336,
+   "2026": 80270519
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001327567-26-000023",
+    "filingDate": "2026-09-10",
+    "reportDate": "2026-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000023/panw-20260731.htm"
+   },
+   {
+    "accession": "0001327567-25-000027",
+    "filingDate": "2025-08-29",
+    "reportDate": "2025-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756725000027/panw-20250731.htm"
+   },
+   {
+    "accession": "0001327567-24-000029",
+    "filingDate": "2024-09-06",
+    "reportDate": "2024-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756724000029/panw-20240731.htm"
+   },
+   {
+    "accession": "0001327567-23-000024",
+    "filingDate": "2023-09-01",
+    "reportDate": "2023-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756723000024/panw-20230731.htm"
+   },
+   {
+    "accession": "0001327567-22-000028",
+    "filingDate": "2022-09-06",
+    "reportDate": "2022-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756722000028/panw-20220731.htm"
+   },
+   {
+    "accession": "0001327567-21-000029",
+    "filingDate": "2021-09-03",
+    "reportDate": "2021-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756721000029/panw-20210731.htm"
+   },
+   {
+    "accession": "0001327567-20-000032",
+    "filingDate": "2020-09-04",
+    "reportDate": "2020-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756720000032/panw-20200731.htm"
+   },
+   {
+    "accession": "0001327567-19-000032",
+    "filingDate": "2019-09-09",
+    "reportDate": "2019-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756719000032/panw-7312019x10k.htm"
+   },
+   {
+    "accession": "0001327567-18-000024",
+    "filingDate": "2018-09-13",
+    "reportDate": "2018-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756718000024/panw-7312018x10k.htm"
+   },
+   {
+    "accession": "0001327567-17-000027",
+    "filingDate": "2017-09-07",
+    "reportDate": "2017-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756717000027/panw-7312017x10k.htm"
+   }
+  ]
+ }
+}

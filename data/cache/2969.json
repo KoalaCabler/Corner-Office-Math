@@ -1,0 +1,324 @@
+{
+ "proxies": {
+  "0001308179-25-000643": {
+   "parserVersion": 1,
+   "filingDate": "2025-12-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/2969/000130817925000643/apd-20251210.htm",
+   "periodEnd": "2025-09-30",
+   "tenK": "0000002969-25-000055",
+   "result": {
+    "ceoPay": 12268441,
+    "medianPay": 71545,
+    "payRatio": 171,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "sed the same median employee identified with respect to our 2024 CEO pay ratio, as there has been no meaningful change in the composition of our employee population or pay design that we believe would significantly impact the pay ratio disclosure. • The median employee annual total compensation was $71,545. • The annual total compensation of our CEO, as reported in the Summary Compensation Table of this proxy statement was $11,809,287. To calculate his compensation for purposes of the CEO pay ratio calculation, Mr. Menezes' reported salary and equity grant at hire were annualized, resulting in a total compensation level of $12,268,441. • Based on this information, the estimated ratio of annual total compensation of Mr. Menezes, our CEO, to the annual total compensation of our median employ"
+   }
+  },
+  "0001308179-23-001066": {
+   "parserVersion": 1,
+   "filingDate": "2023-12-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/2969/000130817923001066/apd4236421-def14a.htm",
+   "periodEnd": "2023-09-30",
+   "tenK": "0000002969-23-000047",
+   "result": {
+    "ceoPay": 22078099,
+    "medianPay": 66355,
+    "payRatio": 333,
+    "method": "cross-checked",
+    "employees": 23000,
+    "statedYear": 2015,
+    "excerpt": "f our CEO, Seifi Ghasemi, as of our fiscal year-end, September 30, 2023. The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules, using methodologies, reasonable assumptions and adjustments as described below. | ● | | The median employee annual total compensation was $66,355. | | ● | | The annual total compensation of our CEO, as reported in the Summary Compensation Table of this proxy statement was $22,078,099. | | ● | | Based on this information, the estimated ratio of annual total compensation of Mr. Ghasemi, our CEO, to the annual total compensation of our median employee was 333 to 1. | Our total employee population as of September 30, 2023 consisted of approximately 23,000 employees, including 6,000 U.S. employees and 17,000 non-U.S. employees. We empl"
+   }
+  },
+  "0001308179-22-000394": {
+   "parserVersion": 1,
+   "filingDate": "2022-12-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/2969/000130817922000394/apd4098671-def14a.htm",
+   "periodEnd": "2022-09-30",
+   "tenK": "0000002969-22-000054",
+   "result": {
+    "ceoPay": 18483105,
+    "medianPay": 66930,
+    "payRatio": 276,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "same median employee identified with respect to our 2021 CEO pay ratio, as there has been no meaningful change in the composition of our employee population or pay design that we believe would significantly impact the pay ratio disclosure. | | ● | | The median employee annual total compensation was $66,930. | | ● | | The annual total compensation of our CEO, as reported in the Summary Compensation Table on page 42, was $18,483,105. | | ● | | Based on this information, the estimated ratio of annual total compensation of our CEO to the annual total compensation of our median employee in fiscal 2022 was 276 to 1. | As previously disclosed, to identify the median employee from our employee population we used annual base salary as our consistently applied compensation measure. For hourly employ"
+   }
+  },
+  "0001206774-21-002864": {
+   "parserVersion": 1,
+   "filingDate": "2021-12-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/2969/000120677421002864/apd3914311-def14a.htm",
+   "periodEnd": "2021-09-30",
+   "tenK": "0000002969-21-000055",
+   "result": {
+    "ceoPay": 13819010,
+    "medianPay": 68613,
+    "payRatio": 201,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "same median employee identified with respect to our 2020 CEO pay ratio, as there has been no meaningful change in the composition of our employee population or pay design that we believe would significantly impact the pay ratio disclosure. | | ● | | The median employee annual total compensation was $68,613. | | ● | | The annual total compensation of our CEO, as reported in the Summary Compensation Table of this proxy statement, was $13,819,010. | | ● | | Based on this information, the estimated ratio of annual total compensation of our CEO to the annual total compensation of our median employee in fiscal 2021 was 201 to 1. | As previously disclosed, to identify the median employee from our employee population we used annual base salary as our consistently applied compensation measure. For"
+   }
+  },
+  "0001206774-20-003150": {
+   "parserVersion": 1,
+   "filingDate": "2020-12-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/2969/000120677420003150/apd3799511-def14a.htm",
+   "periodEnd": "2020-09-30",
+   "tenK": "0000002969-20-000049",
+   "result": {
+    "ceoPay": 15597376,
+    "medianPay": 51018,
+    "payRatio": 306,
+    "method": "cross-checked",
+    "employees": 19200,
+    "statedYear": 2015,
+    "excerpt": "f our CEO, Seifi Ghasemi, as of our fiscal year-end, September 30, 2020. The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules, using methodologies, reasonable assumptions and adjustments as described below. | ● | | The median employee annual total compensation was $51,018. | | ● | | The annual total compensation of our CEO, as reported in the Summary Compensation Table of this proxy statement, was $15,597,376. | | ● | | Based on this information, the estimated ratio of annual total compensation of our CEO to the annual total compensation of our median employee was 306 to 1. | | ● | | Our total employee population as of fiscal year-end consisted of approximately 19,200 employees, including 5,100 U.S. employees and 14,100 non-U.S. employees. We employed the"
+   }
+  },
+  "0001206774-19-003839": {
+   "parserVersion": 1,
+   "filingDate": "2019-12-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/2969/000120677419003839/apd3555111-def14a.htm",
+   "periodEnd": "2019-09-30",
+   "tenK": "0000002969-19-000051",
+   "result": {
+    "ceoPay": 17031957,
+    "medianPay": 61035,
+    "payRatio": 279,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "same median employee identified with respect to our 2018 CEO pay ratio, as there has been no meaningful change in the composition of our employee population or pay design that we believe would significantly impact the pay ratio disclosure. | | ● | | The median employee annual total compensation was $61,035. | | ● | | The annual total compensation of our CEO, as reported in the Summary Compensation Table of this Proxy Statement was $17,031,957. | | ● | | Based on this information, the estimated ratio of annual total compensation of Mr. Ghasemi, our CEO, to the annual total compensation of our median employee was 279 to 1. | | ● | | Under SEC's rules and guidance, companies are allowed to adopt numerous ways to identify the median employee. In addition, other companies have different employe"
+   }
+  },
+  "0001206774-18-003394": {
+   "parserVersion": 1,
+   "filingDate": "2018-12-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/2969/000120677418003394/apd3512211-def14a.htm",
+   "periodEnd": "2018-09-30",
+   "tenK": "0000002969-18-000044",
+   "result": {
+    "ceoPay": 13941507,
+    "medianPay": 50802,
+    "payRatio": 274,
+    "method": "cross-checked",
+    "employees": 16300,
+    "statedYear": 2018,
+    "excerpt": "of our CEO, Seifi Ghasemi as of our fiscal year-end, September 30, 2018. The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules, using methodologies, reasonable assumptions and adjustments as described below. | ● | | The median employee annual total compensation was $50,802. | | ● | | The annual total compensation of our CEO, as reported in the Summary Compensation Table of this Proxy Statement was $13,941,507. | | ● | | Based on this information, the estimated ratio of annual total compensation of Mr. Ghasemi, our CEO, to the annual total compensation of our median employee was 274 to 1. | | ● | | Our total employee population as of fiscal year-end consisted of approximately 16,300 employees, including 4,500 US employees and 11,800 non-US employees. We emp"
+   }
+  }
+ },
+ "tenKs": {
+  "0000002969-19-000051": {
+   "parserVersion": 1,
+   "employees": 17700
+  },
+  "0000002969-21-000055": {
+   "parserVersion": 1,
+   "employees": 20875
+  },
+  "0000002969-22-000054": {
+   "parserVersion": 1,
+   "employees": 21900
+  },
+  "0000002969-25-000055": {
+   "parserVersion": 1,
+   "employees": 21300
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 9148200000,
+    "periodEnd": "2007-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-09-066095"
+   },
+   "2008": {
+    "revenue": 10414500000,
+    "periodEnd": "2008-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-266784"
+   },
+   "2009": {
+    "revenue": 8256200000,
+    "periodEnd": "2009-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-319887"
+   },
+   "2010": {
+    "revenue": 8616100000,
+    "periodEnd": "2010-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-476878"
+   },
+   "2011": {
+    "revenue": 9673700000,
+    "periodEnd": "2011-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-453925"
+   },
+   "2012": {
+    "revenue": 9611700000,
+    "periodEnd": "2012-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-423115"
+   },
+   "2013": {
+    "revenue": 10180400000,
+    "periodEnd": "2013-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-15-386399"
+   },
+   "2014": {
+    "revenue": 10439000000,
+    "periodEnd": "2014-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-16-773346"
+   },
+   "2015": {
+    "revenue": 7824300000,
+    "periodEnd": "2015-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000002969-17-000039"
+   },
+   "2016": {
+    "revenue": 7503700000,
+    "periodEnd": "2016-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000002969-18-000044"
+   },
+   "2017": {
+    "revenue": 8187600000,
+    "periodEnd": "2017-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000002969-19-000051"
+   },
+   "2018": {
+    "revenue": 8930200000,
+    "periodEnd": "2018-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000002969-20-000049"
+   },
+   "2019": {
+    "revenue": 8918900000,
+    "periodEnd": "2019-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000002969-21-000055"
+   },
+   "2020": {
+    "revenue": 8856300000,
+    "periodEnd": "2020-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000002969-22-000054"
+   },
+   "2021": {
+    "revenue": 10323000000,
+    "periodEnd": "2021-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000002969-23-000047"
+   },
+   "2022": {
+    "revenue": 12698600000,
+    "periodEnd": "2022-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000002969-24-000056"
+   },
+   "2023": {
+    "revenue": 12600000000,
+    "periodEnd": "2023-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000002969-25-000055"
+   },
+   "2024": {
+    "revenue": 12100600000,
+    "periodEnd": "2024-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000002969-26-000050"
+   },
+   "2025": {
+    "revenue": 12037300000,
+    "periodEnd": "2025-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000002969-26-000050"
+   },
+   "2026": {
+    "revenue": 12990900000,
+    "periodEnd": "2026-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000002969-26-000050"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000002969-26-000050",
+    "filingDate": "2026-11-19",
+    "reportDate": "2026-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/2969/000000296926000050/apd-20260930.htm"
+   },
+   {
+    "accession": "0000002969-25-000055",
+    "filingDate": "2025-11-20",
+    "reportDate": "2025-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/2969/000000296925000055/apd-20250930.htm"
+   },
+   {
+    "accession": "0000002969-24-000056",
+    "filingDate": "2024-11-21",
+    "reportDate": "2024-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/2969/000000296924000056/apd-20240930.htm"
+   },
+   {
+    "accession": "0000002969-23-000047",
+    "filingDate": "2023-11-16",
+    "reportDate": "2023-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/2969/000000296923000047/apd-20230930.htm"
+   },
+   {
+    "accession": "0000002969-22-000054",
+    "filingDate": "2022-11-22",
+    "reportDate": "2022-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/2969/000000296922000054/apd-20220930.htm"
+   },
+   {
+    "accession": "0000002969-21-000055",
+    "filingDate": "2021-11-18",
+    "reportDate": "2021-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/2969/000000296921000055/apd-20210930.htm"
+   },
+   {
+    "accession": "0000002969-20-000049",
+    "filingDate": "2020-11-19",
+    "reportDate": "2020-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/2969/000000296920000049/apd-20200930.htm"
+   },
+   {
+    "accession": "0000002969-19-000051",
+    "filingDate": "2019-11-26",
+    "reportDate": "2019-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/2969/000000296919000051/apd-10xkx30sep19.htm"
+   },
+   {
+    "accession": "0000002969-18-000044",
+    "filingDate": "2018-11-20",
+    "reportDate": "2018-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/2969/000000296918000044/apd-10xkx30sep2018.htm"
+   },
+   {
+    "accession": "0000002969-17-000039",
+    "filingDate": "2017-11-16",
+    "reportDate": "2017-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/2969/000000296917000039/apd-10xkx30sep2017.htm"
+   }
+  ]
+ }
+}

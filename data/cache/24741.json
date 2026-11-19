@@ -1,0 +1,350 @@
+{
+ "proxies": {
+  "0001206774-26-000148": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677426000148/glw4500541-def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000024741-26-000124",
+   "result": {
+    "ceoPay": 25756121,
+    "medianPay": 57059,
+    "payRatio": 451,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "is data that Corning does not maintain in its normal course of business. See footnote (4) to the \"Termination Scenarios\" on page 88. | 90 | | CORNING 2026 PROXY STATEMENT | Table of Contents Pay Ratio Disclosure For 2025, the annual total compensation of the median employee, excluding our CEO, was $57,059 and the annual total compensation of our CEO was $25,756,121. Accordingly, the ratio of the CEO's annual total compensation to the annual total compensation of the median employee was 451:1. This reflects analysis of our global workforce of employees as of October 1, 2025, which excludes 1 employee in Argentina, 53 employees in Brazil, 182 employees in Hungary, 474 employees in India, 3 employees in Pakistan, 11 employees in the Philippines, 7 employees in the Russian Federation, and 179"
+   }
+  },
+  "0001206774-25-000146": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677425000146/glw4400681_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-005347",
+   "result": {
+    "ceoPay": 21686436,
+    "medianPay": 48747,
+    "payRatio": 445,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "is data that Corning does not maintain in its normal course of business. See footnote (4) to the \"Termination Scenarios\" on page 88. | CORNING 2025 PROXY STATEMENT | | 89 | Table of Contents Pay Ratio Disclosure For 2024, the annual total compensation of the median employee, excluding our CEO, was $48,747 and the annual total compensation of our CEO was $21,686,436. Accordingly, the ratio of the CEO's annual total compensation to the annual total compensation of the median employee was 445:1. This reflects analysis of our global workforce of employees as of October 1, 2024, which excludes 1 employee in Argentina, 46 employees in Brazil, 150 employees in Hungary, 408 employees in India, 3 employees in Pakistan, 12 employees in the Philippines, 7 employees in the Russian Federation, and 178"
+   }
+  },
+  "0001206774-24-000283": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677424000283/glw4258981-def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001437749-24-003735",
+   "result": {
+    "ceoPay": 15627653,
+    "medianPay": 42240,
+    "payRatio": 370,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "is data that Corning does not maintain in its normal course of business. See footnote (4) to the \"Termination Scenarios\" on page 87. | CORNING 2024 PROXY STATEMENT | | 89 | Table of Contents Pay Ratio Disclosure For 2023, the annual total compensation of the median employee, excluding our CEO, was $42,240 and the annual total compensation of our CEO was $15,627,653. Accordingly, the ratio of the CEO's annual total compensation to the annual total compensation of the median employee was 370:1. This reflects analysis of our global workforce of employees as of October 1, 2023, which excludes 1 employee in Argentina, 307 employees in Brazil, 130 employees in Hungary, 406 employees in India, 3 employees in Pakistan, 13 employees in the Philippines, 9 employees in the Russian Federation, and 26"
+   }
+  },
+  "0001206774-23-000387": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677423000387/glw4120101-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001437749-23-003123",
+   "result": {
+    "ceoPay": 16169469,
+    "medianPay": 36485,
+    "payRatio": 443,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "is data that Corning does not maintain in its normal course of business. See footnote (3) to the \"Termination Scenarios\" on page 90. | CORNING 2023 PROXY STATEMENT | | 91 | Table of Contents Pay Ratio Disclosure For 2022, the annual total compensation of the median employee, excluding our CEO, was $36,485 and the annual total compensation of our CEO was $16,169,469. Accordingly, the ratio of the CEO's annual total compensation to the annual total compensation of the median employee was 443:1. This reflects analysis of our global workforce of employees as of October 1, 2022, which excludes 708 employees in Brazil, 396 employees in India, 147 employees in South Africa, and 282 employees in Turkey, which are de minimis relative to the size of our global workforce. We used estimated total cas"
+   }
+  },
+  "0001206774-22-000773": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677422000773/corning3977371-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001437749-22-003247",
+   "result": {
+    "ceoPay": 20766032,
+    "medianPay": 40760,
+    "payRatio": 509,
+    "method": "cross-checked",
+    "employees": 60735,
+    "statedYear": 2021,
+    "excerpt": "and any documented improvements made to the property. This is data that Corning does not maintain in its normal course of business. See footnote (3) to the \"Termination Scenarios\" on page 80. Pay Ratio Disclosure For 2021, the annual total compensation of the median employee, excluding our CEO, was $40,760 and the annual total compensation of our CEO was $20,766,032. Accordingly, the ratio of the CEO's annual total compensation to the annual total compensation of the median employee was 509:1. This reflects analysis of our global workforce of 60,735 employees as of October 1, 2021, which excludes 805 employees in Brazil, 354 employees in India, 148 employees in South Africa, and 247 employees in Turkey, which are de minimis. We used estimated total cash compensation to determine the median"
+   }
+  },
+  "0001206774-21-000742": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677421000742/corning3847741-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001562762-21-000023",
+   "result": {
+    "ceoPay": 18951753,
+    "medianPay": 56791,
+    "payRatio": 334,
+    "method": "cross-checked",
+    "employees": 47804,
+    "statedYear": 2020,
+    "excerpt": "made to the property. This is data that Corning does not maintain in its normal course of business. See footnote (3) to the \"Termination Scenarios\" on page 80. Pay Ratio Disclosure For 2020, our last completed fiscal year, the annual total compensation of the median employee, excluding our CEO, was $56,791 and the annual total compensation of our CEO was $18,951,753. Accordingly, the ratio of the CEO's annual total compensation to the annual total compensation of the median employee was 334:1. This reflects analysis of our global workforce of 47,804 employees as of October 1, 2020, which excludes 686 employees in Brazil, 93 employees in Hungary, 353 employees in India, 2 employees in Indonesia, 3 employees in Pakistan, 157 employees in South Africa, 182 employees in Turkey and 59 employees"
+   }
+  },
+  "0001206774-20-000853": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677420000853/corning3662391-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000024741-20-000014",
+   "result": {
+    "ceoPay": 14283654,
+    "medianPay": 49121,
+    "payRatio": 291,
+    "method": "cross-checked",
+    "employees": 50155,
+    "statedYear": 2019,
+    "excerpt": "made to the property. This is data that Corning does not maintain in its normal course of business. See footnote (3) to the \"Termination Scenarios\" on page 71. Pay Ratio Disclosure For 2019, our last completed fiscal year, the annual total compensation of the median employee, excluding our CEO, was $49,121 and the annual total compensation of our CEO was $14,283,654. Accordingly, the ratio of the CEO's annual total compensation to the annual total compensation of the median employee was 291:1. This reflects analysis of our global workforce of 50,155 employees as of October 1, 2019, which excludes 741 employees in Brazil, 94 employees in Hungary, 349 employees in India, 2 employees in Indonesia, 3 employees in Pakistan, 155 employees in South Africa, 77 employees in Turkey and 60 employees"
+   }
+  },
+  "0001206774-19-000978": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677419000978/corning3492731-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000024741-19-000016",
+   "result": {
+    "ceoPay": 14921071,
+    "medianPay": 52095,
+    "payRatio": 286,
+    "method": "cross-checked",
+    "employees": 50045,
+    "statedYear": 2018,
+    "excerpt": "iness. See footnote (3) to the \"Termination Scenarios\" on page 69. | 70 | | CORNING 2019 PROXY STATEMENT | Table of Contents Compensation Discussion & Analysis Pay Ratio Disclosure For 2018, our last completed fiscal year, the annual total compensation of the median employee, excluding our CEO, was $52,095 and the annual total compensation of our CEO was $14,921,071. Accordingly, the ratio of the CEO's annual total compensation to the annual total compensation of the median employee was 286:1. This reflects analysis of our global workforce of 50,045 employees as of October 1, 2018, which excludes 597 employees in Brazil, 79 employees in Hungary, 334 employees in India, 2 employees in Indonesia, 3 employees in Pakistan, 118 employees in South Africa and 168 employees in Turkey, which are de"
+   }
+  },
+  "0001206774-18-000825": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677418000825/corning3345331-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000024741-18-000010",
+   "result": {
+    "ceoPay": 16868575,
+    "medianPay": 47410,
+    "payRatio": 356,
+    "method": "cross-checked",
+    "employees": 45175,
+    "statedYear": 2017,
+    "excerpt": "course of business. See footnote (3) to the \"Termination Scenarios\" on page 67. | 68 | | CORNING 2018 PROXY STATEMENT | Table of Contents Pay Ratio Disclosure Pay Ratio Disclosure For 2017, our last completed fiscal year, the median annual total compensation of all employees, excluding our CEO, was $47,410 and the annual total compensation of our CEO was $16,868,575. Accordingly, the ratio of the CEOs annual total compensation to the median annual compensation of all employees was 356:1. This reflects analysis of our global workforce of 45,175 employees as of October 1, 2017, which excludes 581 employees in Brazil, 68 employees in Hungary, 326 employees in India, 95 employees in South Africa and 146 employees in Turkey, which are de minimis. We used estimated total cash compensation to de"
+   }
+  }
+ },
+ "tenKs": {
+  "0001437749-23-003123": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001437749-24-003735": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001628280-25-005347": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000024741-26-000124": {
+   "parserVersion": 1,
+   "employees": 13000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 5860000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-10-027165"
+   },
+   "2008": {
+    "revenue": 5948000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-11-030621"
+   },
+   "2009": {
+    "revenue": 5395000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-12-056163"
+   },
+   "2010": {
+    "revenue": 6632000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001308179-13-000024"
+   },
+   "2011": {
+    "revenue": 7890000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001308179-14-000032"
+   },
+   "2012": {
+    "revenue": 8012000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000024741-15-000015"
+   },
+   "2013": {
+    "revenue": 7819000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000024741-16-000077"
+   },
+   "2014": {
+    "revenue": 9715000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000024741-17-000011"
+   },
+   "2015": {
+    "revenue": 9111000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000024741-18-000010"
+   },
+   "2016": {
+    "revenue": 9390000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000024741-19-000016"
+   },
+   "2017": {
+    "revenue": 10116000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000024741-20-000014"
+   },
+   "2018": {
+    "revenue": 11290000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001562762-21-000023"
+   },
+   "2019": {
+    "revenue": 11503000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-22-003247"
+   },
+   "2020": {
+    "revenue": 11303000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-23-003123"
+   },
+   "2021": {
+    "revenue": 14082000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-24-003735"
+   },
+   "2022": {
+    "revenue": 14189000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-25-005347"
+   },
+   "2023": {
+    "revenue": 12588000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000024741-26-000124"
+   },
+   "2024": {
+    "revenue": 13118000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000024741-26-000124"
+   },
+   "2025": {
+    "revenue": 15629000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000024741-26-000124"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000024741-26-000124",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/24741/000002474126000124/glw-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-005347",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/24741/000162828025005347/glw-20241231.htm"
+   },
+   {
+    "accession": "0001437749-24-003735",
+    "filingDate": "2024-02-12",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/24741/000143774924003735/glw20231231_10k.htm"
+   },
+   {
+    "accession": "0001437749-23-003123",
+    "filingDate": "2023-02-13",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/24741/000143774923003123/glw20221231_10k.htm"
+   },
+   {
+    "accession": "0001437749-22-003247",
+    "filingDate": "2022-02-14",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/24741/000143774922003247/glw20211231_10k.htm"
+   },
+   {
+    "accession": "0001562762-21-000023",
+    "filingDate": "2021-02-12",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/24741/000156276221000023/glw-20201231x10k.htm"
+   },
+   {
+    "accession": "0000024741-20-000014",
+    "filingDate": "2020-02-18",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/24741/000002474120000014/glw-20191231x10k.htm"
+   },
+   {
+    "accession": "0000024741-19-000016",
+    "filingDate": "2019-02-12",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/24741/000002474119000016/glw-20181231x10k.htm"
+   },
+   {
+    "accession": "0000024741-18-000010",
+    "filingDate": "2018-02-15",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/24741/000002474118000010/glw-20171231x10k.htm"
+   },
+   {
+    "accession": "0000024741-17-000011",
+    "filingDate": "2017-02-06",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/24741/000002474117000011/q4201610k.htm"
+   }
+  ]
+ }
+}

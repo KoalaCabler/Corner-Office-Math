@@ -1,0 +1,292 @@
+{
+ "proxies": {
+  "0001628280-26-019029": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000162828026019029/vistra-20260318.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001692819-26-000006",
+   "result": {
+    "ceoPay": 15989188,
+    "medianPay": 137164,
+    "payRatio": 117,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "program must be internally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2025, the total compensation of Mr. Burke, our CEO, was $15,989,188 as reported in the \"Total\" column of the Summary Compensation Table. The total compensation of our median employee was $137,164. The ratio of CEO pay to median worker pay for Vistra was 117:1. We calculated the ratio of the pay of our CEO to that of our median employee selected from the median range in a manner consistent with Item 402(u) of Regulation S-K. For purposes of determining the median employee, we identified 2025 base salary, target bonus and target long-term incentive pla"
+   }
+  },
+  "0001193125-25-057930": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312525057930/d880503ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001692819-25-000013",
+   "result": {
+    "ceoPay": 12236044,
+    "medianPay": 132568,
+    "payRatio": 92,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "program must be internally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2024, the total compensation of Mr. Burke, our CEO, was $12,236,044 as reported in the \"Total\" column of the Summary Compensation Table. The total compensation of our median employee was $132,568. The ratio of CEO pay to median worker pay for Vistra was 92:1. We calculated the ratio of the pay of our CEO to that of our median employee in a manner consistent with Item 402(u) of Regulation S-K. For purposes of determining the median employee, we identified 2024 base salary, target bonus and target long-term incentive plan equity awards obtained from in"
+   }
+  },
+  "0001193125-24-086032": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312524086032/d543575ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001692819-24-000012",
+   "result": {
+    "ceoPay": 10453376,
+    "medianPay": 149935,
+    "payRatio": 70,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "program must be internally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2023, the total compensation of Mr. Burke, our CEO, was $10,453,376 as reported in the \"Total\" column of the Summary Compensation Table. The total compensation of our median employee was $149,935. The ratio of CEO pay to median worker pay for Vistra was 70:1. We calculated the ratio of the pay of our CEO to that of our median employee in a manner consistent with Item 402(u) of Regulation S-K. For purposes of determining the median employee, we identified 2023 base salary, target bonus and target long-term incentive plan equity awards obtained from in"
+   }
+  },
+  "0001193125-23-090860": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312523090860/d434929ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001692819-23-000005",
+   "result": {
+    "ceoPay": 9194298,
+    "medianPay": 114549,
+    "payRatio": 80,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "-qualified Deferred Compensation | | | | | | - | | | | | | | | - | | | | | | - | | | | | | | | | | All Other Compensation | | | | | | 30,267 | | | | | | | | 30,267 | | | | | | Not annualized | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Total | | | | | | $8,559,824 | | | | | | | | $9,194,298 | | | | | | - | The total compensation of our median employee was $114,549. The ratio of CEO pay to median worker pay for Vistra was 80:1. We calculated the ratio of the pay of our CEO to that of our median employee in a manner consistent with Item 402(u) of Regulation S-K. For purposes of determining the median employee, we identified 2022 base salary, target bonus and target long-term incentive plan equity awards obtained from internal payroll records for all employees, excluding ou"
+   }
+  },
+  "0001193125-22-095247": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312522095247/d304681ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001692819-22-000005",
+   "result": {
+    "ceoPay": 10075626,
+    "medianPay": 110183,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "m must be internally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2021, the total compensation of Curtis A. Morgan, our CEO was $10,075,626. The total compensation of our median employee was $110,183. The ratio of CEO pay to median worker pay for Vistra was 91:1. We calculated the ratio of the pay of our CEO to that of our median employee in a manner consistent with Item 402(u) of Regulation S-K. For purposes of determining the median employee, we identified 2021 base salary, target bonus and target long-term incentive plan equity awards obtained from internal payroll records for all employees, excluding our CEO, who wer"
+   }
+  },
+  "0001193125-21-100274": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312521100274/d47260ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001692819-21-000004",
+   "result": {
+    "ceoPay": 10875562,
+    "medianPay": 164939,
+    "payRatio": 66,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "m must be internally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2020, the total compensation of Curtis A. Morgan, our CEO was $10,875,562. The total compensation of our median employee was $164,939. The ratio of CEO pay to median worker pay for Vistra was 66:1. We calculated the ratio of the pay of our CEO to that of our median employee in a manner consistent with Item 402(u) of Regulation S-K. For purposes of determining the median employee, we identified 2020 base salary, target bonus and target long-term incentive plan equity awards obtained from internal payroll records for all employees, excluding our CEO, who wer"
+   }
+  },
+  "0001193125-20-091143": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312520091143/d866800ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001692819-20-000005",
+   "result": {
+    "ceoPay": 9692170,
+    "medianPay": 117549,
+    "payRatio": 82,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "rnally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2019, the total compensation of Curtis A. Morgan, our President and CEO was $9,692,170. The total compensation of our median compensated was $117,549. The ratio of CEO pay to median worker pay for Vistra Energy was 82:1. We calculated the ratio of the pay of our CEO to that of our median employee in a manner consistent with Item 402(u) of Regulation S-K. For purposes of determining the median employee, we identified 2019 base salary, target bonus and target long-term incentive plan equity awards obtained from internal payroll records for all employees, excluding our CEO"
+   }
+  },
+  "0001193125-19-119639": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312519119639/d648708ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001692819-19-000005",
+   "result": {
+    "ceoPay": 13399687,
+    "medianPay": 103538,
+    "payRatio": 129,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "rnally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2018, the total compensation of Curtis A. Morgan, our President and CEO was $13,399,687. The total compensation of the median employee was $103,538. The ratio of CEO pay to median worker pay for Vistra Energy was 129:1. This ratio reflects, in part, the effect of the one-time, performance-based Merger Equity Awards granted to Mr. Morgan in 2018 (as described under Special Stock Option Grants (Merger Equity Awards) on page 48), which was a non-recurring award with higher grant values than our typical market-based annual equity grants. Because of the unique and one-time"
+   }
+  },
+  "0001193125-18-105532": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1692819/000119312518105532/d514085ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001692819-18-000018",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001692819-19-000005": {
+   "parserVersion": 1,
+   "employees": 5275
+  },
+  "0001692819-20-000005": {
+   "parserVersion": 1,
+   "employees": 5475
+  },
+  "0001692819-21-000004": {
+   "parserVersion": 1,
+   "employees": 5365
+  },
+  "0001692819-22-000005": {
+   "parserVersion": 1,
+   "employees": 5060
+  },
+  "0001692819-23-000005": {
+   "parserVersion": 1,
+   "employees": 4910
+  },
+  "0001692819-24-000012": {
+   "parserVersion": 1,
+   "employees": 4870
+  },
+  "0001692819-25-000013": {
+   "parserVersion": 1,
+   "employees": 6850
+  },
+  "0001692819-26-000006": {
+   "parserVersion": 1,
+   "employees": 6390
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2017": {
+    "revenue": 5430000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001692819-20-000005"
+   },
+   "2018": {
+    "revenue": 9797000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001692819-21-000004"
+   },
+   "2019": {
+    "revenue": 11809000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001692819-22-000005"
+   },
+   "2020": {
+    "revenue": 11443000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001692819-23-000005"
+   },
+   "2021": {
+    "revenue": 17700000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001692819-24-000012"
+   },
+   "2022": {
+    "revenue": 15631000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001692819-25-000013"
+   },
+   "2023": {
+    "revenue": 14779000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001692819-26-000006"
+   },
+   "2024": {
+    "revenue": 17224000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001692819-26-000006"
+   },
+   "2025": {
+    "revenue": 17738000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001692819-26-000006"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001692819-26-000006",
+    "filingDate": "2026-02-27",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281926000006/vistra-20251231.htm"
+   },
+   {
+    "accession": "0001692819-25-000013",
+    "filingDate": "2025-02-28",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281925000013/vistra-20241231.htm"
+   },
+   {
+    "accession": "0001692819-24-000012",
+    "filingDate": "2024-02-29",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281924000012/vistra-20231231.htm"
+   },
+   {
+    "accession": "0001692819-23-000005",
+    "filingDate": "2023-03-01",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281923000005/vistra-20221231.htm"
+   },
+   {
+    "accession": "0001692819-22-000005",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281922000005/vistra-20211231.htm"
+   },
+   {
+    "accession": "0001692819-21-000004",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281921000004/vistra-20201231.htm"
+   },
+   {
+    "accession": "0001692819-20-000005",
+    "filingDate": "2020-02-28",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281920000005/vistra-20191231.htm"
+   },
+   {
+    "accession": "0001692819-19-000005",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281919000005/vistra-20181231x10k.htm"
+   },
+   {
+    "accession": "0001692819-18-000018",
+    "filingDate": "2018-02-26",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1692819/000169281918000018/vistra-12312017x10k.htm"
+   }
+  ]
+ }
+}

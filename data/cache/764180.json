@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001104659-26-038900": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/764180/000110465926038900/tmb-20260514xdef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000764180-26-000017",
+   "result": {
+    "ceoPay": 24581074,
+    "medianPay": 166721,
+    "payRatio": 147,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "Proposal 1 | | | | Audit Matters | | | | Proposal 2 | | | | Compensation | | | | Proposal 3 | | | | Ownership | | | | Q&A | | | | Exhibit A | CEO Pay Ratio For 2025, our last completed fiscal year: | ■ | | the annualized total compensation, including non-cash benefits, of our CEO (Mr. Gifford) was $24,581,074; | | ■ | | the annual total compensation, including non-cash benefits, of the median Altria employee (excluding our CEO) was $166,721; and | | ■ | | the ratio of our CEO's annual total compensation to that of the median Altria employee was 147 to 1. | To identify the median employee, we used the following methodology: | ■ | | We compiled a list of all employees as of December 31, 2025, which showed 5,882 total employees. | | | ■ | | As permitted by the de minimis exemption under appl"
+   }
+  },
+  "0001558370-25-004359": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/764180/000155837025004359/tmb-20250515xdef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000764180-25-000019",
+   "result": {
+    "ceoPay": 26805168,
+    "medianPay": 158795,
+    "payRatio": 169,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "alified Deferred Compensation\" above. | | | | | | | | | Altria Group, Inc. - Proxy Statement | | 57 | Table of Contents EXECUTIVE COMPENSATION CEO Pay Ratio For 2024, our last completed fiscal year: | ■ | | the annualized total compensation, including non-cash benefits, of our CEO (Mr. Gifford) was $26,805,168; | | ■ | | the annual total compensation, including non-cash benefits, of the median Altria employee (excluding our CEO) was $158,795; and | | ■ | | the ratio of our CEO's annual total compensation to that of the median Altria employee was 169 to 1. | To identify the median employee, we used the following methodology: | ■ | | We compiled a list of all employees as of December 31, 2024, which showed 6,184 total employees. | | | ■ | | As permitted by the de minimis exemption under appl"
+   }
+  },
+  "0001558370-24-004695": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/764180/000155837024004695/tmb-20240516xdef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000764180-24-000018",
+   "result": {
+    "ceoPay": 18547812,
+    "medianPay": 151447,
+    "payRatio": 122,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "d under \"Pension Benefits\" and \"Non-Qualified Deferred Compensation\" above. | 58 | | www.altria.com | Table of Contents EXECUTIVE COMPENSATION CEO Pay Ratio For 2023, our last completed fiscal year: | ■ | | the annualized total compensation, including non-cash benefits, of our CEO (Mr. Gifford) was $18,547,812; | | ■ | | the annual total compensation, including non-cash benefits, of the median Altria employee (excluding our CEO) was $151,447; and | | ■ | | the ratio of our CEO's annual total compensation to that of the median Altria employee was 122 to 1. | To identify the median employee, we used the following methodology: | ■ | | We compiled a list of all employees as of December 31, 2023, which showed 6,428 total employees. | | | ■ | | As permitted by the de minimis exemption under appl"
+   }
+  },
+  "0001308179-23-000575": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/764180/000130817923000575/mo4112081-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000764180-23-000020",
+   "result": {
+    "ceoPay": 16223481,
+    "medianPay": 133782,
+    "payRatio": 121,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "on Benefits\" and \"Non-Qualified Deferred Compensation\" above. Altria Group, Inc. - Proxy Statement 61 Table of Contents EXECUTIVE COMPENSATION CEO Pay Ratio For 2022, our last completed fiscal year: | ■ | | the annualized total compensation, including non-cash benefits, of our CEO (Mr. Gifford) was $16,223,481; | | | | | | | | ■ | | the annual total compensation, including non-cash benefits, of the median Altria employee (excluding our CEO) was $133,782; and | | | | | | | | ■ | | the ratio of our CEO's annual total compensation to that of the median Altria employee was 121 to 1. | | | | | | | | To identify the median employee, we used the following methodology: | | | | | | | | ■ | | We compiled a list of all employees as of December 31, 2022, which showed 6,284 total employees. | | | | | |"
+   }
+  },
+  "0001206774-22-001025": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/764180/000120677422001025/mo3924701-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000764180-22-000019",
+   "result": {
+    "ceoPay": 12651638,
+    "medianPay": 142614,
+    "payRatio": 89,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "described under \"Pension Benefits\" and \"Non-Qualified Deferred Compensation\" above. 60 www.altria.com Table of Contents EXECUTIVE COMPENSATION CEO Pay Ratio For 2021, our last completed fiscal year: | ■ | | the annualized total compensation, including non-cash benefits, of our CEO (Mr. Gifford) was $12,651,638; | | | | | | ■ | | the annual total compensation, including non-cash benefits, of the median Altria employee (excluding our CEO) was $142,614; and | | | | | | ■ | | the ratio of our CEO's annual total compensation to that of the median Altria employee was 89 to 1. | To identify the median employee, we used the following methodology: | ■ | | We compiled a list of all employees as of December 31, 2021, which showed 6,130 total employees. | | | | | | | | | | ■ | | As permitted by the de"
+   }
+  },
+  "0001206774-21-001034": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/764180/000120677421001034/mo3763741-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000764180-21-000037",
+   "result": {
+    "ceoPay": 12262071,
+    "medianPay": 157617,
+    "payRatio": 78,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ayments, see \"CEO Transition\" on page 49. | Altria Group, Inc. - Proxy Statement | | 65 | | | | Table of Contents | | | EXECUTIVE COMPENSATION CEO Pay Ratio For 2020, our last completed fiscal year: | ■ | | the annualized total compensation, including non-cash benefits, of our CEO (Mr. Gifford) was $12,262,071; | | | | | | ■ | | the annual total compensation, including non-cash benefits, of the median Altria employee (excluding our CEO) was $157,617; and | | | | | | ■ | | the ratio of our CEO's annual total compensation to that of the median Altria employee was 78 to 1. | To identify the median employee, we used the following methodology: | ■ | | We compiled a list of all employees as of December 31, 2020, which showed 7,106 total employees. | | | | | | | | ■ | | As permitted by the de min"
+   }
+  },
+  "0001206774-20-001025": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/764180/000120677420001025/mo3601841-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000764180-20-000018",
+   "result": {
+    "ceoPay": 15439987,
+    "medianPay": 142246,
+    "payRatio": 109,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "2019, and Mr. Johnson, who retired effective March 1, 2019. For more information regarding those payments, see \"Executive Transitions\" on page 43. CEO Pay Ratio For 2019, our last completed fiscal year: | ■ | | the annual total compensation, including non-cash benefits, of our CEO (Mr. Willard) was $15,439,987; | | ■ | | the annual total compensation, including non-cash benefits, of the median Altria employee (excluding our CEO) was $142,246; and | | ■ | | the ratio of our CEO's annual total compensation to that of the median Altria employee was 109 to 1. | | 60 | | www.altria.com | Table of Contents EXECUTIVE COMPENSATION To identify the median employee, we used the following methodology: | ■ | | We compiled a list of all employees as of December 31, 2019, which showed 7,337 total employe"
+   }
+  },
+  "0001206774-19-001216": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/764180/000120677419001216/mo3453101-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000764180-19-000023",
+   "result": {
+    "ceoPay": 11746165,
+    "medianPay": 123012,
+    "payRatio": 95,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "e terms of the plan. His prorated target award amount under the LTIP is $937,300 (representing 516 of 1,095 days of the performance period). CEO Pay Ratio For 2018, our last completed fiscal year: | ■ | | the annualized total compensation including non-cash benefits of our new CEO (Mr. Willard) was $11,746,165; | | ■ | | the annual total compensation including non-cash benefits of the median Altria employee (excluding our CEO) was $123,012; and | | ■ | | the ratio of our CEO's annual total compensation to that of the median Altria employee was 95 to 1. | To identify the median employee, we used the following methodology: | ■ | | We compiled a list of all employees as of December 31, 2018, which showed 8,330 total employees. | | ■ | | As permitted by the de minimis exemption under applicabl"
+   }
+  },
+  "0001206774-18-001093": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/764180/000120677418001093/altria3331351-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000764180-18-000028",
+   "result": {
+    "ceoPay": 15719769,
+    "medianPay": 137763,
+    "payRatio": 114,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "g in 2018, the Dodd-Frank Act and related regulations require that we disclose annually a comparison of the annual total compensation of our CEO to that of our median employee. For 2017, our last completed fiscal year: | ● | | the annual total compensation including non-cash benefits of our CEO was $15,719,769; | | ● | | the annual total compensation including non-cash benefits of the median Altria employee (excluding our CEO) was $137,763; and | | ● | | the ratio of our CEO's annual total compensation to that of the median Altria employee was 114 to 1. | To identify the median employee, we used the following methodology: | ● | | We compiled a list of all employees as of December 31, 2017, which showed 8,335 total employees. | | ● | | As permitted by the de minimis exemption under applicab"
+   }
+  }
+ },
+ "tenKs": {
+  "0000764180-18-000028": {
+   "parserVersion": 1,
+   "employees": 8300
+  },
+  "0000764180-19-000023": {
+   "parserVersion": 1,
+   "employees": 8300
+  },
+  "0000764180-20-000018": {
+   "parserVersion": 1,
+   "employees": 7300
+  },
+  "0000764180-21-000037": {
+   "parserVersion": 1,
+   "employees": 7100
+  },
+  "0000764180-22-000019": {
+   "parserVersion": 1,
+   "employees": 6000
+  },
+  "0000764180-23-000020": {
+   "parserVersion": 1,
+   "employees": 6300
+  },
+  "0000764180-24-000018": {
+   "parserVersion": 1,
+   "employees": 6400
+  },
+  "0000764180-25-000019": {
+   "parserVersion": 1,
+   "employees": 6200
+  },
+  "0000764180-26-000017": {
+   "parserVersion": 1,
+   "employees": 5900
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 18664000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-039027"
+   },
+   "2008": {
+    "revenue": 19356000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-045778"
+   },
+   "2009": {
+    "revenue": 23556000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-064660"
+   },
+   "2010": {
+    "revenue": 24363000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000764180-13-000024"
+   },
+   "2011": {
+    "revenue": 23800000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000764180-14-000025"
+   },
+   "2012": {
+    "revenue": 24618000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000764180-15-000022"
+   },
+   "2013": {
+    "revenue": 24466000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000764180-16-000128"
+   },
+   "2014": {
+    "revenue": 24522000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000764180-17-000028"
+   },
+   "2015": {
+    "revenue": 25434000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000764180-18-000028"
+   },
+   "2016": {
+    "revenue": 25744000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000764180-19-000023"
+   },
+   "2017": {
+    "revenue": 25576000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000764180-20-000018"
+   },
+   "2018": {
+    "revenue": 25364000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000764180-21-000037"
+   },
+   "2019": {
+    "revenue": 25110000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000764180-22-000019"
+   },
+   "2020": {
+    "revenue": 26153000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000764180-23-000020"
+   },
+   "2021": {
+    "revenue": 26013000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000764180-24-000018"
+   },
+   "2022": {
+    "revenue": 25096000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000764180-25-000019"
+   },
+   "2023": {
+    "revenue": 24483000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000764180-26-000017"
+   },
+   "2024": {
+    "revenue": 24018000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000764180-26-000017"
+   },
+   "2025": {
+    "revenue": 23279000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000764180-26-000017"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000764180-26-000017",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418026000017/mo-20251231.htm"
+   },
+   {
+    "accession": "0000764180-25-000019",
+    "filingDate": "2025-02-26",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418025000019/mo-20241231.htm"
+   },
+   {
+    "accession": "0000764180-24-000018",
+    "filingDate": "2024-02-27",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418024000018/mo-20231231.htm"
+   },
+   {
+    "accession": "0000764180-23-000020",
+    "filingDate": "2023-02-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418023000020/mo-20221231.htm"
+   },
+   {
+    "accession": "0000764180-22-000019",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418022000019/mo-20211231.htm"
+   },
+   {
+    "accession": "0000764180-21-000037",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418021000037/mo-20201231.htm"
+   },
+   {
+    "accession": "0000764180-20-000018",
+    "filingDate": "2020-02-25",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418020000018/a2019form10-kq4.htm"
+   },
+   {
+    "accession": "0000764180-19-000023",
+    "filingDate": "2019-02-26",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418019000023/a2018form10-kq4.htm"
+   },
+   {
+    "accession": "0000764180-18-000028",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418018000028/a2017form10-kq4.htm"
+   },
+   {
+    "accession": "0000764180-17-000028",
+    "filingDate": "2017-02-27",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764180/000076418017000028/a2016form10-k.htm"
+   }
+  ]
+ }
+}

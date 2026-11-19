@@ -1,0 +1,164 @@
+{
+ "proxies": {
+  "0001140361-26-007164": {
+   "parserVersion": 1,
+   "filingDate": "2026-02-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1404912/000114036126007164/ny20061501x2_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001404912-26-000007",
+   "result": null
+  },
+  "0001140361-18-045204": {
+   "parserVersion": 1,
+   "filingDate": "2018-12-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1404912/000114036118045204/s002556x4_def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001404912-18-000005",
+   "result": {
+    "ceoPay": 113711704,
+    "medianPay": 265000,
+    "payRatio": 429,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ecome immediately vested upon death or permanent disability. Pay Ratio Disclosure For the fiscal year ended December 31, 2017: | | | • | | the median of the annual total compensation of all employees of our company (other than Messrs. Kravis and Roberts, who are our Co-Chief Executive Officers) was $265,000; | | | | • | | the annual total compensation of Messrs. Kravis and Roberts were $113,434,271 and $113,711,704, respectively; and | | | | • | | the ratio of the annual total compensation of our Co-Chief Executive Officers to the median of the annual total compensation of all other employees was 429 to 1 (which includes the special allocation of KKR Holdings units to each of our Co-Chief Executive Officers in 2017, as described in -Compensation Elements-Year-end Bonus Compensation). | T"
+   }
+  }
+ },
+ "tenKs": {
+  "0001404912-18-000005": {
+   "parserVersion": 1,
+   "employees": 1184
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2016": {
+    "revenue": 2040018000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001404912-19-000006"
+   },
+   "2017": {
+    "revenue": 3557280000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001404912-20-000006"
+   },
+   "2018": {
+    "revenue": 2395836000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001404912-21-000008"
+   },
+   "2019": {
+    "revenue": 4220900000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001404912-22-000004"
+   },
+   "2020": {
+    "revenue": 4230891000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001404912-23-000005"
+   },
+   "2021": {
+    "revenue": 16226040000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001404912-24-000005"
+   },
+   "2022": {
+    "revenue": 5704180000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001404912-25-000015"
+   },
+   "2023": {
+    "revenue": 14499312000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001404912-26-000007"
+   },
+   "2024": {
+    "revenue": 21878698000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001404912-26-000007"
+   },
+   "2025": {
+    "revenue": 19464307000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001404912-26-000007"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001404912-26-000007",
+    "filingDate": "2026-02-27",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491226000007/kkr-20251231.htm"
+   },
+   {
+    "accession": "0001404912-25-000015",
+    "filingDate": "2025-02-28",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491225000015/kkr-20241231.htm"
+   },
+   {
+    "accession": "0001404912-24-000005",
+    "filingDate": "2024-02-29",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491224000005/kkr-20231231.htm"
+   },
+   {
+    "accession": "0001404912-23-000005",
+    "filingDate": "2023-02-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491223000005/kkr-20221231.htm"
+   },
+   {
+    "accession": "0001404912-22-000004",
+    "filingDate": "2022-02-28",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491222000004/kkr-20211231.htm"
+   },
+   {
+    "accession": "0001404912-21-000008",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491221000008/kkr-20201231.htm"
+   },
+   {
+    "accession": "0001404912-20-000006",
+    "filingDate": "2020-02-18",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491220000006/kkr-2019123110xk.htm"
+   },
+   {
+    "accession": "0001404912-19-000006",
+    "filingDate": "2019-02-15",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491219000006/kkr-2018123110xk.htm"
+   },
+   {
+    "accession": "0001404912-18-000005",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491218000005/kkr-2017123110xk.htm"
+   },
+   {
+    "accession": "0001404912-17-000005",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404912/000140491217000005/kkr-2016123110xk.htm"
+   }
+  ]
+ }
+}

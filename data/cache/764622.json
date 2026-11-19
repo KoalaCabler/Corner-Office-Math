@@ -1,0 +1,327 @@
+{
+ "proxies": {
+  "0001628280-26-023516": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/764622/000162828026023516/pnw-20260403.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000764622-26-000011",
+   "result": {
+    "ceoPay": 7600209,
+    "medianPay": 182127,
+    "payRatio": 42,
+    "method": "cross-checked",
+    "employees": 6133,
+    "statedYear": 2025,
+    "excerpt": "l compensation to the combined prorated total annual compensation of Mr. Guldner, our former CEO and Mr. Geisler, our current CEO, who each served as our CEO during 2025, non-concurrently. For 2025, the median of the annual total compensation of all employees of our Company (other than our CEO) was $182,127, and the combined prorated total annual compensation of our former CEO and current CEO, calculated based on the amounts reported in the Summary Compensation Table in this Proxy Statement, was $7,600,209. Based on this information and using the required calculation methodology defined in Item 402(u) of Regulation S-K, for 2025, the ratio of the annual total compensation of our CEO to our median employee's annual total compensation was 42 to 1. As permitted by Item 402(u) of Regulation S-"
+   }
+  },
+  "0000764622-25-000035": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462225000035/pnw-20250401.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000764622-25-000023",
+   "result": {
+    "ceoPay": 10974308,
+    "medianPay": 168002,
+    "payRatio": 65,
+    "method": "cross-checked",
+    "employees": 6399,
+    "statedYear": 2024,
+    "excerpt": "of Regulation S-K, we are providing the annual disclosure of the ratio of the median employee's annual total compensation to the total annual compensation of Mr. Guldner, our current CEO. For 2024, the median of the annual total compensation of all employees of our Company (other than our CEO) was $168,002, and the total annual compensation of our current CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $10,974,308. Based on this information and using the required calculation methodology defined in Item 402(u) of Regulation S-K, for 2024, the ratio of the annual total compensation of our CEO to our median employee's annual total compensation was 65 to 1. To identify the median employee compensation from our employee population, as well as to determine the an"
+   }
+  },
+  "0000764622-24-000033": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462224000033/pnw-20240404.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000764622-24-000016",
+   "result": {
+    "ceoPay": 9322192,
+    "medianPay": 153935,
+    "payRatio": 61,
+    "method": "cross-checked",
+    "employees": 6133,
+    "statedYear": 2023,
+    "excerpt": "of Regulation S-K, we are providing the annual disclosure of the ratio of the median employee's annual total compensation to the total annual compensation of Mr. Guldner, our current CEO. For 2023, the median of the annual total compensation of all employees of our Company (other than our CEO) was $153,935, and the total annual compensation of our current CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $9,322,192. Based on this information and using the required calculation methodology defined in Item 402(u) of Regulation S-K, for 2023, the ratio of the annual total compensation of our CEO to our median employee's annual total compensation was 61 to 1. To identify the median employee compensation from our employee population, as well as to determine the ann"
+   }
+  },
+  "0001308179-23-000547": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/764622/000130817923000547/lpnw2023_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000764622-23-000023",
+   "result": {
+    "ceoPay": 8358317,
+    "medianPay": 147857,
+    "payRatio": 57,
+    "method": "cross-checked",
+    "employees": 5872,
+    "statedYear": 2022,
+    "excerpt": "of Regulation S-K, we are providing the annual disclosure of the ratio of the median employee's annual total compensation to the total annual compensation of Mr. Guldner, our current CEO. For 2022, the median of the annual total compensation of all employees of our Company (other than our CEO) was $147,857, and the total annual compensation of our current CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $8,358,317. Based on this information and using the required calculation methodology defined in Item 402(u) of Regulation S-K, for 2022, the ratio of the annual total compensation of our CEO to our median employee's annual total compensation was 57 to 1. As permitted by Item 402(u) of Regulation S-K, for fiscal year 2022 we used the same median employee for t"
+   }
+  },
+  "0001206774-22-000999": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/764622/000120677422000999/pnw3986631-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000764622-22-000014",
+   "result": {
+    "ceoPay": 8100157,
+    "medianPay": 136805,
+    "payRatio": 59,
+    "method": "cross-checked",
+    "employees": 5872,
+    "statedYear": 2021,
+    "excerpt": ") of Regulation S-K, we are providing the annual disclosure of the ratio of the median employee's annual total compensation to the total annual compensation of Mr. Guldner, our current CEO. For 2021 the median of the annual total compensation of all employees of our Company (other than our CEO) was $136,805, and the total annual compensation of our current CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $8,100,157. Based on this information and using the required calculation methodology defined in Item 402(u) of Regulation S-K, for 2021, the ratio of the annual total compensation of our CEO to our median employee's annual total compensation was 59 to 1. As permitted by Item 402(u) of Regulation S-K, for fiscal year 2021 we used the same median employee for t"
+   }
+  },
+  "0001206774-21-000951": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/764622/000120677421000951/pnw3796881-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000764622-21-000013",
+   "result": {
+    "ceoPay": 6849455,
+    "medianPay": 144397,
+    "payRatio": 47,
+    "method": "cross-checked",
+    "employees": 6018,
+    "statedYear": 2020,
+    "excerpt": ") of Regulation S-K, we are providing the annual disclosure of the ratio of the median employee's annual total compensation to the total annual compensation of Mr. Guldner, our current CEO. For 2020 the median of the annual total compensation of all employees of our Company (other than our CEO) was $144,397 and the total annual compensation of our current CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $6,849,455. Based on this information and using the required calculation methodology defined in Item 402(u) of Regulation S-K, for 2020, the ratio of the annual total compensation of our CEO to our median employee's annual total compensation was 47 to 1. To identify the median employee compensation from our employee population, as well as to determine the annu"
+   }
+  },
+  "0001206774-20-001080": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/764622/000120677420001080/pnw3649311-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000764622-20-000017",
+   "result": {
+    "ceoPay": 11882550,
+    "medianPay": 132212,
+    "payRatio": 90,
+    "method": "cross-checked",
+    "employees": 6303,
+    "statedYear": 2019,
+    "excerpt": "e annual disclosure of the ratio of the median employee's annual total compensation to the prorated total annual compensation of Mr. Brandt, our former CEO and Mr. Guldner, our current CEO. For 2019 the median of the annual total compensation of all employees of our Company (other than our CEO) was $132,212 and the prorated total annual compensation of our former CEO and current CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $11,882,550. Based on this information and using the required calculation methodology defined in Item 402(u) of Regulation S-K, for 2019, the ratio of the annual total compensation of our CEO to our median employee's annual total compensation was 90 to 1. As permitted by Item 402(u) of Regulation S-K, for fiscal year 2019 we used the sa"
+   }
+  },
+  "0001206774-19-001108": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/764622/000120677419001108/pnw3494631-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000764622-19-000019",
+   "result": {
+    "ceoPay": 12145522,
+    "medianPay": 133779,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": 6247,
+    "statedYear": 2018,
+    "excerpt": "tem 402(u) of Regulation S-K, we are providing the annual disclosure of the ratio of the median employee's annual total compensation to the total annual compensation of Mr. Brandt, our CEO. For 2018 the median of the annual total compensation of all employees of our Company (other than our CEO) was $133,779 and the annual total compensation of our CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $12,145,522. Based on this information and using the required calculation methodology defined in Item 402(u) of Regulation S-K, for 2018, the ratio of the annual total compensation of our CEO to our median employee's annual total compensation was 91 to 1. As permitted by Item 402(u) of Regulation S-K, for fiscal year 2018 we used the same median employee for the pay r"
+   }
+  },
+  "0001047469-18-002327": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/764622/000104746918002327/a2234743zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000764622-18-000018",
+   "result": {
+    "ceoPay": 10533439,
+    "medianPay": 128140,
+    "payRatio": 82,
+    "method": "cross-checked",
+    "employees": 6303,
+    "statedYear": 2017,
+    "excerpt": "tem 402(u) of Regulation S-K, we are providing the annual disclosure of the ratio of the median employee's annual total compensation to the total annual compensation of Mr. Brandt, our CEO. For 2017 the median of the annual total compensation of all employees of our Company (other than our CEO) was $128,140 and the annual total compensation of our CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $10,533,439. Based on this information and using the required calculation methodology defined in Item 402(u) of Regulation S-K, for 2017, the ratio of the annual total compensation of our CEO to our median employee's annual total compensation was 82 to 1. To identify the median employee from our employee population, as well as to determine the annual total compensatio"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 3219687000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-015421"
+   },
+   "2009": {
+    "revenue": 3153656000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-12-012301"
+   },
+   "2010": {
+    "revenue": 3189199000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-13-012982"
+   },
+   "2011": {
+    "revenue": 3241379000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-14-012068"
+   },
+   "2012": {
+    "revenue": 3301804000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000764622-15-000013"
+   },
+   "2013": {
+    "revenue": 3454628000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000764622-16-000087"
+   },
+   "2014": {
+    "revenue": 3491632000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000764622-17-000010"
+   },
+   "2015": {
+    "revenue": 3495443000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000764622-18-000018"
+   },
+   "2016": {
+    "revenue": 3498682000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000764622-19-000019"
+   },
+   "2017": {
+    "revenue": 3565296000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000764622-20-000017"
+   },
+   "2018": {
+    "revenue": 3691247000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000764622-21-000013"
+   },
+   "2019": {
+    "revenue": 3471209000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000764622-22-000014"
+   },
+   "2020": {
+    "revenue": 3586982000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000764622-23-000023"
+   },
+   "2021": {
+    "revenue": 3803835000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000764622-24-000016"
+   },
+   "2022": {
+    "revenue": 4324385000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000764622-25-000023"
+   },
+   "2023": {
+    "revenue": 4695991000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000764622-26-000011"
+   },
+   "2024": {
+    "revenue": 5124915000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000764622-26-000011"
+   },
+   "2025": {
+    "revenue": 5339939000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000764622-26-000011"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000764622-26-000011",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462226000011/pnw-20251231.htm"
+   },
+   {
+    "accession": "0000764622-25-000023",
+    "filingDate": "2025-02-25",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462225000023/pnw-20241231.htm"
+   },
+   {
+    "accession": "0000764622-24-000016",
+    "filingDate": "2024-02-27",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462224000016/pnw-20231231.htm"
+   },
+   {
+    "accession": "0000764622-23-000023",
+    "filingDate": "2023-02-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462223000023/pnw-20221231.htm"
+   },
+   {
+    "accession": "0000764622-22-000014",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462222000014/pnw-20211231.htm"
+   },
+   {
+    "accession": "0000764622-21-000013",
+    "filingDate": "2021-02-24",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462221000013/pnw-20201231.htm"
+   },
+   {
+    "accession": "0000764622-20-000017",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462220000017/pnw2019123110-kfinal.htm"
+   },
+   {
+    "accession": "0000764622-19-000019",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462219000019/pnw2018123110-k.htm"
+   },
+   {
+    "accession": "0000764622-18-000018",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462218000018/pnw2017123110-k.htm"
+   },
+   {
+    "accession": "0000764622-17-000010",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/764622/000076462217000010/pnw2016123110-k.htm"
+   }
+  ]
+ }
+}

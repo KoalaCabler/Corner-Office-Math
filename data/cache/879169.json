@@ -1,0 +1,330 @@
+{
+ "proxies": {
+  "0000879169-26-000031": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000031/incy-20260428.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000879169-26-000010",
+   "result": {
+    "ceoPay": 32688692,
+    "medianPay": 295914,
+    "payRatio": 110.47,
+    "method": "cross-checked",
+    "employees": 2843,
+    "statedYear": 2025,
+    "excerpt": "n employee. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2025, our last completed fiscal year: • the median of the annualized total compensation of all employees of our Company (other than our CEO), was $295,914; and • the annual total compensation of our CEO was $32,688,692, which differs from the amount shown in the Summary Compensation Table presented elsewhere in this Proxy Statement due to the annualization adjustment. Based on this information, for 2025 the ratio of the annual total compensation of Mr. Meury, our CEO, to the median of the annual total compensation of all employees was 110.47 to 1. To identify the median of the annual total compensation of all our employees, as well as to"
+   }
+  },
+  "0001104659-25-041209": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000110465925041209/tm252419-1_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-004633",
+   "result": {
+    "ceoPay": 17459546,
+    "medianPay": 255918,
+    "payRatio": 68,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "t, our CEO. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2024, our last completed fiscal year: • the median of the annualized total compensation of all employees of our Company (other than our CEO), was $255,918; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $17,459,546. Based on this information, for 2024 the ratio of the annual total compensation of Mr. Hoppenot, our CEO, to the median of the annual total compensation of all employees was 68 to 1. To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of the \"median emplo"
+   }
+  },
+  "0001104659-24-053517": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000110465924053517/tm242778d4_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000879169-24-000045",
+   "result": {
+    "ceoPay": 16659526,
+    "medianPay": 267066,
+    "payRatio": 62,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "t, our CEO. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2023, our last completed fiscal year: • the median of the annualized total compensation of all employees of our Company (other than our CEO), was $267,066; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $16,659,526. Based on this information, for 2023 the ratio of the annual total compensation of Mr. Hoppenot, our CEO, to the median of the annual total compensation of all employees was 62 to 1. To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of the \"median emplo"
+   }
+  },
+  "0001104659-23-052109": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000110465923052109/tm231988-2_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000879169-23-000008",
+   "result": {
+    "ceoPay": 16669368,
+    "medianPay": 247678,
+    "payRatio": 67,
+    "method": "cross-checked",
+    "employees": 2323,
+    "statedYear": 2022,
+    "excerpt": "t, our CEO. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2022, our last completed fiscal year: • the median of the annualized total compensation of all employees of our Company (other than our CEO), was $247,678; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $16,669,368. Based on this information, for 2022 the ratio of the annual total compensation of Mr. Hoppenot, our CEO, to the median of the annual total compensation of all employees was 67 to 1. To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of the \"median emplo"
+   }
+  },
+  "0001104659-22-052850": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000110465922052850/tm223633-1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001558370-22-000902",
+   "result": {
+    "ceoPay": 14444265,
+    "medianPay": 248810,
+    "payRatio": 58,
+    "method": "cross-checked",
+    "employees": 2093,
+    "statedYear": 2021,
+    "excerpt": "t, our CEO. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2021, our last completed fiscal year: • the median of the annualized total compensation of all employees of our Company (other than our CEO), was $248,810; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $14,444,265. Based on this information, for 2021 the ratio of the annual total compensation of Mr. Hoppenot, our CEO, to the median of the annual total compensation of all employees was 58 to 1. To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of the \"median emplo"
+   }
+  },
+  "0001047469-21-000962": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000104746921000962/a2243134zdef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001558370-21-000825",
+   "result": {
+    "ceoPay": 16378192,
+    "medianPay": 253386,
+    "payRatio": 65,
+    "method": "cross-checked",
+    "employees": 1772,
+    "statedYear": 2020,
+    "excerpt": "t, our CEO. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2020, our last completed fiscal year:  the median of the annualized total compensation of all employees of our Company (other than our CEO), was $253,386; and  the annual total compensation of our CEO, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $16,378,192. | Based on this information, for 2020 the ratio of the annual total compensation of Mr. Hoppenot, our CEO, to the median of the annual total compensation of all employees was 65 to 1. | To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of the \"median e"
+   }
+  },
+  "0001047469-20-002439": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000104746920002439/a2241323zdef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001558370-20-000774",
+   "result": {
+    "ceoPay": 15151238,
+    "medianPay": 254237,
+    "payRatio": 60,
+    "method": "cross-checked",
+    "employees": 1456,
+    "statedYear": 2019,
+    "excerpt": "t, our CEO. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2019, our last completed fiscal year:  the median of the annualized total compensation of all employees of our Company (other than our CEO), was $254,237; and  the annual total compensation of our CEO, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $15,151,238. | Based on this information, for 2019 the ratio of the annual total compensation of Mr. Hoppenot, our CEO, to the median of the annual total compensation of all employees was 60 to 1. | To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of the \"median e"
+   }
+  },
+  "0001193125-19-082161": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000119312519082161/d651551ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001558370-19-000682",
+   "result": {
+    "ceoPay": 9314189,
+    "medianPay": 228006,
+    "payRatio": 41,
+    "method": "cross-checked",
+    "employees": 1367,
+    "statedYear": 2018,
+    "excerpt": ". The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2018, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all employees of our Company (other than our CEO), was $228,006; and | | | |  | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $9,314,189. | | | | Based on this information, for 2018 the ratio of the annual total compensation of Mr. Hoppenot, our CEO, to the median of the annual total compensation of all employees was 41 to 1. | | | | | | | | | | | | Proxy Statement 2019 | 45 | Table of Contents | | | | | | | Executive Compensation | | | | | To identify"
+   }
+  },
+  "0001047469-18-001606": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/879169/000104746918001606/a2234498zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001558370-18-000722",
+   "result": {
+    "ceoPay": 16087031,
+    "medianPay": 253015,
+    "payRatio": 64,
+    "method": "cross-checked",
+    "employees": 1208,
+    "statedYear": 2017,
+    "excerpt": "penot, our CEO. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2017, our last completed fiscal year:  the median of the annual total compensation of all employees of our company (other than our CEO), was $253,015; and | | | | | | | | | | | | | 40 | Proxy Statement 2018 | | | | | Table of Contents | Executive Compensation |  the annual total compensation of our CEO, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $16,087,031. Based on this information, for 2017 the ratio of the annual total compensation of Mr. Hoppenot, our CEO, to the median of the annual total compensation of all employees was 64 to 1. To identify the median of the annual total co"
+   }
+  }
+ },
+ "tenKs": {
+  "0000879169-24-000045": {
+   "parserVersion": 1,
+   "employees": 2000000
+  },
+  "0001628280-25-004633": {
+   "parserVersion": 1,
+   "employees": 2000000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 9265000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-12-001295"
+   },
+   "2010": {
+    "revenue": 169878000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-13-001393"
+   },
+   "2011": {
+    "revenue": 94455000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-14-001174"
+   },
+   "2012": {
+    "revenue": 297059000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-15-000858"
+   },
+   "2013": {
+    "revenue": 354947000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-16-003196"
+   },
+   "2014": {
+    "revenue": 511495000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-17-000594"
+   },
+   "2015": {
+    "revenue": 753751000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-18-000722"
+   },
+   "2016": {
+    "revenue": 1105719000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-19-000682"
+   },
+   "2017": {
+    "revenue": 1536216000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-20-000774"
+   },
+   "2018": {
+    "revenue": 1881883000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-21-000825"
+   },
+   "2019": {
+    "revenue": 2158759000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-22-000902"
+   },
+   "2020": {
+    "revenue": 2666702000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000879169-23-000008"
+   },
+   "2021": {
+    "revenue": 2986267000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000879169-23-000008"
+   },
+   "2022": {
+    "revenue": 3394635000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000879169-23-000008"
+   },
+   "2023": {
+    "revenue": 3695649000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000879169-26-000010"
+   },
+   "2024": {
+    "revenue": 4241217000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000879169-26-000010"
+   },
+   "2025": {
+    "revenue": 5141242000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000879169-26-000010"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000879169-26-000010",
+    "filingDate": "2026-02-10",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916926000010/incy-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-004633",
+    "filingDate": "2025-02-10",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000162828025004633/incy-20241231.htm"
+   },
+   {
+    "accession": "0000879169-24-000045",
+    "filingDate": "2024-02-13",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916924000045/incy-20231231.htm"
+   },
+   {
+    "accession": "0000879169-23-000008",
+    "filingDate": "2023-02-07",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000087916923000008/incy-20221231.htm"
+   },
+   {
+    "accession": "0001558370-22-000902",
+    "filingDate": "2022-02-08",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837022000902/incy-20211231x10k.htm"
+   },
+   {
+    "accession": "0001558370-21-000825",
+    "filingDate": "2021-02-09",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837021000825/incy-20201231x10k.htm"
+   },
+   {
+    "accession": "0001558370-20-000774",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837020000774/incy-20191231x10k6c65b7.htm"
+   },
+   {
+    "accession": "0001558370-19-000682",
+    "filingDate": "2019-02-14",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837019000682/incy-20181231x10k.htm"
+   },
+   {
+    "accession": "0001558370-18-000722",
+    "filingDate": "2018-02-15",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837018000722/incy-20171231x10k.htm"
+   },
+   {
+    "accession": "0001558370-17-000594",
+    "filingDate": "2017-02-14",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/879169/000155837017000594/incy-20161231x10k.htm"
+   }
+  ]
+ }
+}

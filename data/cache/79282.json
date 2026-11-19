@@ -1,0 +1,327 @@
+{
+ "proxies": {
+  "0001193125-26-122172": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/79282/000119312526122172/d30704ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001193125-26-046984",
+   "result": {
+    "ceoPay": 8641088,
+    "medianPay": 74010,
+    "payRatio": 117,
+    "method": "cross-checked",
+    "employees": 16033,
+    "statedYear": 2025,
+    "excerpt": "ees and the annual total compensation of Mr. Powell Brown, our President and Chief Executive Officer: Chief Executive Officer Pay Ratio For 2025, our last completed fiscal year: | • | | | | the median of the annual total compensation of all employees of our company, other than Mr. Powell Brown, was $74,010 and | | • | | | | the annual total compensation of Mr. Powell Brown, as reported in the Summary Compensation Table, was $8,641,088. | | • | | | | Based on this information, for 2025, the ratio of the annual total compensation of Mr. Powell Brown to the median of the annual total compensation of all employees, other than Mr. Powell Brown, was 117 to 1. | Methodology To identify the median of the annual total compensation of all our employees, other than Mr. Powell Brown, as well as to det"
+   }
+  },
+  "0001193125-25-061457": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/79282/000119312525061457/d912657ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-019039",
+   "result": {
+    "ceoPay": 11678777,
+    "medianPay": 74035,
+    "payRatio": 158,
+    "method": "cross-checked",
+    "employees": 16033,
+    "statedYear": 2024,
+    "excerpt": "ees and the annual total compensation of Mr. Powell Brown, our President and Chief Executive Officer: Chief Executive Officer Pay Ratio For 2024, our last completed fiscal year: | • | | | | the median of the annual total compensation of all employees of our company, other than Mr. Powell Brown, was $74,035 and | | • | | | | the annual total compensation of Mr. Powell Brown, as reported in the Summary Compensation Table, was $11,678,777. | | • | | | | Based on this information, for 2024, the ratio of the annual total compensation of Mr. Powell Brown to the median of the annual total compensation of all employees, other than Mr. Powell Brown, was 158 to 1. | Methodology To identify the median of the annual total compensation of all our employees, other than Mr. Powell Brown, as well as to de"
+   }
+  },
+  "0001193125-24-076607": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/79282/000119312524076607/d89828ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-018890",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 68672,
+    "payRatio": 143,
+    "method": "ratio-and-median",
+    "employees": 16033,
+    "statedYear": 2023,
+    "excerpt": "ees and the annual total compensation of Mr. Powell Brown, our President and Chief Executive Officer: Chief Executive Officer Pay Ratio For 2023, our last completed fiscal year: | • | | | | the median of the annual total compensation of all employees of our company, other than Mr. Powell Brown, was $68,672 and | | • | | | | the annual total compensation of Mr. Powell Brown, as reported in the Summary Compensation Table, was 9,786,745. | | • | | | | Based on this information, for 2023, the ratio of the annual total compensation of Mr. Powell Brown to the median of the annual total compensation of all employees, other than Mr. Powell Brown, was 143 to 1. | Methodology To identify the median of the annual total compensation of all our employees, other than Mr. Powell Brown, as well as to dete"
+   }
+  },
+  "0001193125-23-076801": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/79282/000119312523076801/d389548ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000950170-23-004717",
+   "result": {
+    "ceoPay": 6741633,
+    "medianPay": 96278,
+    "payRatio": 70,
+    "method": "cross-checked",
+    "employees": 10873,
+    "statedYear": 2022,
+    "excerpt": "ees and the annual total compensation of Mr. Powell Brown, our President and Chief Executive Officer: Chief Executive Officer Pay Ratio For 2022, our last completed fiscal year: | • | | | | the median of the annual total compensation of all employees of our company, other than Mr. Powell Brown, was $96,278; and | | • | | | | the annual total compensation of Mr. Powell Brown, as reported in the Summary Compensation Table, was $6,741,633. | | • | | | | Based on this information, for 2022, the ratio of the annual total compensation of Mr. Powell Brown to the median of the annual total compensation of all employees, other than Mr. Powell Brown, was 70 to 1. | Methodology To identify the median of the annual total compensation of all our employees, other than Mr. Powell Brown, as well as to det"
+   }
+  },
+  "0001206774-22-000816": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/79282/000120677422000816/bro3981611-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000950170-22-001654",
+   "result": {
+    "ceoPay": 9201035,
+    "medianPay": 91957,
+    "payRatio": 100,
+    "method": "cross-checked",
+    "employees": 10873,
+    "statedYear": 2021,
+    "excerpt": "ployees and the annual total compensation of Mr. Powell Brown, our President and Chief Executive Officer: Chief Executive Officer Pay Ratio For 2021, our last completed fiscal year: | ● | | the median of the annual total compensation of all employees of our company, other than Mr. Powell Brown, was $91,957; and | | | | | | ● | | the annual total compensation of Mr. Powell Brown, as reported in the Summary Compensation Table, was $9,201,035. | | | | | | ● | | Based on this information, for 2021, the ratio of the annual total compensation of Mr. Powell Brown to the median of the annual total compensation of all employees, other than Mr. Powell Brown, was 100 to 1. | Methodology To identify the median of the annual total compensation of all our employees, other than Mr. Powell Brown, as well"
+   }
+  },
+  "0001206774-21-000789": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/79282/000120677421000789/bro3832141-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-007624",
+   "result": {
+    "ceoPay": 7254300,
+    "medianPay": 66820,
+    "payRatio": 109,
+    "method": "cross-checked",
+    "employees": 10873,
+    "statedYear": 2020,
+    "excerpt": "employees and the annual total compensation of Mr. Powell Brown, our President and Chief Executive Officer: Chief Executive Officer Pay Ratio For 2020, our last completed fiscal year: | | | the median of the annual total compensation of all employees of our company, other than Mr. Powell Brown, was $66,820; and | | | | | | | | the annual total compensation of Mr. Powell Brown, as reported in the Summary Compensation Table, was $7,254,300. | | | | | | | | Based on this information, for 2020, the ratio of the annual total compensation of Mr. Powell Brown to the median of the annual total compensation of all employees, other than Mr. Powell Brown, was 109 to 1. | Methodology To identify the median of the annual total compensation of all our employees, other than Mr. Powell Brown, as well as t"
+   }
+  },
+  "0001206774-20-000911": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/79282/000120677420000911/bro3713351-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-006075",
+   "result": {
+    "ceoPay": 5178025,
+    "medianPay": 71366,
+    "payRatio": 73,
+    "method": "cross-checked",
+    "employees": 8565,
+    "statedYear": 2019,
+    "excerpt": "ployees and the annual total compensation of Mr. Powell Brown, our President and Chief Executive Officer: Chief Executive Officer Pay Ratio For 2019, our last completed fiscal year: | ● | | the median of the annual total compensation of all employees of our company, other than Mr. Powell Brown, was $71,366; and | | ● | | the annual total compensation of Mr. Powell Brown, as reported in the Summary Compensation Table, was $5,178,025. | | ● | | Based on this information, for 2019 the ratio of the annual total compensation of Mr. Powell Brown to the median of the annual total compensation of all employees, other than Mr. Powell Brown, was 73 to 1. | Methodology To identify the median of the annual total compensation of all our employees, other than Mr. Powell Brown, as well as to determine th"
+   }
+  },
+  "0001206774-19-000971": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/79282/000120677419000971/bro3469441-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000079282-19-000006",
+   "result": {
+    "ceoPay": 4189041,
+    "medianPay": 66650,
+    "payRatio": 63,
+    "method": "cross-checked",
+    "employees": 8565,
+    "statedYear": 2018,
+    "excerpt": "ployees and the annual total compensation of Mr. Powell Brown, our President and Chief Executive Officer: Chief Executive Officer Pay Ratio For 2018, our last completed fiscal year: | ● | | the median of the annual total compensation of all employees of our company, other than Mr. Powell Brown, was $66,650; and | | ● | | the annual total compensation of Mr. Powell Brown, as reported in the Summary Compensation Table, was $4,189,041. | | ● | | Based on this information, for 2018 the ratio of the annual total compensation of Mr. Powell Brown to the median of the annual total compensation of all employees, other than Mr. Powell Brown, was 63 to 1. | Methodology To identify the median of the annual total compensation of all our employees, other than Mr. Powell Brown, as well as to determine th"
+   }
+  },
+  "0001206774-18-000873": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/79282/000120677418000873/brown3340021-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000079282-18-000006",
+   "result": {
+    "ceoPay": 4629634,
+    "medianPay": 63058,
+    "payRatio": 73,
+    "method": "cross-checked",
+    "employees": 8565,
+    "statedYear": 2017,
+    "excerpt": "ployees and the annual total compensation of Mr. Powell Brown, our President and Chief Executive Officer: Chief Executive Officer Pay Ratio For 2017, our last completed fiscal year: | ● | | the median of the annual total compensation of all employees of our company, other than Mr. Powell Brown, was $63,058; and | | ● | | the annual total compensation of Mr. Powell Brown, as reported in the Summary Compensation Table, was $4,629,634. | | ● | | Based on this information, for 2017 the ratio of the annual total compensation of Mr. Powell Brown to the median of the annual total compensation of all employees, other than Mr. Powell Brown, was 73 to 1. | Methodology To identify the median of the annual total compensation of all our employees, other than Mr. Powell Brown, as well as to determine th"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 977554000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-051929"
+   },
+   "2009": {
+    "revenue": 967877000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-089393"
+   },
+   "2010": {
+    "revenue": 973492000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-087664"
+   },
+   "2011": {
+    "revenue": 1013542000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-077842"
+   },
+   "2012": {
+    "revenue": 1200032000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-070864"
+   },
+   "2013": {
+    "revenue": 1363279000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000079282-16-000034"
+   },
+   "2014": {
+    "revenue": 1575796000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000079282-17-000006"
+   },
+   "2015": {
+    "revenue": 1660509000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000079282-18-000006"
+   },
+   "2016": {
+    "revenue": 1766629000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000079282-19-000006"
+   },
+   "2017": {
+    "revenue": 1881347000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-20-006075"
+   },
+   "2018": {
+    "revenue": 2014246000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-21-007624"
+   },
+   "2019": {
+    "revenue": 2392171000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-22-001654"
+   },
+   "2020": {
+    "revenue": 2613400000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-23-004717"
+   },
+   "2021": {
+    "revenue": 3051400000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-24-018890"
+   },
+   "2022": {
+    "revenue": 3573000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-25-019039"
+   },
+   "2023": {
+    "revenue": 4257000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-046984"
+   },
+   "2024": {
+    "revenue": 4805000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-046984"
+   },
+   "2025": {
+    "revenue": 5902000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-046984"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-046984",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/79282/000119312526046984/bro-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-019039",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/79282/000095017025019039/bro-20241231.htm"
+   },
+   {
+    "accession": "0000950170-24-018890",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/79282/000095017024018890/bro-20231231.htm"
+   },
+   {
+    "accession": "0000950170-23-004717",
+    "filingDate": "2023-02-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/79282/000095017023004717/bro-20221231.htm"
+   },
+   {
+    "accession": "0000950170-22-001654",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/79282/000095017022001654/bro-20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-007624",
+    "filingDate": "2021-02-23",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/79282/000156459021007624/bro-10k_20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-006075",
+    "filingDate": "2020-02-24",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/79282/000156459020006075/bro-10k_20191231.htm"
+   },
+   {
+    "accession": "0000079282-19-000006",
+    "filingDate": "2019-02-26",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/79282/000007928219000006/bro-20181231x10k.htm"
+   },
+   {
+    "accession": "0000079282-18-000006",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/79282/000007928218000006/bro-20171231x10k.htm"
+   },
+   {
+    "accession": "0000079282-17-000006",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/79282/000007928217000006/bro-20161231x10k.htm"
+   }
+  ]
+ }
+}

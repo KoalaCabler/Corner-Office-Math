@@ -1,0 +1,327 @@
+{
+ "proxies": {
+  "0001437749-26-007732": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774926007732/jbht20260304_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001437749-26-005294",
+   "result": {
+    "ceoPay": 9004371,
+    "medianPay": 76432,
+    "payRatio": 118,
+    "method": "cross-checked",
+    "employees": 31430,
+    "statedYear": 2025,
+    "excerpt": "ing information about the relationship of the annual total compensation of our \"median employee\" and the annual total compensation of our CEO. For 2025, our last completed fiscal year: | | | • | | The median of the annual total compensation of all of the Company's employees, other than our CEO, was $76,432. | | | | • | | The annualized total compensation of our CEO was $9,004,371. | | | | • | | Based on this information, the ratio for 2025 of the annualized total compensation of our CEO to the median of the annual total compensation of all other employees was 118 to 1. | In determining the median of the annual total compensation of all of the Company's employees, other than our CEO, we are required to identify the Company's \"median employee.\" Item 402(u) of Regulation S-K requires us to id"
+   }
+  },
+  "0001437749-25-007646": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774925007646/jbht20250310_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001437749-25-004736",
+   "result": {
+    "ceoPay": 8547270,
+    "medianPay": 84947,
+    "payRatio": 101,
+    "method": "cross-checked",
+    "employees": 37087,
+    "statedYear": 2024,
+    "excerpt": "r \"median employee\" and accordingly, we have annualized his 2024 total compensation while in the role of CEO for use in the calculation below. For 2024, our last completed fiscal year: | | | • | | The median of the annual total compensation of all of the Company's employees, other than our CEO, was $84,947. | | | | • | | The annualized total compensation of our former CEO was $8,547,270. | | | | • | | Based on this information, the ratio for 2024 of the annualized total compensation of our former CEO to the median of the annual total compensation of all other employees was 101 to 1. | In determining the median of the annual total compensation of all of the Company's employees, other than our CEO, we are required to identify the Company's \"median employee.\" Item 402(u) of Regulation S-K req"
+   }
+  },
+  "0001437749-24-007781": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774924007781/jbht20240306_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001437749-24-005368",
+   "result": {
+    "ceoPay": 8256333,
+    "medianPay": 66919,
+    "payRatio": 123,
+    "method": "cross-checked",
+    "employees": 37087,
+    "statedYear": 2023,
+    "excerpt": "ing information about the relationship of the annual total compensation of our \"median employee\" and the annual total compensation of our CEO. For 2023, our last completed fiscal year: | | | ● | | The median of the annual total compensation of all of the Company's employees, other than our CEO, was $66,919. | | | | ● | | The annual total compensation of our CEO was $8,256,333. | | | | ● | | Based on this information, the ratio for 2023 of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 123 to 1. | In determining the median of the annual total compensation of all of the Company's employees, other than our CEO, we are required to identify the Company's \"median employee.\" Item 402(u) of Regulation S-K requires us to identify t"
+   }
+  },
+  "0001437749-23-006831": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774923006831/jbht20230310_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001437749-23-004530",
+   "result": {
+    "ceoPay": 9240455,
+    "medianPay": 74311,
+    "payRatio": 124,
+    "method": "cross-checked",
+    "employees": 37087,
+    "statedYear": 2022,
+    "excerpt": "llowing information about the relationship of the annual total compensation of our \"median employee\" and the annual total compensation of our CEO. For 2022, our last completed fiscal year: | ● | | The median of the annual total compensation of all of the Company's employees, other than our CEO, was $74,311. | | ● | | The annual total compensation of our CEO was $9,240,455. | | ● | | Based on this information, the ratio for 2022 of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 124 to 1. | In determining the median of the annual total compensation of all of the Company's employees, other than our CEO, we are required to identify the Company's \"median employee.\" Item 402(u) of Regulation S-K requires us to identify the Compa"
+   }
+  },
+  "0001437749-22-007037": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774922007037/jbht20220322_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001437749-22-004457",
+   "result": {
+    "ceoPay": 8801881,
+    "medianPay": 78560,
+    "payRatio": 112,
+    "method": "cross-checked",
+    "employees": 29070,
+    "statedYear": 2021,
+    "excerpt": "llowing information about the relationship of the annual total compensation of our \"median employee\" and the annual total compensation of our CEO. For 2021, our last completed fiscal year: | • | | The median of the annual total compensation of all of the Company's employees, other than our CEO, was $78,560. | | • | | The annual total compensation of our CEO was $8,801,881. | | • | | Based on this information, the ratio for 2021 of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 112 to 1. | In determining the median of the annual total compensation of all of the Company's employees, other than our CEO, we are required to identify the Company's \"median employee.\" Item 402(u) of Regulation S-K requires us to identify the Compa"
+   }
+  },
+  "0001437749-21-006495": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774921006495/jbht20210312_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001437749-21-003667",
+   "result": {
+    "ceoPay": 7453372,
+    "medianPay": 67154,
+    "payRatio": 111,
+    "method": "cross-checked",
+    "employees": 29070,
+    "statedYear": 2020,
+    "excerpt": "llowing information about the relationship of the annual total compensation of our \"median employee\" and the annual total compensation of our CEO. For 2020, our last completed fiscal year: | ● | | The median of the annual total compensation of all of the Company's employees, other than our CEO, was $67,154. | | ● | | The annual total compensation of our CEO was $7,453,372. | | ● | | Based on this information, the ratio for 2020 of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 111 to 1. | In determining the median of the annual total compensation of all of the Company's employees, other than our CEO, we are required to identify the Company's \"median employee.\" Item 402(u) of Regulation S-K requires us to identify the Compa"
+   }
+  },
+  "0001437749-20-004905": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774920004905/jbht20200310_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001437749-20-004119",
+   "result": {
+    "ceoPay": 6588249,
+    "medianPay": 65663,
+    "payRatio": 100,
+    "method": "cross-checked",
+    "employees": 23872,
+    "statedYear": 2019,
+    "excerpt": "llowing information about the relationship of the annual total compensation of our \"median employee\" and the annual total compensation of our CEO. For 2019, our last completed fiscal year: | ● | | The median of the annual total compensation of all of the Company's employees, other than our CEO, was $65,663. | | ● | | The annual total compensation of our CEO was $6,588,249. | | ● | | Based on this information, the ratio for 2019 of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 100 to 1. | In determining the median of the annual total compensation of all of the Company's employees, other than our CEO, we are required to identify the Company's \"median employee\". Item 402(u) of Regulation S-K requires us to identify the Compa"
+   }
+  },
+  "0001437749-19-004399": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774919004399/jbht20190227_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001437749-19-003134",
+   "result": {
+    "ceoPay": 6846236,
+    "medianPay": 62150,
+    "payRatio": 110,
+    "method": "cross-checked",
+    "employees": 23872,
+    "statedYear": 2018,
+    "excerpt": "llowing information about the relationship of the annual total compensation of our \"median employee\" and the annual total compensation of our CEO. For 2018, our last completed fiscal year: | ● | | The median of the annual total compensation of all of the Company's employees, other than our CEO, was $62,150. | | ● | | The annual total compensation of our CEO was $6,846,236. | | ● | | Based on this information, the ratio for 2018 of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 110 to 1. | In determining the median of the annual total compensation of all of the Company's employees, other than our CEO, we were required in 2018 to identify the Company's \"median employee\" for 2017. Item 402(u) of Regulation S-K requires us to"
+   }
+  },
+  "0001193125-18-080258": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/728535/000119312518080258/d537335ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001437749-18-003239",
+   "result": {
+    "ceoPay": 859252,
+    "medianPay": 57384,
+    "payRatio": 15,
+    "method": "cross-checked",
+    "employees": 23872,
+    "statedYear": 2017,
+    "excerpt": "ding the following information about the relationship of the annual total compensation of our median employee and the annual total compensation of our CEO. For 2017, our last completed fiscal year, the median of the annual total compensation of all employees of our company (other than our CEO), was $57,384; and the annual total compensation of our CEO was $859,252. Based on this information, for 2017, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees was 15 to 1. We excluded employees residing in Mexico and Canada from our calculation under the De Minimis Exemption. Employees located in Mexico and Canada constituted 0.09% and 0.01% of our total employee population, respectively, which consisted of 22 individuals in Mexico"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 3731943000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-11-001088"
+   },
+   "2009": {
+    "revenue": 3203321000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-12-001745"
+   },
+   "2010": {
+    "revenue": 3793485000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-13-001883"
+   },
+   "2011": {
+    "revenue": 4526842000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-14-002605"
+   },
+   "2012": {
+    "revenue": 5054980000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-15-003305"
+   },
+   "2013": {
+    "revenue": 5584571000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-16-025879"
+   },
+   "2014": {
+    "revenue": 6165441000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-17-003083"
+   },
+   "2015": {
+    "revenue": 6187646000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-18-003239"
+   },
+   "2016": {
+    "revenue": 6555459000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-18-003239"
+   },
+   "2017": {
+    "revenue": 7189568000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-18-003239"
+   },
+   "2018": {
+    "revenue": 8614874000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001437749-21-003667"
+   },
+   "2019": {
+    "revenue": 9165258000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001437749-22-004457"
+   },
+   "2020": {
+    "revenue": 9636573000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001437749-23-004530"
+   },
+   "2021": {
+    "revenue": 12168302000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001437749-24-005368"
+   },
+   "2022": {
+    "revenue": 14813999000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001437749-25-004736"
+   },
+   "2023": {
+    "revenue": 12829665000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001437749-26-005294"
+   },
+   "2024": {
+    "revenue": 12087204000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001437749-26-005294"
+   },
+   "2025": {
+    "revenue": 11999096000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001437749-26-005294"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001437749-26-005294",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774926005294/jbht20251231_10k.htm"
+   },
+   {
+    "accession": "0001437749-25-004736",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774925004736/jbht20241231d_10k.htm"
+   },
+   {
+    "accession": "0001437749-24-005368",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774924005368/jbht20231231_10k.htm"
+   },
+   {
+    "accession": "0001437749-23-004530",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774923004530/jbht20221231_10k.htm"
+   },
+   {
+    "accession": "0001437749-22-004457",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774922004457/jbht20211231_10k.htm"
+   },
+   {
+    "accession": "0001437749-21-003667",
+    "filingDate": "2021-02-23",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774921003667/jbht20201231_10k.htm"
+   },
+   {
+    "accession": "0001437749-20-004119",
+    "filingDate": "2020-03-02",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774920004119/jbht20191231_10k.htm"
+   },
+   {
+    "accession": "0001437749-19-003134",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774919003134/jbht20181231_10k.htm"
+   },
+   {
+    "accession": "0001437749-18-003239",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774918003239/jbht20171231_10k.htm"
+   },
+   {
+    "accession": "0001437749-17-003083",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/728535/000143774917003083/jbht20161231_10k.htm"
+   }
+  ]
+ }
+}

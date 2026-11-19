@@ -1,0 +1,338 @@
+{
+ "proxies": {
+  "0000059478-26-000029": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000029/lly-20260317.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000059478-26-000013",
+   "result": {
+    "ceoPay": 36698337,
+    "medianPay": 125100,
+    "payRatio": 293,
+    "method": "cross-checked",
+    "employees": 51000,
+    "statedYear": 2025,
+    "excerpt": "with approximately 51,000 employees across diverse roles and geographies, this calculation reflects our broad and complex workforce. The table below discloses the 2025 annual total compensation for our CEO and median paid employee: | | | | | | | CEO Pay Ratio: | | CEO Annual Total Compensation* | | $36,698,337 | | Median Employee Annual Total Compensation | | $125,100 | | CEO to Median Employee Pay Ratio | | 293:1 | | *This annual total compensation is the SCT amount. | Methodology: • Measurement Date: The median employee was identified from our employee population as of October 31, 2025. Lilly employed approximately 51,000 individuals globally, with approximately 24,000 in the United States and approximately 27,000 internationally. • Identification of Median Employee: In compliance with S"
+   }
+  },
+  "0000059478-25-000107": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000107/lly-20250321.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000059478-25-000067",
+   "result": {
+    "ceoPay": 29242926,
+    "medianPay": 120574,
+    "payRatio": 243,
+    "method": "cross-checked",
+    "employees": 47000,
+    "statedYear": null,
+    "excerpt": "sential for fostering a diverse workforce and providing opportunities for growth, development and contribution for all employees. The table below discloses the 2024 annual total compensation for our CEO and median paid employee: 71 | | | | | | | CEO Pay Ratio: | | CEO Annual Total Compensation* | | $29,242,926 | | Median Employee Annual Total Compensation | | $120,574 | | CEO to Median Employee Pay Ratio | | 243:1 | | *This annual total compensation is the SCT amount. | Methodology: • Measurement Date: The median employee was identified from our employee population as of October 31, 2024. Lilly employed approximately 47,000 individuals globally, with approximately 21,500 in the United States and approximately 25,500 internationally. • Identification of Median Employee: In compliance with S"
+   }
+  },
+  "0000059478-24-000099": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000099/lly-20240322.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000059478-24-000065",
+   "result": {
+    "ceoPay": 26565732,
+    "medianPay": 157937,
+    "payRatio": 168,
+    "method": "cross-checked",
+    "employees": 43400,
+    "statedYear": null,
+    "excerpt": "ortunities for all employees to grow, develop, and contribute. Below is the 2023 annual total compensation of our CEO and our median employee and the ratio of the annual total compensation of our CEO to that of our median employee. | | | | | | | CEO Pay Ratio: | | CEO Annual Total Compensation* | | $26,565,732 | | Median Employee Annual Total Compensation | | $157,937 | | CEO to Median Employee Pay Ratio | | 168:1 | | *This annual total compensation is the SCT amount. | Methodology: • Measurement Date: We identified the median employee using our employee population (excluding the CEO) on October 31, 2023. On this date, Lilly employed approximately 43,400 people, with approximately 19,800 members of our workforce located in the United States and approximately 23,600 members of our workforce"
+   }
+  },
+  "0000059478-23-000120": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000120/lly-20230317.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000059478-23-000082",
+   "result": {
+    "ceoPay": 21398135,
+    "medianPay": 124103,
+    "payRatio": 172,
+    "method": "cross-checked",
+    "employees": 39500,
+    "statedYear": null,
+    "excerpt": "or all employees to grow, develop, and contribute. Below is the 2022 annual total compensation of our CEO and our median employee and the ratio of the annual total compensation of our CEO to that of our median employee. | | | | | | | | | | | | | CEO Pay Ratio: | | CEO Annual Total Compensation* | | $21,398,135 | | Median Employee Annual Total Compensation | | $124,103 | | CEO to Median Employee Pay Ratio | | 172:1 | | *This annual total compensation is the \"Summary Compensation Table\" amount. | Methodology: • Measurement Date: We identified the median employee using our employee population (excluding the CEO) on October 31, 2022. On this date, Lilly employed approximately 39,500 people, with approximately 17,900 members of our workforce located in the United States and approximately 21,600"
+   }
+  },
+  "0000059478-22-000099": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000099/llydef14a2022.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000059478-22-000068",
+   "result": {
+    "ceoPay": 21509985,
+    "medianPay": 97130,
+    "payRatio": 221,
+    "method": "cross-checked",
+    "employees": 37100,
+    "statedYear": null,
+    "excerpt": "or all employees to grow, develop, and contribute. Below is the 2021 annual total compensation of our CEO and our median employee and the ratio of the annual total compensation of our CEO to that of our median employee. | | | | | | | | | | | | | CEO Pay Ratio: | | CEO Annual Total Compensation* | | $21,509,985 | | Median Employee Annual Total Compensation | | $97,130 | | CEO to Median Employee Pay Ratio | | 221:1 | | *This annual total compensation is the \"Summary Compensation Table\" amount. | Methodology: • Measurement Date: We identified the median employee using our employee population on October 31, 2021. On this date, Lilly employed approximately 37,100 people, with approximately 16,100 members of our workforce located in the U.S. and approximately 21,000 members of our workforce loca"
+   }
+  },
+  "0000059478-21-000104": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947821000104/llydef14a2021.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000059478-21-000083",
+   "result": {
+    "ceoPay": 23708629,
+    "medianPay": 101752,
+    "payRatio": 233,
+    "method": "cross-checked",
+    "employees": 36500,
+    "statedYear": null,
+    "excerpt": "or all employees to grow, develop, and contribute. Below is the 2020 annual total compensation of our CEO and our median employee and the ratio of the annual total compensation of our CEO to that of our median employee. | | | | | | | | | | | | | CEO Pay Ratio: | | CEO Annual Total Compensation* | | $23,708,629 | | Median Employee Annual Total Compensation | | $101,752 | | CEO to Median Employee Pay Ratio | | 233:1 | | *This annual total compensation is the \"Summary Compensation Table\" amount. | P73 Methodology: • Measurement Date: We identified the median employee using our employee population on October 31, 2020. On this date, Lilly employed approximately 36,500 people, with approximately 16,000 members of our workforce located in the U.S. and approximately 20,500 members of our workforce"
+   }
+  },
+  "0000059478-20-000080": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947820000080/proxy2020_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000059478-20-000057",
+   "result": {
+    "ceoPay": 21283242,
+    "medianPay": 96290,
+    "payRatio": 221,
+    "method": "cross-checked",
+    "employees": 36000,
+    "statedYear": null,
+    "excerpt": "ntified the median employee. Once the median employee was identified, we calculated the median employee's total annual compensation in accordance with the requirements of the Summary Compensation Table. Our median employee compensation as calculated using Summary Compensation Table requirements was $96,290. Our CEO's compensation as reported in the Summary Compensation Table was $21,283,242. Therefore, our CEO to median employee pay ratio is 221:1. P 61 Audit Matters Item 3. Ratification of the Appointment of Independent Auditor Audit Committee Oversight of Independent Auditor The Audit Committee is responsible for the appointment, compensation, retention, and oversight of the independent auditor, and oversees the process for selecting, reviewing, and evaluating the lead audit partner. Fur"
+   }
+  },
+  "0000059478-19-000146": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947819000146/proxy2019_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000059478-19-000082",
+   "result": {
+    "ceoPay": 17230337,
+    "medianPay": 91246,
+    "payRatio": 189,
+    "method": "cross-checked",
+    "employees": 40000,
+    "statedYear": null,
+    "excerpt": "ian paid employee. Once the median paid employee was identified, we calculated the median paid employee's total annual compensation in accordance with the requirements of the Summary Compensation Table. Our median employee compensation as calculated using Summary Compensation Table requirements was $91,246. Our CEO's compensation as reported in the Summary Compensation Table was $17,230,337. Therefore, our CEO to median employee pay ratio is 189:1. Audit Matters Item 3. Ratification of the Appointment of Principal Independent Auditor Audit Committee Oversight of Independent Auditor The Audit Committee is responsible for the appointment, compensation, retention, and oversight of the independent auditor, and oversees the process for selecting, reviewing, and evaluating the lead audit partner"
+   }
+  },
+  "0000059478-18-000111": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947818000111/proxy2018_def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000059478-18-000089",
+   "result": {
+    "ceoPay": 15845991,
+    "medianPay": 134003,
+    "payRatio": 118,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "ntified the median employee. Once the median employee was identified, we calculated the median employee's total annual compensation in accordance with the requirements of the Summary Compensation Table. Our median employee compensation as calculated using Summary Compensation Table requirements was $134,003. Our CEO's compensation as reported in the Summary Compensation Table was $15,845,991. Therefore, our CEO to median employee pay ratio is 118:1. Our median employee's total compensation included the amount of a pension enhancement offered under our 2017 voluntary early retirement program. If we eliminated the change in pension value from our median employee and CEO's total compensation, our CEO to median employee pay ratio would have been 171:1. This information is being provided for co"
+   }
+  }
+ },
+ "tenKs": {
+  "0000059478-18-000089": {
+   "parserVersion": 1,
+   "employees": 40655
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 18633500000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-10-014958"
+   },
+   "2008": {
+    "revenue": 20371900000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-041620"
+   },
+   "2009": {
+    "revenue": 21836000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-078393"
+   },
+   "2010": {
+    "revenue": 23076000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-13-000007"
+   },
+   "2011": {
+    "revenue": 24286500000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-14-000078"
+   },
+   "2012": {
+    "revenue": 22603400000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-15-000100"
+   },
+   "2013": {
+    "revenue": 23113100000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-16-000321"
+   },
+   "2014": {
+    "revenue": 19615600000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-17-000098"
+   },
+   "2015": {
+    "revenue": 19958700000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-18-000089"
+   },
+   "2016": {
+    "revenue": 21222100000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-19-000082"
+   },
+   "2017": {
+    "revenue": 19973800000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-20-000057"
+   },
+   "2018": {
+    "revenue": 21493300000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-21-000083"
+   },
+   "2019": {
+    "revenue": 22319500000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-22-000068"
+   },
+   "2020": {
+    "revenue": 24539800000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-23-000082"
+   },
+   "2021": {
+    "revenue": 28318400000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-24-000065"
+   },
+   "2022": {
+    "revenue": 28541400000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-25-000067"
+   },
+   "2023": {
+    "revenue": 34124000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-26-000013"
+   },
+   "2024": {
+    "revenue": 45043000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-26-000013"
+   },
+   "2025": {
+    "revenue": 65179000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000059478-26-000013"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000059478-26-000013",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000013/lly-20251231.htm"
+   },
+   {
+    "accession": "0000059478-25-000067",
+    "filingDate": "2025-02-19",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947825000067/lly-20241231.htm"
+   },
+   {
+    "accession": "0000059478-24-000065",
+    "filingDate": "2024-02-21",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947824000065/lly-20231231.htm"
+   },
+   {
+    "accession": "0000059478-23-000082",
+    "filingDate": "2023-02-22",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947823000082/lly-20221231.htm"
+   },
+   {
+    "accession": "0000059478-22-000068",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947822000068/lly-20211231.htm"
+   },
+   {
+    "accession": "0000059478-21-000083",
+    "filingDate": "2021-02-17",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947821000083/lly-20201231.htm"
+   },
+   {
+    "accession": "0000059478-20-000057",
+    "filingDate": "2020-02-19",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947820000057/lly-20191231x10xk.htm"
+   },
+   {
+    "accession": "0000059478-19-000082",
+    "filingDate": "2019-02-19",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947819000082/lly-20181231x10xk.htm"
+   },
+   {
+    "accession": "0000059478-18-000089",
+    "filingDate": "2018-02-20",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947818000089/lly-20171231x10xk.htm"
+   },
+   {
+    "accession": "0000059478-17-000098",
+    "filingDate": "2017-02-21",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/59478/000005947817000098/lly-20161231x10xk.htm"
+   }
+  ]
+ }
+}

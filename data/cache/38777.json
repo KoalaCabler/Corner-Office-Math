@@ -1,0 +1,356 @@
+{
+ "proxies": {
+  "0001140361-25-046314": {
+   "parserVersion": 1,
+   "filingDate": "2025-12-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000114036125046314/ny20055304x771_def14a.htm",
+   "periodEnd": "2025-09-30",
+   "tenK": "0000038777-25-000238",
+   "result": {
+    "ceoPay": 16844816,
+    "medianPay": 149010,
+    "payRatio": 113,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "o Our CEO pay ratio is calculated in accordance with Item 402(u) of Regulation S-K and provides a reasonable estimate of the ratio of our CEO's annual total compensation to the median of the annual total compensation of all employees, other than the CEO. Ms. Johnson had annual total compensation of $16,844,816 as reflected in the fiscal year 2025 Summary Compensation Table. Our median employee's annual total compensation was $149,010. The resulting ratio of our CEO's annual total compensation to the annual total compensation of our median employee for fiscal year 2025 was approximately 113:1. To establish the median of the annual total compensation of all of our employees, and to determine the annual total compensation of Franklin Templeton's \"median employee,\" we used the methodology, ass"
+   }
+  },
+  "0001140361-24-050019": {
+   "parserVersion": 1,
+   "filingDate": "2024-12-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000114036124050019/ny20036387x1_def14a.htm",
+   "periodEnd": "2024-09-30",
+   "tenK": "0000038777-24-000206",
+   "result": {
+    "ceoPay": 17238416,
+    "medianPay": 154596,
+    "payRatio": 112,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "o Our CEO pay ratio is calculated in accordance with Item 402(u) of Regulation S-K and provides a reasonable estimate of the ratio of our CEO's annual total compensation to the median of the annual total compensation of all employees, other than the CEO. Ms. Johnson had annual total compensation of $17,238,416 as reflected in the fiscal year 2024 Summary Compensation Table. Our median employee's annual total compensation was $154,596. The resulting ratio of our CEO's annual total compensation to the annual total compensation of our median employee for fiscal year 2024 was approximately 112:1. To establish the median of the annual total compensation of all of our employees, and to determine the annual total compensation of Franklin Templeton's \"median employee,\" we used the methodology, ass"
+   }
+  },
+  "0001308179-23-001092": {
+   "parserVersion": 1,
+   "filingDate": "2023-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000130817923001092/lben2024_def14a.htm",
+   "periodEnd": "2023-09-30",
+   "tenK": "0000038777-23-000169",
+   "result": {
+    "ceoPay": 15676792,
+    "medianPay": 138378,
+    "payRatio": 113,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "calculated in accordance with Item 402(u) of Regulation S-K and provides a reasonable estimate of the ratio of our CEO's annual total compensation to the median of the annual total compensation of all employees of Franklin Templeton, other than the CEO. Ms. Johnson had annual total compensation of $15,676,792 as reflected in the fiscal year 2023 Summary Compensation Table. Our median employee's annual total compensation was $138,378. The resulting ratio of our CEO's annual total compensation to the annual total compensation of our median employee for fiscal year 2023 was approximately 113 to 1. To establish the median of the annual total compensation of all of our employees, and to determine the annual total compensation of Franklin Templeton's \"median employee,\" we used the methodology,"
+   }
+  },
+  "0001308179-22-000433": {
+   "parserVersion": 1,
+   "filingDate": "2022-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000130817922000433/ben4107981-def14a.htm",
+   "periodEnd": "2022-09-30",
+   "tenK": "0000038777-22-000198",
+   "result": {
+    "ceoPay": 15734998,
+    "medianPay": 126915,
+    "payRatio": 124,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "calculated in accordance with Item 402(u) of Regulation S-K and provides a reasonable estimate of the ratio of our CEO's annual total compensation to the median of the annual total compensation of all employees of Franklin Templeton, other than the CEO. Ms. Johnson had annual total compensation of $15,734,998 as reflected in the fiscal year 2022 Summary Compensation Table. Our median employee's annual total compensation was $126,915. The resulting ratio of our CEO's annual total compensation to the annual total compensation of our median employee for fiscal year 2022 was approximately 124 to 1. To establish the median of the annual total compensation of all of our employees, and to determine the annual total compensation of Franklin Templeton's \"median employee,\" we used the methodology,"
+   }
+  },
+  "0001206774-22-000056": {
+   "parserVersion": 1,
+   "filingDate": "2022-01-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000120677422000056/ben3966241-def14a.htm",
+   "periodEnd": "2021-09-30",
+   "tenK": "0000038777-21-000205",
+   "result": {
+    "ceoPay": 9862161,
+    "medianPay": 95117,
+    "payRatio": 104,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "calculated in accordance with Item 402(u) of Regulation S-K and provides a reasonable estimate of the ratio of our CEO's annual total compensation to the median of the annual total compensation of all employees of Franklin Templeton, other than the CEO. Ms. Johnson had annual total compensation of $9,862,161 as reflected in the fiscal year 2021 Summary Compensation Table. Our median employee's annual total compensation was $95,117. The resulting ratio of our CEO's annual total compensation to the annual total compensation of our median employee for fiscal year 2021 was approximately 104 to 1. To establish the median of the annual total compensation of all of our employees, and to determine the annual total compensation of Franklin Templeton's \"median employee,\" we used the methodology, as"
+   }
+  },
+  "0001206774-20-003248": {
+   "parserVersion": 1,
+   "filingDate": "2020-12-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000120677420003248/ben3833951-def14a.htm",
+   "periodEnd": "2020-09-30",
+   "tenK": "0000038777-20-000203",
+   "result": {
+    "ceoPay": 8937954,
+    "medianPay": 57919,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "f our Summary Compensation Table for fiscal year 2020 for Mr. G Johnson and Ms. Johnson, prorated those amounts based on time served as CEO during fiscal year 2020, and added those amounts together. For fiscal year 2020, the annual total compensation of our median employee (other than our CEOs) was $57,919, and the annual total compensation of our CEO was $8,937,954, calculated as described above. Based on this information, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee (other than our CEO) was approximately 154 to 1. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K and may not be comparable to the pay ratio reported by other companies because the SEC rules for identify"
+   }
+  },
+  "0001206774-19-003966": {
+   "parserVersion": 1,
+   "filingDate": "2019-12-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000120677419003966/ben3646281-def14a.htm",
+   "periodEnd": "2019-09-30",
+   "tenK": "0000038777-19-000186",
+   "result": {
+    "ceoPay": 10431335,
+    "medianPay": 63941,
+    "payRatio": 163,
+    "method": "cross-checked",
+    "employees": 9700,
+    "statedYear": 2019,
+    "excerpt": "information about the relationship of the annual total compensation of our median employee and the annual total compensation of Mr. Gregory E. Johnson, our Chairman of the Board and CEO. For fiscal year 2019, the annual total compensation of our median employee (other than our Chairman and CEO) was $63,941, and the annual total compensation of our Chairman and CEO was $10,431,335. Based on this information, the ratio of the annual total compensation of our Chairman and CEO to the annual total compensation of our median employee (other than our Chairman and CEO) was approximately 163 to 1. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K and may not be comparable to the pay ratio reported by other companies because the SEC rules for"
+   }
+  },
+  "0001206774-18-003548": {
+   "parserVersion": 1,
+   "filingDate": "2018-12-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000120677418003548/franklin3460961-def14a.htm",
+   "periodEnd": "2018-09-30",
+   "tenK": "0000038777-18-000233",
+   "result": {
+    "ceoPay": 9450152,
+    "medianPay": 60194,
+    "payRatio": 157,
+    "method": "cross-checked",
+    "employees": 9700,
+    "statedYear": 2018,
+    "excerpt": "e relationship of the annual total compensation of our median employee and the annual total compensation of Mr. Gregory E. Johnson, our Chairman of the Board and Chief Executive Officer. For fiscal year 2018, the annual total compensation of our median employee (other than our Chairman and CEO) was $60,194, and the annual total compensation of our Chairman and CEO was $9,450,152. Based on this information, the ratio of the annual total compensation of our Chairman and CEO to the annual total compensation of our median employee (other than our Chairman and CEO) was approximately 157 to 1. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K based on the methodology set forth below. For purposes of identifying our median employee, we use"
+   }
+  },
+  "0001206774-18-000008": {
+   "parserVersion": 1,
+   "filingDate": "2018-01-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/38777/000120677418000008/franklin3306241-def14a.htm",
+   "periodEnd": "2017-09-30",
+   "tenK": "0000038777-17-000268",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0000038777-20-000203": {
+   "parserVersion": 1,
+   "employees": 11800
+  },
+  "0000038777-21-000205": {
+   "parserVersion": 1,
+   "employees": 10300
+  },
+  "0000038777-22-000198": {
+   "parserVersion": 1,
+   "employees": 9800
+  },
+  "0000038777-23-000169": {
+   "parserVersion": 1,
+   "employees": 9200
+  },
+  "0000038777-24-000206": {
+   "parserVersion": 1,
+   "employees": 10200
+  },
+  "0000038777-25-000238": {
+   "parserVersion": 1,
+   "employees": 9800
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 6205769000,
+    "periodEnd": "2007-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-09-241304"
+   },
+   "2008": {
+    "revenue": 6032386000,
+    "periodEnd": "2008-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-261858"
+   },
+   "2009": {
+    "revenue": 4194087000,
+    "periodEnd": "2009-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000038777-11-000225"
+   },
+   "2010": {
+    "revenue": 5853000000,
+    "periodEnd": "2010-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000038777-12-000243"
+   },
+   "2011": {
+    "revenue": 7140000000,
+    "periodEnd": "2011-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000038777-13-000227"
+   },
+   "2012": {
+    "revenue": 7101000000,
+    "periodEnd": "2012-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000038777-14-000259"
+   },
+   "2013": {
+    "revenue": 7985000000,
+    "periodEnd": "2013-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000038777-15-000278"
+   },
+   "2014": {
+    "revenue": 8491400000,
+    "periodEnd": "2014-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000038777-16-000609"
+   },
+   "2015": {
+    "revenue": 7948700000,
+    "periodEnd": "2015-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000038777-17-000268"
+   },
+   "2016": {
+    "revenue": 6618000000,
+    "periodEnd": "2016-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000038777-18-000233"
+   },
+   "2017": {
+    "revenue": 6392200000,
+    "periodEnd": "2017-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000038777-19-000186"
+   },
+   "2018": {
+    "revenue": 6319100000,
+    "periodEnd": "2018-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000038777-19-000186"
+   },
+   "2019": {
+    "revenue": 5774500000,
+    "periodEnd": "2019-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000038777-19-000186"
+   },
+   "2020": {
+    "revenue": 5566500000,
+    "periodEnd": "2020-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000038777-22-000198"
+   },
+   "2021": {
+    "revenue": 8425500000,
+    "periodEnd": "2021-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000038777-23-000169"
+   },
+   "2022": {
+    "revenue": 8275300000,
+    "periodEnd": "2022-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000038777-24-000206"
+   },
+   "2023": {
+    "revenue": 7849400000,
+    "periodEnd": "2023-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000038777-25-000238"
+   },
+   "2024": {
+    "revenue": 8478000000,
+    "periodEnd": "2024-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000038777-26-000289"
+   },
+   "2025": {
+    "revenue": 8770700000,
+    "periodEnd": "2025-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000038777-26-000289"
+   },
+   "2026": {
+    "revenue": 9415300000,
+    "periodEnd": "2026-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000038777-26-000289"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000038777-26-000289",
+    "filingDate": "2026-11-09",
+    "reportDate": "2026-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877726000289/ben-20260930.htm"
+   },
+   {
+    "accession": "0000038777-25-000238",
+    "filingDate": "2025-11-10",
+    "reportDate": "2025-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877725000238/ben-20250930.htm"
+   },
+   {
+    "accession": "0000038777-24-000206",
+    "filingDate": "2024-11-12",
+    "reportDate": "2024-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877724000206/ben-20240930.htm"
+   },
+   {
+    "accession": "0000038777-23-000169",
+    "filingDate": "2023-11-14",
+    "reportDate": "2023-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877723000169/ben-20230930.htm"
+   },
+   {
+    "accession": "0000038777-22-000198",
+    "filingDate": "2022-11-14",
+    "reportDate": "2022-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877722000198/ben-20220930.htm"
+   },
+   {
+    "accession": "0000038777-21-000205",
+    "filingDate": "2021-11-19",
+    "reportDate": "2021-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877721000205/ben-20210930.htm"
+   },
+   {
+    "accession": "0000038777-20-000203",
+    "filingDate": "2020-11-23",
+    "reportDate": "2020-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877720000203/form10-k93020.htm"
+   },
+   {
+    "accession": "0000038777-19-000186",
+    "filingDate": "2019-11-12",
+    "reportDate": "2019-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877719000186/form10k93019.htm"
+   },
+   {
+    "accession": "0000038777-18-000233",
+    "filingDate": "2018-11-09",
+    "reportDate": "2018-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877718000233/form10k93018.htm"
+   },
+   {
+    "accession": "0000038777-17-000268",
+    "filingDate": "2017-11-13",
+    "reportDate": "2017-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/38777/000003877717000268/form10k93017.htm"
+   }
+  ]
+ }
+}

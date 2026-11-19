@@ -1,0 +1,213 @@
+{
+ "proxies": {
+  "0001104659-26-055599": {
+   "parserVersion": 1,
+   "filingDate": "2026-05-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926055599/tm2532333-4_def14a.htm",
+   "periodEnd": "2026-01-31",
+   "tenK": "0001535527-26-000010",
+   "result": {
+    "ceoPay": 247579143,
+    "medianPay": 178015,
+    "payRatio": 1391,
+    "method": "cross-checked",
+    "employees": 10586,
+    "statedYear": 2026,
+    "excerpt": "ements of Section 953(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (which we collectively refer to as the \"Pay Ratio Rule\"), we are providing the following estimated information for fiscal 2026: • the median of the annual total compensation of all our employees (excluding our CEO) was $178,015; • the annual total compensation of our CEO was $247,579,143; and • the ratio of these two amounts was 1,391 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. Methodology for Identifying Our Median Employee Employee Population To identify the median of the annual total compensation of all of our employees (other than our CEO) for fiscal 2026, we first identified our total employee population from whic"
+   }
+  },
+  "0001104659-25-045047": {
+   "parserVersion": 1,
+   "filingDate": "2025-05-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465925045047/tm252455-2_def14a.htm",
+   "periodEnd": "2025-01-31",
+   "tenK": "0001535527-25-000009",
+   "result": {
+    "ceoPay": 35195300,
+    "medianPay": 222761,
+    "payRatio": 158,
+    "method": "cross-checked",
+    "employees": 9964,
+    "statedYear": 2025,
+    "excerpt": "ements of Section 953(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (which we collectively refer to as the \"Pay Ratio Rule\"), we are providing the following estimated information for fiscal 2025: • the median of the annual total compensation of all our employees (excluding our CEO) was $222,761; • the annual total compensation of our CEO was $35,195,300; and • the ratio of these two amounts was 158 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. Methodology for Identifying Our Median Employee Employee Population To identify the median of the annual total compensation of all of our employees (other than our CEO) for fiscal 2025, we first identified our total employee population from which w"
+   }
+  },
+  "0001104659-24-057449": {
+   "parserVersion": 1,
+   "filingDate": "2024-05-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465924057449/tm242831d2_def14a.htm",
+   "periodEnd": "2024-01-31",
+   "tenK": "0001535527-24-000007",
+   "result": {
+    "ceoPay": 46983855,
+    "medianPay": 198296,
+    "payRatio": 237,
+    "method": "cross-checked",
+    "employees": 7805,
+    "statedYear": 2024,
+    "excerpt": "ements of Section 953(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (which we collectively refer to as the \"Pay Ratio Rule\"), we are providing the following estimated information for fiscal 2024: • the median of the annual total compensation of all our employees (excluding our CEO) was $198,296; • the annual total compensation of our CEO was $46,983,855; and • the ratio of these two amounts was 237 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. Methodology for Identifying Our Median Employee Employee Population To identify the median of the annual total compensation of all of our employees (other than our CEO) for fiscal 2024, we first identified our total employee population from which w"
+   }
+  },
+  "0001104659-23-056548": {
+   "parserVersion": 1,
+   "filingDate": "2023-05-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465923056548/tm232065-3_def14a.htm",
+   "periodEnd": "2023-01-31",
+   "tenK": "0001535527-23-000008",
+   "result": {
+    "ceoPay": 36532681,
+    "medianPay": 206034,
+    "payRatio": 177,
+    "method": "cross-checked",
+    "employees": 7183,
+    "statedYear": 2023,
+    "excerpt": "ements of Section 953(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (which we collectively refer to as the \"Pay Ratio Rule\"), we are providing the following estimated information for fiscal 2023: • the median of the annual total compensation of all our employees (excluding our CEO) was $206,034; • the annual total compensation of our CEO was $36,532,681; and • the ratio of these two amounts was 177 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. Methodology for Identifying Our Median Employee Employee Population To identify the median of the annual total compensation of all of our employees (other than our CEO) for fiscal 2023, we first identified our total employee population from which w"
+   }
+  },
+  "0001104659-22-057039": {
+   "parserVersion": 1,
+   "filingDate": "2022-05-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465922057039/tm229592-1_def14a.htm",
+   "periodEnd": "2022-01-31",
+   "tenK": "0001535527-22-000006",
+   "result": {
+    "ceoPay": 147695746,
+    "medianPay": 183564,
+    "payRatio": 805,
+    "method": "cross-checked",
+    "employees": 4733,
+    "statedYear": 2022,
+    "excerpt": "ements of Section 953(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (which we collectively refer to as the \"Pay Ratio Rule\"), we are providing the following estimated information for fiscal 2022: • the median of the annual total compensation of all our employees (excluding our CEO) was $183,564; • the annual total compensation of our CEO was $147,695,746; and • the ratio of these two amounts was 805 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. Methodology for Identifying Our Median Employee Employee Population To identify the median of the annual total compensation of all of our employees (other than our CEO), we first identified our total employee population from which we determined ou"
+   }
+  },
+  "0001104659-21-066463": {
+   "parserVersion": 1,
+   "filingDate": "2021-05-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465921066463/tm214527-1_def14a.htm",
+   "periodEnd": "2021-01-31",
+   "tenK": "0001535527-21-000007",
+   "result": null
+  },
+  "0001047469-20-003177": {
+   "parserVersion": 1,
+   "filingDate": "2020-05-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1535527/000104746920003177/a2241598zdef14a.htm",
+   "periodEnd": "2020-01-31",
+   "tenK": "0001535527-20-000006",
+   "result": null
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2018": {
+    "revenue": 118752000,
+    "periodEnd": "2018-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001535527-20-000006"
+   },
+   "2019": {
+    "revenue": 249824000,
+    "periodEnd": "2019-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001535527-21-000007"
+   },
+   "2020": {
+    "revenue": 481413000,
+    "periodEnd": "2020-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001535527-22-000006"
+   },
+   "2021": {
+    "revenue": 874438000,
+    "periodEnd": "2021-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001535527-23-000008"
+   },
+   "2022": {
+    "revenue": 1451594000,
+    "periodEnd": "2022-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001535527-24-000007"
+   },
+   "2023": {
+    "revenue": 2241236000,
+    "periodEnd": "2023-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001535527-25-000009"
+   },
+   "2024": {
+    "revenue": 3055555000,
+    "periodEnd": "2024-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001535527-26-000010"
+   },
+   "2025": {
+    "revenue": 3953624000,
+    "periodEnd": "2025-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001535527-26-000010"
+   },
+   "2026": {
+    "revenue": 4812005000,
+    "periodEnd": "2026-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001535527-26-000010"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 147695746,
+   "2023": 36532681,
+   "2024": 46983855,
+   "2025": 35195300,
+   "2026": 247579143
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001535527-26-000010",
+    "filingDate": "2026-03-05",
+    "reportDate": "2026-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000010/crwd-20260131.htm"
+   },
+   {
+    "accession": "0001535527-25-000009",
+    "filingDate": "2025-03-10",
+    "reportDate": "2025-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552725000009/crwd-20250131.htm"
+   },
+   {
+    "accession": "0001535527-24-000007",
+    "filingDate": "2024-03-07",
+    "reportDate": "2024-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552724000007/crwd-20240131.htm"
+   },
+   {
+    "accession": "0001535527-23-000008",
+    "filingDate": "2023-03-09",
+    "reportDate": "2023-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552723000008/crwd-20230131.htm"
+   },
+   {
+    "accession": "0001535527-22-000006",
+    "filingDate": "2022-03-16",
+    "reportDate": "2022-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552722000006/crwd-20220131.htm"
+   },
+   {
+    "accession": "0001535527-21-000007",
+    "filingDate": "2021-03-18",
+    "reportDate": "2021-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552721000007/crwd-20210131.htm"
+   },
+   {
+    "accession": "0001535527-20-000006",
+    "filingDate": "2020-03-23",
+    "reportDate": "2020-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552720000006/crwd-20200131.htm"
+   }
+  ]
+ }
+}

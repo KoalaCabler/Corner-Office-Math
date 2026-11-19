@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001501585-26-000014": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158526000014/hii-20260320.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001501585-26-000006",
+   "result": {
+    "ceoPay": 13809406,
+    "medianPay": 85536,
+    "payRatio": 161,
+    "method": "cross-checked",
+    "employees": 43601,
+    "statedYear": 2025,
+    "excerpt": "as $85,536 and the annual total compensation of our CEO, as reported in the Summary Compensation Table above, was $13,809,406. Based upon this information, the ratio of the annual total compensation of our CEO in 2025, Mr. Kastner, to the median of the annual total compensation of all employees was 161 to 1. | | | | | | | | | | | | | | | | | | | | | | | CEO | | Median Employee | | Pay Ratio | | Summary Total Compensation and Pay Ratio | | | $ | | 13,809,406 | | | | $ | | 85,536 | | | | 161 | Our process for identifying the median of the annual total compensation of all our employees, as well as determining the annual total compensation of our median employee and our CEO, was as follows: We determined that, as of December 31, 2025, our employee population consisted of approximately 43,601 i"
+   }
+  },
+  "0001501585-25-000023": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158525000023/hii-20250320.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001501585-25-000006",
+   "result": {
+    "ceoPay": 14553665,
+    "medianPay": 77857,
+    "payRatio": 187,
+    "method": "cross-checked",
+    "employees": 44258,
+    "statedYear": 2024,
+    "excerpt": "as $77,857 and the annual total compensation of our CEO, as reported in the Summary Compensation Table above, was $14,545,636. Based upon this information, the ratio of the annual total compensation of our CEO in 2024, Mr. Kastner, to the median of the annual total compensation of all employees was 187 to 1. | | | | | | | | | | | | | | | | | | | | | | | CEO | | Median Employee | | Pay Ratio | | Summary Total Compensation and Pay Ratio | | | $ | | 14,553,665 | | | | $ | | 77,857 | | | | 187 | Our process for identifying the median of the annual total compensation of all our employees, as well as determining the annual total compensation of our median employee and our CEO, was as follows: We determined that, as of December 31, 2024, our employee population consisted of approximately 44,258 i"
+   }
+  },
+  "0001193125-24-071268": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000119312524071268/d542037ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001501585-24-000007",
+   "result": {
+    "ceoPay": 14100619,
+    "medianPay": 84115,
+    "payRatio": 168,
+    "method": "cross-checked",
+    "employees": 44261,
+    "statedYear": 2023,
+    "excerpt": "as $84,115 and the annual total compensation of our CEO, as reported in the Summary Compensation Table above, was $14,100,619. Based upon this information, the ratio of the annual total compensation of our CEO in 2023, Mr. Kastner, to the median of the annual total compensation of all employees was 168 to 1. | | | | | | | | | | | | Summary Total Compensation and Pay Ratio | | | | CEO | | | | Median Employee | | | | Pay Ratio | | | | $14,100,619 | | | | $84,115 | | | | 168 | Our process for identifying the median of the annual total compensation of all our employees, as well as determining the annual total compensation of our median employee and our CEO, was as follows: We determined that, as of December 31, 2023, our employee population consisted of approximately 44,261 individuals. For pu"
+   }
+  },
+  "0001193125-23-074724": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000119312523074724/d252789ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001501585-23-000010",
+   "result": {
+    "ceoPay": 7742266,
+    "medianPay": 89990,
+    "payRatio": 86,
+    "method": "cross-checked",
+    "employees": 45982,
+    "statedYear": 2022,
+    "excerpt": "as $89,990, and the annual total compensation of our CEO, as reported in the Summary Compensation Table above, was $7,742,266. Based upon this information, the ratio of the annual total compensation of our CEO in 2022, Mr. Kastner, to the median of the annual total compensation of all employees was 86 to 1. | | | | | | | | | | | | | | | | | | | | | | | Summary Total Compensation and Pay Ratio | | | | CEO | | | | Median Employee | | | | Pay Ratio | | | | $7,742,266 | | | | $89,990 | | | | 86 | Our process for identifying the median of the annual total compensation of all our employees, as well as determining the annual total compensation of our median employee and our CEO, was as follows: We determined that, as of December 31, 2022, our employee population consisted of approximately 45,982"
+   }
+  },
+  "0001193125-22-080314": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000119312522080314/d298364ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001501585-22-000007",
+   "result": {
+    "ceoPay": 7714067,
+    "medianPay": 69551,
+    "payRatio": 111,
+    "method": "cross-checked",
+    "employees": 47105,
+    "statedYear": 2021,
+    "excerpt": "as $69,551, and the annual total compensation of our CEO, as reported in the Summary Compensation Table above, was $7,714,067. Based upon this information, the ratio of the annual total compensation of our CEO in 2021, Mr. Petters, to the median of the annual total compensation of all employees was 111 to 1. | | | | | | | | | | | | | | | | | | | | | | | Summary Total Compensation and Pay Ratio | | | | CEO | | | | Median Employee | | | | Pay Ratio | | | | $7,714,067 | | | | $69,551 | | | | 111 | Our process for identifying the median of the annual total compensation of all our employees, as well as determining the annual total compensation of our median employee and our CEO, was as follows: We determined that, as of December 31, 2021, our employee population consisted of approximately 47,10"
+   }
+  },
+  "0001193125-21-087134": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000119312521087134/d848290ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001501585-21-000008",
+   "result": {
+    "ceoPay": 6440417,
+    "medianPay": 71130,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": 42513,
+    "statedYear": 2020,
+    "excerpt": "ompany was $71,130, and the annual total compensation of our CEO, as reported in the Summary Compensation Table above, was $6,440,417. Based upon this information, the ratio of the annual total compensation of our CEO, Mr. Petters, to the median of the annual total compensation of all employees was 91 to 1. | | | | | | | | | | | | | | | | | | | | | | | Summary Total Compensation And Pay Ratio | | | | CEO | | | | Median Employee | | | | Pay Ratio | | | | $6,440,417 | | | | $71,130 | | | | 91 | In order to identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of our median employee and our CEO, our process was as follows: We determined that, as of December 31, 2020, our employee population consisted of approximately 4"
+   }
+  },
+  "0001193125-20-074463": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000119312520074463/d838526ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001501585-20-000011",
+   "result": {
+    "ceoPay": 8641992,
+    "medianPay": 73108,
+    "payRatio": 118,
+    "method": "cross-checked",
+    "employees": 41747,
+    "statedYear": 2019,
+    "excerpt": "ompany was $73,108, and the annual total compensation of our CEO, as reported in the Summary Compensation Table above, was $8,641,992. Based upon this information, the ratio of the annual total compensation of our CEO, Mr. Petters, to the median of the annual total compensation of all employees was 118 to 1. | | | | | | | | | | | | | | | | | | | | | | | Summary Total Compensation And Pay Ratio | | | | CEO | | | | Median Employee | | | | Pay Ratio | | | | $8,641,992 | | | | $73,108 | | | | 118 | In order to identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of our median employee and our CEO, our process was as follows: We determined that, as of December 31, 2019, our employee population consisted of approximately"
+   }
+  },
+  "0001193125-19-077553": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000119312519077553/d699954ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001501585-19-000005",
+   "result": {
+    "ceoPay": 5551979,
+    "medianPay": 69824,
+    "payRatio": 80,
+    "method": "cross-checked",
+    "employees": 40166,
+    "statedYear": 2018,
+    "excerpt": "ompany was $69,824, and the annual total compensation of our CEO, as reported in the Summary Compensation Table above, was $5,551,979. Based upon this information, the ratio of the annual total compensation of our CEO, Mr. Petters, to the median of the annual total compensation of all employees was 80 to 1. | | | | | | | | | | | | | | | | | | | | | | | Summary Total Compensation And Pay Ratio | | | | CEO | | | | Median Employee | | | | Pay Ratio | | | | $5,551,979 | | | | $69,824 | | | | 80 | In order to identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of our median employee and our CEO, our process was as follows: We determined that, as of December 31, 2018, our employee population consisted of approximately 4"
+   }
+  },
+  "0001193125-18-088931": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1501585/000119312518088931/d479657ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001501585-18-000006",
+   "result": {
+    "ceoPay": 7974179,
+    "medianPay": 132546,
+    "payRatio": 60,
+    "method": "cross-checked",
+    "employees": 38929,
+    "statedYear": 2017,
+    "excerpt": "company was $132,546, and the annual total compensation of our CEO, as reported in the Summary Compensation Table above, was $7,974,179. Based on this information, the ratio of the annual total compensation of our CEO, Mr. Petters, to the median of the annual total compensation of all employees was 60 to 1. | | | | | | | | | | | | | | | Summary Total Compensation and Pay Ratio | | | | CEO | | | | Median Employee | | | | Pay Ratio | | | | $7,974,179 | | | | $132,546 | | | | 60 | In order to identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of our median employee and our CEO, we took the following steps: We determined that, as of December 31, 2017, our employee population consisted of approximately 38,929 individu"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 6292000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-138529"
+   },
+   "2010": {
+    "revenue": 6723000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001501585-13-000003"
+   },
+   "2011": {
+    "revenue": 6575000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001501585-14-000005"
+   },
+   "2012": {
+    "revenue": 6708000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001501585-15-000005"
+   },
+   "2013": {
+    "revenue": 6820000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001501585-16-000038"
+   },
+   "2014": {
+    "revenue": 6957000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001501585-17-000005"
+   },
+   "2015": {
+    "revenue": 7020000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001501585-18-000006"
+   },
+   "2016": {
+    "revenue": 7068000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001501585-19-000005"
+   },
+   "2017": {
+    "revenue": 7441000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001501585-20-000011"
+   },
+   "2018": {
+    "revenue": 8176000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001501585-21-000008"
+   },
+   "2019": {
+    "revenue": 8899000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001501585-22-000007"
+   },
+   "2020": {
+    "revenue": 9361000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001501585-23-000010"
+   },
+   "2021": {
+    "revenue": 9524000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001501585-24-000007"
+   },
+   "2022": {
+    "revenue": 10676000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001501585-25-000006"
+   },
+   "2023": {
+    "revenue": 11454000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001501585-26-000006"
+   },
+   "2024": {
+    "revenue": 11535000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001501585-26-000006"
+   },
+   "2025": {
+    "revenue": 12484000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001501585-26-000006"
+   }
+  },
+  "employeesTagged": {
+   "0001501585-16-000038": 36000,
+   "0001501585-17-000005": 37000,
+   "0001501585-18-000006": 38000,
+   "0001501585-19-000005": 40000,
+   "0001501585-20-000011": 42000,
+   "0001501585-21-000008": 42000,
+   "0001501585-22-000007": 44000,
+   "0001501585-23-000010": 43000,
+   "0001501585-24-000007": 44000,
+   "0001501585-25-000006": 44000,
+   "0001501585-26-000006": 44000
+  },
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001501585-26-000006",
+    "filingDate": "2026-02-05",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158526000006/hii-20251231.htm"
+   },
+   {
+    "accession": "0001501585-25-000006",
+    "filingDate": "2025-02-06",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158525000006/hii-20241231.htm"
+   },
+   {
+    "accession": "0001501585-24-000007",
+    "filingDate": "2024-02-01",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158524000007/hii-20231231.htm"
+   },
+   {
+    "accession": "0001501585-23-000010",
+    "filingDate": "2023-02-09",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158523000010/hii-20221231.htm"
+   },
+   {
+    "accession": "0001501585-22-000007",
+    "filingDate": "2022-02-10",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158522000007/hii-20211231.htm"
+   },
+   {
+    "accession": "0001501585-21-000008",
+    "filingDate": "2021-02-11",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158521000008/hii-20201231.htm"
+   },
+   {
+    "accession": "0001501585-20-000011",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158520000011/hii-20191231.htm"
+   },
+   {
+    "accession": "0001501585-19-000005",
+    "filingDate": "2019-02-14",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158519000005/hii201810-k.htm"
+   },
+   {
+    "accession": "0001501585-18-000006",
+    "filingDate": "2018-02-15",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158518000006/hii201710-k.htm"
+   },
+   {
+    "accession": "0001501585-17-000005",
+    "filingDate": "2017-02-16",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1501585/000150158517000005/hii201610-k.htm"
+   }
+  ]
+ }
+}

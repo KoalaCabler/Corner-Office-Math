@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0000080661-26-000099": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000099/pgr-20260318.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000080661-26-000086",
+   "result": {
+    "ceoPay": 17705924,
+    "medianPay": 86906,
+    "payRatio": 204,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ligible employees are calculated in the same manner as the executive annual incentive payments described in \"- Narrative Disclosure to Summary Compensation Table and Grants of Plan-Based Awards Table - Non-Equity Incentive Compensation.\" For 2025, our median employee's total annual compensation was $86,906 and our CEO's total annual compensation was $17,705,924, which results in a pay ratio of CEO compensation to median employee compensation of 204:1. Given the different methodologies used by various public companies, the ratio reported above should not be used as a basis of comparison between or among companies, including companies in our peer group. 65 PAY VERSUS PERFORMANCE The table below sets forth information regarding compensation for our CEO and non-CEO NEOs, along with the financi"
+   }
+  },
+  "0000080661-25-000018": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066125000018/pgr-20250324.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000080661-25-000007",
+   "result": {
+    "ceoPay": 16377514,
+    "medianPay": 72617,
+    "payRatio": 226,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ligible employees are calculated in the same manner as the executive annual incentive payments described in \"- Narrative Disclosure to Summary Compensation Table and Grants of Plan-Based Awards Table - Non-Equity Incentive Compensation.\" For 2024, our median employee's total annual compensation was $72,617 and our CEO's total annual compensation was $16,377,514, which results in a pay ratio of CEO compensation to median employee compensation of 226:1. Given the different methodologies used by various public companies, the ratio reported above should not be used as a basis of comparison between or among companies, including companies in our peer group. 66 PAY VERSUS PERFORMANCE The table below sets forth information regarding compensation for our CEO and non-CEO NEOs, along with the financi"
+   }
+  },
+  "0000080661-24-000014": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066124000014/pgr-20240325.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000080661-24-000007",
+   "result": {
+    "ceoPay": 15636618,
+    "medianPay": 71672,
+    "payRatio": 218,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ligible employees are calculated in the same manner as the executive annual incentive payments described in \"- Narrative Disclosure to Summary Compensation Table and Grants of Plan-Based Awards Table - Non-Equity Incentive Compensation.\" For 2023, our median employee's total annual compensation was $71,672 and our CEO's total annual compensation was $15,636,618, which results in a pay ratio of CEO compensation to median employee compensation of 218:1. Given the different methodologies used by various public companies, the ratio reported above should not be used as a basis of comparison between or among companies, including companies in our peer group. 68 PAY VERSUS PERFORMANCE The table below sets forth information regarding compensation for our CEO and non-CEO NEOs, along with the financi"
+   }
+  },
+  "0000080661-23-000017": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066123000017/pgr-20230327.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000080661-23-000006",
+   "result": {
+    "ceoPay": 12748826,
+    "medianPay": 64488,
+    "payRatio": 198,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ligible employees are calculated in the same manner as the executive annual incentive payments described in \"- Narrative Disclosure to Summary Compensation Table and Grants of Plan-Based Awards Table - Non-Equity Incentive Compensation.\" For 2022, our median employee's total annual compensation was $64,488 and our CEO's total annual compensation was $12,748,826, which results in a pay ratio of CEO compensation to median employee compensation of 198:1. Given the different methodologies used by various public companies, the ratio reported above should not be used as a basis of comparison between or among companies, including companies in our peer group. 63 PAY VERSUS PERFORMANCE The table below sets forth information regarding compensation for our CEO and non-CEO NEOs, along with the financi"
+   }
+  },
+  "0000080661-22-000054": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066122000054/progressivecorp2022def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000080661-22-000046",
+   "result": {
+    "ceoPay": 14462961,
+    "medianPay": 65874,
+    "payRatio": 220,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ligible employees are calculated in the same manner as the executive annual incentive payments described in \"- Narrative Disclosure to Summary Compensation Table and Grants of Plan-Based Awards Table - Non-Equity Incentive Compensation.\" For 2021, our median employee's total annual compensation was $65,874 and our CEO's total annual compensation was $14,462,961, which results in a pay ratio of CEO compensation to median employee compensation of 220:1. Given the different methodologies used by various public companies, the ratio reported above should not be used as a basis of comparison between or among companies, including companies in our peer group. 58 DIRECTOR COMPENSATION COMPENSATION OF NON-EMPLOYEE DIRECTORS AT FISCAL YEAR-END Compensation of our non-employee directors for the year e"
+   }
+  },
+  "0000080661-21-000026": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066121000026/progressivecorp2021def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000080661-21-000014",
+   "result": {
+    "ceoPay": 15220523,
+    "medianPay": 72368,
+    "payRatio": 210,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ligible employees are calculated in the same manner as the executive annual incentive payments described in \"- Narrative Disclosure to Summary Compensation Table and Grants of Plan-Based Awards Table - Non-Equity Incentive Compensation.\" For 2020, our median employee's total annual compensation was $72,368 and our CEO's total annual compensation was $15,220,523, which results in a pay ratio of CEO compensation to median employee compensation of 210:1. Given the different methodologies used by various public companies, the ratio reported above should not be used as a basis of comparison between or among companies, including companies in our peer group. 54 DIRECTOR COMPENSATION COMPENSATION OF NON-EMPLOYEE DIRECTORS AT FISCAL YEAR-END In May 2020, the Compensation Committee reviewed market d"
+   }
+  },
+  "0000080661-20-000014": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066120000014/progressivecorp2020def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000080661-20-000006",
+   "result": {
+    "ceoPay": 14041272,
+    "medianPay": 66285,
+    "payRatio": 212,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ligible employees are calculated in the same manner as the executive annual incentive payments described in \"- Narrative Disclosure to Summary Compensation Table and Grants of Plan-Based Awards Table - Non-Equity Incentive Compensation.\" For 2019, our median employee's total annual compensation was $66,285 and our CEO's total annual compensation was $14,041,272, which results in a pay ratio of CEO compensation to median employee compensation of 212:1. Given the different methodologies to be used by various public companies, the ratio reported above should not be used as a basis of comparison between or among companies, including companies in our peer group. 49 DIRECTOR COMPENSATION COMPENSATION OF NON-EMPLOYEE DIRECTORS AT FISCAL YEAR-END Compensation of our non-employee directors for the"
+   }
+  },
+  "0000080661-19-000018": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066119000018/progressivecorp2019def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000080661-19-000008",
+   "result": {
+    "ceoPay": 14172925,
+    "medianPay": 62925,
+    "payRatio": 225,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "eligible employees are calculated in the same manner as the executive annual incentive payments described in \"-Narrative Disclosure to Summary Compensation Table and Grants of Plan-Based Awards Table - Non-Equity Incentive Compensation.\" For 2018, our median employee's total annual compensation was $62,925 and our CEO's total annual compensation was $14,172,925, which results in a pay ratio of CEO compensation to median employee compensation of 225:1. Given the different methodologies to be used by various public companies, the ratio reported above should not be used as a basis of comparison between or among companies. 55 Compensation of Non-Employee Directors Total compensation of our non-employee directors for the year ended December 31, 2018 , was as follows: DIRECTOR COMPENSATION YEAR"
+   }
+  },
+  "0000080661-18-000020": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066118000020/progressivecorp2018def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000080661-18-000011",
+   "result": {
+    "ceoPay": 9274439,
+    "medianPay": 68304,
+    "payRatio": 136,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ligible employees are calculated in the same manner as the executive annual incentive payments described in \"Narrative Disclosure to Summary Compensation Table and Grants of Plan-Based Awards Table - Non-Equity Incentive Compensation.\" For 2017: • Our median employee's total annual compensation was $68,304, consisting of base pay of $56,769, Gainsharing earned of $8,129, and 401(k) company match of $3,406; • Our CEO, Mrs. Griffith's, total annual compensation was $9,274,439, consisting of base pay of $721,154, Gainsharing earned under the Executive Plan of $1,936,298, equity compensation valued at $6,525,051, and perquisites and other benefits of $91,936; and • The ratio of our CEO compensation to median employee compensation was 136:1 Given the different methodologies to be used by variou"
+   }
+  }
+ },
+ "tenKs": {
+  "0000080661-18-000011": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000080661-19-000008": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000080661-20-000006": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000080661-21-000014": {
+   "parserVersion": 1,
+   "employees": 43326
+  },
+  "0000080661-22-000046": {
+   "parserVersion": 1,
+   "employees": 15000
+  },
+  "0000080661-23-000006": {
+   "parserVersion": 1,
+   "employees": 15000
+  },
+  "0000080661-24-000007": {
+   "parserVersion": 1,
+   "employees": 16000
+  },
+  "0000080661-25-000007": {
+   "parserVersion": 1,
+   "employees": 17000
+  },
+  "0000080661-26-000086": {
+   "parserVersion": 1,
+   "employees": 18000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 14686800000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-044296"
+   },
+   "2008": {
+    "revenue": 12840100000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-051378"
+   },
+   "2009": {
+    "revenue": 14563600000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-083846"
+   },
+   "2010": {
+    "revenue": 15215500000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-075784"
+   },
+   "2011": {
+    "revenue": 15774600000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-14-000010"
+   },
+   "2012": {
+    "revenue": 17083900000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-15-000010"
+   },
+   "2013": {
+    "revenue": 18170900000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-16-000080"
+   },
+   "2014": {
+    "revenue": 19391400000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-17-000012"
+   },
+   "2015": {
+    "revenue": 20853800000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-18-000011"
+   },
+   "2016": {
+    "revenue": 23441400000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-19-000008"
+   },
+   "2017": {
+    "revenue": 26839000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-20-000006"
+   },
+   "2018": {
+    "revenue": 31979000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-21-000014"
+   },
+   "2019": {
+    "revenue": 39022300000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-22-000046"
+   },
+   "2020": {
+    "revenue": 42658100000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-23-000006"
+   },
+   "2021": {
+    "revenue": 47702000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-24-000007"
+   },
+   "2022": {
+    "revenue": 49611000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-25-000007"
+   },
+   "2023": {
+    "revenue": 62109000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-26-000086"
+   },
+   "2024": {
+    "revenue": 75372000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-26-000086"
+   },
+   "2025": {
+    "revenue": 87671000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000080661-26-000086"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000080661-26-000086",
+    "filingDate": "2026-03-02",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000086/pgr-20251231.htm"
+   },
+   {
+    "accession": "0000080661-25-000007",
+    "filingDate": "2025-03-03",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066125000007/pgr-20241231.htm"
+   },
+   {
+    "accession": "0000080661-24-000007",
+    "filingDate": "2024-02-26",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066124000007/pgr-20231231.htm"
+   },
+   {
+    "accession": "0000080661-23-000006",
+    "filingDate": "2023-02-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066123000006/pgr-20221231.htm"
+   },
+   {
+    "accession": "0000080661-22-000046",
+    "filingDate": "2022-02-28",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066122000046/pgr-20211231.htm"
+   },
+   {
+    "accession": "0000080661-21-000014",
+    "filingDate": "2021-03-01",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066121000014/pgr-20201231.htm"
+   },
+   {
+    "accession": "0000080661-20-000006",
+    "filingDate": "2020-03-02",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066120000006/pgr-20191231x10k.htm"
+   },
+   {
+    "accession": "0000080661-19-000008",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066119000008/pgr-20181231x10k.htm"
+   },
+   {
+    "accession": "0000080661-18-000011",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066118000011/pgr-20171231x10k.htm"
+   },
+   {
+    "accession": "0000080661-17-000012",
+    "filingDate": "2017-03-01",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80661/000008066117000012/pgr-20161231x10k.htm"
+   }
+  ]
+ }
+}

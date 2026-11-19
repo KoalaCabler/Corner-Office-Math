@@ -1,0 +1,327 @@
+{
+ "proxies": {
+  "0001109357-26-000040": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1109357/000110935726000040/exc-20260318.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001109357-26-000018",
+   "result": {
+    "ceoPay": 15601905,
+    "medianPay": 150905,
+    "payRatio": 103,
+    "method": "cross-checked",
+    "employees": 20175,
+    "statedYear": 2025,
+    "excerpt": "estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. We believe the methodology, assumptions, and estimates used in determining the ratio are reasonable given our specific employee population. For the year ended December 31, 2025, the total compensation for Mr. Butler was $15,601,905 as reported in the \"Total\" column of the Summary Compensation Table on page 54 . The total annual compensation for the median employee was $150,905. Based on these values, the ratio of annual total compensation of our CEO and the median of the annual total compensation of all employees for 2025 was 103:1, demonstrating Exelon's commitment to balance equitable compensation stewardship with competitively based compensation that drives and rewards performance. Because SEC rules provide"
+   }
+  },
+  "0001109357-25-000074": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1109357/000110935725000074/exc-20250319.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001109357-25-000043",
+   "result": {
+    "ceoPay": 14662925,
+    "medianPay": 146214,
+    "payRatio": 100,
+    "method": "cross-checked",
+    "employees": 20175,
+    "statedYear": 2024,
+    "excerpt": "r Protection Act and SEC rules, we are providing the following information about the relationship of annual total compensation, calculated pursuant to SEC rules, of our median employee and our CEO, Calvin G. Butler, Jr. For the year ended December 31, 2024, the total compensation for Mr. Butler was $14,662,925 as reported in the \"Total\" column of the Summary Compensation Table on page 60 . The total annual compensation for the median employee was $146,214. Based on these values, the ratio of annual total compensation of our CEO and the median of the annual total compensation of all employees for 2024 was 100:1, demonstrating Exelon's commitment to balance equitable compensation stewardship with competitively based compensation that drives and rewards performance. On December 31, 2024, our"
+   }
+  },
+  "0001109357-24-000076": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1109357/000110935724000076/exc-20240320.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001109357-24-000053",
+   "result": {
+    "ceoPay": 12266720,
+    "medianPay": 146180,
+    "payRatio": 84,
+    "method": "cross-checked",
+    "employees": 19063,
+    "statedYear": 2023,
+    "excerpt": "ratio calculations and disclosure. Accordingly, consistent with SEC rules, we have calculated and presented the CEO pay ratio for 2023, below, on the basis of the same median employee identified as of December 31, 2022. For the year ended December 31, 2023, the total compensation for Mr. Butler was $12,266,720 as reported in the \"Total\" column of the Summary Compensation Table on page 56 . The total annual compensation for the median employee was $146,180. Based on these values, the ratio of annual total compensation of our CEO and the median of the annual total compensation of all employees for 2023 was 84:1, demonstrating Exelon's commitment to balance equitable compensation stewardship with competitively based compensation that drives and rewards performance. As previously reported in o"
+   }
+  },
+  "0001308179-23-000188": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1109357/000130817923000188/exc4124431-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001109357-23-000018",
+   "result": {
+    "ceoPay": 7476526,
+    "medianPay": 143354,
+    "payRatio": 52,
+    "method": "cross-checked",
+    "employees": 19063,
+    "statedYear": 2022,
+    "excerpt": "Since Mr. Butler was appointed CEO effective December 31, 2022, we annualized his salary and non-equity incentive plan compensation values, as disclosed in the Summary Compensation Table, and added the disclosed values of his stock awards, pension, and all other compensation to arrive at a value of $7,476,526. The total annual compensation for the median employee was $143,354. Based on these values, the ratio of annual total compensation of our CEO and the median of the annual total compensation of all employees for 2022 was 52:1, demonstrating Exelon's commitment to balance equitable compensation stewardship with competitively based compensation that drives and rewards performance. On December 31, 2022, our employee population consisted of approximately 19,063 individuals (including the C"
+   }
+  },
+  "0001206774-22-000727": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1109357/000120677422000727/esc3973661-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001109357-22-000039",
+   "result": {
+    "ceoPay": 15757378,
+    "medianPay": 160633,
+    "payRatio": 98,
+    "method": "cross-checked",
+    "employees": 31497,
+    "statedYear": 2021,
+    "excerpt": "the following information about the relationship of annual total compensation, calculated pursuant to SEC rules, of our median employee and our CEO, Christopher M. Crane. For 2021, the ratio of annual total compensation of our CEO and the median of the annual total compensation of all employees was 98:1, demonstrating Exelon's commitment to balance equitable compensation stewardship with competitively based compensation that drives and rewards performance. The total annual compensation for Mr. Crane and the median employee is $15,757,378 and $160,633, respectively. On December 31, 2021, our employee population consisted of approximately 31,497 individuals (excluding the CEO), which includes four employees based in the United Kingdom and seven employees based in Canada. We chose to exclude"
+   }
+  },
+  "0001206774-21-000736": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1109357/000120677421000736/exc3825021-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001109357-21-000022",
+   "result": {
+    "ceoPay": 15178000,
+    "medianPay": 157000,
+    "payRatio": 96,
+    "method": "cross-checked",
+    "employees": 32339,
+    "statedYear": 2020,
+    "excerpt": "the following information about the relationship of annual total compensation, calculated pursuant to SEC rules, of our median employee and our CEO, Christopher M. Crane. For 2020, the ratio of annual total compensation of our CEO and the median of the annual total compensation of all employees was 96:1, demonstrating Exelon's commitment to balance equitable compensation stewardship with competitively based compensation that drives and rewards performance. The total annual compensation for Mr. Crane and the median employee is $15,178,000 and $157,000, respectively. On December 31, 2020, our employee population consisted of approximately 32,339 individuals (excluding the CEO), which includes two employees based in the United Kingdom and eight employees based in Canada. We chose to exclude t"
+   }
+  },
+  "0001206774-20-000842": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1109357/000120677420000842/exc3645661-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001109357-20-000053",
+   "result": {
+    "ceoPay": 15400000,
+    "medianPay": 126000,
+    "payRatio": 122,
+    "method": "cross-checked",
+    "employees": 34972,
+    "statedYear": 2019,
+    "excerpt": "the following information about the relationship of annual total compensation, calculated pursuant to SEC rules, of our median employee and our CEO, Christopher M. Crane. For 2019, the ratio of annual total compensation of our CEO and the median of the annual total compensation of all employees was 122:1, demonstrating Exelon's commitment to balance equitable compensation stewardship with competitively based compensation that drives and rewards performance. The total annual compensation for Mr. Crane and the median employee is $15,400,000 and $126,000, respectively. The rules governing the CEO Pay Ratio allow for utilization of the same individual for a 3-year period, provided that employee is actively employed at the company. As such, Exelon used the same individual identified in 2017 tha"
+   }
+  },
+  "0001206774-19-000934": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1109357/000120677419000934/exc3518081-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001628280-19-001107",
+   "result": {
+    "ceoPay": 15600000,
+    "medianPay": 124000,
+    "payRatio": 126,
+    "method": "cross-checked",
+    "employees": 34972,
+    "statedYear": 2018,
+    "excerpt": "the following information about the relationship of annual total compensation, calculated pursuant to SEC rules, of our median employee and our CEO, Christopher M. Crane. For 2018, the ratio of annual total compensation of our CEO and the median of the annual total compensation of all employees was 126:1, demonstrating Exelon's commitment to balance equitable compensation stewardship with competitively based compensation that drives and rewards performance. The total annual compensation for Mr. Crane and the median employee is $15,600,000 and $124,000, respectively. The rules governing the CEO Pay Ratio allow for utilization of the same individual for a 3-year period, provided that employee is actively employed at the company. As such, Exelon used the same individual identified in 2017 tha"
+   }
+  },
+  "0001206774-18-000893": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1109357/000120677418000893/exelon3284421-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001628280-18-001324",
+   "result": {
+    "ceoPay": 14857859,
+    "medianPay": 117176,
+    "payRatio": 127,
+    "method": "cross-checked",
+    "employees": 34972,
+    "statedYear": 2017,
+    "excerpt": "the following information about the relationship of annual total compensation, calculated pursuant to SEC rules, of our median employee and our CEO, Christopher M. Crane. For 2017, the ratio of annual total compensation of our CEO and the median of the annual total compensation of all employees was 127:1, demonstrating Exelon's commitment to balance equitable compensation stewardship with competitively based compensation that drives and rewards performance. The total annual compensation for Mr. Crane and the median employee is $14,857,859 and $117,176, respectively. On December 8, 2017, our employee population consisted of approximately 34,972 individuals (excluding the CEO), which includes two employees based in the United Kingdom and eight employees based in Canada. We have chosen to exc"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 18859000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-030543"
+   },
+   "2009": {
+    "revenue": 17318000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-049043"
+   },
+   "2010": {
+    "revenue": 18644000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-069749"
+   },
+   "2011": {
+    "revenue": 19063000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-051838"
+   },
+   "2012": {
+    "revenue": 23489000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-049964"
+   },
+   "2013": {
+    "revenue": 24888000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-457652"
+   },
+   "2014": {
+    "revenue": 27429000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-039639"
+   },
+   "2015": {
+    "revenue": 29447000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-18-001324"
+   },
+   "2016": {
+    "revenue": 31366000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-19-001107"
+   },
+   "2017": {
+    "revenue": 33558000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001109357-20-000053"
+   },
+   "2018": {
+    "revenue": 35978000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001109357-21-000022"
+   },
+   "2019": {
+    "revenue": 34438000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001109357-22-000039"
+   },
+   "2020": {
+    "revenue": 16663000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001109357-23-000018"
+   },
+   "2021": {
+    "revenue": 17938000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001109357-24-000053"
+   },
+   "2022": {
+    "revenue": 19078000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001109357-25-000043"
+   },
+   "2023": {
+    "revenue": 21727000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001109357-26-000018"
+   },
+   "2024": {
+    "revenue": 23028000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001109357-26-000018"
+   },
+   "2025": {
+    "revenue": 24258000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001109357-26-000018"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001109357-26-000018",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109357/000110935726000018/exc-20251231.htm"
+   },
+   {
+    "accession": "0001109357-25-000043",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109357/000110935725000043/exc-20241231.htm"
+   },
+   {
+    "accession": "0001109357-24-000053",
+    "filingDate": "2024-02-21",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109357/000110935724000053/exc-20231231.htm"
+   },
+   {
+    "accession": "0001109357-23-000018",
+    "filingDate": "2023-02-14",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109357/000110935723000018/exc-20221231.htm"
+   },
+   {
+    "accession": "0001109357-22-000039",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109357/000110935722000039/exc-20211231.htm"
+   },
+   {
+    "accession": "0001109357-21-000022",
+    "filingDate": "2021-02-24",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109357/000110935721000022/exc-20201231.htm"
+   },
+   {
+    "accession": "0001109357-20-000053",
+    "filingDate": "2020-02-11",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109357/000110935720000053/exc-20191231x10k.htm"
+   },
+   {
+    "accession": "0001628280-19-001107",
+    "filingDate": "2019-02-08",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109357/000162828019001107/exc-20181231x10k.htm"
+   },
+   {
+    "accession": "0001628280-18-001324",
+    "filingDate": "2018-02-09",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109357/000162828018001324/exc-20171231x10k.htm"
+   },
+   {
+    "accession": "0001193125-17-039639",
+    "filingDate": "2017-02-13",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1109357/000119312517039639/d339405d10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,364 @@
+{
+ "proxies": {
+  "0002077096-26-000106": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000207709626000106/ea0287420-01.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001262039-26-000007",
+   "result": {
+    "ceoPay": 11458039,
+    "medianPay": 152084,
+    "payRatio": 75.34,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "iding the following information about the relationship of the annual total compensation our Chief Executive Officer, Mr. Ken Xie (our \"CEO\"), and the median of the annual total compensation of all our employees, excluding our CEO. For 2025: • the annual total compensation of our median employee was $152,084; • the annual total compensation of our CEO as disclosed in the 2025 Summary Compensation Table was $11,458,039; and 57 Table of Contents • the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 75.34 to 1. We believe this ratio is a reasonable estimate calculated in a manner consistent with SEC rules. We were required to reidentify our median employee for 2025. For 2025, we identified the employee with compensation at t"
+   }
+  },
+  "0001174947-25-000618": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000117494725000618/ea0239232-01.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001262039-25-000011",
+   "result": {
+    "ceoPay": 13143289,
+    "medianPay": 124517,
+    "payRatio": 105,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "iding the following information about the relationship of the annual total compensation our Chief Executive Officer, Mr. Ken Xie (our \"CEO\"), and the median of the annual total compensation of all our employees, excluding our CEO. For 2024: • the annual total compensation of our median employee was $124,517; • the annual total compensation of our CEO as disclosed in the 2024 Summary Compensation Table was $13,143,289; and • the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 105 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. For purposes of calculating the pay ratio for 2024, we elected to use as our median employee the same individual that we originally identified as our medi"
+   }
+  },
+  "0001174947-24-000602": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000117494724000602/ea0203970-01.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001262039-24-000014",
+   "result": {
+    "ceoPay": 16301613,
+    "medianPay": 124446,
+    "payRatio": 130,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ng the following information about the relationship of the annual total compensation our Chief Executive Officer, Mr. Ken Xie (our \"CEO\"), and the median of the annual total compensation of all our employees of, excluding our CEO. For 2023: • the annual total compensation of our median employee was $124,446; • the annual total compensation of our CEO as disclosed in the 2023 Summary Compensation Table was $16,301,613; and • the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 130 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. 56 Table of Contents For purposes of calculating the pay ratio for 2023, we elected to use as our median employee the same individual that we originally i"
+   }
+  },
+  "0001174947-23-000676": {
+   "parserVersion": 1,
+   "filingDate": "2023-05-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000117494723000676/def14a0423_fortinetinc.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001262039-23-000010",
+   "result": {
+    "ceoPay": 14200453,
+    "medianPay": 123122,
+    "payRatio": 115,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ng the following information about the relationship of the annual total compensation our Chief Executive Officer, Mr. Ken Xie (our \"CEO\"), and the median of the annual total compensation of all our employees of, excluding our CEO. For 2022: • the annual total compensation of our median employee was $123,122; • the annual total compensation of our CEO as disclosed in the 2022 Summary Compensation Table was $14,200,453; and • the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 115 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. We were required to reidentify our median employee for 2022. For 2022, we identified the employee with compensation at the median of the annual total comp"
+   }
+  },
+  "0001104659-22-054672": {
+   "parserVersion": 1,
+   "filingDate": "2022-05-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000110465922054672/tm2212528-2_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001262039-22-000008",
+   "result": {
+    "ceoPay": 14203211,
+    "medianPay": 202875,
+    "payRatio": 70,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ng the following information about the relationship of the annual total compensation our Chief Executive Officer, Mr. Ken Xie (our \"CEO\"), and the annual total compensation of the median employee of our company, excluding our CEO. For 2021: • the annual total compensation of our median employee was $202,875; 48 TABLE OF CONTENTS • the annual total compensation of our CEO as disclosed in the 2021 Summary Compensation Table was $14,203,211; and • the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 70 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. For purposes of calculating the pay ratio for 2021, we elected to use as our median employee the same individual that we originally id"
+   }
+  },
+  "0001104659-21-056576": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000110465921056576/tm2113449-1_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001262039-21-000008",
+   "result": {
+    "ceoPay": 10654631,
+    "medianPay": 149450,
+    "payRatio": 71,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ng the following information about the relationship of the annual total compensation our Chief Executive Officer, Mr. Ken Xie (our \"CEO\"), and the annual total compensation of the median employee of our company, excluding our CEO. For 2020: • the annual total compensation of our median employee was $149,450; 38 TABLE OF CONTENTS • the annual total compensation of our CEO as disclosed in the 2020 Summary Compensation Table was $10,654,631; and • the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 71 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. For purposes of calculating the pay ratio for 2020, we elected to use as our median employee the same individual that we originally id"
+   }
+  },
+  "0001104659-20-052401": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000110465920052401/tm2016781-1_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001262039-20-000011",
+   "result": {
+    "ceoPay": 9629923,
+    "medianPay": 122329,
+    "payRatio": 79,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ng the following information about the relationship of the annual total compensation our Chief Executive Officer, Mr. Ken Xie (our \"CEO\"), and the annual total compensation of the median employee of our company, excluding our CEO. For 2019: • the annual total compensation of our median employee was $122,329; • the annual total compensation of our CEO as disclosed in the 2019 Summary Compensation Table was $9,629,923; and 43 TABLE OF CONTENTS • the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 79 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. For purposes of calculating the pay ratio for 2019, we elected to use as our median employee the same individual that we originally ide"
+   }
+  },
+  "0001174947-19-000616": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000117494719000616/tv519868-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001262039-19-000006",
+   "result": {
+    "ceoPay": 6761686,
+    "medianPay": 131767,
+    "payRatio": 51,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "2(u) of Regulation S-K, we are providing the following information about the relationship of the annual total compensation of our employees and the annual total compensation of our Chief Executive Officer, Mr. Ken Xie (our \"CEO\"): For 2018: • the annual total compensation of our median employee was $131,767; • the annual total compensation of our CEO as disclosed in the 2018 Summary Compensation Table was $6,761,686; and • the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 51 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. We chose to recalculate our median employee for 2018. For 2018, we identified the employee with compensation at the median of the annual total compensation"
+   }
+  },
+  "0001174947-18-000791": {
+   "parserVersion": 1,
+   "filingDate": "2018-05-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1262039/000117494718000791/tv493540-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001262039-18-000009",
+   "result": {
+    "ceoPay": 3960438,
+    "medianPay": 114747,
+    "payRatio": 34.5,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "Regulation S-K, we are providing the following information about the relationship of the annual total compensation of our employees and the annual total compensation of our Chief Executive Officer, Mr. Ken Xie (our \"CEO\"): For 2017: • the median of the annual total compensation of our employees was $114,747; • the annual total compensation of our CEO was $3,960,438; and • the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 34.5 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. We identified the employee with compensation at the median of the annual total compensation of all our employees using the following methodology: We chose to use as our consistently-applied compensation mea"
+   }
+  }
+ },
+ "tenKs": {
+  "0001262039-18-000009": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001262039-19-000006": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001262039-20-000011": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001262039-21-000008": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001262039-22-000008": {
+   "parserVersion": 1,
+   "employees": 100000
+  },
+  "0001262039-23-000010": {
+   "parserVersion": 1,
+   "employees": 210000
+  },
+  "0001262039-24-000014": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001262039-25-000011": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001262039-26-000007": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 252115000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001262039-12-000021"
+   },
+   "2010": {
+    "revenue": 324696000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001262039-13-000009"
+   },
+   "2011": {
+    "revenue": 433576000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001262039-14-000007"
+   },
+   "2012": {
+    "revenue": 533639000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001262039-15-000009"
+   },
+   "2013": {
+    "revenue": 615297000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001262039-16-000053"
+   },
+   "2014": {
+    "revenue": 770364000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001262039-17-000008"
+   },
+   "2015": {
+    "revenue": 1009268000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001262039-18-000009"
+   },
+   "2016": {
+    "revenue": 1275400000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001262039-19-000006"
+   },
+   "2017": {
+    "revenue": 1494900000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001262039-20-000011"
+   },
+   "2018": {
+    "revenue": 1804600000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001262039-21-000008"
+   },
+   "2019": {
+    "revenue": 2163000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001262039-22-000008"
+   },
+   "2020": {
+    "revenue": 2594400000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001262039-23-000010"
+   },
+   "2021": {
+    "revenue": 3342200000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001262039-24-000014"
+   },
+   "2022": {
+    "revenue": 4417400000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001262039-25-000011"
+   },
+   "2023": {
+    "revenue": 5304800000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001262039-26-000007"
+   },
+   "2024": {
+    "revenue": 5955800000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001262039-26-000007"
+   },
+   "2025": {
+    "revenue": 6799600000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001262039-26-000007"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 14203211,
+   "2022": 14200453,
+   "2023": 16301613,
+   "2024": 13143289,
+   "2025": 11458039
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001262039-26-000007",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203926000007/ftnt-20251231.htm"
+   },
+   {
+    "accession": "0001262039-25-000011",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203925000011/ftnt-20241231.htm"
+   },
+   {
+    "accession": "0001262039-24-000014",
+    "filingDate": "2024-02-26",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203924000014/ftnt-20231231.htm"
+   },
+   {
+    "accession": "0001262039-23-000010",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203923000010/ftnt-20221231.htm"
+   },
+   {
+    "accession": "0001262039-22-000008",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203922000008/ftnt-20211231.htm"
+   },
+   {
+    "accession": "0001262039-21-000008",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203921000008/ftnt-20201231.htm"
+   },
+   {
+    "accession": "0001262039-20-000011",
+    "filingDate": "2020-02-26",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203920000011/ftnt-201910xk.htm"
+   },
+   {
+    "accession": "0001262039-19-000006",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203919000006/ftnt-201810xk.htm"
+   },
+   {
+    "accession": "0001262039-18-000009",
+    "filingDate": "2018-02-26",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203918000009/ftnt-201710xk.htm"
+   },
+   {
+    "accession": "0001262039-17-000008",
+    "filingDate": "2017-03-01",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1262039/000126203917000008/ftnt-201610k.htm"
+   }
+  ]
+ }
+}

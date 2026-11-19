@@ -1,0 +1,255 @@
+{
+ "proxies": {
+  "0001601712-26-000017": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000017/synchronyfinancialproxy202.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001601712-26-000006",
+   "result": {
+    "ceoPay": 21401619,
+    "medianPay": 63465,
+    "payRatio": 337,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "compensation by determining actual compensation in accordance with the SEC rules used to calculate the amount set forth in the \"total\" column of the Summary Compensation Table, and adding the value of benefits. Accordingly, our median employee's estimated annual total compensation was calculated as $63,465 including benefits. With respect to the annual total compensation of our CEO, we used the amount reported in the \"total\" column of our 2025 Summary Compensation Table and added the value of healthcare and insurance benefits. Accordingly, our CEO's annual total compensation for purposes of the pay ratio determination was $21,401,619 including benefits. Based on our CEO's annual total compensation compared to the estimated annual total compensation for our median employee, our estimated pa"
+   }
+  },
+  "0001601712-25-000149": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171225000149/syf-20250425.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001601712-25-000044",
+   "result": {
+    "ceoPay": 18801614,
+    "medianPay": 58195,
+    "payRatio": 323,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "compensation by determining actual compensation in accordance with the SEC rules used to calculate the amount set forth in the \"total\" column of the Summary Compensation Table, and adding the value of benefits. Accordingly, our median employee's estimated annual total compensation was calculated as $58,195 including benefits. With respect to the annual total compensation of our CEO, we used the amount reported in the \"total\" column of our 2024 Summary Compensation Table and added the value of benefits. Accordingly, our CEO's annual total compensation for purposes of the pay ratio determination was $18,801,614 including benefits. Based on our CEO's annual total compensation compared to the estimated annual total compensation for our median employee, our estimated pay ratio for 2024 was 323:"
+   }
+  },
+  "0001601712-24-000168": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171224000168/syf-20240425.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001601712-24-000047",
+   "result": {
+    "ceoPay": 19199246,
+    "medianPay": 57653,
+    "payRatio": 333,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "h the SEC rules used to calculate the amount set forth in the \"total\" column of the Summary Compensation Table, adding the value of benefits, and annualizing the total based on the median employee's start date. Accordingly, our median employee's estimated annual total compensation was calculated as $57,653 including benefits. With respect to the annual total compensation of our CEO, we used the amount reported in the \"total\" column of our Summary Compensation Table for 2023 and added the value of benefits. Accordingly, our CEO's annual total compensation for purposes of the pay ratio determination was $19,199,246 including benefits. Based on our CEO's annual total compensation compared to the estimated annual total compensation for our median employee, our estimated pay ratio for 2023 was"
+   }
+  },
+  "0001193125-23-090318": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312523090318/d449242ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001601712-23-000037",
+   "result": {
+    "ceoPay": 13724669,
+    "medianPay": 59325,
+    "payRatio": 231,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "calculated the median employee's annual total compensation in accordance with the SEC rules used to calculate the amount set forth in the \"total\" column of the Summary Compensation Table and added the value of benefits. Accordingly, our median employee's total annual compensation was calculated as $59,325 including benefits. With respect to the annual total compensation of our CEO, we used the amount reported in the \"total\" column of our Summary Compensation Table for 2022 and added the value of benefits. Accordingly, our CEO's annual total compensation for purposes of the pay ratio determination was $13,724,669 including benefits. Based on our CEO's annual total compensation compared to the annual total compensation for our median employee, our estimated pay ratio for 2022 was 231:1. 202"
+   }
+  },
+  "0001193125-22-095656": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312522095656/d330618ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001601712-22-000053",
+   "result": {
+    "ceoPay": 8903000,
+    "medianPay": 50316,
+    "payRatio": 177,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "calculated the median employees annual total compensation in accordance with the SEC rules used to calculate the amount set forth in the total column of the Summary Compensation Table and added the value of benefits. Accordingly, our median employees total annual compensation was calculated as $50,316 including benefits. With respect to the annual total compensation of our CEO, we used the amount reported in the total column of our Summary Compensation Table for 2021 and added the value of benefits. Accordingly, our CEOs annual total compensation for purposes of the pay ratio determination was $8,903,000 including benefits. Based on our CEOs annual total compensation compared to the annual total compensation for our median employee, our estimated pay ratio for 2021 was 177:1. 62 /"
+   }
+  },
+  "0001193125-21-107599": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312521107599/d58902ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001601712-21-000057",
+   "result": {
+    "ceoPay": 12952777,
+    "medianPay": 45978,
+    "payRatio": 282,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "calculated the median employees annual total compensation in accordance with the SEC rules used to calculate the amount set forth in the total column of the Summary Compensation Table and added the value of benefits. Accordingly, our median employees total annual compensation was calculated as $45,978, including benefits. With respect to the annual total compensation of our CEO, we used the amount reported in the total column of our Summary Compensation Table for 2020 and added the value of benefits. Accordingly, our CEOs annual total compensation for purposes of the pay ratio determination was $12,952,777 including benefits. Based on our CEOs annual total compensation compared to the annual total compensation for our median employee, our estimated pay ratio for 2020 was 282:1. IT"
+   }
+  },
+  "0001193125-20-099542": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312520099542/d847267ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001601712-20-000038",
+   "result": {
+    "ceoPay": 12181183,
+    "medianPay": 45407,
+    "payRatio": 268,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ose used by other companies. We identified our median employee by using the target total compensation including retirement for all employees globally. Based on our CEOs annual total compensation compared to the annual total compensation for our median employee, our estimated pay ratio for 2019 was 268:1. We calculated the median employees annual total compensation in accordance with the SEC rules used to calculate the amount set forth in the total column of the Summary Compensation Table and added the value of benefits. Accordingly, our median employees total annual compensation was calculated as $45,407, including benefits. With respect to the annual total compensation of our CEO, we used the amount reported in the total column of our Summary Compensation Table for 2019 and added t"
+   }
+  },
+  "0001193125-19-099228": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312519099228/d718975ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001601712-19-000053",
+   "result": {
+    "ceoPay": 12464802,
+    "medianPay": 41933,
+    "payRatio": 297,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ose used by other companies. We identified our median employee by using the target total compensation including retirement for all employees globally. Based on our CEOs annual total compensation compared to the annual total compensation for our median employee, our estimated pay ratio for 2018 was 297:1. We calculated the median employees annual total compensation in accordance with the SEC rules used to calculate the amount set forth in the total column of the Summary Compensation Table and added the value of benefits. Accordingly, our median employees total annual compensation was calculated as $41,933, including benefits. With respect to the annual total compensation of our CEO, we used the amount reported in the total column of our Summary Compensation Table for 2018 and added t"
+   }
+  },
+  "0001193125-18-107511": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312518107511/d512206ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001601712-18-000107",
+   "result": {
+    "ceoPay": 13542612,
+    "medianPay": 45369,
+    "payRatio": 298,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ose used by other companies. We identified our median employee by using the target total compensation including retirement for all employees globally. Based on our CEOs annual total compensation compared to the annual total compensation for our median employee, our estimated pay ratio for 2017 was 298:1. We calculated the median employees annual total compensation in accordance with the SEC rules used to calculate the amount set forth in the total column of the Summary Compensation Table and added the value of benefits. Accordingly, our median employees total annual compensation was calculated as $45,369, including benefits. With respect to the annual total compensation of our CEO, we used the amount reported in the total column of our Summary Compensation Table for 2017 and added t"
+   }
+  }
+ },
+ "tenKs": {
+  "0001601712-18-000107": {
+   "parserVersion": 1,
+   "employees": 16000
+  },
+  "0001601712-19-000053": {
+   "parserVersion": 1,
+   "employees": 16500
+  },
+  "0001601712-20-000038": {
+   "parserVersion": 1,
+   "employees": 16500
+  },
+  "0001601712-21-000057": {
+   "parserVersion": 1,
+   "employees": 16500
+  },
+  "0001601712-22-000053": {
+   "parserVersion": 1,
+   "employees": 18000
+  },
+  "0001601712-23-000037": {
+   "parserVersion": 1,
+   "employees": 18500
+  },
+  "0001601712-24-000047": {
+   "parserVersion": 1,
+   "employees": 20000
+  },
+  "0001601712-25-000044": {
+   "parserVersion": 1,
+   "employees": 12000
+  },
+  "0001601712-26-000006": {
+   "parserVersion": 1,
+   "employees": 12000
+  }
+ },
+ "facts": {
+  "revenue": {},
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001601712-26-000006",
+    "filingDate": "2026-02-06",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000006/syf-20251231.htm"
+   },
+   {
+    "accession": "0001601712-25-000044",
+    "filingDate": "2025-02-07",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171225000044/syf-20241231.htm"
+   },
+   {
+    "accession": "0001601712-24-000047",
+    "filingDate": "2024-02-08",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171224000047/syf-20231231.htm"
+   },
+   {
+    "accession": "0001601712-23-000037",
+    "filingDate": "2023-02-09",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171223000037/syf-20221231.htm"
+   },
+   {
+    "accession": "0001601712-22-000053",
+    "filingDate": "2022-02-10",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171222000053/syf-20211231.htm"
+   },
+   {
+    "accession": "0001601712-21-000057",
+    "filingDate": "2021-02-11",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171221000057/syf-20201231.htm"
+   },
+   {
+    "accession": "0001601712-20-000038",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171220000038/synchrony1231201910k.htm"
+   },
+   {
+    "accession": "0001601712-19-000053",
+    "filingDate": "2019-02-15",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171219000053/synchrony1231201810k.htm"
+   },
+   {
+    "accession": "0001601712-18-000107",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171218000107/synchrony1231201710k.htm"
+   },
+   {
+    "accession": "0001601712-17-000031",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171217000031/synchrony1231201610k.htm"
+   }
+  ]
+ }
+}

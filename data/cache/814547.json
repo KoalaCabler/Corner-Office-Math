@@ -1,0 +1,358 @@
+{
+ "proxies": {
+  "0001193125-26-024403": {
+   "parserVersion": 1,
+   "filingDate": "2026-01-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/814547/000119312526024403/d27709ddef14a.htm",
+   "periodEnd": "2025-09-30",
+   "tenK": "0000814547-25-000030",
+   "result": {
+    "ceoPay": 36045267,
+    "medianPay": 98000,
+    "payRatio": 368,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "relationship of the median of the annual total compensation of all our employees and the annual total compensation of our Chief Executive Officer, William Lansing (our \"CEO\"): For fiscal 2025: | | | • | | | | the median of the annual total compensation of all our employees, other than our CEO, was $98,000; | | | | • | | | | the annual total compensation of our CEO, as disclosed in the Fiscal 2025 Summary Compensation Table, was $36,045,267; and | | | | • | | | | the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 368 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. | We identified the employee with compensation at the median of the annual total compensation of all our emplo"
+   }
+  },
+  "0001193125-25-013338": {
+   "parserVersion": 1,
+   "filingDate": "2025-01-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/814547/000119312525013338/d886766ddef14a.htm",
+   "periodEnd": "2024-09-30",
+   "tenK": "0001628280-24-045719",
+   "result": {
+    "ceoPay": 35321363,
+    "medianPay": 98934,
+    "payRatio": 357,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "relationship of the median of the annual total compensation of all our employees and the annual total compensation of our Chief Executive Officer, William Lansing (our \"CEO\"). For fiscal 2024: | | | • | | | | the median of the annual total compensation of all our employees, other than our CEO, was $98,934; | | | | • | | | | the annual total compensation of our CEO, as disclosed in the Fiscal 2024 Summary Compensation Table, was $35,321,363; and | | | | • | | | | the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 357 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. | We identified the employee with compensation at the median of the annual total compensation of all our emplo"
+   }
+  },
+  "0001193125-24-005936": {
+   "parserVersion": 1,
+   "filingDate": "2024-01-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/814547/000119312524005936/d515999ddef14a.htm",
+   "periodEnd": "2023-09-30",
+   "tenK": "0000814547-23-000022",
+   "result": {
+    "ceoPay": 66349962,
+    "medianPay": 101674,
+    "payRatio": 653,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "relationship of the median of the annual total compensation of all our employees and the annual total compensation of our Chief Executive Officer, William Lansing (our \"CEO\"): For fiscal 2023: | | | • | | | | the median of the annual total compensation of all our employees, other than our CEO, was $101,674; | | | | • | | | | the annual total compensation of our CEO, as disclosed in the Fiscal 2023 Summary Compensation Table, was $66,349,962; and | | | | • | | | | the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 653 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. | Note that the total compensation of our CEO includes a special performance-based retention and leadership c"
+   }
+  },
+  "0001193125-23-015159": {
+   "parserVersion": 1,
+   "filingDate": "2023-01-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/814547/000119312523015159/d259572ddef14a.htm",
+   "periodEnd": "2022-09-30",
+   "tenK": "0000814547-22-000016",
+   "result": {
+    "ceoPay": 18913781,
+    "medianPay": 89641,
+    "payRatio": 211,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "relationship of the median of the annual total compensation of all our employees and the annual total compensation of our Chief Executive Officer, William Lansing (our CEO). For fiscal 2022: | | |  | | | | the median of the annual total compensation of all our employees, other than our CEO, was $89,641; | | | |  | | | | the annual total compensation of our CEO was $18,913,781; and | | | |  | | | | the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 211 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. | We identified the employee with compensation at the median of the annual total compensation of all our employees using the following methodology: | | |  | | | | In dete"
+   }
+  },
+  "0001193125-22-017079": {
+   "parserVersion": 1,
+   "filingDate": "2022-01-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/814547/000119312522017079/d191574ddef14a.htm",
+   "periodEnd": "2021-09-30",
+   "tenK": "0000814547-21-000019",
+   "result": {
+    "ceoPay": 19429745,
+    "medianPay": 90039,
+    "payRatio": 216,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "relationship of the median of the annual total compensation of all our employees and the annual total compensation of our Chief Executive Officer, William Lansing (our CEO): For fiscal 2021: | | |  | | | | the median of the annual total compensation of all our employees, other than our CEO, was $90,039; | | | |  | | | | the annual total compensation of our CEO was $19,429,745; and | | | |  | | | | the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 216 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. | We identified the employee with compensation at the median of the annual total compensation of all our employees using the following methodology: | | |  | | | | In dete"
+   }
+  },
+  "0001193125-21-019192": {
+   "parserVersion": 1,
+   "filingDate": "2021-01-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/814547/000119312521019192/d26878ddef14a.htm",
+   "periodEnd": "2020-09-30",
+   "tenK": "0000814547-20-000012",
+   "result": {
+    "ceoPay": 14035624,
+    "medianPay": 99800,
+    "payRatio": 141,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "relationship of the median of the annual total compensation of all our employees and the annual total compensation of our Chief Executive Officer, William Lansing (our CEO): For fiscal 2020: | | |  | | | | the median of the annual total compensation of all our employees, other than our CEO, was $99,800; | | | |  | | | | the annual total compensation of our CEO was $14,035,624; and | | | |  | | | | the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 141 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. | We identified the employee with compensation at the median of the annual total compensation of all our employees using the following methodology: | | |  | | | | In dete"
+   }
+  },
+  "0001193125-20-016940": {
+   "parserVersion": 1,
+   "filingDate": "2020-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/814547/000119312520016940/d866645ddef14a.htm",
+   "periodEnd": "2019-09-30",
+   "tenK": "0000814547-19-000016",
+   "result": {
+    "ceoPay": 11345257,
+    "medianPay": 93278,
+    "payRatio": 122,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "oviding the following information about the relationship of the annual total compensation of our employees and the annual total compensation of our Chief Executive Officer, William Lansing (our CEO): For fiscal 2019: | | |  | | | | the median of the annual total compensation of our employees was $93,278; | | | |  | | | | the annual total compensation of our CEO was $11,345,257; and | | | |  | | | | the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 122 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. | We identified the employee with compensation at the median of the annual total compensation of all our employees using the following methodology: | | |  | | | | In determin"
+   }
+  },
+  "0001193125-19-018827": {
+   "parserVersion": 1,
+   "filingDate": "2019-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/814547/000119312519018827/d624693ddef14a.htm",
+   "periodEnd": "2018-09-30",
+   "tenK": "0000814547-18-000010",
+   "result": {
+    "ceoPay": 12247481,
+    "medianPay": 101535,
+    "payRatio": 121,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "oviding the following information about the relationship of the annual total compensation of our employees and the annual total compensation of our Chief Executive Officer, William Lansing (our CEO): For fiscal 2018: | | |  | | | | the median of the annual total compensation of our employees was $101,535; | | | |  | | | | the annual total compensation of our CEO was $12,247,481; and | | | |  | | | | the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 121 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules. | We identified the employee with compensation at the median of the annual total compensation of all our employees using the following methodology: | | |  | | | | In determi"
+   }
+  },
+  "0001193125-18-021599": {
+   "parserVersion": 1,
+   "filingDate": "2018-01-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/814547/000119312518021599/d485314ddef14a.htm",
+   "periodEnd": "2017-09-30",
+   "tenK": "0000814547-17-000014",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0000814547-18-000010": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000814547-19-000016": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000814547-20-000012": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000814547-21-000019": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000814547-22-000016": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000814547-23-000022": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001628280-24-045719": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000814547-25-000030": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 744842000,
+    "periodEnd": "2008-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-10-108284"
+   },
+   "2009": {
+    "revenue": 630735000,
+    "periodEnd": "2009-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-317245"
+   },
+   "2010": {
+    "revenue": 605643000,
+    "periodEnd": "2010-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-473516"
+   },
+   "2011": {
+    "revenue": 619683000,
+    "periodEnd": "2011-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-438562"
+   },
+   "2012": {
+    "revenue": 676423000,
+    "periodEnd": "2012-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000814547-14-000011"
+   },
+   "2013": {
+    "revenue": 743444000,
+    "periodEnd": "2013-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000814547-15-000019"
+   },
+   "2014": {
+    "revenue": 788985000,
+    "periodEnd": "2014-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000814547-16-000035"
+   },
+   "2015": {
+    "revenue": 838781000,
+    "periodEnd": "2015-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000814547-17-000014"
+   },
+   "2016": {
+    "revenue": 881356000,
+    "periodEnd": "2016-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000814547-18-000010"
+   },
+   "2017": {
+    "revenue": 934983000,
+    "periodEnd": "2017-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000814547-19-000016"
+   },
+   "2018": {
+    "revenue": 1032475000,
+    "periodEnd": "2018-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000814547-18-000010"
+   },
+   "2019": {
+    "revenue": 1160083000,
+    "periodEnd": "2019-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000814547-21-000019"
+   },
+   "2020": {
+    "revenue": 1294562000,
+    "periodEnd": "2020-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000814547-22-000016"
+   },
+   "2021": {
+    "revenue": 1316536000,
+    "periodEnd": "2021-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000814547-23-000022"
+   },
+   "2022": {
+    "revenue": 1377270000,
+    "periodEnd": "2022-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-24-045719"
+   },
+   "2023": {
+    "revenue": 1513557000,
+    "periodEnd": "2023-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000814547-25-000030"
+   },
+   "2024": {
+    "revenue": 1717526000,
+    "periodEnd": "2024-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000814547-26-000042"
+   },
+   "2025": {
+    "revenue": 1990869000,
+    "periodEnd": "2025-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000814547-26-000042"
+   },
+   "2026": {
+    "revenue": 2534873000,
+    "periodEnd": "2026-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000814547-26-000042"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000814547-26-000042",
+    "filingDate": "2026-11-06",
+    "reportDate": "2026-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/814547/000081454726000042/fico-20260930.htm"
+   },
+   {
+    "accession": "0000814547-25-000030",
+    "filingDate": "2025-11-07",
+    "reportDate": "2025-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/814547/000081454725000030/fico-20250930.htm"
+   },
+   {
+    "accession": "0001628280-24-045719",
+    "filingDate": "2024-11-06",
+    "reportDate": "2024-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/814547/000162828024045719/fico-20240930.htm"
+   },
+   {
+    "accession": "0000814547-23-000022",
+    "filingDate": "2023-11-08",
+    "reportDate": "2023-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/814547/000081454723000022/fico-20230930.htm"
+   },
+   {
+    "accession": "0000814547-22-000016",
+    "filingDate": "2022-11-09",
+    "reportDate": "2022-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/814547/000081454722000016/fico-20220930.htm"
+   },
+   {
+    "accession": "0000814547-21-000019",
+    "filingDate": "2021-11-10",
+    "reportDate": "2021-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/814547/000081454721000019/fico-20210930.htm"
+   },
+   {
+    "accession": "0000814547-20-000012",
+    "filingDate": "2020-11-12",
+    "reportDate": "2020-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/814547/000081454720000012/fico10-k2020.htm"
+   },
+   {
+    "accession": "0000814547-19-000016",
+    "filingDate": "2019-11-08",
+    "reportDate": "2019-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/814547/000081454719000016/fico10-k2019.htm"
+   },
+   {
+    "accession": "0000814547-18-000010",
+    "filingDate": "2018-11-09",
+    "reportDate": "2018-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/814547/000081454718000010/fico10-k2018.htm"
+   },
+   {
+    "accession": "0000814547-17-000014",
+    "filingDate": "2017-11-09",
+    "reportDate": "2017-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/814547/000081454717000014/fico10-k2017.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001140361-26-025788": {
+   "parserVersion": 1,
+   "filingDate": "2026-06-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1037038/000114036126025788/ny20071304x1_def14a.htm",
+   "periodEnd": "2026-03-28",
+   "tenK": "0001628280-26-037074",
+   "result": {
+    "ceoPay": 23264269,
+    "medianPay": 34214,
+    "payRatio": 680,
+    "method": "cross-checked",
+    "employees": 23510,
+    "statedYear": 2025,
+    "excerpt": "last completed fiscal year, is a reasonable estimate calculated in a manner consistent with SEC rules which permit the use of estimates, assumptions, and adjustments, and is based on the following methodology. | • | | The annual total compensation of the median employee, other than Mr. Louvet, was $34,214. | | • | | Mr. Louvet's annual total compensation was $23,264,269. | | • | | The ratio of the annual total compensation of Mr. Louvet to the median of the annual total compensation of our employees is estimated to be 680 to 1. | Determination of the Median Employee Under the SEC's rules, our Company is required to identify its median employee only once every three years so long as there have been minimal changes to its employee population or employee compensation arrangements that the Co"
+   }
+  },
+  "0001140361-25-023186": {
+   "parserVersion": 1,
+   "filingDate": "2025-06-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1037038/000114036125023186/ny20044859x1_def14a.htm",
+   "periodEnd": "2025-03-29",
+   "tenK": "0001037038-25-000011",
+   "result": {
+    "ceoPay": 23079435,
+    "medianPay": 31748,
+    "payRatio": 727,
+    "method": "cross-checked",
+    "employees": 23510,
+    "statedYear": null,
+    "excerpt": "last completed fiscal year, is a reasonable estimate calculated in a manner consistent with SEC rules which permit the use of estimates, assumptions, and adjustments, and is based on the following methodology. | • | | The annual total compensation of the median employee, other than Mr. Louvet, was $31,748. | | • | | Mr. Louvet's annual total compensation was $23,079,435. | | • | | The ratio of the annual total compensation of Mr. Louvet to the median of the annual total compensation of our employees is estimated to be 727 to 1. | Determination of the Median Employee We selected February 28, 2025 as the date on which to determine our median employee. Including full-time, part-time, temporary, and seasonal employees, our workforce was comprised of 23,510 employees in 30 countries globally."
+   }
+  },
+  "0001140361-24-030914": {
+   "parserVersion": 1,
+   "filingDate": "2024-06-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1037038/000114036124030914/ny20024311x1_def14a.htm",
+   "periodEnd": "2024-03-30",
+   "tenK": "0001037038-24-000014",
+   "result": {
+    "ceoPay": 16628568,
+    "medianPay": 30874,
+    "payRatio": 539,
+    "method": "cross-checked",
+    "employees": 21314,
+    "statedYear": 2024,
+    "excerpt": "last completed fiscal year, is a reasonable estimate calculated in a manner consistent with SEC rules which permit the use of estimates, assumptions, and adjustments, and is based on the following methodology. | • | | The annual total compensation of the median employee, other than Mr. Louvet, was $30,874. | | • | | Mr. Louvet's annual total compensation was $16,628,568. | | • | | The ratio of the annual total compensation of Mr. Louvet to the median of the annual total compensation of our employees is estimated to be 539 to 1. | Determination of the Median Employee Under the SEC's rules, our Company is required to identify its median employee only once every three years so long as there have been minimal changes to its employee population or employee compensation arrangements that the Co"
+   }
+  },
+  "0001140361-23-030952": {
+   "parserVersion": 1,
+   "filingDate": "2023-06-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1037038/000114036123030952/ny20008517x500_def14a.htm",
+   "periodEnd": "2023-04-01",
+   "tenK": "0001037038-23-000015",
+   "result": {
+    "ceoPay": 14471356,
+    "medianPay": 31187,
+    "payRatio": 464,
+    "method": "cross-checked",
+    "employees": 21314,
+    "statedYear": 2022,
+    "excerpt": "last completed fiscal year, is a reasonable estimate calculated in a manner consistent with SEC rules which permit the use of estimates, assumptions, and adjustments, and is based on the following methodology. | • | | The annual total compensation of the median employee, other than Mr. Louvet, was $31,187. | | • | | Mr. Louvet's annual total compensation was $14,471,356. | | • | | The ratio of the annual total compensation of Mr. Louvet to the median of the annual total compensation of our employees is estimated to be 464 to 1. | | | | | | | | 100 | | Ralph Lauren 2023 Proxy Statement | | | Table of Contents | Executive Compensation Matters | | Table of Contents | Determination of the Median Employee Under the SEC's rules, our Company is required to identify its median employee only once"
+   }
+  },
+  "0001193125-22-181659": {
+   "parserVersion": 1,
+   "filingDate": "2022-06-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1037038/000119312522181659/d287784ddef14a.htm",
+   "periodEnd": "2022-04-02",
+   "tenK": "0001037038-22-000014",
+   "result": {
+    "ceoPay": 18553058,
+    "medianPay": 26670,
+    "payRatio": 696,
+    "method": "cross-checked",
+    "employees": 21314,
+    "statedYear": 2022,
+    "excerpt": "t completed fiscal year, is a reasonable estimate calculated in a manner consistent with SEC rules which permit the use of estimates, assumptions, and adjustments, and is based on the following methodology. |  | | | | The annual total compensation of the median employee, other than Mr. Louvet, was $26,670. | |  | | | | Mr. Louvets annual total compensation was $18,553,058. | |  | | | | The ratio of the annual total compensation of Mr. Louvet to the median of the annual total compensation of our employees is estimated to be 696 to 1. | Determination of the Median Employee Under the rules, we are permitted to use the same median employee in calculating the pay ratio above as the median employee we identified in Fiscal 2021 for up to three years if there have been no changes that we reaso"
+   }
+  },
+  "0001193125-21-193246": {
+   "parserVersion": 1,
+   "filingDate": "2021-06-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1037038/000119312521193246/d339121ddef14a.htm",
+   "periodEnd": "2021-03-27",
+   "tenK": "0001037038-21-000022",
+   "result": {
+    "ceoPay": 12063568,
+    "medianPay": 24168,
+    "payRatio": 499,
+    "method": "cross-checked",
+    "employees": 20036,
+    "statedYear": null,
+    "excerpt": "t completed fiscal year, is a reasonable estimate calculated in a manner consistent with SEC rules which permit the use of estimates, assumptions, and adjustments, and is based on the following methodology. |  | | | | The annual total compensation of the median employee, other than Mr. Louvet, was $24,168. | |  | | | | Mr. Louvets annual total compensation was $12,063,568. | |  | | | | The ratio of the annual total compensation of Mr. Louvet to the median of the annual total compensation of our employees is estimated to be 499 to 1. | Determination of the Median Employee We selected February 28, 2021 as the date on which to determine our median employee. Including all full-time, part-time, temporary, and seasonal employees, our workforce was comprised of 20,036 employees in 30 countrie"
+   }
+  },
+  "0001193125-20-172752": {
+   "parserVersion": 1,
+   "filingDate": "2020-06-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1037038/000119312520172752/d944662ddef14a.htm",
+   "periodEnd": "2020-03-28",
+   "tenK": "0001037038-20-000014",
+   "result": {
+    "ceoPay": 12170470,
+    "medianPay": 21358,
+    "payRatio": 570,
+    "method": "cross-checked",
+    "employees": 23381,
+    "statedYear": 2020,
+    "excerpt": "t completed fiscal year, is a reasonable estimate calculated in a manner consistent with SEC rules which permit the use of estimates, assumptions, and adjustments, and is based on the following methodology. |  | | | | The annual total compensation of the median employee, other than Mr. Louvet, was $21,358. | |  | | | | Mr. Louvets annual total compensation was $12,170,470. | |  | | | | The ratio of the annual total compensation of Mr. Louvet to the median of the annual total compensation of our employees is estimated to be 570 to 1. | Determination of the Median Employee Under the SECs rules, a Company is required to identify its median employee only once every three years so long as there have been minimal changes to its employee population or employee compensation arrangements that"
+   }
+  },
+  "0001193125-19-178914": {
+   "parserVersion": 1,
+   "filingDate": "2019-06-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1037038/000119312519178914/d729878ddef14a.htm",
+   "periodEnd": "2019-03-30",
+   "tenK": "0001037038-19-000005",
+   "result": {
+    "ceoPay": 13851684,
+    "medianPay": 22787,
+    "payRatio": 608,
+    "method": "cross-checked",
+    "employees": 23381,
+    "statedYear": 2018,
+    "excerpt": "t completed fiscal year, is a reasonable estimate calculated in a manner consistent with SEC rules which permit the use of estimates, assumptions, and adjustments, and is based on the following methodology. |  | | | | The annual total compensation of the median employee, other than Mr. Louvet, was $22,787. | |  | | | | Mr. Louvets annual total compensation was $13,851,684. | |  | | | | The ratio of the annual total compensation of Mr. Louvet to the median of the annual total compensation of our employees is estimated to be 608 to 1. | Determination of the Median Employee In 2018, we selected February 28, 2018 as the date on which to determine our median employee. At that time, including all full-time, part-time, temporary, and seasonal employees, our workforce was comprised of 23,381 e"
+   }
+  },
+  "0001193125-18-198133": {
+   "parserVersion": 1,
+   "filingDate": "2018-06-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1037038/000119312518198133/d566698ddef14a.htm",
+   "periodEnd": "2018-03-31",
+   "tenK": "0001037038-18-000007",
+   "result": {
+    "ceoPay": 25449216,
+    "medianPay": 22913,
+    "payRatio": 1111,
+    "method": "cross-checked",
+    "employees": 23381,
+    "statedYear": 2018,
+    "excerpt": "t completed fiscal year, is a reasonable estimate calculated in a manner consistent with SEC rules which permit the use of estimates, assumptions, and adjustments, and is based on the following methodology. |  | | | | The annual total compensation of the median employee, other than Mr. Louvet, was $22,913. | |  | | | | Mr. Louvets annual total compensation was $25,449,216. | |  | | | | The ratio of the annual total compensation of Mr. Louvet to the median of the annual total compensation of our employees is estimated to be 1,111 to 1. | As part of his offer to join the Company, Mr. Louvet was provided with various one-time awards in Fiscal 2018 including a one-time bonus of $3,384,888 and a one-time equity award with a grant date fair value of $8,434,150, intended to compensate him for"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 4823700000,
+    "periodEnd": "2009-03-28",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000950123-11-054456"
+   },
+   "2010": {
+    "revenue": 4978900000,
+    "periodEnd": "2010-04-03",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-247066"
+   },
+   "2011": {
+    "revenue": 5660300000,
+    "periodEnd": "2011-04-02",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001037038-13-000009"
+   },
+   "2012": {
+    "revenue": 6860000000,
+    "periodEnd": "2012-03-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001037038-14-000006"
+   },
+   "2013": {
+    "revenue": 6945000000,
+    "periodEnd": "2013-03-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001037038-15-000006"
+   },
+   "2014": {
+    "revenue": 7450000000,
+    "periodEnd": "2014-03-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001037038-16-000019"
+   },
+   "2015": {
+    "revenue": 7620300000,
+    "periodEnd": "2015-03-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001037038-17-000004"
+   },
+   "2016": {
+    "revenue": 7405200000,
+    "periodEnd": "2016-04-02",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001037038-18-000007"
+   },
+   "2017": {
+    "revenue": 6652800000,
+    "periodEnd": "2017-04-01",
+    "revenueTag": "Revenues",
+    "accession": "0001037038-19-000005"
+   },
+   "2018": {
+    "revenue": 6182300000,
+    "periodEnd": "2018-03-31",
+    "revenueTag": "Revenues",
+    "accession": "0001037038-20-000014"
+   },
+   "2019": {
+    "revenue": 6313000000,
+    "periodEnd": "2019-03-30",
+    "revenueTag": "Revenues",
+    "accession": "0001037038-21-000022"
+   },
+   "2020": {
+    "revenue": 6159800000,
+    "periodEnd": "2020-03-28",
+    "revenueTag": "Revenues",
+    "accession": "0001037038-22-000014"
+   },
+   "2021": {
+    "revenue": 4400800000,
+    "periodEnd": "2021-03-27",
+    "revenueTag": "Revenues",
+    "accession": "0001037038-23-000015"
+   },
+   "2022": {
+    "revenue": 6218500000,
+    "periodEnd": "2022-04-02",
+    "revenueTag": "Revenues",
+    "accession": "0001037038-24-000014"
+   },
+   "2023": {
+    "revenue": 6443600000,
+    "periodEnd": "2023-04-01",
+    "revenueTag": "Revenues",
+    "accession": "0001037038-25-000011"
+   },
+   "2024": {
+    "revenue": 6631400000,
+    "periodEnd": "2024-03-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-037074"
+   },
+   "2025": {
+    "revenue": 7079000000,
+    "periodEnd": "2025-03-29",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-037074"
+   },
+   "2026": {
+    "revenue": 8114500000,
+    "periodEnd": "2026-03-28",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-037074"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 18553058,
+   "2023": 14471356,
+   "2024": 16628568,
+   "2025": 23079435,
+   "2026": 23264269
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-037074",
+    "filingDate": "2026-05-21",
+    "reportDate": "2026-03-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1037038/000162828026037074/rl-20260328.htm"
+   },
+   {
+    "accession": "0001037038-25-000011",
+    "filingDate": "2025-05-22",
+    "reportDate": "2025-03-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1037038/000103703825000011/rl-20250329.htm"
+   },
+   {
+    "accession": "0001037038-24-000014",
+    "filingDate": "2024-05-23",
+    "reportDate": "2024-03-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1037038/000103703824000014/rl-20240330.htm"
+   },
+   {
+    "accession": "0001037038-23-000015",
+    "filingDate": "2023-05-25",
+    "reportDate": "2023-04-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1037038/000103703823000015/rl-20230401.htm"
+   },
+   {
+    "accession": "0001037038-22-000014",
+    "filingDate": "2022-05-24",
+    "reportDate": "2022-04-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1037038/000103703822000014/rl-20220402.htm"
+   },
+   {
+    "accession": "0001037038-21-000022",
+    "filingDate": "2021-05-20",
+    "reportDate": "2021-03-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1037038/000103703821000022/rl-20210327.htm"
+   },
+   {
+    "accession": "0001037038-20-000014",
+    "filingDate": "2020-05-27",
+    "reportDate": "2020-03-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1037038/000103703820000014/rl-20200328x10k.htm"
+   },
+   {
+    "accession": "0001037038-19-000005",
+    "filingDate": "2019-05-16",
+    "reportDate": "2019-03-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1037038/000103703819000005/rl-20190330x10k.htm"
+   },
+   {
+    "accession": "0001037038-18-000007",
+    "filingDate": "2018-05-23",
+    "reportDate": "2018-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1037038/000103703818000007/rl-20180331x10k.htm"
+   },
+   {
+    "accession": "0001037038-17-000004",
+    "filingDate": "2017-05-18",
+    "reportDate": "2017-04-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1037038/000103703817000004/rl-20170401x10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,344 @@
+{
+ "proxies": {
+  "0000723125-25-000038": {
+   "parserVersion": 1,
+   "filingDate": "2025-11-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000038/mu-20251125.htm",
+   "periodEnd": "2025-08-28",
+   "tenK": "0000723125-25-000028",
+   "result": {
+    "ceoPay": 30940146,
+    "medianPay": 58461,
+    "payRatio": 529,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "| In accordance with Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of our median compensated employee. • The annual total compensation of our median compensated employee for Fiscal 2025 was $58,461. • The annual total compensation of our Chief Executive Officer for Fiscal 2025 was $30,940,146. • The ratio of the annual total compensation of our Chief Executive Officer to that of our median employee for Fiscal 2025 was estimated to be 529 to 1. The median compensated employee generally is the employee whose annual total compensation is at the midpoint of our employees (excluding our Chief Executive Officer), ranked in order of their compensation amounts. As permitted by the SEC rule"
+   }
+  },
+  "0000723125-24-000039": {
+   "parserVersion": 1,
+   "filingDate": "2024-11-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312524000039/mu-20241126.htm",
+   "periodEnd": "2024-08-29",
+   "tenK": "0000723125-24-000027",
+   "result": {
+    "ceoPay": 30060126,
+    "medianPay": 64042,
+    "payRatio": 469,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "| In accordance with Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of our median compensated employee. • The annual total compensation of our median compensated employee for Fiscal 2024 was $64,042. • The annual total compensation of our Chief Executive Officer for Fiscal 2024 was $30,060,126. • The ratio of the annual total compensation of our Chief Executive Officer to that of our median employee for Fiscal 2024 was estimated to be 469 to 1. The median compensated employee generally is the employee whose annual total compensation is at the midpoint of our employees (excluding our Chief Executive Officer), ranked in order of their compensation amounts. As permitted by the SEC rule"
+   }
+  },
+  "0000723125-23-000065": {
+   "parserVersion": 1,
+   "filingDate": "2023-11-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312523000065/mu-20231129.htm",
+   "periodEnd": "2023-08-31",
+   "tenK": "0000723125-23-000054",
+   "result": {
+    "ceoPay": 25276953,
+    "medianPay": 54570,
+    "payRatio": 463,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "TIVE OFFICER PAY RATIO In accordance with Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our CEO to the annual total compensation of our median compensated employee. • The annual total compensation of our median compensated employee for fiscal 2023 was $54,570. • The annual total compensation of our CEO for fiscal 2023 was $25,276,953. • The ratio of the annual total compensation of our CEO to that of our median employee for fiscal 2023 was estimated to be 463 to 1. The median compensated employee generally is the employee whose annual total compensation is at the midpoint of our employees (excluding our CEO), ranked in order of their compensation amounts. As permitted by the SEC rules, we used base salary, bonuses, and grant date fair value o"
+   }
+  },
+  "0000723125-22-000063": {
+   "parserVersion": 1,
+   "filingDate": "2022-12-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312522000063/a2022definitiveproxy.htm",
+   "periodEnd": "2022-09-01",
+   "tenK": "0000723125-22-000048",
+   "result": {
+    "ceoPay": 28840809,
+    "medianPay": 48310,
+    "payRatio": 597,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "TIVE OFFICER PAY RATIO In accordance with Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our CEO to the annual total compensation of our median compensated employee. • The annual total compensation of our median compensated employee for fiscal 2022 was $48,310. • The annual total compensation of our CEO for fiscal 2022 was $28,840,809. • The ratio of the annual total compensation of our CEO to that of our median employee for fiscal 2022 was estimated to be 597 to 1. The median compensated employee generally is the employee whose annual total compensation is at the midpoint of our employees (excluding our CEO), ranked in order of their compensation amounts. As permitted by the SEC rules, we used base salary, bonuses, and grant date fair value o"
+   }
+  },
+  "0000723125-21-000082": {
+   "parserVersion": 1,
+   "filingDate": "2021-12-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312521000082/a2021definitiveproxy.htm",
+   "periodEnd": "2021-09-02",
+   "tenK": "0000723125-21-000065",
+   "result": {
+    "ceoPay": 25316709,
+    "medianPay": 64827,
+    "payRatio": 391,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "with Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of our median employee. • The annual total compensation of our median employee, excluding our Chief Executive Officer, for fiscal 2021 was $64,827. • The annual total compensation of our Chief Executive Officer for fiscal 2021 was $25,316,709. • The ratio of the annual total compensation of our Chief Executive Officer to that of our median employee for fiscal 2021 was estimated to be 391 to 1. The median employee generally is the employee whose annual total compensation is at the midpoint of our employees, ranked in order of their compensation amounts. As permitted by the SEC rules, we used base salary, bonuses, and grant date fair"
+   }
+  },
+  "0000723125-20-000091": {
+   "parserVersion": 1,
+   "filingDate": "2020-12-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312520000091/a2020definitiveproxy.htm",
+   "periodEnd": "2020-09-03",
+   "tenK": "0000723125-20-000082",
+   "result": {
+    "ceoPay": 19995488,
+    "medianPay": 68558,
+    "payRatio": 292,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "with Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of our median employee. • The annual total compensation of our median employee, excluding our Chief Executive Officer, for fiscal 2020 was $68,558. • The annual total compensation of our Chief Executive Officer for fiscal 2020 was $19,995,488. • The ratio of the annual total compensation of our Chief Executive Officer to that of our median employee for fiscal 2020 was estimated to be 292 to 1. The median employee generally is the employee whose annual total compensation is at the midpoint of our employees, ranked in order of their compensation amounts. As permitted under SEC rules, we are using the same median employee identified f"
+   }
+  },
+  "0001047469-19-006745": {
+   "parserVersion": 1,
+   "filingDate": "2019-12-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/723125/000104746919006745/a2240268zdef14a.htm",
+   "periodEnd": "2019-08-29",
+   "tenK": "0000723125-19-000094",
+   "result": {
+    "ceoPay": 16944751,
+    "medianPay": 60796,
+    "payRatio": 279,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "with Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of our median employee.  The annual total compensation of our median employee, excluding our Chief Executive Officer, for fiscal 2019 was $60,796.  The annual total compensation of our Chief Executive Officer for fiscal 2019 was $16,944,751.  The ratio of the annual total compensation of our Chief Executive Officer to that of our median employee for fiscal 2019 was estimated to be 279 to 1. The median employee generally is the employee whose annual total compensation is at the midpoint of our employees, ranked in order of their compensation amounts. As permitted under SEC rules, we are using the same median employee identified f"
+   }
+  },
+  "0000723125-18-000142": {
+   "parserVersion": 1,
+   "filingDate": "2018-12-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312518000142/a2018definitiveproxy.htm",
+   "periodEnd": "2018-08-30",
+   "tenK": "0000723125-18-000092",
+   "result": {
+    "ceoPay": 14241583,
+    "medianPay": 56540,
+    "payRatio": 252,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of our median employee. | | | | | • | | The annual total compensation of our median employee, excluding our Chief Executive Officer, for fiscal 2018 was $56,540. | | | | | | • | | The annual total compensation of our Chief Executive Officer for fiscal 2018 was $14,241,583. | | | | | | • | | The ratio of the annual total compensation of our Chief Executive Officer to that of our median employee for fiscal 2018 was estimated to be 252 to 1. | The median employee generally is the employee whose annual total compensation is at the midpoint of our employees, ranked in order of their compensation amounts. As permitted by the SEC rules, we used annual"
+   }
+  }
+ },
+ "tenKs": {
+  "0000723125-18-000092": {
+   "parserVersion": 1,
+   "employees": 36000
+  },
+  "0000723125-19-000094": {
+   "parserVersion": 1,
+   "employees": 37000
+  },
+  "0000723125-20-000082": {
+   "parserVersion": 1,
+   "employees": 40000
+  },
+  "0000723125-21-000065": {
+   "parserVersion": 1,
+   "employees": 43000
+  },
+  "0000723125-22-000048": {
+   "parserVersion": 1,
+   "employees": 48000
+  },
+  "0000723125-23-000054": {
+   "parserVersion": 1,
+   "employees": 43000
+  },
+  "0000723125-24-000027": {
+   "parserVersion": 1,
+   "employees": 48000
+  },
+  "0000723125-25-000028": {
+   "parserVersion": 1,
+   "employees": 53000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 4803000000,
+    "periodEnd": "2009-09-03",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000723125-11-000189"
+   },
+   "2010": {
+    "revenue": 8482000000,
+    "periodEnd": "2010-09-02",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000723125-12-000156"
+   },
+   "2011": {
+    "revenue": 8788000000,
+    "periodEnd": "2011-09-01",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000723125-13-000228"
+   },
+   "2012": {
+    "revenue": 8234000000,
+    "periodEnd": "2012-08-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000723125-14-000195"
+   },
+   "2013": {
+    "revenue": 9073000000,
+    "periodEnd": "2013-08-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000723125-15-000112"
+   },
+   "2014": {
+    "revenue": 16358000000,
+    "periodEnd": "2014-08-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000723125-16-000269"
+   },
+   "2015": {
+    "revenue": 16192000000,
+    "periodEnd": "2015-09-03",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000723125-17-000131"
+   },
+   "2016": {
+    "revenue": 12399000000,
+    "periodEnd": "2016-09-01",
+    "revenueTag": "Revenues",
+    "accession": "0000723125-18-000092"
+   },
+   "2017": {
+    "revenue": 20322000000,
+    "periodEnd": "2017-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0000723125-18-000092"
+   },
+   "2018": {
+    "revenue": 30391000000,
+    "periodEnd": "2018-08-30",
+    "revenueTag": "Revenues",
+    "accession": "0000723125-18-000092"
+   },
+   "2019": {
+    "revenue": 23406000000,
+    "periodEnd": "2019-08-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723125-21-000065"
+   },
+   "2020": {
+    "revenue": 21435000000,
+    "periodEnd": "2020-09-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723125-22-000048"
+   },
+   "2021": {
+    "revenue": 27705000000,
+    "periodEnd": "2021-09-02",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723125-23-000054"
+   },
+   "2022": {
+    "revenue": 30758000000,
+    "periodEnd": "2022-09-01",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723125-24-000027"
+   },
+   "2023": {
+    "revenue": 15540000000,
+    "periodEnd": "2023-08-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723125-25-000028"
+   },
+   "2024": {
+    "revenue": 25111000000,
+    "periodEnd": "2024-08-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723125-26-000023"
+   },
+   "2025": {
+    "revenue": 37378000000,
+    "periodEnd": "2025-08-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723125-26-000023"
+   },
+   "2026": {
+    "revenue": 133188000000,
+    "periodEnd": "2026-09-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723125-26-000023"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000723125-26-000023",
+    "filingDate": "2026-10-09",
+    "reportDate": "2026-09-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/mu-20260903.htm"
+   },
+   {
+    "accession": "0000723125-25-000028",
+    "filingDate": "2025-10-03",
+    "reportDate": "2025-08-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000028/mu-20250828.htm"
+   },
+   {
+    "accession": "0000723125-24-000027",
+    "filingDate": "2024-10-04",
+    "reportDate": "2024-08-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312524000027/mu-20240829.htm"
+   },
+   {
+    "accession": "0000723125-23-000054",
+    "filingDate": "2023-10-06",
+    "reportDate": "2023-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312523000054/mu-20230831.htm"
+   },
+   {
+    "accession": "0000723125-22-000048",
+    "filingDate": "2022-10-07",
+    "reportDate": "2022-09-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312522000048/mu-20220901.htm"
+   },
+   {
+    "accession": "0000723125-21-000065",
+    "filingDate": "2021-10-08",
+    "reportDate": "2021-09-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312521000065/mu-20210902.htm"
+   },
+   {
+    "accession": "0000723125-20-000082",
+    "filingDate": "2020-10-19",
+    "reportDate": "2020-09-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312520000082/mu-20200903.htm"
+   },
+   {
+    "accession": "0000723125-19-000094",
+    "filingDate": "2019-10-17",
+    "reportDate": "2019-08-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312519000094/a2019q4.htm"
+   },
+   {
+    "accession": "0000723125-18-000092",
+    "filingDate": "2018-10-15",
+    "reportDate": "2018-08-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312518000092/a2018q4.htm"
+   },
+   {
+    "accession": "0000723125-17-000131",
+    "filingDate": "2017-10-26",
+    "reportDate": "2017-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312517000131/a2017q4.htm"
+   }
+  ]
+ }
+}

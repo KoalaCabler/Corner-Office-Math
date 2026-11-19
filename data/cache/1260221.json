@@ -1,0 +1,390 @@
+{
+ "proxies": {
+  "0001260221-26-000009": {
+   "parserVersion": 1,
+   "filingDate": "2026-01-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000009/tdg-20260122.htm",
+   "periodEnd": "2025-09-30",
+   "tenK": "0001260221-25-000081",
+   "result": {
+    "ceoPay": 25188430,
+    "medianPay": 68247,
+    "payRatio": 369,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ur median employee, as well as the ratio of their respective annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Fiscal 2025 Summary Compensation Table). In FY 2025, Mr. Stein's annual total compensation was $25,188,430. Our median employee's annual total compensation was $68,247. The ratio of Mr. Stein's annual total compensation to our median employee's annual total compensation was 369:1. In determining our median employee, we chose September 30, 2025, the date of our prior completed fiscal year. We identified the median employee by calculating total cash compensation (base salary, including overtime, and cash incentive compensation, where applicable) of all persons employed by us as of our FY 20"
+   }
+  },
+  "0001260221-25-000007": {
+   "parserVersion": 1,
+   "filingDate": "2025-01-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022125000007/tdg-20250123.htm",
+   "periodEnd": "2024-09-30",
+   "tenK": "0001260221-24-000083",
+   "result": {
+    "ceoPay": 21432369,
+    "medianPay": 62513,
+    "payRatio": 343,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ur median employee, as well as the ratio of their respective annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Fiscal 2024 Summary Compensation Table). In FY 2024, Mr. Stein's annual total compensation was $21,432,369. Our median employee's annual total compensation was $62,513. The ratio of Mr. Stein's annual total compensation to our median employee's annual total compensation was 343:1. In determining our median employee, we chose September 30, 2024, the date of our prior completed fiscal year. We identified the median employee by calculating total cash compensation (base salary, including overtime, and cash incentive compensation, where applicable) of all persons employed by us as of our FY 20"
+   }
+  },
+  "0001260221-24-000015": {
+   "parserVersion": 1,
+   "filingDate": "2024-01-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022124000015/tdg-20240125.htm",
+   "periodEnd": "2023-09-30",
+   "tenK": "0001260221-23-000081",
+   "result": {
+    "ceoPay": 23845374,
+    "medianPay": 58034,
+    "payRatio": 411,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "edian employee, as well as the ratio of their respective annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Fiscal 2023 Summary Compensation Table). In fiscal 2023, Mr. Stein's annual total compensation was $23,845,374. Our median employee's annual total compensation was $58,034. The ratio of Mr. Stein's annual total compensation to our median employee's annual total compensation was 411:1. In determining our median employee, we chose September 30, 2023, the date of our prior complete fiscal year. We identified the median employee by calculating total cash compensation (base salary, including overtime, and cash incentive compensation, where applicable) of all persons employed by us as of our fiscal"
+   }
+  },
+  "0001193125-23-016872": {
+   "parserVersion": 1,
+   "filingDate": "2023-01-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000119312523016872/d401846ddef14a.htm",
+   "periodEnd": "2022-09-30",
+   "tenK": "0001260221-22-000065",
+   "result": {
+    "ceoPay": 18709996,
+    "medianPay": 52856,
+    "payRatio": 354,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "r) and our median employee, as well as the ratio of their respective annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Summary Compensation Table). In fiscal 2022, Mr. Steins annual total compensation was $18,709,996. Our median employees annual total compensation was $52,856. The ratio of Mr. Steins annual total compensation to our median employees annual total compensation was 354:1. In determining our median employee, we chose September 30, 2022, the date of our last completed fiscal year. We identified the median employee by calculating total cash compensation (base salary, including overtime, and cash incentive compensation, where applicable) of all persons employed by us as of our fiscal"
+   }
+  },
+  "0001193125-22-164632": {
+   "parserVersion": 1,
+   "filingDate": "2022-06-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000119312522164632/d229045ddef14a.htm",
+   "periodEnd": "2021-09-30",
+   "tenK": "0001260221-21-000134",
+   "result": {
+    "ceoPay": 21484504,
+    "medianPay": 58837,
+    "payRatio": 365,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "r) and our median employee, as well as the ratio of their respective annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Summary Compensation Table). In fiscal 2021, Mr. Steins annual total compensation was $21,484,504. Our median employees annual total compensation was $58,837. The ratio of Mr. Steins annual total compensation to our median employees annual total compensation was 365:1. As permitted by SEC rules, we used the same median employee that we had identified in 2020, since there had been no change in our employee population or employee compensation arrangements that we reasonably believed would result in a significant change to the pay ratio disclosure. Last year, we identified the me"
+   }
+  },
+  "0001193125-21-030878": {
+   "parserVersion": 1,
+   "filingDate": "2021-02-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000119312521030878/d85164ddef14a.htm",
+   "periodEnd": "2020-09-30",
+   "tenK": "0001260221-20-000099",
+   "result": {
+    "ceoPay": 22060463,
+    "medianPay": 52202,
+    "payRatio": 423,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "tive annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Summary Compensation Table). The values are as follows for 2020, our last completed fiscal year: | | |  | | | | Mr. Steins annual total compensation$22,060,463 | | | |  | | | | Our median employees annual total compensation$52,202 | | | |  | | | | Ratio of Mr. Steins annual total compensation to our median employees annual total compensation423:1 | In determining our median employee, we chose September 30, 2020, the date of our last completed fiscal year. As of this date, we employed 15,900 persons in 18 countries. Consistent with SEC requirements, we reviewed our global employee population as of September 30, 2020 to prepare the pay"
+   }
+  },
+  "0001193125-20-144691": {
+   "parserVersion": 1,
+   "filingDate": "2020-05-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000119312520144691/d929786ddef14a.htm",
+   "periodEnd": "2019-09-30",
+   "tenK": "0001260221-19-000043",
+   "result": {
+    "ceoPay": 13135200,
+    "medianPay": 44072,
+    "payRatio": 298,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ve annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Summary Compensation Table). The values are as follows for 2019, our last completed fiscal year: | | |  | | | | Mr. Steins annual total compensation  $13,135,200 | | | |  | | | | Our median employees annual total compensation  $44,072 | | | |  | | | | Ratio of Mr. Steins annual total compensation to our median employees annual total compensation  298:1 | In determining our median employee, we chose September 30, 2019, the date of our last completed fiscal year. As of this date, we employed 18,354 persons in 22 countries. Consistent with SEC requirements, we reviewed our global employee population as of September 30, 2019 to prepare the"
+   }
+  },
+  "0001193125-20-029694": {
+   "parserVersion": 1,
+   "filingDate": "2020-02-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000119312520029694/d804621ddef14a.htm",
+   "periodEnd": "2019-09-30",
+   "tenK": "0001260221-19-000043",
+   "result": {
+    "ceoPay": 13135200,
+    "medianPay": 44072,
+    "payRatio": 298,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ve annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Summary Compensation Table). The values are as follows for 2019, our last completed fiscal year: | | |  | | | | Mr. Steins annual total compensation  $13,135,200 | | | |  | | | | Our median employees annual total compensation  $44,072 | | | |  | | | | Ratio of Mr. Steins annual total compensation to our median employees annual total compensation  298:1 | In determining our median employee, we chose September 30, 2019, the date of our last completed fiscal year. As of this date, we employed 18,354 persons in 22 countries. Consistent with SEC requirements, we reviewed our global employee population as of September 30, 2019 to prepare the"
+   }
+  },
+  "0001193125-19-234684": {
+   "parserVersion": 1,
+   "filingDate": "2019-08-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000119312519234684/d793978ddef14a.htm",
+   "periodEnd": "2018-09-30",
+   "tenK": "0001260221-18-000070",
+   "result": {
+    "ceoPay": 23471608,
+    "medianPay": 46742,
+    "payRatio": 502,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ve annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Summary Compensation Table). The values are as follows for 2018, our last completed fiscal year: | | |  | | | | Mr. Steins annual total compensation  $23,471,608 | 45 Table of Contents | | |  | | | | Our median employees annual total compensation  $46,742 | | | |  | | | | Ratio of Mr. Steins annual total compensation to our median employees annual total compensation  502:1 | In determining our median employee, we chose September 30, 2018, the date of our last completed fiscal year. As of this date, we employed 9,677 persons in 19 countries. Consistent with SEC requirements, we reviewed our global employee population as of September 30,"
+   }
+  },
+  "0001193125-19-020774": {
+   "parserVersion": 1,
+   "filingDate": "2019-01-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000119312519020774/d601959ddef14a.htm",
+   "periodEnd": "2018-09-30",
+   "tenK": "0001260221-18-000070",
+   "result": {
+    "ceoPay": 23471608,
+    "medianPay": 46742,
+    "payRatio": 502,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ve annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Summary Compensation Table). The values are as follows for 2018, our last completed fiscal year: | | |  | | | | Mr. Steins annual total compensation  $23,471,608 | 46 Table of Contents | | |  | | | | Our median employees annual total compensation  $46,742 | | | |  | | | | Ratio of Mr. Steins annual total compensation to our median employees annual total compensation  502:1 | In determining our median employee, we chose September 30, 2018, the date of our last completed fiscal year. As of this date, we employed 9,677 persons in 19 countries. Consistent with SEC requirements, we reviewed our global employee population as of September 30,"
+   }
+  },
+  "0001193125-18-033306": {
+   "parserVersion": 1,
+   "filingDate": "2018-02-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1260221/000119312518033306/d445576ddef14a.htm",
+   "periodEnd": "2017-09-30",
+   "tenK": "0001260221-17-000060",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001260221-18-000070": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001260221-19-000043": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001260221-20-000099": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001260221-21-000134": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001260221-22-000065": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001260221-23-000081": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001260221-24-000083": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001260221-25-000081": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 713711000,
+    "periodEnd": "2008-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-260837"
+   },
+   "2009": {
+    "revenue": 761552000,
+    "periodEnd": "2009-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-316657"
+   },
+   "2010": {
+    "revenue": 827654000,
+    "periodEnd": "2010-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-473908"
+   },
+   "2011": {
+    "revenue": 1206021000,
+    "periodEnd": "2011-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-443394"
+   },
+   "2012": {
+    "revenue": 1700208000,
+    "periodEnd": "2012-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-412880"
+   },
+   "2013": {
+    "revenue": 1924400000,
+    "periodEnd": "2013-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001260221-15-000013"
+   },
+   "2014": {
+    "revenue": 2372906000,
+    "periodEnd": "2014-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001260221-16-000107"
+   },
+   "2015": {
+    "revenue": 2707115000,
+    "periodEnd": "2015-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001260221-17-000060"
+   },
+   "2016": {
+    "revenue": 3171411000,
+    "periodEnd": "2016-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001260221-18-000070"
+   },
+   "2017": {
+    "revenue": 3504286000,
+    "periodEnd": "2017-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001260221-19-000043"
+   },
+   "2018": {
+    "revenue": 3811126000,
+    "periodEnd": "2018-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001260221-18-000070"
+   },
+   "2019": {
+    "revenue": 5223000000,
+    "periodEnd": "2019-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001260221-21-000134"
+   },
+   "2020": {
+    "revenue": 5103000000,
+    "periodEnd": "2020-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001260221-22-000065"
+   },
+   "2021": {
+    "revenue": 4798000000,
+    "periodEnd": "2021-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001260221-23-000081"
+   },
+   "2022": {
+    "revenue": 5429000000,
+    "periodEnd": "2022-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001260221-24-000083"
+   },
+   "2023": {
+    "revenue": 6585000000,
+    "periodEnd": "2023-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001260221-25-000081"
+   },
+   "2024": {
+    "revenue": 7940000000,
+    "periodEnd": "2024-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001260221-26-000077"
+   },
+   "2025": {
+    "revenue": 8831000000,
+    "periodEnd": "2025-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001260221-26-000077"
+   },
+   "2026": {
+    "revenue": 10557000000,
+    "periodEnd": "2026-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001260221-26-000077"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001260221-26-000077",
+    "filingDate": "2026-11-10",
+    "reportDate": "2026-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022126000077/tdg-20260930.htm"
+   },
+   {
+    "accession": "0001260221-25-000081",
+    "filingDate": "2025-11-12",
+    "reportDate": "2025-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022125000081/tdg-20250930.htm"
+   },
+   {
+    "accession": "0001260221-24-000083",
+    "filingDate": "2024-11-07",
+    "reportDate": "2024-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022124000083/tdg-20240930.htm"
+   },
+   {
+    "accession": "0001260221-23-000081",
+    "filingDate": "2023-11-09",
+    "reportDate": "2023-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022123000081/tdg-20230930.htm"
+   },
+   {
+    "accession": "0001260221-22-000065",
+    "filingDate": "2022-11-10",
+    "reportDate": "2022-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022122000065/tdg-20220930.htm"
+   },
+   {
+    "accession": "0001260221-21-000134",
+    "filingDate": "2021-11-16",
+    "reportDate": "2021-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022121000134/tdg-20210930.htm"
+   },
+   {
+    "accession": "0001260221-20-000099",
+    "filingDate": "2020-11-12",
+    "reportDate": "2020-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022120000099/tdg-20200930.htm"
+   },
+   {
+    "accession": "0001260221-19-000043",
+    "filingDate": "2019-11-19",
+    "reportDate": "2019-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022119000043/tdg2019-09x3010xk.htm"
+   },
+   {
+    "accession": "0001260221-18-000070",
+    "filingDate": "2018-11-09",
+    "reportDate": "2018-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022118000070/tdg2018-09x3010xk.htm"
+   },
+   {
+    "accession": "0001260221-17-000060",
+    "filingDate": "2017-11-13",
+    "reportDate": "2017-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1260221/000126022117000060/tdg2017-09x3010xk.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,354 @@
+{
+ "proxies": {
+  "0001308179-26-000250": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1489393/000130817926000250/lyb014791-def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001489393-26-000012",
+   "result": {
+    "ceoPay": 15577445,
+    "medianPay": 110140,
+    "payRatio": 141,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "LyondellBasell | 2026 Proxy Statement | Table of Contents CEO Pay Ratio Pursuant to SEC rules, we are required to provide the following information with respect to fiscal 2025: | ● | | The annual total compensation of the global median employee of our company (other than Mr. Vanacker, our CEO), was $110,140; | | ● | | The annual total compensation of Mr. Vanacker, our CEO, was $15,577,445; and | | ● | | Based on this information, the ratio of the annual total compensation of our CEO to the annual total compensation of the global median employee is 141 to 1. | Per SEC rules, for 2025, we identified a new global median employee based on 2025 compensation and the employee population. The global median employee for fiscal year 2025 was identified by examining the 2025 total compensation for al"
+   }
+  },
+  "0001308179-25-000443": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1489393/000130817925000443/lyb4379241-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001489393-25-000008",
+   "result": {
+    "ceoPay": 17018464,
+    "medianPay": 111898,
+    "payRatio": 152,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "oxy Statement | LyondellBasell | | 75 | Table of Contents CEO Pay Ratio Pursuant to SEC rules, we are required to provide the following information with respect to fiscal 2024: | ● | | The annual total compensation of the global median employee of our company (other than Mr. Vanacker, our CEO), was $111,898; | | ● | | The annual total compensation of Mr. Vanacker, our CEO, was $17,018,464; and | | ● | | Based on this information, the ratio of the annual total compensation of our CEO to the annual total compensation of the global median employee is 152 to 1. | For fiscal year 2024, we used the same global median employee as for 2023, who was selected as an employee with substantially similar compensation to the (since departed) 2022 global median employee. We calculated 2024 total compensat"
+   }
+  },
+  "0001308179-24-000473": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1489393/000130817924000473/llyb2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001489393-24-000012",
+   "result": {
+    "ceoPay": 16546194,
+    "medianPay": 106365,
+    "payRatio": 156,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "nt | | LyondellBasell | | 78 | | | | Back to Contents | | CEO Pay Ratio Pursuant to SEC rules, we are required to provide the following information with respect to fiscal 2023: | • | | The annual total compensation of the global median employee of our company (other than Mr. Vanacker, our CEO), was $106,365; | | • | | The annual total compensation of Mr. Vanacker, our CEO, was $16,546,194; and | | • | | Based on this information, the ratio of the annual total compensation of our CEO to the annual total compensation of the global median employee is 156 to 1. | Per SEC rules, we identified a new global median employee on December 31, 2022 based on 2022 compensation and the employee population. The global median employee for fiscal year 2022 was identified by examining the 2022 total compensa"
+   }
+  },
+  "0001308179-23-000608": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/1489393/000130817923000608/llyb2023_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001489393-23-000006",
+   "result": {
+    "ceoPay": 17557450,
+    "medianPay": 93846,
+    "payRatio": 187,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "SPP. | LYONDELL BASELL 2023 PROXY STATEMENT 72 Back to Contents CEO PAY RATIO Pursuant to SEC rules, we are required to provide the following information with respect to fiscal 2022: ❙ The annual total compensation of the global median employee of our company (other than Mr. Vanacker, our CEO), was $93,846; ❙ The annualized total compensation of Mr. Vanacker, our CEO, was $17,557,450; and ❙ Based on this information, the ratio of the annual total compensation of our CEO to the annual total compensation of the global median employee is 187 to 1. For purposes of determining our CEO's annual total compensation, we elected to use the annualized compensation of Mr. Vanacker, who has served as our CEO since May 23, 2022. We understand that the CEO pay ratio is intended to provide greater transpa"
+   }
+  },
+  "0001308179-22-000224": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1489393/000130817922000224/llyb2022_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001489393-22-000009",
+   "result": {
+    "ceoPay": 19011033,
+    "medianPay": 106258,
+    "payRatio": 179,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "| LYONDELL BASELL 2022 PROXY STATEMENT 70 Back to Contents CEO PAY RATIO Pursuant to SEC rules, we are required to provide the following information with respect to fiscal 2021: ❙ The annual total compensation of the global median employee of our company (other than Mr. Patel, our former CEO), was $106,258; ❙ The annual total compensation of Mr. Patel, our former Chief Executive Officer, was $19,011,033; and ❙ Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of the global median employee is 179 to 1. For fiscal year 2021, we used the same global median employee as for 2020, who was selected as an employee with substantially similar compensation to the (since departed) 2019 global median employee. We calcu"
+   }
+  },
+  "0001308179-21-000218": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1489393/000130817921000218/llyb2021_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001489393-21-000007",
+   "result": {
+    "ceoPay": 15570513,
+    "medianPay": 92064,
+    "payRatio": 169,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "L BASELL 2021 PROXY STATEMENT 69 | | | Back to Content | | | CEO PAY RATIO Pursuant to SEC rules, we are required to provide the following information with respect to fiscal 2020: | | | | The annual total compensation of the global median employee of our company (other than Mr. Patel, our CEO), was $92,064; | | | | | The annual total compensation of Mr. Patel, our Chief Executive Officer, was $15,570,513; and | | | | | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of the global median employee is 169 to 1. | For fiscal year 2019, we identified a new global median employee due to a substantial increase in our employee population as a result of our acquisition of A. Schulman, Inc. in August 2018. We ident"
+   }
+  },
+  "0001308179-20-000177": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1489393/000130817920000177/llyb2020_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001489393-20-000009",
+   "result": {
+    "ceoPay": 15943313,
+    "medianPay": 86466,
+    "payRatio": 184,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "P and 900,437 shares under the ESPP. | CEO PAY RATIO Pursuant to Item 402(u) of Regulation S-K, we are required to provide the following information with respect to fiscal 2019: | | | | | The annual total compensation of the global median employee of our company (other than Mr. Patel, our CEO), was $86,466; | | | | | | The annual total compensation of Mr. Patel, our Chief Executive Officer, was $15,943,313; and | | | | | | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of the global median employee is 184 to 1. | For 2019, we identified a new global median employee due to a substantial increase in our employee population as a result of our acquisition of A. Schulman, Inc. in August 2018. As disclosed in"
+   }
+  },
+  "0001308179-19-000219": {
+   "parserVersion": 1,
+   "filingDate": "2019-08-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1489393/000130817919000219/llyb2019_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001489393-19-000011",
+   "result": null
+  },
+  "0001308179-19-000128": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1489393/000130817919000128/llyb2019_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001489393-19-000011",
+   "result": {
+    "ceoPay": 18206796,
+    "medianPay": 114759,
+    "payRatio": 159,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "TIP and 1,066,181 shares under the ESPP. | CEO PAY RATIO Pursuant to Item 402(u) of Regulation S-K, we are required to provide the following information with respect to fiscal 2018: | | | The annual total compensation of the global median employee of our company (other than Mr. Patel, our CEO), was $114,759; | | | | The annual total compensation of Mr. Patel, our Chief Executive Officer, was $18,206,796; and | | | | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of the global median employee is 159 to 1. | We identified the global median employee for fiscal year 2017 and, in accordance with SEC rules, have used the same median employee for calculation of the pay ratio for fiscal 2018. In determining that"
+   }
+  },
+  "0001193125-18-113545": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1489393/000119312518113545/d540834ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001193125-18-054181",
+   "result": {
+    "ceoPay": 17589372,
+    "medianPay": 111568,
+    "payRatio": 158,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ruary 2018. 54 Table of Contents CEO Pay Ratio Pursuant to Item 402(u) of Regulation S-K, we are required to provide the following information with respect to fiscal 2017: | | |  | | | | The annual total compensation of the global median employee of our company (other than Mr. Patel, our CEO), was $111,568; | | | |  | | | | The annual total compensation of Mr. Patel, our Chief Executive Officer, was $17,589,372; and | | | |  | | | | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of the global median employee is 158 to 1. | We identified the global median employee by examining the 2017 total compensation for all regular full- and part-time employees who were actively employed by the Company on December"
+   }
+  }
+ },
+ "tenKs": {
+  "0001193125-18-054181": {
+   "parserVersion": 1,
+   "employees": 13400
+  },
+  "0001489393-19-000011": {
+   "parserVersion": 1,
+   "employees": 19450
+  },
+  "0001489393-20-000009": {
+   "parserVersion": 1,
+   "employees": 19100
+  },
+  "0001489393-21-000007": {
+   "parserVersion": 1,
+   "employees": 19200
+  },
+  "0001489393-22-000009": {
+   "parserVersion": 1,
+   "employees": 19100
+  },
+  "0001489393-23-000006": {
+   "parserVersion": 1,
+   "employees": 19300
+  },
+  "0001489393-24-000012": {
+   "parserVersion": 1,
+   "employees": 20000
+  },
+  "0001489393-25-000008": {
+   "parserVersion": 1,
+   "employees": 13700
+  },
+  "0001489393-26-000012": {
+   "parserVersion": 1,
+   "employees": 18970
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2011": {
+    "revenue": 48183000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-060399"
+   },
+   "2012": {
+    "revenue": 45352000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-15-003039"
+   },
+   "2013": {
+    "revenue": 44062000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-16-465311"
+   },
+   "2014": {
+    "revenue": 45608000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-17-047661"
+   },
+   "2015": {
+    "revenue": 32735000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-18-054181"
+   },
+   "2016": {
+    "revenue": 29183000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001489393-19-000011"
+   },
+   "2017": {
+    "revenue": 34484000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001489393-20-000009"
+   },
+   "2018": {
+    "revenue": 39004000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001489393-21-000007"
+   },
+   "2019": {
+    "revenue": 34727000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001489393-22-000009"
+   },
+   "2020": {
+    "revenue": 27753000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001489393-23-000006"
+   },
+   "2021": {
+    "revenue": 46173000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001489393-24-000012"
+   },
+   "2022": {
+    "revenue": 50451000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001489393-25-000008"
+   },
+   "2023": {
+    "revenue": 33336000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001489393-26-000012"
+   },
+   "2024": {
+    "revenue": 33394000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001489393-26-000012"
+   },
+   "2025": {
+    "revenue": 30153000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001489393-26-000012"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001489393-26-000012",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939326000012/lyb-20251231.htm"
+   },
+   {
+    "accession": "0001489393-25-000008",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939325000008/lyb-20241231.htm"
+   },
+   {
+    "accession": "0001489393-24-000012",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939324000012/lyb-20231231.htm"
+   },
+   {
+    "accession": "0001489393-23-000006",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939323000006/lyb-20221231.htm"
+   },
+   {
+    "accession": "0001489393-22-000009",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939322000009/lyb-20211231.htm"
+   },
+   {
+    "accession": "0001489393-21-000007",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939321000007/lyb-20201231.htm"
+   },
+   {
+    "accession": "0001489393-20-000009",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939320000009/a2019q410k.htm"
+   },
+   {
+    "accession": "0001489393-19-000011",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1489393/000148939319000011/a2018q410k.htm"
+   },
+   {
+    "accession": "0001193125-18-054181",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1489393/000119312518054181/d533271d10k.htm"
+   },
+   {
+    "accession": "0001193125-17-047661",
+    "filingDate": "2017-02-17",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1489393/000119312517047661/d341907d10k.htm"
+   }
+  ]
+ }
+}

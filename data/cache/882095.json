@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001308179-26-000106": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/882095/000130817926000106/gild014721-def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000882095-26-000006",
+   "result": {
+    "ceoPay": 28437198,
+    "medianPay": 238979,
+    "payRatio": 119,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "tics to select the median compensated employee. | We then calculated annual total compensation for the median compensation employee using the same methodology we use for our Named Executive Officers as set forth in the Summary Compensation Table. The 2025 annual total compensation for Mr. O'Day was $28,437,198 as reported in the Summary Compensation Table. The 2025 annual total compensation for our median compensated employee was $238,979. The ratio of Mr. O'Day's total compensation to our median compensated employee's annual total compensation for fiscal year 2025 is 119 to 1. | 72 | | | | | | Back to Contents | | Equity Grant Practices The Compensation and Talent Committee generally approves the target value of annual equity awards for the company's executive officers, including each of"
+   }
+  },
+  "0001308179-25-000252": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/882095/000130817925000252/gild013520-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000882095-25-000006",
+   "result": {
+    "ceoPay": 23689392,
+    "medianPay": 244296,
+    "payRatio": 97,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "tics to select the median compensated employee. | We then calculated annual total compensation for the median compensation employee using the same methodology we use for our Named Executive Officers as set forth in the Summary Compensation Table. The 2024 annual total compensation for Mr. O'Day was $23,689,392, as reported in the Summary Compensation Table. The 2024 annual total compensation for our median compensated employee was $244,296. The ratio of Mr. O'Day's total compensation to our median compensated employee's annual total compensation for fiscal year 2024 is 97 to 1. | 2025 Proxy Statement | | 71 | | | | Back to Contents | Equity Grant Practices The Compensation and Talent Committee generally approves the target value of annual equity awards for the Company's executive officers,"
+   }
+  },
+  "0001308179-24-000348": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/882095/000130817924000348/lgild2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000882095-24-000007",
+   "result": {
+    "ceoPay": 22607690,
+    "medianPay": 205866,
+    "payRatio": 110,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "our payroll records as of October 1, 2023 based on year-to-date base salary, incentive compensation, commissions and vested equity values, with conforming adjustments for employees who were hired during that period but did not work the full nine months. The 2023 total compensation for Mr. O'Day was $22,607,690. The 2023 annual total compensation as determined under Item 402 of Regulation S-K for our median compensated employee was $205,866. The ratio of Mr. O'Day's total compensation to our median compensated employee's total annual compensation for fiscal year 2023 is 110 to 1. | 2024 Proxy Statement | | 67 | | | | Back to Contents | | Summary Compensation Table The following table shows, for the fiscal years 2023, 2022 and 2021, compensation awarded to, paid to, or earned by, our Named E"
+   }
+  },
+  "0001308179-23-000323": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/882095/000130817923000323/gild4141721-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000882095-23-000007",
+   "result": {
+    "ceoPay": 21621253,
+    "medianPay": 242033,
+    "payRatio": 89,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ng adjustments for employees who were hired during that period but did not work the full nine months. | | | | | | | | We then disregarded employees at the median who had anomalous compensation characteristics to select the median compensated employee. | The 2022 total compensation for Mr. O'Day was $21,621,253. The 2022 annual total compensation as determined under Item 402 of Regulation S-K for our median compensated employee was $242,033. The ratio of Mr. O'Day's total compensation to our median compensated employee's total annual compensation for fiscal year 2022 is 89 to 1. | 2023 Proxy Statement | | 79 | Table of Contents Executive Compensation Pay versus Performance As required by Section 953(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(v) of Regu"
+   }
+  },
+  "0001206774-22-000832": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/882095/000120677422000832/gild3988061-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000882095-22-000007",
+   "result": {
+    "ceoPay": 19229466,
+    "medianPay": 211687,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "adjustments for employees who were hired during that period but did not work the full nine months. | | | | | | ● | | We then excluded employees at the median who had anomalous compensation characteristics to determine the median compensated employee. | The 2021 total compensation for Mr. O'Day was $19,229,466. The 2021 annual total compensation as determined under Item 402 of Regulation S-K for our median compensated employee was $211,687. The ratio of Mr. O'Day's total compensation to our median compensated employee's total annual compensation for fiscal year 2021 is 91 to 1. | 2022 Proxy Statement | | 73 | Table of Contents Equity Incentive Plan Equity Incentive Plan | PROPOSAL 4 | | Approval of the Gilead Sciences, Inc. 2022 Equity Incentive Plan | We are asking stockholders to approve"
+   }
+  },
+  "0001206774-21-000908": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/882095/000120677421000908/gild3818501-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000882095-21-000008",
+   "result": {
+    "ceoPay": 18998905,
+    "medianPay": 250190,
+    "payRatio": 76,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "nforming adjustments for employees who were hired during that period but did not work the full nine months. | | ► | | We then excluded employees at the median who had anomalous compensation characteristics to determine the median compensated employee. | The 2020 total compensation for Mr. O'Day was $18,998,905. The 2020 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $250,190. The ratio of Mr. O'Day's total compensation to our median employee's total annual compensation for fiscal year 2020 is 76 to 1. | 76 | | | Table of Contents | | Stockholder Proposal | | | | | | | | | | | Proposal 4 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Stockholder Proposal Requesting that the Board Adopt a Policy that the Chairperson of th"
+   }
+  },
+  "0001206774-20-000886": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/882095/000120677420000886/gild3646261-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000882095-20-000006",
+   "result": {
+    "ceoPay": 29361393,
+    "medianPay": 173264,
+    "payRatio": 169,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "19, as permitted by SEC rules, we elected to annualize the Chief Executive Officer compensation for purposes of the pay ratio based on compensation for Mr. O'Day's appointment as Chairman and Chief Executive Officer effective March 1, 2019. | The 2019 annualized total compensation for Mr. O'Day was $29,361,393, which reflects his annualized base salary for the year, as well as all other elements of his compensation as determined under Item 402 of Regulation S-K. The 2019 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $173,264. The ratio of Mr. O'Day's annualized total compensation to our median employee's total annual compensation for fiscal year 2019 is 169 to 1. As discussed in our Compensation Discussion and Analysis, Mr. O'Day's com"
+   }
+  },
+  "0001206774-19-001013": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/882095/000120677419001013/gild3496971-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000882095-19-000006",
+   "result": {
+    "ceoPay": 25961831,
+    "medianPay": 163963,
+    "payRatio": 158,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "and excluding our former Chief Executive Officer. | | ■ | | We then excluded employees at the median who had anomalous compensation characteristics to determine the median compensated employee. | The 2018 annual total compensation as determined under Item 402 of Regulation S-K for Dr. Milligan was $25,961,831, as reported in the Summary Compensation Table of this Proxy Statement. The 2018 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $163,963. The ratio of Dr. Milligan's annual total compensation to our median employee's total annual compensation for fiscal year 2018 is 158 to 1. As discussed in our Compensation Discussion and Analysis, Dr. Milligan's 2018 compensation includes one-time charges related to the treatment of his equity a"
+   }
+  },
+  "0001206774-18-000957": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/882095/000120677418000957/gilead3281381-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000882095-18-000008",
+   "result": {
+    "ceoPay": 15438459,
+    "medianPay": 165007,
+    "payRatio": 94,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "n compensated employee. As permitted by SEC rules, we did not include approximately 821 employees of Kite and CDL, which are companies we acquired in 2017 after the October 1, 2017 identification date. The 2017 annual total compensation as determined under Item 402 of Regulation S-K for our CEO was $15,438,459, as reported in the Summary Compensation Table of this Proxy Statement. The 2017 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $165,007. The ratio of our CEO's annual total compensation to our median employee's total annual compensation for fiscal year 2017 is 94 to 1. | 2018 Proxy Statement | | | | 73 | Table of Contents Stockholder Proposals | Proposal 4 ► | | | | Stockholder Proposal Requesting that the Board Adopt a Policy th"
+   }
+  }
+ },
+ "tenKs": {
+  "0000882095-18-000008": {
+   "parserVersion": 1,
+   "employees": 10000
+  },
+  "0000882095-19-000006": {
+   "parserVersion": 1,
+   "employees": 11000
+  },
+  "0000882095-20-000006": {
+   "parserVersion": 1,
+   "employees": 11800
+  },
+  "0000882095-21-000008": {
+   "parserVersion": 1,
+   "employees": 13600
+  },
+  "0000882095-22-000007": {
+   "parserVersion": 1,
+   "employees": 14400
+  },
+  "0000882095-23-000007": {
+   "parserVersion": 1,
+   "employees": 17000
+  },
+  "0000882095-24-000007": {
+   "parserVersion": 1,
+   "employees": 18000
+  },
+  "0000882095-25-000006": {
+   "parserVersion": 1,
+   "employees": 17600
+  },
+  "0000882095-26-000006": {
+   "parserVersion": 1,
+   "employees": 17000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 4230045000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-044753"
+   },
+   "2008": {
+    "revenue": 5335750000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-050041"
+   },
+   "2009": {
+    "revenue": 7011383000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-075335"
+   },
+   "2010": {
+    "revenue": 7949420000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000882095-13-000015"
+   },
+   "2011": {
+    "revenue": 8385385000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000882095-13-000015"
+   },
+   "2012": {
+    "revenue": 9702517000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000882095-13-000015"
+   },
+   "2013": {
+    "revenue": 11202000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000882095-16-000039"
+   },
+   "2014": {
+    "revenue": 24890000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000882095-17-000006"
+   },
+   "2015": {
+    "revenue": 32639000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000882095-18-000008"
+   },
+   "2016": {
+    "revenue": 30390000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000882095-19-000006"
+   },
+   "2017": {
+    "revenue": 26107000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000882095-20-000006"
+   },
+   "2018": {
+    "revenue": 22127000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000882095-21-000008"
+   },
+   "2019": {
+    "revenue": 22449000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000882095-21-000008"
+   },
+   "2020": {
+    "revenue": 24689000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000882095-21-000008"
+   },
+   "2021": {
+    "revenue": 27305000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000882095-24-000007"
+   },
+   "2022": {
+    "revenue": 27281000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000882095-25-000006"
+   },
+   "2023": {
+    "revenue": 27116000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000882095-26-000006"
+   },
+   "2024": {
+    "revenue": 28754000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000882095-26-000006"
+   },
+   "2025": {
+    "revenue": 29443000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000882095-26-000006"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000882095-26-000006",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209526000006/gild-20251231.htm"
+   },
+   {
+    "accession": "0000882095-25-000006",
+    "filingDate": "2025-02-28",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209525000006/gild-20241231.htm"
+   },
+   {
+    "accession": "0000882095-24-000007",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209524000007/gild-20231231.htm"
+   },
+   {
+    "accession": "0000882095-23-000007",
+    "filingDate": "2023-02-22",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209523000007/gild-20221231.htm"
+   },
+   {
+    "accession": "0000882095-22-000007",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209522000007/gild-20211231.htm"
+   },
+   {
+    "accession": "0000882095-21-000008",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209521000008/gild-20201231.htm"
+   },
+   {
+    "accession": "0000882095-20-000006",
+    "filingDate": "2020-02-25",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209520000006/a2019form10-k.htm"
+   },
+   {
+    "accession": "0000882095-19-000006",
+    "filingDate": "2019-02-26",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209519000006/a2018form10-k.htm"
+   },
+   {
+    "accession": "0000882095-18-000008",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209518000008/a2017form10-k.htm"
+   },
+   {
+    "accession": "0000882095-17-000006",
+    "filingDate": "2017-02-27",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209517000006/a2016form10-k.htm"
+   }
+  ]
+ }
+}

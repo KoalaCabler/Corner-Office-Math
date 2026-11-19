@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001193125-26-275853": {
+   "parserVersion": 1,
+   "filingDate": "2026-06-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/14693/000119312526275853/d39207ddef14a.htm",
+   "periodEnd": "2026-04-30",
+   "tenK": "0000014693-26-000024",
+   "result": {
+    "ceoPay": 25304882,
+    "medianPay": 57651,
+    "payRatio": 439,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "SURE CEO Pay Ratio The Dodd-Frank Wall Street Reform and Consumer Protection Act requires us to disclose the ratio between the annual total compensation of our CEO and the annual total compensation of our \"median employee.\" In fiscal 2026, the annual total compensation for our CEO, Mr. Whiting, was $25,304,882 as disclosed in the Fiscal 2026 Summary Compensation Table on page 50. In order to determine the annual total compensation of our median employee, Brown-Forman: • Identified our global employee population as of February 1, 2026. • Compared payroll data of our global employee population using a consistently applied compensation measure of base salary (including overtime) and holiday bonus paid to our employees during the most recent tax year of January 1, 2025, to December 31, 2025. •"
+   }
+  },
+  "0001193125-25-143663": {
+   "parserVersion": 1,
+   "filingDate": "2025-06-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/14693/000119312525143663/d913060ddef14a.htm",
+   "periodEnd": "2025-04-30",
+   "tenK": "0000014693-25-000062",
+   "result": {
+    "ceoPay": 13449544,
+    "medianPay": 61347,
+    "payRatio": 219,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "sure CEO Pay Ratio The Dodd-Frank Wall Street Reform and Consumer Protection Act requires us to disclose the ratio between the annual total compensation of our CEO and the annual total compensation of our \"median employee.\" In fiscal 2025, the annual total compensation for our CEO, Mr. Whiting, was $13,449,544 as disclosed in the Fiscal 2025 Summary Compensation Table on page 45. In order to determine the annual total compensation of our median employee, Brown-Forman: • Identified our global employee population as of February 1, 2025. • Compared payroll data of our global employee population using a consistently applied compensation measure of base salary (including overtime) and holiday bonus paid to our employees during the most recent tax year of January 1, 2024, to December 31, 2024. •"
+   }
+  },
+  "0001193125-24-165706": {
+   "parserVersion": 1,
+   "filingDate": "2024-06-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/14693/000119312524165706/d657975ddef14a.htm",
+   "periodEnd": "2024-04-30",
+   "tenK": "0000014693-24-000086",
+   "result": {
+    "ceoPay": 13194160,
+    "medianPay": 57220,
+    "payRatio": 231,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "SURE CEO Pay Ratio The Dodd-Frank Wall Street Reform and Consumer Protection Act requires us to disclose the ratio between the annual total compensation of our CEO and the annual total compensation of our \"median employee.\" In fiscal 2024, the annual total compensation for our CEO, Mr. Whiting, was $13,194,160 as disclosed in the Fiscal 2024 Summary Compensation Table on page 50. In order to determine the annual total compensation of our median employee, Brown-Forman: | • | | | | Identified our global employee population as of February 1, 2024. | | • | | | | Compared payroll data of our global employee population using a consistently applied compensation measure of base salary (including overtime) and holiday bonus paid to our employees during the most recent tax year of January 1, 2023, t"
+   }
+  },
+  "0001193125-23-173793": {
+   "parserVersion": 1,
+   "filingDate": "2023-06-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/14693/000119312523173793/d509319ddef14a.htm",
+   "periodEnd": "2023-04-30",
+   "tenK": "0000014693-23-000074",
+   "result": {
+    "ceoPay": 9651262,
+    "medianPay": 53271,
+    "payRatio": 181,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "sure CEO Pay Ratio The Dodd-Frank Wall Street Reform and Consumer Protection Act requires us to disclose the ratio between the annual total compensation of our CEO and the annual total compensation of our \"median employee.\" In fiscal 2023, the annual total compensation for our CEO, Mr. Whiting, was $9,651,262 as disclosed in the Fiscal 2023 Summary Compensation Table on page 50. In order to determine the annual total compensation of our median employee, Brown-Forman: | | | • | | | | Identified our global employee population as of February 1, 2023. | | | | • | | | | Compared payroll data of our global employee population using a consistently applied compensation measure of base salary (including overtime) and holiday bonus paid to our employees during the most recent tax year of January 1,"
+   }
+  },
+  "0001193125-22-181464": {
+   "parserVersion": 1,
+   "filingDate": "2022-06-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/14693/000119312522181464/d310953ddef14a.htm",
+   "periodEnd": "2022-04-30",
+   "tenK": "0000014693-22-000069",
+   "result": {
+    "ceoPay": 8364936,
+    "medianPay": 61040,
+    "payRatio": 137,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "sure CEO Pay Ratio The Dodd-Frank Wall Street Reform and Consumer Protection Act requires us to disclose the ratio between the annual total compensation of our CEO and the annual total compensation of our median employee. In fiscal 2022, the annual total compensation for our CEO, Mr. Whiting, was $8,364,936 as disclosed in the Fiscal 2022 Summary Compensation Table on page 52. In order to determine the annual total compensation of our median employee, Brown-Forman: |  | | | | Identified our global employee population as of February 1, 2022. | |  | | | | Compared payroll data of our global employee population using a consistently applied compensation measure of base salary (including overtime) and holiday bonus paid to our employees during the most recent tax year of January 1, 2021, to"
+   }
+  },
+  "0001193125-21-196246": {
+   "parserVersion": 1,
+   "filingDate": "2021-06-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/14693/000119312521196246/d145527ddef14a.htm",
+   "periodEnd": "2021-04-30",
+   "tenK": "0000014693-21-000091",
+   "result": {
+    "ceoPay": 9112109,
+    "medianPay": 57080,
+    "payRatio": 160,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "RE | CEO PAY RATIO The Dodd-Frank Wall Street Reform and Consumer Protection Act requires us to disclose the ratio between the annual total compensation of our CEO and the annual total compensation of our median employee. In fiscal 2021, the annual total compensation for our CEO, Mr. Whiting, was $9,112,109, as disclosed in the Fiscal 2021 Summary Compensation Table on page 48. In order to determine the annual total compensation of our median employee, Brown-Forman utilized the following approach: |  | | | | Identified our global employee population as of February 1, 2021. | |  | | | | Compared payroll data of our global employee population using a consistently applied compensation measure of base salary (including overtime) and holiday bonus paid to our employees during the most recen"
+   }
+  },
+  "0001193125-20-183147": {
+   "parserVersion": 1,
+   "filingDate": "2020-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/14693/000119312520183147/d948253ddef14a.htm",
+   "periodEnd": "2020-04-30",
+   "tenK": "0000014693-20-000066",
+   "result": {
+    "ceoPay": 6196407,
+    "medianPay": 58120,
+    "payRatio": 107,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "SURE CEO PAY RATIO The Dodd-Frank Wall Street Reform and Consumer Protection Act requires us to disclose the ratio between the annual total compensation of our CEO and the annual total compensation of our median employee. In fiscal 2020, the annual total compensation for our CEO, Mr. Whiting, was $6,196,407, as disclosed in the Fiscal 2020 Summary Compensation Table on page 42. In order to determine the annual total compensation of our median employee, Brown-Forman utilized the following approach: |  | | | | Identified our global employee population as of February 1, 2020. | |  | | | | Compared payroll data of our global employee population using a consistently applied compensation measure of base salary (including overtime) and holiday bonus paid to our employees during the most recen"
+   }
+  },
+  "0001672764-19-000005": {
+   "parserVersion": 1,
+   "filingDate": "2019-06-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/14693/000167276419000005/p65141_def14a.htm",
+   "periodEnd": "2019-04-30",
+   "tenK": "0000014693-19-000099",
+   "result": {
+    "ceoPay": 3695893,
+    "medianPay": 58714,
+    "payRatio": 63,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "sure CEO PAY RATIO The Dodd-Frank Wall Street Reform and Consumer Protection Act requires us to disclose the ratio between the annual total compensation of our CEO and the annual total compensation of our \"median employee.\" In fiscal 2019, the annual total compensation for our CEO, Mr. Whiting, was $3,695,893, as disclosed in the Fiscal 2019 Summary Compensation Table on page 40. In order to determine the annual total compensation of our median employee, Brown-Forman utilized the following approach: | | | Identified our global employee population as of February 1, 2019. | | | | Compared payroll data of our global employee population using a consistently applied compensation measure of base salary (including overtime) and holiday bonus paid to our employees during the most recent tax year o"
+   }
+  },
+  "0001672764-18-000017": {
+   "parserVersion": 1,
+   "filingDate": "2018-06-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/14693/000167276418000017/p60029_def14a.htm",
+   "periodEnd": "2018-04-30",
+   "tenK": "0000014693-18-000084",
+   "result": {
+    "ceoPay": 8826735,
+    "medianPay": 60555,
+    "payRatio": 146,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "losure CEO PAY RATIO The Dodd-Frank Wall Street Reform and Consumer Protection Act requires us to disclose the ratio between the annual total compensation of our CEO and the annual total compensation of our \"median employee.\" In fiscal 2018, the annual total compensation for our CEO, Mr. Varga, was $8,826,735, as disclosed in the Fiscal 2018 Summary Compensation Table on page 40. In order to determine the annual total compensation of our median employee, Brown-Forman utilized the following approach: | | | Identified our global employee population as of February 1, 2018. | | | | Compared payroll data of our global employee population using a consistently applied compensation measure of base salary (including overtime) and holiday bonus paid to our employees during the most recent tax year o"
+   }
+  }
+ },
+ "tenKs": {
+  "0000014693-18-000084": {
+   "parserVersion": 1,
+   "employees": 4800
+  },
+  "0000014693-19-000099": {
+   "parserVersion": 1,
+   "employees": 4700
+  },
+  "0000014693-20-000066": {
+   "parserVersion": 1,
+   "employees": 4800
+  },
+  "0000014693-21-000091": {
+   "parserVersion": 1,
+   "employees": 4700
+  },
+  "0000014693-22-000069": {
+   "parserVersion": 1,
+   "employees": 5200
+  },
+  "0000014693-23-000074": {
+   "parserVersion": 1,
+   "employees": 5600
+  },
+  "0000014693-24-000086": {
+   "parserVersion": 1,
+   "employees": 5700
+  },
+  "0000014693-25-000062": {
+   "parserVersion": 1,
+   "employees": 5000
+  },
+  "0000014693-26-000024": {
+   "parserVersion": 1,
+   "employees": 4900
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 3192000000,
+    "periodEnd": "2009-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000014693-11-000044"
+   },
+   "2010": {
+    "revenue": 3226000000,
+    "periodEnd": "2010-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-12-285018"
+   },
+   "2011": {
+    "revenue": 3404000000,
+    "periodEnd": "2011-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000014693-13-000038"
+   },
+   "2012": {
+    "revenue": 3614000000,
+    "periodEnd": "2012-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000014693-14-000014"
+   },
+   "2013": {
+    "revenue": 3784000000,
+    "periodEnd": "2013-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000014693-15-000014"
+   },
+   "2014": {
+    "revenue": 3946000000,
+    "periodEnd": "2014-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000014693-16-000160"
+   },
+   "2015": {
+    "revenue": 4096000000,
+    "periodEnd": "2015-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000014693-17-000119"
+   },
+   "2016": {
+    "revenue": 4011000000,
+    "periodEnd": "2016-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000014693-18-000084"
+   },
+   "2017": {
+    "revenue": 3857000000,
+    "periodEnd": "2017-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000014693-19-000099"
+   },
+   "2018": {
+    "revenue": 4201000000,
+    "periodEnd": "2018-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000014693-20-000070"
+   },
+   "2019": {
+    "revenue": 4276000000,
+    "periodEnd": "2019-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000014693-21-000091"
+   },
+   "2020": {
+    "revenue": 4306000000,
+    "periodEnd": "2020-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000014693-22-000069"
+   },
+   "2021": {
+    "revenue": 4526000000,
+    "periodEnd": "2021-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000014693-23-000074"
+   },
+   "2022": {
+    "revenue": 5081000000,
+    "periodEnd": "2022-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000014693-24-000086"
+   },
+   "2023": {
+    "revenue": 5372000000,
+    "periodEnd": "2023-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000014693-25-000062"
+   },
+   "2024": {
+    "revenue": 5328000000,
+    "periodEnd": "2024-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000014693-26-000024"
+   },
+   "2025": {
+    "revenue": 5056000000,
+    "periodEnd": "2025-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000014693-26-000024"
+   },
+   "2026": {
+    "revenue": 5082000000,
+    "periodEnd": "2026-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000014693-26-000024"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 8364936,
+   "2023": 9651262,
+   "2024": 13194160,
+   "2025": 13449544,
+   "2026": 25304881
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000014693-26-000024",
+    "filingDate": "2026-06-12",
+    "reportDate": "2026-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469326000024/bfb-20260430.htm"
+   },
+   {
+    "accession": "0000014693-25-000062",
+    "filingDate": "2025-06-13",
+    "reportDate": "2025-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469325000062/bfb-20250430.htm"
+   },
+   {
+    "accession": "0000014693-24-000086",
+    "filingDate": "2024-06-14",
+    "reportDate": "2024-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469324000086/bfb-20240430.htm"
+   },
+   {
+    "accession": "0000014693-23-000074",
+    "filingDate": "2023-06-16",
+    "reportDate": "2023-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469323000074/bfb-20230430.htm"
+   },
+   {
+    "accession": "0000014693-22-000069",
+    "filingDate": "2022-06-17",
+    "reportDate": "2022-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469322000069/bfb-20220430.htm"
+   },
+   {
+    "accession": "0000014693-21-000091",
+    "filingDate": "2021-06-21",
+    "reportDate": "2021-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469321000091/bfb-20210430.htm"
+   },
+   {
+    "accession": "0000014693-20-000066",
+    "filingDate": "2020-06-19",
+    "reportDate": "2020-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469320000066/bfb-2020430x10kapril.htm"
+   },
+   {
+    "accession": "0000014693-19-000099",
+    "filingDate": "2019-06-13",
+    "reportDate": "2019-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469319000099/bfb-2019430x10kapril.htm"
+   },
+   {
+    "accession": "0000014693-18-000084",
+    "filingDate": "2018-06-13",
+    "reportDate": "2018-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469318000084/bfb-2018430x10kapril.htm"
+   },
+   {
+    "accession": "0000014693-17-000119",
+    "filingDate": "2017-06-15",
+    "reportDate": "2017-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/14693/000001469317000119/bfb-2017430x10k.htm"
+   }
+  ]
+ }
+}

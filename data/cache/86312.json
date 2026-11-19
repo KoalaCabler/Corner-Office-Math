@@ -1,0 +1,376 @@
+{
+ "proxies": {
+  "0000086312-26-000103": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000103/trv-20260406.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000086312-26-000065",
+   "result": {
+    "ceoPay": 26983859,
+    "medianPay": 132067,
+    "payRatio": 204,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Schnitzer, our Chief Executive Officer. For 2025 , our last completed fiscal year: • The median of the annual total compensation of all employees of our company (other than Mr. Schnitzer) was $132,067; • The annual total compensation of Mr. Schnitzer was $26,983,859; and • Based on the foregoing, the ratio of the annual total compensation of Mr. Schnitzer to the median of the annual total compensation of all employees was 204 to 1. In addition to the required ratio, we also provide the following supplemental information regarding the relationship of the annual total compensation of our full- time U.S. employees who worked for us for the entire year and the annual total compensation o"
+   }
+  },
+  "0000086312-25-000019": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631225000019/trv-20250403.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000086312-25-000012",
+   "result": {
+    "ceoPay": 23074306,
+    "medianPay": 120893,
+    "payRatio": 191,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Schnitzer, our Chief Executive Officer. For 2024 , our last completed fiscal year: • The median of the annual total compensation of all employees of our company (other than Mr. Schnitzer) was $120,893; • The annual total compensation of Mr. Schnitzer was $23,074,306; and • Based on the foregoing, the ratio of the annual total compensation of Mr. Schnitzer to the median of the annual total compensation of all employees was 191 to 1. In addition to the required ratio, we also provide the following supplemental information regarding the relationship of the annual total compensation of our full- time U.S. employees who worked for us for the entire year and the annual total compensation o"
+   }
+  },
+  "0000086312-24-000023": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631224000023/trv-20240402.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000086312-24-000012",
+   "result": {
+    "ceoPay": 22743897,
+    "medianPay": 117491,
+    "payRatio": 194,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Schnitzer, our Chief Executive Officer. For 2023 , our last completed fiscal year: • The median of the annual total compensation of all employees of our company (other than Mr. Schnitzer) was $117,491; • The annual total compensation of Mr. Schnitzer was $22,743,897; and • Based on the foregoing, the ratio of the annual total compensation of Mr. Schnitzer to the median of the annual total compensation of all employees was 194 to 1. In addition to the required ratio, we also provide the following supplemental information regarding the relationship of the annual total compensation of our full- time U.S. employees who worked for us for the entire year and the annual total compensation o"
+   }
+  },
+  "0000086312-23-000025": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631223000025/trv-20230406.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000086312-23-000011",
+   "result": {
+    "ceoPay": 21085790,
+    "medianPay": 108583,
+    "payRatio": 194,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Schnitzer, our Chief Executive Officer. For 2022, our last completed fiscal year: • The median of the annual total compensation of all employees of our company (other than Mr. Schnitzer) was $108,583; • The annual total compensation of Mr. Schnitzer was $21,085,790; and • Based on the foregoing, the ratio of the annual total compensation of Mr. Schnitzer to the median of the annual total compensation of all employees was 194 to 1. In addition to the required ratio, we also provide the following supplemental information regarding the relationship of the annual total compensation of our full-time U.S. employees who worked for us for the entire year and the annual total compensation of"
+   }
+  },
+  "0000086312-22-000019": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631222000019/a2022proxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000086312-22-000013",
+   "result": {
+    "ceoPay": 19866781,
+    "medianPay": 109586,
+    "payRatio": 181,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Schnitzer, our Chief Executive Officer. For 2021, our last completed fiscal year: • The median of the annual total compensation of all employees of our company (other than Mr. Schnitzer) was $109,586; • The annual total compensation of Mr. Schnitzer was $19,866,781; and • Based on the foregoing, the ratio of the annual total compensation of Mr. Schnitzer to the median of the annual total compensation of all employees was 181 to 1. In addition to the required ratio, we also provide the following supplemental information regarding the relationship of the annual total compensation of our full-time U.S. employees who worked for us for the entire year and the annual total compensation of"
+   }
+  },
+  "0001206774-21-000970": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000120677421000970/trv3788451-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000086312-21-000011",
+   "result": {
+    "ceoPay": 19003194,
+    "medianPay": 112896,
+    "payRatio": 168,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "relationship of the annual total compensation of our employees and the annual total compensation of Mr. Schnitzer, our Chief Executive Officer. For 2020, our last completed fiscal year: | | | The median of the annual total compensation of all employees of our company (other than Mr. Schnitzer) was $112,896; | | | | The annual total compensation of Mr. Schnitzer was $19,003,194; and | | | | Based on the foregoing, the ratio of the annual total compensation of Mr. Schnitzer to the median of the annual total compensation of all employees was 168 to 1. | In addition to the required ratio, we also provide the following supplemental information regarding the relationship of the annual total compensation of our full-time U.S. employees who worked for us for the entire year and the annual total c"
+   }
+  },
+  "0001206774-20-001051": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000120677420001051/trv3632281-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000086312-20-000011",
+   "result": {
+    "ceoPay": 16791247,
+    "medianPay": 111170,
+    "payRatio": 151,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "elationship of the annual total compensation of our employees and the annual total compensation of Mr. Schnitzer, our Chief Executive Officer. For 2019, our last completed fiscal year: | ● | | The median of the annual total compensation of all employees of our company (other than Mr. Schnitzer) was $111,170; | | ● | | The annual total compensation of Mr. Schnitzer was $16,791,247; and | | ● | | Based on the foregoing, the ratio of the annual total compensation of Mr. Schnitzer to the median of the annual total compensation of all employees was 151 to 1. | In addition to the required ratio, we also provide the following supplemental information regarding the relationship of the annual total compensation of our full-time U.S. employees who worked for us for the entire year and the annual tot"
+   }
+  },
+  "0001206774-19-001233": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000120677419001233/trv3452511-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000086312-19-000009",
+   "result": {
+    "ceoPay": 14660092,
+    "medianPay": 95238,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "elationship of the annual total compensation of our employees and the annual total compensation of Mr. Schnitzer, our Chief Executive Officer. For 2018, our last completed fiscal year: | ● | | The median of the annual total compensation of all employees of our company (other than Mr. Schnitzer) was $95,238; | | ● | | The annual total compensation of Mr. Schnitzer was $14,660,092; and | | ● | | Based on the foregoing, the ratio of the annual total compensation of Mr. Schnitzer to the median of the annual total compensation of all employees was 154 to 1. | In addition to the required ratio, we also provide the following supplemental information regarding the relationship of the annual total compensation of our full-time U.S. employees who worked for us for the entire year and the annual tota"
+   }
+  },
+  "0001047469-18-002611": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/86312/000104746918002611/a2235075zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001047469-18-000812",
+   "result": {
+    "ceoPay": 15244942,
+    "medianPay": 99004,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Schnitzer, our Chief Executive Officer. For 2017, our last completed fiscal year:  The median of the annual total compensation of all employees of our company (other than Mr. Schnitzer) was $99,004;  The annual total compensation of Mr. Schnitzer was $15,244,942; and  Based on the foregoing, the ratio of the annual total compensation of Mr. Schnitzer to the median of the annual total compensation of all employees was 154 to 1. In addition to the required ratio, we also provide the following supplemental information regarding the relationship of the annual total compensation of our full-time U.S. employees who worked for us for the entire year and the annual total compensation of"
+   }
+  }
+ },
+ "tenKs": {
+  "0001047469-18-000812": {
+   "parserVersion": 1,
+   "employees": 11000
+  },
+  "0000086312-19-000009": {
+   "parserVersion": 1,
+   "employees": 30400
+  },
+  "0000086312-20-000011": {
+   "parserVersion": 1,
+   "employees": 30800
+  },
+  "0000086312-21-000011": {
+   "parserVersion": 1,
+   "employees": 30600
+  },
+  "0000086312-22-000013": {
+   "parserVersion": 1,
+   "employees": 30800
+  },
+  "0000086312-23-000011": {
+   "parserVersion": 1,
+   "employees": 32500
+  },
+  "0000086312-24-000012": {
+   "parserVersion": 1,
+   "employees": 12500
+  },
+  "0000086312-25-000012": {
+   "parserVersion": 1,
+   "employees": 12700
+  },
+  "0000086312-26-000065": {
+   "parserVersion": 1,
+   "employees": 12300
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 26017000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-10-000972"
+   },
+   "2008": {
+    "revenue": 24477000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-001001"
+   },
+   "2009": {
+    "revenue": 24680000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-12-001096"
+   },
+   "2010": {
+    "revenue": 25112000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-13-001211"
+   },
+   "2011": {
+    "revenue": 25446000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-14-000854"
+   },
+   "2012": {
+    "revenue": 25740000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-15-000743"
+   },
+   "2013": {
+    "revenue": 26191000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-16-010107"
+   },
+   "2014": {
+    "revenue": 27174000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-17-000695"
+   },
+   "2015": {
+    "revenue": 26815000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-18-000812"
+   },
+   "2016": {
+    "revenue": 27625000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000086312-19-000009"
+   },
+   "2017": {
+    "revenue": 28902000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000086312-20-000011"
+   },
+   "2018": {
+    "revenue": 30282000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000086312-21-000011"
+   },
+   "2019": {
+    "revenue": 31581000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000086312-22-000013"
+   },
+   "2020": {
+    "revenue": 31981000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000086312-23-000011"
+   },
+   "2021": {
+    "revenue": 34816000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000086312-24-000012"
+   },
+   "2022": {
+    "revenue": 36884000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000086312-25-000012"
+   },
+   "2023": {
+    "revenue": 41364000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000086312-26-000065"
+   },
+   "2024": {
+    "revenue": 46423000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000086312-26-000065"
+   },
+   "2025": {
+    "revenue": 48828000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000086312-26-000065"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 19853697,
+   "2022": 21072397,
+   "2023": 22730072,
+   "2024": 23059498,
+   "2025": 26968756
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000086312-26-000065",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631226000065/trv-20251231.htm"
+   },
+   {
+    "accession": "0000086312-25-000012",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631225000012/trv-20241231.htm"
+   },
+   {
+    "accession": "0000086312-24-000012",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631224000012/trv-20231231.htm"
+   },
+   {
+    "accession": "0000086312-23-000011",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631223000011/trv-20221231.htm"
+   },
+   {
+    "accession": "0000086312-22-000013",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631222000013/trv-20211231.htm"
+   },
+   {
+    "accession": "0000086312-21-000011",
+    "filingDate": "2021-02-11",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631221000011/trv-20201231.htm"
+   },
+   {
+    "accession": "0000086312-20-000011",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631220000011/trv-12312019x10k.htm"
+   },
+   {
+    "accession": "0000086312-19-000009",
+    "filingDate": "2019-02-14",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/86312/000008631219000009/trv-12312018x10k.htm"
+   },
+   {
+    "accession": "0001047469-18-000812",
+    "filingDate": "2018-02-15",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/86312/000104746918000812/a2234469z10-k.htm"
+   },
+   {
+    "accession": "0001047469-17-000695",
+    "filingDate": "2017-02-16",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/86312/000104746917000695/a2230860z10-k.htm"
+   }
+  ]
+ }
+}

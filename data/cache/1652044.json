@@ -1,0 +1,316 @@
+{
+ "proxies": {
+  "0001308179-26-000342": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001652044-26-000018",
+   "result": {
+    "ceoPay": 10906079,
+    "medianPay": 310826,
+    "payRatio": 35,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "| | | | | | | | | | | | | | | | | | | | | | | Proxy Statement Summary & Highlights | | Corporate Governance | | Director and Executive Compensation | | Audit Matters | | Proposals | | Q&A | | Appendix | Alphabet CEO Pay Ratio The 2025 annual total compensation of our median compensated employee was $310,826, and the 2025 annual total compensation of our CEO was $10,906,079. The resulting ratio of Chief Executive Officer to Median Employee total compensation is 35 to 1. The Chief Executive Officer total compensation reflects Sundar's 2025 total compensation as shown in the Summary Compensation Table on page 50 . To determine the median employee compensation, we analyzed all of Alphabet's employees, excluding Alphabet's Chief Executive Officer, as of December 31, 2025. We annualized wages an"
+   }
+  },
+  "0001308179-25-000511": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817925000511/goog012701-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001652044-25-000014",
+   "result": {
+    "ceoPay": 10725043,
+    "medianPay": 331894,
+    "payRatio": 32,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "lphabet 2025 Proxy Statement 54 | | | Back to Contents | | Proxy Statement Summary & Highlights | | Corporate Governance | | Director and Executive Compensation | | Audit Matters | | Proposals | | Q&A | Alphabet CEO Pay Ratio The 2024 annual total compensation of our median compensated employee was $331,894, and the 2024 annual total compensation of our CEO was $10,725,043. The resulting ratio of Chief Executive Officer to Median Employee total compensation is 32 to 1. The Chief Executive Officer total compensation reflects Sundar's 2024 total compensation as shown in the Summary Compensation Table on page 49 . To determine the median employee compensation, we analyzed all of Alphabet's employees, excluding Alphabet's Chief Executive Officer, as of December 31, 2024. We annualized wages an"
+   }
+  },
+  "0001308179-24-000612": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817924000612/lgoog2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001652044-24-000022",
+   "result": {
+    "ceoPay": 8802824,
+    "medianPay": 315531,
+    "payRatio": 28,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "habet 2024 Proxy Statement 57 | | | Back to Contents | | | Proxy Statement Summary & Highlights | | Corporate Governance | | Director and Executive Compensation | | Audit Matters | | Proposals | | Q&A | Alphabet CEO Pay Ratio The 2023 annual total compensation of our median compensated employee was $315,531, and the 2023 annual total compensation of our CEO was $8,802,824. The resulting ratio of Chief Executive Officer to Median Employee total compensation is 28 to 1. (In 2023, to accommodate our transition onto a new compensation timeline, we applied a one-time adjustment to annual equity awards for employees, which resulted in higher grant values than normal. Normalizing for this adjustment, the 2023 median employee compensation would be $304,930, resulting in a CEO Pay Ratio of 29 to 1."
+   }
+  },
+  "0001308179-23-000736": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817923000736/lgoog2023_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001652044-23-000016",
+   "result": {
+    "ceoPay": 225985145,
+    "medianPay": 279802,
+    "payRatio": 808,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "T CEO PAY RATIO The following table sets forth the ratio of Alphabet Chief Executive Officer Sundar's total compensation to the median of the annual total compensation of all our employees (except Sundar) for the year ended December 31, 2022. | Chief Executive Officer total compensation in 2022 | | $225,985,145 | | Median Employee total compensation in 2022 | | $279,802 | | Ratio of Chief Executive Officer to Median Employee total compensation | | 808:1 | The Chief Executive Officer total compensation reflects Sundar's 2022 total compensation as shown in the Summary Compensation Table on page 53, including the triennial equity award that was granted to Sundar in December 2022. Given that CEO equity awards are currently made on a triennial cadence, while our broad-based employee equity awar"
+   }
+  },
+  "0001308179-22-000262": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817922000262/lgoog2022_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001652044-22-000019",
+   "result": {
+    "ceoPay": 6322599,
+    "medianPay": 295884,
+    "payRatio": 21,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "h was $2,893.59 per share. | | - | | ALPHABET CEO PAY RATIO | The following table sets forth the ratio of Alphabet Chief Executive Officer Sundar's total compensation to that of Alphabet's median employee for the year ended December 31, 2021. | Chief Executive Officer total compensation in 2021 | | $6,322,599 | | Median Employee total compensation in 2021 | | $295,884 | | Ratio of Chief Executive Officer to Median Employee total compensation | | 21:1 | To determine the median employee compensation, we analyzed all of Alphabet's employees, excluding Alphabet's Chief Executive Officer, as of December 31, 2021. We annualized wages and salaries for employees that were not employed for the full year. We used base salary and actual bonus as the consistently applied compensation metric to determi"
+   }
+  },
+  "0001308179-21-000256": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817921000256/lgoog2021_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001652044-21-000010",
+   "result": {
+    "ceoPay": 7425547,
+    "medianPay": 273493,
+    "payRatio": 27,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "h was $1,751.88 per share. | | - | | ALPHABET CEO PAY RATIO | The following table sets forth the ratio of Alphabet Chief Executive Officer Sundar's total compensation to that of Alphabet's median employee for the year ended December 31, 2020. | Chief Executive Officer total compensation in 2020 | | $7,425,547 | | Median Employee total compensation in 2020 | | $273,493 | | Ratio of Chief Executive Officer to Median Employee total compensation | | 27 : 1 | To determine the median employee compensation, we analyzed all of Alphabet's employees, excluding Alphabet's Chief Executive Officer, as of December 31, 2020. We annualized wages and salaries for employees that were not employed for the full year. We used base salary and actual bonus as the consistently applied compensation metric to deter"
+   }
+  },
+  "0001308179-20-000203": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817920000203/lgoog2020_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001652044-20-000008",
+   "result": {
+    "ceoPay": 280621552,
+    "medianPay": 258708,
+    "payRatio": 1085,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "ity awards granted after the adoption date. --ALPHABET CEO PAY RATIO The following table sets forth the ratio of Alphabet Chief Executive Officer Sundar's total compensation to that of Alphabet's median employee for the year ended December 31, 2019. Chief Executive Officer total annual compensation $280,621,552 Median Employee total annual compensation $258,708 Ratio of Chief Executive Officer to Median Employee total annual compensation 1,085 : 1 To determine the median employee compensation, we analyzed all of Alphabet's employees, excluding Alphabet's Chief Executive Officer, as of December 31, 2019. We annualized wages and salaries for employees that were not employed for the full year. We used base salary and actual bonus as the consistently applied compensation metric to determine th"
+   }
+  },
+  "0001308179-19-000205": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817919000205/lgoog2019_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001652044-19-000004",
+   "result": null
+  },
+  "0001308179-18-000222": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817918000222/lgoog2018-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001652044-18-000007",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001652044-20-000008": {
+   "parserVersion": 1,
+   "employees": 118899
+  },
+  "0001652044-21-000010": {
+   "parserVersion": 1,
+   "employees": 135301
+  },
+  "0001652044-22-000019": {
+   "parserVersion": 1,
+   "employees": 156500
+  },
+  "0001652044-23-000016": {
+   "parserVersion": 1,
+   "employees": 190234
+  },
+  "0001652044-24-000022": {
+   "parserVersion": 1,
+   "employees": 182502
+  },
+  "0001652044-25-000014": {
+   "parserVersion": 1,
+   "employees": 183323
+  },
+  "0001652044-26-000018": {
+   "parserVersion": 1,
+   "employees": 190820
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2013": {
+    "revenue": 55519000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-16-000012"
+   },
+   "2014": {
+    "revenue": 66001000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-17-000008"
+   },
+   "2015": {
+    "revenue": 74989000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-18-000007"
+   },
+   "2016": {
+    "revenue": 90272000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-18-000007"
+   },
+   "2017": {
+    "revenue": 110855000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-18-000007"
+   },
+   "2018": {
+    "revenue": 136819000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-21-000010"
+   },
+   "2019": {
+    "revenue": 161857000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-22-000019"
+   },
+   "2020": {
+    "revenue": 182527000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-22-000019"
+   },
+   "2021": {
+    "revenue": 257637000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-22-000019"
+   },
+   "2022": {
+    "revenue": 282836000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001652044-25-000014"
+   },
+   "2023": {
+    "revenue": 307394000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-26-000018"
+   },
+   "2024": {
+    "revenue": 350018000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-26-000018"
+   },
+   "2025": {
+    "revenue": 402836000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001652044-26-000018"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 6322599,
+   "2022": 225985145,
+   "2023": 8802824,
+   "2024": 10800694,
+   "2025": 10906079
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001652044-26-000018",
+    "filingDate": "2026-02-05",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm"
+   },
+   {
+    "accession": "0001652044-25-000014",
+    "filingDate": "2025-02-05",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm"
+   },
+   {
+    "accession": "0001652044-24-000022",
+    "filingDate": "2024-01-31",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204424000022/goog-20231231.htm"
+   },
+   {
+    "accession": "0001652044-23-000016",
+    "filingDate": "2023-02-03",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204423000016/goog-20221231.htm"
+   },
+   {
+    "accession": "0001652044-22-000019",
+    "filingDate": "2022-02-02",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204422000019/goog-20211231.htm"
+   },
+   {
+    "accession": "0001652044-21-000010",
+    "filingDate": "2021-02-03",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204421000010/goog-20201231.htm"
+   },
+   {
+    "accession": "0001652044-20-000008",
+    "filingDate": "2020-02-04",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204420000008/goog10-k2019.htm"
+   },
+   {
+    "accession": "0001652044-19-000004",
+    "filingDate": "2019-02-05",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204419000004/goog10-kq42018.htm"
+   },
+   {
+    "accession": "0001652044-18-000007",
+    "filingDate": "2018-02-06",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204418000007/goog10-kq42017.htm"
+   },
+   {
+    "accession": "0001652044-17-000008",
+    "filingDate": "2017-02-03",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204417000008/goog10-kq42016.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "proxies": {
+  "0001628280-26-024596": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1095073/000162828026024596/eg-20260406.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001095073-26-000006",
+   "result": {
+    "ceoPay": 8952500,
+    "medianPay": 187057,
+    "payRatio": 49,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ilable reconciliations of Non-GAAP measures used below, please see Appendix A. Adjusted Operating ROE Combined Ratio TSR (1) Gross Written Premium Annual Growth Rate 80 2026 Proxy Statement CEO Pay Ratio Disclosure CEO Pay Ratio Disclosure In 2025 , the Total Compensation of the median employee was $187,057 and our CEO's Total Compensation, as defined under SEC rules, was $8,952,500 . Therefore, the ratio of the Total Compensation of our CEO, Jim Williamson, to the Total Compensation of our median employee was 49 to 1. Methodology • Date selected to determine employee population for purposes of identifying the median employee: December 31, 2025 . • Median employee identified using Total Compensation, which includes base salary, bonus and stock awards (if any), as well as any other compensa"
+   }
+  },
+  "0001095073-25-000035": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507325000035/eg-20250411.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001095073-25-000015",
+   "result": {
+    "ceoPay": 7939305,
+    "medianPay": 175597,
+    "payRatio": 45.21,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ilable reconciliations of Non-GAAP measures used below, please see Appendix A. Adjusted Operating ROE Combined Ratio TSR (1) Gross Written Premium Annual Growth Rate 2025 Proxy Statement 75 CEO Pay Ratio Disclosure CEO PAY RATIO DISCLOSURE In 2024 , the Total Compensation of the median employee was $175,597 and our former CEO's Total Compensation, as defined under SEC rules, was $7,939,305. Therefore, the ratio of the Total Compensation of our former CEO, Juan Andrade, to the Total Compensation of our median employee was 45.21 to 1. Methodology • Date selected to determine employee population for purposes of identifying the median employee: December 31, 2024 . • Median employee identified using Total Compensation, which includes base salary, bonus and stock awards (if any), as well as any"
+   }
+  },
+  "0001095073-24-000018": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507324000018/eg-20240411.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001095073-24-000009",
+   "result": {
+    "ceoPay": 9909531,
+    "medianPay": 168893,
+    "payRatio": 58.67,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "0,000 | | Res Share Value Granted Feb. 2023 | | $ - | | $ 2,376,523 | | Perf Share Target Value Granted Feb. 2023 | | $ - | | $ 2,376,523 | | Pension Value and Nonqualified Deferred Comp Earnings PY 2023 | | $ - | | $ - | | All Other Compensation PY 2023 | | $ 8,893 | | $ 656,485 | | Total Comp | | $ 168,893 | | $ 9,909,531 | In 2023, the ratio of the total annual compensation of our CEO to the median compensation of our employees was 58.67 to one. Methodology • Date selected to determine employee population for purposes of identifying the median employee: December 1, 2023. • Median employee identified using Total Compensation, which includes base salary, bonus and stock awards (if any), as well as any other compensation. • Employees from all Everest locations included in calculation to id"
+   }
+  },
+  "0001095073-23-000012": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507323000012/re-20221231.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001095073-23-000007",
+   "result": null
+  },
+  "0001095073-22-000007": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507322000007/proxy2022.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001095073-22-000005",
+   "result": {
+    "ceoPay": 8864322,
+    "medianPay": 151276,
+    "payRatio": 58.6,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "d Feb. 2021 | | $ | | 0 | | $ | | 2,000,000 | | Perf Share Target Value Granted Feb. 2021 | | $ | | 0 | | $ | | 2,000,000 | | Pension Value and Nonqualified Deferred Comp Earnings PY 2021 | | $ | | 0 | | $ | | 0 | | All Other Compensation PY 2021 | | $ | | 4,176 | | $ | | 614,322 | | Total Comp | | $ | | 151,276 | | $ | | 8,864,322 | | | | | | | | | | | In 2021, the ratio of the total annual compensation of our CEO to the median compensation of our employees was 58.60 to one. Methodology | | | • | | Date selected to determine employee population for purposes of identifying the median employee- December 1, 2021. | | | | • | | Median employee identified using Total Compensation, which includes base salary, bonus, and stock awards (if any) as well as any other compensation. | | | | • | | Empl"
+   }
+  },
+  "0001095073-21-000009": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507321000009/proxystatementhtml.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001095073-21-000006",
+   "result": {
+    "ceoPay": 8000590,
+    "medianPay": 145508,
+    "payRatio": 54.98,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "Share Target Value Granted Feb. 2020 | | | | $ | | 0 | | | | | | $ | | 1,875,000 | | | | Pension Value and Nonqualified Deferred Comp Earnings PY 2020 | | | | $ | | 0 | | | | | | $ | | 0 | | | | All Other Compensation PY 2020 | | | | $ | | 7,708 | | | | | | $ | | 500,590 | | | | Total Comp | | | | $ | | 145,508 | | | | | | $ | | 8,000,590 | | | | | | | | | | | | | | | | | | | | | In 2020, the ratio of the total annual compensation of our CEO to the median compensation of our employees was 54.98 to one. Methodology | | | • | | Date selected to determine employee population for purposes of identifying the median employee- December 1, 2020. | | | | • | | Median employee identified using Total Compensation, which includes base salary, bonus, and stock awards (if any) as well as any other comp"
+   }
+  },
+  "0001095073-20-000008": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507320000008/proxystatement2020v2.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001095073-20-000006",
+   "result": {
+    "ceoPay": 7626619,
+    "medianPay": 144915,
+    "payRatio": 52.63,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "rget Value Granted Feb. 2019 | | | | $ | | 0 | | | | | | $ | | 2,000,000 | | | | Pension Value and Nonqualified Deferred Comp Earnings PY 2019 | | | | $ | | 0 | | | | | | $ | | (21,657 | | ) | | All Other Compensation PY 2019 | | | | $ | | 10,515 | | | | | | $ | | 398,275 | | | | Total Comp | | | | $ | | 144,915 | | | | | | $ | | 7,626,619 | | | | | | | | | | | | | | | | | | | | | In 2019, the ratio of the total annual compensation of our CEO to the median compensation of our employees was 52.63 to one. Methodology | | | • | | Date selected to determine employee population for purposes of identifying the median employee- December 1, 2019. | | | | • | | Median employee identified using Total Compensation, which includes base salary, bonus, and stock awards (if any) as well as any other comp"
+   }
+  },
+  "0001095073-19-000017": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507319000017/proxy2018.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001095073-19-000011",
+   "result": {
+    "ceoPay": 7133396,
+    "medianPay": 140639,
+    "payRatio": 50.72,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "0 | | $ | | 2,500,000 | | Perf Share Target Value Granted Feb. 2018 | | | | $ | | 0 | | $ | | 1,500,000 | | Pension Value and Nonqualified Deferred Comp Earnings PY 2018 | | | | $ | | 0 | | $ | | 151,075 | | All Other Compensation PY 2018 | | | | $ | | 6,539 | | $ | | 432,321 | | Total Comp | | | | $ | | 140,639 | | $ | | 7,133,396 | | | | | | | | | | | | | In 2018, the ratio of the total annual compensation of our CEO to the median compensation of our employees was 50.72 to one. Methodology | | | · | | Date selected to determine employee population for purposes of identifying the median employee- December 1, 2018. | | | | · | | Median employee identified using Total Compensation, which includes base salary, bonus, and stock awards (if any). | | | | · | | Employees from all Everest locatio"
+   }
+  },
+  "0001095073-18-000012": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507318000012/proxy2017.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001095073-18-000008",
+   "result": {
+    "ceoPay": 8828479,
+    "medianPay": 183050,
+    "payRatio": 48.23,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "Value Granted Feb. 2017 | | | | $ | | 0 | | | | | | $ | | 1,500,000 | | | | Pension Value and Nonqualified Deferred Comp Earnings PY 2017 | | | | $ | | 50,304 | | | | | | $ | | 1,811,771 | | | | All Other Compensation PY 2017 | | | | $ | | 3,846 | | | | | | $ | | 216,708 | | | | Total Comp | | | | $ | | 183,050 | | | | | | $ | | 8,828,479 | | | In 2017, the ratio of the total annual compensation of our CEO to the median compensation of our employees was 48.23 to one. Methodology | · | | Date Selected - December 1, 2017. | | · | | Median employee identified using Total Compensation, which includes base salary, bonus, and stock awards (if any). | | · | | Employees from all Everest locations included in calculation to identify median. | | · | | Salaries, bonuses and stock for Non-US employee"
+   }
+  }
+ },
+ "tenKs": {
+  "0001095073-18-000008": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001095073-19-000011": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001095073-20-000006": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001095073-21-000006": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001095073-22-000005": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001095073-24-000009": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001095073-25-000015": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001095073-26-000006": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 3527579000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-11-000010"
+   },
+   "2009": {
+    "revenue": 4498578000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-12-000013"
+   },
+   "2010": {
+    "revenue": 4705807000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-13-000015"
+   },
+   "2011": {
+    "revenue": 4693961000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-14-000008"
+   },
+   "2012": {
+    "revenue": 4922810000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-15-000007"
+   },
+   "2013": {
+    "revenue": 5640836000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-16-000071"
+   },
+   "2014": {
+    "revenue": 5678947000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-17-000011"
+   },
+   "2015": {
+    "revenue": 5676765000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-18-000008"
+   },
+   "2016": {
+    "revenue": 5794346000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-19-000011"
+   },
+   "2017": {
+    "revenue": 6622298000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-20-000006"
+   },
+   "2018": {
+    "revenue": 7361495000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-21-000006"
+   },
+   "2019": {
+    "revenue": 8231169000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-22-000005"
+   },
+   "2020": {
+    "revenue": 9598000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-23-000007"
+   },
+   "2021": {
+    "revenue": 11866000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-24-000009"
+   },
+   "2022": {
+    "revenue": 12060000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-25-000015"
+   },
+   "2023": {
+    "revenue": 14587000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-26-000006"
+   },
+   "2024": {
+    "revenue": 17281000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-26-000006"
+   },
+   "2025": {
+    "revenue": 17496000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001095073-26-000006"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 8866126,
+   "2022": 9106199,
+   "2023": 9909531,
+   "2024": 7939305,
+   "2025": 8952500
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001095073-26-000006",
+    "filingDate": "2026-02-26",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507326000006/eg-20251231.htm"
+   },
+   {
+    "accession": "0001095073-25-000015",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507325000015/eg-20241231.htm"
+   },
+   {
+    "accession": "0001095073-24-000009",
+    "filingDate": "2024-02-28",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507324000009/eg-20231231.htm"
+   },
+   {
+    "accession": "0001095073-23-000007",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507323000007/re-20221231.htm"
+   },
+   {
+    "accession": "0001095073-22-000005",
+    "filingDate": "2022-02-28",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507322000005/re-20211231.htm"
+   },
+   {
+    "accession": "0001095073-21-000006",
+    "filingDate": "2021-03-01",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507321000006/re-20201231.htm"
+   },
+   {
+    "accession": "0001095073-20-000006",
+    "filingDate": "2020-03-02",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507320000006/re-20191231.htm"
+   },
+   {
+    "accession": "0001095073-19-000011",
+    "filingDate": "2019-03-01",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507319000011/group10k2018.htm"
+   },
+   {
+    "accession": "0001095073-18-000008",
+    "filingDate": "2018-03-01",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507318000008/group10k2017.htm"
+   },
+   {
+    "accession": "0001095073-17-000011",
+    "filingDate": "2017-03-01",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1095073/000109507317000011/group10k2016.htm"
+   }
+  ]
+ }
+}

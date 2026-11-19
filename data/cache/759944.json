@@ -1,0 +1,340 @@
+{
+ "proxies": {
+  "0000759944-26-000064": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994426000064/cfg-20260309.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000759944-26-000028",
+   "result": {
+    "ceoPay": 12513920,
+    "medianPay": 80559,
+    "payRatio": 155,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "o SEC rules require us to disclose the ratio of the annual total compensation of our CEO, Bruce Van Saun, to our median employee's annual total compensation. For the year ended December 31, 2025: • The annual total compensation for Mr. Van Saun as reported in the 2025 Summary Compensation Table was $12,513,920. • The annual total compensation of our median employee was $80,559. • The resulting ratio of Mr. Van Saun's annual total compensation to that of our median employee is 155 to 1. For the 2025 year, we have used the same median employee that was identified and referred to as our median employee in our proxy statements covering fiscal years 2024 and 2023 as we believe there have been no significant changes in our employee population or compensation arrangements during fiscal year 2025"
+   }
+  },
+  "0000759944-25-000044": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994425000044/cfg-20250307.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000759944-25-000013",
+   "result": {
+    "ceoPay": 10630796,
+    "medianPay": 77882,
+    "payRatio": 136,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "o SEC rules require us to disclose the ratio of the annual total compensation of our CEO, Bruce Van Saun, to our median employee's annual total compensation. For the year ended December 31, 2024: • The annual total compensation for Mr. Van Saun as reported in the 2024 Summary Compensation Table was $10,630,796. • The annual total compensation of our median employee was $77,882. • The resulting ratio of Mr. Van Saun's annual total compensation to that of our median employee is 136 to 1. For the 2024 year, we have used the same median employee that was identified and referred to as our median employee in our proxy statement covering fiscal year 2023 as we believe there have been no significant changes in our employee population or compensation arrangements during fiscal year 2024 that would"
+   }
+  },
+  "0000759944-24-000054": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994424000054/cfg-20240311.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000759944-24-000039",
+   "result": {
+    "ceoPay": 11075271,
+    "medianPay": 74287,
+    "payRatio": 149,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "o SEC rules require us to disclose the ratio of the annual total compensation of our CEO, Bruce Van Saun, to our median employee's annual total compensation. For the year ended December 31, 2023: • The annual total compensation for Mr. Van Saun as reported in the 2023 Summary Compensation Table was $11,075,271. • The annual total compensation of our median employee was $74,287. • The resulting ratio of Mr. Van Saun's annual total compensation to that of our median employee is 149 to 1. During 2022, Citizens closed the HSBC, Investors Bancorp, Inc., Paladin Advisors, DH Capital, and College Raptor acquisitions, resulting in approximately 2,150 employees joining the Company. We have determined that the colleagues joining our Company in connection with acquisitions during 2022 changed our pop"
+   }
+  },
+  "0001193125-23-067779": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/759944/000119312523067779/d420471ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000759944-23-000029",
+   "result": {
+    "ceoPay": 11703788,
+    "medianPay": 73859,
+    "payRatio": 158,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "s require us to disclose the ratio of the annual total compensation of our CEO, Bruce Van Saun, to our median employee's annual total compensation. For the year ended December 31, 2022: | • | | | | The annual total compensation for Mr. Van Saun as reported in the 2022 Summary Compensation Table was $11,703,788. | | • | | | | The annual total compensation of our median employee was $73,859. | | • | | | | The resulting ratio of Mr. Van Saun's annual total compensation to that of our median employee is 158 to 1. | Because the median employee we selected in 2021 is no longer employed by the Company, we selected a new median employee this year. To identify our median employee, we reviewed our employee population as of November 30, 2022 and the amount of their compensation for the period of Janu"
+   }
+  },
+  "0001193125-22-072887": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/759944/000119312522072887/d292341ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000759944-22-000025",
+   "result": {
+    "ceoPay": 12430076,
+    "medianPay": 82418,
+    "payRatio": 151,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "quire us to disclose the ratio of the annual total compensation of our CEO, Bruce Van Saun, to our median employees annual total compensation. For the year ended December 31, 2021: | | |  | | | | The annual total compensation for Mr. Van Saun as reported in the 2021 Summary Compensation Table was $12,430,076. | | | |  | | | | The annual total compensation of our median employee was $82,418 (see below for additional detail). | | | |  | | | | The resulting ratio of Mr. Van Sauns annual total compensation to that of our median employee is 151 to 1. | The pay ratio rules allow issuers to use the same median employee for comparison purposes for up to three years. Since we last identified our median employee as of November 30, 2018, a new median employee was selected as of November 30, 2021"
+   }
+  },
+  "0001193125-21-071641": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/759944/000119312521071641/d106430ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000759944-21-000034",
+   "result": {
+    "ceoPay": 14335323,
+    "medianPay": 69582,
+    "payRatio": 206,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "EOs adjusted pay is $9,901,259, resulting in an alternative pay ratio of 142 to 1 . | | | | | | | | | | | | | | | | | | | | | | | CEO Pay Ratio | | | | CEO 2020 Total Compensation | | | | Median Employee 2020 Total Compensation | | | | Pay Ratio | | | | | | | | | | SEC Calculated Pay Ratio | | | | $14,335,323 | | | | $69,582 | | | | 206:1 | | | | | | | | | | Supplemental Pay Ratio | | | | $9,901,259 | | | | $69,582 | | | | 142:1 | 72 Table of Contents | | | | | | | | | | | | | | | 2021 | | | | CITIZENS FINANCIAL GROUP, INC. PROXY STATEMENT - COMPENSATION MATTERS | | | | | | | | | | | | | | DIRECTOR COMPENSATION | The Citizens Financial Group, Inc. Non-Employee Director Compensation Policy (Director Compensation Policy) governs the compensation of our non-employee directors. The Director"
+   }
+  },
+  "0001193125-20-067275": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/759944/000119312520067275/d761105ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000759944-20-000030",
+   "result": {
+    "ceoPay": 9898442,
+    "medianPay": 66497,
+    "payRatio": 149,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "e in our employee population or our employee compensation arrangements that we believe would significantly impact the pay ratio disclosure. For 2019, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all colleagues of our Company (other than our CEO) was $66,497; and | | | |  | | | | the annual total compensation of our CEO, as reported in the 2019 Summary Compensation Table included in this Proxy Statement, was $9,898,442. | | | | Based on this information, for 2019 the reasonably estimated ratio of the annual total compensation of Mr. Van Saun, our Chief Executive Officer, to the median of the annual total compensation of all colleagues, calculated in a manner consistent with Item 402(u) of Regulation S-K, was 149 to 1. | These amounts have b"
+   }
+  },
+  "0001193125-19-069256": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/759944/000119312519069256/d698524ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000759944-19-000024",
+   "result": {
+    "ceoPay": 9405933,
+    "medianPay": 59748,
+    "payRatio": 157,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "tionship of the annual total compensation of our employees and the annual total compensation of Bruce Van Saun, our Chief Executive Officer: For 2018, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all employees of our company (other than our CEO) was $59,748; and | | | |  | | | | the annual total compensation of our CEO, as reported in the 2018 Summary Compensation Table included in this Proxy Statement, was $9,405,933. | | | | Based on this information, for 2018 the reasonably estimated ratio of the annual total compensation of Mr. Van Saun, our Chief Executive Officer, to the median of the annual total compensation of all employees, calculated in a manner consistent with Item 402(u) of Regulation S-K, was 157 to 1. | Because our 2017 medi"
+   }
+  },
+  "0001564590-18-005083": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/759944/000156459018005083/cfg-def14a_20180426.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000759944-18-000016",
+   "result": {
+    "ceoPay": 8549989,
+    "medianPay": 55118,
+    "payRatio": 155,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "relationship of the annual total compensation of our employees and the annual total compensation of Bruce Van Saun, our Chief Executive Officer: For 2017, our last completed fiscal year: | | | • | | the median of the annual total compensation of all employees of our company (other than our CEO) was $55,118; and | | | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this Proxy Statement, was $8,549,989. | | Based on this information, for 2017 the reasonably estimated ratio of the annual total compensation of Mr. Van Saun, our Chief Executive Officer, to the median of the annual total compensation of all employees, calculated in a manner consistent with Item 402(u) of Regulation S-K, was 155 to 1. | 58 Consistent with applicable rule"
+   }
+  }
+ },
+ "tenKs": {
+  "0000759944-18-000016": {
+   "parserVersion": 1,
+   "employees": 17100
+  },
+  "0000759944-19-000024": {
+   "parserVersion": 1,
+   "employees": 17800
+  },
+  "0000759944-20-000030": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000759944-21-000034": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000759944-22-000025": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000759944-23-000029": {
+   "parserVersion": 1,
+   "employees": 3200
+  },
+  "0000759944-24-000039": {
+   "parserVersion": 1,
+   "employees": 3500
+  },
+  "0000759944-25-000013": {
+   "parserVersion": 1,
+   "employees": 3700
+  },
+  "0000759944-26-000028": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2012": {
+    "revenue": 4894000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-15-000016"
+   },
+   "2013": {
+    "revenue": 4690000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-16-000099"
+   },
+   "2014": {
+    "revenue": 4979000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-17-000012"
+   },
+   "2015": {
+    "revenue": 4824000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-18-000016"
+   },
+   "2016": {
+    "revenue": 5255000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-19-000024"
+   },
+   "2017": {
+    "revenue": 5707000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-20-000030"
+   },
+   "2018": {
+    "revenue": 6128000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-21-000034"
+   },
+   "2019": {
+    "revenue": 6491000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-22-000025"
+   },
+   "2020": {
+    "revenue": 6905000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-23-000029"
+   },
+   "2021": {
+    "revenue": 6647000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-24-000039"
+   },
+   "2022": {
+    "revenue": 8021000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-25-000013"
+   },
+   "2023": {
+    "revenue": 8224000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-26-000028"
+   },
+   "2024": {
+    "revenue": 7809000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-26-000028"
+   },
+   "2025": {
+    "revenue": 8247000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000759944-26-000028"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000759944-26-000028",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994426000028/cfg-20251231.htm"
+   },
+   {
+    "accession": "0000759944-25-000013",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994425000013/cfg-20241231.htm"
+   },
+   {
+    "accession": "0000759944-24-000039",
+    "filingDate": "2024-02-16",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994424000039/cfg-20231231.htm"
+   },
+   {
+    "accession": "0000759944-23-000029",
+    "filingDate": "2023-02-17",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994423000029/cfg-20221231.htm"
+   },
+   {
+    "accession": "0000759944-22-000025",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994422000025/cfg-20211231.htm"
+   },
+   {
+    "accession": "0000759944-21-000034",
+    "filingDate": "2021-02-23",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994421000034/cfg-20201231.htm"
+   },
+   {
+    "accession": "0000759944-20-000030",
+    "filingDate": "2020-02-24",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994420000030/citizens10-kx2019.htm"
+   },
+   {
+    "accession": "0000759944-19-000024",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994419000024/citizens10-kx2018.htm"
+   },
+   {
+    "accession": "0000759944-18-000016",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994418000016/citizens10-kx2017.htm"
+   },
+   {
+    "accession": "0000759944-17-000012",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/759944/000075994417000012/citizens10-kx2016.htm"
+   }
+  ]
+ }
+}

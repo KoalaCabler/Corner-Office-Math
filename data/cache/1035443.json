@@ -1,0 +1,344 @@
+{
+ "proxies": {
+  "0001035443-26-000031": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544326000031/are-20260331.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001035443-26-000013",
+   "result": {
+    "ceoPay": 11572796,
+    "medianPay": 207588,
+    "payRatio": 56,
+    "method": "cross-checked",
+    "employees": 514,
+    "statedYear": 2025,
+    "excerpt": "onents. The median of the annual total compensation of the 512 employees was determined to be the total compensation of our median employee and was used to compute Chief Executive Officer Pay Ratio, as described below. For fiscal year 2025 , the annual total compensation of our median emplo yee was $207,588 , and the annual total compensation of Messrs. Marcus and Moglia was $11,572,796 and $8,844,053 , respectively. Based on this information, the ratio of the annual total compensation of Messrs. Marcus and Moglia to that of our median employee was 56 to 1 and 43 to 1 , respectively. The annual total compensation of Messrs. Marcus and Moglia presented for this purpose is equal to the compensation reported for them in the \"Summary Compensation Table\" on page 100 . The Chief Executive Office"
+   }
+  },
+  "0001035443-25-000103": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544325000103/are-20250402.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001035443-25-000067",
+   "result": {
+    "ceoPay": 17727276,
+    "medianPay": 193000,
+    "payRatio": 92,
+    "method": "cross-checked",
+    "employees": 552,
+    "statedYear": 2024,
+    "excerpt": "onents. The median of the annual total compensation of the 545 employees was determined to be the total compensation of our median employee and was used to compute Chief Executive Officer Pay Ratio, as described below. For fiscal year 2024 , the annual total compensation of our median emplo yee was $193,000 , and the annual total compensation of Messrs. Marcus and Moglia was $17,727,276 and $10,275,115 , respectively. Based on this information, the ratio of the annual total compensation of Messrs. Marcus and Moglia to that of our median employee was 92 to 1 and 53 to 1, respectively. The annual total compensation of Messrs. Marcus and Moglia presented for this purpose is equal to the compensation reported for them in the \" Summary Compensation Table \" on page 96 . The Chief Executive Offic"
+   }
+  },
+  "0001035443-24-000133": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544324000133/are-20240403.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001035443-24-000072",
+   "result": {
+    "ceoPay": 15485330,
+    "medianPay": 197536,
+    "payRatio": 78,
+    "method": "cross-checked",
+    "employees": 568,
+    "statedYear": 2023,
+    "excerpt": "ponents. The median of the annual total compensation of the 559 employees was determined to be the total compensation of our median employee and was used to compute Chief Executive Officer Pay Ratio, as described below. For fiscal year 2023, the annual total compensation of our median emplo yee was $197,536, and the annual total compensation of Messrs. Marcus and Moglia was $15,485,330 and $9,869,367, respectively. Based on this information, the ratio of the annual total compensation of Messrs. Marcus and Moglia to that of our median employee was 78 to 1 and 50 t o 1, respectively. The annual total compensation of Messrs. Marcus and Moglia presented for this purpose is equal to the compensation reported for them in the \"Summary Compensation Table\" on page 98 . The Chief Executive Officer P"
+   }
+  },
+  "0001035443-23-000178": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544323000178/are-20230414.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001035443-23-000099",
+   "result": {
+    "ceoPay": 9289388,
+    "medianPay": 175000,
+    "payRatio": 53,
+    "method": "cross-checked",
+    "employees": 593,
+    "statedYear": 2022,
+    "excerpt": "e aforementioned components. The median of the annual total compensation of the 586 employees was determined to be the total compensation of our median employee and was used to compute CEO Pay Ratio, as described below. For fiscal year 2022, the annual total compensation of our median emplo yee was $175,000, and the annual total compensation of Messrs. Marcus, Moglia, and Richardson was $13,035,517, $9,289,388, and $7,231,836, respectively. Based on this information, the ratio of the annual total compensation of Messrs. Marcus, Moglia, and Richardson to that of our median employee was 74 to 1, 53 to 1, and 41 to 1, respectively. The annual total compensation of Messrs. Marcus, Moglia, and Richardson presented for this purpose is equal to the compensation reported for them in the \"Summary C"
+   }
+  },
+  "0001035443-22-000138": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544322000138/a2022proxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001035443-22-000040",
+   "result": {
+    "ceoPay": 12701393,
+    "medianPay": 176113,
+    "payRatio": 72,
+    "method": "cross-checked",
+    "employees": 559,
+    "statedYear": 2021,
+    "excerpt": "alue). For permanent employees (full-time and part-time) hired after January 1, 2021, we annualized the aforementioned components. Using the methodology described above, we selected the median of our employee population. For fiscal year 2021, the annual total compensation of our median employee was $176,113, and the annual total compensation of Messrs. Marcus, Moglia, and Richardson was $12,701,393, $8,274,131, and $8,320,228, respectively. Based on this information, the ratio of the annual total compensation of Mr. Marcus to the median of the annual total compensation of all employees other than our Executive Chairman and Co-CEOs was 72 to 1, and the ratio of the annual total compensation of each of Messrs. Moglia and Richardson to the median of the annual total compensation of all employ"
+   }
+  },
+  "0001035443-21-000112": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544321000112/a2021proxystatement.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001035443-21-000044",
+   "result": {
+    "ceoPay": 11788493,
+    "medianPay": 295136,
+    "payRatio": 40,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "alue). For permanent employees (full-time and part-time) hired after January 1, 2018, we annualized the aforementioned components. Using the methodology described above, we selected the median of our employee population. For fiscal year 2020, the annual total compensation of our median employee was $295,136, and the annual total compensation of Messrs. Marcus, Richardson, and Moglia was $11,788,493, $8,089,773, and $8,040,857, respectively. Based on this information, the ratio of the annual total compensation of Mr. Marcus to the median of the annual total compensation of all employees other than our Executive Chairman and Co-CEOs was 40 to 1 and the ratio of the annual total compensation of each of Messrs. Richardson and Moglia to the median of the annual total compensation of all employe"
+   }
+  },
+  "0001035443-20-000119": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544320000119/a2020proxystatement.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001035443-20-000042",
+   "result": {
+    "ceoPay": 11041490,
+    "medianPay": 155000,
+    "payRatio": 71,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "e). For permanent employees (full-time and part-time) hired after January 1, 2018, we annualized the aforementioned components. | Using the methodology described above, we selected the median of our employee population. For fiscal year 2019 , the annual total compensation of our median employee was $155,000 , and the annual total compensation of Messrs. Marcus, Richardson, and Moglia was $11,041,490 , $8,305,638 , and $8,268,014 , respectively. Based on this information, the ratio of the annual total compensation of Mr. Marcus to the median of the annual total compensation of all employees other than our Executive Chairman and Co-CEOs was 71 to 1 and the ratio of the annual total compensation of Messrs. Richardson and Moglia to the median of the annual total compensation of all employees o"
+   }
+  },
+  "0001035443-19-000114": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544319000114/a2019proxystatement.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001035443-19-000041",
+   "result": {
+    "ceoPay": 11806797,
+    "medianPay": 140000,
+    "payRatio": 84,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ed after January 1, 2018 , we annualized the aforementioned components. | Using the methodology described above, we selected the median of our employee population. For fiscal year 2018 , the median of the annual total compensation of our employees (other than our Executive Chairman and Co-CEOs) was $140,000 , and the annual total compensation of Messrs. Marcus, Richardson, and Moglia was $11,806,797 , $7,448,697 , and $7,447,459 , respectively. Based on this information, the ratio of the annual total compensation of Mr. Marcus to the median of the annual total compensation of all employees other than our Executive Chairman and Co-CEOs was 84 to 1 and the ratio of the annual total compensation of either Mr. Richardson or Mr. Moglia to the median of the annual total compensation of all emplo"
+   }
+  },
+  "0001035443-18-000064": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544318000064/a2018proxystatement.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001035443-18-000028",
+   "result": {
+    "ceoPay": 12243060,
+    "medianPay": 142000,
+    "payRatio": 86,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "discretionary bonus earned in 2017 , and equity awards granted in 2017 (at the grant date fair value). | Using the methodology described above, we selected the median of our employee population. For fiscal 2017 , the median of the annual total compensation of our employees (other than our CEO) was $142,000 and the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this Proxy Statement, was $12,243,060 . Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees other than the CEO was 86 to 1. The CEO Pay Ratio above represents our reasonable estimate calculated in a manner consistent with SEC rules and applicable guidance. SEC rules and guidance provide signif"
+   }
+  }
+ },
+ "tenKs": {
+  "0001035443-18-000028": {
+   "parserVersion": 1,
+   "employees": 323
+  },
+  "0001035443-19-000041": {
+   "parserVersion": 1,
+   "employees": 386
+  },
+  "0001035443-20-000042": {
+   "parserVersion": 1,
+   "employees": 439
+  },
+  "0001035443-21-000044": {
+   "parserVersion": 1,
+   "employees": 470
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 455234000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001104659-11-011479"
+   },
+   "2009": {
+    "revenue": 481553000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001104659-12-011131"
+   },
+   "2010": {
+    "revenue": 460621000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001104659-13-014040"
+   },
+   "2011": {
+    "revenue": 536780000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001035443-14-000013"
+   },
+   "2012": {
+    "revenue": 574497000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001035443-15-000018"
+   },
+   "2013": {
+    "revenue": 631151000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001035443-16-000136"
+   },
+   "2014": {
+    "revenue": 726877000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001035443-17-000022"
+   },
+   "2015": {
+    "revenue": 843474000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001035443-18-000028"
+   },
+   "2016": {
+    "revenue": 921706000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001035443-19-000041"
+   },
+   "2017": {
+    "revenue": 1128097000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001035443-20-000042"
+   },
+   "2018": {
+    "revenue": 1327459000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001035443-21-000044"
+   },
+   "2019": {
+    "revenue": 1531296000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001035443-22-000040"
+   },
+   "2020": {
+    "revenue": 1885637000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001035443-23-000099"
+   },
+   "2021": {
+    "revenue": 2114150000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001035443-24-000072"
+   },
+   "2022": {
+    "revenue": 2588962000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001035443-25-000067"
+   },
+   "2023": {
+    "revenue": 2885699000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001035443-26-000013"
+   },
+   "2024": {
+    "revenue": 3116394000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001035443-26-000013"
+   },
+   "2025": {
+    "revenue": 3026556000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001035443-26-000013"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001035443-26-000013",
+    "filingDate": "2026-01-26",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544326000013/are-20251231.htm"
+   },
+   {
+    "accession": "0001035443-25-000067",
+    "filingDate": "2025-01-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544325000067/are-20241231.htm"
+   },
+   {
+    "accession": "0001035443-24-000072",
+    "filingDate": "2024-01-29",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544324000072/are-20231231.htm"
+   },
+   {
+    "accession": "0001035443-23-000099",
+    "filingDate": "2023-01-30",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544323000099/are-20221231.htm"
+   },
+   {
+    "accession": "0001035443-22-000040",
+    "filingDate": "2022-01-31",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544322000040/are-20211231.htm"
+   },
+   {
+    "accession": "0001035443-21-000044",
+    "filingDate": "2021-02-01",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544321000044/are-20201231.htm"
+   },
+   {
+    "accession": "0001035443-20-000042",
+    "filingDate": "2020-02-04",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544320000042/a4q1910-k.htm"
+   },
+   {
+    "accession": "0001035443-19-000041",
+    "filingDate": "2019-02-05",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544319000041/a4q1810k.htm"
+   },
+   {
+    "accession": "0001035443-18-000028",
+    "filingDate": "2018-01-30",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544318000028/a4q1710k.htm"
+   },
+   {
+    "accession": "0001035443-17-000022",
+    "filingDate": "2017-01-31",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035443/000103544317000022/a4q1610k.htm"
+   }
+  ]
+ }
+}

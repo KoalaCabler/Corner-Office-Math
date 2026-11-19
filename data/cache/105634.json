@@ -1,0 +1,372 @@
+{
+ "proxies": {
+  "0001140361-26-015809": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/105634/000114036126015809/ny20062562x1_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000105634-26-000025",
+   "result": {
+    "ceoPay": 14380630,
+    "medianPay": 87632,
+    "payRatio": 164,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "e Commission, we made the following determination with respect to the fiscal year beginning January 1, 2025: | (i) | | The median of the annual total compensation of all of our employees, determined as described below and excluding Mr. Guzzi, our Chairman, President and Chief Executive Officer, was $87,632; | | (ii) | | Mr. Guzzi's annual total compensation for 2025, as shown in the Summary Compensation Table on page 28 , was $14,380,630; and | | (iii) | | The ratio of Mr. Guzzi's 2025 annual total compensation was approximately 164 times that of our median employee. | For 2025, we calculated our median employee compensation based upon the median employee identified by us in 2024 based upon compensation in 2023. We believe there has been no significant change during 2025 to our employee po"
+   }
+  },
+  "0001140361-25-015031": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/105634/000114036125015031/ny20044392x1_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000105634-25-000015",
+   "result": {
+    "ceoPay": 13959058,
+    "medianPay": 65828,
+    "payRatio": 212.1,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "we made the following determination with respect to the fiscal year beginning January 1, 2024: | (i) | | The median of the annual total compensation of all of our employees, determined as described below and excluding Mr. Guzzi, our Chairman, President and Chief Executive Officer, was approximately $65,828; | | (ii) | | Mr. Guzzi's annual total compensation for 2024, as shown in the Summary Compensation Table on page 30 , was $13,959,058; and | | (iii) | | The ratio of Mr. Guzzi's 2024 annual total compensation was approximately 212.1 times that of our median employee. | For 2024, we calculated our median employee compensation based upon our calculation for 2023. We believe there has been no significant change during 2024 to our employee population or employee compensation arrangements tha"
+   }
+  },
+  "0001140361-24-021607": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/105634/000114036124021607/ny20019304x1_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000105634-24-000006",
+   "result": {
+    "ceoPay": 11823005,
+    "medianPay": 64268,
+    "payRatio": 184,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "we made the following determination with respect to the fiscal year beginning January 1, 2023: | (i) | | The median of the annual total compensation of all of our employees, determined as described below and excluding Mr. Guzzi, our Chairman, President and Chief Executive Officer, was approximately $64,268; | | (ii) | | Mr. Guzzi's annual total compensation for 2023, as shown in the Summary Compensation Table on page 35 , was $11,823,005; and | | (iii) | | The ratio of Mr. Guzzi's 2023 annual total compensation was approximately 184.0 times that of our median employee. | For 2023, we identified our median employee based upon the amount set forth as \"Wages, tips and other compensation\" on Form W-2 with respect to all employees who were employed by us or one of our consolidated subsidiaries"
+   }
+  },
+  "0001140361-23-020071": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/105634/000114036123020071/ny20006313x3_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000105634-23-000005",
+   "result": {
+    "ceoPay": 11420501,
+    "medianPay": 53997,
+    "payRatio": 211.5,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "we made the following determination with respect to the fiscal year beginning January 1, 2022: | (i) | | The median of the annual total compensation of all of our employees, determined as described below and excluding Mr. Guzzi, our Chairman, President and Chief Executive Officer, was approximately $53,997; | | (ii) | | Mr. Guzzi's annual total compensation for 2022, as shown in the Summary Compensation Table on page 34 , was $11,420,501; and | | (iii) | | The ratio of Mr. Guzzi's 2022 annual total compensation was approximately 211.5 times that of our median employee. | For 2022, we calculated our median employee compensation based on the same median employee as our calculations for 2020 and 2021. We believe there has been no significant change during 2022 to our employee population or em"
+   }
+  },
+  "0001140361-22-015297": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/105634/000114036122015297/ny20002131x1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000105634-22-000006",
+   "result": {
+    "ceoPay": 11024040,
+    "medianPay": 53094,
+    "payRatio": 208,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "we made the following determination with respect to the fiscal year beginning January 1, 2021: | (i) | | The median of the annual total compensation of all of our employees, determined as described below and excluding Mr. Guzzi, our Chairman, President and Chief Executive Officer, was approximately $53,094; | | (ii) | | Mr. Guzzi's annual total compensation for 2021, as shown in the Summary Compensation Table on page 34 , was $11,024,040; and | | (iii) | | The ratio of Mr. Guzzi's 2021 annual total compensation was approximately 208 times that of our median employee. | For 2021, we calculated our median employee compensation based on the same median employee as our calculation for 2020. In 2020, we identified our median employee based upon the amount set forth as \"Wages, tips and other com"
+   }
+  },
+  "0001104659-21-055245": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/105634/000110465921055245/tm2112422-1_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000105634-21-000044",
+   "result": {
+    "ceoPay": 10808156,
+    "medianPay": 52535,
+    "payRatio": 206,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "sion, we made the following determination with respect to the fiscal year beginning January 1, 2020: (i) The median of the annual total compensation of all of our employees, determined as described below and excluding Mr. Guzzi, our Chairman, President and Chief Executive Officer, was approximately $52,535; (ii) Mr. Guzzi's annual total compensation, as shown in the Summary Compensation Table on page 33 , was $10,808,156; and (iii) The ratio of Mr. Guzzi's 2020 annual total compensation was approximately 206 times that of our median employee. We identified our median employee based upon the amount set forth as \"Wages, tips and other compensation\" on Form W-2 with respect to all employees who were employed by us or one of our consolidated subsidiaries on December 31, 2020. This determinatio"
+   }
+  },
+  "0001104659-20-051999": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/105634/000110465920051999/tm2013141-1_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000105634-20-000043",
+   "result": {
+    "ceoPay": 10636167,
+    "medianPay": 55538,
+    "payRatio": 192,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "sion, we made the following determination with respect to the fiscal year beginning January 1, 2019: (i) The median of the annual total compensation of all of our employees, determined as described below and excluding Mr. Guzzi, our Chairman, President and Chief Executive Officer, was approximately $55,538; (ii) Mr. Guzzi's annual total compensation, as shown in the Summary Compensation Table on page 29 , was $10,636,167; and (iii) The ratio of Mr. Guzzi's 2019 annual total compensation was approximately 192 times that of our median employee. For 2019, we used the same median employee that we did in 2018. In 2018, we identified our median employee based upon the amount set forth as \"Wages, tips and other compensation\" on Form W-2 with respect to all employees who were employed by us or one"
+   }
+  },
+  "0001144204-19-020164": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/105634/000114420419020164/tv517212-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000105634-19-000044",
+   "result": {
+    "ceoPay": 10053185,
+    "medianPay": 52896,
+    "payRatio": 190.1,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "he Securities and Exchange Commission, we made the following determination with respect to the fiscal year beginning January 1, 2018: (i) The median of the annual total compensation of all of our employees, other than our Chairman, President and Chief Executive Officer, Mr. Guzzi, was approximately $52,896; (ii) Mr. Guzzi's annual total compensation, as shown in the Summary Compensation Table on page 28 , was $10,053,185; and (iii) The ratio of Mr. Guzzi's 2018 annual total compensation was approximately 190.1 times that of our median employee. We identified our median employee based on the amount set forth as \"Wages, tips and other compensation\" on Form W-2 with respect to all employees who were employed by us or one of our consolidated subsidiaries on December 31, 2018. This determinatio"
+   }
+  },
+  "0001144204-18-021256": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/105634/000114420418021256/tv489888_def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000105634-18-000045",
+   "result": {
+    "ceoPay": 9727139,
+    "medianPay": 55900,
+    "payRatio": 174,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "uidance promulgated by the Securities and Exchange Commission, we made the following determination with respect to the fiscal year beginning January 1, 2017: (i) The median of the annual total compensation of all of our employees, other than our President and Chief Executive Officer, Mr. Guzzi, was $55,900; (ii) Mr. Guzzi's annual total compensation, as shown in the Summary Compensation Table on page 28, was $9,727,139; and (iii) The ratio of Mr. Guzzi's 2017 annual total compensation was approximately 174 times that of our median employee. We identified our median employee based on the amount set forth as \"Wages, tips and other compensation\" on Form W-2 with respect to all employees who were employed by us or one of our consolidated subsidiaries on December 31, 2017. This determination ex"
+   }
+  }
+ },
+ "tenKs": {
+  "0000105634-18-000045": {
+   "parserVersion": 1,
+   "employees": 32000
+  },
+  "0000105634-19-000044": {
+   "parserVersion": 1,
+   "employees": 33000
+  },
+  "0000105634-20-000043": {
+   "parserVersion": 1,
+   "employees": 36000
+  },
+  "0000105634-21-000044": {
+   "parserVersion": 1,
+   "employees": 33000
+  },
+  "0000105634-22-000006": {
+   "parserVersion": 1,
+   "employees": 34000
+  },
+  "0000105634-23-000005": {
+   "parserVersion": 1,
+   "employees": 35500
+  },
+  "0000105634-24-000006": {
+   "parserVersion": 1,
+   "employees": 38300
+  },
+  "0000105634-25-000015": {
+   "parserVersion": 1,
+   "employees": 40400
+  },
+  "0000105634-26-000025": {
+   "parserVersion": 1,
+   "employees": 44000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 6785242000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-018213"
+   },
+   "2009": {
+    "revenue": 5227699000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-079814"
+   },
+   "2010": {
+    "revenue": 4851953000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000105634-13-000042"
+   },
+   "2011": {
+    "revenue": 5613459000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-14-000042"
+   },
+   "2012": {
+    "revenue": 6195494000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-15-000041"
+   },
+   "2013": {
+    "revenue": 6333527000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-16-000297"
+   },
+   "2014": {
+    "revenue": 6424965000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-17-000043"
+   },
+   "2015": {
+    "revenue": 6718726000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-18-000045"
+   },
+   "2016": {
+    "revenue": 7551524000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-19-000044"
+   },
+   "2017": {
+    "revenue": 7686999000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-20-000043"
+   },
+   "2018": {
+    "revenue": 8130631000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-21-000044"
+   },
+   "2019": {
+    "revenue": 9174611000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-22-000006"
+   },
+   "2020": {
+    "revenue": 8797061000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-23-000005"
+   },
+   "2021": {
+    "revenue": 9903580000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-24-000006"
+   },
+   "2022": {
+    "revenue": 11076120000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-25-000015"
+   },
+   "2023": {
+    "revenue": 12582873000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-26-000025"
+   },
+   "2024": {
+    "revenue": 14566116000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-26-000025"
+   },
+   "2025": {
+    "revenue": 16986422000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000105634-26-000025"
+   }
+  },
+  "employeesTagged": {
+   "0001193125-12-079814": 25000
+  },
+  "ceoPayPvp": {
+   "2021": 11024040,
+   "2022": 11420501,
+   "2023": 11823005,
+   "2024": 13959058,
+   "2025": 14380630
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000105634-26-000025",
+    "filingDate": "2026-02-26",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/105634/000010563426000025/eme-20251231.htm"
+   },
+   {
+    "accession": "0000105634-25-000015",
+    "filingDate": "2025-02-26",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/105634/000010563425000015/eme-20241231.htm"
+   },
+   {
+    "accession": "0000105634-24-000006",
+    "filingDate": "2024-02-28",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/105634/000010563424000006/eme-20231231.htm"
+   },
+   {
+    "accession": "0000105634-23-000005",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/105634/000010563423000005/eme-20221231.htm"
+   },
+   {
+    "accession": "0000105634-22-000006",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/105634/000010563422000006/eme-20211231.htm"
+   },
+   {
+    "accession": "0000105634-21-000044",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/105634/000010563421000044/eme-20201231.htm"
+   },
+   {
+    "accession": "0000105634-20-000043",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/105634/000010563420000043/eme-20191231x10k.htm"
+   },
+   {
+    "accession": "0000105634-19-000044",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/105634/000010563419000044/eme-20181231x10k.htm"
+   },
+   {
+    "accession": "0000105634-18-000045",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/105634/000010563418000045/eme-20171231x10k.htm"
+   },
+   {
+    "accession": "0000105634-17-000043",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/105634/000010563417000043/eme-20161231x10k.htm"
+   }
+  ]
+ }
+}

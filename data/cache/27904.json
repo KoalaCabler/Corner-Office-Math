@@ -1,0 +1,346 @@
+{
+ "proxies": {
+  "0001308179-26-000345": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/27904/000130817926000345/dal014970-def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000027904-26-000013",
+   "result": {
+    "ceoPay": 19222401,
+    "medianPay": 100976,
+    "payRatio": 190,
+    "method": "cross-checked",
+    "employees": 115044,
+    "statedYear": 2025,
+    "excerpt": "and disclose the total compensation paid to our median employee as well as the ratio of the pay of our Chief Executive Officer to the median employee. For 2025: | › | | the annual total compensation of the employee identified at median of all our employees other than our Chief Executive Officer was $100,976; | | › | | the annual total compensation of our Chief Executive Officer, Ed Bastian, was $19,222,401; and | | › | | the ratio of the annual total compensation of our Chief Executive Officer to the median of the total annual compensation of all our employees was estimated to be 190 to 1. | This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records. The SEC rules for identifying the median compensated employee and c"
+   }
+  },
+  "0001308179-25-000514": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/27904/000130817925000514/dal013395-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000027904-25-000004",
+   "result": {
+    "ceoPay": 27117069,
+    "medianPay": 105269,
+    "payRatio": 258,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "and disclose the total compensation paid to our median employee as well as the ratio of the pay of our Chief Executive Officer to the median employee. For 2024: | › | | the annual total compensation of the employee identified at median of all our employees other than our Chief Executive Officer was $105,269; | | › | | the annual total compensation of our Chief Executive Officer, Ed Bastian, was $27,117,069; and | | › | | the ratio of the annual total compensation of our Chief Executive Officer to the median of the total annual compensation of all our employees was estimated to be 258 to 1. | This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records. The SEC rules for identifying the median compensated employee and c"
+   }
+  },
+  "0001308179-24-000615": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/27904/000130817924000615/ldal2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000027904-24-000003",
+   "result": {
+    "ceoPay": 34214328,
+    "medianPay": 101947,
+    "payRatio": 336,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "lculate and disclose the total compensation paid to our median employee as well as the ratio of the pay of our Chief Executive Officer to the median employee. For 2023: the annual total compensation of the employee identified at median of all our employees other than our Chief Executive Officer was $101,947; the annual total compensation of our Chief Executive Officer, Ed Bastian, was $34,214,328; and the ratio of the annual total compensation of our Chief Executive Officer to the median of the total annual compensation of all our employees was estimated to be 336 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records. The SEC rules for identifying the median compensated employee and calculating the pay rat"
+   }
+  },
+  "0001308179-23-000817": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/27904/000130817923000817/ldal2023_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000027904-23-000003",
+   "result": {
+    "ceoPay": 9606387,
+    "medianPay": 77762,
+    "payRatio": 124,
+    "method": "cross-checked",
+    "employees": 108799,
+    "statedYear": 2022,
+    "excerpt": "ulate and disclose the total compensation paid to our median employee as well as the ratio of the pay of our Chief Executive Officer to the median employee. For 2022: › the annual total compensation of the employee identified at median of all our employees other than our Chief Executive Officer was $77,762; › the annual total compensation of our Chief Executive Officer, Ed Bastian, was $9,606,387; and › the ratio of the annual total compensation of our Chief Executive Officer to the median of the total annual compensation of all our employees was estimated to be 124 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records, using the methodology described below. The SEC rules for identifying the median compens"
+   }
+  },
+  "0001308179-22-000308": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/27904/000130817922000308/ldal2022_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000027904-22-000003",
+   "result": {
+    "ceoPay": 12360420,
+    "medianPay": 70240,
+    "payRatio": 176,
+    "method": "cross-checked",
+    "employees": 92767,
+    "statedYear": 2021,
+    "excerpt": "ulate and disclose the total compensation paid to our median employee as well as the ratio of the pay of our Chief Executive Officer to the median employee. For 2021: › the annual total compensation of the employee identified at median of all our employees other than our Chief Executive Officer was $70,240; › the annual total compensation of our Chief Executive Officer, Ed Bastian, was $12,360,420; and › the ratio of the annual total compensation of our Chief Executive Officer to the median of the total annual compensation of all our employees was estimated to be 176 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records, using the methodology described below. The SEC rules for identifying the median compen"
+   }
+  },
+  "0001308179-21-000283": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/27904/000130817921000283/ldal2021_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000027904-21-000003",
+   "result": {
+    "ceoPay": 13134012,
+    "medianPay": 72308,
+    "payRatio": 182,
+    "method": "cross-checked",
+    "employees": 82917,
+    "statedYear": 2020,
+    "excerpt": "nd disclose the total compensation paid to our median employee as well as the ratio of the pay of our Chief Executive Officer to the median employee. For 2020: &rsaquo; the annual total compensation of the employee identified at median of all our employees other than our Chief Executive Officer was $72,308; &rsaquo; the annual total compensation of our Chief Executive Officer, Ed Bastian, was $13,134,012; and &rsaquo; the ratio of the annual total compensation of our Chief Executive Officer to the median of the total annual compensation of all our employees was estimated to be 182 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records, using the methodology described below. The SEC rules for identifying the"
+   }
+  },
+  "0001308179-20-000240": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/27904/000130817920000240/ldal2020_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000027904-20-000004",
+   "result": {
+    "ceoPay": 17325379,
+    "medianPay": 118198,
+    "payRatio": 147,
+    "method": "cross-checked",
+    "employees": 96072,
+    "statedYear": 2019,
+    "excerpt": "nd disclose the total compensation paid to our median employee as well as the ratio of the pay of our Chief Executive Officer to the median employee. For 2019: &rsaquo; the annual total compensation of the employee identified at median of all our employees other than our Chief Executive Officer was $118,198; &rsaquo; the annual total compensation of our Chief Executive Officer, Ed Bastian, was $17,325,379; and &rsaquo; the ratio of the annual total compensation of our Chief Executive Officer to the median of the total annual compensation of all our employees was estimated to be 147 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records, using the methodology described below. The SEC rules for identifying th"
+   }
+  },
+  "0001308179-19-000187": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/27904/000130817919000187/ldal2019_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000027904-19-000003",
+   "result": {
+    "ceoPay": 14982448,
+    "medianPay": 81355,
+    "payRatio": 184,
+    "method": "cross-checked",
+    "employees": 96072,
+    "statedYear": 2018,
+    "excerpt": "d subsidiary DAL Global Services, LLC in December 2018, we identified a new median employee as of December 31, 2018, the last day of our fiscal year. For 2018: &rsaquo; the annual total compensation of the employee identified at median of all our employees other than our Chief Executive Officer was $81,355; &rsaquo; the annual total compensation of our Chief Executive Officer, Ed Bastian, was $14,982,448; and &rsaquo; the ratio of the annual total compensation of our Chief Executive Officer to the median of the total annual compensation of all our employees was estimated to be 184 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records, using the methodology described below. The SEC rules for identifying the"
+   }
+  },
+  "0001193125-18-139175": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/27904/000119312518139175/d376770ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000027904-18-000006",
+   "result": {
+    "ceoPay": 13205703,
+    "medianPay": 93316,
+    "payRatio": 142,
+    "method": "cross-checked",
+    "employees": 114600,
+    "statedYear": 2017,
+    "excerpt": "lose the total compensation paid to our median employee as well as the ratio of the pay of our Chief Executive Officer to the median employee. For 2017: | | |  | | | | the annual total compensation of the employee identified at median of all our employees other than our Chief Executive Officer was $93,316; | | | |  | | | | the annual total compensation of our Chief Executive Officer, Ed Bastian, was $13,205,703; and | | | |  | | | | the ratio of the annual total compensation of our Chief Executive Officer to the median of the total annual compensation of all our employees was estimated to be 142 to 1. | This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records, using the methodology described below. The SEC rules"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 22697000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0000950123-11-022002"
+   },
+   "2009": {
+    "revenue": 28063000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001445305-12-000272"
+   },
+   "2010": {
+    "revenue": 31755000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001445305-13-000209"
+   },
+   "2011": {
+    "revenue": 35115000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000027904-14-000003"
+   },
+   "2012": {
+    "revenue": 36670000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000027904-15-000003"
+   },
+   "2013": {
+    "revenue": 37773000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000027904-16-000018"
+   },
+   "2014": {
+    "revenue": 40362000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000027904-17-000004"
+   },
+   "2015": {
+    "revenue": 40704000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000027904-18-000006"
+   },
+   "2016": {
+    "revenue": 39639000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000027904-18-000006"
+   },
+   "2017": {
+    "revenue": 41244000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000027904-18-000006"
+   },
+   "2018": {
+    "revenue": 44438000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000027904-21-000003"
+   },
+   "2019": {
+    "revenue": 47007000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000027904-22-000003"
+   },
+   "2020": {
+    "revenue": 17095000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000027904-23-000003"
+   },
+   "2021": {
+    "revenue": 29899000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000027904-24-000003"
+   },
+   "2022": {
+    "revenue": 50582000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000027904-25-000004"
+   },
+   "2023": {
+    "revenue": 58048000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000027904-26-000013"
+   },
+   "2024": {
+    "revenue": 61643000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000027904-26-000013"
+   },
+   "2025": {
+    "revenue": 63364000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000027904-26-000013"
+   }
+  },
+  "employeesTagged": {
+   "0000027904-16-000018": 83000,
+   "0000027904-17-000004": 84000,
+   "0000027904-18-000006": 87000,
+   "0000027904-19-000003": 89000,
+   "0000027904-21-000003": 74000,
+   "0000027904-22-000003": 83000,
+   "0000027904-23-000003": 95000,
+   "0000027904-24-000003": 103000,
+   "0000027904-25-000004": 103000,
+   "0000027904-26-000013": 103000,
+   "0000027904-20-000004": 91000,
+   "0001445305-12-000272": 78400
+  },
+  "ceoPayPvp": {
+   "2021": 12360420,
+   "2022": 9606387,
+   "2023": 34214328,
+   "2024": 27117069,
+   "2025": 19222401
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000027904-26-000013",
+    "filingDate": "2026-02-11",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790426000013/dal-20251231.htm"
+   },
+   {
+    "accession": "0000027904-25-000004",
+    "filingDate": "2025-02-11",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790425000004/dal-20241231.htm"
+   },
+   {
+    "accession": "0000027904-24-000003",
+    "filingDate": "2024-02-12",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790424000003/dal-20231231.htm"
+   },
+   {
+    "accession": "0000027904-23-000003",
+    "filingDate": "2023-02-10",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790423000003/dal-20221231.htm"
+   },
+   {
+    "accession": "0000027904-22-000003",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790422000003/dal-20211231.htm"
+   },
+   {
+    "accession": "0000027904-21-000003",
+    "filingDate": "2021-02-12",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790421000003/dal-20201231.htm"
+   },
+   {
+    "accession": "0000027904-20-000004",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790420000004/dal-20191231.htm"
+   },
+   {
+    "accession": "0000027904-19-000003",
+    "filingDate": "2019-02-15",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790419000003/dal1231201810k.htm"
+   },
+   {
+    "accession": "0000027904-18-000006",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790418000006/dal1231201710k.htm"
+   },
+   {
+    "accession": "0000027904-17-000004",
+    "filingDate": "2017-02-13",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/27904/000002790417000004/dal1231201610k.htm"
+   }
+  ]
+ }
+}

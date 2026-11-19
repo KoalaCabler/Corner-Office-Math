@@ -1,0 +1,372 @@
+{
+ "proxies": {
+  "0001193125-26-142826": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000119312526142826/d930509ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000316709-26-000009",
+   "result": {
+    "ceoPay": 18755222,
+    "medianPay": 131480,
+    "payRatio": 143,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "in accordance with SEC rules, of the ratio of the 2025 annual total compensation of the company's median employee to the 2025 annual total compensation of Mr. Wurster, the CEO during 2025: | § | | | | the annual total compensation of the median employee, calculated in accordance with SCT rules, was $131,480; | | § | | | | the annual total compensation of the CEO, as reported in the 2025 SCT, was $18,755,222; and | | § | | | | the ratio of the annual total compensation of the CEO to the annual total compensation of the median employee was 143 to 1. | The same median employee was used for 2025 as was used for 2024, as there was no material change to the employee population or compensation arrangements that would have significantly impacted the pay ratio disclosure. To identify the company's"
+   }
+  },
+  "0001193125-25-072811": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000119312525072811/d897057ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000316709-25-000010",
+   "result": {
+    "ceoPay": 26388559,
+    "medianPay": 125038,
+    "payRatio": 211,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "accordance with SEC rules, of the ratio of the 2024 annual total compensation of the company's median employee to the 2024 annual total compensation of Mr. Bettinger, the CEO during 2024: | § | | | | the annual total compensation of the median employee, calculated in accordance with SCT rules, was $125,038; | | § | | | | the annual total compensation of the CEO, as reported in the 2024 SCT, was $26,388,559; and | | § | | | | the ratio of the annual total compensation of the CEO to the annual total compensation of the median employee was 211 to 1. | For 2024, the company selected a new median employee because it had used the same median employee for the three prior years. To identify the company's median employee in 2024, the company used internal records to determine the employee populati"
+   }
+  },
+  "0001193125-24-087883": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000119312524087883/d522898ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000316709-24-000018",
+   "result": {
+    "ceoPay": 23871744,
+    "medianPay": 117672,
+    "payRatio": 203,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "nce with SEC rules, of the ratio of the 2023 annual total compensation of the company's median employee to the 2023 annual total compensation of Mr. Bettinger, the Chief Executive Officer: | ◾ | | | | the annual total compensation of the median employee, calculated in accordance with SCT rules, was $117,672; | | ◾ | | | | the annual total compensation of the CEO, as reported in the 2023 SCT, was $23,871,744; and | | ◾ | | | | the ratio of the annual total compensation of the CEO to the annual total compensation of the median employee was 203 to 1. | The same median employee was used for 2023 as has been used since 2021, as there was no material change to the employee population or compensation arrangements that would have significantly impacted the pay ratio disclosure. To identify the com"
+   }
+  },
+  "0001193125-23-086655": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000119312523086655/d416280ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000316709-23-000009",
+   "result": {
+    "ceoPay": 24386329,
+    "medianPay": 116203,
+    "payRatio": 210,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "nce with SEC rules, of the ratio of the 2022 annual total compensation of the company's median employee to the 2022 annual total compensation of Mr. Bettinger, the Chief Executive Officer: | · | | | | the annual total compensation of the median employee, calculated in accordance with SCT rules, was $116,203; | | · | | | | the annual total compensation of the CEO, as reported in the 2022 SCT, was $24,386,329; and | | · | | | | the ratio of the annual total compensation of the CEO to the annual total compensation of the median employee was 210 to 1. | The same median employee was used for 2022 as was used in 2021 as there was no material change to the employee population or compensation arrangements that would have significantly impacted the pay ratio disclosure. To identify the company's me"
+   }
+  },
+  "0001193125-22-093320": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000119312522093320/d246025ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000316709-22-000009",
+   "result": {
+    "ceoPay": 21938404,
+    "medianPay": 109269,
+    "payRatio": 201,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "the ratio of the 2021 annual total compensation of the companys median employee to the 2021 annual total compensation of Mr. Bettinger, the Chief Executive Officer: | · | | | | the annual total compensation of the median employee, calculated in accordance with Summary Compensation Table rules, was $109,269; | | · | | | | the annual total compensation of the CEO, as reported in the Summary Compensation Table, was $21,938,404; and | | · | | | | the ratio of the annual total compensation of the CEO to the annual total compensation of the median employee was 201 to 1. | For 2021, the company selected a new median employee because it experienced a change in its employee population as a result of the TD Ameritrade Acquisition, which was completed in October 2020. To identify the companys media"
+   }
+  },
+  "0001193125-21-104906": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000119312521104906/d31802ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000316709-21-000012",
+   "result": {
+    "ceoPay": 15959193,
+    "medianPay": 114098,
+    "payRatio": 140,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "he 2020 annual total compensation of the companys median employee to the 2020 annual total compensation of Mr. Bettinger, the President and Chief Executive Officer: | · | | | | the annual total compensation of the median employee, calculated in accordance with Summary Compensation Table rules, was $114,098; | | · | | | | the annual total compensation of the CEO, as reported in the Summary Compensation Table, was $15,959,193; and | | · | | | | the ratio of the annual total compensation of the CEO to the annual total compensation of the median employee was 140 to 1. | In order to identify the companys median employee in 2020, the company used internal records to determine the employee population as of December 31, 2020, which equaled 21,550 individuals, including full-time, part-time, temp"
+   }
+  },
+  "0001193125-20-092483": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000119312520092483/d868781ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000316709-20-000012",
+   "result": {
+    "ceoPay": 16101141,
+    "medianPay": 105565,
+    "payRatio": 153,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "he 2019 annual total compensation of the companys median employee to the 2019 annual total compensation of Mr. Bettinger, the President and Chief Executive Officer: | · | | | | the annual total compensation of the median employee, calculated in accordance with Summary Compensation Table rules, was $105,565; | | · | | | | the annual total compensation of the CEO, as reported in the Summary Compensation Table, was $16,101,141; and | | · | | | | the ratio of the annual total compensation of the CEO to the annual total compensation of the median employee was 153 to 1. | The same median employee was used for 2019 as was used in both 2018 and 2017 as there was no material change in each year to the employee population or compensation arrangements that would have significantly impacted the pay r"
+   }
+  },
+  "0001193125-19-092204": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000119312519092204/d700802ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000316709-19-000008",
+   "result": {
+    "ceoPay": 15627607,
+    "medianPay": 104281,
+    "payRatio": 150,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "he 2018 annual total compensation of the companys median employee to the 2018 annual total compensation of Mr. Bettinger, the President and Chief Executive Officer: | · | | | | the annual total compensation of the median employee, calculated in accordance with Summary Compensation Table rules, was $104,281; | | · | | | | the annual total compensation of the CEO, as reported in the Summary Compensation Table, was $15,627,607; and | | · | | | | the ratio of the annual total compensation of the CEO to the annual total compensation of the median employee was 150 to 1. | The same median employee was used for 2018 as was used in 2017 as there was no material change in the employee population or compensation arrangements that would have significantly impacted the pay ratio disclosure. In order t"
+   }
+  },
+  "0001193125-18-103068": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/316709/000119312518103068/d525917ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000316709-18-000009",
+   "result": {
+    "ceoPay": 14348737,
+    "medianPay": 98152,
+    "payRatio": 146,
+    "method": "cross-checked",
+    "employees": 16623,
+    "statedYear": 2016,
+    "excerpt": "io for the annual total compensation of the median employee to the CEO was calculated for the 2017 fiscal year in accordance with the rules for the Summary Compensation Table as follows: | · | | | | the median of the annual total compensation of all employees of the company (other than the CEO) was $98,152; | | · | | | | the annual total compensation of the CEO, as reported in the Summary Compensation Table, was $14,348,737; and | | · | | | | the ratio of the annual total compensation of the CEO to the median of the annual total compensation of all employees was 146 to 1. | 35 Table of Contents EXECUTIVE COMPENSATION TABLES The following tables show compensation information for the named executive officers: Walter W. Bettinger II, President and Chief Executive Officer, Peter B. Crawford, E"
+   }
+  }
+ },
+ "tenKs": {
+  "0000316709-19-000008": {
+   "parserVersion": 1,
+   "employees": 19500
+  },
+  "0000316709-20-000012": {
+   "parserVersion": 1,
+   "employees": 19700
+  },
+  "0000316709-21-000012": {
+   "parserVersion": 1,
+   "employees": 10000
+  },
+  "0000316709-22-000009": {
+   "parserVersion": 1,
+   "employees": 33400
+  },
+  "0000316709-23-000009": {
+   "parserVersion": 1,
+   "employees": 35300
+  },
+  "0000316709-24-000018": {
+   "parserVersion": 1,
+   "employees": 33000
+  },
+  "0000316709-25-000010": {
+   "parserVersion": 1,
+   "employees": 32100
+  },
+  "0000316709-26-000009": {
+   "parserVersion": 1,
+   "employees": 33000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 4994000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-040444"
+   },
+   "2008": {
+    "revenue": 5150000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-046932"
+   },
+   "2009": {
+    "revenue": 4193000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-077926"
+   },
+   "2010": {
+    "revenue": 4248000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-071646"
+   },
+   "2011": {
+    "revenue": 4691000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-14-000005"
+   },
+   "2012": {
+    "revenue": 4883000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-15-000014"
+   },
+   "2013": {
+    "revenue": 5435000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-16-000067"
+   },
+   "2014": {
+    "revenue": 6058000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-17-000010"
+   },
+   "2015": {
+    "revenue": 6380000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-18-000009"
+   },
+   "2016": {
+    "revenue": 7478000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-19-000008"
+   },
+   "2017": {
+    "revenue": 8618000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-20-000012"
+   },
+   "2018": {
+    "revenue": 10132000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-21-000012"
+   },
+   "2019": {
+    "revenue": 10721000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-22-000009"
+   },
+   "2020": {
+    "revenue": 11691000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-23-000009"
+   },
+   "2021": {
+    "revenue": 18520000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-24-000018"
+   },
+   "2022": {
+    "revenue": 20762000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-25-000010"
+   },
+   "2023": {
+    "revenue": 18837000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-26-000009"
+   },
+   "2024": {
+    "revenue": 19606000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-26-000009"
+   },
+   "2025": {
+    "revenue": 23921000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000316709-26-000009"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 21938404,
+   "2022": 24386329,
+   "2023": 23871744,
+   "2024": 26388559,
+   "2025": 18755222
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000316709-26-000009",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670926000009/schw-20251231.htm"
+   },
+   {
+    "accession": "0000316709-25-000010",
+    "filingDate": "2025-02-26",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670925000010/schw-20241231.htm"
+   },
+   {
+    "accession": "0000316709-24-000018",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670924000018/schw-20231231.htm"
+   },
+   {
+    "accession": "0000316709-23-000009",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670923000009/schw-20221231.htm"
+   },
+   {
+    "accession": "0000316709-22-000009",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670922000009/schw-20211231.htm"
+   },
+   {
+    "accession": "0000316709-21-000012",
+    "filingDate": "2021-02-24",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670921000012/schw-20201231.htm"
+   },
+   {
+    "accession": "0000316709-20-000012",
+    "filingDate": "2020-02-26",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670920000012/schw-12312019x10k.htm"
+   },
+   {
+    "accession": "0000316709-19-000008",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670919000008/schw-12312018x10k.htm"
+   },
+   {
+    "accession": "0000316709-18-000009",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670918000009/schw-12312017x10k.htm"
+   },
+   {
+    "accession": "0000316709-17-000010",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/316709/000031670917000010/schw-20161231x10k.htm"
+   }
+  ]
+ }
+}

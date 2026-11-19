@@ -1,0 +1,302 @@
+{
+ "proxies": {
+  "0001193125-26-145721": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312526145721/d59508ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001633917-26-000024",
+   "result": {
+    "ceoPay": 25243486,
+    "medianPay": 114331,
+    "payRatio": 221,
+    "method": "cross-checked",
+    "employees": 23800,
+    "statedYear": 2025,
+    "excerpt": "fer to as the \"pay ratio.\" We believe that the pay ratio disclosed below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2025, our last completed fiscal year, the median of the annual total compensation of all our employees (other than our CEO) was $114,331. The total compensation of our CEO was $25,243,486 (based on the assumptions used to determine the compensation reported in the \"2025 Summary Compensation Table\" in this proxy statement). For 2025, we estimate that the pay ratio of the total compensation of our CEO to the median of the annual total compensation of all our employees is 221 to 1. Methodology PayPal is a global company and operates in approximately 200 markets around the world. As of December 31, 2025, we employed approxim"
+   }
+  },
+  "0001193125-25-087307": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312525087307/d905217ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001633917-25-000019",
+   "result": {
+    "ceoPay": 6658527,
+    "medianPay": 95903,
+    "payRatio": 69,
+    "method": "cross-checked",
+    "employees": 24400,
+    "statedYear": 2024,
+    "excerpt": "fer to as the \"pay ratio.\" We believe that the pay ratio disclosed below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2024, our last completed fiscal year, the median of the annual total compensation of all our employees (other than our CEO) was $95,903. The total compensation of our CEO was $6,658,527 (based on the assumptions used to determine the compensation reported in the \"2024 Summary Compensation Table\" in this proxy statement and reflecting that Mr. Chriss did not receive any equity awards in 2024). For 2024, we estimate that the pay ratio of the total compensation of our CEO to the median of the annual total compensation of all our employees is 69 to 1. We expect that Mr. Chriss will receive equity awards in future years, whic"
+   }
+  },
+  "0001193125-24-090908": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312524090908/d554828ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001633917-24-000024",
+   "result": {
+    "ceoPay": 35311260,
+    "medianPay": 94167,
+    "payRatio": 375,
+    "method": "cross-checked",
+    "employees": 27200,
+    "statedYear": 2023,
+    "excerpt": "fer to as the \"pay ratio.\" We believe that the pay ratio disclosed below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2023, our last completed fiscal year, the median of the annual total compensation of all our employees (other than our CEO) was $94,167 and the annualized total compensation of our CEO was $35,311,260 (based on the assumptions used to annualize the compensation reported in the \"2023 Summary Compensation Table\" in this proxy statement). For 2023, we estimate that the pay ratio of the annualized total compensation of our CEO to the median of the annual total compensation of all our employees is 375 to 1. Methodology PayPal is a global company and operates in approximately 200 markets around the world. As of December 31, 20"
+   }
+  },
+  "0001193125-23-100559": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312523100559/d430571ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001633917-23-000033",
+   "result": {
+    "ceoPay": 21957922,
+    "medianPay": 77244,
+    "payRatio": 284,
+    "method": "cross-checked",
+    "employees": 29900,
+    "statedYear": 2022,
+    "excerpt": "fer to as the \"pay ratio.\" We believe that the pay ratio disclosed below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2022, our last completed fiscal year, the median of the annual total compensation of all our employees (other than our CEO) was $77,244 and the annual total compensation of our CEO, as reported in the \"Total\" column of the \"2022 Summary Compensation Table\" in this proxy statement, was $21,957,922. Based on this information, for 2022, we estimate that the pay ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees is 284 to 1. Methodology PayPal is a global company and operates in over 200 markets around the world. As of December 31, 2022, we employed approxima"
+   }
+  },
+  "0001193125-22-109465": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312522109465/d260160ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001633917-22-000027",
+   "result": {
+    "ceoPay": 32070353,
+    "medianPay": 83905,
+    "payRatio": 382,
+    "method": "cross-checked",
+    "employees": 30900,
+    "statedYear": 2021,
+    "excerpt": "fer to as the pay ratio. We believe that the pay ratio disclosed below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2021, our last completed fiscal year, the median of the annual total compensation of all our employees (other than our CEO) was $83,905 and the annual total compensation of our CEO, as reported in the Total column of the 2021 Summary Compensation Table in this proxy statement, was $32,070,353. Based on this information, for 2021, we estimate that the pay ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees is 382 to 1. Methodology PayPal is a global company and operates in over 200 markets around the world. As of December 31, 2021, we employed approxima"
+   }
+  },
+  "0001308179-21-000221": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000130817921000221/lpypl2021_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001633917-21-000018",
+   "result": {
+    "ceoPay": 23362072,
+    "medianPay": 83988,
+    "payRatio": 278,
+    "method": "cross-checked",
+    "employees": 26500,
+    "statedYear": 2020,
+    "excerpt": "as the \"pay ratio.\" We believe that the pay ratio disclosed below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2020, our last completed fiscal year, the median of the annual total compensation of the Company's employees (other than our CEO) was $83,988 and the annual total compensation of our CEO, as reported in the \"Total\" column of the \"2020 Summary Compensation Table\" in this proxy statement, was $23,362,072. Based on this information, for 2020, we estimate that the pay ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees is 278 to 1. Methodology PayPal is a global company and operates in over 200 markets around the world. As of December 31, 2020, we employed approximately"
+   }
+  },
+  "0001193125-20-101351": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312520101351/d856632ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001633917-20-000028",
+   "result": {
+    "ceoPay": 25825473,
+    "medianPay": 70405,
+    "payRatio": 367,
+    "method": "cross-checked",
+    "employees": 23200,
+    "statedYear": 2019,
+    "excerpt": "as the pay ratio. We believe that the pay ratio disclosed below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2019, our last completed fiscal year, the median of the annual total compensation of the Companys employees (other than our CEO) was $70,405 and the annual total compensation of our CEO, as reported in the Total column of the 2019 Summary Compensation Table in this proxy statement, was $25,825,473. Based on this information, for 2019, we estimate that the pay ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees is 367 to 1. Methodology for Determining Our Median Employee PayPal is a global company and operates in over 200 markets around the world. As of December"
+   }
+  },
+  "0001193125-19-102854": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312519102854/d651677ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001633917-19-000043",
+   "result": {
+    "ceoPay": 37764588,
+    "medianPay": 69600,
+    "payRatio": 543,
+    "method": "cross-checked",
+    "employees": 21800,
+    "statedYear": 2018,
+    "excerpt": "as the pay ratio. We believe that the pay ratio disclosed below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2018, our last completed fiscal year, the median of the annual total compensation of the Companys employees (other than our CEO) was $69,600 and the annual total compensation of our CEO, as reported in the Total column of the 2018 Summary Compensation Table in this proxy statement, was $37,764,588. Based on this information, for 2018, we estimate that the pay ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees is 543 to 1. The pay ratio was higher in 2018 due to the CEO PSU Award, which will only be earned if meaningful and sustained stock price performance tar"
+   }
+  },
+  "0001193125-18-115555": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1633917/000119312518115555/d511293ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001633917-18-000029",
+   "result": {
+    "ceoPay": 19218634,
+    "medianPay": 70228,
+    "payRatio": 274,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "to apply various methodologies and assumptions and, as a result, the pay ratio reported by us may not be comparable to the pay ratio reported by other companies. For 2017, our last completed fiscal year, the median of the annual total compensation of the Companys employees (other than our CEO) was $70,228, and the annual total compensation of our CEO, as reported in the Total column of the 2017 Summary Compensation Table elsewhere in this Proxy Statement, was $19,218,634. Based on this information, for 2017, we estimate that the pay ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees is 274:1. Methodology for Determining Our Median Employee We selected December 31, 2017 (the last day of our fiscal year) as the date for iden"
+   }
+  }
+ },
+ "tenKs": {
+  "0001633917-18-000029": {
+   "parserVersion": 1,
+   "employees": 18700
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2013": {
+    "revenue": 6727000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001633917-16-000113"
+   },
+   "2014": {
+    "revenue": 8025000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001633917-17-000027"
+   },
+   "2015": {
+    "revenue": 9248000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001633917-18-000029"
+   },
+   "2016": {
+    "revenue": 10842000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001633917-19-000043"
+   },
+   "2017": {
+    "revenue": 13094000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001633917-20-000028"
+   },
+   "2018": {
+    "revenue": 15451000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001633917-21-000018"
+   },
+   "2019": {
+    "revenue": 17772000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001633917-22-000027"
+   },
+   "2020": {
+    "revenue": 21454000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001633917-23-000033"
+   },
+   "2021": {
+    "revenue": 25371000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001633917-24-000024"
+   },
+   "2022": {
+    "revenue": 27518000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001633917-25-000019"
+   },
+   "2023": {
+    "revenue": 29771000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001633917-26-000024"
+   },
+   "2024": {
+    "revenue": 31797000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001633917-26-000024"
+   },
+   "2025": {
+    "revenue": 33172000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001633917-26-000024"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001633917-26-000024",
+    "filingDate": "2026-02-03",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391726000024/pypl-20251231.htm"
+   },
+   {
+    "accession": "0001633917-25-000019",
+    "filingDate": "2025-02-04",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391725000019/pypl-20241231.htm"
+   },
+   {
+    "accession": "0001633917-24-000024",
+    "filingDate": "2024-02-08",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391724000024/pypl-20231231.htm"
+   },
+   {
+    "accession": "0001633917-23-000033",
+    "filingDate": "2023-02-10",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391723000033/pypl-20221231.htm"
+   },
+   {
+    "accession": "0001633917-22-000027",
+    "filingDate": "2022-02-03",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391722000027/pypl-20211231.htm"
+   },
+   {
+    "accession": "0001633917-21-000018",
+    "filingDate": "2021-02-05",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391721000018/pypl-20201231.htm"
+   },
+   {
+    "accession": "0001633917-20-000028",
+    "filingDate": "2020-02-06",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391720000028/pypl201910-k.htm"
+   },
+   {
+    "accession": "0001633917-19-000043",
+    "filingDate": "2019-02-07",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391719000043/pypl201810-k.htm"
+   },
+   {
+    "accession": "0001633917-18-000029",
+    "filingDate": "2018-02-07",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391718000029/pypl201710-k.htm"
+   },
+   {
+    "accession": "0001633917-17-000027",
+    "filingDate": "2017-02-08",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1633917/000163391717000027/pypl201610-k.htm"
+   }
+  ]
+ }
+}

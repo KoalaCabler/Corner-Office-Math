@@ -1,0 +1,332 @@
+{
+ "proxies": {
+  "0000032604-25-000103": {
+   "parserVersion": 1,
+   "filingDate": "2025-12-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260425000103/emr-20251212.htm",
+   "periodEnd": "2025-09-30",
+   "tenK": "0000032604-25-000087",
+   "result": {
+    "ceoPay": 21259535,
+    "medianPay": 52916,
+    "payRatio": 402,
+    "method": "cross-checked",
+    "employees": 71447,
+    "statedYear": 2025,
+    "excerpt": "of employees within a 5% range of the established median compensation measure, then selected an employee from within that group. We determined that the 2025 Summary Compensation Table total compensation and value of nondiscriminatory medical and dental benefits for our CEO and median employee were $21,259,535, and $52,916 respectively, which includes $19,273 and $5,471 in company-paid benefits, respectively. The estimate of the ratio of CEO pay to median worker pay calculated using a methodology consistent with the SEC rules as described above is 402:1. As the SEC rules allow for companies to adopt a wide range of methodologies, to apply country exclusions and to make reasonable estimates and assumptions that reflect their compensation practices to identify the median employee and calcula"
+   }
+  },
+  "0000032604-24-000057": {
+   "parserVersion": 1,
+   "filingDate": "2024-12-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260424000057/emr-20241213.htm",
+   "periodEnd": "2024-09-30",
+   "tenK": "0000032604-24-000041",
+   "result": {
+    "ceoPay": 20114659,
+    "medianPay": 47221,
+    "payRatio": 426,
+    "method": "cross-checked",
+    "employees": 70280,
+    "statedYear": 2023,
+    "excerpt": "we determined that the median employee from the prior year falls outside the 2023 5% range and identified a new median employee. We determined that the 2024 Summary Compensation Table total compensation and value of nondiscriminatory medical and dental benefits for our CEO and median employee were $20,114,659, and $47,221 respectively, which includes $18,376 and $5,513 in company-paid benefits, respectively. The estimate of the ratio of CEO pay to median worker pay calculated using a methodology consistent with the SEC rules as described above is 426:1. As of July 1, 2024, we had a global population of approximately 70,280 employees, which excludes the National Instruments acquisition that closed on October 11, 2023, which had approximately 7,000 employees at time of close. From this popu"
+   }
+  },
+  "0001193125-23-291718": {
+   "parserVersion": 1,
+   "filingDate": "2023-12-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312523291718/d552762ddef14a.htm",
+   "periodEnd": "2023-09-30",
+   "tenK": "0000032604-23-000044",
+   "result": {
+    "ceoPay": 18334743,
+    "medianPay": 47840,
+    "payRatio": 383,
+    "method": "cross-checked",
+    "employees": 58335,
+    "statedYear": 2023,
+    "excerpt": "a 5% range of the estimated median of the established compensation measure, then selected an employee from within that group as our median employee. We determined that the 2023 Summary Compensation Table total compensation and value of nondiscriminatory benefits for our CEO and median employee were $18,334,743, and $47,840, respectively, which includes $17,549 and $8,664 in company-paid benefits, respectively. The Company provided benefits are not included in the compensation of our CEO in the Summary Compensation Table on page 47. The estimate of the ratio of CEO pay to median worker pay calculated using a methodology consistent with the SEC rules as described above is 383:1. As the SEC rules allow for companies to adopt a wide range of methodologies, to apply country exclusions and to ma"
+   }
+  },
+  "0001193125-22-301782": {
+   "parserVersion": 1,
+   "filingDate": "2022-12-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312522301782/d397384ddef14a.htm",
+   "periodEnd": "2022-09-30",
+   "tenK": "0000032604-22-000041",
+   "result": {
+    "ceoPay": 15194411,
+    "medianPay": 58101,
+    "payRatio": 262,
+    "method": "cross-checked",
+    "employees": 79560,
+    "statedYear": 2022,
+    "excerpt": "a 5% range of the estimated median of the established compensation measure, then selected an employee from within that group as our median employee. We determined that the 2022 Summary Compensation Table total compensation and value of nondiscriminatory benefits for our CEO and median employee were $15,194,411, and $58,101, respectively, which includes $16,305 and $22,475 in company-paid benefits, respectively. The Company provided benefits are not included in the compensation of our CEO in the Summary Compensation Table on page 36. The estimate of the ratio of CEO pay to median worker pay calculated using a methodology consistent with the SEC rules as described above is 262:1. As the SEC rules allow for companies to adopt a wide range of methodologies, to apply country exclusions and to m"
+   }
+  },
+  "0001193125-21-353934": {
+   "parserVersion": 1,
+   "filingDate": "2021-12-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312521353934/d25336ddef14a.htm",
+   "periodEnd": "2021-09-30",
+   "tenK": "0000032604-21-000038",
+   "result": {
+    "ceoPay": 11137436,
+    "medianPay": 42499,
+    "payRatio": 262,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "mployees, we produced a sample of employees within a 5% range of the estimated median of the established compensation measure, then selected an employee from within that group as our median employee. We determined that the 2021 total compensation for our CEO and median employee were $16,048,119 and $42,499, respectively, which includes $15,454 and $10,426 in company provided medical and dental benefits applicable to all employees, respectively. These Company provided benefits are not included in the compensation for our CEO in the Summary Compensation Table on page 37. In addition, also included for Mr. Karsanbhai is an additional amount that reflects the annualization of his base salary consistent with the applicable SEC guidance, which is not included in the Summary Compensation Table on"
+   }
+  },
+  "0001193125-20-315868": {
+   "parserVersion": 1,
+   "filingDate": "2020-12-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312520315868/d83341ddef14a.htm",
+   "periodEnd": "2020-09-30",
+   "tenK": "0000032604-20-000041",
+   "result": {
+    "ceoPay": 16490284,
+    "medianPay": 48786,
+    "payRatio": 338,
+    "method": "cross-checked",
+    "employees": 85887,
+    "statedYear": 2020,
+    "excerpt": "me determination date and statistical sampling methodology, we determined that the median employee from the prior year falls outside the 2020 5% range and identified a new median employee. We determined that the 2020 Summary Compensation Table total compensation for our CEO and median employee were $16,490,284 (which includes $7,199 in company-provided medical and dental benefits applicable to all employees that are not included in the compensation reported for our CEO in the Summary Compensation Table on page 36) and $48,786, respectively. Our estimate of the ratio of CEO pay to median worker pay using a methodology consistent with the SEC rules as described above is 338:1. As of July 1, 2020, we had a global population of approximately 85,887 employees. From that population, we excluded"
+   }
+  },
+  "0001193125-19-313893": {
+   "parserVersion": 1,
+   "filingDate": "2019-12-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312519313893/d823905ddef14a.htm",
+   "periodEnd": "2019-09-30",
+   "tenK": "0000032604-19-000048",
+   "result": {
+    "ceoPay": 20310575,
+    "medianPay": 47415,
+    "payRatio": 428,
+    "method": "cross-checked",
+    "employees": 88385,
+    "statedYear": 2018,
+    "excerpt": "me determination date and statistical sampling methodology, we determined that the median employee from the prior year falls outside the 2019 5% range and identified a new median employee. We determined that the 2019 Summary Compensation Table total compensation for our CEO and median employee were $20,310,575 and $47,415, respectively, which includes $8,998 in company-provided medical and dental benefits for our CEO. The Summary Compensation Table total for our CEO, however, includes a significantly increased actuarial pension value as a result of a decrease in the applicable discount rate which does not relate directly to Company or individual performance and may differ significantly from year to year. For fiscal 2018, no change in pension value was reported in the Summary Compensation T"
+   }
+  },
+  "0001193125-18-349891": {
+   "parserVersion": 1,
+   "filingDate": "2018-12-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312518349891/d615207ddef14a.htm",
+   "periodEnd": "2018-09-30",
+   "tenK": "0000032604-18-000044",
+   "result": {
+    "ceoPay": 15619741,
+    "medianPay": 36791,
+    "payRatio": 425,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "roduced a sample of employees who were paid within a 5% range of that median and selected an employee from within that group as our median employee. We determined that the 2018 Summary Compensation Table total compensation and value of nondiscriminatory benefits for our CEO and median employee were $15,619,741 and $36,791, which includes $10,214 in company provided medical and dental benefits for our CEO. Our estimate of the ratio of CEO pay to median worker pay is 425:1. This ratio is a reasonable estimate calculated using a methodology consistent with the SEC rules, as described above. As the SEC rules allow for companies to adopt a wide range of methodologies, to apply country exclusions and to make reasonable estimates and assumptions that reflect their compensation practices to identi"
+   }
+  }
+ },
+ "tenKs": {
+  "0000032604-18-000044": {
+   "parserVersion": 1,
+   "employees": 87500
+  },
+  "0000032604-21-000038": {
+   "parserVersion": 1,
+   "employees": 45000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 22131000000,
+    "periodEnd": "2007-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001144204-09-061535"
+   },
+   "2008": {
+    "revenue": 23751000000,
+    "periodEnd": "2008-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001144204-10-063258"
+   },
+   "2009": {
+    "revenue": 20102000000,
+    "periodEnd": "2009-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001144204-11-066373"
+   },
+   "2010": {
+    "revenue": 21039000000,
+    "periodEnd": "2010-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000032604-12-000012"
+   },
+   "2011": {
+    "revenue": 24222000000,
+    "periodEnd": "2011-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000032604-12-000012"
+   },
+   "2012": {
+    "revenue": 24412000000,
+    "periodEnd": "2012-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000032604-12-000012"
+   },
+   "2013": {
+    "revenue": 24669000000,
+    "periodEnd": "2013-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000032604-15-000051"
+   },
+   "2014": {
+    "revenue": 17733000000,
+    "periodEnd": "2014-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000032604-16-000105"
+   },
+   "2015": {
+    "revenue": 16249000000,
+    "periodEnd": "2015-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000032604-17-000046"
+   },
+   "2016": {
+    "revenue": 14522000000,
+    "periodEnd": "2016-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000032604-18-000044"
+   },
+   "2017": {
+    "revenue": 15264000000,
+    "periodEnd": "2017-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000032604-19-000048"
+   },
+   "2018": {
+    "revenue": 17408000000,
+    "periodEnd": "2018-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000032604-20-000041"
+   },
+   "2019": {
+    "revenue": 18372000000,
+    "periodEnd": "2019-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000032604-21-000038"
+   },
+   "2020": {
+    "revenue": 16785000000,
+    "periodEnd": "2020-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000032604-22-000041"
+   },
+   "2021": {
+    "revenue": 12932000000,
+    "periodEnd": "2021-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000032604-23-000044"
+   },
+   "2022": {
+    "revenue": 13804000000,
+    "periodEnd": "2022-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000032604-24-000041"
+   },
+   "2023": {
+    "revenue": 15165000000,
+    "periodEnd": "2023-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000032604-25-000087"
+   },
+   "2024": {
+    "revenue": 17492000000,
+    "periodEnd": "2024-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000032604-26-000054"
+   },
+   "2025": {
+    "revenue": 18016000000,
+    "periodEnd": "2025-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000032604-26-000054"
+   },
+   "2026": {
+    "revenue": 18982000000,
+    "periodEnd": "2026-09-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000032604-26-000054"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000032604-26-000054",
+    "filingDate": "2026-11-09",
+    "reportDate": "2026-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260426000054/emr-20260930.htm"
+   },
+   {
+    "accession": "0000032604-25-000087",
+    "filingDate": "2025-11-10",
+    "reportDate": "2025-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260425000087/emr-20250930.htm"
+   },
+   {
+    "accession": "0000032604-24-000041",
+    "filingDate": "2024-11-12",
+    "reportDate": "2024-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260424000041/emr-20240930.htm"
+   },
+   {
+    "accession": "0000032604-23-000044",
+    "filingDate": "2023-11-13",
+    "reportDate": "2023-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260423000044/emr-20230930.htm"
+   },
+   {
+    "accession": "0000032604-22-000041",
+    "filingDate": "2022-11-14",
+    "reportDate": "2022-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260422000041/emr-20220930.htm"
+   },
+   {
+    "accession": "0000032604-21-000038",
+    "filingDate": "2021-11-15",
+    "reportDate": "2021-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260421000038/emr-20210930.htm"
+   },
+   {
+    "accession": "0000032604-20-000041",
+    "filingDate": "2020-11-16",
+    "reportDate": "2020-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260420000041/emr-20200930.htm"
+   },
+   {
+    "accession": "0000032604-19-000048",
+    "filingDate": "2019-11-18",
+    "reportDate": "2019-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260419000048/emr-09302019x10xk.htm"
+   },
+   {
+    "accession": "0000032604-18-000044",
+    "filingDate": "2018-11-19",
+    "reportDate": "2018-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260418000044/emr-09302018x10xk.htm"
+   },
+   {
+    "accession": "0000032604-17-000046",
+    "filingDate": "2017-11-20",
+    "reportDate": "2017-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260417000046/emr-09302017x10xk.htm"
+   }
+  ]
+ }
+}

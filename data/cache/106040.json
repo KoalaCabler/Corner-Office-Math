@@ -1,0 +1,378 @@
+{
+ "proxies": {
+  "0001628280-26-064909": {
+   "parserVersion": 1,
+   "filingDate": "2026-10-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026064909/wdc-20261005.htm",
+   "periodEnd": "2026-07-03",
+   "tenK": "0001628280-26-057139",
+   "result": {
+    "ceoPay": 17168701,
+    "medianPay": 11787,
+    "payRatio": 1457,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "lated the Median Compensated Employee's annual total compensation in the same manner as our CEO's total compensation is calculated and reported above in the \"Fiscal 2024-2026 Summary Compensation Table.\" The fiscal 2026 annual total compensation for the Median Compensated Employee was calculated at $11,787, and our CEO's annual total compensation was $17,168,701. The resulting ratio of annual total compensation of our CEO to our Median Compensated Employee for fiscal 2026 was 1,457 to 1. | | | | | | | | | | 66 | | 2026 Proxy Statement | | Western Digital | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Proxy Summary | | | Corporate Governance Matters | | | Executive Officers | | | Executive Compensat"
+   }
+  },
+  "0001628280-25-044298": {
+   "parserVersion": 1,
+   "filingDate": "2025-10-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828025044298/wdc-20251006.htm",
+   "periodEnd": "2025-06-27",
+   "tenK": "0000106040-25-000038",
+   "result": {
+    "ceoPay": 11547685,
+    "medianPay": 8740,
+    "payRatio": 1321,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "lated the Median Compensated Employee's annual total compensation in the same manner as our CEO's total compensation is calculated and reported above in the \"Fiscal 2023-2025 Summary Compensation Table.\" The fiscal 2025 annual total compensation for the Median Compensated Employee was calculated at $8,740, and our CEO's annual total compensation was $11,547,685. The resulting ratio of annual total compensation of our CEO to our Median Compensated Employee for fiscal 2025 was 1,321 to 1. Table of Contents | | | | | | | | | | | | | | Executive Compensation | | 71 | | | | | | Pay Versus Performance As required by Section 953(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(v) of Regulation S-K under the Exchange Act, we are providing the following information"
+   }
+  },
+  "0001308179-24-000755": {
+   "parserVersion": 1,
+   "filingDate": "2024-10-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000130817924000755/wdc4316471-def14a.htm",
+   "periodEnd": "2024-06-28",
+   "tenK": "0000106040-24-000031",
+   "result": {
+    "ceoPay": 17690772,
+    "medianPay": 10726,
+    "payRatio": 1649,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "lated the Median Compensated Employees annual total compensation in the same manner as our CEOs total compensation is calculated and reported above in the Fiscal 2022-2024 Summary Compensation Table. The fiscal 2024 annual total compensation for the Median Compensated Employee was calculated at $10,726, and our CEOs annual total compensation was $17,690,772. The resulting ratio of annual total compensation of our CEO to our Median Compensated Employee for fiscal 2024 was 1,649 to 1. Table of Contents | 68 | | | | Western Digital 2024 Proxy Statement | Pay Versus Performance As required by Section 953(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(v) of Regulation S-K under the Exchange Act, we are providing the following information about the relatio"
+   }
+  },
+  "0001193125-24-082058": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000119312524082058/d792833ddef14a.htm",
+   "periodEnd": "2023-06-30",
+   "tenK": "0000106040-23-000024",
+   "result": null
+  },
+  "0001308179-23-001017": {
+   "parserVersion": 1,
+   "filingDate": "2023-10-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000130817923001017/wdc4186171-def14a.htm",
+   "periodEnd": "2023-06-30",
+   "tenK": "0000106040-23-000024",
+   "result": {
+    "ceoPay": 11031692,
+    "medianPay": 11519,
+    "payRatio": 958,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "lated the Median Compensated Employees annual total compensation in the same manner as our CEOs total compensation is calculated and reported above in the Fiscal 2021-2023 Summary Compensation Table. The fiscal 2023 annual total compensation for the Median Compensated Employee was calculated at $11,519, and our CEOs annual total compensation was $11,031,692 (which, as discussed in footnote (2) to the Fiscal 2021-2023 Summary Compensation Table, does not reflect the grant date fair value for the entirety of the PSUs granted to our CEO in fiscal 2023 as a result of accounting principles applicable to the reporting of the PSUs). The resulting ratio of annual total compensation of our CEO to our Median Compensated Employee for fiscal 2023 was 958 to 1. Table of Contents | Executive Comp"
+   }
+  },
+  "0001206774-22-002479": {
+   "parserVersion": 1,
+   "filingDate": "2022-10-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000120677422002479/wdc3995541-def14a.htm",
+   "periodEnd": "2022-07-01",
+   "tenK": "0000106040-22-000055",
+   "result": {
+    "ceoPay": 32137338,
+    "medianPay": 9644,
+    "payRatio": 3332,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "Manufacturing, in Thailand. We calculated the Median Compensated Employee's annual total compensation in the same manner as our CEO as reported above in the \"Fiscal 2020-2022 Summary Compensation Table.\" The fiscal 2022 annual total compensation for the Median Compensated Employee was calculated at $9,644, and our CEO's annual total compensation was $32,137,338 (as reported in the Summary Compensation Table on page 62). Our CEO's fiscal 2022 annual total compensation includes an accounting expense of $7,841,770 associated with the amendment of his fiscal 2020 sign-on PSU award to eliminate the PSU award's performance condition. This amendment is discussed in the Compensation Discussion and Analysis on page 42. Therefore, the ratio of annual total compensation of our CEO to our median emplo"
+   }
+  },
+  "0001206774-21-002552": {
+   "parserVersion": 1,
+   "filingDate": "2021-10-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000120677421002552/wdc3885671-def14a.htm",
+   "periodEnd": "2021-07-02",
+   "tenK": "0000106040-21-000040",
+   "result": {
+    "ceoPay": 17093364,
+    "medianPay": 11292,
+    "payRatio": 1514,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "Manufacturing, in Thailand. We calculated the Median Compensated Employee's annual total compensation in the same manner as our CEO as reported above in the \"Fiscal 2019-2021 Summary Compensation Table.\" The fiscal 2021 annual total compensation for the Median Compensated Employee was calculated at $11,292, and our CEO's annual total compensation was $17,093,364 (as reported in the Summary Compensation Table on page 55). Therefore, the ratio of annual total compensation of our CEO to our median employee for fiscal 2021 was 1,514 to 1. | 2021 Proxy Statement | | | | 63 | Table of Contents EQUITY COMPENSATION PLAN INFORMATION The following table gives information with respect to our equity compensation plans as of July 2, 2021. These plans include our 2017 Performance Incentive Plan and 2005"
+   }
+  },
+  "0001206774-20-002833": {
+   "parserVersion": 1,
+   "filingDate": "2020-10-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000120677420002833/wdc3732061-def14a.htm",
+   "periodEnd": "2020-07-03",
+   "tenK": "0000106040-20-000049",
+   "result": {
+    "ceoPay": 38082355,
+    "medianPay": 7719,
+    "payRatio": 4934,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "laysia. We calculated the Median Compensated Employees annual total compensation in the same manner as our Chief Executive Officer as reported above in the Fiscal 20182020 Summary Compensation Table. The fiscal 2020 annual total compensation for the Median Compensated Employee was calculated at $7,719. Our Chief Executive Officers annual total compensation was $38,082,355 (as reported in the Fiscal 20182020 Summary Compensation Table, but with Mr. Goeckelers base salary, fiscal 2020 STI payout and company 401(k) match annualized to reflect the amounts he would have received if he had served for the entire fiscal year). Our Chief Executive Officers fiscal 2020 annual total compensation includes one-time transition awards that he received upon his appointment in March 2020, includi"
+   }
+  },
+  "0001206774-19-003336": {
+   "parserVersion": 1,
+   "filingDate": "2019-10-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000120677419003336/wdc3550481-def14a.htm",
+   "periodEnd": "2019-06-28",
+   "tenK": "0000106040-19-000058",
+   "result": {
+    "ceoPay": 12866469,
+    "medianPay": 10063,
+    "payRatio": 1279,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ailand. We calculated the Median Compensated Employees annual total compensation in the same manner as our Chief Executive Officer as reported above in the Fiscal 20172019 Summary Compensation Table. The fiscal 2019 annual total compensation for the Median Compensated Employee was calculated at $10,063, and our Chief Executive Officers annual total compensation was $12,866,469 (as reported in the Fiscal 20172019 Summary Compensation Table). Therefore, the ratio of annual total compensation of our Chief Executive Officer to our median employee for fiscal 2019 was 1,279 to 1. 2019 PROXY STATEMENT 75 Table of Contents Equity Compensation Plan Information The following table gives information with respect to our equity compensation plans as of June 28, 2019. These plans include our Non"
+   }
+  },
+  "0001206774-18-002861": {
+   "parserVersion": 1,
+   "filingDate": "2018-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/106040/000120677418002861/wdc3402761-def14a.htm",
+   "periodEnd": "2018-06-29",
+   "tenK": "0000106040-18-000029",
+   "result": {
+    "ceoPay": 19738381,
+    "medianPay": 10999,
+    "payRatio": 1795,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "Manufacturing in Thailand. We calculated the Median Compensated Employee's annual total compensation in the same manner as our Chief Executive Officer as reported in the Summary Compensation Table. The fiscal 2018 annual total compensation for Operator 1, Manufacturing in Thailand was calculated at $10,999, and our Chief Executive Officer's annual total compensation was $19,738,381 (as reported in the Summary Compensation Table on page 70). Therefore, the ratio of annual total compensation of our Chief Executive Officer to our median employee for fiscal 2018 was 1,795 to 1. 84 WESTERN DIGITAL Table of Contents Equity Compensation Plan Information The following table gives information with respect to our equity compensation plans as of June 29, 2018. These plans include our Non-Employee Dir"
+   }
+  }
+ },
+ "tenKs": {
+  "0000106040-18-000029": {
+   "parserVersion": 1,
+   "employees": 71600
+  },
+  "0000106040-19-000058": {
+   "parserVersion": 1,
+   "employees": 61800
+  },
+  "0000106040-20-000049": {
+   "parserVersion": 1,
+   "employees": 63800
+  },
+  "0000106040-21-000040": {
+   "parserVersion": 1,
+   "employees": 65600
+  },
+  "0000106040-22-000055": {
+   "parserVersion": 1,
+   "employees": 65000
+  },
+  "0000106040-23-000024": {
+   "parserVersion": 1,
+   "employees": 53000
+  },
+  "0000106040-24-000031": {
+   "parserVersion": 1,
+   "employees": 51000
+  },
+  "0000106040-25-000038": {
+   "parserVersion": 1,
+   "employees": 40000
+  },
+  "0001628280-26-057139": {
+   "parserVersion": 1,
+   "employees": 40000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 8074000000,
+    "periodEnd": "2008-06-27",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000950123-10-077390"
+   },
+   "2009": {
+    "revenue": 7453000000,
+    "periodEnd": "2009-07-03",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000950123-11-076255"
+   },
+   "2010": {
+    "revenue": 9850000000,
+    "periodEnd": "2010-07-02",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-12-361018"
+   },
+   "2011": {
+    "revenue": 9526000000,
+    "periodEnd": "2011-07-01",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-13-338607"
+   },
+   "2012": {
+    "revenue": 12478000000,
+    "periodEnd": "2012-06-29",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000106040-14-000015"
+   },
+   "2013": {
+    "revenue": 15351000000,
+    "periodEnd": "2013-06-28",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000106040-15-000010"
+   },
+   "2014": {
+    "revenue": 15130000000,
+    "periodEnd": "2014-06-27",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000106040-16-000033"
+   },
+   "2015": {
+    "revenue": 14572000000,
+    "periodEnd": "2015-07-03",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000106040-17-000027"
+   },
+   "2016": {
+    "revenue": 12994000000,
+    "periodEnd": "2016-07-01",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000106040-18-000029"
+   },
+   "2017": {
+    "revenue": 19093000000,
+    "periodEnd": "2017-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000106040-19-000058"
+   },
+   "2018": {
+    "revenue": 20647000000,
+    "periodEnd": "2018-06-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000106040-20-000049"
+   },
+   "2019": {
+    "revenue": 16569000000,
+    "periodEnd": "2019-06-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000106040-21-000040"
+   },
+   "2020": {
+    "revenue": 16736000000,
+    "periodEnd": "2020-07-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000106040-22-000055"
+   },
+   "2021": {
+    "revenue": 16922000000,
+    "periodEnd": "2021-07-02",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000106040-23-000024"
+   },
+   "2022": {
+    "revenue": 18793000000,
+    "periodEnd": "2022-07-01",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000106040-24-000031"
+   },
+   "2023": {
+    "revenue": 6255000000,
+    "periodEnd": "2023-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000106040-25-000038"
+   },
+   "2024": {
+    "revenue": 6317000000,
+    "periodEnd": "2024-06-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-057139"
+   },
+   "2025": {
+    "revenue": 9520000000,
+    "periodEnd": "2025-06-27",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-057139"
+   },
+   "2026": {
+    "revenue": 12919000000,
+    "periodEnd": "2026-07-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-057139"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-057139",
+    "filingDate": "2026-08-14",
+    "reportDate": "2026-07-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000162828026057139/wdc-20260703.htm"
+   },
+   {
+    "accession": "0000106040-25-000038",
+    "filingDate": "2025-08-14",
+    "reportDate": "2025-06-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604025000038/wdc-20250627.htm"
+   },
+   {
+    "accession": "0000106040-24-000031",
+    "filingDate": "2024-08-20",
+    "reportDate": "2024-06-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604024000031/wdc-20240628.htm"
+   },
+   {
+    "accession": "0000106040-23-000024",
+    "filingDate": "2023-08-22",
+    "reportDate": "2023-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604023000024/wdc-20230630.htm"
+   },
+   {
+    "accession": "0000106040-22-000055",
+    "filingDate": "2022-08-25",
+    "reportDate": "2022-07-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604022000055/wdc-20220701.htm"
+   },
+   {
+    "accession": "0000106040-21-000040",
+    "filingDate": "2021-08-27",
+    "reportDate": "2021-07-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604021000040/wdc-20210702.htm"
+   },
+   {
+    "accession": "0000106040-20-000049",
+    "filingDate": "2020-08-28",
+    "reportDate": "2020-07-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604020000049/wdc-20200703.htm"
+   },
+   {
+    "accession": "0000106040-19-000058",
+    "filingDate": "2019-08-27",
+    "reportDate": "2019-06-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604019000058/wdc-2019q410xkdoc.htm"
+   },
+   {
+    "accession": "0000106040-18-000029",
+    "filingDate": "2018-08-24",
+    "reportDate": "2018-06-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604018000029/wdc-2018q410xkdoc.htm"
+   },
+   {
+    "accession": "0000106040-17-000027",
+    "filingDate": "2017-08-29",
+    "reportDate": "2017-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/106040/000010604017000027/wdc-2017q410xkxdoc.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,112 @@
+{
+ "proxies": {
+  "0001967680-26-000016": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768026000016/vlto-20260326.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001967680-26-000011",
+   "result": {
+    "ceoPay": 14803238,
+    "medianPay": 64169,
+    "payRatio": 231,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ent methodologies, assumptions, adjustments and estimates that companies may apply as permitted under the SEC rules, this information should not be used as a basis for comparison between different companies. The annual total compensation of the median-paid employee on a worldwide basis for 2025 was $64,169. The annual total compensation of Ms. Honeycutt was $14,803,238, as reported in the Summary Compensation Table on page 70 . The ratio of the two amounts for 2025 is 231 to 1. | | | | | | | | | | 2026 PROXY STATEMENT | | | 83 | COMPENSATION TABLES AND INFORMATION Equity Compensation Plan Information The following table provides information as of December 31, 2025 regarding our equity compensation plans: | | | | | | | | | | | | | Plan Category | | Number of Securities to be Issued Upon Exe"
+   }
+  },
+  "0001967680-25-000058": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000058/vlto-20250326.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001967680-25-000008",
+   "result": {
+    "ceoPay": 11532426,
+    "medianPay": 58832,
+    "payRatio": 196,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ent methodologies, assumptions, adjustments and estimates that companies may apply as permitted under the SEC rules, this information should not be used as a basis for comparison between different companies. The annual total compensation of the median-paid employee on a worldwide basis for 2024 was $58,832. The annual total compensation of Ms. Honeycutt was $11,532,426, as reported in the Summary Compensation Table on page 60 . The ratio of the two amounts for 2024 is 196 to 1. | | | | | | | | | | 76 | | | 2025 PROXY STATEMENT | Summary of Employment Agreements and Plans Following is a description of (1) named executive officer employment-related agreements, and (2) the cash incentive compensation, equity compensation, non-qualified deferred compensation and severance pay plans in which Ve"
+   }
+  },
+  "0001967680-24-000046": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768024000046/vlto-20240327.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001967680-24-000033",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001967680-25-000008": {
+   "parserVersion": 1,
+   "employees": 17000
+  },
+  "0001967680-26-000011": {
+   "parserVersion": 1,
+   "employees": 17000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2021": {
+    "revenue": 4700000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001967680-24-000033"
+   },
+   "2022": {
+    "revenue": 4870000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001967680-25-000008"
+   },
+   "2023": {
+    "revenue": 5021000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001967680-26-000011"
+   },
+   "2024": {
+    "revenue": 5193000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001967680-26-000011"
+   },
+   "2025": {
+    "revenue": 5503000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001967680-26-000011"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001967680-26-000011",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768026000011/vlto-20251231.htm"
+   },
+   {
+    "accession": "0001967680-25-000008",
+    "filingDate": "2025-02-25",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000008/vlto-20241231.htm"
+   },
+   {
+    "accession": "0001967680-24-000033",
+    "filingDate": "2024-02-28",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768024000033/vlto-20231231.htm"
+   }
+  ]
+ }
+}

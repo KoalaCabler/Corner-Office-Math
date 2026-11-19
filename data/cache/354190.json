@@ -1,0 +1,329 @@
+{
+ "proxies": {
+  "0000354190-26-000101": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/354190/000035419026000101/ajg-20260323.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-008662",
+   "result": {
+    "ceoPay": 20745060,
+    "medianPay": 59957,
+    "payRatio": 346,
+    "method": "cross-checked",
+    "employees": 71911,
+    "statedYear": 2025,
+    "excerpt": "and Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of Pat Gallagher, our CEO, to the annual total compensation of the median compensated of all our other employees who were employed as of December 31, 2025. For 2025, Pat Gallagher's total compensation was $20,745,060 and the annual total compensation of our median compensated employee was $59,957. The ratio between these two amounts was 346 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusi"
+   }
+  },
+  "0000950170-25-043725": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/354190/000095017025043725/ajg-20250324.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-021775",
+   "result": {
+    "ceoPay": 17449043,
+    "medianPay": 58230,
+    "payRatio": 300,
+    "method": "cross-checked",
+    "employees": 55865,
+    "statedYear": 2024,
+    "excerpt": "and Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of Pat Gallagher, our CEO, to the annual total compensation of the median compensated of all our other employees who were employed as of December 31, 2024. For 2024, Pat Gallagher's total compensation was $17,449,043 and the annual total compensation of our median compensated employee was $58,230. The ratio between these two amounts was 300 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusi"
+   }
+  },
+  "0000950170-24-035183": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/354190/000095017024035183/ajg-20240322.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-013370",
+   "result": {
+    "ceoPay": 15496222,
+    "medianPay": 63485,
+    "payRatio": 244,
+    "method": "cross-checked",
+    "employees": 52155,
+    "statedYear": 2023,
+    "excerpt": "and Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of Pat Gallagher, our CEO, to the annual total compensation of the median compensated of all our other employees who were employed as of December 31, 2023. For 2023, Pat Gallagher's total compensation was $15,496,222 and the annual total compensation of our median compensated employee was $63,485. The ratio between these two amounts was 244 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusi"
+   }
+  },
+  "0001193125-23-079740": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/354190/000119312523079740/d777992ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000950170-23-002456",
+   "result": {
+    "ceoPay": 14194926,
+    "medianPay": 58776,
+    "payRatio": 242,
+    "method": "cross-checked",
+    "employees": 43636,
+    "statedYear": 2022,
+    "excerpt": "and Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of Pat Gallagher, our CEO, to the annual total compensation of the median compensated of all our other employees who were employed as of December 31, 2022. For 2022, Pat Gallagher's total compensation was $14,194,926 and the annual total compensation of our median compensated employee was $58,776. The ratio between these two amounts was 242 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusi"
+   }
+  },
+  "0001193125-22-081815": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/354190/000119312522081815/d245239ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001564590-22-005714",
+   "result": {
+    "ceoPay": 13882255,
+    "medianPay": 64135,
+    "payRatio": 216,
+    "method": "cross-checked",
+    "employees": 39531,
+    "statedYear": 2021,
+    "excerpt": "and Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of Pat Gallagher, our CEO, to the annual total compensation of the median compensated of all our other employees who were employed as of December 31, 2021. For 2021, Pat Gallaghers total compensation was $13,882,255 and the annual total compensation of our median compensated employee was $64,135. The ratio between these two amounts was 216 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusi"
+   }
+  },
+  "0001193125-21-087005": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/354190/000119312521087005/d92526ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-004555",
+   "result": {
+    "ceoPay": 11177460,
+    "medianPay": 62398,
+    "payRatio": 179,
+    "method": "cross-checked",
+    "employees": 32811,
+    "statedYear": 2020,
+    "excerpt": "and Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of Pat Gallagher, our CEO, to the annual total compensation of the median compensated of all our other employees who were employed as of December 31, 2020. For 2020, Pat Gallaghers total compensation was $11,177,460 and the annual total compensation of our median compensated employee was $62,398. The ratio between these two amounts was 179 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusi"
+   }
+  },
+  "0001193125-20-082511": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/354190/000119312520082511/d857229ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001193125-20-028191",
+   "result": {
+    "ceoPay": 8960616,
+    "medianPay": 56067,
+    "payRatio": 160,
+    "method": "cross-checked",
+    "employees": 35090,
+    "statedYear": 2019,
+    "excerpt": "and Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of Pat Gallagher, our CEO, to the annual total compensation of the median compensated of all our other employees who were employed as of December 31, 2019. For 2019, Pat Gallaghers total compensation was $8,960,616 and the annual total compensation of our median compensated employee was $56,067. The ratio between these two amounts was 160 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusio"
+   }
+  },
+  "0001193125-19-083672": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/354190/000119312519083672/d691227ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001193125-19-032304",
+   "result": {
+    "ceoPay": 8062954,
+    "medianPay": 64495,
+    "payRatio": 125,
+    "method": "cross-checked",
+    "employees": 31052,
+    "statedYear": 2018,
+    "excerpt": "and Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of Pat Gallagher, our CEO, to the annual total compensation of the median compensated of all our other employees who were employed as of December 31, 2018. For 2018, Pat Gallaghers total compensation was $8,062,954 and the annual total compensation of our median compensated employee was $64,495. The ratio between these two amounts was 125 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusio"
+   }
+  },
+  "0001193125-18-094143": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/354190/000119312518094143/d413430ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001193125-18-038261",
+   "result": {
+    "ceoPay": 7886491,
+    "medianPay": 62441,
+    "payRatio": 126,
+    "method": "cross-checked",
+    "employees": 27164,
+    "statedYear": 2017,
+    "excerpt": "and Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of Pat Gallagher, our CEO, to the annual total compensation of the median compensated of all our other employees who were employed as of December 31, 2017. For 2017, Pat Gallaghers total compensation was $7,886,491 and the annual total compensation of our median compensated employee was $62,441. The ratio between these two amounts was 126 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusio"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 1645000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-025625"
+   },
+   "2009": {
+    "revenue": 1729300000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-061292"
+   },
+   "2010": {
+    "revenue": 1864200000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-046126"
+   },
+   "2011": {
+    "revenue": 2134700000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-040834"
+   },
+   "2012": {
+    "revenue": 2520300000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-047308"
+   },
+   "2013": {
+    "revenue": 3179600000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-457703"
+   },
+   "2014": {
+    "revenue": 4626500000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-038619"
+   },
+   "2015": {
+    "revenue": 5392400000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-18-038261"
+   },
+   "2016": {
+    "revenue": 5680500000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-19-032304"
+   },
+   "2017": {
+    "revenue": 6249000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-20-028191"
+   },
+   "2018": {
+    "revenue": 6934000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-21-004555"
+   },
+   "2019": {
+    "revenue": 7195000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-22-005714"
+   },
+   "2020": {
+    "revenue": 7003600000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-23-002456"
+   },
+   "2021": {
+    "revenue": 8209400000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-24-013370"
+   },
+   "2022": {
+    "revenue": 8550600000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-25-021775"
+   },
+   "2023": {
+    "revenue": 10072000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008662"
+   },
+   "2024": {
+    "revenue": 11555000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008662"
+   },
+   "2025": {
+    "revenue": 13942000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008662"
+   }
+  },
+  "employeesTagged": {
+   "0001193125-13-046126": 706000
+  },
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-008662",
+    "filingDate": "2026-02-17",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/354190/000162828026008662/ajg-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-021775",
+    "filingDate": "2025-02-18",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/354190/000095017025021775/ajg-20241231.htm"
+   },
+   {
+    "accession": "0000950170-24-013370",
+    "filingDate": "2024-02-09",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/354190/000095017024013370/ajg-20231231.htm"
+   },
+   {
+    "accession": "0000950170-23-002456",
+    "filingDate": "2023-02-10",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/354190/000095017023002456/ajg-20221231.htm"
+   },
+   {
+    "accession": "0001564590-22-005714",
+    "filingDate": "2022-02-18",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/354190/000156459022005714/ajg-10k_20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-004555",
+    "filingDate": "2021-02-08",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/354190/000156459021004555/ajg-10k_20201231.htm"
+   },
+   {
+    "accession": "0001193125-20-028191",
+    "filingDate": "2020-02-07",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/354190/000119312520028191/d879025d10k.htm"
+   },
+   {
+    "accession": "0001193125-19-032304",
+    "filingDate": "2019-02-08",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/354190/000119312519032304/d618065d10k.htm"
+   },
+   {
+    "accession": "0001193125-18-038261",
+    "filingDate": "2018-02-12",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/354190/000119312518038261/d486069d10k.htm"
+   },
+   {
+    "accession": "0001193125-17-038619",
+    "filingDate": "2017-02-13",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/354190/000119312517038619/d314580d10k.htm"
+   }
+  ]
+ }
+}

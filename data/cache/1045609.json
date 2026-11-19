@@ -1,0 +1,321 @@
+{
+ "proxies": {
+  "0001193125-26-115132": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312526115132/d36709ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001193125-26-051453",
+   "result": {
+    "ceoPay": 24999873,
+    "medianPay": 141121,
+    "payRatio": 177,
+    "method": "cross-checked",
+    "employees": 2802,
+    "statedYear": 2025,
+    "excerpt": "the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Moghadam: For 2025, our last completed fiscal year: | | | l | | | | the annual total compensation of the employee identified at the median of our company as of December 31, 2025 (other than the CEO) was $141,121; and | | | | | | l | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this Proxy Statement, was $24,999,873. | | | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 177 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology d"
+   }
+  },
+  "0001193125-25-067058": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312525067058/d893144ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-021272",
+   "result": {
+    "ceoPay": 24851777,
+    "medianPay": 123745,
+    "payRatio": 201,
+    "method": "cross-checked",
+    "employees": 2703,
+    "statedYear": 2024,
+    "excerpt": "he annual total compensation of our employees and the annual total compensation of our CEO, Mr. Moghadam: For 2024, our last completed fiscal year: | | | l | | | | the annual total compensation of the employee identified at the median of our company as of December 31, 2024, (other than the CEO) was $123,745; and | | | | | | l | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this Proxy Statement, was $24,851,777. | | | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 201 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology d"
+   }
+  },
+  "0001193125-24-081522": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312524081522/d550115ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-014539",
+   "result": {
+    "ceoPay": 50891597,
+    "medianPay": 127272,
+    "payRatio": 400,
+    "method": "cross-checked",
+    "employees": 2574,
+    "statedYear": 2023,
+    "excerpt": "he annual total compensation of our employees and the annual total compensation of our CEO, Mr. Moghadam: For 2023, our last completed fiscal year: | | | l | | | | the annual total compensation of the employee identified at the median of our company as of December 31, 2023, (other than the CEO) was $127,272; and | | | | | | l | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this Proxy Statement, was $50,891,597. | | | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 400 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology d"
+   }
+  },
+  "0001193125-23-079100": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312523079100/d412709ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001564590-23-001902",
+   "result": {
+    "ceoPay": 48152756,
+    "medianPay": 119453,
+    "payRatio": 403,
+    "method": "cross-checked",
+    "employees": 2466,
+    "statedYear": 2022,
+    "excerpt": "he annual total compensation of our employees and the annual total compensation of our CEO, Mr. Moghadam: For 2022, our last completed fiscal year: | | | · | | | | the annual total compensation of the employee identified at the median of our company as of December 31, 2022, (other than the CEO) was $119,453; and | | | | | | · | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this proxy statement, was $48,152,756. | | | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 403 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology d"
+   }
+  },
+  "0001193125-22-084696": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312522084696/d211943ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001564590-22-004436",
+   "result": {
+    "ceoPay": 24901490,
+    "medianPay": 114183,
+    "payRatio": 218,
+    "method": "cross-checked",
+    "employees": 2053,
+    "statedYear": 2021,
+    "excerpt": "he annual total compensation of our employees and the annual total compensation of our CEO, Mr. Moghadam: For 2021, our last completed fiscal year: | | | · | | | | the annual total compensation of the employee identified at the median of our company as of December 31, 2021, (other than the CEO) was $114,183; and | | | | | | · | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this Proxy Statement, was $24,901,490. | | | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 218 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology d"
+   }
+  },
+  "0001193125-21-086648": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312521086648/d33564ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-005312",
+   "result": {
+    "ceoPay": 34432677,
+    "medianPay": 104192,
+    "payRatio": 330,
+    "method": "cross-checked",
+    "employees": 1937,
+    "statedYear": 2020,
+    "excerpt": "the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Moghadam: For 2020, our last completed fiscal year: | | | · | | | | the annual total compensation of the employee identified at the median of our company as of December 31, 2020 (other than the CEO) was $104,192; and | | | | | | · | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this Proxy Statement, was $34,432,677. | | | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 330 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology d"
+   }
+  },
+  "0001193125-20-079840": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312520079840/d849274ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-004096",
+   "result": {
+    "ceoPay": 30383438,
+    "medianPay": 117751,
+    "payRatio": 258,
+    "method": "cross-checked",
+    "employees": 1617,
+    "statedYear": 2019,
+    "excerpt": "of the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Moghadam: For 2019, our last completed fiscal year: | ■ | | | | the annual total compensation of the employee identified at the median of our company as of December 31, 2019 (other than the CEO) was $117,751; and | | ■ | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this Proxy Statement, was $30,383,438. | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 258 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described bel"
+   }
+  },
+  "0001193125-19-083480": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312519083480/d692980ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001564590-19-002872",
+   "result": {
+    "ceoPay": 28201400,
+    "medianPay": 115368,
+    "payRatio": 244,
+    "method": "cross-checked",
+    "employees": 1617,
+    "statedYear": 2018,
+    "excerpt": "the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Moghadam: For 2018, our last completed fiscal year: | | | ■ | | | | the annual total compensation of the employee identified at the median of our company as of December 31, 2018 (other than the CEO) was $115,368; and | | | | ■ | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this Proxy Statement, was $28,201,400. | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 244 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described"
+   }
+  },
+  "0001193125-18-092554": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312518092554/d652603ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001564590-18-002228",
+   "result": {
+    "ceoPay": 19352127,
+    "medianPay": 94915,
+    "payRatio": 204,
+    "method": "cross-checked",
+    "employees": 1562,
+    "statedYear": 2017,
+    "excerpt": "the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Moghadam: For 2017, our last completed fiscal year: | | | ¾ | | | | the annual total compensation of the employee identified at the median of our company as of December 31, 2017 (other than the CEO) was $94,915; and | | | | ¾ | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this Proxy Statement, was $19,352,127. | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 204 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 1027171000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001193125-12-087643"
+   },
+   "2010": {
+    "revenue": 840152000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001193125-13-081863"
+   },
+   "2011": {
+    "revenue": 1421771000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001193125-14-070012"
+   },
+   "2012": {
+    "revenue": 1960518000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001193125-15-062622"
+   },
+   "2013": {
+    "revenue": 1750486000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001564590-16-012933"
+   },
+   "2014": {
+    "revenue": 1760787000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001564590-17-001559"
+   },
+   "2015": {
+    "revenue": 2197074000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001564590-18-002228"
+   },
+   "2016": {
+    "revenue": 2533135000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-19-002872"
+   },
+   "2017": {
+    "revenue": 2618134000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-20-004096"
+   },
+   "2018": {
+    "revenue": 2804449000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-21-005312"
+   },
+   "2019": {
+    "revenue": 3330621000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-22-004436"
+   },
+   "2020": {
+    "revenue": 4438735000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-23-001902"
+   },
+   "2021": {
+    "revenue": 4759440000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-24-014539"
+   },
+   "2022": {
+    "revenue": 5973692000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-25-021272"
+   },
+   "2023": {
+    "revenue": 8023469000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-051453"
+   },
+   "2024": {
+    "revenue": 8201610000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-051453"
+   },
+   "2025": {
+    "revenue": 8790127000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-051453"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-051453",
+    "filingDate": "2026-02-13",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312526051453/pld-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-021272",
+    "filingDate": "2025-02-14",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045609/000095017025021272/pld-20241231.htm"
+   },
+   {
+    "accession": "0000950170-24-014539",
+    "filingDate": "2024-02-13",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045609/000095017024014539/pld-20231231.htm"
+   },
+   {
+    "accession": "0001564590-23-001902",
+    "filingDate": "2023-02-14",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045609/000156459023001902/pld-10k_20221231.htm"
+   },
+   {
+    "accession": "0001564590-22-004436",
+    "filingDate": "2022-02-09",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045609/000156459022004436/pld-10k_20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-005312",
+    "filingDate": "2021-02-11",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045609/000156459021005312/pld-10k_20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-004096",
+    "filingDate": "2020-02-11",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045609/000156459020004096/pld-10k_20191231.htm"
+   },
+   {
+    "accession": "0001564590-19-002872",
+    "filingDate": "2019-02-13",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045609/000156459019002872/pld-10k_20181231.htm"
+   },
+   {
+    "accession": "0001564590-18-002228",
+    "filingDate": "2018-02-15",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045609/000156459018002228/pld-10k_20171231.htm"
+   },
+   {
+    "accession": "0001564590-17-001559",
+    "filingDate": "2017-02-15",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045609/000156459017001559/pld-10k_20161231.htm"
+   }
+  ]
+ }
+}

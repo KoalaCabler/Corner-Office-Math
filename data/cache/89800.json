@@ -1,0 +1,366 @@
+{
+ "proxies": {
+  "0000089800-26-000025": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/89800/000008980026000025/shw-20260310.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000089800-26-000008",
+   "result": {
+    "ceoPay": 14914317,
+    "medianPay": 60049,
+    "payRatio": 248,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "Petz, the 2025 annual total compensation of our median employee, and the ratio of these amounts. We calculated the annual total compensation for both Ms. Petz and our median employee using the same methodology that is used for the Summary Compensation Table. • Ms. Petz's annual total compensation - $14,914,317 • Our median employee's annual total compensation - $60,049 • Ratio of Ms. Petz's annual total compensation to our median employee's annual total compensation - 248 :1 Consistent with Instruction 2 to Item 402(u) of Regulation S-K, the applicable SEC rule, we may identify our median employee for purposes of providing pay ratio disclosure once every three years and calculate and disclose total compensation for that employee each year in the subsequent three -year period, provided that"
+   }
+  },
+  "0001193125-25-047877": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/89800/000119312525047877/d873603ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000089800-25-000030",
+   "result": {
+    "ceoPay": 12992297,
+    "medianPay": 56120,
+    "payRatio": 232,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "annual total compensation of our median employee, and the ratio of these amounts. We calculated the annual total compensation for both Ms. Petz and our median employee using the same methodology that is used for the Summary Compensation Table. | | | • | | | | Ms. Petz's annual total compensation - $12,992,297 | | | | • | | | | Our median employee's annual total compensation - $56,120 | | | | • | | | | Ratio of Ms. Petz's annual total compensation to our median employee's annual total compensation - 232:1 | Consistent with Instruction 2 to Item 402(u) of Regulation S-K, the applicable SEC rule, we may identify our median employee for purposes of providing pay ratio disclosure once every three years and calculate and disclose total compensation for that employee each year in the subsequent"
+   }
+  },
+  "0001193125-24-060015": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/89800/000119312524060015/d608274ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000089800-24-000033",
+   "result": {
+    "ceoPay": 19281779,
+    "medianPay": 49745,
+    "payRatio": 388,
+    "method": "cross-checked",
+    "employees": 61496,
+    "statedYear": 2023,
+    "excerpt": "al total compensation of our median employee, and the ratio of these amounts. We calculated the annual total compensation for both Mr. Morikis and our median employee using the same methodology that is used for the Summary Compensation Table. | | | • | | | | Mr. Morikis' annual total compensation - $19,281,779 | | | | • | | | | Our median employee's annual total compensation - $49,745 | | | | • | | | | Ratio of Mr. Morikis' annual total compensation to our median employee's annual total compensation - 388:1 | Consistent with Instruction 2 to Item 402(u) of Regulation S-K, the applicable SEC rule, we may identify our median employee for purposes of providing pay ratio disclosure once every three years and calculate and disclose total compensation for that employee each year in the subsequen"
+   }
+  },
+  "0001193125-23-063893": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/89800/000119312523063893/d405996ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000089800-23-000007",
+   "result": {
+    "ceoPay": 12749910,
+    "medianPay": 44211,
+    "payRatio": 288,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "al total compensation of our median employee, and the ratio of these amounts. We calculated the annual total compensation for both Mr. Morikis and our median employee using the same methodology that is used for the Summary Compensation Table. | | | • | | | | Mr. Morikis' annual total compensation - $12,749,910 | | | | • | | | | Our median employee's annual total compensation - $44,211 | | | | • | | | | Ratio of Mr. Morikis' annual total compensation to our median employee's annual total compensation - 288:1 | We may identify our median employee for purposes of providing pay ratio disclosure once every three years and calculate and disclose total compensation for that employee each year; provided that, during the last completed fiscal year, there has been no change in the employee populatio"
+   }
+  },
+  "0001193125-22-070018": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/89800/000119312522070018/d241059ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000089800-22-000007",
+   "result": {
+    "ceoPay": 15843760,
+    "medianPay": 43321,
+    "payRatio": 366,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "al total compensation of our median employee, and the ratio of these amounts. We calculated the annual total compensation for both Mr. Morikis and our median employee using the same methodology that is used for the Summary Compensation Table. | | |  | | | | Mr. Morikis annual total compensation  $15,843,760 | | | |  | | | | Our median employees annual total compensation  $43,321 | | | |  | | | | Ratio of Mr. Morikis annual total compensation to our median employees annual total compensation  366:1 | For this pay ratio analysis of our employee population and to determine our median employee, we used November 1, 2021 as the determination date, which was within the last three months of our 2021 fiscal year. At November 1, 2021, we employed 61,496 persons in 58 countries, including 5"
+   }
+  },
+  "0001193125-21-075577": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/89800/000119312521075577/d90500ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000089800-21-000010",
+   "result": {
+    "ceoPay": 15323284,
+    "medianPay": 46839,
+    "payRatio": 327,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "as the ratio of their respective annual total compensation to each other (in each case, with annual total compensation calculated using the same methodology that is used for the Summary Compensation Table). The values are as follows for 2020: | | |  | | | | Mr. Morikis annual total compensation  $15,323,284 | | | |  | | | | Our median employees annual total compensation  $46,839 | | | |  | | | | Ratio of Mr. Morikis annual total compensation to our median employees annual total compensation  327:1 | We may identify our median employee for purposes of providing pay ratio disclosure once every three years and calculate and disclose total compensation for that employee each year; provided that, during the last completed fiscal year, there has been no change in the employee populatio"
+   }
+  },
+  "0001193125-20-066740": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/89800/000119312520066740/d85571ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000089800-20-000005",
+   "result": {
+    "ceoPay": 14854731,
+    "medianPay": 42590,
+    "payRatio": 349,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "e annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Summary Compensation Table). The values are as follows for 2019, our last completed fiscal year: | | |  | | | | Mr. Morikis annual total compensation  $14,854,731 | | | |  | | | | Our median employees annual total compensation  $42,590 | | | |  | | | | Ratio of Mr. Morikis annual total compensation to our median employees annual total compensation  349:1 | Consistent with Instruction 2 to Item 402(u) of Regulation S-K, the applicable SEC rule, we may identify our median employee for purposes of providing pay ratio disclosure once every three years and calculate and disclose total compensation for that employee each year; provided that,"
+   }
+  },
+  "0001193125-19-064831": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/89800/000119312519064831/d633941ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000089800-19-000004",
+   "result": {
+    "ceoPay": 13213749,
+    "medianPay": 42447,
+    "payRatio": 311,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "e annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Summary Compensation Table). The values are as follows for 2018, our last completed fiscal year: | | |  | | | | Mr. Morikis annual total compensation  $13,213,749 | | | |  | | | | Our median employees annual total compensation  $42,447 | | | |  | | | | Ratio of Mr. Morikis annual total compensation to our median employees annual total compensation  311:1 | SEC rules allow us to select a methodology for identifying our median employee in a manner that is most appropriate based on our size, organizational structure and compensation plans, policies and procedures. Consistent with Instruction 2 to Item 402(u) of Regulation S-K, the applicab"
+   }
+  },
+  "0001193125-18-073008": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/89800/000119312518073008/d492665ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000089800-18-000004",
+   "result": {
+    "ceoPay": 13513194,
+    "medianPay": 41827,
+    "payRatio": 323,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "e annual total compensation to each other (in each case, with annual total compensation calculated in accordance with SEC rules applicable to the Summary Compensation Table). The values are as follows for 2017, our last completed fiscal year: | | |  | | | | Mr. Morikis annual total compensation  $13,513,194 | | | |  | | | | Our median employees annual total compensation  $41,827 | | | |  | | | | Ratio of Mr. Morikis annual total compensation to our median employees annual total compensation  323:1 | Pay Ratio Methodology. SEC rules allow us to select a methodology for identifying our median employee in a manner that is most appropriate based on our size, organizational structure and compensation plans, policies and procedures. In determining our median employee, we chose November"
+   }
+  }
+ },
+ "tenKs": {
+  "0000089800-18-000004": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000089800-19-000004": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000089800-20-000005": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000089800-21-000010": {
+   "parserVersion": 1,
+   "employees": 61031
+  },
+  "0000089800-22-000007": {
+   "parserVersion": 1,
+   "employees": 61626
+  },
+  "0000089800-23-000007": {
+   "parserVersion": 1,
+   "employees": 64366
+  },
+  "0000089800-25-000030": {
+   "parserVersion": 1,
+   "employees": 63890
+  },
+  "0000089800-26-000008": {
+   "parserVersion": 1,
+   "employees": 64249
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 8005292000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-10-016198"
+   },
+   "2008": {
+    "revenue": 7979727000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-017092"
+   },
+   "2009": {
+    "revenue": 7094249000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-017092"
+   },
+   "2010": {
+    "revenue": 7776424000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-017092"
+   },
+   "2011": {
+    "revenue": 8766000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000089800-14-000045"
+   },
+   "2012": {
+    "revenue": 9534462000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000089800-15-000004"
+   },
+   "2013": {
+    "revenue": 10186000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000089800-16-000026"
+   },
+   "2014": {
+    "revenue": 11130000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000089800-17-000005"
+   },
+   "2015": {
+    "revenue": 11339304000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000089800-18-000004"
+   },
+   "2016": {
+    "revenue": 11855602000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000089800-19-000004"
+   },
+   "2017": {
+    "revenue": 14983800000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000089800-20-000005"
+   },
+   "2018": {
+    "revenue": 17534500000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000089800-20-000005"
+   },
+   "2019": {
+    "revenue": 17900800000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000089800-20-000005"
+   },
+   "2020": {
+    "revenue": 18361700000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000089800-23-000007"
+   },
+   "2021": {
+    "revenue": 19944600000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000089800-24-000033"
+   },
+   "2022": {
+    "revenue": 22148900000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000089800-25-000030"
+   },
+   "2023": {
+    "revenue": 23051900000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000089800-26-000008"
+   },
+   "2024": {
+    "revenue": 23098500000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000089800-26-000008"
+   },
+   "2025": {
+    "revenue": 23574300000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000089800-26-000008"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000089800-26-000008",
+    "filingDate": "2026-02-19",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/89800/000008980026000008/shw-20251231.htm"
+   },
+   {
+    "accession": "0000089800-25-000030",
+    "filingDate": "2025-02-20",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/89800/000008980025000030/shw-20241231.htm"
+   },
+   {
+    "accession": "0000089800-24-000033",
+    "filingDate": "2024-02-20",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/89800/000008980024000033/shw-20231231.htm"
+   },
+   {
+    "accession": "0000089800-23-000007",
+    "filingDate": "2023-02-22",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/89800/000008980023000007/shw-20221231.htm"
+   },
+   {
+    "accession": "0000089800-22-000007",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/89800/000008980022000007/shw-20211231.htm"
+   },
+   {
+    "accession": "0000089800-21-000010",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/89800/000008980021000010/shw-20201231.htm"
+   },
+   {
+    "accession": "0000089800-20-000005",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/89800/000008980020000005/shw-12312019x10k.htm"
+   },
+   {
+    "accession": "0000089800-19-000004",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/89800/000008980019000004/shw-12312018x10k.htm"
+   },
+   {
+    "accession": "0000089800-18-000004",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/89800/000008980018000004/shw-12312017x10k.htm"
+   },
+   {
+    "accession": "0000089800-17-000005",
+    "filingDate": "2017-02-22",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/89800/000008980017000005/shw-12312016x10k.htm"
+   }
+  ]
+ }
+}

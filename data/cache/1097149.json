@@ -1,0 +1,338 @@
+{
+ "proxies": {
+  "0001097149-26-000023": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000023/algn-20260407.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001097149-26-000014",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 31454,
+    "payRatio": 610,
+    "method": "ratio-and-median",
+    "employees": 20383,
+    "statedYear": 2025,
+    "excerpt": "s methodology, we determined that our median employee was a Supervisor, Tool Crib, working in our manufacturing facility in Juarez, Mexico. Our median employee compensation for a Supervisor, Tool Crib position in Juarez, Mexico in 2025 as calculated using Summary Compensation Table requirements was $31,454. Our CEO's compensation as reported in the Summary Compensation Table was 19,193,988. Therefore, our CEO to median employee pay ratio is 610 to 1. This information is being provided for compliance purposes. Neither our Compensation and Human Capital Committee nor our executive management used the pay ratio measure in making compensation decisions. 88 Pay Versus Performance In accordance with rules adopted by the SEC pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Ac"
+   }
+  },
+  "0001097149-25-000021": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000021/algn-20250407.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001097149-25-000012",
+   "result": {
+    "ceoPay": 27321179,
+    "medianPay": 24348,
+    "payRatio": 1122,
+    "method": "cross-checked",
+    "employees": 21096,
+    "statedYear": 2024,
+    "excerpt": "is methodology, we determined that our median employee was a Supervisor, Tool Crib working in our manufacturing facility in Juarez, Mexico. Our median employee compensation for a Supervisor, Tool Crib position in Juarez, Mexico in 2024 as calculated using Summary Compensation Table requirements was $24,348. Our CEO's compensation as reported in the Summary Compensation Table was $27,321,179. Therefore, our CEO to median employee pay ratio is 1,122 to 1. This information is being provided for compliance purposes. Neither our Compensation and Human Capital Committee nor our executive management used the pay ratio measure in making compensation decisions. 90 Pay Versus Performance In accordance with rules adopted by the SEC pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection"
+   }
+  },
+  "0001097149-24-000018": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714924000018/algn-20240409.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001097149-24-000011",
+   "result": {
+    "ceoPay": 28952411,
+    "medianPay": 22781,
+    "payRatio": 1271,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "to each of the NEOs. Using this methodology, we determined that our median employee was a CAD Designer 3 working in our treat facility in Costa Rica. Our median employee compensation for a CAD Designer 3 position in Costa Rica in 2023 as calculated using Summary Compensation Table requirements was $22,781. Our CEO's compensation as reported in the Summary Compensation Table was $28,952,411. Therefore, our CEO to median employee pay ratio is 1,271 to 1. This information is being provided for compliance purposes. Neither our Compensation and Human Capital Committee nor our executive management used the pay ratio measure in making compensation decisions. | | | | | | | 80 | | | Pay Versus Performance In accordance with rules adopted by the SEC pursuant to the Dodd-Frank Wall Street Reform and"
+   }
+  },
+  "0001097149-23-000029": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714923000029/algn-20230404.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001097149-23-000013",
+   "result": {
+    "ceoPay": 18684044,
+    "medianPay": 18215,
+    "payRatio": 1026,
+    "method": "cross-checked",
+    "employees": 23295,
+    "statedYear": 2022,
+    "excerpt": "to each of the NEOs. Using this methodology, we determined that our median employee was a CAD Designer 2 working in our treat facility in Costa Rica. Our median employee compensation for a CAD Designer 2 position in Costa Rica in 2022 as calculated using Summary Compensation Table requirements was $18,215. Our CEO's compensation as reported in the Summary Compensation Table was $18,684,044. Therefore, our CEO to median employee pay ratio is 1,026 to 1. This information is being provided for compliance purposes. Neither our Human Capital Committee nor our executive management used the pay ratio measure in making compensation decisions. Pay Versus Performance We provide the following disclosure regarding executive compensation for our principal executive officer (\"PEO\") and Non-PEO named ex"
+   }
+  },
+  "0001097149-22-000015": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714922000015/algn-20211231xdef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001097149-22-000011",
+   "result": {
+    "ceoPay": 21591400,
+    "medianPay": 13011,
+    "payRatio": 1659,
+    "method": "cross-checked",
+    "employees": 22687,
+    "statedYear": 2021,
+    "excerpt": "ion is the same calculation used to determine total compensation for purposes of the 2021 Summary Compensation Table with respect to each of the NEOs. Our median employee compensation for a CAD Designer 2 position in Costa Rica in 2021 as calculated using Summary Compensation Table requirements was $13,011. Our CEO's compensation as reported in the Summary Compensation Table was $21,591,400. Therefore, our CEO to median employee pay ratio is 1,659 to 1. This information is being provided for compliance purposes. Neither our Compensation Committee nor our senior management used the pay ratio measure in making compensation decisions. 57 CORPORATE RESPONSIBILITY Our purpose is to transform smiles and change lives. This is at the heart of who we are as an organization, making us critically awa"
+   }
+  },
+  "0001097149-21-000018": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714921000018/algn-20201231xdef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001097149-21-000007",
+   "result": {
+    "ceoPay": 15522289,
+    "medianPay": 11961,
+    "payRatio": 1298,
+    "method": "cross-checked",
+    "employees": 18178,
+    "statedYear": 2020,
+    "excerpt": "is the same calculation used to determine total compensation for purposes of the 2020 Summary Compensation Table with respect to each of the NEOs. 57 Our median employee compensation for a CAD Designer 2 position in Costa Rica in 2020 as calculated using Summary Compensation Table requirements was $11,961. Our CEO's compensation as reported in the Summary Compensation Table was $15,522,289. Therefore, our CEO to median employee pay ratio is 1,298 to 1. This information is being provided for compliance purposes. Neither the Compensation Committee nor management of the Company used the pay ratio measure in making compensation decisions. 58 CORPORATE SOCIAL RESPONSIBILITY Our purpose as an organization is to transform smiles and change lives and it is the purpose that is the heart of who we"
+   }
+  },
+  "0001097149-20-000016": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714920000016/algn-20191231xdef.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001097149-20-000008",
+   "result": {
+    "ceoPay": 18269139,
+    "medianPay": 13756,
+    "payRatio": 1328,
+    "method": "cross-checked",
+    "employees": 14620,
+    "statedYear": 2019,
+    "excerpt": "lation is the same calculation used to determine total compensation for purposes of the 2019 Summary Compensation Table with respect to each of the NEOs. Our median employee compensation for a CAD Designer 2 position in Costa Rica 2019 as calculated using Summary Compensation Table requirements was $13,756. Our CEO's compensation as reported in the Summary Compensation Table was $18,269,139. Therefore, our CEO to median employee pay ratio is 1,328 to 1. This information is being provided for compliance purposes. Neither the Compensation Committee nor management of the Company used the pay ratio measure in making compensation decisions. CORPORATE SOCIAL RESPONSIBILITY Our Board and management are committed to improving the lives of our employees, customer, patients, stockholders, and the co"
+   }
+  },
+  "0001097149-19-000012": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714919000012/algn-20181231xdef.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001097149-19-000009",
+   "result": {
+    "ceoPay": 41758338,
+    "medianPay": 13180,
+    "payRatio": 3168,
+    "method": "cross-checked",
+    "employees": 11710,
+    "statedYear": 2018,
+    "excerpt": "ompensation disclosure rules. This calculation is the same calculation used to determine total compensation for purposes of the 2018 Summary Compensation Table with respect to each of the NEOs. Our median employee compensation for 2018 as calculated using Summary Compensation Table requirements was $13,180, which is competitive pay for a associate engineer position in Mexico. Our CEO's compensation as reported in the Summary Compensation Table was $41,758,338. Therefore, our CEO to median employee pay ratio is 3,168 to 1. Excluding the one-time special equity award of MSUs discussed above under the heading \"CEO Special Equity Award\", Mr. Hogan's 2018 total compensation would be $14,185,975 and the Pay Ratio would be 1,076 to 1. This information is being provided for compliance purposes. Ne"
+   }
+  },
+  "0001097149-18-000015": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714918000015/algn-20171231xdef.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001097149-18-000010",
+   "result": {
+    "ceoPay": 11744047,
+    "medianPay": 12764,
+    "payRatio": 920,
+    "method": "cross-checked",
+    "employees": 8736,
+    "statedYear": 2017,
+    "excerpt": "ecutive compensation disclosure rules. This calculation is the same calculation used to determine total compensation for purposes of the 2017 Summary Compensation Table with respect to each of the NEOs. Our median employee compensation as calculated using Summary Compensation Table requirements was $12,764, which is competitive pay for a technician position in Costa Rica. Our CEO's compensation as reported in the Summary Compensation Table was $11,744,047. Therefore, our CEO to median employee pay ratio is 920:1. This information is being provided for compliance purposes. Neither the Compensation Committee nor management of the company used the pay ratio measure in making compensation decisions. PRINCIPAL STOCKHOLDERS Except as otherwise noted in the footnotes to the following table, the i"
+   }
+  }
+ },
+ "tenKs": {
+  "0001097149-24-000011": {
+   "parserVersion": 1,
+   "employees": 21610
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 303976000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-044951"
+   },
+   "2009": {
+    "revenue": 312333000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-044951"
+   },
+   "2010": {
+    "revenue": 387126000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-044951"
+   },
+   "2011": {
+    "revenue": 479741000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001445305-14-000789"
+   },
+   "2012": {
+    "revenue": 560041000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001097149-15-000005"
+   },
+   "2013": {
+    "revenue": 660206000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001097149-16-000031"
+   },
+   "2014": {
+    "revenue": 761653000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001097149-17-000009"
+   },
+   "2015": {
+    "revenue": 845486000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001097149-18-000010"
+   },
+   "2016": {
+    "revenue": 1079874000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097149-19-000009"
+   },
+   "2017": {
+    "revenue": 1473413000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097149-20-000008"
+   },
+   "2018": {
+    "revenue": 1966492000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097149-21-000007"
+   },
+   "2019": {
+    "revenue": 2406796000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097149-22-000011"
+   },
+   "2020": {
+    "revenue": 2471941000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097149-23-000013"
+   },
+   "2021": {
+    "revenue": 3952584000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097149-24-000011"
+   },
+   "2022": {
+    "revenue": 3734635000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097149-25-000012"
+   },
+   "2023": {
+    "revenue": 3862260000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097149-26-000014"
+   },
+   "2024": {
+    "revenue": 3999012000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097149-26-000014"
+   },
+   "2025": {
+    "revenue": 4034964000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097149-26-000014"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 21591400,
+   "2022": 18684044,
+   "2023": 28952411,
+   "2024": 27321179,
+   "2025": 19193988
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001097149-26-000014",
+    "filingDate": "2026-02-27",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000014/algn-20251231.htm"
+   },
+   {
+    "accession": "0001097149-25-000012",
+    "filingDate": "2025-02-28",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000012/algn-20241231.htm"
+   },
+   {
+    "accession": "0001097149-24-000011",
+    "filingDate": "2024-02-28",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714924000011/algn-20231231.htm"
+   },
+   {
+    "accession": "0001097149-23-000013",
+    "filingDate": "2023-02-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714923000013/algn-20221231.htm"
+   },
+   {
+    "accession": "0001097149-22-000011",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714922000011/algn-20211231.htm"
+   },
+   {
+    "accession": "0001097149-21-000007",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714921000007/algn-20201231.htm"
+   },
+   {
+    "accession": "0001097149-20-000008",
+    "filingDate": "2020-02-28",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714920000008/algn-20191231x10k.htm"
+   },
+   {
+    "accession": "0001097149-19-000009",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714919000009/algn-20181231x10k.htm"
+   },
+   {
+    "accession": "0001097149-18-000010",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714918000010/algn-20171231x10k.htm"
+   },
+   {
+    "accession": "0001097149-17-000009",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714917000009/algn-20161231x10k.htm"
+   }
+  ]
+ }
+}

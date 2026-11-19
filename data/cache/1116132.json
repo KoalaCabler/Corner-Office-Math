@@ -1,0 +1,376 @@
+{
+ "proxies": {
+  "0001116132-26-000024": {
+   "parserVersion": 1,
+   "filingDate": "2026-09-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000024/tpr-20260924.htm",
+   "periodEnd": "2026-06-27",
+   "tenK": "0001116132-26-000018",
+   "result": {
+    "ceoPay": 18986397,
+    "medianPay": 31573,
+    "payRatio": 601,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "for our consistently applied compensation measure is substantially similar to the original median employee's compensation. We determined the following in compliance with the requirements set forth in Item 402(u) of Regulation S-K: • The total fiscal year 2026 compensation of our median employee was $31,573; • The total fiscal year 2026 compensation of Ms. Crevoiserat was $33,986,485 (or $18,986,397 excluding the CEO Special Grant); and • The ratio of the median employee's pay to that of Ms. Crevoiserat was 1 to 1,076 (or 1 to 601 excluding the CEO Special Grant). Ms. Crevoiserat's compensation as reported in the Summary Compensation Table was used for purposes of calculating the ratio. For purposes of the pay ratio, both the CEO's and median employee's annual total compensation were calcul"
+   }
+  },
+  "0001140361-25-036303": {
+   "parserVersion": 1,
+   "filingDate": "2025-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036125036303/ny20053837x1_def14a.htm",
+   "periodEnd": "2025-06-28",
+   "tenK": "0001116132-25-000019",
+   "result": {
+    "ceoPay": 17340349,
+    "medianPay": 26657,
+    "payRatio": 651,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "es to our employee population or compensation arrangements that would significantly impact our pay ratio disclosure. We determined the following in compliance with the requirements set forth in Item 402(u) of Regulation S-K: | • | | The total fiscal year 2025 compensation of our median employee was $26,657; | | • | | The total fiscal year 2025 compensation of Ms. Crevoiserat was $17,340,349; and | | • | | The ratio of the median employee's pay to that of Ms. Crevoiserat was 1 to 651. | Ms. Crevoiserat's compensation as reported in the Summary Compensation Table was used for purposes of calculating the ratio. For purposes of the pay ratio, both the CEO's and median employee's annual total compensation were calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K"
+   }
+  },
+  "0001140361-24-042187": {
+   "parserVersion": 1,
+   "filingDate": "2024-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036124042187/ny20032442x1_def14a.htm",
+   "periodEnd": "2024-06-29",
+   "tenK": "0001116132-24-000018",
+   "result": {
+    "ceoPay": 15430213,
+    "medianPay": 26657,
+    "payRatio": 579,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "at the end of fiscal year 2024. For fiscal year 2024, as required under the applicable rules we identified a new median employee. We determined the following in compliance with the requirements set forth in Item 402(u) of SEC Regulation S-K: | • | | The total compensation of our median employee was $26,657; | | • | | The total annualized compensation of Ms. Crevoiserat was $15,430,213; and | | • | | The ratio of the median employee's pay to that of Ms. Crevoiserat was 1 to 579. | Ms. Crevoiserat's compensation as reported in the Summary Compensation Table was used for purposes of calculating the ratio. For purposes of the pay ratio, both the CEO's and median employee's annual total compensation were calculated in accordance with the requirements of Item 402(c)(2)(x) of SEC Regulation S-K."
+   }
+  },
+  "0001140361-23-044958": {
+   "parserVersion": 1,
+   "filingDate": "2023-09-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036123044958/ny20009546x1_def14a.htm",
+   "periodEnd": "2023-07-01",
+   "tenK": "0001116132-23-000020",
+   "result": {
+    "ceoPay": 14489503,
+    "medianPay": 29535,
+    "payRatio": 491,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "been no changes to our employee population or compensation arrangements that would significantly impact our pay ratio disclosure. We determined the following in compliance with the requirements set forth in Item 402(u) of SEC Regulation S-K: | • | | The total compensation of our median employee was $29,535; | | • | | The total annualized compensation of Ms. Crevoiserat was $14,489,503; and | | • | | The ratio of the median employee's pay to that of Ms. Crevoiserat was 1 to 491. | Ms. Crevoiserat's compensation as reported in the Summary Compensation Table was used for purposes of calculating the ratio. For purposes of the pay ratio, both the CEO's and median employee's annual total compensation were calculated in accordance with the requirements of Item 402(c)(2)(x) of SEC Regulation S-K."
+   }
+  },
+  "0001140361-22-035475": {
+   "parserVersion": 1,
+   "filingDate": "2022-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036122035475/ny20004839x1_def14a.htm",
+   "periodEnd": "2022-07-02",
+   "tenK": "0001116132-22-000018",
+   "result": {
+    "ceoPay": 13739426,
+    "medianPay": 29147,
+    "payRatio": 471,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "been no changes to our employee population or compensation arrangements that would significantly impact our pay ratio disclosure. We determined the following in compliance with the requirements set forth in Item 402(u) of SEC Regulation S-K: | • | | The total compensation of our median employee was $29,147; | | • | | The total annualized compensation of Ms. Crevoiserat was $13,739,426; and | | • | | The ratio of the median employee's pay to that of Ms. Crevoiserat was 1 to 471. | Ms. Crevoiserat's compensation as reported in the Summary Compensation Table was used for purposes of calculating the ratio. For purposes of the pay ratio, both the CEO's and median employee's annual total compensation were calculated in accordance with the requirements of Item 402(c)(2)(x) of SEC Regulation S-K."
+   }
+  },
+  "0001140361-21-032470": {
+   "parserVersion": 1,
+   "filingDate": "2021-09-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036121032470/ny20000403x1_def14a.htm",
+   "periodEnd": "2021-07-03",
+   "tenK": "0001116132-21-000020",
+   "result": {
+    "ceoPay": 12622668,
+    "medianPay": 27571,
+    "payRatio": 458,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "t the end of fiscal year 2021. For fiscal year 2021, as required under the applicable rules, we identified a new median employee. We determined the following in compliance with the requirements set forth in Item 402(u) of SEC Regulation S-K: | • | | The total compensation of our median employee was $27,571; | | • | | The total annualized compensation of Ms. Crevoiserat was $12,622,668; and | | • | | The ratio of the median employee's pay to that of Ms. Crevoiserat was 1 to 458. | To determine Ms. Crevoiserat's compensation for purposes of calculating the ratio, we annualized her base salary as reported in the Summary Compensation Table , since Ms. Crevoiserat did not serve as Chief Executive Officer for all of fiscal year 2021. The remaining components of her compensation used to calculate"
+   }
+  },
+  "0001140361-20-021572": {
+   "parserVersion": 1,
+   "filingDate": "2020-09-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036120021572/nc10014780x1_def14a.htm",
+   "periodEnd": "2020-06-27",
+   "tenK": "0001116132-20-000022",
+   "result": {
+    "ceoPay": 4911860,
+    "medianPay": 28523,
+    "payRatio": 172,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ve there have been changes to our employee population or compensation arrangements that would significantly impact the pay ratio. We determined the following in compliance with the requirements set forth in Item 402(u) of SEC Regulation S-K: | • | | The total compensation of our median employee was $28,523; | | • | | The total annualized compensation of Mr. Zeitlin was $4,911,860; and | | • | | The ratio of the median employee's pay to that of Mr. Zeitlin was 1 to 172. | To determine Mr. Zeitlin's compensation for purposes of calculating the ratio, we annualized his base salary as reported in the Summary Compensation Table , since Mr. Zeitlin did not serve as Chief Executive Officer for all of fiscal year 2020. The remaining components of his compensation used to calculate the ratio were a"
+   }
+  },
+  "0001140361-19-017437": {
+   "parserVersion": 1,
+   "filingDate": "2019-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036119017437/nc10002633x1_def14a.htm",
+   "periodEnd": "2019-06-29",
+   "tenK": "0001116132-19-000016",
+   "result": {
+    "ceoPay": 12362240,
+    "medianPay": 25450,
+    "payRatio": 486,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "were excluded last year due to the brand's acquisition by Tapestry in fiscal year 2018) and identified a new median employee. We determined the following in compliance with the requirements set forth in Item 402(u) of SEC Regulation S-K: | | | • | | The total compensation of our median employee was $25,450; | | | | • | | The total compensation of Mr. Luis was $12,362,240; and | | | | • | | The ratio of the median employee's pay to that of Mr. Luis was 1 to 486. | Our median employee is a full time retail sales associate working in an outlet store in the United States. To identify the median employee and determine his or her annual total compensation, we used the following methodology, consistent with SEC regulations: | | | • | | We selected May 1, 2019 as the determination date, two months"
+   }
+  },
+  "0001140361-18-039582": {
+   "parserVersion": 1,
+   "filingDate": "2018-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036118039582/s002363x1_def14a.htm",
+   "periodEnd": "2018-06-30",
+   "tenK": "0001116132-18-000021",
+   "result": {
+    "ceoPay": 12825430,
+    "medianPay": 24860,
+    "payRatio": 516,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "annual total compensation of our median employee to the annual total compensation of our CEO, Mr. Luis. For fiscal year 2018, we determined the following in compliance with the requirements set forth in Item 402(u) of SEC Regulation S-K: | | | • | | The total compensation of our median employee was $24,860; | | | | • | | The total compensation of our CEO, Mr. Luis, was $12,825,430; and | | | | • | | The ratio of the median employee's pay to that of Mr. Luis was 1 to 516. | Our median employee is a full time retail sales associate working in an outlet store in the United States. To identify the median employee and determine his or her the annual total compensation, we used the following methodology, consistent with SEC regulations: | | | • | | We selected May 1, 2018 as the determination da"
+   }
+  }
+ },
+ "tenKs": {
+  "0001116132-18-000021": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001116132-19-000016": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001116132-20-000022": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001116132-21-000020": {
+   "parserVersion": 1,
+   "employees": 13100
+  },
+  "0001116132-22-000018": {
+   "parserVersion": 1,
+   "employees": 18100
+  },
+  "0001116132-23-000020": {
+   "parserVersion": 1,
+   "employees": 18500
+  },
+  "0001116132-24-000018": {
+   "parserVersion": 1,
+   "employees": 18600
+  },
+  "0001116132-25-000019": {
+   "parserVersion": 1,
+   "employees": 19000
+  },
+  "0001116132-26-000018": {
+   "parserVersion": 1,
+   "employees": 20600
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 3180757000,
+    "periodEnd": "2008-06-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001144204-10-046620"
+   },
+   "2009": {
+    "revenue": 3230468000,
+    "periodEnd": "2009-06-27",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001144204-11-048771"
+   },
+   "2010": {
+    "revenue": 3607636000,
+    "periodEnd": "2010-07-03",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001144204-12-047660"
+   },
+   "2011": {
+    "revenue": 4158507000,
+    "periodEnd": "2011-07-02",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001144204-13-047469"
+   },
+   "2012": {
+    "revenue": 4763180000,
+    "periodEnd": "2012-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001116132-14-000003"
+   },
+   "2013": {
+    "revenue": 5075400000,
+    "periodEnd": "2013-06-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001116132-15-000010"
+   },
+   "2014": {
+    "revenue": 4806200000,
+    "periodEnd": "2014-06-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001116132-16-000026"
+   },
+   "2015": {
+    "revenue": 4191600000,
+    "periodEnd": "2015-06-27",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001116132-17-000011"
+   },
+   "2016": {
+    "revenue": 4491800000,
+    "periodEnd": "2016-07-02",
+    "revenueTag": "Revenues",
+    "accession": "0001116132-18-000021"
+   },
+   "2017": {
+    "revenue": 4488300000,
+    "periodEnd": "2017-07-01",
+    "revenueTag": "Revenues",
+    "accession": "0001116132-18-000021"
+   },
+   "2018": {
+    "revenue": 5880000000,
+    "periodEnd": "2018-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001116132-18-000021"
+   },
+   "2019": {
+    "revenue": 6027100000,
+    "periodEnd": "2019-06-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001116132-21-000020"
+   },
+   "2020": {
+    "revenue": 4961400000,
+    "periodEnd": "2020-06-27",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001116132-22-000018"
+   },
+   "2021": {
+    "revenue": 5746300000,
+    "periodEnd": "2021-07-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001116132-23-000020"
+   },
+   "2022": {
+    "revenue": 6684500000,
+    "periodEnd": "2022-07-02",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001116132-24-000018"
+   },
+   "2023": {
+    "revenue": 6660900000,
+    "periodEnd": "2023-07-01",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001116132-25-000019"
+   },
+   "2024": {
+    "revenue": 6671200000,
+    "periodEnd": "2024-06-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001116132-26-000018"
+   },
+   "2025": {
+    "revenue": 7010700000,
+    "periodEnd": "2025-06-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001116132-26-000018"
+   },
+   "2026": {
+    "revenue": 8004200000,
+    "periodEnd": "2026-06-27",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001116132-26-000018"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 13739426,
+   "2023": 14489503,
+   "2024": 15430213,
+   "2025": 17340349,
+   "2026": 33986485
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001116132-26-000018",
+    "filingDate": "2026-08-13",
+    "reportDate": "2026-06-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000018/tpr-20260627.htm"
+   },
+   {
+    "accession": "0001116132-25-000019",
+    "filingDate": "2025-08-14",
+    "reportDate": "2025-06-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613225000019/tpr-20250628.htm"
+   },
+   {
+    "accession": "0001116132-24-000018",
+    "filingDate": "2024-08-15",
+    "reportDate": "2024-06-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613224000018/tpr-20240629.htm"
+   },
+   {
+    "accession": "0001116132-23-000020",
+    "filingDate": "2023-08-17",
+    "reportDate": "2023-07-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613223000020/tpr-20230701.htm"
+   },
+   {
+    "accession": "0001116132-22-000018",
+    "filingDate": "2022-08-18",
+    "reportDate": "2022-07-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613222000018/tpr-20220702.htm"
+   },
+   {
+    "accession": "0001116132-21-000020",
+    "filingDate": "2021-08-19",
+    "reportDate": "2021-07-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613221000020/tpr-20210703.htm"
+   },
+   {
+    "accession": "0001116132-20-000022",
+    "filingDate": "2020-08-13",
+    "reportDate": "2020-06-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613220000022/tpr6272020-10k.htm"
+   },
+   {
+    "accession": "0001116132-19-000016",
+    "filingDate": "2019-08-15",
+    "reportDate": "2019-06-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613219000016/tpr6302018-10k1.htm"
+   },
+   {
+    "accession": "0001116132-18-000021",
+    "filingDate": "2018-08-16",
+    "reportDate": "2018-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613218000021/tpr6302018-10k.htm"
+   },
+   {
+    "accession": "0001116132-17-000011",
+    "filingDate": "2017-08-18",
+    "reportDate": "2017-07-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613217000011/coh7012017-10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,338 @@
+{
+ "proxies": {
+  "0001104659-26-036366": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1163165/000110465926036366/tm2523177-3_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001163165-26-000009",
+   "result": {
+    "ceoPay": 23469730,
+    "medianPay": 212063,
+    "payRatio": 111,
+    "method": "cross-checked",
+    "employees": 10008,
+    "statedYear": 2025,
+    "excerpt": "e, as well as the ratio of total compensation paid to the median employee as compared to the total compensation paid to the CEO. The paragraphs that follow describe our methodology and the resulting CEO pay ratio. The ratio of pay of the CEO compared to that of the median employee was approximately 111 to one in 2025. The annual total compensation of the CEO was $23,469,730. The estimated median of the annual total compensation of all ConocoPhillips employees other than the CEO, as represented by the annual total compensation of a median employee, was $212,063. The compensation of the CEO and the median employee were determined using the same rules we followed in preparing the Summary Compensation Table on page 93 , except the compensation of the CEO and median employee were adjusted to in"
+   }
+  },
+  "0001308179-25-000308": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1163165/000130817925000308/cop4372213-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001163165-25-000012",
+   "result": {
+    "ceoPay": 23134980,
+    "medianPay": 197655,
+    "payRatio": 117,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "e, as well as the ratio of total compensation paid to the median employee as compared to the total compensation paid to the CEO. The paragraphs that follow describe our methodology and the resulting CEO pay ratio. The ratio of pay of the CEO compared to that of the median employee was approximately 117 to one in 2024. The annual total compensation of the CEO was $23,134,980. The estimated median of the annual total compensation of all ConocoPhillips employees other than the CEO, as represented by the annual total compensation of a median employee, was $197,655. The compensation of the CEO and the median employee were determined using the same rules we followed in preparing the Summary Compensation Table on page 95 , except the compensation of the CEO and median employee were adjusted to in"
+   }
+  },
+  "0001308179-24-000384": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1163165/000130817924000384/cop4258041-def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001163165-24-000010",
+   "result": {
+    "ceoPay": 20789282,
+    "medianPay": 205547,
+    "payRatio": 101,
+    "method": "cross-checked",
+    "employees": 10045,
+    "statedYear": 2023,
+    "excerpt": "e, as well as the ratio of total compensation paid to the median employee as compared to the total compensation paid to the CEO. The paragraphs that follow describe our methodology and the resulting CEO pay ratio. The ratio of pay of the CEO compared to that of the median employee was approximately 101 to one in 2023. The annual total compensation of the CEO was $20,789,282. The estimated median of the annual total compensation of all ConocoPhillips employees other than the CEO, as represented by the annual total compensation of a median employee, was $205,547. The compensation of the CEO and the median employee were determined using the same rules we followed in preparing the Summary Compensation Table on page 98 , except the compensation of the CEO and median employee were adjusted to in"
+   }
+  },
+  "0001308179-23-000477": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1163165/000130817923000477/cop4128181-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001163165-23-000006",
+   "result": {
+    "ceoPay": 19990438,
+    "medianPay": 177533,
+    "payRatio": 113,
+    "method": "cross-checked",
+    "employees": 9662,
+    "statedYear": 2022,
+    "excerpt": "e, as well as the ratio of total compensation paid to the median employee as compared to the total compensation paid to the CEO. The paragraphs that follow describe our methodology and the resulting CEO pay ratio. The ratio of pay of the CEO compared to that of the median employee was approximately 113 to one in 2022. The annual total compensation of the CEO was $19,990,438. The estimated median of the annual total compensation of all ConocoPhillips employees other than the CEO, as represented by the annual total compensation of a median employee, was $177,533. The compensation of the CEO and the median employee were determined using the same rules we followed in preparing the Summary Compensation Table on page 96 , except the compensation of the CEO and median employee were adjusted to in"
+   }
+  },
+  "0001206774-22-000879": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1163165/000120677422000879/cop3949151def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001562762-22-000031",
+   "result": {
+    "ceoPay": 23904954,
+    "medianPay": 179428,
+    "payRatio": 133,
+    "method": "cross-checked",
+    "employees": 10039,
+    "statedYear": 2021,
+    "excerpt": "e, as well as the ratio of total compensation paid to the median employee as compared to the total compensation paid to the CEO. The paragraphs that follow describe our methodology and the resulting CEO pay ratio. The ratio of pay of the CEO compared to that of the median employee was approximately 133 to one in 2021. The annual total compensation of the CEO was $23,904,954. The estimated median of the annual total compensation of all ConocoPhillips employees other than the CEO, as represented by the annual total compensation of a median employee, was $179,428. The compensation of the CEO and the median employee were determined using the same rules we followed in preparing the Summary Compensation Table on page 96 , except the compensation of the CEO and median employee were adjusted to in"
+   }
+  },
+  "0001206774-21-000875": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1163165/000120677421000875/cop3840471-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001562762-21-000027",
+   "result": {
+    "ceoPay": 28072298,
+    "medianPay": 160332,
+    "payRatio": 175,
+    "method": "cross-checked",
+    "employees": 9789,
+    "statedYear": 2020,
+    "excerpt": "e, as well as the ratio of total compensation paid to the median employee as compared to the total compensation paid to the CEO. The paragraphs that follow describe our methodology and the resulting CEO pay ratio. The ratio of pay of the CEO compared to that of the median employee was approximately 175 to one in 2020. The annual total compensation of the CEO was $28,072,298. The estimated median of the annual total compensation of all ConocoPhillips employees other than the CEO, as represented by the annual total compensation of a median employee, was $160,332. The compensation of the CEO and the median employee were determined using the same rules we followed in preparing the Summary Compensation Table on page 92 , except the compensation of the CEO and median employee were adjusted to in"
+   }
+  },
+  "0001206774-20-000973": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1163165/000120677420000973/cop3661511-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001193125-20-039954",
+   "result": {
+    "ceoPay": 30381543,
+    "medianPay": 186334,
+    "payRatio": 163,
+    "method": "cross-checked",
+    "employees": 10500,
+    "statedYear": 2019,
+    "excerpt": "e, as well as the ratio of total compensation paid to the median employee as compared to the total compensation paid to the CEO. The paragraphs that follow describe our methodology and the resulting CEO pay ratio. The ratio of pay of the CEO compared to that of the median employee was approximately 163 to one in 2019. The annual total compensation of the CEO was $30,381,543. The estimated median of the annual total compensation of all ConocoPhillips employees other than the CEO, as represented by the annual total compensation of a median employee, was $186,334. The compensation of the CEO and the median employee were determined using the same rules we followed in preparing the Summary Compensation Table on page 85 , except the compensation of the CEO and median employee were adjusted to in"
+   }
+  },
+  "0001206774-19-001161": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1163165/000120677419001161/cop3493381-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001193125-19-043841",
+   "result": {
+    "ceoPay": 23423434,
+    "medianPay": 163817,
+    "payRatio": 143,
+    "method": "cross-checked",
+    "employees": 11671,
+    "statedYear": 2018,
+    "excerpt": "e, as well as the ratio of total compensation paid to the median employee as compared to the total compensation paid to the CEO. The paragraphs that follow describe our methodology and the resulting CEO pay ratio. The ratio of pay of the CEO compared to that of the median employee was approximately 143 to one in 2018. As permitted by the SEC rules, the median employee utilized for this pay ratio disclosure for 2018 is the same employee identified and used for the 2017 CEO pay ratio as there were no significant changes to the employee population, pay plans, or circumstances of the median employee that would reasonably result in a significant change to the CEO pay ratio. The annual total compensation of the CEO was $23,423,434. The estimated median of the annual total compensation of all Con"
+   }
+  },
+  "0001206774-18-001045": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1163165/000120677418001045/conoco3364391-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001193125-18-049729",
+   "result": {
+    "ceoPay": 21864670,
+    "medianPay": 158943,
+    "payRatio": 138,
+    "method": "cross-checked",
+    "employees": 11671,
+    "statedYear": 2017,
+    "excerpt": "e, as well as the ratio of total compensation paid to the median employee as compared to the total compensation paid to the CEO. The paragraphs that follow describe our methodology and the resulting CEO Pay Ratio. The ratio of pay of the CEO compared to that of the median employee was approximately 138 to 1 in 2017. The annual total compensation of the CEO was $21,864,670. The estimated median of the annual total compensation of all ConocoPhillips employees other than the CEO, as represented by the annual total compensation of a median employee, was $158,943. The compensation of the CEO and the median employee were determined using the same rules we followed in preparing the Summary Compensation Table on page 78, except the compensation of the CEO and median employee were adjusted to inclu"
+   }
+  }
+ },
+ "tenKs": {
+  "0001163165-25-000012": {
+   "parserVersion": 1,
+   "employees": 11800
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 187437000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-10-017187"
+   },
+   "2008": {
+    "revenue": 240842000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-016957"
+   },
+   "2009": {
+    "revenue": 149341000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-070636"
+   },
+   "2010": {
+    "revenue": 63335000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-065426"
+   },
+   "2011": {
+    "revenue": 66069000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-066358"
+   },
+   "2012": {
+    "revenue": 62004000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-059281"
+   },
+   "2013": {
+    "revenue": 58248000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-472901"
+   },
+   "2014": {
+    "revenue": 55517000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-050077"
+   },
+   "2015": {
+    "revenue": 30935000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-18-049729"
+   },
+   "2016": {
+    "revenue": 24360000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-19-043841"
+   },
+   "2017": {
+    "revenue": 32584000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-20-039954"
+   },
+   "2018": {
+    "revenue": 38727000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001562762-21-000027"
+   },
+   "2019": {
+    "revenue": 36670000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001562762-22-000031"
+   },
+   "2020": {
+    "revenue": 18784000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001163165-23-000006"
+   },
+   "2021": {
+    "revenue": 45828000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001163165-24-000010"
+   },
+   "2022": {
+    "revenue": 78494000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001163165-25-000012"
+   },
+   "2023": {
+    "revenue": 56141000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001163165-26-000009"
+   },
+   "2024": {
+    "revenue": 54745000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001163165-26-000009"
+   },
+   "2025": {
+    "revenue": 58944000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001163165-26-000009"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001163165-26-000009",
+    "filingDate": "2026-02-17",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163165/000116316526000009/cop-20251231.htm"
+   },
+   {
+    "accession": "0001163165-25-000012",
+    "filingDate": "2025-02-18",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163165/000116316525000012/cop-20241231.htm"
+   },
+   {
+    "accession": "0001163165-24-000010",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163165/000116316524000010/cop-20231231.htm"
+   },
+   {
+    "accession": "0001163165-23-000006",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163165/000116316523000006/cop-20221231.htm"
+   },
+   {
+    "accession": "0001562762-22-000031",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163165/000156276222000031/cop10k2021.htm"
+   },
+   {
+    "accession": "0001562762-21-000027",
+    "filingDate": "2021-02-16",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163165/000156276221000027/cop10k2020.htm"
+   },
+   {
+    "accession": "0001193125-20-039954",
+    "filingDate": "2020-02-18",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163165/000119312520039954/d875559d10k.htm"
+   },
+   {
+    "accession": "0001193125-19-043841",
+    "filingDate": "2019-02-19",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163165/000119312519043841/d636257d10k.htm"
+   },
+   {
+    "accession": "0001193125-18-049729",
+    "filingDate": "2018-02-20",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163165/000119312518049729/d534096d10k.htm"
+   },
+   {
+    "accession": "0001193125-17-050077",
+    "filingDate": "2017-02-21",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1163165/000119312517050077/d264316d10k.htm"
+   }
+  ]
+ }
+}

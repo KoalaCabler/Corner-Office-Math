@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001104659-26-119175": {
+   "parserVersion": 1,
+   "filingDate": "2026-10-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465926119175/azo-20261216xdef14a.htm",
+   "periodEnd": "2026-08-29",
+   "tenK": "0001104659-26-118791",
+   "result": {
+    "ceoPay": 11236964,
+    "medianPay": 29450,
+    "payRatio": 381,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "mpensation paid to said median employee as compared to the total compensation paid to our CEO. The analysis, which is described below, yielded the following results: | | | | | | | | | | | | | Total compensation for the median employee | | | | | | | | for fiscal 2026 (not including the CEO): | | | | $ | | 29,450 | | Total compensation for the CEO: | | | | $ | | 11,236,964 | | Resulting CEO-to-median employee pay ratio: | | | | | | 381:1 | Measurement date. We identified the median employee from our population as of June 30, 2026. Compensation measure. The regulations require us to use a \"consistently applied compensation measure\", or CACM, to identify the median employee. Based on an analysis of the AutoZone workforce, we determined that fixed or guaranteed compensation, including overtime"
+   }
+  },
+  "0001104659-25-103210": {
+   "parserVersion": 1,
+   "filingDate": "2025-10-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465925103210/azo-20251217xdef14a.htm",
+   "periodEnd": "2025-08-30",
+   "tenK": "0001104659-25-102611",
+   "result": {
+    "ceoPay": 9636414,
+    "medianPay": 29017,
+    "payRatio": 331,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "total compensation paid to said median employee as compared to the total compensation paid to our CEO. The analysis, which is described below, yielded the following results: | | | | | | | | | Total compensation for the median employee | | | | | | | | for fiscal 2025 (not including the CEO): | | | | $ | | 29,017 | | Total compensation for the CEO: | | | | $ | | 9,636,414 | | Resulting CEO-to-median employee pay ratio: | | | | | | 331:1 | Measurement date. We identified the median employee from our population as of June 30, 2025. Compensation measure. The regulations require us to use a \" consistently applied compensation measure \" , or CACM, to identify the median employee. Based on an analysis of the AutoZone workforce, we determined that fixed or guaranteed compensation, including overtim"
+   }
+  },
+  "0001558370-24-013963": {
+   "parserVersion": 1,
+   "filingDate": "2024-10-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837024013963/azo-20241218xdef14a.htm",
+   "periodEnd": "2024-08-31",
+   "tenK": "0001558370-24-013758",
+   "result": {
+    "ceoPay": 9198465,
+    "medianPay": 30637,
+    "payRatio": 300,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "total compensation paid to said median employee as compared to the total compensation paid to our CEO. The analysis, which is described below, yielded the following results: | | | | | | | | | Total compensation for the median employee | | | | | | | | for fiscal 2024 (not including the CEO): | | | | $ | | 30,637 | | Total compensation for the CEO: | | | | $ | | 9,198,465 | | Resulting CEO-to-median employee pay ratio: | | | | | | 300:1 | Measurement date. We identified the median employee from our population as of June 30, 2024. Compensation measure. The regulations require us to use a \" consistently applied compensation measure \" , or CACM, to identify the median employee. Based on an analysis of the AutoZone workforce, we determined that fixed or guaranteed compensation, including overtim"
+   }
+  },
+  "0001558370-23-017013": {
+   "parserVersion": 1,
+   "filingDate": "2023-10-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837023017013/azo-20231220xdef14a.htm",
+   "periodEnd": "2023-08-26",
+   "tenK": "0001558370-23-016668",
+   "result": {
+    "ceoPay": 18796822,
+    "medianPay": 26669,
+    "payRatio": 705,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "total compensation paid to said median employee as compared to the total compensation paid to our CEO. The analysis, which is described below, yielded the following results: | | | | | | | | | Total compensation for the median employee | | | | | | | | for fiscal 2023 (not including the CEO): | | | | $ | | 26,669 | | Total compensation for the CEO: | | | | $ | | 18,796,822 | | Resulting CEO-to-median employee pay ratio: | | | | | | 705:1 | Measurement date. We identified the median employee from our population as of June 30, 2023. Compensation measure. The regulations require us to use a \"consistently applied compensation measure\", or CACM, to identify the median employee. Based on an analysis of the AutoZone workforce, we determined that fixed or guaranteed compensation, including overtime"
+   }
+  },
+  "0001558370-22-015242": {
+   "parserVersion": 1,
+   "filingDate": "2022-10-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837022015242/tmb-20221214xdef14a.htm",
+   "periodEnd": "2022-08-27",
+   "tenK": "0001558370-22-015239",
+   "result": {
+    "ceoPay": 14330010,
+    "medianPay": 31751,
+    "payRatio": 451,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "total compensation paid to said median employee as compared to the total compensation paid to our CEO. The analysis, which is described below, yielded the following results: | | | | | | | | | Total compensation for the median employee | | | | | | | | for fiscal 2022 (not including the CEO): | | | | $ | | 31,751 | | Total compensation for the CEO: | | | | $ | | 14,330,010 | | Resulting CEO-to-median employee pay ratio: | | | | | | 451:1 | Measurement date. We identified the median employee from our population as of June 30, 2022. Compensation measure. The regulations require us to use a \"consistently applied compensation measure\", or CACM, to identify the median employee. Based on an analysis of the AutoZone workforce, we determined that fixed or guaranteed compensation, including overtime"
+   }
+  },
+  "0001558370-21-013448": {
+   "parserVersion": 1,
+   "filingDate": "2021-10-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837021013448/azo-20211215xdef14a.htm",
+   "periodEnd": "2021-08-28",
+   "tenK": "0001558370-21-013446",
+   "result": {
+    "ceoPay": 14838996,
+    "medianPay": 30375,
+    "payRatio": 488,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "total compensation paid to said median employee as compared to the total compensation paid to our CEO. The analysis, which is described below, yielded the following results: | | | | | | | | | Total compensation for the median employee | | | | | | | | for fiscal 2021 (not including the CEO): | | | | $ | | 30,375 | | Total compensation for the CEO* : | | | | $ | | 14,838,996 | | Resulting CEO-to-median employee pay ratio: | | | | | | 488:1 | | * | | See Summary Compensation Table for details | Measurement date . We identified the median employee from our population as of June 30, 2021. Compensation measure . The regulations require us to use a \"consistently applied compensation measure\", or CACM, to identify the median employee. Based on an analysis of the AutoZone workforce, we determined t"
+   }
+  },
+  "0001558370-20-011749": {
+   "parserVersion": 1,
+   "filingDate": "2020-10-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837020011749/azo-20201216xdef14a.htm",
+   "periodEnd": "2020-08-29",
+   "tenK": "0001558370-20-011748",
+   "result": {
+    "ceoPay": 11531361,
+    "medianPay": 26759,
+    "payRatio": 431,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "total compensation paid to said median employee as compared to the total compensation paid to our CEO. The analysis, which is described below, yielded the following results: | | | | | | | | | Total compensation for the median employee | | | | | | | | for fiscal 2020 (not including the CEO): | | | | $ | | 26,759 | | Total compensation for the CEO* : | | | | $ | | 11,531,361 | | Resulting CEO-to-median employee pay ratio: | | | | | | 431:1 | | * | | See Summary Compensation Table for details | Measurement date . We identified the median employee from our population as of June 30, 2020. Compensation measure . The regulations require us to use a \"consistently applied compensation measure\", or CACM, to identify the median employee. Based on an analysis of the AutoZone workforce, we determined t"
+   }
+  },
+  "0001193125-19-276288": {
+   "parserVersion": 1,
+   "filingDate": "2019-10-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000119312519276288/d768989ddef14a.htm",
+   "periodEnd": "2019-08-31",
+   "tenK": "0001193125-19-276201",
+   "result": {
+    "ceoPay": 8617562,
+    "medianPay": 27581,
+    "payRatio": 312,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "atio of the total compensation paid to said median employee as compared to the total compensation paid to our CEO. The analysis, which is described below, yielded the following results: | | | | | | | | | | | Total compensation for the median employee for fiscal 2019 (not including the CEO): | | | | $ | | 27,581 | | | | Total compensation for the CEO* : | | | | $ | | 8,617,562 | | | | Resulting CEO-to-median employee pay ratio: | | | | | | 312:1 | | | | * | | See Summary Compensation Table for details | Measurement date . We identified the median employee from our population as of June 30, 2019. Compensation measure . The regulations require us to use a consistently applied compensation measure, or CACM, to identify the median employee. Based on an analysis of the AutoZone workforce, we d"
+   }
+  },
+  "0001193125-18-309145": {
+   "parserVersion": 1,
+   "filingDate": "2018-10-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/866787/000119312518309145/d597969ddef14a.htm",
+   "periodEnd": "2018-08-25",
+   "tenK": "0001193125-18-306452",
+   "result": {
+    "ceoPay": 4220619,
+    "medianPay": 23546,
+    "payRatio": 179,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "l compensation paid to said median employee as compared to the total compensation paid to our CEO. The analysis, which is briefly described below, yielded the following results: | | | | | | | | | | | | | Total compensation for the median employee for fiscal 2018 (not including the CEO): | | | | | | $ | | 23,546 | | | | Total compensation for the CEO (see page 32): | | | | | | $ | | 4,220,619 | | | | Resulting CEO-to-median employee pay ratio: | | | | | | | | 179:1 | | | Measurement date . We identified the median employee from our population as of June 30, 2018. Compensation measure . The regulations require us to use a consistently applied compensation measure, or CACM, to identify the median employee. Based on an analysis of the AutoZone workforce, we determined that fixed or guarantee"
+   }
+  }
+ },
+ "tenKs": {
+  "0001193125-18-306452": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001193125-19-276201": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-20-011748": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-21-013446": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-22-015239": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-23-016668": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-24-013758": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001104659-25-102611": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001104659-26-118791": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 6522706000,
+    "periodEnd": "2008-08-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-10-095687"
+   },
+   "2009": {
+    "revenue": 6816824000,
+    "periodEnd": "2009-08-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-091540"
+   },
+   "2010": {
+    "revenue": 7362618000,
+    "periodEnd": "2010-08-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-430271"
+   },
+   "2011": {
+    "revenue": 8072973000,
+    "periodEnd": "2011-08-27",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-413428"
+   },
+   "2012": {
+    "revenue": 8603863000,
+    "periodEnd": "2012-08-25",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-383401"
+   },
+   "2013": {
+    "revenue": 9147530000,
+    "periodEnd": "2013-08-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-15-353476"
+   },
+   "2014": {
+    "revenue": 9475313000,
+    "periodEnd": "2014-08-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-16-745160"
+   },
+   "2015": {
+    "revenue": 10187340000,
+    "periodEnd": "2015-08-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-17-319357"
+   },
+   "2016": {
+    "revenue": 10635676000,
+    "periodEnd": "2016-08-27",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-18-306452"
+   },
+   "2017": {
+    "revenue": 10888676000,
+    "periodEnd": "2017-08-26",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-19-276201"
+   },
+   "2018": {
+    "revenue": 11221077000,
+    "periodEnd": "2018-08-25",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-20-011748"
+   },
+   "2019": {
+    "revenue": 11863743000,
+    "periodEnd": "2019-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-21-013446"
+   },
+   "2020": {
+    "revenue": 12631967000,
+    "periodEnd": "2020-08-29",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-22-015239"
+   },
+   "2021": {
+    "revenue": 14629585000,
+    "periodEnd": "2021-08-28",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-23-016668"
+   },
+   "2022": {
+    "revenue": 16252230000,
+    "periodEnd": "2022-08-27",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-24-013758"
+   },
+   "2023": {
+    "revenue": 17457209000,
+    "periodEnd": "2023-08-26",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-25-102611"
+   },
+   "2024": {
+    "revenue": 18490268000,
+    "periodEnd": "2024-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-118791"
+   },
+   "2025": {
+    "revenue": 18938717000,
+    "periodEnd": "2025-08-30",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-118791"
+   },
+   "2026": {
+    "revenue": 20338555000,
+    "periodEnd": "2026-08-29",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-118791"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001104659-26-118791",
+    "filingDate": "2026-10-26",
+    "reportDate": "2026-08-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465926118791/azo-20260829x10k.htm"
+   },
+   {
+    "accession": "0001104659-25-102611",
+    "filingDate": "2025-10-27",
+    "reportDate": "2025-08-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000110465925102611/azo-20250830x10k.htm"
+   },
+   {
+    "accession": "0001558370-24-013758",
+    "filingDate": "2024-10-28",
+    "reportDate": "2024-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837024013758/azo-20240831x10k.htm"
+   },
+   {
+    "accession": "0001558370-23-016668",
+    "filingDate": "2023-10-24",
+    "reportDate": "2023-08-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837023016668/azo-20230826x10k.htm"
+   },
+   {
+    "accession": "0001558370-22-015239",
+    "filingDate": "2022-10-24",
+    "reportDate": "2022-08-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837022015239/azo-20220827x10k.htm"
+   },
+   {
+    "accession": "0001558370-21-013446",
+    "filingDate": "2021-10-25",
+    "reportDate": "2021-08-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837021013446/azo-20210828x10k.htm"
+   },
+   {
+    "accession": "0001558370-20-011748",
+    "filingDate": "2020-10-26",
+    "reportDate": "2020-08-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000155837020011748/azo-20200829x10k.htm"
+   },
+   {
+    "accession": "0001193125-19-276201",
+    "filingDate": "2019-10-28",
+    "reportDate": "2019-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000119312519276201/d771460d10k.htm"
+   },
+   {
+    "accession": "0001193125-18-306452",
+    "filingDate": "2018-10-24",
+    "reportDate": "2018-08-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000119312518306452/d597971d10k.htm"
+   },
+   {
+    "accession": "0001193125-17-319357",
+    "filingDate": "2017-10-25",
+    "reportDate": "2017-08-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/866787/000119312517319357/d447746d10k.htm"
+   }
+  ]
+ }
+}

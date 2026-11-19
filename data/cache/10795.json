@@ -1,0 +1,324 @@
+{
+ "proxies": {
+  "0001628280-25-057846": {
+   "parserVersion": 1,
+   "filingDate": "2025-12-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/10795/000162828025057846/bdx-20251217.htm",
+   "periodEnd": "2025-09-30",
+   "tenK": "0000010795-25-000099",
+   "result": {
+    "ceoPay": 17129140,
+    "medianPay": 45831,
+    "payRatio": 374,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "CEO pay ratio Under SEC rules, we are required to disclose the ratio of our CEO's annual total compensation to the median of the annual total compensation of all our other worldwide employees. For fiscal year 2025, the median annual total compensation of all our employees (other than Mr. Polen) was $45,831 and Mr. Polen's annual total compensation (as reported in the Summary Compensation Table on page 73) was $17,129,140. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the median annual total compensation of all our other worldwide employees was 374 to 1. In accordance with SEC rules, we identified the median employee as of August 1, 2025 by: (i) aggregating for each applicable employee: (A) annual base salary for salaried employees (or hour"
+   }
+  },
+  "0000010795-24-000096": {
+   "parserVersion": 1,
+   "filingDate": "2024-12-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079524000096/bdx-20241219.htm",
+   "periodEnd": "2024-09-30",
+   "tenK": "0000010795-24-000084",
+   "result": {
+    "ceoPay": 17314606,
+    "medianPay": 43763,
+    "payRatio": 396,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "EO pay ratio Under the rules of the SEC, we are required to disclose the ratio of our CEO's annual total compensation to the median of the annual total compensation of all our other employees. For fiscal year 2024, the median annual total compensation of all our employees (other than Mr. Polen) was $43,763 and Mr. Polen's annual total compensation (as reported in the Summary Compensation Table on page 68) was $17,314,606. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the median annual total compensation of all our other worldwide employees was 396 to 1. In accordance with SEC rules, we identified the median employee as of August 1, 2024 by (i) aggregating for each applicable employee (A) annual base salary for salaried employees (or hourly"
+   }
+  },
+  "0000010795-23-000118": {
+   "parserVersion": 1,
+   "filingDate": "2023-12-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079523000118/bdx-20231214.htm",
+   "periodEnd": "2023-09-30",
+   "tenK": "0000010795-23-000098",
+   "result": {
+    "ceoPay": 17309938,
+    "medianPay": 42404,
+    "payRatio": 408,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "EO pay ratio Under the rules of the SEC, we are required to disclose the ratio of our CEO's annual total compensation to the median of the annual total compensation of all our other employees. For fiscal year 2023, the median annual total compensation of all our employees (other than Mr. Polen) was $42,404 and Mr. Polen's annual total compensation (as reported in the Summary Compensation Table on page 68) was $17,309,938. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the median annual total compensation of all our other worldwide employees was 408 to 1. In accordance with SEC rules, we identified the median employee as of August 1, 2023 by (i) aggregating for each applicable employee (A) annual base salary for salaried employees (or hourly"
+   }
+  },
+  "0000010795-22-000084": {
+   "parserVersion": 1,
+   "filingDate": "2022-12-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079522000084/a2023proxystatementoldprox.htm",
+   "periodEnd": "2022-09-30",
+   "tenK": "0001628280-22-030686",
+   "result": {
+    "ceoPay": 16711230,
+    "medianPay": 37748,
+    "payRatio": 443,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "EO pay ratio Under the rules of the SEC, we are required to disclose the ratio of our CEO's annual total compensation to the median of the annual total compensation of all our other employees. For fiscal year 2022, the median annual total compensation of all our employees (other than Mr. Polen) was $37,748 and Mr. Polen's annual total compensation (as reported in the Summary Compensation Table on page 69) was $16,711,230. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the median annual total compensation of all our other worldwide employees was 443 to 1. In accordance with SEC rules, we identified the median employee as of August 1, 2022 by (i) aggregating for each applicable employee (A) annual base salary for salaried employees (or hourly"
+   }
+  },
+  "0000010795-21-000097": {
+   "parserVersion": 1,
+   "filingDate": "2021-12-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079521000097/a2022proxystatement.htm",
+   "periodEnd": "2021-09-30",
+   "tenK": "0000010795-21-000091",
+   "result": {
+    "ceoPay": 14189333,
+    "medianPay": 38690,
+    "payRatio": 367,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "EO pay ratio Under the rules of the SEC, we are required to disclose the ratio of our CEO's annual total compensation to the median of the annual total compensation of all our other employees. For fiscal year 2021, the median annual total compensation of all our employees (other than Mr. Polen) was $38,690 and Mr. Polen's annual total compensation (as reported in the Summary Compensation Table on page 66) was $14,189,333. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the median annual total compensation of all our other worldwide employees was 367 to 1. In accordance with SEC rules, we identified the median employee as of August 1, 2021 by (i) aggregating for each applicable employee (A) annual base salary for salaried employees (or hourly"
+   }
+  },
+  "0000010795-20-000064": {
+   "parserVersion": 1,
+   "filingDate": "2020-12-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079520000064/bd2021proxystatement.htm",
+   "periodEnd": "2020-09-30",
+   "tenK": "0000010795-20-000055",
+   "result": {
+    "ceoPay": 11669426,
+    "medianPay": 39669,
+    "payRatio": 294,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "EO Pay Ratio Under the rules of the SEC, we are required to disclose the ratio of our CEO's annual total compensation to the median of the annual total compensation of all our other employees. For fiscal year 2020, the median annual total compensation of all our employees (other than Mr. Polen) was $39,669 and Mr. Polen's annual total compensation (as reported in the Summary Compensation Table on page 42) was $ 11,669,426. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the median annual total compensation of all our other worldwide employees was 294 to 1. In accordance with SEC rules, we identified the median employee as of August 1, 2020 by (i) aggregating for each applicable employee (A) annual base salary for salaried employees (or hourl"
+   }
+  },
+  "0000010795-18-000039": {
+   "parserVersion": 1,
+   "filingDate": "2018-12-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079518000039/bd2019proxystatement.htm",
+   "periodEnd": "2018-09-30",
+   "tenK": "0000010795-18-000036",
+   "result": {
+    "ceoPay": 14973481,
+    "medianPay": 44118,
+    "payRatio": 339,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "Pay Ratio Under the rules of the SEC, we are required to disclose the ratio of our CEO's annual total compensation to the median of the annual total compensation of all our other employees. For fiscal year 2018, the median annual total compensation of all our employees (other than Mr. Forlenza) was $44,118 and Mr. Forlenza's annual total compensation (as reported in the Summary Compensation Table on page 37) was $14,973,481. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our other worldwide employees was 339 to 1. In accordance with SEC rules, we identified the median employee as of August 1, 2018 by (i) aggregating for each applicable employee (A) annual base salary for salaried employees"
+   }
+  }
+ },
+ "tenKs": {
+  "0000010795-18-000036": {
+   "parserVersion": 1,
+   "employees": 76032
+  },
+  "0000010795-20-000055": {
+   "parserVersion": 1,
+   "employees": 72000
+  },
+  "0000010795-21-000091": {
+   "parserVersion": 1,
+   "employees": 75000
+  },
+  "0001628280-22-030686": {
+   "parserVersion": 1,
+   "employees": 77000
+  },
+  "0000010795-23-000098": {
+   "parserVersion": 1,
+   "employees": 73000
+  },
+  "0000010795-24-000084": {
+   "parserVersion": 1,
+   "employees": 74000
+  },
+  "0000010795-25-000099": {
+   "parserVersion": 1,
+   "employees": 72000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 6282835000,
+    "periodEnd": "2007-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-10-004150"
+   },
+   "2008": {
+    "revenue": 6897619000,
+    "periodEnd": "2008-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-10-108757"
+   },
+   "2009": {
+    "revenue": 6986722000,
+    "periodEnd": "2009-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-100266"
+   },
+   "2010": {
+    "revenue": 7124385000,
+    "periodEnd": "2010-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-478705"
+   },
+   "2011": {
+    "revenue": 7584000000,
+    "periodEnd": "2011-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-456802"
+   },
+   "2012": {
+    "revenue": 7708000000,
+    "periodEnd": "2012-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-426571"
+   },
+   "2013": {
+    "revenue": 8054000000,
+    "periodEnd": "2013-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001628280-15-008984"
+   },
+   "2014": {
+    "revenue": 8446000000,
+    "periodEnd": "2014-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001628280-16-021658"
+   },
+   "2015": {
+    "revenue": 10282000000,
+    "periodEnd": "2015-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000010795-17-000021"
+   },
+   "2016": {
+    "revenue": 12483000000,
+    "periodEnd": "2016-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000010795-18-000036"
+   },
+   "2017": {
+    "revenue": 12093000000,
+    "periodEnd": "2017-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000010795-19-000044"
+   },
+   "2018": {
+    "revenue": 15983000000,
+    "periodEnd": "2018-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000010795-20-000055"
+   },
+   "2019": {
+    "revenue": 17290000000,
+    "periodEnd": "2019-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000010795-21-000091"
+   },
+   "2020": {
+    "revenue": 16074000000,
+    "periodEnd": "2020-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-22-030686"
+   },
+   "2021": {
+    "revenue": 19131000000,
+    "periodEnd": "2021-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000010795-23-000098"
+   },
+   "2022": {
+    "revenue": 18870000000,
+    "periodEnd": "2022-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000010795-24-000084"
+   },
+   "2023": {
+    "revenue": 19372000000,
+    "periodEnd": "2023-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000010795-25-000099"
+   },
+   "2024": {
+    "revenue": 20178000000,
+    "periodEnd": "2024-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000010795-25-000099"
+   },
+   "2025": {
+    "revenue": 21840000000,
+    "periodEnd": "2025-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000010795-25-000099"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000010795-25-000099",
+    "filingDate": "2025-11-25",
+    "reportDate": "2025-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079525000099/bdx-20250930.htm"
+   },
+   {
+    "accession": "0000010795-24-000084",
+    "filingDate": "2024-11-27",
+    "reportDate": "2024-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079524000084/bdx-20240930.htm"
+   },
+   {
+    "accession": "0000010795-23-000098",
+    "filingDate": "2023-11-21",
+    "reportDate": "2023-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079523000098/bdx-20230930.htm"
+   },
+   {
+    "accession": "0001628280-22-030686",
+    "filingDate": "2022-11-22",
+    "reportDate": "2022-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/10795/000162828022030686/bdx-20220930.htm"
+   },
+   {
+    "accession": "0000010795-21-000091",
+    "filingDate": "2021-11-24",
+    "reportDate": "2021-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079521000091/bdx-20210930.htm"
+   },
+   {
+    "accession": "0000010795-20-000055",
+    "filingDate": "2020-11-25",
+    "reportDate": "2020-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079520000055/bdx-20200930.htm"
+   },
+   {
+    "accession": "0000010795-19-000044",
+    "filingDate": "2019-11-27",
+    "reportDate": "2019-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079519000044/bdx2019-09x3010xk.htm"
+   },
+   {
+    "accession": "0000010795-18-000036",
+    "filingDate": "2018-11-21",
+    "reportDate": "2018-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079518000036/bdx2018-09x3010xk.htm"
+   },
+   {
+    "accession": "0000010795-17-000021",
+    "filingDate": "2017-11-22",
+    "reportDate": "2017-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079517000021/bdx2017-09x3010xk.htm"
+   }
+  ]
+ }
+}

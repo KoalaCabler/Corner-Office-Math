@@ -1,0 +1,376 @@
+{
+ "proxies": {
+  "0000019617-26-000096": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-008131",
+   "result": {
+    "ceoPay": 40644723,
+    "medianPay": 111905,
+    "payRatio": 363,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "are providing the following information about the relationship of the annual total compensation of our estimated median employee and the annual total compensation of Mr. Dimon, our Chairman and CEO. CEO pay ratio For the year ended December 31, 2025: • The annual total compensation of Mr. Dimon was $40,644,723 1 , including Firm-paid employee benefits • The annual total compensation of our estimated median employee was $111,905 2 , including Firm-paid employee benefits • This represents a ratio of 363 to 1 Identifying our median employee We used the same estimated median employee for disclosure in our 2023, 2024 and 2025 Proxy Statements. For the 2026 Proxy Statement, we have identified a new estimated median employee from our global employee population in accordance with SEC rules, based"
+   }
+  },
+  "0000019617-25-000321": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961725000321/jpm-20250405.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000019617-25-000270",
+   "result": {
+    "ceoPay": 37694334,
+    "medianPay": 108218,
+    "payRatio": 348,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "are providing the following information about the relationship of the annual total compensation of our estimated median employee and the annual total compensation of Mr. Dimon, our Chairman and CEO. CEO pay ratio For the year ended December 31, 2024: • The annual total compensation of Mr. Dimon was $37,694,334 1 , including Firm-paid employee benefits • The annual total compensation of our estimated median employee was $108,218 2 , including Firm-paid employee benefits • This represents a ratio of 348 to 1 Identifying our median employee We believe there were no material changes in our employee population or employee compensation arrangements in 2024 that would have necessitated a change to our CEO pay ratio calculation methodology. Therefore, as permitted under SEC rules, for this year's"
+   }
+  },
+  "0000019617-24-000273": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961724000273/jpm-20240406.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000019617-24-000225",
+   "result": {
+    "ceoPay": 35103035,
+    "medianPay": 95988,
+    "payRatio": 366,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "are providing the following information about the relationship of the annual total compensation of our estimated median employee and the annual total compensation of Mr. Dimon, our Chairman and CEO. CEO PAY RATIO For the year ended December 31, 2023: • The annual total compensation of Mr. Dimon was $35,103,035 1 including Firm-paid employee benefits • The annual total compensation of our estimated median employee was $95,988 2 , including Firm-paid employee benefits • This represents a ratio of 366 to 1 IDENTIFYING OUR MEDIAN EMPLOYEE We believe there were no material changes in our employee population or employee compensation arrangements in 2023 that would have necessitated a change to our CEO pay ratio calculation methodology. Therefore, as permitted under SEC rules, for this year's dis"
+   }
+  },
+  "0000019617-23-000281": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961723000281/jpm-20230403.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000019617-23-000231",
+   "result": {
+    "ceoPay": 34856416,
+    "medianPay": 88730,
+    "payRatio": 393,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "are providing the following information about the relationship of the annual total compensation of our estimated median employee and the annual total compensation of Mr. Dimon, our Chairman and CEO. CEO PAY RATIO For the year ended December 31, 2022: • The annual total compensation of Mr. Dimon was $34,856,416 1 including Firm-paid employee benefits • The annual total compensation of our estimated median employee was $88,730 2 , including Firm-paid employee benefits • This represents a ratio of 393 to 1 IDENTIFYING OUR MEDIAN EMPLOYEE The estimated median employee we identified for last year's disclosure received a significantly higher salary increase in 2022 than what would typically be expected for most employees. Therefore, for this year's disclosure, we have identified a new estimated"
+   }
+  },
+  "0000019617-22-000303": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961722000303/a2022proxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000019617-22-000272",
+   "result": {
+    "ceoPay": 84435729,
+    "medianPay": 92112,
+    "payRatio": 917,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "are providing the following information about the relationship of the annual total compensation of our estimated median employee and the annual total compensation of Mr. Dimon, our Chairman and CEO. CEO PAY RATIO For the year ended December 31, 2021: • The annual total compensation of Mr. Dimon was $84,435,729 1 including Firm-paid employee benefits, or $31,815,729 excluding the one-time special award described on page 66 • The annual total compensation of our estimated median employee was $92,112, including Firm-paid employee benefits 2 and change in pension value • This represents a ratio of 917 to 1, or 346 to 1 excluding the one-time special award IDENTIFYING OUR MEDIAN EMPLOYEE For our disclosure in the 2021 proxy statement, we identified our estimated median employee using annual tot"
+   }
+  },
+  "0000019617-21-000275": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961721000275/a2021proxystatement.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000019617-21-000236",
+   "result": {
+    "ceoPay": 31671589,
+    "medianPay": 80102,
+    "payRatio": 395,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "are providing the following information about the relationship of the annual total compensation of our estimated median employee and the annual total compensation of Mr. Dimon, our Chairman and CEO. CEO PAY RATIO For the year ended December 31, 2020: • The annual total compensation of Mr. Dimon was $31,671,589 1 , including Firm-paid employee benefits • The annual total compensation of our estimated median employee was $80,102, including Firm-paid employee benefits 2 and change in pension value • This represents a ratio of 395 to 1 IDENTIFYING OUR MEDIAN EMPLOYEE For our disclosure in the 2020 proxy statement, we identified our estimated median employee using gross taxable payroll compensation as reported to our employees' respective national governments for the year ended December 31, 201"
+   }
+  },
+  "0001193125-20-098865": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/19617/000119312520098865/d822689ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000019617-20-000257",
+   "result": {
+    "ceoPay": 31619266,
+    "medianPay": 80431,
+    "payRatio": 393,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ing the following information about the relationship of the annual total compensation of our estimated median employee and the annual total compensation of Mr. Dimon, our Chairman and CEO. CEO PAY RATIO For the year ended December 31, 2019: |  | | | | The annual total compensation of Mr. Dimon was $31,619,266 1 , including Firm-paid employee benefits | |  | | | | The annual total compensation of our estimated median employee was $80,431, including Firm-paid employee benefits 2 and change in pension value | |  | | | | This represents a ratio of 393 to 1 | IDENTIFYING OUR MEDIAN EMPLOYEE For our disclosure in the 2019 proxy statement, we identified our estimated median employee using gross taxable payroll compensation as reported to our employees respective national governments for the y"
+   }
+  },
+  "0001193125-19-098338": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/19617/000119312519098338/d695908ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000019617-19-000054",
+   "result": {
+    "ceoPay": 30040153,
+    "medianPay": 78923,
+    "payRatio": 381,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ing the following information about the relationship of the annual total compensation of our estimated median employee and the annual total compensation of Mr. Dimon, our Chairman and CEO. CEO pay ratio For the year ended December 31, 2018: | ◾ | | | | The annual total compensation of Mr. Dimon was $30,040,153 1 , including Firm-paid employee benefits | | ◾ | | | | The annual total compensation of our estimated median employee was $78,923, including Firm-paid employee benefits 2 and change in pension value | | ◾ | | | | This represents a ratio of 381 to 1 | Identifying our median employee For our disclosure in the 2018 proxy statement, we identified our estimated median employee using gross taxable payroll compensation as reported to our employees respective national governments for the y"
+   }
+  },
+  "0000019617-18-000077": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961718000077/jpmc2018definitiveproxy.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000019617-18-000057",
+   "result": {
+    "ceoPay": 28320175,
+    "medianPay": 77799,
+    "payRatio": 364,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "the following information about the relationship of the annual total compensation of our estimated median employee and the annual total compensation of Mr. Dimon, our Chairman and CEO. CEO pay ratio For the year ended December 31, 2017: | | | | | ▪ | | The annual total compensation of Mr. Dimon was $28,320,175 1 , including Firm-paid employee benefits | | | | | | ▪ | | The annual total compensation of our estimated median employee was $77,799, including Firm-paid employee benefits 2 and change in pension value | | | | | | ▪ | | This represents a ratio of 364 to 1. | Identifying our median employee We estimated our median employee using gross taxable payroll compensation as reported to our employees' respective national governments for the year ended December 31, 2017, i.e. Form W-2 gross t"
+   }
+  }
+ },
+ "tenKs": {
+  "0000019617-18-000057": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000019617-19-000054": {
+   "parserVersion": 1,
+   "employees": 16000
+  },
+  "0000019617-20-000257": {
+   "parserVersion": 1,
+   "employees": 17000
+  },
+  "0000019617-21-000236": {
+   "parserVersion": 1,
+   "employees": 255351
+  },
+  "0000019617-22-000272": {
+   "parserVersion": 1,
+   "employees": 271025
+  },
+  "0000019617-23-000231": {
+   "parserVersion": 1,
+   "employees": 293723
+  },
+  "0000019617-24-000225": {
+   "parserVersion": 1,
+   "employees": 309926
+  },
+  "0000019617-25-000270": {
+   "parserVersion": 1,
+   "employees": 317233
+  },
+  "0001628280-26-008131": {
+   "parserVersion": 1,
+   "employees": 318512
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 71372000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-10-016029"
+   },
+   "2008": {
+    "revenue": 67252000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-019773"
+   },
+   "2009": {
+    "revenue": 100434000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000019617-12-000163"
+   },
+   "2010": {
+    "revenue": 102694000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000019617-13-000221"
+   },
+   "2011": {
+    "revenue": 97234000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000019617-14-000289"
+   },
+   "2012": {
+    "revenue": 97031000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000019617-15-000272"
+   },
+   "2013": {
+    "revenue": 97367000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000019617-16-000902"
+   },
+   "2014": {
+    "revenue": 95112000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000019617-17-000314"
+   },
+   "2015": {
+    "revenue": 93543000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000019617-18-000057"
+   },
+   "2016": {
+    "revenue": 96569000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000019617-19-000054"
+   },
+   "2017": {
+    "revenue": 100705000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000019617-20-000257"
+   },
+   "2018": {
+    "revenue": 108783000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000019617-21-000236"
+   },
+   "2019": {
+    "revenue": 115720000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000019617-22-000272"
+   },
+   "2020": {
+    "revenue": 119951000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000019617-23-000231"
+   },
+   "2021": {
+    "revenue": 121649000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000019617-24-000225"
+   },
+   "2022": {
+    "revenue": 128695000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000019617-25-000270"
+   },
+   "2023": {
+    "revenue": 158104000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0001628280-26-008131"
+   },
+   "2024": {
+    "revenue": 177556000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0001628280-26-008131"
+   },
+   "2025": {
+    "revenue": 182447000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0001628280-26-008131"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 85159860,
+   "2022": 35610013,
+   "2023": 35960259,
+   "2024": 37683462,
+   "2025": 40632724
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-008131",
+    "filingDate": "2026-02-13",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026008131/jpm-20251231.htm"
+   },
+   {
+    "accession": "0000019617-25-000270",
+    "filingDate": "2025-02-14",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961725000270/jpm-20241231.htm"
+   },
+   {
+    "accession": "0000019617-24-000225",
+    "filingDate": "2024-02-16",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961724000225/jpm-20231231.htm"
+   },
+   {
+    "accession": "0000019617-23-000231",
+    "filingDate": "2023-02-21",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961723000231/jpm-20221231.htm"
+   },
+   {
+    "accession": "0000019617-22-000272",
+    "filingDate": "2022-02-22",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961722000272/jpm-20211231.htm"
+   },
+   {
+    "accession": "0000019617-21-000236",
+    "filingDate": "2021-02-23",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961721000236/jpm-20201231.htm"
+   },
+   {
+    "accession": "0000019617-20-000257",
+    "filingDate": "2020-02-25",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961720000257/corp10k2019.htm"
+   },
+   {
+    "accession": "0000019617-19-000054",
+    "filingDate": "2019-02-26",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961719000054/corp10k2018.htm"
+   },
+   {
+    "accession": "0000019617-18-000057",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961718000057/corp10k2017.htm"
+   },
+   {
+    "accession": "0000019617-17-000314",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961717000314/corp10k2016.htm"
+   }
+  ]
+ }
+}

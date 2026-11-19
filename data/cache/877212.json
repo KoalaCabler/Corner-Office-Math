@@ -1,0 +1,332 @@
+{
+ "proxies": {
+  "0001104659-26-039488": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000110465926039488/zbra-20260519xdef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-007668",
+   "result": {
+    "ceoPay": 13890300,
+    "medianPay": 68738,
+    "payRatio": 202,
+    "method": "cross-checked",
+    "employees": 10462,
+    "statedYear": 2025,
+    "excerpt": "g the same methodology used to determine the total 2025 compensation for the CEO, as reported above in the Summary Compensation Table. CEO Pay Ratio Calculation For 2025: | ● | | The total annual compensation of the employee identified at the median of all Zebra employees, other than Mr. Burns, was $68,738 ; and | | ● | | Mr. Burns' total compensation as CEO was $13,890,300. | | ● | | Based on this information, the ratio of the annual total compensation of Mr. Burns to the median of the annual total compensation of all employees was estimated to be 202 to 1. | Our methodology may differ materially from the methodology used by other companies to prepare their CEO pay ratios, which may contribute to a lack of comparability between our pay ratio and the pay ratio reported by other companies,"
+   }
+  },
+  "0001558370-25-003931": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000155837025003931/zbra-20250508xdef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000877212-25-000027",
+   "result": {
+    "ceoPay": 13462792,
+    "medianPay": 72654,
+    "payRatio": 185,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "elieve would significantly impact the pay ratio disclosure. Therefore, we are using the same median employee that was identified for fiscal years 2022 and 2023. | ● | | The total annual compensation of the employee identified at the median of all of our employees, other than Mr. Burns, our CEO, was $72,654. | | ● | | Mr. Burns' annualized total compensation as CEO was $ 13,462,792 . | | ● | | Based on this information, the ratio of the annual total compensation of Mr. Burns to the median of the annual total compensation of all employees was estimated to be 185:1. | Our methodology may differ materially from the methodology used by other companies to prepare their CEO pay ratios, which may contribute to a lack of comparability between our pay ratio and the pay ratio reported by other compan"
+   }
+  },
+  "0001558370-24-004333": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000155837024004333/zbra-20240509xdef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000877212-24-000029",
+   "result": {
+    "ceoPay": 11333669,
+    "medianPay": 64037,
+    "payRatio": 177,
+    "method": "cross-checked",
+    "employees": 10694,
+    "statedYear": 2023,
+    "excerpt": "erved as CEO for nine months in 2023, per SEC rules, we chose to annualize the calculation of his total compensation as CEO. CEO Pay Ratio Calculation For 2023, | ● | | the total annual compensation of the employee identified at the median of all of our employees, other than Mr. Burns, our CEO, was $64,037; and | | ● | | Mr. Burns' annualized total compensation as CEO was $11,333,669. | | ● | | Based on this information, the ratio of the annual total compensation of Mr. Burns to the median of the annual total compensation of all employees was estimated to be 177 to 1. | Our methodology may differ materially from the methodology used by other companies to prepare their CEO pay ratios, which may contribute to a lack of comparability between our pay ratio and the pay ratio reported by other c"
+   }
+  },
+  "0001308179-23-000459": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000130817923000459/lzbra2023_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000877212-23-000025",
+   "result": {
+    "ceoPay": 14658743,
+    "medianPay": 73287,
+    "payRatio": 200,
+    "method": "cross-checked",
+    "employees": 10694,
+    "statedYear": 2022,
+    "excerpt": "ogy that we used to determine the annual total compensation for the CEO, as reported above in the Summary Compensation Table. CEO Pay Ratio Calculation For 2022, • the total annual compensation of the employee identified at the median of all of our employees, other than Mr. Gustafsson, our CEO, was $73,287; and • Mr. Gustafsson's annual total compensation, as reported in the Summary Compensation Table, was $14,658,743. • Based on this information, the ratio of the annual total compensation of Mr. Gustafsson to the median of the annual total compensation of all employees was estimated to be 200 to 1. Our methodology may differ materially from the methodology used by other companies to prepare their CEO pay ratios, which may contribute to a lack of comparability between our pay ratio and the"
+   }
+  },
+  "0001308179-22-000166": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000130817922000166/lzbra2022_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000877212-22-000026",
+   "result": {
+    "ceoPay": 13589616,
+    "medianPay": 60450,
+    "payRatio": 225,
+    "method": "cross-checked",
+    "employees": 9925,
+    "statedYear": 2021,
+    "excerpt": "ogy that we used to determine the annual total compensation for the CEO, as reported above in the Summary Compensation Table. CEO Pay Ratio Calculation For 2021, ● the total annual compensation of the employee identified at the median of all of our employees, other than Mr. Gustafsson, our CEO, was $60,450; and ● Mr. Gustafsson's annual total compensation, as reported in the Summary Compensation Table, was $13,589,616. ● Based on this information, the ratio of the annual total compensation of Mr. Gustafsson to the median of the annual total compensation of all employees was estimated to be 225 to 1. Our methodology may differ materially from the methodology used by other companies to prepare their CEO pay ratios, which may contribute to a lack of comparability between our pay ratio and the"
+   }
+  },
+  "0001308179-21-000137": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000130817921000137/lzbra2021_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000877212-21-000008",
+   "result": {
+    "ceoPay": 10077727,
+    "medianPay": 64887,
+    "payRatio": 155,
+    "method": "cross-checked",
+    "employees": 8431,
+    "statedYear": 2020,
+    "excerpt": "logy that we use to determine the annual total compensation for the CEO, as reported above in the Summary Compensation Table. CEO Pay Ratio Calculation For 2020, ● the total annual compensation of the employee identified at the median of all of our employees, other than Mr. Gustafsson, our CEO, was $64,887; and ● Mr. Gustafsson's annual total compensation, as reported in the Summary Compensation Table, was $10,077,727. ● Based on this information, the ratio of the annual total compensation of Mr. Gustafsson to the median of the annual total compensation of all employees was estimated to be 155 to 1. Our methodology may differ materially from the methodology used by other companies to prepare their CEO pay ratios, which may contribute to a lack of comparability between our pay ratio and the"
+   }
+  },
+  "0001308179-20-000119": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000130817920000119/lzbra2020_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000877212-20-000006",
+   "result": {
+    "ceoPay": 10150109,
+    "medianPay": 66632,
+    "payRatio": 152.33,
+    "method": "cross-checked",
+    "employees": 7161,
+    "statedYear": 2019,
+    "excerpt": "ees. We employee that we used to calculate the 2018 pay ratio. identified the median employee by referencing the actual payroll CEO Pay Ratio Calculation For 2019, the total annual compensation of the employee identified at the median of all of our employees, other than Mr. Gustafsson, our CEO, was $66,632; and Mr. Gustafsson's annual total compensation, as reported in the Summary Compensation Table, was $10,150,109. Based on this information, the ratio of the annual total compensation of Mr. Gustafsson to the median of the annual total compensation of all employees was estimated to be 152.33 to 1. Our methodology may differ materially from the methodology used by other companies to prepare their CEO pay ratio, which may contribute to a lack of comparability between our pay ratio and the p"
+   }
+  },
+  "0001308179-19-000114": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000130817919000114/lzbra2019_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000877212-19-000011",
+   "result": {
+    "ceoPay": 9496092,
+    "medianPay": 68162,
+    "payRatio": 139.32,
+    "method": "cross-checked",
+    "employees": 7161,
+    "statedYear": 2018,
+    "excerpt": "nother employee whose total compensation is substantially similar to the original median employee's total compensation. CEO Pay Ratio Calculation For 2018, | ● | | the total annual compensation of the employee identified at the median of all of our employees, other than Mr. Gustafsson, our CEO, was $68,162; and | | ● | | Mr. Gustafsson's annual total compensation, as reported in the Summary Compensation Table, was $9,496,092. | | ● | | Based on this information, the ratio of the annual total compensation of Mr. Gustafsson to the median of the annual total compensation of all employees was estimated to be 139.32 to 1. | Our methodology may differ materially from the methodology used by other companies to prepare their CEO pay ratio, which may contribute to a lack of comparability between ou"
+   }
+  },
+  "0001308179-18-000133": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/877212/000130817918000133/lzbra2018-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000877212-18-000011",
+   "result": {
+    "ceoPay": 7791579,
+    "medianPay": 71079,
+    "payRatio": 110,
+    "method": "cross-checked",
+    "employees": 7161,
+    "statedYear": 2017,
+    "excerpt": "| | | Zebra Technologies Corporation | 2018 Proxy Statement | | | | www.zebra.com | | 42 | | | | | Back to Contents CEO Pay Ratio Calculation For 2017, | | | ● | | the total annual compensation of the employee identified at the median of all of our employees, other than Mr. Gustafsson, our CEO, was $71,079; and | | | | ● | | Mr. Gustafsson's annual total compensation, as reported in the Summary Compensation Table, was $7,791,579. | | | | ● | | Based on this information, the ratio of the annual total compensation of Mr. Gustafsson to the median of the annual total compensation of all employees was estimated to be 110 to 1. | Our methodology may differ materially from the methodology used by other companies to prepare their CEO pay ratio, which may contribute to a lack of comparability betwe"
+   }
+  }
+ },
+ "tenKs": {
+  "0000877212-25-000027": {
+   "parserVersion": 1,
+   "employees": 9900
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 976700000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-045274"
+   },
+   "2009": {
+    "revenue": 738482000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-075320"
+   },
+   "2010": {
+    "revenue": 894359000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-069145"
+   },
+   "2011": {
+    "revenue": 983488000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-060748"
+   },
+   "2012": {
+    "revenue": 996168000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-15-095560"
+   },
+   "2013": {
+    "revenue": 1038000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000877212-16-000023"
+   },
+   "2014": {
+    "revenue": 1671000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000877212-17-000009"
+   },
+   "2015": {
+    "revenue": 3650000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000877212-18-000011"
+   },
+   "2016": {
+    "revenue": 3574000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000877212-19-000011"
+   },
+   "2017": {
+    "revenue": 3722000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000877212-20-000006"
+   },
+   "2018": {
+    "revenue": 4218000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000877212-21-000008"
+   },
+   "2019": {
+    "revenue": 4485000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000877212-22-000026"
+   },
+   "2020": {
+    "revenue": 4448000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000877212-23-000025"
+   },
+   "2021": {
+    "revenue": 5627000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000877212-24-000029"
+   },
+   "2022": {
+    "revenue": 5781000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000877212-25-000027"
+   },
+   "2023": {
+    "revenue": 4584000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-007668"
+   },
+   "2024": {
+    "revenue": 4981000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-007668"
+   },
+   "2025": {
+    "revenue": 5396000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-007668"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-007668",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/877212/000162828026007668/zbra-20251231.htm"
+   },
+   {
+    "accession": "0000877212-25-000027",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721225000027/zbra-20241231.htm"
+   },
+   {
+    "accession": "0000877212-24-000029",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721224000029/zbra-20231231.htm"
+   },
+   {
+    "accession": "0000877212-23-000025",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721223000025/zbra-20221231.htm"
+   },
+   {
+    "accession": "0000877212-22-000026",
+    "filingDate": "2022-02-10",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721222000026/zbra-20211231.htm"
+   },
+   {
+    "accession": "0000877212-21-000008",
+    "filingDate": "2021-02-11",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721221000008/zbra-20201231.htm"
+   },
+   {
+    "accession": "0000877212-20-000006",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721220000006/a10k12312019zebra.htm"
+   },
+   {
+    "accession": "0000877212-19-000011",
+    "filingDate": "2019-02-14",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721219000011/a10k12312018zebra.htm"
+   },
+   {
+    "accession": "0000877212-18-000011",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721218000011/a10k12312017zebra.htm"
+   },
+   {
+    "accession": "0000877212-17-000009",
+    "filingDate": "2017-02-27",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/877212/000087721217000009/a10k12312016zebra.htm"
+   }
+  ]
+ }
+}

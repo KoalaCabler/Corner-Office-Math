@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0000004904-26-000022": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000022/aep-20260318.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000004904-26-000013",
+   "result": {
+    "ceoPay": 36601524,
+    "medianPay": 140432,
+    "payRatio": 261,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "d annual total 2025 compensation for such employee using the same methodology we use for our named executive officers, as set forth in the Summary Compensation Table in this proxy statement. Mr. Fehrman, who was Chair, President and CEO as of December 31, 2025, had 2025 annual total compensation of $36,601,524, as reflected in the Summary Compensation Table included in this Proxy Statement. The 2025 annual total compensation of our median employee (other than the CEO) was $140,432. The median employee's total compensation includes base wages; any overtime earnings; annual incentive compensation; the change in the present value of the employee's pension benefits; and the Company's matching contributions to the retirement savings plan. Based on the foregoing, our 81 estimate of the 2025 rati"
+   }
+  },
+  "0000004904-25-000043": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490425000043/aep-20250312.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000004904-25-000027",
+   "result": {
+    "ceoPay": 13257022,
+    "medianPay": 126212,
+    "payRatio": 105,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "lculated annual total 2024 compensation for such employee using the same methodology we use for our named executive officers, as set forth in the Summary Compensation Table in this proxy statement. Mr. Fehrman, who was President and CEO as of December 31, 2024, had 2024 annual total compensation of $13,257,022, as reflected in the Summary Compensation Table included in this Proxy Statement. The 2024 annual total compensation of our median employee (other than the CEO) was $126,212. The median employee's total compensation includes base wages, any overtime earnings, annual incentive compensation, the change in the present value of the employee's pension benefits and the Company's matching contributions to the retirement savings plan. Based on the foregoing, our estimate of the 2024 ratio of"
+   }
+  },
+  "0000004904-24-000023": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490424000023/aep-20240313.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000004904-24-000020",
+   "result": {
+    "ceoPay": 10633745,
+    "medianPay": 121286,
+    "payRatio": 88,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ated annual total 2023 compensation for such employee using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table in this proxy statement. Ms. Sloat, who was Chair, President and CEO as of December 31, 2023, had 2023 annual total compensation of $10,633,745 as reflected in the Summary Compensation Table included in this Proxy Statement. The 2023 annual total compensation of our median employee (other than the CEO) was $121,286. The median employee's total compensation includes base wages, any overtime earnings, annual incentive compensation, the change in the present value of the employee's pension benefits and the Company's matching contributions to the retirement savings plan. Based on the foregoing, our estimate of the 2023 ratio of"
+   }
+  },
+  "0000004904-23-000037": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000037/aep-20230315.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000004904-23-000011",
+   "result": {
+    "ceoPay": 16375508,
+    "medianPay": 119860,
+    "payRatio": 137,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "calculated annual total 2022 compensation for such employee using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table in this proxy statement. Mr. Akins, who was both Chair and CEO as of December 31, 2022, had 2022 annual total compensation of $16,375,508 as reflected in the Summary Compensation Table included in this Proxy Statement. The 2022 annual total compensation of our median employee (other than the CEO) was $119,860. The median employee's total compensation includes base wages, any overtime earnings, annual incentive compensation, the change in the present value of the employee's pension benefits and the Company's matching contributions to the retirement savings plan. Based on the foregoing, our estimate of the 2023 ratio of"
+   }
+  },
+  "0000004904-22-000033": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490422000033/def14a2022proxy.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000004904-22-000024",
+   "result": {
+    "ceoPay": 15051215,
+    "medianPay": 111771,
+    "payRatio": 135,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "the median employee, we calculated annual total 2021 compensation for such employee using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table in this proxy statement. Mr. Akins, who was both Chair and CEO, had 2021 annual total compensation of $15,051,215 as reflected in the Summary Compensation Table included in this Proxy Statement. The 2020 annual total compensation of our median employee (other than the CEO) was $111,771. The median employee's total compensation includes base wages, overtime earnings, annual incentive compensation, the change in the present value of the employee's pension benefits and the Company's matching contributions to the retirement savings plan. Based on the foregoing, our estimate of the 2021 ratio of the"
+   }
+  },
+  "0000004904-21-000016": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490421000016/def14a2021proxy.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000004904-21-000010",
+   "result": {
+    "ceoPay": 15503434,
+    "medianPay": 140965,
+    "payRatio": 110,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "median employee, we calculated annual total compensation for such employee using the same methodology we use for our named executive officers as set forth in the 2020 Summary Compensation Table in this proxy statement. Mr. Akins, who was both Chairman and CEO, had 2020 annual total compensation of $15,503,434 as reflected in the Summary Compensation Table included in this Proxy Statement. The 2020 annual total compensation of our median employee (other than the CEO) was $140,965. The median employee's total compensation includes base wages, overtime earnings, annual incentive compensation, the change in the present value of the employee's pension benefits and the Company's matching contributions to the retirement savings plan. Based on the foregoing, our estimate of the 2020 ratio of the"
+   }
+  },
+  "0000004904-20-000026": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490420000026/def14a2020proxy.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000004904-20-000007",
+   "result": {
+    "ceoPay": 14492436,
+    "medianPay": 132611,
+    "payRatio": 109,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "dian employee, we calculated annual total compensation for such employee using the same methodology we use for our named executive officers as set forth in the 2019 Summary Compensation Table in this proxy statement. 66 Mr. Akins, who was both Chairman and CEO, had 2019 annual total compensation of $14,492,436 as reflected in the Summary Compensation Table included in this Proxy Statement. The 2019 annual total compensation of our median employee (other than the CEO) was $132,611. The median employee's total compensation includes base wages, overtime earnings, annual incentive compensation, the change in the present value of the employee's pension benefits and the Company's matching contributions to the retirement savings plan. Based on the foregoing, our estimate of the 2019 ratio of the"
+   }
+  },
+  "0001193125-19-072746": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/4904/000119312519072746/d644079ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000004904-19-000009",
+   "result": {
+    "ceoPay": 12202028,
+    "medianPay": 110125,
+    "payRatio": 111,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "median employee, we calculated annual total compensation for such employee using the same methodology we use for our named executive officers as set forth in the 2018 Summary Compensation Table in this proxy statement. Mr. Akins, who was both Chairman and CEO, had 2018 annual total compensation of $12,202,028, as reflected in the Summary Compensation Table included in this Proxy Statement. The 2018 annual total compensation of our median employee (other than the CEO) was $110,125. The median employees total compensation includes base wages, overtime earnings, annual incentive compensation, the change in the present value of the employees pension benefits and the Companys matching contributions to the retirement savings plan. Based on the foregoing, our estimate of the 2018 ratio of the"
+   }
+  },
+  "0001193125-18-081340": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/4904/000119312518081340/d521329ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000004904-18-000009",
+   "result": {
+    "ceoPay": 11530461,
+    "medianPay": 113084,
+    "payRatio": 102,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "e median employee, we calculated annual total compensation for such employee using the same methodology we use for our named executive officers as set forth in the 2017 Summary Compensation Table in this proxy statement. Mr. Akins, who was both Chairman and CEO had 2017 annual total compensation of $11,530,461, as reflected in the Summary Compensation Table included in this Proxy Statement. The 2017 annual total compensation of our median employee (other than the CEO) was $113,084. The median employees total compensation includes base wages, overtime earnings, annual incentive compensation, the change in the present value of the employees pension benefits and the Companys matching contributions to the retirement savings plan. Based on the foregoing, our estimate of the 2017 ratio of the"
+   }
+  }
+ },
+ "tenKs": {
+  "0000004904-18-000009": {
+   "parserVersion": 1,
+   "employees": 17666
+  },
+  "0000004904-19-000009": {
+   "parserVersion": 1,
+   "employees": 17582
+  },
+  "0000004904-20-000007": {
+   "parserVersion": 1,
+   "employees": 17408
+  },
+  "0000004904-21-000010": {
+   "parserVersion": 1,
+   "employees": 16787
+  },
+  "0000004904-22-000024": {
+   "parserVersion": 1,
+   "employees": 16688
+  },
+  "0000004904-23-000011": {
+   "parserVersion": 1,
+   "employees": 16974
+  },
+  "0000004904-24-000020": {
+   "parserVersion": 1,
+   "employees": 17250
+  },
+  "0000004904-25-000027": {
+   "parserVersion": 1,
+   "employees": 16330
+  },
+  "0000004904-26-000013": {
+   "parserVersion": 1,
+   "employees": 17581
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 13380000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-10-000018"
+   },
+   "2008": {
+    "revenue": 14440000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-11-000023"
+   },
+   "2009": {
+    "revenue": 13489000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-12-000013"
+   },
+   "2010": {
+    "revenue": 14427000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-13-000025"
+   },
+   "2011": {
+    "revenue": 15116000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-14-000019"
+   },
+   "2012": {
+    "revenue": 14945000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-15-000008"
+   },
+   "2013": {
+    "revenue": 14813500000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-16-000056"
+   },
+   "2014": {
+    "revenue": 16378600000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-17-000019"
+   },
+   "2015": {
+    "revenue": 16453200000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-18-000009"
+   },
+   "2016": {
+    "revenue": 16380100000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-19-000009"
+   },
+   "2017": {
+    "revenue": 15424900000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-20-000007"
+   },
+   "2018": {
+    "revenue": 16195700000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-21-000010"
+   },
+   "2019": {
+    "revenue": 15561400000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-22-000024"
+   },
+   "2020": {
+    "revenue": 14918500000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-23-000011"
+   },
+   "2021": {
+    "revenue": 16792000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-24-000020"
+   },
+   "2022": {
+    "revenue": 19639500000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-25-000027"
+   },
+   "2023": {
+    "revenue": 19456000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000004904-26-000013"
+   },
+   "2024": {
+    "revenue": 19970000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000004904-26-000013"
+   },
+   "2025": {
+    "revenue": 21876000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004904-26-000013"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000004904-26-000013",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490426000013/aep-20251231.htm"
+   },
+   {
+    "accession": "0000004904-25-000027",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490425000027/aep-20241231.htm"
+   },
+   {
+    "accession": "0000004904-24-000020",
+    "filingDate": "2024-02-26",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490424000020/aep-20231231.htm"
+   },
+   {
+    "accession": "0000004904-23-000011",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490423000011/aep-20221231.htm"
+   },
+   {
+    "accession": "0000004904-22-000024",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490422000024/aep-20211231.htm"
+   },
+   {
+    "accession": "0000004904-21-000010",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490421000010/aep-20201231.htm"
+   },
+   {
+    "accession": "0000004904-20-000007",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490420000007/aep10klegal20194q.htm"
+   },
+   {
+    "accession": "0000004904-19-000009",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490419000009/aep10klegal20184q.htm"
+   },
+   {
+    "accession": "0000004904-18-000009",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490418000009/aep10klegal20174q.htm"
+   },
+   {
+    "accession": "0000004904-17-000019",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4904/000000490417000019/aep10klegal20164q.htm"
+   }
+  ]
+ }
+}

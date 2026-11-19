@@ -1,0 +1,364 @@
+{
+ "proxies": {
+  "0001193125-26-148814": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526148814/uhs-20260403.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001193125-26-071676",
+   "result": {
+    "ceoPay": 16148937,
+    "medianPay": 57048,
+    "payRatio": 283,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "turnover and job status changes that | | 63 | | Universal Health Services, Inc. 2026 Proxy Statement | | | Potential Payments Upon Termination or Change-in-Control | | | exist in the healthcare industry, we recalculated the median employee in 2025 and determined that person's total compensation was $57,048. The ratio of CEO pay to median worker pay is 283:1. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companie"
+   }
+  },
+  "0000950170-25-049925": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017025049925/uhs-20250327.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-027785",
+   "result": {
+    "ceoPay": 15021836,
+    "medianPay": 53396,
+    "payRatio": 281,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "temporary employees reduces the median of the annual total compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare industry, we recalculated the median employee in 2024 and determined that person's total compensation was $53,396. The ratio of CEO pay to median worker pay is 281:1. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companie"
+   }
+  },
+  "0001193125-24-086555": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312524086555/d631163ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-021175",
+   "result": {
+    "ceoPay": 14407937,
+    "medianPay": 50152,
+    "payRatio": 287,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "temporary employees reduces the median of the annual total compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare industry, we recalculated the median employee in 2023 and determined that person's total compensation was $50,152. The ratio of CEO pay to median worker pay is 287:1. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companie"
+   }
+  },
+  "0001193125-23-093052": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312523093052/d445017ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000950170-23-004656",
+   "result": {
+    "ceoPay": 10919976,
+    "medianPay": 49369,
+    "payRatio": 221,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "temporary employees reduces the median of the annual total compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare industry, we recalculated the median employee in 2022 and determined that person's total compensation was $49,369. The ratio of CEO pay to median worker pay is 221:1. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companie"
+   }
+  },
+  "0001193125-22-098067": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312522098067/d465454ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001564590-22-006717",
+   "result": {
+    "ceoPay": 29653917,
+    "medianPay": 94000,
+    "payRatio": 309,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "control of the Company. The intrinsic value of our named executive officers stock options for which vesting would have accelerated assuming a change in control of the Company in which equity awards are not assumed or substituted had occurred as of December 31, 2021, is as follows: Alan B. Miller: $29,653,917; Marc D. Miller: $5,026,083; Steve G. Filton: $3,518,230; Marvin G. Pember: $6,058,510; and Matthew J. Peterson: $2,387,764. Additionally, the intrinsic value of Alan B. Millers restricted stock grant awards for which vesting would have accelerated assuming a change in control of the Company in which equity awards are not assumed or substituted had occurred as of December 31, 2021 was $1,376,860. Such intrinsic values of the accelerated stock options and accelerated restricted stock"
+   }
+  },
+  "0001564590-21-017879": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459021017879/uhs-def14a_20210621.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-008851",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 43337,
+    "payRatio": 305,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "porary employees reduces the median of the annual total compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare 54 industry, we recalculated the median employee in 2020 and determined that person's total compensation was $43,337. The ratio of CEO pay to median worker pay is 305:1. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companie"
+   }
+  },
+  "0001564590-20-015986": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459020015986/uhs-def14a_20200520.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-006793",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 38931,
+    "payRatio": 629,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "temporary employees reduces the median of the annual total compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare industry, we recalculated the median employee in 2019 and determined that person's total compensation was $38,931. The ratio of CEO pay to median worker pay is 629:1. 67 The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compen sation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other comp"
+   }
+  },
+  "0001564590-19-010754": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459019010754/uhs-def14a_20181231.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001564590-19-004919",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 40826,
+    "payRatio": 578,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "temporary employees reduces the median of the annual total compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare industry, we recalculated the median employee in 2018 and determined that person's total compensation was $40,826. The ratio of CEO pay to median worker pay is 578:1. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companie"
+   }
+  },
+  "0001564590-18-007630": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459018007630/uhs-def14a_20180516.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001564590-18-003808",
+   "result": {
+    "ceoPay": 51749134,
+    "medianPay": 98000,
+    "payRatio": 541,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "$ | | 0 | | | | | | | | $ | | 39,548,584 | | | | Termination by Mr. Alan Miller for \"Breach by the Company\" or Termination by the Company Without Cause | | | | $ | | 6,726,600 | | | | (b.) | | | | $ | | 2,473,949 | | | | (c.) | | | | $ | | 39,548,585 | | | | | | $ | | 3,000,000 | | | | (d.) | | | | $ | | 51,749,134 | | | | (a.) | | Based upon 50% of the targeted 2018 non-equity incentive plan bonus award and 50% (6 months) of Mr. Alan Miller's 2018 base salary. | | (b.) | | Assumes (i) continuation of all cash compensation through 2019 (automatic annual renewal termination date); (ii) annual base salary increase of 2.0% through 2019, and; (iii) an annual bonus award equal to 100% of his estimated base salary through 2019, which assumes the achievement of the bonus opportunity target set fo"
+   }
+  }
+ },
+ "tenKs": {
+  "0001564590-18-003808": {
+   "parserVersion": 1,
+   "employees": 76600
+  },
+  "0001564590-19-004919": {
+   "parserVersion": 1,
+   "employees": 78700
+  },
+  "0001564590-20-006793": {
+   "parserVersion": 1,
+   "employees": 80800
+  },
+  "0001564590-21-008851": {
+   "parserVersion": 1,
+   "employees": 89000
+  },
+  "0001564590-22-006717": {
+   "parserVersion": 1,
+   "employees": 89400
+  },
+  "0000950170-23-004656": {
+   "parserVersion": 1,
+   "employees": 93800
+  },
+  "0000950170-24-021175": {
+   "parserVersion": 1,
+   "employees": 96700
+  },
+  "0000950170-25-027785": {
+   "parserVersion": 1,
+   "employees": 99000
+  },
+  "0001193125-26-071676": {
+   "parserVersion": 1,
+   "employees": 101500
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 5022417000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001193125-11-050142"
+   },
+   "2009": {
+    "revenue": 5202379000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001193125-12-081900"
+   },
+   "2010": {
+    "revenue": 5429233000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001193125-13-084679"
+   },
+   "2011": {
+    "revenue": 7356798000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001193125-14-073337"
+   },
+   "2012": {
+    "revenue": 7688071000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001193125-15-065954"
+   },
+   "2013": {
+    "revenue": 8495089000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001564590-16-013375"
+   },
+   "2014": {
+    "revenue": 8904071000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001564590-17-002860"
+   },
+   "2015": {
+    "revenue": 9784724000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001564590-18-003808"
+   },
+   "2016": {
+    "revenue": 10507788000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001564590-18-003808"
+   },
+   "2017": {
+    "revenue": 11278942000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001564590-18-003808"
+   },
+   "2018": {
+    "revenue": 10772278000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-21-008851"
+   },
+   "2019": {
+    "revenue": 11378259000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-22-006717"
+   },
+   "2020": {
+    "revenue": 11558897000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-23-004656"
+   },
+   "2021": {
+    "revenue": 12642117000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-24-021175"
+   },
+   "2022": {
+    "revenue": 13399370000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-25-027785"
+   },
+   "2023": {
+    "revenue": 14281976000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-071676"
+   },
+   "2024": {
+    "revenue": 15827935000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-071676"
+   },
+   "2025": {
+    "revenue": 17364829000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-071676"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-071676",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526071676/uhs-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-027785",
+    "filingDate": "2025-02-26",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017025027785/uhs-20241231.htm"
+   },
+   {
+    "accession": "0000950170-24-021175",
+    "filingDate": "2024-02-27",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017024021175/uhs-20231231.htm"
+   },
+   {
+    "accession": "0000950170-23-004656",
+    "filingDate": "2023-02-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017023004656/uhs-20221231.htm"
+   },
+   {
+    "accession": "0001564590-22-006717",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459022006717/uhs-10k_20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-008851",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459021008851/uhs-10k_20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-006793",
+    "filingDate": "2020-02-26",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459020006793/uhs-10k_20191231.htm"
+   },
+   {
+    "accession": "0001564590-19-004919",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459019004919/uhs-10k_20181231.htm"
+   },
+   {
+    "accession": "0001564590-18-003808",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459018003808/uhs-10k_20171231.htm"
+   },
+   {
+    "accession": "0001564590-17-002860",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459017002860/uhs-10k_20161231.htm"
+   }
+  ]
+ }
+}

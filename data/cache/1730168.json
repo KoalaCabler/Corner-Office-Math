@@ -1,0 +1,284 @@
+{
+ "proxies": {
+  "0001193125-26-085691": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312526085691/d49254ddef14a.htm",
+   "periodEnd": "2025-11-02",
+   "tenK": "0001730168-25-000121",
+   "result": {
+    "ceoPay": 205278006,
+    "medianPay": 378281,
+    "payRatio": 543,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": ", Broadcom is providing the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (the \"Ratio\"). CEO PAY RATIO For fiscal 2025, the annual total compensation of our CEO, as reported in the \" Fiscal 2025 Summary Compensation Table ,\" is $205,278,006. The median of the annual total compensation of all our employees is $378,281. Therefore, the Ratio calculated in accordance with Item 402(u) of Regulation S-K is 543 to 1. In determining the annual total compensation of the median employee, we calculated such employee's compensation in accordance with SEC executive compensation disclosure rules. This calculation is the same calculation used to determine the total compensation of each of our NEOs for purposes of the \" Fiscal 2025 Su"
+   }
+  },
+  "0001193125-25-044112": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312525044112/d861439ddef14a.htm",
+   "periodEnd": "2024-11-03",
+   "tenK": "0001730168-24-000139",
+   "result": {
+    "ceoPay": 2634542,
+    "medianPay": 324658,
+    "payRatio": 8,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": ", Broadcom is providing the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (the \"Ratio\"). CEO PAY RATIO For fiscal 2024, the annual total compensation of our CEO, as reported in the \" Fiscal 2024 Summary Compensation Table ,\" is $2,634,542. The median of the annual total compensation of all our employees is $324,658. Therefore, the Ratio calculated in accordance with Item 402(u) of Regulation S-K is 8 to 1. In determining the annual total compensation of the median employee, we calculated such employee's compensation in accordance with SEC executive compensation disclosure rules. This calculation is the same calculation used to determine the total compensation for purposes of the \" Fiscal 2024 Summary Compensation Table"
+   }
+  },
+  "0001140361-24-009541": {
+   "parserVersion": 1,
+   "filingDate": "2024-02-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000114036124009541/ny20015852x1_def14a.htm",
+   "periodEnd": "2023-10-29",
+   "tenK": "0001730168-23-000096",
+   "result": {
+    "ceoPay": 161826161,
+    "medianPay": 317199,
+    "payRatio": 510,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": ", Broadcom is providing the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (the \"Ratio\"). CEO PAY RATIO For fiscal 2023, the annual total compensation of our CEO, as reported in the \" Fiscal 2023 Summary Compensation Table ,\" is $161,826,161. The median of the annual total compensation of all our employees is $317,199. Therefore, the Ratio calculated in accordance with Item 402(u) of Regulation S-K is 510 to 1. In determining the annual total compensation of the median employee, we calculated such employee's compensation in accordance with SEC executive compensation disclosure rules. This calculation is the same calculation used to determine the total compensation for purposes of the \" Fiscal 2023 Summary Compensation T"
+   }
+  },
+  "0001140361-23-007640": {
+   "parserVersion": 1,
+   "filingDate": "2023-02-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000114036123007640/ny20006245x500_def14a.htm",
+   "periodEnd": "2022-10-30",
+   "tenK": "0001730168-22-000118",
+   "result": {
+    "ceoPay": 60606971,
+    "medianPay": 179156,
+    "payRatio": 338,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ules, Broadcom is providing the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (the \"Ratio\"). For Fiscal Year 2022, the annual total compensation of our CEO, as reported in the \" Fiscal Year 2022 Summary Compensation Table ,\" is $60,606,971 and the median of the annual total compensation of all our employees is $179,156. The Ratio is 338 to 1. In determining the annual total compensation of the median employee, we calculated such employee's compensation in accordance with SEC executive compensation disclosure rules. This calculation is the same calculation used to determine the total compensation for purposes of the \" Fiscal Year 2022 Summary Compensation Table \" with respect to each of our NEOs. As permitted by SEC rul"
+   }
+  },
+  "0001730168-22-000012": {
+   "parserVersion": 1,
+   "filingDate": "2022-02-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016822000012/a2022proxystatement.htm",
+   "periodEnd": "2021-10-31",
+   "tenK": "0001730168-21-000153",
+   "result": {
+    "ceoPay": 60703627,
+    "medianPay": 247541,
+    "payRatio": 245,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ules, Broadcom is providing the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (the \"Ratio\"). For Fiscal Year 2021, the annual total compensation of our CEO, as reported in the \" Fiscal Year 2021 Summary Compensation Table ,\" is $60,703,627 and the median of the annual total compensation of all our employees is $247,541. The Ratio is 245 to 1. In determining the annual total compensation of the median employee, we calculated such employee's compensation in accordance with SEC executive compensation disclosure rules. This calculation is the same calculation used to determine the total compensation for purposes of the \" Fiscal Year 2021 Summary Compensation Table \" with respect to each of our NEOs. In Fiscal Year 2021, Mr"
+   }
+  },
+  "0001730168-21-000017": {
+   "parserVersion": 1,
+   "filingDate": "2021-02-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016821000017/a2021proxystatement.htm",
+   "periodEnd": "2020-11-01",
+   "tenK": "0001730168-20-000226",
+   "result": {
+    "ceoPay": 3695852,
+    "medianPay": 239395,
+    "payRatio": 15,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ules, Broadcom is providing the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (the \"Ratio\"). For Fiscal Year 2020, the annual total compensation of our CEO, as reported in the \" Fiscal Year 2020 Summary Compensation Table ,\" is $3,695,852 and the median of the annual total compensation of all our employees is $239,395. The Ratio is 15 to 1. In Fiscal Year 2020, Mr. Tan did not receive an equity award, as his Fiscal Year 2017 PSU award was a long-term, multi-year award. Our median compensated employee was granted Multi-Year Equity Awards, which will vest on the same basis as four annual equity grants made on March 15 of each year, beginning in 2019. In order to better compare Mr. Tan's annual total compensation to our m"
+   }
+  },
+  "0001730168-20-000020": {
+   "parserVersion": 1,
+   "filingDate": "2020-02-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016820000020/a2020proxystatement.htm",
+   "periodEnd": "2019-11-03",
+   "tenK": "0001730168-19-000144",
+   "result": {
+    "ceoPay": 26947598,
+    "medianPay": 168268,
+    "payRatio": 160,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ensation the grant date fair value of the Multi-Year Equity Award with a vesting start date of March 15, 2019 and excluding the grant date fair value of the Multi-Year Equity Awards with vesting start dates in 2020, 2021 and 2022. This results in notional, total compensation for Fiscal Year 2019 of $26,947,598 for our CEO and $168,268 for our median employee. The supplemental ratio using this amount is 160 to 1. In determining the annual total compensation of the median employee, we calculated such employee's compensation in accordance with SEC executive compensation disclosure rules. This calculation is the same calculation used to determine the total compensation for purposes of the \" Fiscal Year 2019 Summary Compensation Table \" with respect to each of our NEOs. To identify the median e"
+   }
+  },
+  "0001193125-19-043540": {
+   "parserVersion": 1,
+   "filingDate": "2019-02-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1730168/000119312519043540/d676557ddef14a.htm",
+   "periodEnd": "2018-11-04",
+   "tenK": "0001730168-18-000084",
+   "result": {
+    "ceoPay": 5042937,
+    "medianPay": 202915,
+    "payRatio": 25,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "rdance with SEC rules, we are providing the ratio of the total annual compensation of our CEO to the annual total compensation of our median employee (the Ratio). For Fiscal Year 2018, the annual total compensation of our CEO, as reported in the  Fiscal Year 2018 Summary Compensation Table , is $5,042,937 and the annual total compensation of our median compensated employee is $202,915. The Ratio is 25 to 1. In Fiscal Year 2018, Mr. Tan did not receive an equity award, as his Fiscal Year 2017 PSU award was a long-term, multi-year award. In order to better compare Mr. Tans annual total compensation to our median compensated employee, we are providing a supplemental pay ratio that includes in the CEOs 2018 annual total compensation an annualized value of Mr. Tans Fiscal Year 2017 PSU a"
+   }
+  }
+ },
+ "tenKs": {
+  "0001730168-18-000084": {
+   "parserVersion": 1,
+   "employees": 15000
+  },
+  "0001730168-19-000144": {
+   "parserVersion": 1,
+   "employees": 19000
+  },
+  "0001730168-20-000226": {
+   "parserVersion": 1,
+   "employees": 21000
+  },
+  "0001730168-21-000153": {
+   "parserVersion": 1,
+   "employees": 20000
+  },
+  "0001730168-22-000118": {
+   "parserVersion": 1,
+   "employees": 20000
+  },
+  "0001730168-23-000096": {
+   "parserVersion": 1,
+   "employees": 20000
+  },
+  "0001730168-24-000139": {
+   "parserVersion": 1,
+   "employees": 37000
+  },
+  "0001730168-25-000121": {
+   "parserVersion": 1,
+   "employees": 33000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2016": {
+    "revenue": 13240000000,
+    "periodEnd": "2016-10-30",
+    "revenueTag": "Revenues",
+    "accession": "0001730168-18-000084"
+   },
+   "2017": {
+    "revenue": 17636000000,
+    "periodEnd": "2017-10-29",
+    "revenueTag": "Revenues",
+    "accession": "0001730168-18-000084"
+   },
+   "2018": {
+    "revenue": 20848000000,
+    "periodEnd": "2018-11-04",
+    "revenueTag": "Revenues",
+    "accession": "0001730168-18-000084"
+   },
+   "2019": {
+    "revenue": 22597000000,
+    "periodEnd": "2019-11-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001730168-21-000153"
+   },
+   "2020": {
+    "revenue": 23888000000,
+    "periodEnd": "2020-11-01",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001730168-22-000118"
+   },
+   "2021": {
+    "revenue": 27450000000,
+    "periodEnd": "2021-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001730168-23-000096"
+   },
+   "2022": {
+    "revenue": 33203000000,
+    "periodEnd": "2022-10-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001730168-24-000139"
+   },
+   "2023": {
+    "revenue": 35819000000,
+    "periodEnd": "2023-10-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001730168-25-000121"
+   },
+   "2024": {
+    "revenue": 51574000000,
+    "periodEnd": "2024-11-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001730168-25-000121"
+   },
+   "2025": {
+    "revenue": 63887000000,
+    "periodEnd": "2025-11-02",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001730168-25-000121"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001730168-25-000121",
+    "filingDate": "2025-12-18",
+    "reportDate": "2025-11-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016825000121/avgo-20251102.htm"
+   },
+   {
+    "accession": "0001730168-24-000139",
+    "filingDate": "2024-12-20",
+    "reportDate": "2024-11-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016824000139/avgo-20241103.htm"
+   },
+   {
+    "accession": "0001730168-23-000096",
+    "filingDate": "2023-12-14",
+    "reportDate": "2023-10-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016823000096/avgo-20231029.htm"
+   },
+   {
+    "accession": "0001730168-22-000118",
+    "filingDate": "2022-12-16",
+    "reportDate": "2022-10-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016822000118/avgo-20221030.htm"
+   },
+   {
+    "accession": "0001730168-21-000153",
+    "filingDate": "2021-12-17",
+    "reportDate": "2021-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016821000153/avgo-20211031.htm"
+   },
+   {
+    "accession": "0001730168-20-000226",
+    "filingDate": "2020-12-18",
+    "reportDate": "2020-11-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016820000226/avgo-20201101.htm"
+   },
+   {
+    "accession": "0001730168-19-000144",
+    "filingDate": "2019-12-20",
+    "reportDate": "2019-11-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016819000144/avgo-11032019x10k.htm"
+   },
+   {
+    "accession": "0001730168-18-000084",
+    "filingDate": "2018-12-21",
+    "reportDate": "2018-11-04",
+    "url": "https://www.sec.gov/Archives/edgar/data/1730168/000173016818000084/avgo-11042018x10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0000078003-26-000033": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000033/pfe-20260312.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000078003-26-000026",
+   "result": {
+    "ceoPay": 27585301,
+    "medianPay": 99631,
+    "payRatio": 277,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "| | | | | 2026 Proxy Statement Pfizer | | | 91 | | | | | Executive Compensation | CEO PAY RATIO The 2025 annual total compensation for Dr. Bourla was 277 times the annual total compensation of the median-paid employee as follows: | | | | | | | | | | Annual Total Compensation | | | Albert Bourla | | $ | | 27,585,301 | | | (1) | | Median-Paid Employee | | $99,631 | | | (2) | | Ratio | | 277:1 | | (1) As reported in the \"Total\" column of the Summary Compensation Table. (2) Cash compensation (including overtime pay) of $95,111; equity of $0; change in pension of $4,473 plus all other compensation of $47. The annual total compensation, for purposes of the pay ratio, was determined using the requirements for the SCT for both Dr. Bourla and the median-paid employee. The median-paid employee is th"
+   }
+  },
+  "0000078003-25-000062": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000062/pfe-20250313.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000078003-25-000054",
+   "result": {
+    "ceoPay": 24648727,
+    "medianPay": 91507,
+    "payRatio": 269,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "| | | | | 84 | | | Pfizer 2025 Proxy Statement | | | | | Executive Compensation | CEO Pay Ratio The 2024 annual total compensation for Dr. Bourla was 269 times the annual total compensation of the median-paid employee as follows: | | | | | | | | | | Annual Total Compensation | | | Albert Bourla | | $24,648,727 | | | (1) | | Median-Paid Employee | | $91,507 | | | (2) | | Ratio | | 269:1 | | (1) As reported in the \"Total\" column of the Summary Compensation Table. (2) Cash compensation (including overtime pay) of $87,892; equity of $0; change in pension of $3,574 plus all other compensation of $41. The annual total compensation, for purposes of the pay ratio, was determined using the requirements for the SCT for both Dr. Bourla and the median-paid employee. The employee representing the media"
+   }
+  },
+  "0000078003-24-000068": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000068/pfe-20240313.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000078003-24-000039",
+   "result": {
+    "ceoPay": 21562064,
+    "medianPay": 74008,
+    "payRatio": 291,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "| | | | 86 | | | Pfizer 2024 Proxy Statement | | | | | Executive Compensation | CEO Pay Ratio The 2023 annual total compensation for Dr. Bourla was 291 times the annual total compensation of the median-paid employee as follows: | | | | | | | | | | Annual Total Compensation | | | Albert Bourla: | | $21,562,064 | | | (1) | | Median-Paid Employee | | $74,008 | | | (2) | | Ratio | | 291:1 | | (1) As reported in the \"Total\" column of the Summary Compensation Table. (2) Cash compensation (including overtime pay) of $66,427; equity of $0; change in pension of $0 plus all other compensation of $7,581. The annual total compensation for purposes of the pay ratio was determined using the requirements for the SCT. As permitted under the SEC disclosure rules, the same median-paid employee selected for"
+   }
+  },
+  "0000078003-23-000040": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800323000040/pfe-20230315.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000078003-23-000024",
+   "result": {
+    "ceoPay": 33017453,
+    "medianPay": 75536,
+    "payRatio": 437,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "023 Proxy Statement | | | | | | | | Executive Compensation | CEO Pay Ratio The 2022 annual total compensation for Dr. Bourla was 437 times the annual total compensation of the median-paid employee as follows: | | | | | | | | | | | | | | | | | | | Annual Total Compensation | | | | Albert Bourla: | | $33,017,453 | | | | Median-Paid Employee | | $75,536 | | (1) | | Ratio | | 437:1 | | | (1) Cash compensation (including overtime pay) of $68,458; equity of $0; change in pension of $0 plus all other compensation of $7,078. The annual total compensation for purposes of the pay ratio was determined using the requirements for the SCT. Under SEC disclosure rules, the median-paid employee may be identified once every three years if there is no significant impact to the pay ratio disclosure during the"
+   }
+  },
+  "0000078003-22-000038": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800322000038/proxywc22.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000078003-22-000027",
+   "result": {
+    "ceoPay": 24353219,
+    "medianPay": 92986,
+    "payRatio": 262,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "| | | | | | Executive Compensation Compensation Tables | CEO Pay Ratio The 2021 annual total compensation for Dr. Bourla was 262 times the annual total compensation of the median-paid employee as follows: | | | | | | | | | | | | | | | | | | | Annual Total Compensation | | | | | | Albert Bourla: | | $24,353,219 | | | | Median-Paid Employee | | $92,986 | | (1) | | Ratio | | 262:1 | | | (1) Cash compensation (including overtime pay) of $79,018; equity of $0; change in pension of $0 plus all other compensation of $13,968. The annual total compensation for purposes of the pay ratio was determined using the requirements for the SCT. Under SEC disclosure rules, the median-paid employee may be identified once every three years if there is no significant impact to the pay ratio disclosure during th"
+   }
+  },
+  "0000078003-21-000047": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800321000047/proxystatement.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000078003-21-000038",
+   "result": {
+    "ceoPay": 21033570,
+    "medianPay": 108828,
+    "payRatio": 193,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "median-paid employee was located outside of the U.S., the annual total compensation was converted to U.S. dollars using the spot exchange rate as of the last business day of the year (December 31, 2020). | | | | | | | | | | | | | | | | | | | Annual Total Compensation | | | | | | Albert Bourla: | | $21,033,570 | | | | Median-Paid Employee | | $108,828 | | (1) | | Ratio | | 193:1 | | | (1) Cash compensation (including overtime pay) of $74,616; equity of $0; change in pension of $19,075 plus all other compensation of $15,137. We applied the following steps to identify the median-paid employee for the 2020 Proxy Statement (who is also the median-paid employee for the 2021 Proxy Statement): (1) Calculated the annual total cash compensation (annual base salary rate + actual incentive bonus paid"
+   }
+  },
+  "0000930413-20-000781": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000093041320000781/c94228_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000078003-20-000014",
+   "result": {
+    "ceoPay": 17928963,
+    "medianPay": 98972,
+    "payRatio": 181,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2016,
+    "excerpt": "bonus and all other compensation. As the median-paid employee was located outside of the U.S., the annual total compensation was converted to U.S. dollars using the spot exchange rate as of the last business day of the year (December 31, 2019). | Annual Total Compensation | | | | Albert Bourla | | $17,928,963 | | | | Median Employee | | $98,972 | | (1) | | Ratio | | 181:1 | | | | (1) | | Cash compensation (including overtime pay) of $71,087; equity of $0; change in pension of $16,195 plus all other compensation of $11,690. | We applied the following steps to identify the median-paid employee: | | | (1) | | Calculated the annual total cash compensation (annual base salary rate + actual incentive bonus paid during the prior 12 months, if applicable) for all employees of the company as of Oc"
+   }
+  },
+  "0000930413-19-000953": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000093041319000953/c93082_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000078003-19-000015",
+   "result": {
+    "ceoPay": 19549213,
+    "medianPay": 80011,
+    "payRatio": 244,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "alary, bonus, equity and all other compensation. As the median-paid employee was located outside of the U.S., the annual total compensation was converted to USD using the spot exchange rate as of the last business day of the year (December 31, 2018). | Annual Total Compensation | | Ian Read | | | | $ | | 19,549,213 | | | | Median Employee | | | | | | $80,011 | | (1) | | Ratio | | | | | | 244:1 | | | | (1) | | Cash compensation of $59,683; equity of $3,695; plus all other compensation of $16,633. | As previously reported in the 2018 Proxy Statement, we applied the following steps to identify the median-paid employee: | | | (1) | | Calculated the annual total cash compensation (annual base salary + actual incentive bonus paid during the prior 12 months) for all employees of the company as of"
+   }
+  },
+  "0000930413-18-000973": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/78003/000093041318000973/c90444_def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000078003-18-000027",
+   "result": {
+    "ceoPay": 27913775,
+    "medianPay": 89206,
+    "payRatio": 313,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2016,
+    "excerpt": "o adjust for a partial year of service. As the median-paid employee was located outside of the U.S., the annual total compensation was converted to U.S. dollars using the spot exchange rate as of the last business day of the year (December 29, 2017). | Annual Total Compensation | | | | Ian Read | | $27,913,775 | | | | Median Employee | | $89,206 | | (1) | | Ratio | | 313:1 | | | | (1) | | Cash compensation of $71,187 + all other compensation of $18,019. | In identifying the median-paid employee, we applied the following steps: | (1) | | Calculated the annual total cash compensation (annual base salary + actual incentive bonus paid during the prior 12 months) for all employees of the company as of October 1, 2017. We believe that annual total cash compensation is a consistently applied comp"
+   }
+  }
+ },
+ "tenKs": {
+  "0000078003-18-000027": {
+   "parserVersion": 1,
+   "employees": 90200
+  },
+  "0000078003-19-000015": {
+   "parserVersion": 1,
+   "employees": 92400
+  },
+  "0000078003-20-000014": {
+   "parserVersion": 1,
+   "employees": 88300
+  },
+  "0000078003-21-000038": {
+   "parserVersion": 1,
+   "employees": 78500
+  },
+  "0000078003-22-000027": {
+   "parserVersion": 1,
+   "employees": 79000
+  },
+  "0000078003-23-000024": {
+   "parserVersion": 1,
+   "employees": 83000
+  },
+  "0000078003-24-000039": {
+   "parserVersion": 1,
+   "employees": 88000
+  },
+  "0000078003-25-000054": {
+   "parserVersion": 1,
+   "employees": 81000
+  },
+  "0000078003-26-000026": {
+   "parserVersion": 1,
+   "employees": 75000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 48418000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-042425"
+   },
+   "2008": {
+    "revenue": 48296000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-048877"
+   },
+   "2009": {
+    "revenue": 49269000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-085703"
+   },
+   "2010": {
+    "revenue": 65165000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000078003-13-000006"
+   },
+   "2011": {
+    "revenue": 61035000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000078003-14-000018"
+   },
+   "2012": {
+    "revenue": 54657000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000078003-14-000018"
+   },
+   "2013": {
+    "revenue": 51584000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000078003-14-000018"
+   },
+   "2014": {
+    "revenue": 49605000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000078003-17-000014"
+   },
+   "2015": {
+    "revenue": 48851000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000078003-18-000027"
+   },
+   "2016": {
+    "revenue": 52824000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000078003-19-000015"
+   },
+   "2017": {
+    "revenue": 52546000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000078003-20-000014"
+   },
+   "2018": {
+    "revenue": 40825000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000078003-21-000038"
+   },
+   "2019": {
+    "revenue": 40905000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000078003-22-000027"
+   },
+   "2020": {
+    "revenue": 41651000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000078003-23-000024"
+   },
+   "2021": {
+    "revenue": 81288000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000078003-24-000039"
+   },
+   "2022": {
+    "revenue": 101175000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000078003-25-000054"
+   },
+   "2023": {
+    "revenue": 59553000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000078003-26-000026"
+   },
+   "2024": {
+    "revenue": 63627000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000078003-26-000026"
+   },
+   "2025": {
+    "revenue": 62579000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000078003-26-000026"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000078003-26-000026",
+    "filingDate": "2026-02-26",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm"
+   },
+   {
+    "accession": "0000078003-25-000054",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800325000054/pfe-20241231.htm"
+   },
+   {
+    "accession": "0000078003-24-000039",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800324000039/pfe-20231231.htm"
+   },
+   {
+    "accession": "0000078003-23-000024",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800323000024/pfe-20221231.htm"
+   },
+   {
+    "accession": "0000078003-22-000027",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800322000027/pfe-20211231.htm"
+   },
+   {
+    "accession": "0000078003-21-000038",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800321000038/pfe-20201231.htm"
+   },
+   {
+    "accession": "0000078003-20-000014",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800320000014/pfe-12312019x10kshell.htm"
+   },
+   {
+    "accession": "0000078003-19-000015",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800319000015/pfe-12312018x10kshell.htm"
+   },
+   {
+    "accession": "0000078003-18-000027",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800318000027/pfe-12312017x10kshell.htm"
+   },
+   {
+    "accession": "0000078003-17-000014",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/78003/000007800317000014/pfe-12312016x10kshell.htm"
+   }
+  ]
+ }
+}

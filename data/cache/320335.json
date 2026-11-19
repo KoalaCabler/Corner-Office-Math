@@ -1,0 +1,358 @@
+{
+ "proxies": {
+  "0000320335-26-000135": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033526000135/gl-20260318.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000320335-26-000090",
+   "result": {
+    "ceoPay": 9468963,
+    "medianPay": 62339,
+    "payRatio": 152,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "953(b) of the Dodd-Frank Act, requires the Company to calculate and disclose the ratio of the annual total compensation of its CEO to the median of the annual total compensation of its employees. For 2025, our last completed fiscal year: • The annual total compensation of the Company's Co-CEO 5 was $9,468,963, consisting of the total compensation reported for him in the Summary Compensation Table included in this Proxy Statement plus non-cash compensation in the form of Company-paid healthcare benefits; and • The median of the annual total compensation of all employees of the Company (other than the Co-CEOs) was $62,339. Based on this information, for 2025, the ratio of the annual total compensation of the Company's Co-CEO to the median of the annual total compensation of all employees was"
+   }
+  },
+  "0000320335-25-000022": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033525000022/gl-20250317.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000320335-25-000013",
+   "result": {
+    "ceoPay": 8741234,
+    "medianPay": 56413,
+    "payRatio": 155,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "953(b) of the Dodd-Frank Act, requires the Company to calculate and disclose the ratio of the annual total compensation of its CEO to the median of the annual total compensation of its employees. For 2024, our last completed fiscal year: • The annual total compensation of the Company's Co-CEO 6 was $8,741,234, consisting of the total compensation reported for him in the Summary Compensation Table included in this Proxy Statement plus non-cash compensation in the form of Company-paid healthcare benefits; and • The median of the annual total compensation of all employees of the Company (other than the Co-CEOs) was $56,413. Based on this information, for 2024, the ratio of the annual total compensation of the Company's Co-CEO to the median of the annual total compensation of all employees was"
+   }
+  },
+  "0000320335-24-000010": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033524000010/gl-20240315.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000320335-24-000006",
+   "result": {
+    "ceoPay": 7219409,
+    "medianPay": 61022,
+    "payRatio": 118,
+    "method": "cross-checked",
+    "employees": 3589,
+    "statedYear": 2023,
+    "excerpt": "953(b) of the Dodd-Frank Act, requires the Company to calculate and disclose the ratio of the annual total compensation of its CEO to the median of the annual total compensation of its employees. For 2023, our last completed fiscal year: • The annual total compensation of the Company's Co-CEO 5 was $7,219,409, consisting of the total compensation reported for him in the Summary Compensation Table included in this Proxy Statement plus non-cash compensation in the form of Company-paid healthcare benefits; and • The median of the annual total compensation of all employees of the Company (other than the Co-CEOs) was $61,022. Based on this information, for 2023, the ratio of the annual total compensation of the Company's Co-CEO to the median of the annual total compensation of all employees was"
+   }
+  },
+  "0000320335-23-000014": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033523000014/gl-20230315.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000320335-23-000008",
+   "result": {
+    "ceoPay": 8913687,
+    "medianPay": 62883,
+    "payRatio": 142,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "953(b) of the Dodd-Frank Act, requires the Company to calculate and disclose the ratio of the annual total compensation of its CEO to the median of the annual total compensation of its employees. For 2022, our last completed fiscal year: • The annual total compensation of the Company's Co-CEO 6 was $8,913,687, consisting of the total compensation reported for him in the Summary Compensation Table included in this Proxy Statement plus non-cash compensation in the form of Company-paid healthcare benefits; and • The median of the annual total compensation of all employees of the Company (other than the Co-CEOs) was $62,883. Based on this information, for 2022, the ratio of the annual total compensation of the Company's Co-CEO to the median of the annual total compensation of all employees was"
+   }
+  },
+  "0000320335-22-000008": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033522000008/def14a2022proxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000320335-22-000006",
+   "result": {
+    "ceoPay": 8360786,
+    "medianPay": 56843,
+    "payRatio": 147,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "53(b) of the Dodd-Frank Act, requires the Company to calculate and disclose the ratio of the annual total compensation of its CEO to the median of the annual total compensation of its employees. For 2021, our last completed fiscal year: • The annual total compensation of the Company's Co-CEO 10 was $8,360,786, consisting of the total compensation reported for him in the Summary Compensation Table included in this Proxy Statement plus non-cash compensation in the form of Company-paid healthcare benefits; and • The median of the annual total compensation of all employees of the Company (other than the Co-CEOs) was $56,843. Based on this information, for 2021, the ratio of the annual total compensation of the Company's Co-CEO to the median of the annual total compensation of all employees was"
+   }
+  },
+  "0000320335-21-000016": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033521000016/a2021proxystatement.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000320335-21-000010",
+   "result": {
+    "ceoPay": 9165410,
+    "medianPay": 65208,
+    "payRatio": 141,
+    "method": "cross-checked",
+    "employees": 3190,
+    "statedYear": 2020,
+    "excerpt": "953(b) of the Dodd-Frank Act, requires the Company to calculate and disclose the ratio of the annual total compensation of its CEO to the median of the annual total compensation of its employees. For 2020, our last completed fiscal year: • The annual total compensation of the Company's Co-CEO 9 was $9,165,410, consisting of the total compensation reported for him in the Summary Compensation Table included in this Proxy Statement plus non-cash compensation in the form of Company-paid healthcare benefits; and • The median of the annual total compensation of all employees of the Company (other than the Co-CEOs) was $65,208. Based on this information, for 2020, the ratio of the annual total compensation of the Company's Co-CEO to the median of the annual total compensation of all employees was"
+   }
+  },
+  "0000320335-20-000013": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033520000013/a2020proxystatement.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000320335-20-000008",
+   "result": {
+    "ceoPay": 8349130,
+    "medianPay": 98507,
+    "payRatio": 85,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "Dodd-Frank Act, requires the Company to calculate and disclose the ratio of the annual total compensation of its CEO to the median of the annual total compensation of its employees. For 2019, our last completed fiscal year: | | | | | • | | The annual total compensation of the Company's Co-CEO 1 was $8,349,130, consisting of the total compensation reported for him in the Summary Compensation Table included in this Proxy Statement plus non-cash compensation in the form of Company-paid healthcare benefits; and | | | | | | • | | The median of the annual total compensation of all employees of the Company (other than the Co-CEOs) was $98,507. | Based on this information, for 2019, the ratio of the annual total compensation of the Company's Co-CEO to the median of the annual total compensation of"
+   }
+  },
+  "0000320335-19-000011": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033519000011/a2019proxystatement.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000320335-19-000006",
+   "result": {
+    "ceoPay": 7837660,
+    "medianPay": 76409,
+    "payRatio": 103,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "Dodd-Frank Act, requires the Company to calculate and disclose the ratio of the annual total compensation of its CEO to the median of the annual total compensation of its employees. For 2018, our last completed fiscal year: | | | | | • | | The annual total compensation of the Company's Co-CEO 1 was $7,837,660, consisting of the total compensation reported for him in the Summary Compensation Table included in this Proxy Statement plus non-cash compensation in the form of Company-paid healthcare benefits; and | | | | | | • | | The median of the annual total compensation of all employees of the Company (other than the Co-CEOs) was $76,409. | Based on this information, for 2018, the ratio of the annual total compensation of the Company's Co-CEO to the median of the annual total compensation of"
+   }
+  },
+  "0000320335-18-000010": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033518000010/a2017proxystatement.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000320335-18-000006",
+   "result": {
+    "ceoPay": 8373156,
+    "medianPay": 80680,
+    "payRatio": 104,
+    "method": "cross-checked",
+    "employees": 3032,
+    "statedYear": 2017,
+    "excerpt": "Dodd-Frank Act, requires the Company to calculate and disclose the ratio of the annual total compensation of its CEO to the median of the annual total compensation of its employees. For 2017, our last completed fiscal year: | | | | | • | | The annual total compensation of the Company's Co-CEO 1 was $8,373,156, consisting of the total compensation reported for him in the Summary Compensation Table included elsewhere in this Proxy Statement plus non-cash compensation in the form of Company-paid healthcare benefits; and | | | | | | • | | The median of the annual total compensation of all employees of the Company (other than the Co-CEOs) was $80,680. | Based on this information, for 2017, the ratio of the annual total compensation of the Company's Co-CEO to the median of the annual total compe"
+   }
+  }
+ },
+ "tenKs": {
+  "0000320335-19-000006": {
+   "parserVersion": 1,
+   "employees": 3102
+  },
+  "0000320335-20-000008": {
+   "parserVersion": 1,
+   "employees": 3196
+  },
+  "0000320335-22-000006": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000320335-23-000008": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000320335-25-000013": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000320335-26-000090": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 3486697000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-042810"
+   },
+   "2008": {
+    "revenue": 3196236000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-049737"
+   },
+   "2009": {
+    "revenue": 3115073000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-085031"
+   },
+   "2010": {
+    "revenue": 3367632000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-084290"
+   },
+   "2011": {
+    "revenue": 3377401000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-076801"
+   },
+   "2012": {
+    "revenue": 3589516000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-069449"
+   },
+   "2013": {
+    "revenue": 3494253000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-16-000059"
+   },
+   "2014": {
+    "revenue": 3620095000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-17-000010"
+   },
+   "2015": {
+    "revenue": 3766065000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-18-000006"
+   },
+   "2016": {
+    "revenue": 3934629000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-19-000006"
+   },
+   "2017": {
+    "revenue": 4155573000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-20-000008"
+   },
+   "2018": {
+    "revenue": 4303751000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-21-000010"
+   },
+   "2019": {
+    "revenue": 4527532000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-22-000006"
+   },
+   "2020": {
+    "revenue": 4737921000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-23-000008"
+   },
+   "2021": {
+    "revenue": 5112038000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-24-000006"
+   },
+   "2022": {
+    "revenue": 5226740000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-25-000013"
+   },
+   "2023": {
+    "revenue": 5447533000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-26-000090"
+   },
+   "2024": {
+    "revenue": 5778069000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-26-000090"
+   },
+   "2025": {
+    "revenue": 5994318000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000320335-26-000090"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000320335-26-000090",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033526000090/gl-20251231.htm"
+   },
+   {
+    "accession": "0000320335-25-000013",
+    "filingDate": "2025-02-26",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033525000013/gl-20241231.htm"
+   },
+   {
+    "accession": "0000320335-24-000006",
+    "filingDate": "2024-02-28",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033524000006/gl-20231231.htm"
+   },
+   {
+    "accession": "0000320335-23-000008",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033523000008/gl-20221231.htm"
+   },
+   {
+    "accession": "0000320335-22-000006",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033522000006/gl-20211231.htm"
+   },
+   {
+    "accession": "0000320335-21-000010",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033521000010/gl-20201231.htm"
+   },
+   {
+    "accession": "0000320335-20-000008",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033520000008/gl-20191231.htm"
+   },
+   {
+    "accession": "0000320335-19-000006",
+    "filingDate": "2019-03-01",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033519000006/tmk201810-kdocumentxq42018.htm"
+   },
+   {
+    "accession": "0000320335-18-000006",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033518000006/tmk201710-kdocument.htm"
+   },
+   {
+    "accession": "0000320335-17-000010",
+    "filingDate": "2017-02-27",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033517000010/tmk201610-kdocumentq4.htm"
+   }
+  ]
+ }
+}

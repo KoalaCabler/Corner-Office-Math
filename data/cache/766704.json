@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0000766704-26-000014": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670426000014/well-20260409.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000766704-26-000010",
+   "result": {
+    "ceoPay": 821090355,
+    "medianPay": 124995,
+    "payRatio": 6569,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "h of which reflected the applicable exchange rate on December 31, 2025. • Once we identified the median employee, we calculated all elements of such employee's compensation for 2025 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $124,995. • With respect to the annual total compensation for the CEO, we used the amount reported in the \"Total Compensation\" column of the Summary Compensation Table for 2025, $821,090,355 . Based on this information, for 2025 the ratio of the annual total compensation of Mr. Mitra to the annual total compensation of Welltower's median employee wa s 6,569 to 1. EQUITY AWARD GRANT PRACTICES As noted above, the NEOs received long-term equity incentive awards under the 2025-2027 LTIP in the form"
+   }
+  },
+  "0000766704-25-000013": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670425000013/well-20250410.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000766704-25-000009",
+   "result": {
+    "ceoPay": 20200824,
+    "medianPay": 120000,
+    "payRatio": 168,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "h of which reflected the applicable exchange rate on December 31, 2024. • Once we identified the median employee, we calculated all elements of such employee's compensation for 2024 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $120,000. • With respect to the annual total compensation for the Chief Executive Officer, we used the amount reported in the \"Total Compensation\" column of the Summary Compensation Table for 2024, $20,200,824 . Based on this information, for 2024 the ratio of the annual total compensation of Mr. Mitra to the annual total compensation of Welltower's median employee wa s 168 to 1. EQUITY AWARD GRANT PRACTICES As noted above, the NEOs received long-term equity incentive awards under the 2024-2026"
+   }
+  },
+  "0000766704-24-000015": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670424000015/well-20240412.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000766704-24-000008",
+   "result": {
+    "ceoPay": 17199891,
+    "medianPay": 117700,
+    "payRatio": 146,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "h of which reflected the applicable exchange rate on December 31, 2023. • Once we identified the median employee, we calculated all elements of such employee's compensation for 2023 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $117,700. • With respect to the annual total compensation for the Chief Executive Officer, we used the amount reported in the \"Total Compensation\" column of the Summary Compensation Table for 2023, $17,199,891 . Based on this information, for 2023 the ratio of the annual total compensation of Mr. Mitra to the annual total compensation of Welltower's median employee wa s 146 to 1. EQUITY COMPENSATION PLAN INFORMATION The following table sets forth certain information, as of December 31, 2023, con"
+   }
+  },
+  "0001193125-23-098475": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/766704/000119312523098475/d401725ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000766704-23-000010",
+   "result": {
+    "ceoPay": 14266935,
+    "medianPay": 108351,
+    "payRatio": 132,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "eflected the applicable exchange rate on December 31, 2022. | | • | | | | Once we identified the median employee, we calculated all elements of such employee's compensation for 2022 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $108,351. | | • | | | | With respect to the annual total compensation for the Chief Executive Officer, we used the amount reported in the \"Total Compensation\" column of the Summary Compensation Table for 2022, $14,266,935. | Based on this information, for 2022 the ratio of the annual total compensation of Mr. Mitra to the annual total compensation of Welltower's median employee was 132 to 1. EQUITY COMPENSATION PLAN INFORMATION The following table sets forth certain information, as of December 3"
+   }
+  },
+  "0001308179-22-000216": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/766704/000130817922000216/lwell2022_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000766704-22-000013",
+   "result": {
+    "ceoPay": 12753710,
+    "medianPay": 100206,
+    "payRatio": 127,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "hich reflected the applicable exchange rate on December 31, 2021. | | | | Once we identified the median employee, we calculated all elements of such employee's compensation for 2021 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $100,206. | | | | With respect to the annual total compensation for the Chief Executive Officer, we used the amount reported in the \"Total Compensation\" column of the Summary Compensation Table for 2021, $12,753,710. | Based on this information, for 2021 the ratio of the annual total compensation of Mr. Mitra to the annual total compensation of Welltower's median employee was 127 to 1. WELLTOWER 2022 Proxy Statement 71 | | | Back to Contents | | | EQUITY COMPENSATION PLAN INFORMATION The followi"
+   }
+  },
+  "0001193125-21-118460": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/766704/000119312521118460/d49250ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000766704-21-000018",
+   "result": {
+    "ceoPay": 9557434,
+    "medianPay": 92504,
+    "payRatio": 103,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "cable exchange rate on December 31, 2020. | | | |  | | | | Once Welltower identified the median employee, Welltower calculated all elements of such employees compensation for 2020 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $92,504. | | | |  | | | | Mr. Mitra became CEO of Welltower on October 5, 2020. As permitted by SEC rules, we calculated the annual total compensation of the CEO by annualizing Mr. Mitras salary and other compensation reported in the Summary Compensation Table for 2020, $9,557,434. | Based on this information, for 2020 the ratio of the annual total compensation of Mr. Mitra to the annual total compensation of Welltowers median employee was 103 to 1. | | | | | | | | | | | 60 | | | | | Notice o"
+   }
+  },
+  "0001193125-20-079956": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/766704/000119312520079956/d820346ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000766704-20-000015",
+   "result": {
+    "ceoPay": 13142124,
+    "medianPay": 90811,
+    "payRatio": 145,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "cable exchange rate on December 31, 2019. | | | |  | | | | Once Welltower identified the median employee, Welltower calculated all elements of such employees compensation for 2019 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $90,811. | | | |  | | | | With respect to the annual total compensation of the Chief Executive Officer, Welltower used the amount reported in the Total Compensation column of the Summary Compensation Table for 2019, $13,142,124. | Based on this information, for 2019 the ratio of the annual total compensation of Mr. DeRosa to the annual total compensation of Welltowers median employee was 145 to 1. | | | | | | | | | | | 58 | | | | | Notice of Annual Meeting of Shareholders and 2020 Proxy Stat"
+   }
+  },
+  "0001193125-19-082747": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/766704/000119312519082747/d647170ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000766704-19-000014",
+   "result": {
+    "ceoPay": 12884453,
+    "medianPay": 91803,
+    "payRatio": 140,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "cable exchange rate on December 31, 2018. | | | |  | | | | Once Welltower identified the median employee, Welltower calculated all elements of such employees compensation for 2018 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $91,803. | | | |  | | | | With respect to the annual total compensation of the Chief Executive Officer, Welltower used the amount reported in the Total Compensation column of the Summary Compensation Table for 2018, $12,884,453. | Based on this information, for 2018 the ratio of the annual total compensation of Mr. DeRosa to the annual total compensation of Welltowers median employee was 140 to 1. | | | | | | | | | | | 62 | | | | | Notice of Annual Meeting of Shareholders and 2019 Proxy Stat"
+   }
+  },
+  "0001193125-18-092835": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/766704/000119312518092835/d506197ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000766704-18-000012",
+   "result": {
+    "ceoPay": 10518064,
+    "medianPay": 90908,
+    "payRatio": 116,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "e exchange rate on December 31, 2017. | | | |  | | | | Once the Company identified the median employee, the Company calculated all elements of such employees compensation for 2017 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $90,908. | | | |  | | | | With respect to the annual total compensation of the Chief Executive Officer, the Company used the amount reported in the Total Compensation column of the Summary Compensation Table for 2017, $10,518,064. | Based on this information, for 2017 the ratio of the annual total compensation of Mr. DeRosa to the annual total compensation of the Companys median employee was 116 to 1. | | | | | | | | | | | Notice of Annual Meeting of Shareholders and 2018 Proxy Statement | |"
+   }
+  }
+ },
+ "tenKs": {
+  "0000766704-18-000012": {
+   "parserVersion": 1,
+   "employees": 392
+  },
+  "0000766704-19-000014": {
+   "parserVersion": 1,
+   "employees": 384
+  },
+  "0000766704-20-000015": {
+   "parserVersion": 1,
+   "employees": 443
+  },
+  "0000766704-21-000018": {
+   "parserVersion": 1,
+   "employees": 423
+  },
+  "0000766704-22-000013": {
+   "parserVersion": 1,
+   "employees": 464
+  },
+  "0000766704-23-000010": {
+   "parserVersion": 1,
+   "employees": 514
+  },
+  "0000766704-24-000008": {
+   "parserVersion": 1,
+   "employees": 533
+  },
+  "0000766704-25-000009": {
+   "parserVersion": 1,
+   "employees": 685
+  },
+  "0000766704-26-000010": {
+   "parserVersion": 1,
+   "employees": 712
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 504525000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-028671"
+   },
+   "2009": {
+    "revenue": 523288000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-12-002707"
+   },
+   "2010": {
+    "revenue": 578571000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-13-000006"
+   },
+   "2011": {
+    "revenue": 1313182000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-14-000006"
+   },
+   "2012": {
+    "revenue": 1805044000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-15-000012"
+   },
+   "2013": {
+    "revenue": 2880608000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-16-000055"
+   },
+   "2014": {
+    "revenue": 3343546000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-17-000012"
+   },
+   "2015": {
+    "revenue": 3859826000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-18-000012"
+   },
+   "2016": {
+    "revenue": 4281160000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-19-000014"
+   },
+   "2017": {
+    "revenue": 4316641000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-20-000015"
+   },
+   "2018": {
+    "revenue": 4700499000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-21-000018"
+   },
+   "2019": {
+    "revenue": 5121306000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-22-000013"
+   },
+   "2020": {
+    "revenue": 4605967000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-23-000010"
+   },
+   "2021": {
+    "revenue": 4742115000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-24-000008"
+   },
+   "2022": {
+    "revenue": 5860615000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-25-000009"
+   },
+   "2023": {
+    "revenue": 6637995000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-26-000010"
+   },
+   "2024": {
+    "revenue": 7991118000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-26-000010"
+   },
+   "2025": {
+    "revenue": 10838034000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000766704-26-000010"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 12787358,
+   "2022": 14317407,
+   "2023": 17250363,
+   "2024": 20200824,
+   "2025": 821090355
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000766704-26-000010",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670426000010/well-20251231.htm"
+   },
+   {
+    "accession": "0000766704-25-000009",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670425000009/well-20241231.htm"
+   },
+   {
+    "accession": "0000766704-24-000008",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670424000008/well-20231231.htm"
+   },
+   {
+    "accession": "0000766704-23-000010",
+    "filingDate": "2023-02-21",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670423000010/well-20221231.htm"
+   },
+   {
+    "accession": "0000766704-22-000013",
+    "filingDate": "2022-02-16",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670422000013/well-20211231.htm"
+   },
+   {
+    "accession": "0000766704-21-000018",
+    "filingDate": "2021-02-10",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670421000018/well-20201231.htm"
+   },
+   {
+    "accession": "0000766704-20-000015",
+    "filingDate": "2020-02-14",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670420000015/a201910-k.htm"
+   },
+   {
+    "accession": "0000766704-19-000014",
+    "filingDate": "2019-02-25",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670419000014/a201810-k.htm"
+   },
+   {
+    "accession": "0000766704-18-000012",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670418000012/10-K.htm"
+   },
+   {
+    "accession": "0000766704-17-000012",
+    "filingDate": "2017-02-22",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/766704/000076670417000012/10-k.htm"
+   }
+  ]
+ }
+}

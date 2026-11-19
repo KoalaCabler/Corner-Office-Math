@@ -1,0 +1,341 @@
+{
+ "proxies": {
+  "0001104659-26-039513": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000110465926039513/tm2527783-7_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000896159-26-000005",
+   "result": {
+    "ceoPay": 33180582,
+    "medianPay": 64842,
+    "payRatio": 512,
+    "method": "cross-checked",
+    "employees": 45000,
+    "statedYear": 2023,
+    "excerpt": "lizes a variety of pay scales reflecting cost of living and other factors to determine how we compensate our employees in a particular region or country. The 2025 total annual compensation of our CEO calculated for purposes of disclosure in the Summary Compensation Table of this proxy statement was $33,180,582, which was approximately 512 times the compensation of the median employee ($64,842) calculated in the same manner. The median employee is an accounts specialist based in the United States, and is the same employee used in the pay ratio calculation disclosed in our 2024 and 2025 proxy statements. We believe it is reasonable to continue to use the same employee for purposes of this calculation because there has been no change in our employee population or employee compensation arrange"
+   }
+  },
+  "0001104659-25-030554": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000110465925030554/tm251658-4_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000896159-25-000004",
+   "result": {
+    "ceoPay": 30138094,
+    "medianPay": 63197,
+    "payRatio": 477,
+    "method": "cross-checked",
+    "employees": 43000,
+    "statedYear": 2023,
+    "excerpt": "lizes a variety of pay scales reflecting cost of living and other factors to determine how we compensate our employees in a particular region or country. The 2024 total annual compensation of our CEO calculated for purposes of disclosure in the Summary Compensation Table of this proxy statement was $30,138,094, which was approximately 477 times the compensation of the median employee ($63,197) calculated in the same manner. The median employee is an accounts specialist based in the United States, and is the same employee used in the pay ratio calculation disclosed in our 2024 proxy statement. We believe it is reasonable to continue to use the same employee for purposes of this calculation because there has been no change in our employee population or employee compensation arrangements that"
+   }
+  },
+  "0001104659-24-041810": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000110465924041810/tm2327870d7_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000896159-24-000003",
+   "result": {
+    "ceoPay": 27661317,
+    "medianPay": 61188,
+    "payRatio": 452,
+    "method": "cross-checked",
+    "employees": 40000,
+    "statedYear": 2023,
+    "excerpt": "lizes a variety of pay scales reflecting cost of living and other factors to determine how we compensate our employees in a particular region or country. The 2023 total annual compensation of our CEO calculated for purposes of disclosure in the Summary Compensation Table of this proxy statement was $27,661,317, which was approximately 452 times the compensation of the median employee ($61,188) calculated in the same manner. The median employee is an accounts specialist based in the United States. We identified the median employee by examining compensation information derived from our global human resources information systems for all employees as of December 31, 2023, excluding the CEO. In identifying the median employee, we assessed for all employees the sum of (as applicable): 2023 base"
+   }
+  },
+  "0001104659-23-040829": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000110465923040829/tm2227914d6_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000896159-23-000007",
+   "result": {
+    "ceoPay": 25152070,
+    "medianPay": 72640,
+    "payRatio": 346.3,
+    "method": "cross-checked",
+    "employees": 34000,
+    "statedYear": 2022,
+    "excerpt": "lizes a variety of pay scales reflecting cost of living and other factors to determine how we compensate our employees in a particular region or country. The 2022 total annual compensation of our CEO calculated for purposes of disclosure in the Summary Compensation Table of this proxy statement was $25,152,070, which was approximately 346.3 times the compensation of the median employee ($72,640) calculated in the same manner. The median employee is an account manager in our North America Finance department. We identified the median employee by examining compensation information derived from our global human resources information systems for all employees as of December 31, 2022, excluding the CEO. In identifying the median employee, we assessed for all employees the sum of (as applicable):"
+   }
+  },
+  "0001104659-22-042195": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000110465922042195/tm2135945-3_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000896159-22-000005",
+   "result": {
+    "ceoPay": 23181184,
+    "medianPay": 71894,
+    "payRatio": 322.4,
+    "method": "cross-checked",
+    "employees": 31000,
+    "statedYear": 2021,
+    "excerpt": "lizes a variety of pay scales reflecting cost of living and other factors to determine how we compensate our employees in a particular region or country. The 2021 total annual compensation of our CEO calculated for purposes of disclosure in the Summary Compensation Table of this proxy statement was $23,181,184, which was approximately 322.4 times the compensation of the median employee ($71,894) calculated in the same manner. The median employee is a specialty underwriting assistant based in the United States. We identified the median employee by examining compensation information derived from our global human resources information systems for all employees as of December 31, 2021, excluding the CEO. In identifying the median employee, we assessed for all employees the sum of (as applicabl"
+   }
+  },
+  "0001104659-21-115928": {
+   "parserVersion": 1,
+   "filingDate": "2021-09-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000110465921115928/tm2122736-3_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000896159-21-000003",
+   "result": null
+  },
+  "0001104659-21-046584": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000110465921046584/tm2039233-4_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000896159-21-000003",
+   "result": {
+    "ceoPay": 20328167,
+    "medianPay": 72220,
+    "payRatio": 281.5,
+    "method": "cross-checked",
+    "employees": 31000,
+    "statedYear": 2020,
+    "excerpt": "lizes a variety of pay scales reflecting cost of living and other factors to determine how we compensate our employees in a particular region or country. The 2020 total annual compensation of our CEO calculated for purposes of disclosure in the Summary Compensation Table of this proxy statement was $20,328,167, which was approximately 281.5 times the compensation of the median employee ($72,220) calculated in the same manner. The median employee is an underwriter based in the United States. We identified the median employee by examining compensation information derived from our global human resources information systems for all employees as of December 31, 2020, excluding the CEO. In identifying the median employee, we assessed for all employees the sum of (as applicable): 2020 base salary"
+   }
+  },
+  "0001193125-20-099597": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000119312520099597/d859573ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000896159-20-000003",
+   "result": {
+    "ceoPay": 20475070,
+    "medianPay": 66372,
+    "payRatio": 308.5,
+    "method": "cross-checked",
+    "employees": 33000,
+    "statedYear": 2017,
+    "excerpt": "lizes a variety of pay scales reflecting cost of living and other factors to determine how we compensate our employees in a particular region or country. The 2019 total annual compensation of our CEO calculated for purposes of disclosure in the Summary Compensation Table of this proxy statement was $20,475,070, which was approximately 308.5 times the compensation of the median employee ($66,372) calculated in the same manner. The median employee, an underwriting services analyst based in the United States, is the same employee used in the pay ratio calculation disclosed in our 2019 and 2018 proxy statements. We believe it is reasonable to continue to use the same employee for purposes of this calculation because there has been no change in our employee population or employee compensation a"
+   }
+  },
+  "0001193125-19-095642": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000119312519095642/d650449ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000896159-19-000005",
+   "result": {
+    "ceoPay": 20357484,
+    "medianPay": 64340,
+    "payRatio": 316.4,
+    "method": "cross-checked",
+    "employees": 30000,
+    "statedYear": 2017,
+    "excerpt": "lizes a variety of pay scales reflecting cost of living and other factors to determine how we compensate our employees in a particular region or country. The 2018 total annual compensation of our CEO calculated for purposes of disclosure in the Summary Compensation Table of this proxy statement was $20,357,484, which was approximately 316.4 times the compensation of the median employee ($64,340) calculated in the same manner. The median employee, an underwriting services analyst based in the United States, is the same employee used in the pay ratio calculation disclosed in our 2018 proxy statement. We believe it is reasonable to continue to use the same employee for purposes of this calculation because there has been no change in our employee population or employee compensation arrangement"
+   }
+  },
+  "0001193125-18-106278": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/896159/000119312518106278/d499981ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000896159-18-000002",
+   "result": {
+    "ceoPay": 19116401,
+    "medianPay": 63419,
+    "payRatio": 301.4,
+    "method": "cross-checked",
+    "employees": 31000,
+    "statedYear": 2017,
+    "excerpt": "lizes a variety of pay scales reflecting cost of living and other factors to determine how we compensate our employees in a particular region or country. The 2017 total annual compensation of our CEO calculated for purposes of disclosure in the Summary Compensation Table of this proxy statement was $19,116,401, which was approximately 301.4 times the compensation of the median employee ($63,419) calculated in the same manner. We identified the median employee by examining compensation information derived from our global human resources information systems for all employees as of December 31, 2017, excluding the CEO. In identifying the median employee, we assessed for all employees the sum of (as applicable): 2017 base salary (for salaried employees), wages, excluding overtime (for hourly e"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 14154000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-040605"
+   },
+   "2008": {
+    "revenue": 13632000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-047473"
+   },
+   "2009": {
+    "revenue": 15075000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-078111"
+   },
+   "2010": {
+    "revenue": 16006000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-13-000003"
+   },
+   "2011": {
+    "revenue": 16834000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-14-000003"
+   },
+   "2012": {
+    "revenue": 17936000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-15-000006"
+   },
+   "2013": {
+    "revenue": 19261000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-16-000027"
+   },
+   "2014": {
+    "revenue": 19171000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-17-000004"
+   },
+   "2015": {
+    "revenue": 18987000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-18-000002"
+   },
+   "2016": {
+    "revenue": 31469000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-19-000005"
+   },
+   "2017": {
+    "revenue": 32243000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-20-000003"
+   },
+   "2018": {
+    "revenue": 32717000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-21-000003"
+   },
+   "2019": {
+    "revenue": 34186000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-22-000005"
+   },
+   "2020": {
+    "revenue": 35994000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-23-000007"
+   },
+   "2021": {
+    "revenue": 40869000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-24-000003"
+   },
+   "2022": {
+    "revenue": 43097000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-25-000004"
+   },
+   "2023": {
+    "revenue": 49735000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-26-000005"
+   },
+   "2024": {
+    "revenue": 55753000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-26-000005"
+   },
+   "2025": {
+    "revenue": 59402000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000896159-26-000005"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000896159-26-000005",
+    "filingDate": "2026-02-27",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000005/cb-20251231.htm"
+   },
+   {
+    "accession": "0000896159-25-000004",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615925000004/cb-20241231.htm"
+   },
+   {
+    "accession": "0000896159-24-000003",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615924000003/cb-20231231.htm"
+   },
+   {
+    "accession": "0000896159-23-000007",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615923000007/cb-20221231.htm"
+   },
+   {
+    "accession": "0000896159-22-000005",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615922000005/cb-20211231.htm"
+   },
+   {
+    "accession": "0000896159-21-000003",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615921000003/cb-20201231.htm"
+   },
+   {
+    "accession": "0000896159-20-000003",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615920000003/cb-12312019x10k.htm"
+   },
+   {
+    "accession": "0000896159-19-000005",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615919000005/cb-12312018x10k.htm"
+   },
+   {
+    "accession": "0000896159-18-000002",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615918000002/cb-12312017x10k.htm"
+   },
+   {
+    "accession": "0000896159-17-000004",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/896159/000089615917000004/cb-12312016x10k.htm"
+   }
+  ]
+ }
+}

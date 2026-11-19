@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001308179-26-000169": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000130817926000169/pep015012_def14a.htm",
+   "periodEnd": "2025-12-27",
+   "tenK": "0000077476-26-000007",
+   "result": {
+    "ceoPay": 23903545,
+    "medianPay": 53296,
+    "payRatio": 449,
+    "method": "cross-checked",
+    "employees": 309594,
+    "statedYear": 2025,
+    "excerpt": "| Executive Compensation The Ratio The following ratio of Mr. Laguarta's annual total compensation to the median employee's for our last completed fiscal year is a reasonable estimate calculated in a manner consistent with applicable SEC rules. | | ■ | | The median employee's total compensation was $53,296. | | | ■ | | The total compensation was calculated in the same manner in which we determine the compensation shown for our NEOs in the Summary Compensation Table, including the value of retirement benefits. | | | ■ | | As reported in the Summary Compensation Table on page 69, our CEO's compensation was $23,903,545. | Based on this information, the ratio of Mr. Laguarta's annual total compensation to the median employee compensation for 2025 was estimated to be 449 to 1. 84 | PEPSICO 2026"
+   }
+  },
+  "0001308179-25-000289": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000130817925000289/pep4354281-def14a.htm",
+   "periodEnd": "2024-12-28",
+   "tenK": "0000077476-25-000007",
+   "result": {
+    "ceoPay": 28814759,
+    "medianPay": 53551,
+    "payRatio": 538,
+    "method": "cross-checked",
+    "employees": 316256,
+    "statedYear": 2024,
+    "excerpt": "| Executive Compensation The Ratio The following ratio of Mr. Laguarta's annual total compensation to the median employee's for our last completed fiscal year is a reasonable estimate calculated in a manner consistent with applicable SEC rules. | | ■ | | The median employee's total compensation was $53,551. | | | ■ | | The total compensation was calculated in the same manner in which we determine the compensation shown for our NEOs in the Summary Compensation Table, including the value of retirement benefits. | | | ■ | | Although we concluded there were no changes to our employee population or employee compensation arrangements that would significantly impact our pay ratio disclosure, the median employee referenced above is different than the median employee identified in the 2024 Proxy St"
+   }
+  },
+  "0001308179-24-000258": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000130817924000258/pep4277421-def14a.htm",
+   "periodEnd": "2023-12-30",
+   "tenK": "0000077476-24-000008",
+   "result": {
+    "ceoPay": 33906212,
+    "medianPay": 52356,
+    "payRatio": 648,
+    "method": "cross-checked",
+    "employees": 316256,
+    "statedYear": 2023,
+    "excerpt": "nts Executive Compensation The Ratio The following ratio of Mr. Laguarta's annual total compensation to the median employee's for our last completed fiscal year is a reasonable estimate calculated in a manner consistent with applicable SEC rules. | ■ | | The median employee's total compensation was $52,356. | | ■ | | The total compensation was calculated in the same manner in which we determine the compensation shown for our NEOs in the Summary Compensation Table, including the value of retirement benefits. | | ■ | | As reported in the Summary Compensation Table on page 68, our CEO's compensation was $33,906,212. | Based on this information, the ratio of Mr. Laguarta's annual total compensation to the median employee compensation for 2023 was estimated to be 648 to 1. 82 | PEPSICO 2024 Pro"
+   }
+  },
+  "0001308179-23-000279": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000130817923000279/pep4134371-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000077476-23-000007",
+   "result": {
+    "ceoPay": 28388228,
+    "medianPay": 52315,
+    "payRatio": 543,
+    "method": "cross-checked",
+    "employees": 303693,
+    "statedYear": 2022,
+    "excerpt": "nts Executive Compensation The Ratio The following ratio of Mr. Laguarta's annual total compensation to the median employee's for our last completed fiscal year is a reasonable estimate calculated in a manner consistent with applicable SEC rules. | ■ | | The median employee's total compensation was $52,315. | | ■ | | The total compensation was calculated in the same manner in which we determine the compensation shown for our NEOs in the Summary Compensation Table, including the value of retirement benefits. | | ■ | | Although we concluded there were no changes to our employee population or employee compensation arrangements that would significantly impact our pay ratio disclosure, the median employee referenced above is different than the median employee identified in the 2022 Proxy Statem"
+   }
+  },
+  "0001206774-22-000834": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000120677422000834/pep3934001-def14a.htm",
+   "periodEnd": "2021-12-25",
+   "tenK": "0000077476-22-000010",
+   "result": {
+    "ceoPay": 25506607,
+    "medianPay": 52297,
+    "payRatio": 488,
+    "method": "cross-checked",
+    "employees": 303693,
+    "statedYear": 2021,
+    "excerpt": "nts Executive Compensation The Ratio The following ratio of Mr. Laguarta's annual total compensation to the median employee's for our last completed fiscal year is a reasonable estimate calculated in a manner consistent with applicable SEC rules. | ■ | | The median employee's total compensation was $52,297. | | | | | | ■ | | The total compensation was calculated in the same manner in which we determine the compensation shown for our NEOs in the Summary Compensation Table, including the value of retirement benefits. | | | | | | ■ | | As reported in the Summary Compensation Table on page 69, our CEO's compensation was $25,506,607. | Based on this information, the ratio of Mr. Laguarta's annual total compensation to the median employee compensation for 2021 was estimated to be 488 to 1. Secur"
+   }
+  },
+  "0001206774-21-000801": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000120677421000801/pep3793971-def14a.htm",
+   "periodEnd": "2020-12-26",
+   "tenK": "0000077476-21-000007",
+   "result": {
+    "ceoPay": 21486982,
+    "medianPay": 46546,
+    "payRatio": 462,
+    "method": "cross-checked",
+    "employees": 287134,
+    "statedYear": 2020,
+    "excerpt": "| | Executive Compensation The Ratio The following ratio of Mr. Laguarta's annual total compensation to the median employee's for our last completed fiscal year is a reasonable estimate calculated in a manner consistent with applicable SEC rules. | • | | The median employee's total compensation was $46,546. | | • | | The total compensation was calculated in the same manner in which we determine the compensation shown for our NEOs in the Summary Compensation Table, including the value of retirement benefits. | | • | | As reported in the Summary Compensation Table on page 68, our CEO's compensation was $21,486,982. | Based on this information, the ratio of Mr. Laguarta's annual total compensation to the median employee compensation for 2020 was estimated to be 462 to 1. Securities Authorized"
+   }
+  },
+  "0001206774-20-000855": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000120677420000855/pep3615311-def14a.htm",
+   "periodEnd": "2019-12-28",
+   "tenK": "0000077476-20-000015",
+   "result": {
+    "ceoPay": 16870817,
+    "medianPay": 45896,
+    "payRatio": 368,
+    "method": "cross-checked",
+    "employees": 267846,
+    "statedYear": 2019,
+    "excerpt": "nts Executive Compensation The Ratio The following ratio of Mr. Laguarta's annual total compensation to the median employee's for our last completed fiscal year is a reasonable estimate calculated in a manner consistent with applicable SEC rules. | ■ | | The median employee's total compensation was $45,896. | | ■ | | The total compensation was calculated in the same manner in which we determine the compensation shown for our NEOs in the Summary Compensation Table, including the value of retirement benefits. | | ■ | | Although we concluded there were no changes to our employee population or employee compensation arrangements that would significantly impact our pay ratio disclosure, the median employee referenced above is different than the median employee identified in the 2019 Proxy Statem"
+   }
+  },
+  "0001206774-19-000992": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000120677419000992/pep3495251-def14a.htm",
+   "periodEnd": "2018-12-29",
+   "tenK": "0000077476-19-000017",
+   "result": {
+    "ceoPay": 24491117,
+    "medianPay": 44974,
+    "payRatio": 545,
+    "method": "cross-checked",
+    "employees": 267846,
+    "statedYear": 2018,
+    "excerpt": "of Contents EXECUTIVE COMPENSATION The Ratio The following ratio of CEO's annual total compensation to the median employee's for our last completed fiscal year is a reasonable estimate calculated in a manner consistent with applicable SEC rules. | ● | | The median employee's total compensation was $44,974. | | ● | | The total compensation was calculated in the same manner in which we determine the compensation shown for our NEOs in the Summary Compensation Table, including the value of retirement benefits. | | ● | | Although we concluded there were no changes to our employee population or employee compensation arrangements that would significantly impact our pay ratio disclosure, the median employee referenced above is different than the median employee identified in the 2018 Proxy Statem"
+   }
+  },
+  "0001206774-18-000850": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/77476/000120677418000850/pepsico3269191-def14a.htm",
+   "periodEnd": "2017-12-30",
+   "tenK": "0000077476-18-000012",
+   "result": {
+    "ceoPay": 31082648,
+    "medianPay": 47801,
+    "payRatio": 650,
+    "method": "cross-checked",
+    "employees": 267846,
+    "statedYear": 2017,
+    "excerpt": "he store level. | The Ratio The following ratio of Ms. Nooyi's annual total compensation to the median employee's for our last completed fiscal year is a reasonable estimate calculated in a manner consistent with applicable SEC rules. | ● | | The median employee compensation, excluding our CEO, was $47,801. | | ● | | As reported in the Summary Compensation Table on page 60, our CEO's compensation was $31,082,648. | Based on this information, the ratio of Ms. Nooyi's annual total compensation to the median employee compensation for 2017 was estimated to be 650 to 1. Calculating Methodology To identify our median employee and calculate such employee's annual total compensation, we used the following methodologies, estimates and assumptions. Gathering Data on our Worldwide Employee Population"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 39474000000,
+    "periodEnd": "2007-12-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-036385"
+   },
+   "2008": {
+    "revenue": 43251000000,
+    "periodEnd": "2008-12-27",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-040427"
+   },
+   "2009": {
+    "revenue": 43232000000,
+    "periodEnd": "2009-12-26",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-081822"
+   },
+   "2010": {
+    "revenue": 57838000000,
+    "periodEnd": "2010-12-25",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001445305-13-000278"
+   },
+   "2011": {
+    "revenue": 66504000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000077476-14-000007"
+   },
+   "2012": {
+    "revenue": 65492000000,
+    "periodEnd": "2012-12-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000077476-15-000012"
+   },
+   "2013": {
+    "revenue": 66415000000,
+    "periodEnd": "2013-12-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000077476-16-000066"
+   },
+   "2014": {
+    "revenue": 66683000000,
+    "periodEnd": "2014-12-27",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000077476-17-000010"
+   },
+   "2015": {
+    "revenue": 63056000000,
+    "periodEnd": "2015-12-26",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000077476-18-000012"
+   },
+   "2016": {
+    "revenue": 62799000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000077476-19-000017"
+   },
+   "2017": {
+    "revenue": 63525000000,
+    "periodEnd": "2017-12-30",
+    "revenueTag": "Revenues",
+    "accession": "0000077476-20-000015"
+   },
+   "2018": {
+    "revenue": 64661000000,
+    "periodEnd": "2018-12-29",
+    "revenueTag": "Revenues",
+    "accession": "0000077476-21-000007"
+   },
+   "2019": {
+    "revenue": 67161000000,
+    "periodEnd": "2019-12-28",
+    "revenueTag": "Revenues",
+    "accession": "0000077476-22-000010"
+   },
+   "2020": {
+    "revenue": 70372000000,
+    "periodEnd": "2020-12-26",
+    "revenueTag": "Revenues",
+    "accession": "0000077476-23-000007"
+   },
+   "2021": {
+    "revenue": 79474000000,
+    "periodEnd": "2021-12-25",
+    "revenueTag": "Revenues",
+    "accession": "0000077476-24-000008"
+   },
+   "2022": {
+    "revenue": 86392000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000077476-25-000007"
+   },
+   "2023": {
+    "revenue": 91471000000,
+    "periodEnd": "2023-12-30",
+    "revenueTag": "Revenues",
+    "accession": "0000077476-26-000007"
+   },
+   "2024": {
+    "revenue": 91854000000,
+    "periodEnd": "2024-12-28",
+    "revenueTag": "Revenues",
+    "accession": "0000077476-26-000007"
+   },
+   "2025": {
+    "revenue": 93925000000,
+    "periodEnd": "2025-12-27",
+    "revenueTag": "Revenues",
+    "accession": "0000077476-26-000007"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000077476-26-000007",
+    "filingDate": "2026-02-03",
+    "reportDate": "2025-12-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000007/pep-20251227.htm"
+   },
+   {
+    "accession": "0000077476-25-000007",
+    "filingDate": "2025-02-04",
+    "reportDate": "2024-12-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747625000007/pep-20241228.htm"
+   },
+   {
+    "accession": "0000077476-24-000008",
+    "filingDate": "2024-02-09",
+    "reportDate": "2023-12-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747624000008/pep-20231230.htm"
+   },
+   {
+    "accession": "0000077476-23-000007",
+    "filingDate": "2023-02-09",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747623000007/pep-20221231.htm"
+   },
+   {
+    "accession": "0000077476-22-000010",
+    "filingDate": "2022-02-10",
+    "reportDate": "2021-12-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747622000010/pep-20211225.htm"
+   },
+   {
+    "accession": "0000077476-21-000007",
+    "filingDate": "2021-02-11",
+    "reportDate": "2020-12-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747621000007/pep-20201226.htm"
+   },
+   {
+    "accession": "0000077476-20-000015",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747620000015/pepsico201910-k.htm"
+   },
+   {
+    "accession": "0000077476-19-000017",
+    "filingDate": "2019-02-15",
+    "reportDate": "2018-12-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747619000017/pepsico201810-k.htm"
+   },
+   {
+    "accession": "0000077476-18-000012",
+    "filingDate": "2018-02-13",
+    "reportDate": "2017-12-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747618000012/pepsico201710-k.htm"
+   },
+   {
+    "accession": "0000077476-17-000010",
+    "filingDate": "2017-02-15",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000007747617000010/pepsico201610-k.htm"
+   }
+  ]
+ }
+}

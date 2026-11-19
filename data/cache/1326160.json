@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001104659-26-032443": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926032443/tm261356-4_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001326160-26-000014",
+   "result": {
+    "ceoPay": 14031983,
+    "medianPay": 132604,
+    "payRatio": 106,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "g information about the ratio of the 2025 annual total compensation of Harry Sideris, our CEO, to the annual total compensation of our median employee. We estimated the median of the 2025 annual total compensation of our employees, using the rules applicable to the Summary Compensation Table, to be $132,604. The annual total compensation of Mr. Sideris, as calculated for the Summary Compensation Table, was $13,652,630, but with his base salary, STI and Company retirement plan contributions annualized in accordance with Item 402(u) of Regulation S-K, his 2025 total compensation would have been disclosed in the Summary Compensation Table as $14,031,983. Therefore, the ratio of our CEO's annualized total compensation to the estimated median of the annual total compensation of our employees wa"
+   }
+  },
+  "0001104659-25-023754": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465925023754/tm2430172-3_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001326160-25-000072",
+   "result": {
+    "ceoPay": 21276982,
+    "medianPay": 129126,
+    "payRatio": 165,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "red by SEC rules, we are providing the following information about the ratio of the 2024 annual total compensation of Lynn Good, our CEO, to the annual total compensation of our median employee. We estimated the median of the 2024 annual total compensation of our employees, excluding our CEO, to be $129,126. The annual total compensation of our CEO, as calculated for the Summary Compensation Table, was $21,276,982. The ratio of the annual total compensation of our CEO to the estimated median of the annual total compensation of our employees was 165 to 1. To identify the median employee, we reviewed our employee population as of October 31, 2022. We used wages reported in Box 1 of IRS Form W-2 during the ten-month period ending on October 31, 2022, as a consistently applied compensation mea"
+   }
+  },
+  "0001104659-24-037589": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465924037589/tm2327443d10-def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001326160-24-000037",
+   "result": {
+    "ceoPay": 20559875,
+    "medianPay": 122570,
+    "payRatio": 168,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "red by SEC rules, we are providing the following information about the ratio of the 2023 annual total compensation of Lynn Good, our CEO, to the annual total compensation of our median employee. We estimated the median of the 2023 annual total compensation of our employees, excluding our CEO, to be $122,570. The annual total compensation of our CEO, as calculated for the Summary Compensation Table, was $20,559,875. The ratio of the annual total compensation of our CEO to the estimated median of the annual total compensation of our employees was 168 to 1. To identify the median employee, we reviewed our employee population as of October 31, 2022. We used wages reported in Box 1 of IRS Form W-2 during the ten-month period ending on October 31, 2022, as a consistently applied compensation mea"
+   }
+  },
+  "0001104659-23-035850": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465923035850/tm2233174d7_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001326160-23-000073",
+   "result": {
+    "ceoPay": 21354759,
+    "medianPay": 125140,
+    "payRatio": 171,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "red by SEC rules, we are providing the following information about the ratio of the 2022 annual total compensation of Lynn Good, our CEO, to the annual total compensation of our median employee. We estimated the median of the 2022 annual total compensation of our employees, excluding our CEO, to be $125,140. The annual total compensation of our CEO, as calculated for the Summary Compensation Table, was $21,354,759. The ratio of the annual total compensation of our CEO to the estimated median of the annual total compensation of our employees was 171 to 1. To identify the median employee, we reviewed our employee population as of October 31, 2022. We used wages reported in Box 1 of IRS Form W-2 during the ten-month period ending on October 31, 2022, as a consistently applied compensation mea"
+   }
+  },
+  "0001104659-22-036004": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000110465922036004/tm221429-1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001326160-22-000072",
+   "result": {
+    "ceoPay": 16451236,
+    "medianPay": 115895,
+    "payRatio": 142,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "red by SEC rules, we are providing the following information about the ratio of the 2021 annual total compensation of Lynn Good, our CEO, to the annual total compensation of our median employee. We estimated the median of the 2021 annual total compensation of our employees, excluding our CEO, to be $115,895. The annual total compensation of our CEO, as calculated for the Summary Compensation Table, was $16,451,236. The ratio of the annual total compensation of our CEO to the estimated median of the annual total compensation of our employees was 142 to 1. The SEC rules permit us to identify our median employee once every three years. If, however, we determine it is not appropriate to use the median employee identified in one year (2020) in a subsequent year (2021) because of a change in cir"
+   }
+  },
+  "0001047469-21-000682": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000104746921000682/a2243101zdef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001326160-21-000063",
+   "result": {
+    "ceoPay": 14544398,
+    "medianPay": 125812,
+    "payRatio": 116,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "red by SEC rules, we are providing the following information about the ratio of the 2020 annual total compensation of Lynn Good, our CEO, to the annual total compensation of our median employee. We estimated the median of the 2020 annual total compensation of our employees, excluding our CEO, to be $125,812. The annual total compensation of our CEO was $14,544,398. The ratio of the annual total compensation of our CEO to the estimated median of the annual total compensation of our employees was 116 to 1. The SEC rules permit us to identify our median employee once every three years. If, however, we determine it is not appropriate to use the median employee identified in one year (2019) in a subsequent year (2020) because of a change in circumstances that would result in a significant chang"
+   }
+  },
+  "0001047469-20-001812": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000104746920001812/a2240669zdef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001326160-20-000034",
+   "result": {
+    "ceoPay": 15029386,
+    "medianPay": 123608,
+    "payRatio": 122,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "red by SEC rules, we are providing the following information about the ratio of the 2019 annual total compensation of Lynn Good, our CEO, to the annual total compensation of our median employee. We estimated the median of the 2019 annual total compensation of our employees, excluding our CEO, to be $123,608. The annual total compensation of our CEO was $15,029,386. The ratio of the annual total compensation of our CEO to the estimated median of the annual total compensation of our employees was 122 to 1. The SEC rules permit us to identify our median employee once every three years. If, however, we determine it is not appropriate to use the median employee identified in one year (2018) in a subsequent year (2019) because of a change in circumstances that would result in a significant chang"
+   }
+  },
+  "0001047469-19-001503": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000104746919001503/a2237701zdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001326160-19-000057",
+   "result": {
+    "ceoPay": 13982960,
+    "medianPay": 117132,
+    "payRatio": 119,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "red by SEC rules, we are providing the following information about the ratio of the 2018 annual total compensation of Lynn Good, our CEO, to the annual total compensation of our median employee. We estimated the median of the 2018 annual total compensation of our employees, excluding our CEO, to be $117,132. The annual total compensation of our CEO was $13,982,960. The ratio of the annual total compensation of our CEO to the estimated median of the annual total compensation of our employees was 119 to 1. The SEC rules permit us to identify our median employee once every three years. If, however, we determine it is not appropriate to use the median employee identified in one year (2017) in a subsequent year (2018) because of a change in circumstances that would result in a significant chang"
+   }
+  },
+  "0001047469-18-001982": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1326160/000104746918001982/a2234897zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001326160-18-000034",
+   "result": {
+    "ceoPay": 21415936,
+    "medianPay": 122365,
+    "payRatio": 175,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "ect to our last completed fiscal year (2017). The pay ratio reported below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. We have estimated the median of the 2017 annual total compensation of our employees, excluding our Chief Executive Officer, to be $122,365. The annual total compensation of our Chief Executive Officer was $21,415,936. The ratio of the annual total compensation of our Chief Executive Officer to the estimated median of the annual total compensation of our employees was 175 to 1. To identify the median employee, as well as to determine the annual total compensation of our median employee and our Chief Executive Officer, we took the following steps:  We determined our employee population, for purposes of this disclosure, as o"
+   }
+  }
+ },
+ "tenKs": {
+  "0001326160-18-000034": {
+   "parserVersion": 1,
+   "employees": 29060
+  },
+  "0001326160-19-000057": {
+   "parserVersion": 1,
+   "employees": 30083
+  },
+  "0001326160-20-000034": {
+   "parserVersion": 1,
+   "employees": 28793
+  },
+  "0001326160-21-000063": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001326160-22-000072": {
+   "parserVersion": 1,
+   "employees": 500
+  },
+  "0001326160-23-000073": {
+   "parserVersion": 1,
+   "employees": 6500
+  },
+  "0001326160-24-000037": {
+   "parserVersion": 1,
+   "employees": 6700
+  },
+  "0001326160-25-000072": {
+   "parserVersion": 1,
+   "employees": 6800
+  },
+  "0001326160-26-000014": {
+   "parserVersion": 1,
+   "employees": 7000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 12720000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-043083"
+   },
+   "2008": {
+    "revenue": 13207000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-047229"
+   },
+   "2009": {
+    "revenue": 12731000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-085533"
+   },
+   "2010": {
+    "revenue": 14272000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001326160-13-000009"
+   },
+   "2011": {
+    "revenue": 14529000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001326160-13-000009"
+   },
+   "2012": {
+    "revenue": 19624000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001326160-13-000009"
+   },
+   "2013": {
+    "revenue": 22756000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001326160-16-000221"
+   },
+   "2014": {
+    "revenue": 22509000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001326160-17-000016"
+   },
+   "2015": {
+    "revenue": 22371000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001326160-17-000016"
+   },
+   "2016": {
+    "revenue": 22743000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001326160-17-000016"
+   },
+   "2017": {
+    "revenue": 23565000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0001326160-20-000034"
+   },
+   "2018": {
+    "revenue": 24521000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0001326160-21-000063"
+   },
+   "2019": {
+    "revenue": 25079000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0001326160-22-000072"
+   },
+   "2020": {
+    "revenue": 23366000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0001326160-23-000073"
+   },
+   "2021": {
+    "revenue": 24621000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0001326160-24-000037"
+   },
+   "2022": {
+    "revenue": 28768000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0001326160-25-000072"
+   },
+   "2023": {
+    "revenue": 29060000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0001326160-26-000014"
+   },
+   "2024": {
+    "revenue": 30357000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0001326160-26-000014"
+   },
+   "2025": {
+    "revenue": 32237000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0001326160-26-000014"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001326160-26-000014",
+    "filingDate": "2026-02-26",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616026000014/duk-20251231.htm"
+   },
+   {
+    "accession": "0001326160-25-000072",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616025000072/duk-20241231.htm"
+   },
+   {
+    "accession": "0001326160-24-000037",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616024000037/duk-20231231.htm"
+   },
+   {
+    "accession": "0001326160-23-000073",
+    "filingDate": "2023-02-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616023000073/duk-20221231.htm"
+   },
+   {
+    "accession": "0001326160-22-000072",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616022000072/duk-20211231.htm"
+   },
+   {
+    "accession": "0001326160-21-000063",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616021000063/duk-20201231.htm"
+   },
+   {
+    "accession": "0001326160-20-000034",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616020000034/duk-20191231x10k.htm"
+   },
+   {
+    "accession": "0001326160-19-000057",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616019000057/duk-20181231x10k.htm"
+   },
+   {
+    "accession": "0001326160-18-000034",
+    "filingDate": "2018-02-21",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616018000034/duk-20171231x10k.htm"
+   },
+   {
+    "accession": "0001326160-17-000016",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326160/000132616017000016/duk-20161231x10k.htm"
+   }
+  ]
+ }
+}

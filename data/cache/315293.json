@@ -1,0 +1,384 @@
+{
+ "proxies": {
+  "0001193125-26-187428": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312526187428/aon-20260428.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-008116",
+   "result": {
+    "ceoPay": 73773921,
+    "medianPay": 89327,
+    "payRatio": 826,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ng information regarding the relationship between the annual total compensation of our median employee and the annual total compensation of our Chief Executive Officer, Mr. Case. For 2025, our last completed fiscal year, the median annual total compensation of our employees (excluding Mr. Case) was $89,327, and the annual total compensation of Mr. Case was $73,773,921 (this amount is approximately $31,000 higher than the total compensation amount reflected in the Summary Compensation Table appearing in this proxy statement because it also includes the value of certain personal benefits and compensation under our non-discriminatory benefit plans, which we also included when calculating the median employee's annual total compensation). Based on this information and applicable SEC rules, our"
+   }
+  },
+  "0001193125-25-100564": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312525100564/d899469ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-006093",
+   "result": {
+    "ceoPay": 26233816,
+    "medianPay": 85717,
+    "payRatio": 306,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ng information regarding the relationship between the annual total compensation of our median employee and the annual total compensation of our Chief Executive Officer, Mr. Case. For 2024, our last completed fiscal year, the median annual total compensation of our employees (excluding Mr. Case) was $85,717, and the annual total compensation of Mr. Case was $26,233,816 (this amount is approximately $28,000 higher than the total compensation amount reflected in the Summary Compensation Table appearing in this proxy statement because it also includes the value of certain personal benefits and compensation under our non-discriminatory benefit plans, because we included these same types of benefits when calculating the median employee's compensation). Based on this information and applicable SE"
+   }
+  },
+  "0001193125-24-122308": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312524122308/d726535ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001628280-24-005392",
+   "result": {
+    "ceoPay": 23689198,
+    "medianPay": 88009,
+    "payRatio": 269,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ng information regarding the relationship between the annual total compensation of our median employee and the annual total compensation of our Chief Executive Officer, Mr. Case. For 2023, our last completed fiscal year, the median annual total compensation of our employees (excluding Mr. Case) was $88,009, and the annual total compensation of Mr. Case was $23,689,198 (this amount is approximately $27,000 higher than the total compensation amount reflected in the Summary Compensation Table appearing in this proxy statement because it also includes the value of certain personal benefits and compensation under our non-discriminatory benefit plans, because we included these same types of benefits when calculating the median employee's compensation). Based on this information and applicable SE"
+   }
+  },
+  "0001193125-23-126897": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312523126897/d429440ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001628280-23-004087",
+   "result": {
+    "ceoPay": 19696932,
+    "medianPay": 74932,
+    "payRatio": 263,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ng information regarding the relationship between the annual total compensation of our median employee and the annual total compensation of our Chief Executive Officer, Mr. Case. For 2022, our last completed fiscal year, the median annual total compensation of our employees (excluding Mr. Case) was $74,932, and the annual total compensation of Mr. Case was $19,696,932 (this amount is approximately $28,000 higher than the total compensation amount reflected in the Summary Compensation Table appearing of this proxy statement because it also includes the value of certain personal benefits and compensation under our non-discriminatory benefit plans, because we included these same types of benefits when calculating the median employee's compensation). Based on this information and applicable SE"
+   }
+  },
+  "0001193125-22-133607": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312522133607/d270926ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001628280-22-003180",
+   "result": {
+    "ceoPay": 19893638,
+    "medianPay": 81645,
+    "payRatio": 244,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ng information regarding the relationship between the annual total compensation of our median employee and the annual total compensation of our Chief Executive Officer, Mr. Case. For 2021, our last completed fiscal year, the median annual total compensation of our employees (excluding Mr. Case) was $81,645, and the annual total compensation of Mr. Case was $19,893,638 (this amount is approximately $25,000 higher than the total compensation amount reflected in the Summary Compensation Table appearing of this proxy statement because it also includes the value of certain personal benefits and compensation under our non-discriminatory benefit plans, because we included these same types of benefits when calculating the median employees compensation). Based on this information and applicable SE"
+   }
+  },
+  "0001193125-21-117739": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312521117739/d125154ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001628280-21-002574",
+   "result": {
+    "ceoPay": 20298032,
+    "medianPay": 80833,
+    "payRatio": 251,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ng information regarding the relationship between the annual total compensation of our median employee and the annual total compensation of our Chief Executive Officer, Mr. Case. For 2020, our last completed fiscal year, the median annual total compensation of our employees (excluding Mr. Case) was $80,833, and the annual total compensation of Mr. Case was $20,298,032 (this amount differs from the total compensation amount reflected in the Summary Compensation Table appearing on page 41 of this proxy statement because it also includes the value of certain personal benefits and compensation under our non-discriminatory benefit plans, because we included these same types of benefits when calculating the median employees compensation). Based on this information and applicable SEC rules, our"
+   }
+  },
+  "0001193125-20-119223": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312520119223/d861196ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001628280-20-001607",
+   "result": {
+    "ceoPay": 16027458,
+    "medianPay": 65497,
+    "payRatio": 245,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ng information regarding the relationship between the annual total compensation of our median employee and the annual total compensation of our Chief Executive Officer, Mr. Case. For 2019, our last completed fiscal year, the median annual total compensation of our employees (excluding Mr. Case) was $65,497, and the annual total compensation of Mr. Case was $16,027,458 (this amount differs from the total compensation amount reflected in the Summary Compensation Table appearing on page 36 of this proxy statement because it also includes the value of certain personal benefits and compensation under our non-discriminatory benefit plans). Based on this information and applicable SEC rules, our estimate of the ratio of Mr. Cases annual total compensation to the median of the annual total compen"
+   }
+  },
+  "0001193125-19-320996": {
+   "parserVersion": 1,
+   "filingDate": "2019-12-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312519320996/d822247ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001628280-19-001558",
+   "result": null
+  },
+  "0001193125-19-122539": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312519122539/d640943ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001628280-19-001558",
+   "result": {
+    "ceoPay": 16181591,
+    "medianPay": 69784,
+    "payRatio": 232,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ng information regarding the relationship between the annual total compensation of our median employee and the annual total compensation of our Chief Executive Officer, Mr. Case. For 2018, our last completed fiscal year, the median annual total compensation of our employees (excluding Mr. Case) was $69,784, and the annual total compensation of Mr. Case was $16,181,591 (this amount differs from the total compensation amount reflected in the Summary Compensation Table appearing on page 44 of this proxy statement because it also includes the value of certain personal benefits and compensation under our nondiscriminatory benefit plans). Based on this information and applicable SEC rules, our estimate of the ratio of Mr. Cases annual total compensation to the median of the annual total compens"
+   }
+  },
+  "0001193125-18-138792": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/315293/000119312518138792/d471390ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001628280-18-001923",
+   "result": {
+    "ceoPay": 14627229,
+    "medianPay": 67492,
+    "payRatio": 217,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ng information regarding the relationship between the annual total compensation of our median employee and the annual total compensation of our Chief Executive Officer, Mr. Case. For 2017, our last completed fiscal year, the median annual total compensation of our employees (excluding Mr. Case) was $67,492, and the annual total compensation of Mr. Case was $14,627,229 (this amount differs from the total compensation amount reflected in the Summary Compensation Table appearing on page 46 of this proxy statement because it also includes the value of certain personal benefits and compensation under our nondiscriminatory benefit plans). Based on this information and applicable SEC rules, our estimate of the ratio of Mr. Cases annual total compensation to the median of the annual total compens"
+   }
+  }
+ },
+ "tenKs": {
+  "0001628280-18-001923": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0001628280-19-001558": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0001628280-20-001607": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0001628280-21-002574": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0001628280-22-003180": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0001628280-23-004087": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0001628280-24-005392": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0001628280-25-006093": {
+   "parserVersion": 1,
+   "employees": 60000
+  },
+  "0001628280-26-008116": {
+   "parserVersion": 1,
+   "employees": 60000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 7234000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-10-001535"
+   },
+   "2008": {
+    "revenue": 7528000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-001427"
+   },
+   "2009": {
+    "revenue": 7595000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-12-001478"
+   },
+   "2010": {
+    "revenue": 8512000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-13-001494"
+   },
+   "2011": {
+    "revenue": 11287000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001445305-14-000476"
+   },
+   "2012": {
+    "revenue": 11514000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-15-000950"
+   },
+   "2013": {
+    "revenue": 11815000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-16-011485"
+   },
+   "2014": {
+    "revenue": 12045000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-17-001652"
+   },
+   "2015": {
+    "revenue": 9480000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-18-001923"
+   },
+   "2016": {
+    "revenue": 9409000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-19-001558"
+   },
+   "2017": {
+    "revenue": 9998000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-19-001558"
+   },
+   "2018": {
+    "revenue": 10770000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-19-001558"
+   },
+   "2019": {
+    "revenue": 11013000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-22-003180"
+   },
+   "2020": {
+    "revenue": 11066000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-23-004087"
+   },
+   "2021": {
+    "revenue": 12193000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-24-005392"
+   },
+   "2022": {
+    "revenue": 12479000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-25-006093"
+   },
+   "2023": {
+    "revenue": 13376000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008116"
+   },
+   "2024": {
+    "revenue": 15698000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008116"
+   },
+   "2025": {
+    "revenue": 17181000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008116"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 19868384,
+   "2022": 19668985,
+   "2023": 23661834,
+   "2024": 26205390,
+   "2025": 73742639
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-008116",
+    "filingDate": "2026-02-13",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828026008116/aon-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-006093",
+    "filingDate": "2025-02-18",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828025006093/aon-20241231.htm"
+   },
+   {
+    "accession": "0001628280-24-005392",
+    "filingDate": "2024-02-16",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828024005392/aon-20231231.htm"
+   },
+   {
+    "accession": "0001628280-23-004087",
+    "filingDate": "2023-02-17",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828023004087/aon-20221231.htm"
+   },
+   {
+    "accession": "0001628280-22-003180",
+    "filingDate": "2022-02-18",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828022003180/aon-20211231.htm"
+   },
+   {
+    "accession": "0001628280-21-002574",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828021002574/aon-20201231.htm"
+   },
+   {
+    "accession": "0001628280-20-001607",
+    "filingDate": "2020-02-14",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828020001607/aonplc201910-k.htm"
+   },
+   {
+    "accession": "0001628280-19-001558",
+    "filingDate": "2019-02-19",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828019001558/aonplc201810-k.htm"
+   },
+   {
+    "accession": "0001628280-18-001923",
+    "filingDate": "2018-02-20",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828018001923/aonplc201710-k.htm"
+   },
+   {
+    "accession": "0001628280-17-001652",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/315293/000162828017001652/aonplc201610-k.htm"
+   }
+  ]
+ }
+}

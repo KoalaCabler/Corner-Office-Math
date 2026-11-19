@@ -1,0 +1,346 @@
+{
+ "proxies": {
+  "0001193125-26-155007": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526155007/eqr-20260410.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001193125-26-051433",
+   "result": {
+    "ceoPay": 12759187,
+    "medianPay": 77311,
+    "payRatio": 165,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "nate median employee in 2025 as in 2024 and calculated 2025 total compensation for such employee using the same methodology as used for Mr. Parrell's Total Compensation as reflected in the Summary Compensation Table. Based on this calculation, the 2025 total compensation for our median employee was $77,311 and the 2025 total compensation for Mr. Parrell as reflected in the Summary Compensation Table was $12,759,187. The ratio of Mr. Parrell's compensation to that of the median employee is 165:1. Because the SEC rules for identifying the median employee and calculating the pay ratio permit companies to use various methodologies and assumptions, and to apply certain exclusions and to make reasonable estimates that reflect their employee populations and compensation practices, the pay ratio r"
+   }
+  },
+  "0000950170-25-054259": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017025054259/eqr-20250414.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-019894",
+   "result": {
+    "ceoPay": 11359954,
+    "medianPay": 71418,
+    "payRatio": 159,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "al median employee's compensation value and calculated 2024 total compensation for such employee using the same methodology as used for Mr. Parrell's Total Compensation as reflected in the Summary Compensation Table. Based on this calculation, the 2024 total compensation for our median employee was $71,418 and the 2024 total compensation for Mr. Parrell as reflected in the Summary Compensation Table was $11,359,954. The ratio of Mr. Parrell's compensation to that of the median employee is 159:1. Because the SEC rules for identifying the median employee and calculating the pay ratio permit companies to use various methodologies and assumptions, and to apply certain exclusions and to make reasonable estimates that reflect their employee populations and compensation practices, the pay ratio r"
+   }
+  },
+  "0000950170-24-044809": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017024044809/eqr-20240416.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-015907",
+   "result": {
+    "ceoPay": 11361059,
+    "medianPay": 74135,
+    "payRatio": 153,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "than the Chief Executive Officer, whose compensation is excluded for purposes of identifying the median employee. The Company used its actual employee population as opposed to a statistical sampling or other method. Based on this calculation, the 2023 total compensation for our median employee was $74,135 and the 2023 total compensation for Mr. Parrell as reflected in the Summary Compensation Table was $11,361,059. The ratio of Mr. Parrell's compensation to that of the median employee is 153:1. Because the SEC rules for identifying the median employee and calculating the pay ratio permit companies to use various methodologies and assumptions, and to apply certain exclusions and to make reasonable estimates that reflect their employee populations and compensation practices, the pay ratio r"
+   }
+  },
+  "0000950170-23-013299": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017023013299/eqr-20230417.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000950170-23-003060",
+   "result": {
+    "ceoPay": 11235084,
+    "medianPay": 70209,
+    "payRatio": 160,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "same median employee in 2022 as in 2020 and calculated 2022 total compensation for such employee using the same methodology as used for Mr. Parrell's Total Compensation as reflected in the Summary Compensation Table. Based on this calculation, the 2022 total compensation for our median employee was $70,209 and the 2022 total compensation for Mr. Parrell as reflected in the Summary Compensation Table was $11,235,084. The ratio of Mr. Parrell's compensation to that of the median employee is 160:1. Because the SEC rules for identifying the median employee and calculating the pay ratio permit companies to use various methodologies and assumptions, and to apply certain exclusions and to make reasonable estimates that reflect their employee populations and compensation practices, the pay ratio r"
+   }
+  },
+  "0001564590-22-014653": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459022014653/eqr-def14a_20220616.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001564590-22-005566",
+   "result": {
+    "ceoPay": 8490527,
+    "medianPay": 62996,
+    "payRatio": 135,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "same median employee in 2021 as in 2020 and calculated 2021 total compensation for such employee using the same methodology as used for Mr. Parrell's Total Compensation as reflected in the Summary Compensation Table. Based on this calculation, the 2021 total compensation for our median employee was $62,996 and the 2021 total compensation for Mr. Parrell as reflected in the Summary Compensation Table was $8,490,527. The ratio of Mr. Parrell's compensation to that of the median employee is 135:1. Because the SEC rules for identifying the median employee and calculating the pay ratio permit companies to use various methodologies and assumptions, and to apply certain exclusions and to make reasonable estimates that reflect their employee populations and compensation practices, the pay ratio re"
+   }
+  },
+  "0001564590-21-019643": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459021019643/eqr-def14a_20210617.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-006679",
+   "result": {
+    "ceoPay": 7600658,
+    "medianPay": 63212,
+    "payRatio": 120,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "than the Chief Executive Officer, whose compensation is excluded for purposes of identifying the median employee. The Company used its actual employee population as opposed to a statistical sampling or other method. Based on this calculation, the 2020 total compensation for our median employee was $63,212 and the 2020 total compensation for Mr. Parrell as reflected in the Summary Compensation Table was $7,600,658. The ratio of Mr. Parrell's compensation to that of the median employee is 120:1. Because the SEC rules for identifying the median employee and calculating the pay ratio permit companies to use various methodologies and assumptions, and to apply certain exclusions and to make reasonable estimates that reflect their employee populations and compensation practices, the 66 Table of"
+   }
+  },
+  "0001564590-20-017733": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459020017733/eqr-def14a_20200625.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-005562",
+   "result": {
+    "ceoPay": 6588161,
+    "medianPay": 59542,
+    "payRatio": 111,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ee's compensation value and calculated 2019 total compensation for such employee using the same methodology as used for the Chief Executive Officer's Total Compensation as reflected in the Summary Compensation Table. Based on this calculation, the 2019 total compensation for our median employee was $59,542 and the 2019 total compensation for Mr. Parrell as reflected in the Summary Compensation Table was $6,588,161. The ratio of Mr. Parrell's compensation to that of the median employee is 111:1. Because the SEC rules for identifying the median employee and calculating the pay ratio permit companies to use various methodologies and assumptions, and to apply certain exclusions and to make reasonable estimates that reflect their employee populations and compensation practices, the pay ratio re"
+   }
+  },
+  "0001193125-19-115026": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312519115026/d665098ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001564590-19-003683",
+   "result": {
+    "ceoPay": 11004730,
+    "medianPay": 57841,
+    "payRatio": 190,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "e median employee in 2018 as in 2017 and calculated 2018 total compensation for such employee using the same methodology as used for Mr. Neithercuts Total Compensation as reflected in the Summary Compensation Table. Based on this calculation, the 2018 total compensation for our median employee was $57,841 and the 2018 total compensation for Mr. Neithercut as reflected in the Summary Compensation Table was $11,004,730. The ratio of Mr. Neithercuts compensation to that of the median employee is 190:1. Because the SEC rules for identifying the median employee and calculating the pay ratio permit companies to use various methodologies and assumptions, and to apply certain exclusions and to make reasonable estimates that reflect their employee populations and compensation practices, the pay r"
+   }
+  },
+  "0001193125-18-134962": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312518134962/d539840ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001564590-18-002873",
+   "result": {
+    "ceoPay": 8568713,
+    "medianPay": 56804,
+    "payRatio": 151,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "n employee in this manner, the Company recalculated 2017 total compensation for such employee using the same methodology as used for Mr. Neithercuts Total Compensation as reflected in the Summary Compensation Table. Based on this calculation, the 2017 total compensation for our median employee was $56,804 and the 2017 total compensation for Mr. Neithercut as reflected in the Summary Compensation Table was $8,568,713. The ratio of Mr. Neithercuts compensation to that of the median employee is 151:1. Because the SEC rules for identifying the median employee and calculating the pay ratio permit companies to use various methodologies and assumptions, and to apply certain exclusions and to make reasonable estimates that reflect their employee populations and compensation practices, the pay ra"
+   }
+  }
+ },
+ "tenKs": {
+  "0001564590-18-002873": {
+   "parserVersion": 1,
+   "employees": 2700
+  },
+  "0001564590-19-003683": {
+   "parserVersion": 1,
+   "employees": 2700
+  },
+  "0001564590-20-005562": {
+   "parserVersion": 1,
+   "employees": 2700
+  },
+  "0001564590-21-006679": {
+   "parserVersion": 1,
+   "employees": 2600
+  },
+  "0001564590-22-005566": {
+   "parserVersion": 1,
+   "employees": 2400
+  },
+  "0000950170-23-003060": {
+   "parserVersion": 1,
+   "employees": 2400
+  },
+  "0000950170-24-015907": {
+   "parserVersion": 1,
+   "employees": 2400
+  },
+  "0000950170-25-019894": {
+   "parserVersion": 1,
+   "employees": 2500
+  },
+  "0001193125-26-051433": {
+   "parserVersion": 1,
+   "employees": 2400
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 1824046000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-040142"
+   },
+   "2008": {
+    "revenue": 1975669000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-040142"
+   },
+   "2009": {
+    "revenue": 1856503000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-017717"
+   },
+   "2010": {
+    "revenue": 1995519000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-017717"
+   },
+   "2011": {
+    "revenue": 1525220000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906107-14-000006"
+   },
+   "2012": {
+    "revenue": 1747502000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906107-15-000007"
+   },
+   "2013": {
+    "revenue": 2387702000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906107-16-000029"
+   },
+   "2014": {
+    "revenue": 2614748000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906107-17-000007"
+   },
+   "2015": {
+    "revenue": 2744965000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-002873"
+   },
+   "2016": {
+    "revenue": 2425800000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-19-003683"
+   },
+   "2017": {
+    "revenue": 2471406000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-20-005562"
+   },
+   "2018": {
+    "revenue": 2578434000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-20-005562"
+   },
+   "2019": {
+    "revenue": 2701075000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-20-005562"
+   },
+   "2020": {
+    "revenue": 2571705000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0001564590-21-006679"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 8490527,
+   "2022": 11235084,
+   "2023": 11361059,
+   "2024": 11359954,
+   "2025": 12759187
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-051433",
+    "filingDate": "2026-02-13",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526051433/eqr-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-019894",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017025019894/eqr-20241231.htm"
+   },
+   {
+    "accession": "0000950170-24-015907",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017024015907/eqr-20231231.htm"
+   },
+   {
+    "accession": "0000950170-23-003060",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017023003060/eqr-20221231.htm"
+   },
+   {
+    "accession": "0001564590-22-005566",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459022005566/eqr-10k_20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-006679",
+    "filingDate": "2021-02-18",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459021006679/eqr-10k_20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-005562",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459020005562/eqr-10k_20191231.htm"
+   },
+   {
+    "accession": "0001564590-19-003683",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459019003683/eqr-10k_20181231.htm"
+   },
+   {
+    "accession": "0001564590-18-002873",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459018002873/eqr-10k_20171231.htm"
+   },
+   {
+    "accession": "0000906107-17-000007",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906107/000090610717000007/eqr-20161231x10k.htm"
+   }
+  ]
+ }
+}

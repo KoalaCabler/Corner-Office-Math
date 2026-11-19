@@ -1,0 +1,243 @@
+{
+ "proxies": {
+  "0001308179-26-000081": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817926000081/mrna-20260316.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001682852-26-000033",
+   "result": {
+    "ceoPay": 19932217,
+    "medianPay": 225053,
+    "payRatio": 89,
+    "method": "cross-checked",
+    "employees": 4700,
+    "statedYear": 2025,
+    "excerpt": ", we then determined the cash bonus for 2025 (paid in 2026), as well as other benefits such as 401(k) match, in the same method used to calculate and report Mr. Bancel's compensation. The 2025 total compensation for Mr. Bancel, as reported above in the 2025 Summary Compensation Table on page 65 was $19,932,217, which reflects all elements of his compensation as determined under Item 402 of Regulation S-K. The 2025 annual total compensation as determined under Item 402 of Regulation S-K for our median employee, who is employed in the U.S. as an engineer, was $225,053. The ratio of Mr. Bancel's total compensation to our median employee's total annual compensation for fiscal year 2025 is 89 to 1. Pay Versus Performance The following table reports the compensation of our CEO (our Principal Exe"
+   }
+  },
+  "0001682852-25-000062": {
+   "parserVersion": 1,
+   "filingDate": "2025-10-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000062/mrna-optionexchangedefinit.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001682852-25-000022",
+   "result": null
+  },
+  "0001308179-25-000082": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817925000082/mrna-20250310.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001682852-25-000022",
+   "result": {
+    "ceoPay": 19876180,
+    "medianPay": 213200,
+    "payRatio": 93,
+    "method": "cross-checked",
+    "employees": 5800,
+    "statedYear": 2024,
+    "excerpt": ", we then determined the cash bonus for 2024 (paid in 2025), as well as other benefits such as 401(k) match, in the same method used to calculate and report Mr. Bancel's compensation. The 2024 total compensation for Mr. Bancel, as reported above in the 2024 Summary Compensation Table on page 69 was $19,876,180, which reflects all elements of his compensation as determined under Item 402 of Regulation S-K. The 2024 annual total compensation as determined under Item 402 of Regulation S-K for our median employee, who is employed as an oncology scientist, was $213,200. The ratio of Mr. Bancel's total compensation to our median employee's total annual compensation for fiscal year 2024 is 93 to 1. Pay Versus Performance The following table reports the compensation of our CEO (our Principal Execu"
+   }
+  },
+  "0001308179-24-000208": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817924000208/lmrna2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001682852-24-000015",
+   "result": {
+    "ceoPay": 17068514,
+    "medianPay": 209627,
+    "payRatio": 81,
+    "method": "cross-checked",
+    "employees": 5600,
+    "statedYear": 2023,
+    "excerpt": ", we then determined the cash bonus for 2023 (paid in 2024), as well as other benefits such as 401(k) match, in the same method used to calculate and report Mr. Bancel's compensation. The 2023 total compensation for Mr. Bancel, as reported above in the 2023 Summary Compensation Table on page 59 was $17,068,514, which reflects all elements of his compensation as determined under Item 402 of Regulation S-K. The 2023 annual total compensation as determined under Item 402 of Regulation S-K for our median employee, who is employed as a Finance Manager, was $209,627. The ratio of Mr. Bancel's total compensation to our median employee's total annual compensation for fiscal year 2023 is 81 to 1. Pay Versus Performance The following table reports the compensation of our CEO (our Principal Executive"
+   }
+  },
+  "0001308179-23-000184": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817923000184/lmrna2023_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001682852-23-000011",
+   "result": {
+    "ceoPay": 19363648,
+    "medianPay": 163293,
+    "payRatio": 119,
+    "method": "cross-checked",
+    "employees": 3900,
+    "statedYear": 2022,
+    "excerpt": ", we then determined the cash bonus for 2022 (paid in 2023), as well as other benefits such as 401(k) match, in the same method used to calculate and report Mr. Bancel's compensation. The 2022 total compensation for Mr. Bancel, as reported above in the 2022 Summary Compensation Table on page 55 was $19,363,648, which reflects all elements of his compensation as determined under Item 402 of Regulation S-K. The 2022 annual total compensation as determined under Item 402 of Regulation S-K for our median employee, who is employed as a Principal Research Associate, was $163,293. The ratio of Mr. Bancel's total compensation to our median employee's total annual compensation for fiscal year 2022 is 119 to 1. Pay Versus Performance The following table reports the compensation of our CEO (our Princ"
+   }
+  },
+  "0001308179-22-000041": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817922000041/lmrna2022_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001682852-22-000012",
+   "result": {
+    "ceoPay": 18155739,
+    "medianPay": 133074,
+    "payRatio": 136,
+    "method": "cross-checked",
+    "employees": 2700,
+    "statedYear": 2021,
+    "excerpt": "ards received and the cash bonus for 2021 (paid in 2022), as well as other benefits such as 401(k) matching, in the same method used to calculate and report Mr. Bancel's compensation. The 2021 total compensation for Mr. Bancel, as reported above in the 2021 Summary Compensation Table on page 51 was $18,155,739, which reflects all elements of his compensation as determined under Item 402 of Regulation S-K. The 2021 annual total compensation as determined under Item 402 of Regulation S-K for our median employee, who is employed as a senior research associate, was $133,074. Our median employee pay declined from 2020 to 2021 primarily as a result of two factors: (1) we had a significant number of employees in 2021 who were only employed for part of the year, as we more than doubled our headcou"
+   }
+  },
+  "0001308179-21-000031": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817921000031/lmrn2021_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001682852-21-000006",
+   "result": {
+    "ceoPay": 12855275,
+    "medianPay": 159114,
+    "payRatio": 81,
+    "method": "cross-checked",
+    "employees": 1300,
+    "statedYear": 2020,
+    "excerpt": "ards received and the cash bonus for 2020 (paid in 2021), as well as other benefits such as 401(k) matching, in the same method used to calculate and report Mr. Bancel's compensation. The 2020 total compensation for Mr. Bancel, as reported above in the 2020 Summary Compensation Table on page 46 was $12,855,275, which reflects all elements of his compensation as determined under Item 402 of Regulation S-K. The 2020 annual total compensation as determined under Item 402 of Regulation S-K for our median employee, who is employed in our research associate track, was $159,114. The ratio of Mr. Bancel's total compensation to our median employee's total annual compensation for fiscal year 2020 is 81 to 1. Other Compensation Policies and Practices Tax and Accounting Considerations Deductibility of"
+   }
+  },
+  "0001193125-20-073721": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000119312520073721/d831877ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001682852-20-000006",
+   "result": null
+  },
+  "0001193125-19-148153": {
+   "parserVersion": 1,
+   "filingDate": "2019-05-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1682852/000119312519148153/d689184ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001682852-19-000009",
+   "result": null
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2016": {
+    "revenue": 108396000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001682852-19-000009"
+   },
+   "2017": {
+    "revenue": 205825000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001682852-20-000006"
+   },
+   "2018": {
+    "revenue": 135068000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001682852-21-000006"
+   },
+   "2019": {
+    "revenue": 60209000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001682852-20-000006"
+   },
+   "2020": {
+    "revenue": 803000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001682852-23-000011"
+   },
+   "2021": {
+    "revenue": 18471000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001682852-23-000011"
+   },
+   "2022": {
+    "revenue": 19263000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001682852-23-000011"
+   },
+   "2023": {
+    "revenue": 6848000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001682852-26-000033"
+   },
+   "2024": {
+    "revenue": 3236000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001682852-26-000033"
+   },
+   "2025": {
+    "revenue": 1944000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001682852-26-000033"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001682852-26-000033",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285226000033/mrna-20251231.htm"
+   },
+   {
+    "accession": "0001682852-25-000022",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000022/mrna-20241231.htm"
+   },
+   {
+    "accession": "0001682852-24-000015",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285224000015/mrna-20231231.htm"
+   },
+   {
+    "accession": "0001682852-23-000011",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285223000011/mrna-20221231.htm"
+   },
+   {
+    "accession": "0001682852-22-000012",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285222000012/mrna-20211231.htm"
+   },
+   {
+    "accession": "0001682852-21-000006",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285221000006/mrna-20201231.htm"
+   },
+   {
+    "accession": "0001682852-20-000006",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285220000006/moderna10-k12312019.htm"
+   },
+   {
+    "accession": "0001682852-19-000009",
+    "filingDate": "2019-03-13",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285219000009/moderna10-k12312018.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,342 @@
+{
+ "proxies": {
+  "0001193125-26-127620": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/702165/000119312526127620/nsc-20260327.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-006268",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 118895,
+    "payRatio": 137,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "Norfolk Southern's compensation policies and practices are not reasonably likely to have a material adverse effect on the Company. PAY RATIO DISCLOSURE The ratio of the annual compensation of Mark R. George, our President and CEO, to the median annual compensation of our other employees in 2025 is 137 to 1. We used the same median employee that we identified in our 2024 Proxy Statement for purposes of this disclosure. There has been no significant change in our employee population or employee compensation arrangements that we believe would significantly impact the pay ratio disclosure for 2025. A complete description of the methodology we previously used to identify the estimated median employee can be found in our 2024 Proxy Statement. The determination of the median employee is an estim"
+   }
+  },
+  "0001193125-25-066914": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/702165/000119312525066914/d892357ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000702165-25-000008",
+   "result": {
+    "ceoPay": 9892717,
+    "medianPay": 79792,
+    "payRatio": 124,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "t Norfolk Southern's compensation policies and practices are not reasonably likely to have a material adverse effect on the Company. PAY RATIO DISCLOSURE The ratio of the annual compensation of Mark R. George, our President and CEO to the median annual compensation of our other employees in 2024 is 124 to 1. We used the same median employee that we identified in 2023 for purposes of this disclosure. There has been no significant change in our employee population or employee compensation arrangements that we believe would significantly impact the pay ratio disclosure for 2024. A complete description of the methodology we previously used to identify the estimated median employee can be found in our 2023 Proxy Statement. The determination of the median employee is an estimate, and other compa"
+   }
+  },
+  "0001552781-23-000213": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/702165/000155278123000213/e23052_nsc-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000702165-23-000010",
+   "result": {
+    "ceoPay": 10013677,
+    "medianPay": 114015,
+    "payRatio": 88,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "policies and practices are not reasonably likely to have a material adverse effect on the Corporation. Pay Ratio Disclosure The ratio of the annual compensation of Alan H. Shaw, our President and Chief Executive Officer (our \"CEO\") to the median annual compensation of our other employees in 2022 is 88 to 1. We used the same median employee that we identified in 2022 for purposes of this disclosure. There has been no significant change in our employee population or employee compensation arrangements that we believe would significantly impact the pay ratio disclosure for 2022. A complete description of the methodology we previously used to identify the estimated median employee can be found in our 2022 and 2021 Proxy Statements. The determination of the median employee is an estimate, and ot"
+   }
+  },
+  "0001552781-22-000298": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/702165/000155278122000298/e22129_nsc-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000702165-22-000007",
+   "result": {
+    "ceoPay": 14030009,
+    "medianPay": 99945,
+    "payRatio": 140,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "icies and practices are not reasonably likely to have a material adverse effect on the Corporation. Pay Ratio Disclosure The ratio of the annual compensation of James A. Squires, our Chairman and Chief Executive Officer (our \"CEO\") to the median annual compensation of our other employees in 2021 is 140 to 1. We used the same median employee that we had identified in 2020 for purposes of this disclosure. There has been no significant change in our employee population or employee compensation arrangements that we believe would significantly impact the pay ratio disclosure for 2021. However, the median employee that we identified in 2021 had a change in circumstances in that the employee worked significantly more hours in 2021 than 2020, resulting in substantially higher compensation for that"
+   }
+  },
+  "0001552781-21-000163": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/702165/000155278121000163/e21086_nsc-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000702165-21-000006",
+   "result": {
+    "ceoPay": 14137290,
+    "medianPay": 102637,
+    "payRatio": 138,
+    "method": "cross-checked",
+    "employees": 19066,
+    "statedYear": 2020,
+    "excerpt": "ractices are not reasonably likely to have a material adverse effect on the Corporation. Pay Ratio Disclosure The ratio of the annual compensation of James A. Squires, our Chairman, President and Chief Executive Officer (our \"CEO\") to the median annual compensation of our other employees in 2020 is 138 to 1. The determination of the median employee is an estimate, and other companies may use different methodologies and assumptions in determining the median employee. The pay ratio for other companies may not be comparable to the ratio we present due to different methodologies and assumptions, different employee populations, and different compensation structures. We used the following methodology to identify the estimated median employee, to determine the median employee's annual compensatio"
+   }
+  },
+  "0001552781-20-000226": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/702165/000155278120000226/e20158_nsc-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000702165-20-000011",
+   "result": {
+    "ceoPay": 16655786,
+    "medianPay": 108348,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ractices are not reasonably likely to have a material adverse effect on the Corporation. Pay Ratio Disclosure The ratio of the annual compensation of James A. Squires, our Chairman, President and Chief Executive Officer (our \"CEO\") to the median annual compensation of our other employees in 2019 is 154 to 1. We used the same median employee that we had identified in our 2018 Proxy Statement for purposes of this disclosure. There has been no significant change in our employee population or employee compensation arrangements that we believe would significantly impact the pay ratio disclosure for 2020. A complete description of the methodology we used to identify the estimated median employee can be found in our 2018 Proxy Statement. The determination of the median employee is an estimate, an"
+   }
+  },
+  "0001206774-19-001116": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/702165/000120677419001116/nsc3509281-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000702165-19-000012",
+   "result": {
+    "ceoPay": 14290805,
+    "medianPay": 98477,
+    "payRatio": 145,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ractices are not reasonably likely to have a material adverse effect on the Corporation. PAY RATIO DISCLOSURE The ratio of the annual compensation of James A. Squires, our Chief Executive Officer, President and Chairman (our \"CEO\") to the median annual compensation of our other employees in 2018 is 145 to 1. We used the same median employee that we had identified in 2018 for purposes of this disclosure. There has been no significant change in our employee population or employee compensation arrangements that we believe would significantly impact the pay ratio disclosure for 2019. A complete description of the methodology we used in 2018 to identify the estimated median employee can be found in our 2018 Proxy Statement. The determination of the median employee is an estimate, and other comp"
+   }
+  },
+  "0001206774-18-000883": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/702165/000120677418000883/norfolk3300981-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000702165-18-000011",
+   "result": {
+    "ceoPay": 11955417,
+    "medianPay": 91791,
+    "payRatio": 130,
+    "method": "cross-checked",
+    "employees": 26544,
+    "statedYear": 2018,
+    "excerpt": "ractices are not reasonably likely to have a material adverse effect on the Corporation. PAY RATIO DISCLOSURE The ratio of the annual compensation of James A. Squires, our Chief Executive Officer, President and Chairman (our \"CEO\") to the median annual compensation of our other employees in 2017 is 130 to 1. The determination of the median employee is an estimate, and other companies may use different methodologies and assumptions in determining the median employee. The pay ratio for other companies may not be comparable to the ratio we present due to different methodologies and assumptions, different employee populations, and different compensation structures. We used the following methodology to identify the estimated median employee, to determine the median employee's annual compensatio"
+   }
+  }
+ },
+ "tenKs": {
+  "0000702165-19-000012": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000702165-20-000011": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000702165-22-000007": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000702165-23-000010": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000702165-25-000008": {
+   "parserVersion": 1,
+   "employees": 350
+  },
+  "0001628280-26-006268": {
+   "parserVersion": 1,
+   "employees": 350
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 9432000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000702165-10-000049"
+   },
+   "2008": {
+    "revenue": 10661000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000702165-11-000047"
+   },
+   "2009": {
+    "revenue": 7969000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000702165-12-000043"
+   },
+   "2010": {
+    "revenue": 9516000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000702165-13-000042"
+   },
+   "2011": {
+    "revenue": 11172000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000702165-14-000019"
+   },
+   "2012": {
+    "revenue": 11040000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000702165-15-000023"
+   },
+   "2013": {
+    "revenue": 11245000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000702165-16-000162"
+   },
+   "2014": {
+    "revenue": 11624000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000702165-17-000018"
+   },
+   "2015": {
+    "revenue": 10511000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000702165-18-000011"
+   },
+   "2016": {
+    "revenue": 9888000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000702165-18-000011"
+   },
+   "2017": {
+    "revenue": 10551000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000702165-18-000011"
+   },
+   "2018": {
+    "revenue": 11458000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000702165-21-000006"
+   },
+   "2019": {
+    "revenue": 11296000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000702165-22-000007"
+   },
+   "2020": {
+    "revenue": 9789000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000702165-23-000010"
+   },
+   "2021": {
+    "revenue": 11142000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000702165-24-000005"
+   },
+   "2022": {
+    "revenue": 12745000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000702165-25-000008"
+   },
+   "2023": {
+    "revenue": 12156000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-006268"
+   },
+   "2024": {
+    "revenue": 12123000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-006268"
+   },
+   "2025": {
+    "revenue": 12180000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-006268"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-006268",
+    "filingDate": "2026-02-09",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/702165/000162828026006268/nsc-20251231.htm"
+   },
+   {
+    "accession": "0000702165-25-000008",
+    "filingDate": "2025-02-10",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216525000008/nsc-20241231.htm"
+   },
+   {
+    "accession": "0000702165-24-000005",
+    "filingDate": "2024-02-05",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216524000005/nsc-20231231.htm"
+   },
+   {
+    "accession": "0000702165-23-000010",
+    "filingDate": "2023-02-03",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216523000010/nsc-20221231.htm"
+   },
+   {
+    "accession": "0000702165-22-000007",
+    "filingDate": "2022-02-04",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216522000007/nsc-20211231.htm"
+   },
+   {
+    "accession": "0000702165-21-000006",
+    "filingDate": "2021-02-04",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216521000006/nsc-20201231.htm"
+   },
+   {
+    "accession": "0000702165-20-000011",
+    "filingDate": "2020-02-06",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216520000011/nsc-20191231.htm"
+   },
+   {
+    "accession": "0000702165-19-000012",
+    "filingDate": "2019-02-08",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216519000012/nsc1231201810-k.htm"
+   },
+   {
+    "accession": "0000702165-18-000011",
+    "filingDate": "2018-02-05",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216518000011/nsc1231201710-knew.htm"
+   },
+   {
+    "accession": "0000702165-17-000018",
+    "filingDate": "2017-02-06",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/702165/000070216517000018/nsc1231201610-k.htm"
+   }
+  ]
+ }
+}

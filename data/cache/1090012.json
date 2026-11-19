@@ -1,0 +1,374 @@
+{
+ "proxies": {
+  "0001104659-26-067065": {
+   "parserVersion": 1,
+   "filingDate": "2026-05-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090012/000110465926067065/tm261373-2_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001193125-26-056485",
+   "result": {
+    "ceoPay": 12600000,
+    "medianPay": 189700,
+    "payRatio": 66,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "as determined, the remaining compensation elements, such as Company retirement arrangement contributions, were added to the total in order to compare the same elements of compensation that are reflected for the current CEO within the Summary Compensation Table. Based on this methodology, CEO pay is $12.6 million, median employee pay is $189.7 thousand, and the ratio is 66:1. Pay Versus Performance Disclosure As required by Item 402(v) of Regulation S-K, Devon is providing the following information regarding the relationship between executive compensation and its financial performance for each of the last five completed calendar years. \"Compensation actually paid\" includes payments made to executives during the applicable year such as salary, annual cash incentive, and various benefits. The"
+   }
+  },
+  "0001104659-25-037545": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090012/000110465925037545/tm252204-6_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-022844",
+   "result": {
+    "ceoPay": 17000000,
+    "medianPay": 176300,
+    "payRatio": 97,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "as determined, the remaining compensation elements, such as Company retirement arrangement contributions, were added to the total in order to compare the same elements of compensation that are reflected for the current CEO within the Summary Compensation Table. Based on this methodology, CEO pay is $17.0 million, median employee pay is $176.3 thousand, and the ratio is 97:1. Pay Versus Performance Disclosure As required by Item 402(v) of Regulation S-K, Devon is providing the following information regarding the relationship between executive compensation and our financial performance for each of the last five completed calendar years. \"Compensation actually paid\" includes payments made to executives during the applicable year such as salary, performance bonus, and various benefits. The SEC"
+   }
+  },
+  "0001104659-24-051304": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090012/000110465924051304/tm2328947d4_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-021781",
+   "result": {
+    "ceoPay": 14900000,
+    "medianPay": 175300,
+    "payRatio": 85,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "as determined, the remaining compensation elements, such as Company retirement arrangement contributions, were added to the total in order to compare the same elements of compensation that are reflected for the current CEO within the Summary Compensation Table. Based on this methodology, CEO pay is $14.9 million, median employee pay is $175.3 thousand, and the ratio is 85:1. 62 | Devon Energy 2024 Proxy Statement | COMMITMENT RUNS DEEP TABLE OF CONTENTS Our Company EXECUTIVE COMPENSATION (cont.) Pay Versus Performance Disclosure As required by Item 402(v) of Regulation S-K, we are providing the following information regarding the relationship between executive compensation and our financial performance for each of the last four completed calendar years. \"Compensation actually paid\" include"
+   }
+  },
+  "0001193125-23-115593": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090012/000119312523115593/d370520ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000950170-23-002852",
+   "result": {
+    "ceoPay": 14500000,
+    "medianPay": 180700,
+    "payRatio": 80,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "as determined, the remaining compensation elements, such as Company retirement arrangement contributions, were added to the total in order to compare the same elements of compensation that are reflected for the current CEO within the Summary Compensation Table. Based on this methodology, CEO pay is $14.5 million, median employee pay is $180.7 thousand, and the ratio is 80:1. | | | | | | | | | 68 | | | | Commitment Runs Deep | Table of Contents EXECUTIVE COMPENSATION (cont'd) PAY VERSUS PERFORMANCE DISCLOSURE As required by Item 402(v) of Regulation S-K, we are providing the following information regarding the relationship between executive compensation and our financial performance for each of the last three completed calendar years. \"Compensation actually paid\" includes payments made to e"
+   }
+  },
+  "0001193125-22-113266": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090012/000119312522113266/d320232ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001564590-22-005321",
+   "result": {
+    "ceoPay": 12000000,
+    "medianPay": 179900,
+    "payRatio": 67,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "as determined, the remaining compensation elements, such as Company retirement arrangement contributions, were added to the total in order to compare the same elements of compensation that are reflected for the current CEO within the Summary Compensation Table. Based on this methodology, CEO pay is $12.0 million, median employee pay is $179.9 thousand, and the ratio is 67:1. | | | | | | | | | | | | | | | 74 | | | | Commitment Runs Deep | Table of Contents EXECUTIVE COMPENSATION (contd) EQUITY COMPENSATION PLAN INFORMATION The following table sets forth information about Devons common stock as of December 31, 2021, that may be issued under Devons equity compensation plans: | | | | | | | | | | | | | | | Plan Category | | | | Number of Securities to be Issued Upon Exercise of Outstanding O"
+   }
+  },
+  "0001193125-21-127113": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090012/000119312521127113/d149637ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-006239",
+   "result": {
+    "ceoPay": 13400000,
+    "medianPay": 154800,
+    "payRatio": 86,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "es, Devon has selected the median-paid employee by aggregating base pay, performance bonus and LTI. Once the median-paid employee was determined, the remaining compensation elements, such as Company retirement arrangement contributions, were added to the total. Based on this methodology, CEO pay is $13.4 million, median employee pay is $154.8 thousand, and the ratio is 86:1. | | | | | | | | | | | | | | | 74 | | | | Commitment Runs Deep | Table of Contents EXECUTIVE COMPENSATION (contd) EQUITY COMPENSATION PLAN INFORMATION The following table sets forth information about Devons common stock as of December 31, 2020, that may be issued under Devons equity compensation plans: | | | | | | | | | | | | | | | Plan Category | | | | Number of Securities to be Issued Upon Exercise of Outstanding O"
+   }
+  },
+  "0001193125-20-113744": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090012/000119312520113744/d853414ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-005182",
+   "result": {
+    "ceoPay": 13800000,
+    "medianPay": 164100,
+    "payRatio": 84,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "For CEO pay, Devon used the amount for 2019 reflected in the Summary Compensation Table (SCT), which includes LTI granted in the year. In determining the median pay of employees, Devon replicated the components of the SCT with respect to 2019 for all employees. Based on this methodology, CEO pay is $13.8 million, median employee pay is $164.1 thousand, and the ratio is 84:1. The amounts reported in the Summary Compensation Table as compensation to the CEO vary from target pay, realizable pay, and actual compensation as reported on the CEOs W-2. For more information about target pay, realizable pay, and actual compensation, see pages 52-53. As compared to the pay ratios published by Devons peers in 2019 proxy statements, Devons 84:1 CEO pay ratio was smaller than 75% of its peer companie"
+   }
+  },
+  "0001193125-19-115142": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090012/000119312519115142/d599630ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001564590-19-003382",
+   "result": {
+    "ceoPay": 12500000,
+    "medianPay": 158000,
+    "payRatio": 79,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "For CEO pay, Devon used the amount for 2018 reflected in the Summary Compensation Table (SCT), which includes LTI granted in the year. In determining the median pay of employees, Devon replicated the components of the SCT with respect to 2018 for all employees. Based on this methodology, CEO pay is $12.5 million, median employee pay is $158.0 thousand and the ratio is 79:1. | | | | | | | | | | | | | | | 76 | | | | Commitment Runs Deep | Table of Contents EXECUTIVE COMPENSATION (contd) EQUITY COMPENSATION PLAN INFORMATION The following table sets forth information about Devons common stock as of December 31, 2018, that may be issued under Devons equity compensation plans: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Plan Category | | | | Number of Securities To be Is"
+   }
+  },
+  "0001193125-18-129082": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090012/000119312518129082/d522911ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001564590-18-002582",
+   "result": {
+    "ceoPay": 13400000,
+    "medianPay": 134800,
+    "payRatio": 100,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "For CEO pay, Devon used the amount for 2017 reflected in the Summary Compensation Table (SCT), which includes LTI granted in the year. In determining the median pay of employees, Devon replicated the components of the SCT with respect to 2017 for all employees. Based on this methodology, CEO pay is $13.4 million, median employee pay is $134.8 thousand and the ratio is 100:1. | | | | | | | | | | | | | | | 76 | | | | Commitment Runs Deep | Table of Contents NAMED EXECUTIVE COMPENSATION (contd) EQUITY COMPENSATION PLAN INFORMATION The following table sets forth information about Devons common stock as of December 31, 2017, that may be issued under Devons equity compensation plans: | | | | | | | | | | | | | | | | | | | | | | | | | | | Plan Category | | | | Number of Securities To be Issued"
+   }
+  }
+ },
+ "tenKs": {
+  "0001564590-18-002582": {
+   "parserVersion": 1,
+   "employees": 4900
+  },
+  "0001564590-19-003382": {
+   "parserVersion": 1,
+   "employees": 2900
+  },
+  "0001564590-20-005182": {
+   "parserVersion": 1,
+   "employees": 1800
+  },
+  "0001564590-21-006239": {
+   "parserVersion": 1,
+   "employees": 1400
+  },
+  "0001564590-22-005321": {
+   "parserVersion": 1,
+   "employees": 1600
+  },
+  "0000950170-23-002852": {
+   "parserVersion": 1,
+   "employees": 1800
+  },
+  "0000950170-24-021781": {
+   "parserVersion": 1,
+   "employees": 1900
+  },
+  "0000950170-25-022844": {
+   "parserVersion": 1,
+   "employees": 2300
+  },
+  "0001193125-26-056485": {
+   "parserVersion": 1,
+   "employees": 2200
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 9975000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-10-017093"
+   },
+   "2008": {
+    "revenue": 13858000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-018537"
+   },
+   "2009": {
+    "revenue": 8015000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-077085"
+   },
+   "2010": {
+    "revenue": 9940000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-068817"
+   },
+   "2011": {
+    "revenue": 11445000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-076267"
+   },
+   "2012": {
+    "revenue": 9501000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-056497"
+   },
+   "2013": {
+    "revenue": 10397000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-466687"
+   },
+   "2014": {
+    "revenue": 20638000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-17-001607"
+   },
+   "2015": {
+    "revenue": 13145000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-002582"
+   },
+   "2016": {
+    "revenue": 6753000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-19-003382"
+   },
+   "2017": {
+    "revenue": 6501000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-20-005182"
+   },
+   "2018": {
+    "revenue": 8896000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-21-006239"
+   },
+   "2019": {
+    "revenue": 6674000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-22-005321"
+   },
+   "2020": {
+    "revenue": 4828000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-23-002852"
+   },
+   "2021": {
+    "revenue": 13750000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-24-021781"
+   },
+   "2022": {
+    "revenue": 19827000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-25-022844"
+   },
+   "2023": {
+    "revenue": 15258000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-056485"
+   },
+   "2024": {
+    "revenue": 15940000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-056485"
+   },
+   "2025": {
+    "revenue": 17188000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-056485"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 14525,
+   "2023": 14883,
+   "2024": 17040
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-056485",
+    "filingDate": "2026-02-18",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090012/000119312526056485/dvn-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-022844",
+    "filingDate": "2025-02-19",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090012/000095017025022844/dvn-20241231.htm"
+   },
+   {
+    "accession": "0000950170-24-021781",
+    "filingDate": "2024-02-28",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090012/000095017024021781/dvn-20231231.htm"
+   },
+   {
+    "accession": "0000950170-23-002852",
+    "filingDate": "2023-02-15",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090012/000095017023002852/dvn-20221231.htm"
+   },
+   {
+    "accession": "0001564590-22-005321",
+    "filingDate": "2022-02-16",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090012/000156459022005321/dvn-10k_20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-006239",
+    "filingDate": "2021-02-17",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090012/000156459021006239/dvn-10k_20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-005182",
+    "filingDate": "2020-02-19",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090012/000156459020005182/dvn-10k_20191231.htm"
+   },
+   {
+    "accession": "0001564590-19-003382",
+    "filingDate": "2019-02-20",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090012/000156459019003382/dvn-10k_20181231.htm"
+   },
+   {
+    "accession": "0001564590-18-002582",
+    "filingDate": "2018-02-21",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090012/000156459018002582/dvn-10k_20171231.htm"
+   },
+   {
+    "accession": "0001564590-17-001607",
+    "filingDate": "2017-02-15",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090012/000156459017001607/dvn-10k_20161231.htm"
+   }
+  ]
+ }
+}

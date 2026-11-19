@@ -1,0 +1,95 @@
+{
+ "proxies": {
+  "0001628280-26-021560": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/849395/000162828026021560/crh-20260326.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-009043",
+   "result": {
+    "ceoPay": 17841808,
+    "medianPay": 58919,
+    "payRatio": 303,
+    "method": "cross-checked",
+    "employees": 79791,
+    "statedYear": 2025,
+    "excerpt": "r member of such entity's compensation committee (or other committee serving an equivalent function). | | 77 | CRH PROXY STATEMENT 2026 | | CEO Pay Ratio For fiscal year 2025, the ratio of our Chief Executive Officer's Annual Total Compensation to the median employee's Annual Total Compensation was 303:1. To identify our median employee, we used the following methodology, material assumptions, adjustments and estimates: • SEC rules permit us to use the same median employee for up to three years unless there has been a change in our employee population or employee compensation arrangements that we reasonably believe would result in a significant change in our pay ratio disclosure. In the event of such a change, SEC rules permit us to use another employee whose compensation is substantially"
+   }
+  },
+  "0001628280-25-015342": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/849395/000162828025015342/crh-20250328.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-008179",
+   "result": {
+    "ceoPay": 13582146,
+    "medianPay": 57521,
+    "payRatio": 236,
+    "method": "cross-checked",
+    "employees": 79791,
+    "statedYear": 2024,
+    "excerpt": "he sale of, such ordinary shares. The address for Vanguard is 100 Vanguard Blvd., Malvern, Pennsylvania 19355. CRH Notice and Proxy Statement 80 CEO Pay Ratio For fiscal 2024, the ratio of our Chief Executive Officer's Annual Total Compensation to the median employee's Annual Total Compensation was 236:1. To identify our median employee, we used the following methodology, material assumptions, adjustments and estimates: • As of October 1, 2024 (the \"Determination Date\"), we employed approximately 79,791 employees worldwide, including those employed on a full-time, part-time, seasonal or temporary basis, which includes 45,665 associates in the United States, 4,082 associates in Canada and 30,044 associates who reside outside of the United States and Canada in 35 countries. In calculating th"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2021": {
+    "revenue": 29206000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-24-007773"
+   },
+   "2022": {
+    "revenue": 32723000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-25-008179"
+   },
+   "2023": {
+    "revenue": 34949000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-009043"
+   },
+   "2024": {
+    "revenue": 35572000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-009043"
+   },
+   "2025": {
+    "revenue": 37447000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-009043"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-009043",
+    "filingDate": "2026-02-18",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/849395/000162828026009043/crh-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-008179",
+    "filingDate": "2025-02-26",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/849395/000162828025008179/crh-20241231.htm"
+   },
+   {
+    "accession": "0001628280-24-007773",
+    "filingDate": "2024-02-29",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/849395/000162828024007773/crh-20231231.htm"
+   }
+  ]
+ }
+}

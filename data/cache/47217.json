@@ -1,0 +1,332 @@
+{
+ "proxies": {
+  "0000047217-26-000015": {
+   "parserVersion": 1,
+   "filingDate": "2026-02-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000015/hpq-20260225.htm",
+   "periodEnd": "2025-10-31",
+   "tenK": "0000047217-25-000071",
+   "result": {
+    "ceoPay": 23103812,
+    "medianPay": 77679,
+    "payRatio": 297,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "Anniversary Stock Plan, a total of 100,560,846 shares were available for future grants as of October 31, 2025. CEO pay ratio disclosure As set forth in the \"Fiscal 2025 summary compensation table\", the annual total compensation for fiscal 2025 received by Enrique Lores, our CEO for fiscal 2025, was $23,103,812. Our median employee's annual total compensation was $77,679, resulting in a CEO pay ratio of 297:1. In calculating the CEO pay ratio, SEC rules allow companies to adopt a variety of methodologies, apply certain exclusions, and make reasonable estimates and assumptions reflecting their unique employee populations. Therefore, our reported CEO pay ratio may not be comparable to CEO pay ratios reported by other companies due to differences in industries and geographical dispersion, as w"
+   }
+  },
+  "0000047217-25-000014": {
+   "parserVersion": 1,
+   "filingDate": "2025-02-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000014/hpq-20250223.htm",
+   "periodEnd": "2024-10-31",
+   "tenK": "0000047217-24-000080",
+   "result": {
+    "ceoPay": 19360127,
+    "medianPay": 69571,
+    "payRatio": 278,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "e shares from the Legacy ESPP and the Service Anniversary Stock Plan, a total of 144,553,133 shares were available for future grants as of October 31, 2024. CEO pay ratio disclosure As set forth in the \"Fiscal 2024 summary compensation table\", our CEO's annual total compensation for fiscal 2024 was $19,360,127. Our median employee's annual total compensation was $69,571, resulting in a CEO pay ratio of 278:1. In calculating the CEO pay ratio, SEC rules allow companies to adopt a variety of methodologies, apply certain exclusions, and make reasonable estimates and assumptions reflecting their unique employee populations. Therefore, our reported CEO pay ratio may not be comparable to CEO pay ratios reported by other companies due to differences in industries and geographical dispersion, as w"
+   }
+  },
+  "0000047217-24-000013": {
+   "parserVersion": 1,
+   "filingDate": "2024-02-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000013/hpq-20240226.htm",
+   "periodEnd": "2023-10-31",
+   "tenK": "0000047217-23-000100",
+   "result": {
+    "ceoPay": 19458431,
+    "medianPay": 67816,
+    "payRatio": 287,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ailable shares from the Legacy ESPP and the Service Anniversary Stock Plan, a total of 133,002,606 shares were available for future grants as of October 31, 2023. CEO Pay Ratio Disclosure | | | | As set forth in the Summary Compensation Table, our CEO's annual total compensation for fiscal 2023 was $19,458,431. Our median employee's annual total compensation was $67,816, resulting in a CEO pay ratio of 287:1. In calculating the CEO pay ratio, SEC rules allow companies to adopt a variety of methodologies, apply certain exclusions, and make reasonable estimates and assumptions reflecting their unique employee populations. Therefore, our reported CEO pay ratio may not be comparable to CEO pay ratios reported by other companies due to differences in industries and geographical dispersion, as w"
+   }
+  },
+  "0000047217-23-000009": {
+   "parserVersion": 1,
+   "filingDate": "2023-02-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000009/hpq2023proxy.htm",
+   "periodEnd": "2022-10-31",
+   "tenK": "0000047217-22-000068",
+   "result": {
+    "ceoPay": 21079926,
+    "medianPay": 69911,
+    "payRatio": 302,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "shares from the Legacy ESPP and the Service Anniversary Stock Plan, a total of 174,264,157 shares were available for future grants as of October 31, 2022. CEO Pay Ratio Disclosure | | | | | | | | As set forth in the Summary Compensation Table, our CEO's annual total compensation for fiscal 2022 was $21,079,926. Our median employee's annual total compensation was $69,911, resulting in a CEO pay ratio of 302:1. In calculating the CEO pay ratio, SEC rules allow companies to adopt a variety of methodologies, apply certain exclusions, and make reasonable estimates and assumptions reflecting their unique employee populations. Therefore, our reported CEO pay ratio may not be comparable to CEO pay ratios reported by other companies due to differences in industries and geographical dispersion, as w"
+   }
+  },
+  "0001206774-22-000540": {
+   "parserVersion": 1,
+   "filingDate": "2022-02-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/47217/000120677422000540/hpq3981831-def14a.htm",
+   "periodEnd": "2021-10-31",
+   "tenK": "0000047217-21-000060",
+   "result": {
+    "ceoPay": 20733806,
+    "medianPay": 67667,
+    "payRatio": 306,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "eceiving the HP matching credits under the RMSA. | 70 | | | | | Table of Contents Executive Compensation CEO Pay Ratio Disclosure In accordance with SEC rules, we are reporting our CEO pay ratio. As set forth in the Summary Compensation Table, our CEO's annual total compensation for fiscal 2021 was $20,733,806. Our median employee's annual total compensation was $67,667, resulting in a CEO pay ratio of 306:1. In calculating the CEO pay ratio, the SEC rules allow companies to adopt a variety of methodologies, apply certain exclusions, and make reasonable estimates and assumptions reflecting their unique employee populations. Therefore, our reported CEO pay ratio may not be comparable to CEO pay ratios reported by other companies due to differences in industries and geographical dispersion,"
+   }
+  },
+  "0001206774-21-000494": {
+   "parserVersion": 1,
+   "filingDate": "2021-02-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/47217/000120677421000494/hpq3871831-def14a.htm",
+   "periodEnd": "2020-10-31",
+   "tenK": "0000047217-20-000045",
+   "result": {
+    "ceoPay": 12479815,
+    "medianPay": 88448,
+    "payRatio": 141,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ce under the 2021 ESPP. The 2021 ESPP will replace the 2011 ESPP, which will terminate on May 1, 2021. | CEO Pay Ratio Disclosure In accordance with SEC rules, we are reporting our CEO pay ratio. As set forth in the Summary Compensation Table, our CEO's annual total compensation for fiscal 2020 was $12,479,815. Our median employee's annual total compensation was $88,448, resulting in a CEO pay ratio of 141:1. In calculating the CEO pay ratio, the SEC rules allow companies to adopt a variety of methodologies, apply certain exclusions, and make reasonable estimates and assumptions reflecting their unique employee populations. Therefore, our reported CEO pay ratio may not be comparable to CEO pay ratios reported by other companies due to differences in industries and geographical dispersion,"
+   }
+  },
+  "0001206774-19-000588": {
+   "parserVersion": 1,
+   "filingDate": "2019-02-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/47217/000120677419000588/hpq3459341-def14a.htm",
+   "periodEnd": "2018-10-31",
+   "tenK": "0000047217-18-000052",
+   "result": {
+    "ceoPay": 19215534,
+    "medianPay": 79719,
+    "payRatio": 241,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "which included a retirement of 80 million shares from the plan's share reserves. | | CEO Pay Ratio Disclosure | In accordance with SEC rules we are reporting our CEO pay ratio for the first time. As set forth in the Summary Compensation Table, our CEO's annual total compensation for fiscal 2018 was $19,215,534. Our median employee's annual total compensation was $79,719, resulting in a CEO pay ratio of 241:1. In calculating the CEO pay ratio, the SEC rules allow companies to adopt a variety of methodologies, apply certain exclusions, and make reasonable estimates and assumptions reflecting their unique employee populations. Therefore, our reported CEO pay ratio may not be comparable to CEO pay ratios reported by other companies due to differences in industries and geographical dispersion,"
+   }
+  },
+  "0001206774-18-000563": {
+   "parserVersion": 1,
+   "filingDate": "2018-02-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/47217/000120677418000563/hp3289181-def14a.htm",
+   "periodEnd": "2017-10-31",
+   "tenK": "0000047217-17-000043",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0000047217-18-000052": {
+   "parserVersion": 1,
+   "employees": 55000
+  },
+  "0000047217-20-000045": {
+   "parserVersion": 1,
+   "employees": 53000
+  },
+  "0000047217-21-000060": {
+   "parserVersion": 1,
+   "employees": 51000
+  },
+  "0000047217-22-000068": {
+   "parserVersion": 1,
+   "employees": 58000
+  },
+  "0000047217-23-000100": {
+   "parserVersion": 1,
+   "employees": 58000
+  },
+  "0000047217-24-000080": {
+   "parserVersion": 1,
+   "employees": 58000
+  },
+  "0000047217-25-000071": {
+   "parserVersion": 1,
+   "employees": 55000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 104286000000,
+    "periodEnd": "2007-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-10-005204"
+   },
+   "2008": {
+    "revenue": 118364000000,
+    "periodEnd": "2008-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-10-010444"
+   },
+   "2009": {
+    "revenue": 114552000000,
+    "periodEnd": "2009-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-010094"
+   },
+   "2010": {
+    "revenue": 126033000000,
+    "periodEnd": "2010-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-12-011417"
+   },
+   "2011": {
+    "revenue": 127245000000,
+    "periodEnd": "2011-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-13-011417"
+   },
+   "2012": {
+    "revenue": 120357000000,
+    "periodEnd": "2012-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-14-009977"
+   },
+   "2013": {
+    "revenue": 112298000000,
+    "periodEnd": "2013-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-15-009251"
+   },
+   "2014": {
+    "revenue": 73726000000,
+    "periodEnd": "2014-10-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001047469-15-009251"
+   },
+   "2015": {
+    "revenue": 69032000000,
+    "periodEnd": "2015-10-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001047469-15-009251"
+   },
+   "2016": {
+    "revenue": 48238000000,
+    "periodEnd": "2016-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000047217-18-000052"
+   },
+   "2017": {
+    "revenue": 52056000000,
+    "periodEnd": "2017-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000047217-19-000071"
+   },
+   "2018": {
+    "revenue": 58472000000,
+    "periodEnd": "2018-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000047217-20-000045"
+   },
+   "2019": {
+    "revenue": 58756000000,
+    "periodEnd": "2019-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000047217-21-000060"
+   },
+   "2020": {
+    "revenue": 56638000000,
+    "periodEnd": "2020-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000047217-23-000075"
+   },
+   "2021": {
+    "revenue": 63460000000,
+    "periodEnd": "2021-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000047217-23-000100"
+   },
+   "2022": {
+    "revenue": 62910000000,
+    "periodEnd": "2022-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000047217-24-000080"
+   },
+   "2023": {
+    "revenue": 53718000000,
+    "periodEnd": "2023-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000047217-25-000071"
+   },
+   "2024": {
+    "revenue": 53559000000,
+    "periodEnd": "2024-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000047217-25-000071"
+   },
+   "2025": {
+    "revenue": 55295000000,
+    "periodEnd": "2025-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000047217-25-000071"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000047217-25-000071",
+    "filingDate": "2025-12-10",
+    "reportDate": "2025-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000071/hpq-20251031.htm"
+   },
+   {
+    "accession": "0000047217-24-000080",
+    "filingDate": "2024-12-13",
+    "reportDate": "2024-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000080/hpq-20241031.htm"
+   },
+   {
+    "accession": "0000047217-23-000100",
+    "filingDate": "2023-12-18",
+    "reportDate": "2023-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000100/hpq-20231031.htm"
+   },
+   {
+    "accession": "0000047217-22-000068",
+    "filingDate": "2022-12-06",
+    "reportDate": "2022-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721722000068/hpq-20221031.htm"
+   },
+   {
+    "accession": "0000047217-21-000060",
+    "filingDate": "2021-12-09",
+    "reportDate": "2021-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721721000060/hpq-20211031.htm"
+   },
+   {
+    "accession": "0000047217-20-000045",
+    "filingDate": "2020-12-10",
+    "reportDate": "2020-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721720000045/hpq-20201031.htm"
+   },
+   {
+    "accession": "0000047217-19-000071",
+    "filingDate": "2019-12-12",
+    "reportDate": "2019-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721719000071/hp-103119x10k.htm"
+   },
+   {
+    "accession": "0000047217-18-000052",
+    "filingDate": "2018-12-13",
+    "reportDate": "2018-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721718000052/hp-103118x10k.htm"
+   },
+   {
+    "accession": "0000047217-17-000043",
+    "filingDate": "2017-12-14",
+    "reportDate": "2017-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721717000043/hp-103117x10k1.htm"
+   }
+  ]
+ }
+}

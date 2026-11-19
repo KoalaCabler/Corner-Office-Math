@@ -1,0 +1,364 @@
+{
+ "proxies": {
+  "0001324424-26-000022": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442426000022/expe-20260429.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001324424-26-000008",
+   "result": {
+    "ceoPay": 17592584,
+    "medianPay": 114597,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "on Having identified our median compensated employee, we then calculated that employee's actual 2025 total compensation in accordance with the SEC's requirements for reporting named executive officer compensation in the 2025 Summary Compensation Table, resulting in 2025 annual total compensation of $114,597. CEO's Total 2025 Compensation Ms. Gorin's 2025 annual total compensation, as reported in the 2025 Summary Compensation Table, was $17,592,584. 2025 CEO Pay Ratio The ratio of Ms. Gorin's annual total compensation for 2025 to the median employee's annual total compensation, determined as described above, was 154:1. The pay ratio disclosure set forth above is a reasonable estimate calculated in a manner consistent with applicable SEC rules, based on the methodologies and assumptions desc"
+   }
+  },
+  "0001324424-25-000019": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442425000019/expe-20250421.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001324424-25-000008",
+   "result": {
+    "ceoPay": 25058418,
+    "medianPay": 111666,
+    "payRatio": 224,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "on Having identified our median compensated employee, we then calculated that employee's actual 2024 total compensation in accordance with the SEC's requirements for reporting named executive officer compensation in the 2024 Summary Compensation Table, resulting in 2024 annual total compensation of $111,666. CEO's Total 2024 Compensation The Company had two non-concurrent chief executive officers who served during fiscal year 2024. Effective May 13, 2024 Ms. Gorin was appointed to serve as Chief Executive Officer, succeeding Mr. Kern. For the purposes of the 2024 CEO Pay Ratio disclosure, we used Ms. Gorin's 2024 total compensation, as reported in the 2024 Summary Compensation Table, except that we annualized the base salary for Ms. Gorin in effect on the Determination Date, resulting in 2"
+   }
+  },
+  "0001324424-24-000017": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442424000017/expe-20240428.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001324424-24-000007",
+   "result": {
+    "ceoPay": 1009900,
+    "medianPay": 105372,
+    "payRatio": 10,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "on Having identified our median compensated employee, we then calculated that employee's actual 2023 total compensation in accordance with the SEC's requirements for reporting named executive officer compensation in the 2023 Summary Compensation Table, resulting in 2023 annual total compensation of $105,372. CEO's Total 2023 Compensation For the purposes of the 2023 CEO Pay Ratio disclosure, we used Mr. Kern's 2023 total compensation, as reported in the Summary Compensation Table, for a total of $1,009,900. 2023 CEO Pay Ratio The ratio of Mr. Kern's annual total compensation for 2023 to the median employee's annual total compensation, determined as described above, was 10:1. The pay ratio disclosure set forth above is a reasonable estimate calculated in a manner consistent with applicable"
+   }
+  },
+  "0001324424-23-000018": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442423000018/expe-20230421.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001324424-23-000007",
+   "result": {
+    "ceoPay": 1094473,
+    "medianPay": 102986,
+    "payRatio": 11,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "on Having identified our median compensated employee, we then calculated that employee's actual 2022 total compensation in accordance with the SEC's requirements for reporting named executive officer compensation in the 2022 Summary Compensation Table, resulting in 2022 annual total compensation of $102,986. CEO's Total 2022 Compensation For the purposes of the 2022 CEO Pay Ratio disclosure, we used Mr. Kern's 2022 total compensation, as reported in the Summary Compensation Table , for a total of $1,094,473. 2022 CEO Pay Ratio The ratio of Mr. Kern's annual total compensation for 2022 to the median employee's annual total compensation, determined as described above, was 11:1. The pay ratio disclosure set forth above is a reasonable estimate calculated in a manner consistent with applicable"
+   }
+  },
+  "0001324424-22-000014": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442422000014/expe2022proxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001324424-22-000009",
+   "result": {
+    "ceoPay": 296247749,
+    "medianPay": 102270,
+    "payRatio": 2897,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "n Having identified our median compensated employee, we then calculated that employee's actual 2021 total compensation in accordance with the SEC's requirements for reporting named executive officer compensation in the 2021 Summary Compensation Table , resulting in 2021 annual total compensation of $102,270. CEO's Total 2021 Compensation For the purposes of the 2021 CEO Pay Ratio disclosure, we used Mr. Kern's 2021 total compensation, as reported in the Summary Compensation Table , for a total of $296,247,749. 2021 CEO Pay Ratio The ratio of Mr. Kern's annual total compensation for 2021 to the median employee's annual total compensation, determined as described above, was 2,897:1. Other Considerations Long-term equity incentive awards account for approximately 99% of Mr. Kern's total 2021"
+   }
+  },
+  "0001324424-21-000033": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442421000033/expe2021proxystatement.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001324424-21-000015",
+   "result": {
+    "ceoPay": 4200686,
+    "medianPay": 78596,
+    "payRatio": 53,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "g identified our median compensated employee, we then calculated that employee's actual 2020 total annual compensation in accordance with the SEC's requirements for reporting named executive officer compensation in the 2020 Summary Compensation Table , resulting in 2020 annual total compensation of $78,596. CEO's Total 2020 Compensation For the purposes of the 2020 CEO Pay Ratio disclosure, we used Mr. Kern's 2020 total compensation, as reported in the Summary Compensation Table , for a total of $4,200,686. 2020 CEO Pay Ratio The ratio of Mr. Kern's annual total compensation for 2020 to the median employee annual total compensation, determined as described above, was 53:1. The pay ratio disclosure set forth above is a reasonable estimate calculated in a manner consistent with applicable SE"
+   }
+  },
+  "0001324424-20-000029": {
+   "parserVersion": 1,
+   "filingDate": "2020-05-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442420000029/expe2020proxystatement.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001324424-20-000009",
+   "result": {
+    "ceoPay": 11262552,
+    "medianPay": 69854,
+    "payRatio": 161,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "g identified our median compensated employee, we then calculated that employee's actual 2019 total annual compensation in accordance with the SEC's requirements for reporting named executive officer compensation in the 2019 Summary Compensation Table , resulting in 2019 annual total compensation of $69,854. CEO's Total 2019 Compensation For the purposes of the 2019 CEO Pay Ratio disclosure, we used Mr. Okerstrom's 2019 total compensation as reported in the Summary Compensation Table (which included annualized base salary and cash severance), for a total of $11,262,552. 2019 CEO Pay Ratio The ratio of Mr. Okerstrom's annual total compensation for 2019 to the median employee annual total compensation, determined as described above, was 161:1. Other Considerations Due to Mr. Okerstrom's depar"
+   }
+  },
+  "0001193125-19-277796": {
+   "parserVersion": 1,
+   "filingDate": "2019-10-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1324424/000119312519277796/d800443ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001324424-19-000006",
+   "result": {
+    "ceoPay": 13089562,
+    "medianPay": 67457,
+    "payRatio": 194,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "Having identified our median compensated employee, we then calculated that employees actual 2018 total annual compensation in accordance with the SECs requirements for reporting named executive officer compensation in the Summary Compensation Table, resulting in 2018 annual total compensation of $67,457. CEOs Total 2018 Compensation For the purposes of the 2018 CEO Pay Ratio disclosure, we used Mr. Okerstroms 2018 total compensation as reported in the Summary Compensation Table , which was $13,089,562. 2018 CEO Pay Ratio The ratio of Mr. Okerstroms annual total compensation for 2018 to the median employee annual total compensation, determined as described above, was 194:1. Other Considerations Long-term equity incentive awards account for $9,078,946 (approximately 69%) of Mr. Okerstr"
+   }
+  },
+  "0001324424-18-000022": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442418000022/a2018proxystatement.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001324424-18-000006",
+   "result": {
+    "ceoPay": 30896418,
+    "medianPay": 71696,
+    "payRatio": 431,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "Having identified our median compensated employee, we then calculated that employee's actual 2017 total annual compensation in accordance with the SEC's requirements for reporting named executive officer compensation in the Summary Compensation Table, resulting in 2017 annual total compensation of $71,696. CEO's Total 2017 Compensation The Company had two non-concurrent chief executive officers who served during fiscal year 2017. Effective August 31, 2017, Mr. Okerstrom was appointed to serve as President and Chief Executive Officer, succeeding Mr. Khosrowshahi. For the purposes of the 2017 CEO Pay Ratio disclosure, we used Mr. Okerstrom's 2017 total compensation as reported in the Summary Compensation Table on page 37, except that we annualized the base salary for Mr. Okerstrom in effect"
+   }
+  }
+ },
+ "tenKs": {
+  "0001324424-18-000006": {
+   "parserVersion": 1,
+   "employees": 22615
+  },
+  "0001324424-19-000006": {
+   "parserVersion": 1,
+   "employees": 24500
+  },
+  "0001324424-20-000009": {
+   "parserVersion": 1,
+   "employees": 25400
+  },
+  "0001324424-21-000015": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001324424-22-000009": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001324424-23-000007": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001324424-24-000007": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001324424-25-000008": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001324424-26-000008": {
+   "parserVersion": 1,
+   "employees": 16000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 2937013000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-030900"
+   },
+   "2009": {
+    "revenue": 2743051000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-050009"
+   },
+   "2010": {
+    "revenue": 3033645000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-039072"
+   },
+   "2011": {
+    "revenue": 3449009000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-039090"
+   },
+   "2012": {
+    "revenue": 4030347000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-15-035706"
+   },
+   "2013": {
+    "revenue": 4771259000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-16-457822"
+   },
+   "2014": {
+    "revenue": 5763485000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001324424-17-000006"
+   },
+   "2015": {
+    "revenue": 6672317000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001324424-18-000006"
+   },
+   "2016": {
+    "revenue": 8774000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001324424-19-000006"
+   },
+   "2017": {
+    "revenue": 10060000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001324424-20-000009"
+   },
+   "2018": {
+    "revenue": 11223000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001324424-21-000015"
+   },
+   "2019": {
+    "revenue": 12067000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001324424-22-000009"
+   },
+   "2020": {
+    "revenue": 5199000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001324424-23-000007"
+   },
+   "2021": {
+    "revenue": 8598000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001324424-24-000007"
+   },
+   "2022": {
+    "revenue": 11667000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001324424-25-000008"
+   },
+   "2023": {
+    "revenue": 12839000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001324424-26-000008"
+   },
+   "2024": {
+    "revenue": 13691000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001324424-26-000008"
+   },
+   "2025": {
+    "revenue": 14733000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001324424-26-000008"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001324424-26-000008",
+    "filingDate": "2026-02-13",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442426000008/expe-20251231.htm"
+   },
+   {
+    "accession": "0001324424-25-000008",
+    "filingDate": "2025-02-07",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442425000008/expe-20241231.htm"
+   },
+   {
+    "accession": "0001324424-24-000007",
+    "filingDate": "2024-02-09",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442424000007/expe-20231231.htm"
+   },
+   {
+    "accession": "0001324424-23-000007",
+    "filingDate": "2023-02-10",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442423000007/expe-20221231.htm"
+   },
+   {
+    "accession": "0001324424-22-000009",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442422000009/expe-20211231.htm"
+   },
+   {
+    "accession": "0001324424-21-000015",
+    "filingDate": "2021-02-12",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442421000015/expe-20201231.htm"
+   },
+   {
+    "accession": "0001324424-20-000009",
+    "filingDate": "2020-02-14",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442420000009/q42019-10k.htm"
+   },
+   {
+    "accession": "0001324424-19-000006",
+    "filingDate": "2019-02-08",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442419000006/q42018-10k.htm"
+   },
+   {
+    "accession": "0001324424-18-000006",
+    "filingDate": "2018-02-09",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442418000006/q42017-10k.htm"
+   },
+   {
+    "accession": "0001324424-17-000006",
+    "filingDate": "2017-02-10",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1324424/000132442417000006/a2016-10k.htm"
+   }
+  ]
+ }
+}

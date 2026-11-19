@@ -1,0 +1,190 @@
+{
+ "proxies": {
+  "0001792789-26-000018": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792789/000179278926000018/dash-20260420.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001792789-26-000013",
+   "result": {
+    "ceoPay": 431864,
+    "medianPay": 36373,
+    "payRatio": 12,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "lowing information about the relationship between the total annual compensation of our median employee and the total annual compensation of our CEO is a reasonable estimate calculated in accordance with Item 402(u) of Regulation S-K. In 2025, the total annual compensation of our median employee was $36,373 and the total annual compensation of our CEO was $431,864. This results in a ratio of approximately 1:12. Total annual compensation for the median employee and our CEO is calculated according to the disclosure requirements of the Summary Compensation Table and includes base salary, equity awards, and other compensation such as perquisites. To identify the median employee, we reviewed the compensation of all full-, part-time and temporary employees who were employed as of October 1, 2025"
+   }
+  },
+  "0001628280-25-020666": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828025020666/dash-20250429.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-005715",
+   "result": {
+    "ceoPay": 318518,
+    "medianPay": 38112,
+    "payRatio": 8,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "lowing information about the relationship between the total annual compensation of our median employee and the total annual compensation of our CEO is a reasonable estimate calculated in accordance with Item 402(u) of Regulation S-K. In 2024, the total annual compensation of our median employee was $38,112 and the total annual compensation of our CEO was $318,518. This results in a ratio of approximately 1:8. Total annual compensation for the median employee and our CEO is calculated according to the disclosure requirements of the Summary Compensation Table and includes base salary, equity awards, and other compensation such as perquisites. 51 To identify the median employee, we reviewed the compensation of all full-, part-time and temporary employees who were employed as of October 1, 202"
+   }
+  },
+  "0001628280-24-018671": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828024018671/dash-20240426.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001628280-24-005600",
+   "result": {
+    "ceoPay": 316431,
+    "medianPay": 47236,
+    "payRatio": 7,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "lowing information about the relationship between the total annual compensation of our median employee and the total annual compensation of our CEO is a reasonable estimate calculated in accordance with Item 402(u) of Regulation S-K. In 2023, the total annual compensation of our median employee was $47,236 and the total annual compensation of our CEO was $316,431. This results in a ratio of approximately 1:7. Total annual compensation for the median employee and our CEO is calculated according to the disclosure requirements of the Summary Compensation Table and includes base salary, annual incentive, equity awards, and other compensation such as perquisites. To identify the median employee, we reviewed the compensation of all full-, part-time and temporary employees who were employed as of"
+   }
+  },
+  "0001628280-23-014196": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828023014196/dash-20230428.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001628280-23-005131",
+   "result": null
+  },
+  "0001628280-22-011600": {
+   "parserVersion": 1,
+   "filingDate": "2022-05-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828022011600/doordashdef14a2022fy21proxy.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001628280-22-004350",
+   "result": null
+  },
+  "0001628280-21-008245": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828021008245/doordashinc-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001628280-21-004032",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001628280-24-005600": {
+   "parserVersion": 1,
+   "employees": 19300
+  },
+  "0001628280-25-005715": {
+   "parserVersion": 1,
+   "employees": 23700
+  },
+  "0001792789-26-000013": {
+   "parserVersion": 1,
+   "employees": 31400
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2018": {
+    "revenue": 291000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-21-004032"
+   },
+   "2019": {
+    "revenue": 885000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-22-004350"
+   },
+   "2020": {
+    "revenue": 2886000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-23-005131"
+   },
+   "2021": {
+    "revenue": 4888000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-24-005600"
+   },
+   "2022": {
+    "revenue": 6583000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-25-005715"
+   },
+   "2023": {
+    "revenue": 8635000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001792789-26-000035"
+   },
+   "2024": {
+    "revenue": 10722000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001792789-26-000035"
+   },
+   "2025": {
+    "revenue": 13717000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001792789-26-000035"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 300297,
+   "2022": 300065,
+   "2023": 316275,
+   "2024": 318518,
+   "2025": 431864
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001792789-26-000013",
+    "filingDate": "2026-02-18",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000179278926000013/dash-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-005715",
+    "filingDate": "2025-02-14",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828025005715/dash-20241231.htm"
+   },
+   {
+    "accession": "0001628280-24-005600",
+    "filingDate": "2024-02-20",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828024005600/dash-20231231.htm"
+   },
+   {
+    "accession": "0001628280-23-005131",
+    "filingDate": "2023-02-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828023005131/dash-20221231.htm"
+   },
+   {
+    "accession": "0001628280-22-004350",
+    "filingDate": "2022-03-01",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828022004350/dash-20211231.htm"
+   },
+   {
+    "accession": "0001628280-21-004032",
+    "filingDate": "2021-03-05",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828021004032/dash-20201231.htm"
+   }
+  ]
+ }
+}

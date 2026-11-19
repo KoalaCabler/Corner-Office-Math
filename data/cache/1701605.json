@@ -1,0 +1,300 @@
+{
+ "proxies": {
+  "0001193125-26-130309": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000119312526130309/d939028ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001701605-26-000007",
+   "result": {
+    "ceoPay": 21363825,
+    "medianPay": 68720,
+    "payRatio": 310,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "r 2025; therefore, the same median employee used for the fiscal year 2023 pay ratio calculations was used for the fiscal year 2025 pay ratio calculation, as permitted by the Pay Ratio Rule. We have estimated the median of the 2025 annual total compensation of our employees, excluding our CEO, to be $68,720. The 2025 annualized total compensation of our Chairman, CEO and President, Lorenzo Simonelli, was $21,363,825. The ratio of the annualized total compensation of Mr. Simonelli to the estimated median of the annual total compensation of our employees was 310 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. | | | | | | 66 2026 Proxy Statement | | | | | | | Table of Contents Executive Compensation Pay versus Performance In this secti"
+   }
+  },
+  "0001193125-25-067674": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000119312525067674/d837654ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001701605-25-000035",
+   "result": {
+    "ceoPay": 19897221,
+    "medianPay": 74104,
+    "payRatio": 269,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "r 2024; therefore, the same median employee used for the fiscal year 2023 pay ratio calculations was used for the fiscal year 2024 pay ratio calculation, as permitted by the Pay Ratio Rule. We have estimated the median of the 2024 annual total compensation of our employees, excluding our CEO, to be $74,104. The 2024 annualized total compensation of our Chairman, CEO and President, Lorenzo Simonelli, was $19,897,221. The ratio of the annualized total compensation of Mr. Simonelli to the estimated median of the annual total compensation of our employees was 269 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. | | | | | | | | | | | | | 59 | Table of Contents Executive Compensation Pay versus Performance In this section, we are includin"
+   }
+  },
+  "0001193125-24-084804": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000119312524084804/d687069ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001701605-24-000033",
+   "result": {
+    "ceoPay": 21680736,
+    "medianPay": 69676,
+    "payRatio": 311,
+    "method": "cross-checked",
+    "employees": 58700,
+    "statedYear": 2023,
+    "excerpt": "t and regulations that were amended pursuant thereto (the \"Pay Ratio Rule\") require U.S. public companies to disclose the ratio of their CEO's compensation to that of their median employee. We have estimated the median of the 2023 annual total compensation of our employees, excluding our CEO, to be $69,676. The 2023 annualized total compensation of our Chairman, CEO, and President, Lorenzo Simonelli, was $21,680,736. The ratio of the annualized total compensation of Mr. Simonelli to the estimated median of the annual total compensation of our employees was 311 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. The following paragraphs describe the methodology used to identify the median employee and the ratio of these two amounts. Bac"
+   }
+  },
+  "0001193125-23-088341": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000119312523088341/d445054ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001701605-23-000044",
+   "result": {
+    "ceoPay": 16091589,
+    "medianPay": 66125,
+    "payRatio": 243,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "erefore, the same median employee used for the fiscal year 2022 pay ratio calculations was used for the fiscal year 2021 and 2020 pay ratio calculations, as permitted by the Pay Ratio Rule. We have estimated the median of the 2022 annual total compensation of our employees, excluding our CEO, to be $66,125. The 2022 annualized total compensation of our Chairman, CEO, and President, Lorenzo Simonelli, was $16,091,589. The ratio of the annualized total compensation of Mr. Simonelli to the estimated median of the annual total compensation of our employees was 243 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. | | | | | | | | | | | 56 2023 Proxy Statement | | | | | | | | | Table of Contents Executive Compensation Pay versus Performanc"
+   }
+  },
+  "0001701605-22-000071": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160522000071/a2022proxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001701605-22-000050",
+   "result": {
+    "ceoPay": 15646452,
+    "medianPay": 69701,
+    "payRatio": 224,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "r 2021; therefore, the same median employee used for the fiscal year 2020 pay ratio calculation was used for the fiscal year 2021 pay ratio calculation, as permitted by the Pay Ratio Rule. We have estimated the median of the 2021 annual total compensation of our employees, excludin g our CEO, to be $69,701. The 2021 annualized total compensation of our Chairman, CEO, and President, Lorenzo Simonelli, was $ 15,646,452 . The ratio of the annualized total compensation of Mr. Simonelli to the estimated median of the annual total compensation of our employees was 224 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. Human Capital and Compensation Committee interlocks and insider participation As of December 31, 2021, the Human Capital and"
+   }
+  },
+  "0001701605-21-000039": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160521000039/a2021proxystatement.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001701605-21-000026",
+   "result": {
+    "ceoPay": 15313021,
+    "medianPay": 65151,
+    "payRatio": 235,
+    "method": "cross-checked",
+    "employees": 57000,
+    "statedYear": 2021,
+    "excerpt": "ong as there have been no changes in the company's employee population or employee compensation arrangements that would result in a significant change to the Company's pay ratio disclosure. We have estimated the median of the 2020 annual total compensation of our employees, excluding our CEO, to be $65,151. The 2020 annualized total compensation of our Chairman, CEO, and President, Lorenzo Simonelli, was $15,313,021. The ratio of the annualized total compensation of Mr. Simonelli to the estimated median of the annual total compensation of our employees was 235 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. The following paragraphs describe the methodology used to identify the median employee and the ratio of these two amounts. Bac"
+   }
+  },
+  "0001701605-20-000027": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160520000027/a2020proxystatement2.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001701605-20-000019",
+   "result": {
+    "ceoPay": 14922621,
+    "medianPay": 79242,
+    "payRatio": 188,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "e we identified for our 2018 Proxy Statement as an estimate of median compensation for 2019. We have estimated the median of the 2019 annual total compensation of our employees, excluding our CEO, to be $79,242. The 2019 total compensation of our Chairman, CEO, and President, Lorenzo Simonelli, was $14,922,621, as reflected in the summary compensation table. The ratio of the total compensation of Mr. Simonelli to the estimated median of the annual total compensation of our employees was 188 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with the Pay Ratio Rule. | | | | | | | | | 59 | Executive Compensation Because the Pay Ratio Rule for identifying the median employee allows companies to adopt a variety of methodologies, to apply certain exclusio"
+   }
+  },
+  "0001701605-19-000027": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160519000027/a2019proxystatement.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001701605-19-000021",
+   "result": {
+    "ceoPay": 15959761,
+    "medianPay": 77042,
+    "payRatio": 207,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "employee we identified for last year's proxy as an estimate of median compensation for 2018. We have estimated the median of the 2018 annual total compensation of our employees, excluding our CEO, to be $77,042. The 2018 total compensation of our Chairman, CEO, and President, Lorenzo Simonelli, was $ 15,959,761 , as reflected in the summary compensation table. The ratio of the total compensation of Mr. Simonelli to the estimated median of the annual total compensation of our employees was 207 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with the Pay Ratio Rule. Because the Pay Ratio Rule for identifying the median employee allows companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and ass"
+   }
+  },
+  "0001701605-18-000036": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160518000036/a2018proxystatement.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001701605-18-000029",
+   "result": {
+    "ceoPay": 14317060,
+    "medianPay": 68917,
+    "payRatio": 208,
+    "method": "cross-checked",
+    "employees": 64000,
+    "statedYear": null,
+    "excerpt": "BHGE 2018 Proxy Statement | 58 CEO PAY RATIO DISCLOSURE The Dodd-Frank Act requires U.S. public companies to disclose the ratio of their CEO's compensation to that of their median employee. We have estimated the median of the 2017 annual total compensation of our employees, excluding our CEO, to be $68,917. The 2017 annualized total compensation of our Chairman, CEO, and President, Lorenzo Simonelli, who started employment with BHGE in July 2017, was $14,317,060. The ratio of the annualized total compensation of Mr. Simonelli to the estimated median of the annual total compensation of our employees was 208 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. The following paragraphs describe the methodology used to identify the median e"
+   }
+  }
+ },
+ "tenKs": {
+  "0001701605-22-000050": {
+   "parserVersion": 1,
+   "employees": 54000
+  },
+  "0001701605-23-000044": {
+   "parserVersion": 1,
+   "employees": 55000
+  },
+  "0001701605-25-000035": {
+   "parserVersion": 1,
+   "employees": 57000
+  },
+  "0001701605-26-000007": {
+   "parserVersion": 1,
+   "employees": 56000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2015": {
+    "revenue": 16688000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001701605-18-000029"
+   },
+   "2016": {
+    "revenue": 13269000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001701605-18-000029"
+   },
+   "2017": {
+    "revenue": 17259000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001701605-18-000029"
+   },
+   "2018": {
+    "revenue": 22877000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001701605-21-000026"
+   },
+   "2019": {
+    "revenue": 23838000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001701605-22-000050"
+   },
+   "2020": {
+    "revenue": 20705000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001701605-23-000044"
+   },
+   "2021": {
+    "revenue": 20502000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001701605-24-000033"
+   },
+   "2022": {
+    "revenue": 21156000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001701605-25-000035"
+   },
+   "2023": {
+    "revenue": 25506000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001701605-26-000007"
+   },
+   "2024": {
+    "revenue": 27829000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001701605-26-000007"
+   },
+   "2025": {
+    "revenue": 27733000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001701605-26-000007"
+   }
+  },
+  "employeesTagged": {
+   "0001701605-18-000029": 64000,
+   "0001701605-19-000021": 66000,
+   "0001701605-20-000019": 68000
+  },
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001701605-26-000007",
+    "filingDate": "2026-02-05",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160526000007/bkr-20251231.htm"
+   },
+   {
+    "accession": "0001701605-25-000035",
+    "filingDate": "2025-02-04",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160525000035/bkr-20241231.htm"
+   },
+   {
+    "accession": "0001701605-24-000033",
+    "filingDate": "2024-02-05",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160524000033/bkr-20231231.htm"
+   },
+   {
+    "accession": "0001701605-23-000044",
+    "filingDate": "2023-02-14",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160523000044/bkr-20221231.htm"
+   },
+   {
+    "accession": "0001701605-22-000050",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160522000050/bkr-20211231.htm"
+   },
+   {
+    "accession": "0001701605-21-000026",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160521000026/bkr-20201231.htm"
+   },
+   {
+    "accession": "0001701605-20-000019",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160520000019/fiscalyear2019form10-k.htm"
+   },
+   {
+    "accession": "0001701605-19-000021",
+    "filingDate": "2019-02-19",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160519000021/fiscalyear2018form10-k.htm"
+   },
+   {
+    "accession": "0001701605-18-000029",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1701605/000170160518000029/fiscalyear2017form10-k.htm"
+   }
+  ]
+ }
+}

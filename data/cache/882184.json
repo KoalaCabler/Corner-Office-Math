@@ -1,0 +1,316 @@
+{
+ "proxies": {
+  "0000882184-25-000114": {
+   "parserVersion": 1,
+   "filingDate": "2025-12-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218425000114/dhi-20251210.htm",
+   "periodEnd": "2025-09-30",
+   "tenK": "0000882184-25-000081",
+   "result": {
+    "ceoPay": 25162355,
+    "medianPay": 129775,
+    "payRatio": 194,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ue of employer paid non-discriminatory health insurance benefits in the total annual compensation for both our median employee and Mr. Romanowski to better reflect our employee compensation practices. For the fiscal year ended September 30, 2025 : • The total compensation of our median employee was $129,775 . • The total compensation of Mr. Romanowski was $25,162,355 . For fiscal 2025 , the ratio of Mr. Romanowski's total compensation to the total compensation of the median of all employees (excluding Mr. Romanowski), was 194 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. Because the SEC rules for identifying the median employee and calculating the pay ratio allo"
+   }
+  },
+  "0001193125-24-278379": {
+   "parserVersion": 1,
+   "filingDate": "2024-12-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/882184/000119312524278379/d832781ddef14a.htm",
+   "periodEnd": "2024-09-30",
+   "tenK": "0000882184-24-000057",
+   "result": {
+    "ceoPay": 25178527,
+    "medianPay": 125961,
+    "payRatio": 200,
+    "method": "cross-checked",
+    "employees": 14655,
+    "statedYear": 2024,
+    "excerpt": "employer paid non-discriminatory health insurance benefits in the total annual compensation of our median employee and of Mr. Romanowski to better reflect our employee compensation practices. For the fiscal year ended September 30, 2024: | • | | | | The total compensation of our median employee was $125,961. | | • | | | | The total compensation of Mr. Romanowski was $25,178,527. | Accordingly, for fiscal 2024, the ratio of the total compensation of Mr. Romanowski to the total compensation of the median of all employees (excluding Mr. Romanowski), was 200 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. Because the SEC rules for identifying the median employee and c"
+   }
+  },
+  "0001193125-23-296787": {
+   "parserVersion": 1,
+   "filingDate": "2023-12-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/882184/000119312523296787/d492945ddef14a.htm",
+   "periodEnd": "2023-09-30",
+   "tenK": "0000882184-23-000115",
+   "result": {
+    "ceoPay": 32106000,
+    "medianPay": 116043,
+    "payRatio": 277,
+    "method": "cross-checked",
+    "employees": 13334,
+    "statedYear": 2023,
+    "excerpt": "ue of employer paid non-discriminatory health insurance benefits in the total annual compensation of our median employee and of Mr. Auld to better reflect our employee compensation practices. For the fiscal year ended September 30, 2023: | • | | | | The total compensation of our median employee was $116,043. | | • | | | | The total compensation of Mr. Auld was $32,106,000. | Accordingly, for fiscal 2023, the ratio of the total compensation of Mr. Auld to the total compensation of the median compensation of all employees (excluding Mr. Auld), was 277 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. Because the SEC rules for identifying the median employee and calcul"
+   }
+  },
+  "0001193125-22-303898": {
+   "parserVersion": 1,
+   "filingDate": "2022-12-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/882184/000119312522303898/d399328ddef14a.htm",
+   "periodEnd": "2022-09-30",
+   "tenK": "0000882184-22-000184",
+   "result": {
+    "ceoPay": 30017979,
+    "medianPay": 116088,
+    "payRatio": 259,
+    "method": "cross-checked",
+    "employees": 13130,
+    "statedYear": 2022,
+    "excerpt": "lue of employer paid non-discriminatory health insurance benefits in the total annual compensation of our median employee and of our CEO to better reflect our employee compensation practices. For the fiscal year ended September 30, 2022: |  | | | | The total compensation of our median employee was $116,088. | |  | | | | The total compensation of our CEO was $30,017,979. | Accordingly, for fiscal 2022, the ratio of the total compensation of Mr. Auld, our CEO, to the total compensation of the median compensation of all employees (excluding Mr. Auld), was 259 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. Because the SEC rules for identifying the median employee a"
+   }
+  },
+  "0000882184-21-000238": {
+   "parserVersion": 1,
+   "filingDate": "2021-12-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218421000238/dhiproxydoc-2022meeting.htm",
+   "periodEnd": "2021-09-30",
+   "tenK": "0000882184-21-000190",
+   "result": {
+    "ceoPay": 30592304,
+    "medianPay": 107880,
+    "payRatio": 284,
+    "method": "cross-checked",
+    "employees": 11698,
+    "statedYear": 2021,
+    "excerpt": "dollar value of employer paid non-discriminatory health insurance benefits in the total annual compensation of our median employee and of our CEO to better reflect our employee compensation practices. For the fiscal year ended September 30, 2021: • The total compensation of our median employee was $107,880. • The total compensation of our CEO was $30,592,304. Accordingly, for fiscal 2021, the ratio of the total compensation of Mr. Auld, our CEO, to the total compensation of the median compensation of all employees (excluding Mr. Auld), was 284 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. Because the SEC rules for identifying the median employee and calculating"
+   }
+  },
+  "0000882184-20-000173": {
+   "parserVersion": 1,
+   "filingDate": "2020-12-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218420000173/proxydoc-2021meeting.htm",
+   "periodEnd": "2020-09-30",
+   "tenK": "0000882184-20-000143",
+   "result": {
+    "ceoPay": 19226232,
+    "medianPay": 117766,
+    "payRatio": 163,
+    "method": "cross-checked",
+    "employees": 9611,
+    "statedYear": 2020,
+    "excerpt": "dollar value of employer paid non-discriminatory health insurance benefits in the total annual compensation of our median employee and of our CEO to better reflect our employee compensation practices. For the fiscal year ended September 30, 2020: • The total compensation of our median employee was $117,766. • The total compensation of our CEO was $19,226,232. Accordingly, for fiscal 2020, the ratio of the total compensation of Mr. Auld, our CEO, to the total compensation of the median compensation of all employees (excluding Mr. Auld), was 163 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. Because the SEC rules for identifying the median employee and calculating"
+   }
+  },
+  "0001193125-19-319220": {
+   "parserVersion": 1,
+   "filingDate": "2019-12-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/882184/000119312519319220/d844232ddef14a.htm",
+   "periodEnd": "2019-09-30",
+   "tenK": "0000882184-19-000147",
+   "result": {
+    "ceoPay": 14377638,
+    "medianPay": 86531,
+    "payRatio": 166,
+    "method": "cross-checked",
+    "employees": 8854,
+    "statedYear": 2019,
+    "excerpt": "of employer paid non-discriminatory health insurance benefits in the total annual compensation of our median employee and of our CEO to better reflect our employee compensation practices. For the fiscal year ended September 30, 2019: | | |  | | | | The total compensation of our median employee was $86,531. | | | |  | | | | The total compensation of our CEO was $14,377,638. | Accordingly, for fiscal 2019, the ratio of the total compensation of Mr. Auld, our CEO, to the total compensation of the median compensation of all employees (excluding Mr. Auld), was 166 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. Because the SEC rules for identifying the median employe"
+   }
+  },
+  "0001193125-18-350016": {
+   "parserVersion": 1,
+   "filingDate": "2018-12-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/882184/000119312518350016/d427542ddef14a.htm",
+   "periodEnd": "2018-09-30",
+   "tenK": "0000882184-18-000120",
+   "result": {
+    "ceoPay": 14886528,
+    "medianPay": 92304,
+    "payRatio": 161,
+    "method": "cross-checked",
+    "employees": 8400,
+    "statedYear": 2018,
+    "excerpt": "of employer paid non-discriminatory health insurance benefits in the total annual compensation of our median employee and of our CEO to better reflect our employee compensation practices. For the fiscal year ended September 30, 2018: | | |  | | | | The total compensation of our median employee was $92,304. | | | |  | | | | The total compensation of our CEO was $14,886,528. | Accordingly, for fiscal 2018, the ratio of the total compensation of Mr. Auld, our CEO, to the total compensation of the median compensated of all employees (excluding Mr. Auld), was 161 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. Because the SEC rules for identifying the median employee"
+   }
+  }
+ },
+ "tenKs": {
+  "0000882184-25-000081": {
+   "parserVersion": 1,
+   "employees": 14341
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 3657600000,
+    "periodEnd": "2009-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-099334"
+   },
+   "2010": {
+    "revenue": 4400200000,
+    "periodEnd": "2010-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-12-000065"
+   },
+   "2011": {
+    "revenue": 3636800000,
+    "periodEnd": "2011-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-13-000084"
+   },
+   "2012": {
+    "revenue": 4354000000,
+    "periodEnd": "2012-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-14-000097"
+   },
+   "2013": {
+    "revenue": 6259300000,
+    "periodEnd": "2013-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-15-000085"
+   },
+   "2014": {
+    "revenue": 8024900000,
+    "periodEnd": "2014-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-16-000203"
+   },
+   "2015": {
+    "revenue": 10824000000,
+    "periodEnd": "2015-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-17-000103"
+   },
+   "2016": {
+    "revenue": 12157400000,
+    "periodEnd": "2016-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-18-000120"
+   },
+   "2017": {
+    "revenue": 14091000000,
+    "periodEnd": "2017-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-19-000147"
+   },
+   "2018": {
+    "revenue": 16068000000,
+    "periodEnd": "2018-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-20-000143"
+   },
+   "2019": {
+    "revenue": 17592900000,
+    "periodEnd": "2019-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-21-000190"
+   },
+   "2020": {
+    "revenue": 20311100000,
+    "periodEnd": "2020-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-22-000184"
+   },
+   "2021": {
+    "revenue": 27774200000,
+    "periodEnd": "2021-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-23-000115"
+   },
+   "2022": {
+    "revenue": 33480000000,
+    "periodEnd": "2022-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-24-000057"
+   },
+   "2023": {
+    "revenue": 35460400000,
+    "periodEnd": "2023-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-25-000081"
+   },
+   "2024": {
+    "revenue": 36801400000,
+    "periodEnd": "2024-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-26-000157"
+   },
+   "2025": {
+    "revenue": 34250400000,
+    "periodEnd": "2025-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-26-000157"
+   },
+   "2026": {
+    "revenue": 33043400000,
+    "periodEnd": "2026-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000882184-26-000157"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000882184-26-000157",
+    "filingDate": "2026-11-18",
+    "reportDate": "2026-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218426000157/dhi-20260930.htm"
+   },
+   {
+    "accession": "0000882184-25-000081",
+    "filingDate": "2025-11-19",
+    "reportDate": "2025-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218425000081/dhi-20250930.htm"
+   },
+   {
+    "accession": "0000882184-24-000057",
+    "filingDate": "2024-11-19",
+    "reportDate": "2024-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218424000057/dhi-20240930.htm"
+   },
+   {
+    "accession": "0000882184-23-000115",
+    "filingDate": "2023-11-17",
+    "reportDate": "2023-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218423000115/dhi-20230930.htm"
+   },
+   {
+    "accession": "0000882184-22-000184",
+    "filingDate": "2022-11-18",
+    "reportDate": "2022-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218422000184/dhi-20220930.htm"
+   },
+   {
+    "accession": "0000882184-21-000190",
+    "filingDate": "2021-11-18",
+    "reportDate": "2021-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218421000190/dhi-20210930.htm"
+   },
+   {
+    "accession": "0000882184-20-000143",
+    "filingDate": "2020-11-20",
+    "reportDate": "2020-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218420000143/dhi-20200930.htm"
+   },
+   {
+    "accession": "0000882184-19-000147",
+    "filingDate": "2019-11-25",
+    "reportDate": "2019-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218419000147/a2019930-10k.htm"
+   },
+   {
+    "accession": "0000882184-18-000120",
+    "filingDate": "2018-11-16",
+    "reportDate": "2018-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218418000120/a2018930-10k.htm"
+   },
+   {
+    "accession": "0000882184-17-000103",
+    "filingDate": "2017-11-15",
+    "reportDate": "2017-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218417000103/a2017930-10k.htm"
+   }
+  ]
+ }
+}

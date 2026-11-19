@@ -1,0 +1,348 @@
+{
+ "proxies": {
+  "0000063754-26-000140": {
+   "parserVersion": 1,
+   "filingDate": "2026-02-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375426000140/mkc-20260217.htm",
+   "periodEnd": "2025-11-30",
+   "tenK": "0000063754-26-000037",
+   "result": {
+    "ceoPay": 10831581,
+    "medianPay": 41468,
+    "payRatio": 261,
+    "method": "cross-checked",
+    "employees": 5078,
+    "statedYear": 2025,
+    "excerpt": "y Ratio Disclosure In accordance with SEC rules, companies are required to disclose the ratio of the annual total compensation of their CEO to the median of the annual total compensation of their other employees. The annual total compensation of our median employee (other than the CEO) for 2025 was $41,468. As disclosed in the Summary Compensation Table above, Mr. Foley's annual total compensation was $10,831,581 for 2025. As a result, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 261 to 1 for fiscal 2025. Given our geographic footprint outside of the United States, the table below also includes the ratio based on a median employee identified from our U.S. employee population only. Based on the foregoing, our estimate of the ra"
+   }
+  },
+  "0000063754-25-000016": {
+   "parserVersion": 1,
+   "filingDate": "2025-02-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375425000016/mkc-20250212.htm",
+   "periodEnd": "2024-11-30",
+   "tenK": "0000063754-25-000005",
+   "result": {
+    "ceoPay": 10849622,
+    "medianPay": 45444,
+    "payRatio": 238,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "y Ratio Disclosure In accordance with SEC rules, companies are required to disclose the ratio of the annual total compensation of their CEO to the median of the annual total compensation of their other employees. The annual total compensation of our median employee (other than the CEO) for 2024 was $45,444. As disclosed in the Summary Compensation Table above, Mr. Foley's annual total compensation was $10,849,622 for 2024. As a result, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 238 to 1 for fiscal 2024. Given our geographic footprint outside of the United States, the table below also includes the ratio based on a median employee identified from our U.S. employee population only. Based on the foregoing, our estimate of the ra"
+   }
+  },
+  "0001308179-24-000026": {
+   "parserVersion": 1,
+   "filingDate": "2024-02-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817924000026/lmkc016_def14a.htm",
+   "periodEnd": "2023-11-30",
+   "tenK": "0000063754-24-000027",
+   "result": {
+    "ceoPay": 11019321,
+    "medianPay": 40141,
+    "payRatio": 275,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "y Ratio Disclosure In accordance with SEC rules, companies are required to disclose the ratio of the annual total compensation of their CEO to the median of the annual total compensation of their other employees. The annual total compensation of our median employee (other than the CEO) for 2023 was $40,141. For purposes of this calculation, Mr. Foley's annualized estimated compensation as a result of his appointment to President and CEO was $11,019,321 for 2023. As a result, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 275 to 1 for fiscal 2023. In order to calculate the CEO's annual total compensation for 2023, the following methodology was used: Effective September 1, 2023 Mr. Foley was appointed President and CEO, and he rec"
+   }
+  },
+  "0001308179-23-000045": {
+   "parserVersion": 1,
+   "filingDate": "2023-02-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817923000045/lmkc2023_def14a.htm",
+   "periodEnd": "2022-11-30",
+   "tenK": "0000063754-23-000005",
+   "result": {
+    "ceoPay": 10426035,
+    "medianPay": 38724,
+    "payRatio": 269,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "y Ratio Disclosure In accordance with SEC rules, companies are required to disclose the ratio of the annual total compensation of their CEO to the median of the annual total compensation of their other employees. The annual total compensation of our median employee (other than the CEO) for 2022 was $38,724. As disclosed in the Summary Compensation Table above, our CEO's annual total compensation for 2022 was $10,426,035. As a result, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 269 to 1 for fiscal 2022. Given our geographic footprint outside of the United States, the table below also includes the ratio based on a median employee identified from our U.S. employee population only. Based on the foregoing, our estimate of the rati"
+   }
+  },
+  "0001308179-22-000010": {
+   "parserVersion": 1,
+   "filingDate": "2022-02-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817922000010/lmkc2022_def14a.htm",
+   "periodEnd": "2021-11-30",
+   "tenK": "0000063754-22-000005",
+   "result": {
+    "ceoPay": 12718656,
+    "medianPay": 38004,
+    "payRatio": 335,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "y Ratio Disclosure In accordance with SEC rules, companies are required to disclose the ratio of the annual total compensation of their CEO to the median of the annual total compensation of their other employees. The annual total compensation of our median employee (other than the CEO) for 2021 was $38,004. As disclosed in the Summary Compensation Table above, our CEO's annual total compensation for 2021 was $12,718,656. As a result, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 335 to 1 for fiscal 2021. Given our geographic footprint outside of the United States, the table below also includes the ratio based on a median employee identified from our U.S. employee population only. Based on the foregoing, our estimate of the rati"
+   }
+  },
+  "0001308179-21-000009": {
+   "parserVersion": 1,
+   "filingDate": "2021-02-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817921000009/lmkc_def14a.htm",
+   "periodEnd": "2020-11-30",
+   "tenK": "0000063754-21-000020",
+   "result": {
+    "ceoPay": 19546334,
+    "medianPay": 33387,
+    "payRatio": 585,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "y Ratio Disclosure In accordance with SEC rules, companies are required to disclose the ratio of the annual total compensation of their CEO to the median of the annual total compensation of their other employees. The annual total compensation of our median employee (other than the CEO) for 2020 was $33,387. As disclosed in the Summary Compensation Table above, our CEO's annual total compensation for 2020 was $19,546,334. As a result, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 585 to 1 for fiscal 2020. Given our geographic footprint outside of the United States, the table below also includes the ratio based on a median employee identified from our U.S. employee population only. Based on the foregoing, our estimate of the rati"
+   }
+  },
+  "0001308179-20-000006": {
+   "parserVersion": 1,
+   "filingDate": "2020-02-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817920000006/lmkc_def14a.htm",
+   "periodEnd": "2019-11-30",
+   "tenK": "0000063754-20-000022",
+   "result": {
+    "ceoPay": 12769184,
+    "medianPay": 31603,
+    "payRatio": 404,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "y Ratio Disclosure In accordance with SEC rules, companies are required to disclose the ratio of the annual total compensation of their CEO to the median of the annual total compensation of their other employees. The annual total compensation of our median employee (other than the CEO) for 2019 was $31,603. As disclosed in the Summary Compensation Table above, our CEO's annual total compensation for 2019 was $12,769,184. As a result, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 404 to 1 for fiscal 2019. Given our geographic footprint outside of the United States, the table below also includes the ratio based on a median employee identified from our U.S. employee population only. Based on the foregoing, our estimate of the rati"
+   }
+  },
+  "0001308179-19-000003": {
+   "parserVersion": 1,
+   "filingDate": "2019-02-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817919000003/lmkc2019_def14a.htm",
+   "periodEnd": "2018-11-30",
+   "tenK": "0000063754-19-000017",
+   "result": {
+    "ceoPay": 14836426,
+    "medianPay": 35946,
+    "payRatio": 413,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "y Ratio Disclosure In accordance with SEC rules, companies are required to disclose the ratio of the annual total compensation of their CEO to the median of the annual total compensation of their other employees. The annual total compensation of our median employee (other than the CEO) for 2018 was $35,946. As disclosed in the Summary Compensation Table above, our CEO's annual total compensation for 2018 was $14,836,426. As a result, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 413 to 1 for fiscal 2018. This ratio includes the grant date fair value of a one-time equity award of $6,000,000 granted to our CEO in November 2018. As described previously, this in a one-time grant vesting over three years and is not an indicative com"
+   }
+  },
+  "0001308179-18-000009": {
+   "parserVersion": 1,
+   "filingDate": "2018-02-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817918000009/lmkc0102018_def14a.htm",
+   "periodEnd": "2017-11-30",
+   "tenK": "0000063754-18-000008",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0000063754-19-000017": {
+   "parserVersion": 1,
+   "employees": 11600
+  },
+  "0000063754-20-000022": {
+   "parserVersion": 1,
+   "employees": 12400
+  },
+  "0000063754-21-000020": {
+   "parserVersion": 1,
+   "employees": 13000
+  },
+  "0000063754-22-000005": {
+   "parserVersion": 1,
+   "employees": 14000
+  },
+  "0000063754-23-000005": {
+   "parserVersion": 1,
+   "employees": 14200
+  },
+  "0000063754-24-000027": {
+   "parserVersion": 1,
+   "employees": 13800
+  },
+  "0000063754-25-000005": {
+   "parserVersion": 1,
+   "employees": 14100
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 3176600000,
+    "periodEnd": "2008-11-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-014958"
+   },
+   "2009": {
+    "revenue": 3192100000,
+    "periodEnd": "2009-11-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-026335"
+   },
+   "2010": {
+    "revenue": 3336800000,
+    "periodEnd": "2010-11-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000063754-13-000002"
+   },
+   "2011": {
+    "revenue": 3697600000,
+    "periodEnd": "2011-11-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000063754-14-000008"
+   },
+   "2012": {
+    "revenue": 4014200000,
+    "periodEnd": "2012-11-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000063754-15-000013"
+   },
+   "2013": {
+    "revenue": 4123400000,
+    "periodEnd": "2013-11-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000063754-16-000063"
+   },
+   "2014": {
+    "revenue": 4243200000,
+    "periodEnd": "2014-11-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000063754-17-000014"
+   },
+   "2015": {
+    "revenue": 4296300000,
+    "periodEnd": "2015-11-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000063754-18-000008"
+   },
+   "2016": {
+    "revenue": 4411500000,
+    "periodEnd": "2016-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0000063754-19-000017"
+   },
+   "2017": {
+    "revenue": 4834100000,
+    "periodEnd": "2017-11-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000063754-18-000008"
+   },
+   "2018": {
+    "revenue": 5302800000,
+    "periodEnd": "2018-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0000063754-21-000020"
+   },
+   "2019": {
+    "revenue": 5347400000,
+    "periodEnd": "2019-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0000063754-22-000005"
+   },
+   "2020": {
+    "revenue": 5601300000,
+    "periodEnd": "2020-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0000063754-23-000005"
+   },
+   "2021": {
+    "revenue": 6317900000,
+    "periodEnd": "2021-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0000063754-24-000027"
+   },
+   "2022": {
+    "revenue": 6350500000,
+    "periodEnd": "2022-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0000063754-25-000005"
+   },
+   "2023": {
+    "revenue": 6662200000,
+    "periodEnd": "2023-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0000063754-26-000037"
+   },
+   "2024": {
+    "revenue": 6723700000,
+    "periodEnd": "2024-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0000063754-26-000037"
+   },
+   "2025": {
+    "revenue": 6840300000,
+    "periodEnd": "2025-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0000063754-26-000037"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000063754-26-000037",
+    "filingDate": "2026-01-22",
+    "reportDate": "2025-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375426000037/mkc-20251130.htm"
+   },
+   {
+    "accession": "0000063754-25-000005",
+    "filingDate": "2025-01-23",
+    "reportDate": "2024-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375425000005/mkc-20241130.htm"
+   },
+   {
+    "accession": "0000063754-24-000027",
+    "filingDate": "2024-01-25",
+    "reportDate": "2023-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375424000027/mkc-20231130.htm"
+   },
+   {
+    "accession": "0000063754-23-000005",
+    "filingDate": "2023-01-26",
+    "reportDate": "2022-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375423000005/mkc-20221130.htm"
+   },
+   {
+    "accession": "0000063754-22-000005",
+    "filingDate": "2022-01-27",
+    "reportDate": "2021-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375422000005/mkc-20211130.htm"
+   },
+   {
+    "accession": "0000063754-21-000020",
+    "filingDate": "2021-01-28",
+    "reportDate": "2020-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375421000020/mkc-20201130.htm"
+   },
+   {
+    "accession": "0000063754-20-000022",
+    "filingDate": "2020-01-28",
+    "reportDate": "2019-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375420000022/mkc-11302019x10kxq42019.htm"
+   },
+   {
+    "accession": "0000063754-19-000017",
+    "filingDate": "2019-01-25",
+    "reportDate": "2018-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375419000017/mkc-11302018x10kxq42018.htm"
+   },
+   {
+    "accession": "0000063754-18-000008",
+    "filingDate": "2018-01-25",
+    "reportDate": "2017-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375418000008/mkc-11302017x10kxq42017.htm"
+   },
+   {
+    "accession": "0000063754-17-000014",
+    "filingDate": "2017-01-25",
+    "reportDate": "2016-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375417000014/mkc-11302016x10kxq42016.htm"
+   }
+  ]
+ }
+}

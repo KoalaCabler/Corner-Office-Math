@@ -1,0 +1,327 @@
+{
+ "proxies": {
+  "0001628280-26-022197": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026022197/wab-20260330.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-008067",
+   "result": {
+    "ceoPay": 26181461,
+    "medianPay": 51471,
+    "payRatio": 509,
+    "method": "cross-checked",
+    "employees": 28564,
+    "statedYear": 2025,
+    "excerpt": "nformation about the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Santana, our Chief Executive Officer. For 2025, our last completed fiscal year: • the annual total compensation of our median employee of our company (other than our CEO) was $51,471; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table presented on page 52 , was $26,181,461. Based on this information, for 2025, the ratio of the annual total compensation of Mr. Santana, our Chief Executive Officer, to the median of the annual total compensation of all employees was approximately 509 to 1. To identify the median employee among all of our employees (excluding the CEO), as well as to determine the annual total compensation of the"
+   }
+  },
+  "0001628280-25-016372": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828025016372/wab-20250403.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-005100",
+   "result": {
+    "ceoPay": 20974319,
+    "medianPay": 48337,
+    "payRatio": 434,
+    "method": "cross-checked",
+    "employees": 28468,
+    "statedYear": 2024,
+    "excerpt": "nformation about the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Santana, our Chief Executive Officer. For 2024, our last completed fiscal year: • the annual total compensation of our median employee of our company (other than our CEO) was $48,337; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table presented on page 60 , was $20,974,319. Based on this information, for 2024, the ratio of the annual total compensation of Mr. Santana, our Chief Executive Officer, to the median of the annual total compensation of all employees was approximately 434 to 1. To identify the median employee among of all our employees (excluding the CEO), as well as to determine the annual total compensation of the"
+   }
+  },
+  "0001140361-24-017812": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000114036124017812/ny20012397x1_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001628280-24-004774",
+   "result": {
+    "ceoPay": 15493240,
+    "medianPay": 48924,
+    "payRatio": 317,
+    "method": "cross-checked",
+    "employees": 28020,
+    "statedYear": 2023,
+    "excerpt": "tion about the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Santana, our Chief Executive Officer. For 2023, our last completed fiscal year: | • | | the annual total compensation of our median employee of our company (other than our CEO) was $48,924; and | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table presented on page 61 , was $15,493,240. | Based on this information, for 2023, the ratio of the annual total compensation of Mr. Santana, our Chief Executive Officer, to the median of the annual total compensation of all employees was approximately 317 to 1. To identify the median employee among of all our employees (excluding the CEO), as well as to determine the annual total compensat"
+   }
+  },
+  "0001104659-23-041902": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000110465923041902/tm2231663d2_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001628280-23-003675",
+   "result": {
+    "ceoPay": 11685472,
+    "medianPay": 45760,
+    "payRatio": 255,
+    "method": "cross-checked",
+    "employees": 26714,
+    "statedYear": 2022,
+    "excerpt": "nformation about the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Santana, our Chief Executive Officer. For 2022, our last completed fiscal year: • the annual total compensation of our median employee of our company (other than our CEO) was $45,760; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table presented on page 47, was $11,685,472. Based on this information, for 2022, the ratio of the annual total compensation of Mr. Santana, our Chief Executive Officer, to the median of the annual total compensation of all employees was approximately 255 to 1. To identify the median employee among of all our employees (excluding the CEO), as well as to determine the annual total compensation of the"
+   }
+  },
+  "0001140361-22-013017": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000114036122013017/ny20001932x1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001628280-22-002997",
+   "result": {
+    "ceoPay": 11027238,
+    "medianPay": 45266,
+    "payRatio": 244,
+    "method": "cross-checked",
+    "employees": 25394,
+    "statedYear": 2021,
+    "excerpt": "tion about the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Santana, our Chief Executive Officer. For 2021, our last completed fiscal year: | • | | the annual total compensation of our median employee of our company (other than our CEO) was $45,266; and | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table presented on page 42 , was $11,027,238. | Based on this information, for 2021, the ratio of the annual total compensation of Mr. Santana, our Chief Executive Officer, to the median of the annual total compensation of all employees was approximately 244 to 1. To identify the median employee among of all our employees (excluding the CEO), as well as to determine the annual total compensat"
+   }
+  },
+  "0001140361-21-011950": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000114036121011950/nc10014582x1_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001628280-21-002557",
+   "result": {
+    "ceoPay": 11044418,
+    "medianPay": 44832,
+    "payRatio": 246,
+    "method": "cross-checked",
+    "employees": 24730,
+    "statedYear": 2020,
+    "excerpt": "tion about the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Santana, our Chief Executive Officer. For 2020, our last completed fiscal year: | • | | the annual total compensation of our median employee of our company (other than our CEO) was $44,832; and | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table presented on page 43 , was $11,044,418. | Based on this information, for 2020, the ratio of the annual total compensation of Mr. Santana, our Chief Executive Officer, to the median of the annual total compensation of all employees was approximately 246 to 1. To identify the median employee among of all our employees (excluding the CEO), as well as to determine the annual total compensat"
+   }
+  },
+  "0001140361-20-007937": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000114036120007937/nc10010067x1_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001628280-20-002098",
+   "result": {
+    "ceoPay": 7484027,
+    "medianPay": 42045,
+    "payRatio": 178,
+    "method": "cross-checked",
+    "employees": 27521,
+    "statedYear": 2019,
+    "excerpt": "tion about the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Santana, our Chief Executive Officer. For 2019, our last completed fiscal year: | • | | the annual total compensation of our median employee of our company (other than our CEO) was $42,045; and | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table presented on page 26 , was $7,484,027. | Based on this information, for 2019, the ratio of the annual total compensation of Mr. Santana, our Chief Executive Officer, to the median of the annual total compensation of all employees was approximately 178 to 1. To identify the median employee among of all our employees (excluding the CEO), as well as to determine the annual total compensati"
+   }
+  },
+  "0001140361-19-006593": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000114036119006593/ntp10000723x1_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001628280-19-002095",
+   "result": {
+    "ceoPay": 5250248,
+    "medianPay": 39210,
+    "payRatio": 134,
+    "method": "cross-checked",
+    "employees": 17161,
+    "statedYear": 2018,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Betler, our Chief Executive Officer. For 2018, our last completed fiscal year: | | | • | | the median of the annual total compensation of all employees of our company (other than our CEO) was $39,210; and | | | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table presented on page 23, was $5,250,248. | Based on this information, for 2018, the ratio of the annual total compensation of Mr. Betler, our Chief Executive Officer, to the median of the annual total compensation of all employees was approximately 134 to 1. To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensati"
+   }
+  },
+  "0001140361-18-017356": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/943452/000114036118017356/bp03693x1_proxy.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001628280-18-002245",
+   "result": {
+    "ceoPay": 3459532,
+    "medianPay": 37387,
+    "payRatio": 93,
+    "method": "cross-checked",
+    "employees": 15960,
+    "statedYear": 2017,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Betler, our Chief Executive Officer. For 2017, our last completed fiscal year: | | | • | | the median of the annual total compensation of all employees of our company (other than our CEO) was $ 37,387; and | | | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table presented on page 24, was $ 3,459,532. | Based on this information, for 2017, the ratio of the annual total compensation of Mr. Betler, our Chief Executive Officer, to the median of the annual total compensation of all employees was approximately 93 to 1 . To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensa"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 1574749000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-046939"
+   },
+   "2009": {
+    "revenue": 1401616000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-077488"
+   },
+   "2010": {
+    "revenue": 1507012000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-071115"
+   },
+   "2011": {
+    "revenue": 1967637000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-071115"
+   },
+   "2012": {
+    "revenue": 2391122000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-071115"
+   },
+   "2013": {
+    "revenue": 2566392000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001628280-16-011421"
+   },
+   "2014": {
+    "revenue": 3044454000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001628280-17-001863"
+   },
+   "2015": {
+    "revenue": 3307998000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001628280-18-002245"
+   },
+   "2016": {
+    "revenue": 2931188000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-19-002095"
+   },
+   "2017": {
+    "revenue": 3881756000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001628280-18-002245"
+   },
+   "2018": {
+    "revenue": 4363500000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-21-002557"
+   },
+   "2019": {
+    "revenue": 8200000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-22-002997"
+   },
+   "2020": {
+    "revenue": 7556000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-23-003675"
+   },
+   "2021": {
+    "revenue": 7822000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-24-004774"
+   },
+   "2022": {
+    "revenue": 8362000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-25-005100"
+   },
+   "2023": {
+    "revenue": 9677000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008067"
+   },
+   "2024": {
+    "revenue": 10387000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008067"
+   },
+   "2025": {
+    "revenue": 11167000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008067"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-008067",
+    "filingDate": "2026-02-13",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828026008067/wab-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-005100",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828025005100/wab-20241231.htm"
+   },
+   {
+    "accession": "0001628280-24-004774",
+    "filingDate": "2024-02-14",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828024004774/wab-20231231.htm"
+   },
+   {
+    "accession": "0001628280-23-003675",
+    "filingDate": "2023-02-15",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828023003675/wab-20221231.htm"
+   },
+   {
+    "accession": "0001628280-22-002997",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828022002997/wab-20211231.htm"
+   },
+   {
+    "accession": "0001628280-21-002557",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828021002557/wab-20201231.htm"
+   },
+   {
+    "accession": "0001628280-20-002098",
+    "filingDate": "2020-02-24",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828020002098/wab-20191231.htm"
+   },
+   {
+    "accession": "0001628280-19-002095",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828019002095/wab1231201810k.htm"
+   },
+   {
+    "accession": "0001628280-18-002245",
+    "filingDate": "2018-02-26",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828018002245/wab1231201710k.htm"
+   },
+   {
+    "accession": "0001628280-17-001863",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/943452/000162828017001863/wab1231201610k.htm"
+   }
+  ]
+ }
+}

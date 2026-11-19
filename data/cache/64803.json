@@ -1,0 +1,354 @@
+{
+ "proxies": {
+  "0001308179-26-000201": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000130817926000201/cvs014969-def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000064803-26-000010",
+   "result": {
+    "ceoPay": 21232392,
+    "medianPay": 63262,
+    "payRatio": 336,
+    "method": "cross-checked",
+    "employees": 300000,
+    "statedYear": 2025,
+    "excerpt": "ese exclusions consisted of employees in Ireland (165), Spain (15), Canada (8), and Bermuda (1). Consistent with our historical methodology, we also excluded employees who joined CVS Health through acquisitions completed during 2025. The annual total compensation of the median employee for 2025 was $63,262, calculated in accordance with the rules applicable to the SCT, which begins on page 77 of this proxy statement. The annual compensation for our median employee includes all elements of compensation that are disclosable in the SCT, which for our median employee is the Company-paid portion of health benefits and Company contributions to the 401(k) Plan. Mr. Joyner's annual compensation was $21,232,392, which is $18,308 higher than the amount shown in our SCT because of the inclusion of Co"
+   }
+  },
+  "0001308179-25-000386": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000130817925000386/cvs012729_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000064803-25-000007",
+   "result": {
+    "ceoPay": 18222966,
+    "medianPay": 60917,
+    "payRatio": 299,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "istent with historical practice and as mentioned above, we excluded employees who joined CVS Health through businesses that we acquired during 2024. Using this methodology, our new median employee was determined to be a full-time employee. The annual compensation for our median employee in 2024 was $60,917, calculated in accordance with the rules applicable to the SCT which begins on page 83 of this proxy statement. The annual compensation for our median employee also includes the Company-paid portion of health benefits plus Company contributions to the 401(k) Plan, if applicable. As permitted by SEC rules, the Company elected to annualize the compensation of Mr. Joyner. To annualize Mr. Joyner's compensation for 2024, the following adjustments were made: | • | | his base salary was annual"
+   }
+  },
+  "0001308179-24-000463": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000130817924000463/lcvs2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000064803-24-000007",
+   "result": {
+    "ceoPay": 21630264,
+    "medianPay": 55237,
+    "payRatio": 392,
+    "method": "cross-checked",
+    "employees": 300000,
+    "statedYear": 2023,
+    "excerpt": "es who joined CVS Health through businesses that we acquired during 2023, including those from our acquisitions of Oak Street Health and Signify Health. Using this methodology, our median employee was determined to be a full-time employee. The annual compensation for our median employee in 2023 was $55,237 calculated in accordance with the rules applicable to the SCT which begins on page 79 of this proxy statement. The annual compensation for our median employee also includes the Company-paid portion of health benefits plus company contributions to the 401(k) Plan, if applicable. Ms. Lynch's annual compensation was $21,630,264, which is $15,230 higher than the amount shown in our SCT because of the inclusion of Company-paid medical benefits, which are not reflected in the SCT in accordance"
+   }
+  },
+  "0001308179-23-000606": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000130817923000606/cvs4106991-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000064803-23-000009",
+   "result": {
+    "ceoPay": 21331791,
+    "medianPay": 56129,
+    "payRatio": 380,
+    "method": "cross-checked",
+    "employees": 300000,
+    "statedYear": 2022,
+    "excerpt": "hina (89), Hong Kong Special Administrative Region (18), Indonesia (4), Ireland (9), Singapore (33), United Arab Emirates (95) and United Kingdom (209). Using this methodology, our median employee was determined to be a full-time employee. The annual compensation for our median employee in 2022 was $56,129, calculated in accordance with the rules applicable to the SCT which begins on page 76 of this proxy statement. The annual compensation for our median employee also includes the Company-paid portion of health benefits plus company contributions to the 401(k) Plan, if applicable. Ms. Lynch's annual compensation was $21,331,791, which is $14,736 higher than the amount shown in our SCT because of the inclusion of Company-paid medical benefits, which are not reflected in the SCT in accordanc"
+   }
+  },
+  "0001206774-22-000965": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000120677422000965/cvs3990751-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000064803-22-000008",
+   "result": {
+    "ceoPay": 20604192,
+    "medianPay": 45010,
+    "payRatio": 458,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "(12), India (2), Ireland (11), Kuwait (1), Qatar (1), Singapore (78), South Africa (5), Thailand (344), United Arab Emirates (223) and United Kingdom (336). Using this methodology, our new median employee was determined to be a full-time employee. The annual compensation for our median employee was $45,010, calculated in accordance with the rules applicable to the SCT which begins on page 72 of this proxy statement. The annual compensation for our median employee includes the Company-paid portion of health benefits plus company contributions to the 401(k) Plan, if applicable. As permitted by SEC rules, the Company elected to annualize the compensation of Ms. Lynch, who became CEO of the Company on February 1, 2021 and was serving as CEO on December 31, 2021, the anniversary of the determin"
+   }
+  },
+  "0001206774-21-000974": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000120677421000974/cvs3833491-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000064803-21-000011",
+   "result": {
+    "ceoPay": 23057647,
+    "medianPay": 55716,
+    "payRatio": 414,
+    "method": "cross-checked",
+    "employees": 290000,
+    "statedYear": 2020,
+    "excerpt": "December 31, 2019. Consistent with our previous practice, we also excluded employees who joined CVS Health through businesses that we acquired in 2019. Using this methodology, our median employee was determined to be a full-time employee. The annual compensation for our median employee in 2020 was $55,716, calculated in accordance with the rules applicable to the SCT which begins on page 70 of this proxy statement. The annual compensation for our median employee includes the Company-paid portion of health benefits plus company contributions to the 401(k) Plan, if applicable. For 2020, the annual compensation for Mr. Merlo includes approximately $11.9 million attributed to a required change to an actuarial assumption used for the SERP. This change did not result in an increase in Mr. Merlo"
+   }
+  },
+  "0001206774-20-001053": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000120677420001053/cvs3650331-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000064803-20-000007",
+   "result": {
+    "ceoPay": 36466470,
+    "medianPay": 46140,
+    "payRatio": 790,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "of our total employees. Consistent with our previous practice, we also excluded employees who joined CVS Health through businesses that we acquired during 2019. Using this methodology, our median employee was determined to be a full-time employee. The annual compensation for our median employee was $46,140, calculated in accordance with the rules applicable to the SCT which begins on page 60 of this proxy statement. The annual compensation for our median employee includes the Company-paid portion of health benefits plus company contributions to the 401(k) Plan, if applicable. For 2019, the annual compensation for Mr. Merlo was $36,466,470, which is $14,721 higher than the amount shown in our SCT because of the inclusion of Company-paid medical benefits, which are not reflected in the SCT i"
+   }
+  },
+  "0001206774-19-001240": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000120677419001240/cvs3508731-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000064803-19-000013",
+   "result": {
+    "ceoPay": 21953040,
+    "medianPay": 35529,
+    "payRatio": 618,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "actice, we also excluded employees who joined CVS Health through businesses that we acquired during 2018, including those from our acquisition of Aetna. Using this methodology, our median employee was determined to be a full-time, hourly employee. The annual compensation for our median employee was $35,529, calculated in accordance with the rules applicable to the Summary Compensation Table (SCT) found beginning on page 63 of this proxy statement. The annual compensation for our median employee includes the company-paid portion of health benefits plus company contributions to our 401(k) plan, if applicable. For 2018, the annual compensation for Mr. Merlo was $21,953,040, which is $13,942 higher than the amount shown in our SCT because of the inclusion of company-paid medical benefits, whic"
+   }
+  },
+  "0001206774-18-001346": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/64803/000120677418001346/cvs3324661-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001558370-18-000707",
+   "result": {
+    "ceoPay": 12266076,
+    "medianPay": 38372,
+    "payRatio": 320,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "il, who represent less than 5% of our total employees. We also excluded employees who joined CVS Health through businesses that we acquired during 2017. Using this methodology, our median employee was determined to be a full-time, hourly employee. The annual compensation for our median employee was $38,372, calculated in accordance with the rules applicable to the Summary Compensation Table (SCT) found on page 54 of this proxy statement. The annual compensation for our median employee includes the company-paid portion of health benefits plus company contributions to our 401(k) plan. For 2017, the annual compensation for Mr. Merlo was $12,266,076, which is $13,212 higher than the amount shown in our SCT because of the inclusion of company-paid medical benefits, which are not reflected in th"
+   }
+  }
+ },
+ "tenKs": {
+  "0001558370-18-000707": {
+   "parserVersion": 1,
+   "employees": 246000
+  },
+  "0000064803-19-000013": {
+   "parserVersion": 1,
+   "employees": 295000
+  },
+  "0000064803-20-000007": {
+   "parserVersion": 1,
+   "employees": 290000
+  },
+  "0000064803-22-000008": {
+   "parserVersion": 1,
+   "employees": 300000
+  },
+  "0000064803-25-000007": {
+   "parserVersion": 1,
+   "employees": 300000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 76330000000,
+    "periodEnd": "2007-12-29",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-043086"
+   },
+   "2008": {
+    "revenue": 87472000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-040351"
+   },
+   "2009": {
+    "revenue": 98215000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-12-010850"
+   },
+   "2010": {
+    "revenue": 95778000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-13-011354"
+   },
+   "2011": {
+    "revenue": 107080000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-14-000008"
+   },
+   "2012": {
+    "revenue": 123120000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-15-000008"
+   },
+   "2013": {
+    "revenue": 126761000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-16-000074"
+   },
+   "2014": {
+    "revenue": 139367000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-17-000006"
+   },
+   "2015": {
+    "revenue": 153290000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-18-000707"
+   },
+   "2016": {
+    "revenue": 177546000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-19-000013"
+   },
+   "2017": {
+    "revenue": 184786000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-20-000007"
+   },
+   "2018": {
+    "revenue": 194579000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-21-000011"
+   },
+   "2019": {
+    "revenue": 256776000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-22-000008"
+   },
+   "2020": {
+    "revenue": 268706000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-23-000009"
+   },
+   "2021": {
+    "revenue": 292111000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-24-000007"
+   },
+   "2022": {
+    "revenue": 322467000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-25-000007"
+   },
+   "2023": {
+    "revenue": 357776000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-26-000010"
+   },
+   "2024": {
+    "revenue": 372809000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-26-000010"
+   },
+   "2025": {
+    "revenue": 402067000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000064803-26-000010"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000064803-26-000010",
+    "filingDate": "2026-02-10",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000010/cvs-20251231.htm"
+   },
+   {
+    "accession": "0000064803-25-000007",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480325000007/cvs-20241231.htm"
+   },
+   {
+    "accession": "0000064803-24-000007",
+    "filingDate": "2024-02-07",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480324000007/cvs-20231231.htm"
+   },
+   {
+    "accession": "0000064803-23-000009",
+    "filingDate": "2023-02-08",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480323000009/cvs-20221231.htm"
+   },
+   {
+    "accession": "0000064803-22-000008",
+    "filingDate": "2022-02-09",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480322000008/cvs-20211231.htm"
+   },
+   {
+    "accession": "0000064803-21-000011",
+    "filingDate": "2021-02-16",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480321000011/cvs-20201231.htm"
+   },
+   {
+    "accession": "0000064803-20-000007",
+    "filingDate": "2020-02-18",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480320000007/a2019form10-k.htm"
+   },
+   {
+    "accession": "0000064803-19-000013",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480319000013/cvs-2018231x10k.htm"
+   },
+   {
+    "accession": "0001558370-18-000707",
+    "filingDate": "2018-02-14",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000155837018000707/cvs-20171231x10k.htm"
+   },
+   {
+    "accession": "0000064803-17-000006",
+    "filingDate": "2017-02-09",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480317000006/cvs-20161231x10k.htm"
+   }
+  ]
+ }
+}

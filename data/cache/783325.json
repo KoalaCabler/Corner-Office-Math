@@ -1,0 +1,346 @@
+{
+ "proxies": {
+  "0000783325-26-000035": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/783325/000078332526000035/wec-20260324.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000783325-26-000018",
+   "result": {
+    "ceoPay": 12188492,
+    "medianPay": 133113,
+    "payRatio": 92,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "creating an incentive for our NEOs to take excessive risks. In line with this objective, the Company's general pay practice for all management employees is to target the median pay for each individual's position at comparably sized companies. For 2025, the annual total compensation of Mr. Lauber of $ 12,188,492 , as shown in the Summary Compensation Table above (\"CEO Compensation\"), was approximately 92 times the annual total compensation of the median employee of $133,113. We identified the median employee as of December 31, 2025, using total wages and earnings paid during the rolling 12-month period ended December 31, 2025, as reflected in our internal payroll records (including, without limitation, base salary, wages plus overtime, and annual cash incentive payments, as applicable), for"
+   }
+  },
+  "0000107815-25-000149": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781525000149/wec-20250311.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000107815-25-000103",
+   "result": {
+    "ceoPay": 10948091,
+    "medianPay": 134997,
+    "payRatio": 81,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "creating an incentive for our NEOs to take excessive risks. In line with this objective, the Company's general pay practice for all management employees is to target the median pay for each individual's position at comparably sized companies. For 2024, the annual total compensation of Mr. Lauber of $10,948,091, as shown in the Summary Compensation Table above (\"CEO Compensation\"), was approximately 81 times the annual total compensation of the median employee of $134,997. We identified the median employee as of December 31, 2022, using total wages and earnings paid during the rolling 12-month period ended December 31, 2022, as reflected in our internal payroll records (including, without limitation, base salary, wages plus overtime, and annual cash incentive payments, as applicable), for a"
+   }
+  },
+  "0000930413-24-001170": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/783325/000093041324001170/c107525_def14a-ixbrl.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000107815-24-000095",
+   "result": {
+    "ceoPay": 9552179,
+    "medianPay": 131029,
+    "payRatio": 73,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "creating an incentive for our NEOs to take excessive risks. In line with this objective, the Company's general pay practice for all management employees is to target the median pay for each individual's position at comparably sized companies. For 2023, the annual total compensation of Mr. Lauber of $9,552,179, as shown in the Summary Compensation Table above (\"CEO Compensation\"), was approximately 73 times the annual total compensation of the median employee of $131,029. We identified the median employee as of December 31, 2022, using total wages and earnings paid during the rolling 12-month period ended December 31, 2022, as reflected in our internal payroll records (including, without limitation, base salary, wages plus overtime, and annual cash incentive payments, as applicable), for al"
+   }
+  },
+  "0000930413-23-001083": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/783325/000093041323001083/c104991_def14a-ixbrl.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000107815-23-000100",
+   "result": {
+    "ceoPay": 8149461,
+    "medianPay": 119284,
+    "payRatio": 68,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "jective, the Company's general pay practice for all management employees is to target the median pay for each individual's position at comparably sized companies. For 2022, the annual total compensation of Mr. Lauber, our principal executive officer serving in that position on December 31, 2022, of $8,149,461, as shown in the Summary Compensation Table above (\"CEO Compensation\"), was approximately 68 times the annual total compensation of the median employee of $119,284. We identified the median employee as of December 31, 2022, using total wages and earnings paid during the rolling 12-month period ended December 31, 2022, as reflected in our internal payroll records (including, without limitation, base salary, wages plus overtime, and annual cash incentive payments, as applicable), for al"
+   }
+  },
+  "0000107815-22-000154": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781522000154/wec-2022proxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000107815-22-000116",
+   "result": {
+    "ceoPay": 18481871,
+    "medianPay": 122530,
+    "payRatio": 151,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ctive, the Company's general pay practice for all management employees is to target the median pay for each individual's position at comparably sized companies. For 2021, the annual total compensation of Mr. Fletcher, our principal executive officer serving in that position on December 31, 2021, of $18,481,871, as shown in the Summary Compensation Table above (\"CEO Compensation\"), was approximately 151 times the annual total compensation of the median employee of $122,530. Excluding the change in pension value, Mr. Fletcher's annual total compensation was approximately 64 times the annual total compensation of the median employee. Given the large change in pension value for Mr. Fletcher in 2021, the Company believes excluding the amount for the change in pension value is helpful additional"
+   }
+  },
+  "0000107815-21-000114": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781521000114/wec-2021proxystatement.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000107815-21-000079",
+   "result": {
+    "ceoPay": 18136171,
+    "medianPay": 138849,
+    "payRatio": 131,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ctive, the Company's general pay practice for all management employees is to target the median pay for each individual's position at comparably sized companies. For 2020, the annual total compensation of Mr. Fletcher, our principal executive officer serving in that position on December 31, 2020, of $18,136,171, as shown in the Summary Compensation Table above (\"CEO Compensation\"), was approximately 131 times the annual total compensation of the median employee of $138,849. Excluding the change in pension value, Mr. Fletcher's annual total compensation was approximately 65 times the annual total compensation of the median employee. Given the large change in pension value for Mr. Fletcher in 2020, the Company believes excluding the amount for the change in pension value is helpful additional"
+   }
+  },
+  "0000107815-20-000127": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781520000127/wec-2020proxystatement.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000107815-20-000089",
+   "result": {
+    "ceoPay": 9262101,
+    "medianPay": 127703,
+    "payRatio": 73,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ctive, the Company's general pay practice for all management employees is to target the median pay for each individual's position at comparably sized companies. For 2019, the annual total compensation of Mr. Fletcher, our principal executive officer serving in that position on December 31, 2019, of $9,262,101, as shown in the Summary Compensation Table above (\"CEO Compensation\"), was approximately 73 times the annual total compensation of the median employee of $127,703. We identified the median employee as of October 7, 2017, using total wages and earnings paid during the rolling 12-month period ended October 7, 2017, as reflected in our internal payroll records (including, without limitation, base salary, wages plus overtime, and annual cash incentive payments, as applicable), for all in"
+   }
+  },
+  "0000107815-19-000156": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781519000156/wec-2019proxystatement.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000107815-19-000128",
+   "result": {
+    "ceoPay": 9862993,
+    "medianPay": 107894,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "jective, the Company's general pay practice for all management employees is to target the median pay for each individual's position at comparably sized companies. For 2018, the annual total compensation of Mr. Klappa, our principal executive officer serving in that position on December 31, 2018, of $9,862,993, as shown in the Summary Compensation Table above (\"CEO Compensation\"), was approximately 91 times the annual total compensation of the median employee of $107,894. We identified the median employee as of October 7, 2017, using total wages and earnings paid during the rolling 12-month period ended October 7, 2017, as reflected in our internal payroll records (including, without limitation, base salary, wages plus overtime, and annual cash incentive payments, as applicable), for all in"
+   }
+  },
+  "0000107815-18-000155": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781518000155/wec-2018proxystatement.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000107815-18-000134",
+   "result": {
+    "ceoPay": 13642237,
+    "medianPay": 120223,
+    "payRatio": 113,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ompany's short-term and long-term goals without creating an incentive for our NEOs to take excessive risks. For 2017, the annual total compensation of Mr. Leverett, our principal executive officer serving in that position on October 7, 2017 (the date we selected to identify the median employee), of $13,642,237, as shown in the Summary Compensation Table above (\"CEO Compensation\"), was approximately 113 times the annual total compensation of a median employee of $120,223. We identified the median employee as of October 7, 2017, using total wages and earnings paid during the rolling 12-month period ended October 7, 2017, as reflected in our internal payroll records (including, without limitation, base salary, wages plus overtime, and annual cash incentive payments, as applicable), for all in"
+   }
+  }
+ },
+ "tenKs": {
+  "0000107815-18-000134": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000107815-19-000128": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000107815-20-000089": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000107815-21-000079": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000107815-22-000116": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000107815-23-000100": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000107815-24-000095": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000107815-25-000103": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000783325-26-000018": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2011": {
+    "revenue": 4486400000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-14-000041"
+   },
+   "2012": {
+    "revenue": 4246400000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-15-000040"
+   },
+   "2013": {
+    "revenue": 4519000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-16-000248"
+   },
+   "2014": {
+    "revenue": 4997100000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-17-000104"
+   },
+   "2015": {
+    "revenue": 5926100000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-18-000134"
+   },
+   "2016": {
+    "revenue": 7472300000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-19-000128"
+   },
+   "2017": {
+    "revenue": 7648500000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-20-000089"
+   },
+   "2018": {
+    "revenue": 7679500000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-21-000079"
+   },
+   "2019": {
+    "revenue": 7523100000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-22-000116"
+   },
+   "2020": {
+    "revenue": 7241700000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-23-000100"
+   },
+   "2021": {
+    "revenue": 8316000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-24-000095"
+   },
+   "2022": {
+    "revenue": 9597400000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107815-25-000103"
+   },
+   "2023": {
+    "revenue": 8893000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000783325-26-000018"
+   },
+   "2024": {
+    "revenue": 8599900000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000783325-26-000018"
+   },
+   "2025": {
+    "revenue": 9800100000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000783325-26-000018"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000783325-26-000018",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/783325/000078332526000018/wec-20251231.htm"
+   },
+   {
+    "accession": "0000107815-25-000103",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781525000103/wec-20241231.htm"
+   },
+   {
+    "accession": "0000107815-24-000095",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781524000095/wec-20231231.htm"
+   },
+   {
+    "accession": "0000107815-23-000100",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781523000100/wec-20221231.htm"
+   },
+   {
+    "accession": "0000107815-22-000116",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781522000116/wec-20211231.htm"
+   },
+   {
+    "accession": "0000107815-21-000079",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781521000079/wec-20201231.htm"
+   },
+   {
+    "accession": "0000107815-20-000089",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781520000089/a2019wec10k.htm"
+   },
+   {
+    "accession": "0000107815-19-000128",
+    "filingDate": "2019-02-26",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781519000128/a2018wec10k.htm"
+   },
+   {
+    "accession": "0000107815-18-000134",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781518000134/a2017wec10k.htm"
+   },
+   {
+    "accession": "0000107815-17-000104",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781517000104/wec1231201610-k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001193125-26-112643": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312526112643/wmb-20260317.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000107263-26-000006",
+   "result": {
+    "ceoPay": 8682793,
+    "medianPay": 143269,
+    "payRatio": 61,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "l cash compensation provides an accurate depiction of total earnings for the purpose of identifying our median employee. We then calculated the median employee's compensation in the same manner as the named executive officers in the Summary Compensation Table. Our median employee's compensation was $143,269. Our CEO's disclosed compensation amount was $8,682,793. Accordingly, our CEO Pay Ratio is 61:1. It is important to note that 90 percent of our CEO's target compensation is at risk. Additionally, 69 percent of the amount disclosed as the CEO's total compensation in the Summary Compensation Table is the grant date value of equity awards made during 2025. He has not earned any value from these awards to date. Also, more than $330,000 of the CEO's total compensation is due to a change in t"
+   }
+  },
+  "0001193125-25-057277": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312525057277/d891052ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000107263-25-000031",
+   "result": {
+    "ceoPay": 16323557,
+    "medianPay": 134239,
+    "payRatio": 122,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "l cash compensation provides an accurate depiction of total earnings for the purpose of identifying our median employee. We then calculated the median employee's compensation in the same manner as the named executive officers in the Summary Compensation Table. Our median employee's compensation was $134,239. Our CEO's disclosed compensation amount was $16,323,557. Accordingly, our CEO Pay Ratio is 122:1. It is important to note that 90 percent of our CEO's target compensation is at risk. Additionally, 64 percent of the amount disclosed as the CEO's total compensation in the Summary Compensation Table is the grant date value of equity awards made during 2024. He has not earned any value from these awards to date. Also, more than $1 million of the CEO's total compensation is due to a change"
+   }
+  },
+  "0001193125-24-072112": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312524072112/d538932ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000107263-24-000019",
+   "result": {
+    "ceoPay": 17548802,
+    "medianPay": 126008,
+    "payRatio": 139,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "l cash compensation provides an accurate depiction of total earnings for the purpose of identifying our median employee. We then calculated the median employee's compensation in the same manner as the named executive officers in the Summary Compensation Table. Our median employee's compensation was $126,008. Our CEO's disclosed compensation amount was $17,548,802. Accordingly, our CEO Pay Ratio is 139:1. It is important to note that 90 percent of our CEO's target compensation is at risk. Additionally, 57 percent of the amount disclosed as the CEO's total compensation in the Summary Compensation Table is the grant date value of equity awards made during 2023. He has not earned any value from these awards to date. Also, more than $3.4 million of the CEO's total compensation is due to a chang"
+   }
+  },
+  "0001193125-23-072012": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312523072012/d414387ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000107263-23-000007",
+   "result": {
+    "ceoPay": 13887596,
+    "medianPay": 129286,
+    "payRatio": 107,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "l cash compensation provides an accurate depiction of total earnings for the purpose of identifying our median employee. We then calculated the median employee's compensation in the same manner as the named executive officers in the Summary Compensation Table. Our median employee's compensation was $129,286. Our CEO's disclosed compensation amount was $13,887,596. Accordingly, our CEO Pay Ratio is 107:1. It is important to note that 89 percent of our CEO's compensation is at risk. Additionally, 67 percent of the amount disclosed as the CEO's total compensation in the Summary Compensation Table is the grant date value of equity awards made during 2022. He has not earned any value from these awards to date. | | | | | | | 86 | | | | | Table of Contents | | | | | | | | | | | Executive Compensa"
+   }
+  },
+  "0001193125-22-077800": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312522077800/d267503ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000107263-22-000007",
+   "result": {
+    "ceoPay": 13759533,
+    "medianPay": 167343,
+    "payRatio": 82,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "l cash compensation provides an accurate depiction of total earnings for the purpose of identifying our median employee. We then calculated the median employees compensation in the same manner as the named executive officers in the Summary Compensation Table. Our median employees compensation was $167,343. Our CEOs disclosed compensation amount was $13,759,533. Accordingly, our CEO Pay Ratio is 82:1. It is important to note that 89 percent of our CEOs compensation is at risk. Additionally, 65 percent of the amount disclosed as the CEOs total compensation in the Summary Compensation Table is the grant date value of equity awards made during 2021. He has not earned any value from these awards to date. Equity Compensation Stock Plans Securities Authorized for Issuance under Equity Compen"
+   }
+  },
+  "0001193125-21-085137": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312521085137/d131043ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000107263-21-000006",
+   "result": {
+    "ceoPay": 12171958,
+    "medianPay": 145112,
+    "payRatio": 84,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "l cash compensation provides an accurate depiction of total earnings for the purpose of identifying our median employee. We then calculated the median employees compensation in the same manner as the named executive officers in the Summary Compensation Table. Our median employees compensation was $145,112. Our CEOs disclosed compensation amount was $12,171,958. Accordingly, our CEO Pay Ratio is 84:1. It is important to note that 88 percent of our CEOs compensation is at risk. Additionally, 62 percent of the amount disclosed as the CEOs total compensation in the Summary Compensation Table is the grant date value of equity awards made during 2020. He has not earned any value from these awards to date. | | | | | | | | | | | 61 | Table of Contents COMPENSATION OF DIRECTORS Only non-employ"
+   }
+  },
+  "0001193125-20-078313": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312520078313/d821961ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000107263-20-000005",
+   "result": {
+    "ceoPay": 15590338,
+    "medianPay": 177403,
+    "payRatio": 88,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "l cash compensation provides an accurate depiction of total earnings for the purpose of identifying our median employee. We then calculated the median employees compensation in the same manner as the named executive officers in the Summary Compensation Table. Our median employees compensation was $177,403. Our CEOs disclosed compensation amount was $15,590,338. Accordingly, our CEO Pay Ratio is 88:1. The increase in the median employees stated compensation from 2018 to 2019 was primarily due to an increase in the Change in Pension Value and Nonqualified Deferred Compensation Earnings item included in the Summary Compensation Table. The change in the actuarial present value of the median employees pension benefit increased $46,894 primarily due to lower discount rates used at the end o"
+   }
+  },
+  "0001193125-19-089163": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312519089163/d659299ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000107263-19-000007",
+   "result": {
+    "ceoPay": 10691376,
+    "medianPay": 122742,
+    "payRatio": 87,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "l cash compensation provides an accurate depiction of total earnings for the purpose of identifying our median employee. We then calculated the median employees compensation in the same manner as the named executive officers in the Summary Compensation Table. Our median employees compensation was $122,742. Our CEOs disclosed compensation amount was $10,691,376. Accordingly, our CEO Pay Ratio is 87:1. It is important to note that 86 percent of our CEOs compensation is at risk. Additionally, 70 percent of the amount disclosed as the CEOs total compensation in the Summary Compensation Table is the grant date value of equity awards made during 2018. He has not earned any value from these awards to date. The Williams Companies, Inc.  2019 Proxy Statement 68 Table of Contents | | | | | | |"
+   }
+  },
+  "0001193125-18-113608": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/107263/000119312518113608/d554235ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000107263-18-000006",
+   "result": {
+    "ceoPay": 10620236,
+    "medianPay": 124648,
+    "payRatio": 85,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "l cash compensation provides an accurate depiction of total earnings for the purpose of identifying our median employee. We then calculated the median employees compensation in the same manner as the named executive officers in the Summary Compensation Table. Our median employees compensation was $124,648. Our CEOs disclosed compensation amount was $10,620,236. Accordingly, our CEO Pay Ratio is 85:1. It is important to note that 86 percent of our CEOs compensation is at risk. Additionally, 64 percent of the amount disclosed as the CEOs total compensation in the Summary Compensation Table is the grant date value of equity awards made during 2017. He has not earned any value from these awards to date. The Williams Companies, Inc.  2018 Proxy Statement 65 Table of Contents | | | | | | |"
+   }
+  }
+ },
+ "tenKs": {
+  "0000107263-18-000006": {
+   "parserVersion": 1,
+   "employees": 5425
+  },
+  "0000107263-19-000007": {
+   "parserVersion": 1,
+   "employees": 5322
+  },
+  "0000107263-20-000005": {
+   "parserVersion": 1,
+   "employees": 4812
+  },
+  "0000107263-21-000006": {
+   "parserVersion": 1,
+   "employees": 4739
+  },
+  "0000107263-22-000007": {
+   "parserVersion": 1,
+   "employees": 4783
+  },
+  "0000107263-23-000007": {
+   "parserVersion": 1,
+   "employees": 5043
+  },
+  "0000107263-24-000019": {
+   "parserVersion": 1,
+   "employees": 5601
+  },
+  "0000107263-25-000031": {
+   "parserVersion": 1,
+   "employees": 5829
+  },
+  "0000107263-26-000006": {
+   "parserVersion": 1,
+   "employees": 5987
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 10239000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-10-017267"
+   },
+   "2008": {
+    "revenue": 11890000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-018126"
+   },
+   "2009": {
+    "revenue": 5278000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-200819"
+   },
+   "2010": {
+    "revenue": 6638000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-080025"
+   },
+   "2011": {
+    "revenue": 7930000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107263-14-000003"
+   },
+   "2012": {
+    "revenue": 7486000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107263-15-000003"
+   },
+   "2013": {
+    "revenue": 6860000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107263-16-000021"
+   },
+   "2014": {
+    "revenue": 7637000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107263-17-000003"
+   },
+   "2015": {
+    "revenue": 7360000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107263-18-000006"
+   },
+   "2016": {
+    "revenue": 7499000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107263-19-000007"
+   },
+   "2017": {
+    "revenue": 8031000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107263-20-000005"
+   },
+   "2018": {
+    "revenue": 8686000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107263-21-000006"
+   },
+   "2019": {
+    "revenue": 8201000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107263-22-000007"
+   },
+   "2020": {
+    "revenue": 7719000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000107263-23-000007"
+   },
+   "2021": {
+    "revenue": 12784000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000107263-24-000019"
+   },
+   "2022": {
+    "revenue": 17773000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000107263-25-000031"
+   },
+   "2023": {
+    "revenue": 11996000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000107263-26-000006"
+   },
+   "2024": {
+    "revenue": 12632000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000107263-26-000006"
+   },
+   "2025": {
+    "revenue": 14899000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000107263-26-000006"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000107263-26-000006",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726326000006/wmb-20251231.htm"
+   },
+   {
+    "accession": "0000107263-25-000031",
+    "filingDate": "2025-02-25",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726325000031/wmb-20241231.htm"
+   },
+   {
+    "accession": "0000107263-24-000019",
+    "filingDate": "2024-02-21",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726324000019/wmb-20231231.htm"
+   },
+   {
+    "accession": "0000107263-23-000007",
+    "filingDate": "2023-02-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726323000007/wmb-20221231.htm"
+   },
+   {
+    "accession": "0000107263-22-000007",
+    "filingDate": "2022-02-28",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726322000007/wmb-20211231.htm"
+   },
+   {
+    "accession": "0000107263-21-000006",
+    "filingDate": "2021-02-24",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726321000006/wmb-20201231.htm"
+   },
+   {
+    "accession": "0000107263-20-000005",
+    "filingDate": "2020-02-24",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726320000005/wmb2019123110k.htm"
+   },
+   {
+    "accession": "0000107263-19-000007",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726319000007/wmb_20181231x10k.htm"
+   },
+   {
+    "accession": "0000107263-18-000006",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726318000006/wmb_20171231x10k.htm"
+   },
+   {
+    "accession": "0000107263-17-000003",
+    "filingDate": "2017-02-22",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/107263/000010726317000003/wmb_20161231x10k.htm"
+   }
+  ]
+ }
+}

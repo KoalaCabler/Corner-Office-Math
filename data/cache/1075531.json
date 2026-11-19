@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001308179-26-000310": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817926000310/bkng-20260420.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001075531-26-000009",
+   "result": {
+    "ceoPay": 35418102,
+    "medianPay": 101004,
+    "payRatio": 351,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "nnualized compensation for those employees who worked for the Company for only part of the ﬁscal year, did not make any cost‑of‑living adjustments, and excluded the value of equity awards because we do not distribute equity awards to all employees. Mr. Fogel's annual total compensation for 2025 was $35,418,102. Calculated in the same manner, the total compensation of our median employee in 2025 was $101,004, and the ratio of these two amounts is 351 to 1. Our pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. The pay ratio reported by other companies may not be comparable to ours because SEC rules for identifying the median employee and calculating the pay ratio allow companies to use different methodologies, apply certain exclusions, and make reasonable e"
+   }
+  },
+  "0001308179-25-000476": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817925000476/bkng013642-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001075531-25-000010",
+   "result": {
+    "ceoPay": 44837665,
+    "medianPay": 96228,
+    "payRatio": 466,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "nualized compensation for those employees who worked for the Company for only part of the fiscal year, did not make any cost-of-living adjustments, and excluded the value of equity awards because we do not distribute equity awards to all employees. Mr. Fogel's annual total compensation for 2024 was $44,837,665. Calculated in the same manner, the total compensation of our median employee in 2024 was $96,228, and the ratio of these two amounts is 466 to 1. Our pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. The pay ratio reported by other companies may not be comparable to ours because SEC rules for identifying the median employee and calculating the pay ratio allow companies to use different methodologies, apply certain exclusions, and make reasonable es"
+   }
+  },
+  "0001308179-24-000549": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817924000549/lbkng2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001075531-24-000014",
+   "result": {
+    "ceoPay": 46720734,
+    "medianPay": 92967,
+    "payRatio": 503,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "s who worked for the Company for only part of the fiscal year, did not make any cost-of-living adjustments, and excluded the value of equity awards because we do not distribute equity awards to all employees. As reported in the Summary Compensation Table, Mr. Fogel's total compensation for 2023 was $46,720,734. Calculated in the same manner as Mr. Fogel's total compensation, the total compensation of our median employee in 2023 was $92,967. The ratio of Mr. Fogel's total 2023 compensation to that of our median employee is 503 to 1. Our pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. The pay ratio reported by other companies may not be comparable to ours because SEC rules for identifying the median employee and calculating the pay ratio allow companies t"
+   }
+  },
+  "0001308179-23-000754": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817923000754/lbkng2023_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001075531-23-000016",
+   "result": {
+    "ceoPay": 30774922,
+    "medianPay": 76175,
+    "payRatio": 404,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "s who worked for the Company for only part of the fiscal year, did not make any cost-of-living adjustments, and excluded the value of equity awards because we do not distribute equity awards to all employees. As reported in the Summary Compensation Table, Mr. Fogel's total compensation for 2022 was $30,774,922. Calculated in the same manner as Mr. Fogel's total compensation, the total compensation of our median employee in 2022 was $76,175. The ratio of Mr. Fogel's total 2022 compensation to that of our median employee is 404 to 1. Our pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. The pay ratio reported by other companies may not be comparable to ours because SEC rules for identifying the median employee and calculating the pay ratio allow companies t"
+   }
+  },
+  "0001308179-22-000271": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817922000271/lbkng2022_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001075531-22-000008",
+   "result": {
+    "ceoPay": 53982195,
+    "medianPay": 58005,
+    "payRatio": 931,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "rked for the Company for only part of the fiscal year, did not make any cost-of-living adjustments, and excluded the value of equity awards because we do not distribute annual equity awards to all employees. As reported in the Summary Compensation Table , Mr. Fogel's total compensation for 2021 was $53,982,195. Calculated in the same manner as Mr. Fogel's total compensation, the total compensation of our median employee in 2021 was $58,005. The ratio of Mr. Fogel's total 2021 compensation to that of our median employee is 931 to 1. The average of our CEO pay ratios in 2019, 2020, and 2021 is 450 to 1. The 2021 CEO pay ratio appears higher than prior years primarily because we are required to include the accounting expense associated with the adjustments to the 2018 and 2019 PSUs in Mr. Fog"
+   }
+  },
+  "0001308179-21-000239": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817921000239/lbkng2021_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001075531-21-000019",
+   "result": {
+    "ceoPay": 7148598,
+    "medianPay": 56834,
+    "payRatio": 126,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "or the Company for only part of the fiscal year. We did not make any cost-of-living adjustments, and we excluded the value of equity awards because we do not distribute annual equity awards to all employees. As reported in the Summary Compensation Table , Mr. Fogel's total compensation for 2020 was $7,148,598. Calculated in the same manner as Mr. Fogel's total compensation, the total compensation of our median employee in 2020 was $56,834. The ratio of Mr. Fogel's total 2020 compensation to the total 2020 compensation of our median employee is 126 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. The pay ratio reported by other companies may not be comparable to our pay ratio reported above, because SEC rules for identifying the median employee"
+   }
+  },
+  "0001308179-20-000206": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817920000206/lbkng2020_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001075531-20-000011",
+   "result": {
+    "ceoPay": 14768526,
+    "medianPay": 50418,
+    "payRatio": 293,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "work for the Company for the entire fiscal year. We did not make any cost-of-living adjustments, and we excluded the value of equity awards because we do not distribute annual equity awards to all employees. As reported in the Summary Compensation Table, Mr. Fogel's total compensation for 2019 was $14,768,526. Calculated in the same manner as Mr. Fogel's total compensation, the total compensation of our median employee in 2019 was $50,418. The ratio of Mr. Fogel's total 2019 compensation to the total 2019 compensation of our median employee is 293 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. The pay ratio reported by other companies may not be comparable to our pay ratio reported above, because SEC rules for identifying the median employe"
+   }
+  },
+  "0001308179-19-000158": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817919000158/lbkng2019_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001075531-19-000009",
+   "result": {
+    "ceoPay": 20459184,
+    "medianPay": 50937,
+    "payRatio": 402,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "work for the Company for the entire fiscal year. We did not make any cost-of-living adjustments, and we excluded the value of equity awards because we do not distribute annual equity awards to all employees. As reported in the Summary Compensation Table, Mr. Fogel's total compensation for 2018 was $20,459,184. The total compensation of our median employee in 2018 was $50,937. The ratio of Mr. Fogel's total 2018 compensation to the total 2018 compensation of our median employee is 402 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. The pay ratio reported by other companies may not be comparable to our pay ratio reported above, because SEC rules for identifying the median employee and calculating the pay ratio allow companies to use different"
+   }
+  },
+  "0001308179-18-000213": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817918000213/lbkng2018_def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001075531-18-000015",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 46355,
+    "payRatio": 599,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "work for the Company for the entire fiscal year. We did not make any cost-of-living adjustments, and we excluded the value of equity awards because we do not distribute annual equity awards to all employees. Based on the methodology described above, the total compensation of our median employee was $46,355 and the ratio of Mr. Fogel's total 2017 compensation to the total 2017 compensation of our median employee is 599 to 1. Mr. Fogel's total 2017 compensation includes a one-time promotion RSU award of $7 million in connection with his becoming our Chief Executive Officer on January 1, 2017. This award is intended to be a one-time grant to provide a retention incentive during Mr. Fogel's first years of employment as our Chief Executive Officer, to balance the uncertainty associated with his"
+   }
+  }
+ },
+ "tenKs": {
+  "0001075531-18-000015": {
+   "parserVersion": 1,
+   "employees": 22900
+  },
+  "0001075531-19-000009": {
+   "parserVersion": 1,
+   "employees": 24500
+  },
+  "0001075531-20-000011": {
+   "parserVersion": 1,
+   "employees": 26400
+  },
+  "0001075531-21-000019": {
+   "parserVersion": 1,
+   "employees": 20300
+  },
+  "0001075531-22-000008": {
+   "parserVersion": 1,
+   "employees": 20300
+  },
+  "0001075531-23-000016": {
+   "parserVersion": 1,
+   "employees": 21600
+  },
+  "0001075531-24-000014": {
+   "parserVersion": 1,
+   "employees": 23600
+  },
+  "0001075531-25-000010": {
+   "parserVersion": 1,
+   "employees": 24300
+  },
+  "0001075531-26-000009": {
+   "parserVersion": 1,
+   "employees": 24300
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 1884806000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-11-010302"
+   },
+   "2009": {
+    "revenue": 2338212000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001075531-12-000005"
+   },
+   "2010": {
+    "revenue": 3084905000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001075531-13-000011"
+   },
+   "2011": {
+    "revenue": 4355610000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001075531-14-000007"
+   },
+   "2012": {
+    "revenue": 5260956000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001075531-15-000007"
+   },
+   "2013": {
+    "revenue": 6793306000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001075531-16-000084"
+   },
+   "2014": {
+    "revenue": 8441971000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001075531-17-000009"
+   },
+   "2015": {
+    "revenue": 9223987000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001075531-18-000015"
+   },
+   "2016": {
+    "revenue": 10743006000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001075531-18-000015"
+   },
+   "2017": {
+    "revenue": 12681082000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001075531-18-000015"
+   },
+   "2018": {
+    "revenue": 14527000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001075531-21-000019"
+   },
+   "2019": {
+    "revenue": 15066000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001075531-22-000008"
+   },
+   "2020": {
+    "revenue": 6796000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001075531-23-000016"
+   },
+   "2021": {
+    "revenue": 10958000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001075531-24-000014"
+   },
+   "2022": {
+    "revenue": 17090000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001075531-25-000010"
+   },
+   "2023": {
+    "revenue": 21365000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001075531-26-000009"
+   },
+   "2024": {
+    "revenue": 23739000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001075531-26-000009"
+   },
+   "2025": {
+    "revenue": 26917000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001075531-26-000009"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 55077473,
+   "2022": 31519648,
+   "2023": 46717519,
+   "2024": 44837665,
+   "2025": 35418102
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001075531-26-000009",
+    "filingDate": "2026-02-18",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/bkng-20251231.htm"
+   },
+   {
+    "accession": "0001075531-25-000010",
+    "filingDate": "2025-02-20",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000010/bkng-20241231.htm"
+   },
+   {
+    "accession": "0001075531-24-000014",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000014/bkng-20231231.htm"
+   },
+   {
+    "accession": "0001075531-23-000016",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553123000016/bkng-20221231.htm"
+   },
+   {
+    "accession": "0001075531-22-000008",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553122000008/bkng-20211231.htm"
+   },
+   {
+    "accession": "0001075531-21-000019",
+    "filingDate": "2021-02-24",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553121000019/bkng-20201231.htm"
+   },
+   {
+    "accession": "0001075531-20-000011",
+    "filingDate": "2020-02-26",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553120000011/bkng1231201910k.htm"
+   },
+   {
+    "accession": "0001075531-19-000009",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553119000009/bkng1231201810k.htm"
+   },
+   {
+    "accession": "0001075531-18-000015",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553118000015/pcln-20171231_10k.htm"
+   },
+   {
+    "accession": "0001075531-17-000009",
+    "filingDate": "2017-02-27",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000107553117000009/pcln-20161231_10k.htm"
+   }
+  ]
+ }
+}

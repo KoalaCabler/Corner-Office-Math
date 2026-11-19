@@ -1,0 +1,348 @@
+{
+ "proxies": {
+  "0001193125-26-073504": {
+   "parserVersion": 1,
+   "filingDate": "2026-02-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/920760/000119312526073504/d940888ddef14a.htm",
+   "periodEnd": "2025-11-30",
+   "tenK": "0001628280-26-003870",
+   "result": {
+    "ceoPay": 29527931,
+    "medianPay": 103701,
+    "payRatio": 284,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "year. Using this methodology, we determined that the associate who received the median total compensation (excluding our Executive Chairman and Chief Executive Officer and our Former Co-Chief Executive Officer and President) was a Construction Manager. That associate received total compensation of $103,701 for the year ended November 30, 2025, calculated in accordance with the requirements of Item 402(c)(2) (x) of SEC Regulation S-K, which includes base pay, cash bonus and Lennar's matching contribution to the associate's 401(k) plan. This calculation is the same calculation used to determine total compensation for purposes of the 2025 Summary Compensation Table with respect to each of the named executive officers. Mr. Miller's annual total compensation as reported in the 2025 Summary Com"
+   }
+  },
+  "0001193125-25-040938": {
+   "parserVersion": 1,
+   "filingDate": "2025-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/920760/000119312525040938/d900040ddef14a.htm",
+   "periodEnd": "2024-11-30",
+   "tenK": "0001628280-25-002404",
+   "result": {
+    "ceoPay": 29546675,
+    "medianPay": 96548,
+    "payRatio": 306,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "scal year. Using this methodology, we determined that the associate who received the median total compensation (excluding our Executive Chairman and Co-Chief Executive Officer and our Co-Chief Executive Officer and President) was a Construction Manager. That associate received total compensation of $96,548 for the year ended November 30, 2024, calculated in accordance with the requirements of Item 402(c)(2) (x) of SEC Regulation S-K, which includes base pay, cash bonus, and Lennar's matching contribution to the associate's 401(k) plan. This calculation is the same calculation used to determine total compensation for purposes of the 2024 Summary Compensation Table with respect to each of the named executive officers. Mr. Miller's annual total compensation as reported in the 2024 Summary Com"
+   }
+  },
+  "0001193125-24-051712": {
+   "parserVersion": 1,
+   "filingDate": "2024-02-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/920760/000119312524051712/d511799ddef14a.htm",
+   "periodEnd": "2023-11-30",
+   "tenK": "0001628280-24-002371",
+   "result": {
+    "ceoPay": 34284913,
+    "medianPay": 109229,
+    "payRatio": 314,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ar. Using this methodology, we determined that the associate who received the median total compensation (excluding our Executive Chairman and Co-Chief Executive Officer and our Co-Chief Executive Officer and President) was an Internet Sales Coordinator. That associate received total compensation of $109,229 for the year ended November 30, 2023, calculated in accordance with the requirements of Item 402(c)(2)(x) of SEC Regulation S-K, which includes base pay, cash bonus, and Lennar's matching contribution to the associate's 401(k) plan. This calculation is the same calculation used to determine total compensation for purposes of the 2023 Summary Compensation Table with respect to each of the named executive officers. Mr. Miller's annual total compensation as reported in the 2023 Summary Com"
+   }
+  },
+  "0001193125-23-055066": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/920760/000119312523055066/d378085ddef14a.htm",
+   "periodEnd": "2022-11-30",
+   "tenK": "0001628280-23-001606",
+   "result": {
+    "ceoPay": 30447048,
+    "medianPay": 104556,
+    "payRatio": 291,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "e wages of permanent full or part-time associates who started after the beginning of the fiscal year. Using this methodology, we determined that the associate who received the median total compensation (excluding our Co-CEOs) was a Construction Manager. That associate received total compensation of $ 104,556 for the year ended November 30, 2022, calculated in accordance with the requirements of Item 402(c)(2)(x) of SEC Regulation S-K, which includes base pay, cash bonus, and Lennars matching contribution to the associates 401(k) plan. This calculation is the same calculation used to determine total compensation for purposes of the 2022 Summary Compensation Table with respect to each of the named executive officers. Mr. Beckwitts annual total compensation as reported in the 2022 Summary"
+   }
+  },
+  "0001193125-22-059659": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/920760/000119312522059659/d188597ddef14a.htm",
+   "periodEnd": "2021-11-30",
+   "tenK": "0001628280-22-001450",
+   "result": {
+    "ceoPay": 34045217,
+    "medianPay": 101561,
+    "payRatio": 335,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "permanent full or part-time associates who started after the beginning of the fiscal year. Using this methodology, we determined that the associate who received the median total compensation (excluding our Co-CEOs) was a Homeowners Association Manager. That associate received total compensation of $101,561 for the year ended November 30, 2021, calculated in accordance with the requirements of Item 402(c)(2)(x) of SEC Regulation S-K, which includes base pay, cash bonus, and Lennars matching contribution to the associates 401(k) plan. This calculation is the same calculation used to determine total compensation for purposes of the 2021 Summary Compensation Table with respect to each of the named executive officers. Mr. Beckwitts annual total compensation as reported in the 2021 Summary C"
+   }
+  },
+  "0001193125-21-055634": {
+   "parserVersion": 1,
+   "filingDate": "2021-02-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/920760/000119312521055634/d112020ddef14a.htm",
+   "periodEnd": "2020-11-30",
+   "tenK": "0001628280-21-000722",
+   "result": {
+    "ceoPay": 21983118,
+    "medianPay": 114665,
+    "payRatio": 192,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "of permanent full or part-time associates who started after the beginning of the fiscal year. Using this methodology, we determined that the associate who received the median total compensation (excluding our Co-CEOs) was an Architectural Plans Manager. That associate received total compensation of $114,665 for the year ended November 30, 2020, calculated in accordance with the requirements of Item 402(c)(2)(x) of SEC Regulation S-K, which includes base pay, cash bonus, and Lennars matching contribution to the associates 401(k) plan. This calculation is the same calculation used to determine total compensation for purposes of the 2020 Summary Compensation Table with respect to each of the named executive officers. Mr. Beckwitts annual total compensation as reported in the 2020 Summary C"
+   }
+  },
+  "0001193125-20-049029": {
+   "parserVersion": 1,
+   "filingDate": "2020-02-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/920760/000119312520049029/d861693ddef14a.htm",
+   "periodEnd": "2019-11-30",
+   "tenK": "0001628280-20-000559",
+   "result": {
+    "ceoPay": 18279581,
+    "medianPay": 102830,
+    "payRatio": 178,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "wages of permanent full or part-time associates who started after the beginning of the fiscal year. Using this methodology, we determined that the associate who received the median total compensation (excluding our CEO) was a Customer Care Area Manager. That associate received total compensation of $102,830 for the year ended November 30, 2019, calculated in accordance with the requirements of Item 402(c)(2)(x) of SEC Regulation S-K, which includes base pay, cash bonus, and Lennars matching contribution to the associates 401(k) plan. This calculation is the same calculation used to determine total compensation for purposes of the 2019 Summary Compensation Table with respect to each of the named executive officers. Mr. Beckwitts annual total compensation as reported in the 2019 Summary C"
+   }
+  },
+  "0001193125-19-055465": {
+   "parserVersion": 1,
+   "filingDate": "2019-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/920760/000119312519055465/d692225ddef14a.htm",
+   "periodEnd": "2018-11-30",
+   "tenK": "0001628280-19-000598",
+   "result": {
+    "ceoPay": 17583466,
+    "medianPay": 88244,
+    "payRatio": 199,
+    "method": "cross-checked",
+    "employees": 11600,
+    "statedYear": 2018,
+    "excerpt": "ll-time, part-time, or temporary basis as of November 30, 2018. | | | |  | | | | Using this methodology, we determined that the employee who received the median total compensation (excluding our CEO) was an exempt, full-time employee located in the U.S. That employee received total compensation of $88,244 for the year ended November 30, 2018, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes base pay, cash bonus and the Companys matching contribution to that employees 401(k) plan. This calculation is the same calculation used to determine total compensation for purposes of the 2018 Summary Compensation Table with respect to each of the named executive officers. The median employee is a customer relations manager. | Mr. Beckwitt was ser"
+   }
+  },
+  "0001193125-18-062032": {
+   "parserVersion": 1,
+   "filingDate": "2018-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/920760/000119312518062032/d505709ddef14a.htm",
+   "periodEnd": "2017-11-30",
+   "tenK": "0001628280-18-000562",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001628280-20-000559": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001628280-21-000722": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001628280-22-001450": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001628280-23-001606": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001628280-24-002371": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001628280-25-002404": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001628280-26-003870": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 4575417000,
+    "periodEnd": "2008-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-018957"
+   },
+   "2009": {
+    "revenue": 3119387000,
+    "periodEnd": "2009-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-029792"
+   },
+   "2010": {
+    "revenue": 3074022000,
+    "periodEnd": "2010-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001445305-13-001782"
+   },
+   "2011": {
+    "revenue": 3095385000,
+    "periodEnd": "2011-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001445305-14-000129"
+   },
+   "2012": {
+    "revenue": 4105132000,
+    "periodEnd": "2012-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-15-000218"
+   },
+   "2013": {
+    "revenue": 5935095000,
+    "periodEnd": "2013-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-16-010323"
+   },
+   "2014": {
+    "revenue": 7779812000,
+    "periodEnd": "2014-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-17-000327"
+   },
+   "2015": {
+    "revenue": 9474008000,
+    "periodEnd": "2015-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-18-000562"
+   },
+   "2016": {
+    "revenue": 10949999000,
+    "periodEnd": "2016-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-19-000598"
+   },
+   "2017": {
+    "revenue": 12646365000,
+    "periodEnd": "2017-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-20-000559"
+   },
+   "2018": {
+    "revenue": 20571631000,
+    "periodEnd": "2018-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-21-000722"
+   },
+   "2019": {
+    "revenue": 22259561000,
+    "periodEnd": "2019-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-22-001450"
+   },
+   "2020": {
+    "revenue": 22488854000,
+    "periodEnd": "2020-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-22-001450"
+   },
+   "2021": {
+    "revenue": 27130676000,
+    "periodEnd": "2021-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-24-002371"
+   },
+   "2022": {
+    "revenue": 33671010000,
+    "periodEnd": "2022-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-25-002404"
+   },
+   "2023": {
+    "revenue": 34233366000,
+    "periodEnd": "2023-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-003870"
+   },
+   "2024": {
+    "revenue": 35441452000,
+    "periodEnd": "2024-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-003870"
+   },
+   "2025": {
+    "revenue": 34186934000,
+    "periodEnd": "2025-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-003870"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-003870",
+    "filingDate": "2026-01-28",
+    "reportDate": "2025-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828026003870/len-20251130.htm"
+   },
+   {
+    "accession": "0001628280-25-002404",
+    "filingDate": "2025-01-23",
+    "reportDate": "2024-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828025002404/len-20241130.htm"
+   },
+   {
+    "accession": "0001628280-24-002371",
+    "filingDate": "2024-01-26",
+    "reportDate": "2023-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828024002371/len-20231130.htm"
+   },
+   {
+    "accession": "0001628280-23-001606",
+    "filingDate": "2023-01-26",
+    "reportDate": "2022-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828023001606/len-20221130.htm"
+   },
+   {
+    "accession": "0001628280-22-001450",
+    "filingDate": "2022-01-28",
+    "reportDate": "2021-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828022001450/len-20211130.htm"
+   },
+   {
+    "accession": "0001628280-21-000722",
+    "filingDate": "2021-01-22",
+    "reportDate": "2020-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828021000722/len-20201130.htm"
+   },
+   {
+    "accession": "0001628280-20-000559",
+    "filingDate": "2020-01-27",
+    "reportDate": "2019-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828020000559/len-20191130x10k.htm"
+   },
+   {
+    "accession": "0001628280-19-000598",
+    "filingDate": "2019-01-28",
+    "reportDate": "2018-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828019000598/len-20181130x10k.htm"
+   },
+   {
+    "accession": "0001628280-18-000562",
+    "filingDate": "2018-01-25",
+    "reportDate": "2017-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828018000562/len-20171130x10k.htm"
+   },
+   {
+    "accession": "0001628280-17-000327",
+    "filingDate": "2017-01-20",
+    "reportDate": "2016-11-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/920760/000162828017000327/len-20161130x10k.htm"
+   }
+  ]
+ }
+}

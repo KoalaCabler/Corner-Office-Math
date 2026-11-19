@@ -1,0 +1,224 @@
+{
+ "proxies": {
+  "0001744489-26-000013": {
+   "parserVersion": 1,
+   "filingDate": "2026-01-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000013/dis-20260122.htm",
+   "periodEnd": "2025-09-27",
+   "tenK": "0001744489-25-000155",
+   "result": {
+    "ceoPay": 45851157,
+    "medianPay": 56932,
+    "payRatio": 805,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ve compensation features (e.g., abnormal amounts of overtime, special premium pay or commissions/tips, etc.). The median Disney employee works in a full-time hourly role in parks and has been with the Company for over eight years. For fiscal 2025, the median employee's total annual compensation was $56,932. Mr. Iger was Chief Executive Officer on September 26, 2025. Mr. Iger's total annual compensation, including the Company's contribution to health insurance premiums (which are not included in the Fiscal 2025 Summary Compensation Table in this proxy statement), was $45,851,157. The ratio of these amounts was 805:1. | | | | | | | 76 | | The Walt Disney Company | Notice of 2026 Annual Meeting and Proxy Statement | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Proxy Summary | | Cor"
+   }
+  },
+  "0001744489-25-000059": {
+   "parserVersion": 1,
+   "filingDate": "2025-01-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448925000059/dis-20250123.htm",
+   "periodEnd": "2024-09-28",
+   "tenK": "0001744489-24-000276",
+   "result": {
+    "ceoPay": 41122670,
+    "medianPay": 55111,
+    "payRatio": 746,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ve compensation features (e.g., abnormal amounts of overtime, special premium pay or commissions/tips, etc.). The median Disney employee works in a full-time hourly role in parks and has been with the Company for over seven years. For fiscal 2024, the median employee's total annual compensation was $55,111. Mr. Iger was Chief Executive Officer on September 27, 2024. Mr. Iger's total annual compensation, including the Company's contribution to health insurance premiums (which are not included in the Fiscal 2024 Summary Compensation Table in this proxy statement), was $41,122,670. The ratio of these amounts was 746:1. | | | | | | | 74 | | The Walt Disney Company | Notice of 2025 Annual Meeting and Proxy Statement | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Proxy Summary | | Cor"
+   }
+  },
+  "0001193125-22-012592": {
+   "parserVersion": 1,
+   "filingDate": "2022-01-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1744489/000119312522012592/d249883ddef14a.htm",
+   "periodEnd": "2021-10-02",
+   "tenK": "0001744489-21-000220",
+   "result": {
+    "ceoPay": 32484148,
+    "medianPay": 50430,
+    "payRatio": 644,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "tive compensation features (e.g., abnormal amounts of overtime, special premium pay or commissions/tips, etc.). The median Disney employee works in a full-time hourly role in parks and has been with the Company for over ten years. For fiscal 2021, the median employees total annual compensation was $50,430. Mr. Chapeks total annual compensation, including the Companys contribution to health insurance premiums (which are not included in the Fiscal 2021 Summary Compensation Table in this proxy statement), was $32,484,148. The ratio of these amounts was 644:1. Other Compensation Information Risk Management Considerations The Compensation Committee believes that the following features of performance-based bonus and equity programs appropriately incentivize the creation of long-term sharehold"
+   }
+  },
+  "0001193125-21-011571": {
+   "parserVersion": 1,
+   "filingDate": "2021-01-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1744489/000119312521011571/d52842ddef14a.htm",
+   "periodEnd": "2020-10-03",
+   "tenK": "0001744489-20-000197",
+   "result": {
+    "ceoPay": 14958493,
+    "medianPay": 51073,
+    "payRatio": 293,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "tion, we annualized the pay for part- and full-time employees who were furloughed for any part of fiscal 2020. The median Disney employee works in a full-time hourly role in Parks and has been with the Company for over nine years. For fiscal 2020, the median employees total annual compensation was $51,073. Mr. Chapeks total annual compensation, including the Companys contribution to health insurance premiums (which are not included in the Summary Compensation Table in this proxy statement), was $14,958,493. Since Mr. Chapek became CEO beginning February 24, 2020, we have annualized his salary and other compensation and included reported values for equity grants and change in pension value, as they are reflective of annual compensation. The ratio of these amounts was 293:1. THE WALT DISN"
+   }
+  },
+  "0001047469-20-000304": {
+   "parserVersion": 1,
+   "filingDate": "2020-01-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1744489/000104746920000304/a2240291zdef14a.htm",
+   "periodEnd": "2019-09-28",
+   "tenK": "0001744489-19-000225",
+   "result": {
+    "ceoPay": 47525560,
+    "medianPay": 52184,
+    "payRatio": 911,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "nsation features (e.g., abnormal amounts of overtime, special premium pay or commissions/tips, etc.). The median Disney employee works in a full-time hourly role in Parks and has been with the Company for over five years. For fiscal 2019, the median employee's total annual compensation increased to $52,184, largely due to the broad-based salary increase the Company provided in fiscal 2019. Mr. Iger's total annual compensation, including the Company's contribution to health insurance premiums (which is not included in the Summary Compensation Table in this proxy statement), was $47,525,560, and the ratio of these amounts was 911:1. | 54 | | | | | Table of Contents | | | | | Audit-Related Matters | Audit Committee Report The charter of the Audit Committee of the Board specifies that the purp"
+   }
+  }
+ },
+ "tenKs": {
+  "0001744489-19-000225": {
+   "parserVersion": 1,
+   "employees": 223000
+  },
+  "0001744489-20-000197": {
+   "parserVersion": 1,
+   "employees": 203000
+  },
+  "0001744489-21-000220": {
+   "parserVersion": 1,
+   "employees": 190000
+  },
+  "0001744489-24-000276": {
+   "parserVersion": 1,
+   "employees": 233000
+  },
+  "0001744489-25-000155": {
+   "parserVersion": 1,
+   "employees": 231000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2017": {
+    "revenue": 55137000000,
+    "periodEnd": "2017-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001744489-19-000225"
+   },
+   "2018": {
+    "revenue": 59434000000,
+    "periodEnd": "2018-09-29",
+    "revenueTag": "Revenues",
+    "accession": "0001744489-20-000197"
+   },
+   "2019": {
+    "revenue": 69607000000,
+    "periodEnd": "2019-09-28",
+    "revenueTag": "Revenues",
+    "accession": "0001744489-21-000220"
+   },
+   "2020": {
+    "revenue": 65388000000,
+    "periodEnd": "2020-10-03",
+    "revenueTag": "Revenues",
+    "accession": "0001744489-22-000213"
+   },
+   "2021": {
+    "revenue": 67418000000,
+    "periodEnd": "2021-10-02",
+    "revenueTag": "Revenues",
+    "accession": "0001744489-23-000216"
+   },
+   "2022": {
+    "revenue": 82722000000,
+    "periodEnd": "2022-10-01",
+    "revenueTag": "Revenues",
+    "accession": "0001744489-24-000276"
+   },
+   "2023": {
+    "revenue": 88898000000,
+    "periodEnd": "2023-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0001744489-25-000155"
+   },
+   "2024": {
+    "revenue": 91361000000,
+    "periodEnd": "2024-09-28",
+    "revenueTag": "Revenues",
+    "accession": "0001744489-26-000066"
+   },
+   "2025": {
+    "revenue": 94425000000,
+    "periodEnd": "2025-09-27",
+    "revenueTag": "Revenues",
+    "accession": "0001744489-26-000066"
+   },
+   "2026": {
+    "revenue": 102344000000,
+    "periodEnd": "2026-10-03",
+    "revenueTag": "Revenues",
+    "accession": "0001744489-26-000066"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001744489-26-000066",
+    "filingDate": "2026-11-17",
+    "reportDate": "2026-10-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000066/dis-20261003.htm"
+   },
+   {
+    "accession": "0001744489-25-000155",
+    "filingDate": "2025-11-13",
+    "reportDate": "2025-09-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448925000155/dis-20250927.htm"
+   },
+   {
+    "accession": "0001744489-24-000276",
+    "filingDate": "2024-11-14",
+    "reportDate": "2024-09-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448924000276/dis-20240928.htm"
+   },
+   {
+    "accession": "0001744489-23-000216",
+    "filingDate": "2023-11-21",
+    "reportDate": "2023-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448923000216/dis-20230930.htm"
+   },
+   {
+    "accession": "0001744489-22-000213",
+    "filingDate": "2022-11-29",
+    "reportDate": "2022-10-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448922000213/dis-20221001.htm"
+   },
+   {
+    "accession": "0001744489-21-000220",
+    "filingDate": "2021-11-24",
+    "reportDate": "2021-10-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448921000220/dis-20211002.htm"
+   },
+   {
+    "accession": "0001744489-20-000197",
+    "filingDate": "2020-11-25",
+    "reportDate": "2020-10-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448920000197/dis-20201003.htm"
+   },
+   {
+    "accession": "0001744489-19-000225",
+    "filingDate": "2019-11-20",
+    "reportDate": "2019-09-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448919000225/fy2019q410k.htm"
+   }
+  ]
+ }
+}

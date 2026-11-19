@@ -1,0 +1,332 @@
+{
+ "proxies": {
+  "0001104659-26-038170": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/202058/000110465926038170/tmb-20260511xdef14a.htm",
+   "periodEnd": "2026-01-02",
+   "tenK": "0000202058-26-000015",
+   "result": {
+    "ceoPay": 25617590,
+    "medianPay": 111832,
+    "payRatio": 229,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ian employee identified with respect to our fiscal year 2023 CEO pay ratio was used since there has not been a change in our employee population or employee compensation arrangements that would significantly change the pay ratio disclosure. We calculated such median employee's total compensation of $111,832 for fiscal 2025 in the same manner we calculated our CEO's total compensation of $25,617,590 for fiscal 2025, as reported in the \"Total\" column of the Fiscal 2025 Summary Compensation Table on page 48. Based on this information, for fiscal 2025, the pay ratio between our CEO and median employee was 229:1. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Because applicable SEC rules permit various methodologies, assumptions and"
+   }
+  },
+  "0001558370-25-002451": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/202058/000155837025002451/tmb-20250418xdef14a.htm",
+   "periodEnd": "2025-01-03",
+   "tenK": "0000202058-25-000023",
+   "result": {
+    "ceoPay": 20839223,
+    "medianPay": 113639,
+    "payRatio": 183,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ian employee identified with respect to our fiscal year 2023 CEO pay ratio was used since there has not been a change in our employee population or employee compensation arrangements that would significantly change the pay ratio disclosure. We calculated such median employee's total compensation of $113,639 for fiscal 2024 in the same manner we calculated our CEO's total compensation of $20,839,223 for fiscal 2024, as reported in the \"Total\" column of the Fiscal 2024 Summary Compensation Table on page 44. Based on this information, for fiscal 2024, the pay ratio between our CEO and median employee was 183:1. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Because applicable SEC rules permit various methodologies, assumptions and"
+   }
+  },
+  "0001104659-24-032435": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/202058/000110465924032435/tm2330987d5_def14a.htm",
+   "periodEnd": "2023-12-29",
+   "tenK": "0000202058-24-000029",
+   "result": {
+    "ceoPay": 19824247,
+    "medianPay": 106472,
+    "payRatio": 186,
+    "method": "cross-checked",
+    "employees": 51822,
+    "statedYear": 2023,
+    "excerpt": "fied the median employee based on annual base salary and target bonus for the 12 months leading up to December 1, 2023, for employees located in the United States and the closest equivalent for employees located in Canada or United Kingdom. We calculated such median employee's total compensation of $106,472 for fiscal 2023 in the same manner we calculated our CEO's total compensation of $19,824,247 for fiscal 2023, as reported in the \"Total\" column of the Fiscal 2023 Summary Compensation Table on page 58. Based on this information, for fiscal 2023, the pay ratio between our CEO and median employee was 1:186. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Because applicable SEC rules permit various methodologies, assumptions and"
+   }
+  },
+  "0001104659-23-031160": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/202058/000110465923031160/tm2232876d3_def14a.htm",
+   "periodEnd": "2022-12-30",
+   "tenK": "0000202058-23-000014",
+   "result": {
+    "ceoPay": 16714229,
+    "medianPay": 133708,
+    "payRatio": 125,
+    "method": "cross-checked",
+    "employees": 49396,
+    "statedYear": 2022,
+    "excerpt": "2 as for fiscal 2021 in our pay ratio calculation because there were no changes to our employee population or our compensation arrangements during fiscal 2022 that we believe would result in a significant change to our pay ratio disclosure. We calculated such median employee's total compensation of $133,708 for fiscal 2022 in the same manner we calculated our CEO's total compensation of $16,714,229 for fiscal 2022, as reported in the \"Total\" column of the Fiscal 2022 Summary Compensation Table on page 57. Based on this information, for fiscal 2022, the ratio of the median of the total compensation of all employees (other than our CEO) to the total compensation of our CEO was 1:125, which pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K"
+   }
+  },
+  "0001104659-22-032801": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/202058/000110465922032801/tm224033-4_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000202058-22-000015",
+   "result": {
+    "ceoPay": 15697749,
+    "medianPay": 110846,
+    "payRatio": 142,
+    "method": "cross-checked",
+    "employees": 49396,
+    "statedYear": 2021,
+    "excerpt": "1 as for fiscal 2020 in our pay ratio calculation because there were no changes to our employee population or our compensation arrangements during fiscal 2021 that we believe would result in a significant change to our pay ratio disclosure. We calculated such median employee's total compensation of $110,846 for fiscal 2021 in the same manner we calculated our CEO's total compensation of $15,697,749 for fiscal 2021, as reported in the \"Total\" column of the Fiscal 2021 Summary Compensation Table on page 64. Based on this information, for fiscal 2021, the ratio of the median of the total compensation of all employees (other than our CEO) to the total compensation of our CEO was 1:142, which pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K"
+   }
+  },
+  "0001140361-21-008206": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/202058/000114036121008206/nc18250_def14a.htm",
+   "periodEnd": "2021-01-01",
+   "tenK": "0000202058-21-000008",
+   "result": {
+    "ceoPay": 15452653,
+    "medianPay": 99189,
+    "payRatio": 156,
+    "method": "cross-checked",
+    "employees": 49396,
+    "statedYear": 2020,
+    "excerpt": "taxable Medicare wages (Box 5) for the 12 months leading up to January 1, 2021, as reported to the Internal Revenue Service, for employees located in the United States and the closest equivalent for employees located in Canada or Australia. We calculated such median employee's total compensation of $99,189 for fiscal 2020 in the same manner we calculated our CEO's total compensation of $15,452,653 for fiscal 2020, as reported in the \"Total\" column of the Fiscal 2020 Summary Compensation Table on page 62. Based on this information, for fiscal 2020, the ratio of the median of the total compensation of all employees (other than our CEO) to the total compensation of our CEO was 1:156, which pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K."
+   }
+  },
+  "0001140361-20-005624": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/202058/000114036120005624/nc10006721x5_def14a.htm",
+   "periodEnd": "2020-01-03",
+   "tenK": "0000202058-20-000011",
+   "result": {
+    "ceoPay": 15745630,
+    "medianPay": 58426,
+    "payRatio": 269,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "as a result of the Merger occurring during our fiscal transition period ended January 3, 2020, we excluded from our employee population data described above approximately 31,000 employees who were employees of L3 at the time of the Merger. We calculated such median employee's total compensation of $58,426 for our fiscal transition period ended January 3, 2020, in the same manner we calculated our CEO's total compensation of $15,745,630 for our fiscal transition period ended January 3, 2020, as reported in the \"Total\" column of the Fiscal Transition Period Summary Compensation Table on page 62. Based on this information, for our fiscal transition period ended January 3, 2020, the ratio of the median of the total compensation of all employees (other than our CEO and former L3 employees) to"
+   }
+  },
+  "0001140361-19-016433": {
+   "parserVersion": 1,
+   "filingDate": "2019-09-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/202058/000114036119016433/nc10003368x1_def14a.htm",
+   "periodEnd": "2019-06-28",
+   "tenK": "0000202058-19-000090",
+   "result": {
+    "ceoPay": 15723532,
+    "medianPay": 106861,
+    "payRatio": 147,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "l 2018 in our pay ratio calculation, because there have been no changes in our employee population or employee compensation arrangements in fiscal 2019 that we believe would result in a significant change to our pay ratio disclosure. We calculated such median employee's annual total compensation of $106,861 for fiscal 2019 in the same manner we calculated our CEO's annual total compensation of $15,723,532 for fiscal 2019, as reported in the \"Total\" column of the Fiscal 2019 Summary Compensation Table on page 69. Based on this information, for fiscal 2019 the ratio of the median of the annual total compensation of all employees (other than our CEO) to the annual total compensation of our CEO was 1:147, which pay ratio is a reasonable estimate calculated in a manner consistent with Item 402("
+   }
+  },
+  "0000202058-18-000069": {
+   "parserVersion": 1,
+   "filingDate": "2018-09-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205818000069/a2018hrsproxystatementdef14a.htm",
+   "periodEnd": "2018-06-29",
+   "tenK": "0000202058-18-000063",
+   "result": {
+    "ceoPay": 14016113,
+    "medianPay": 97422,
+    "payRatio": 144,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "781 non-U.S. employees 1 (less than 5% of total employees) and then identified the median employee based on W-2 taxable Medicare wages (Box 5) for the 12 months leading up to May 1, 2018, as reported to the Internal Revenue Service. We calculated such median employee's annual total compensation of $97,422 for fiscal 2018 in the same manner we calculated our CEO's annual total compensation of $14,016,113 for fiscal 2018, as reported in the \"Total\" column of the Fiscal 2018 Summary Compensation Table on page 65. Based on this information, for fiscal 2018 the ratio of the median of the annual total compensation of all employees (other than our CEO) to the annual total compensation of our CEO was 1:144, which pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 4596100000,
+    "periodEnd": "2008-06-27",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-10-082207"
+   },
+   "2009": {
+    "revenue": 5005000000,
+    "periodEnd": "2009-07-03",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-081041"
+   },
+   "2010": {
+    "revenue": 4725000000,
+    "periodEnd": "2010-07-02",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-369967"
+   },
+   "2011": {
+    "revenue": 5418400000,
+    "periodEnd": "2011-07-01",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-346761"
+   },
+   "2012": {
+    "revenue": 5451300000,
+    "periodEnd": "2012-06-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-320240"
+   },
+   "2013": {
+    "revenue": 5112000000,
+    "periodEnd": "2013-06-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-15-308363"
+   },
+   "2014": {
+    "revenue": 5012000000,
+    "periodEnd": "2014-06-27",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000202058-16-000022"
+   },
+   "2015": {
+    "revenue": 3885000000,
+    "periodEnd": "2015-07-03",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000202058-17-000037"
+   },
+   "2016": {
+    "revenue": 5992000000,
+    "periodEnd": "2016-07-01",
+    "revenueTag": "Revenues",
+    "accession": "0000202058-18-000063"
+   },
+   "2017": {
+    "revenue": 5900000000,
+    "periodEnd": "2017-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000202058-18-000063"
+   },
+   "2018": {
+    "revenue": 6182000000,
+    "periodEnd": "2018-06-29",
+    "revenueTag": "Revenues",
+    "accession": "0000202058-18-000063"
+   },
+   "2019": {
+    "revenue": 6801000000,
+    "periodEnd": "2019-06-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000202058-22-000015"
+   },
+   "2020": {
+    "revenue": 12856000000,
+    "periodEnd": "2020-01-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000202058-22-000015"
+   },
+   "2021": {
+    "revenue": 17814000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000202058-24-000029"
+   },
+   "2022": {
+    "revenue": 17062000000,
+    "periodEnd": "2022-12-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000202058-25-000023"
+   },
+   "2023": {
+    "revenue": 19419000000,
+    "periodEnd": "2023-12-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000202058-26-000015"
+   },
+   "2025": {
+    "revenue": 21325000000,
+    "periodEnd": "2025-01-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000202058-26-000015"
+   }
+  },
+  "employeesTagged": {
+   "0000202058-17-000037": 17000,
+   "0000202058-18-000063": 17500,
+   "0000202058-19-000090": 18200,
+   "0000202058-20-000011": 50000,
+   "0000202058-21-000008": 48000,
+   "0000202058-22-000015": 47000,
+   "0000202058-23-000014": 46000,
+   "0000202058-24-000029": 50000,
+   "0000202058-25-000023": 47000,
+   "0000202058-26-000015": 45000
+  },
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000202058-26-000015",
+    "filingDate": "2026-02-12",
+    "reportDate": "2026-01-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205826000015/hrs-20260102.htm"
+   },
+   {
+    "accession": "0000202058-25-000023",
+    "filingDate": "2025-02-14",
+    "reportDate": "2025-01-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205825000023/hrs-20250103.htm"
+   },
+   {
+    "accession": "0000202058-24-000029",
+    "filingDate": "2024-02-20",
+    "reportDate": "2023-12-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205824000029/hrs-20231229.htm"
+   },
+   {
+    "accession": "0000202058-23-000014",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205823000014/hrs-20221230.htm"
+   },
+   {
+    "accession": "0000202058-22-000015",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205822000015/hrs-20211231.htm"
+   },
+   {
+    "accession": "0000202058-21-000008",
+    "filingDate": "2021-03-01",
+    "reportDate": "2021-01-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205821000008/hrs-20210101.htm"
+   },
+   {
+    "accession": "0000202058-20-000011",
+    "filingDate": "2020-03-03",
+    "reportDate": "2020-01-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205820000011/lhx13202010-kt.htm"
+   },
+   {
+    "accession": "0000202058-19-000090",
+    "filingDate": "2019-08-22",
+    "reportDate": "2019-06-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205819000090/hrs628201910-k.htm"
+   },
+   {
+    "accession": "0000202058-18-000063",
+    "filingDate": "2018-08-27",
+    "reportDate": "2018-06-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205818000063/hrs629201810-k.htm"
+   },
+   {
+    "accession": "0000202058-17-000037",
+    "filingDate": "2017-08-29",
+    "reportDate": "2017-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/202058/000020205817000037/hrs630201710-k.htm"
+   }
+  ]
+ }
+}

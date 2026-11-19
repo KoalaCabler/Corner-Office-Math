@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001104659-26-023457": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1130310/000110465926023457/tm261341-3_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001130310-26-000008",
+   "result": {
+    "ceoPay": 12092341,
+    "medianPay": 130189,
+    "payRatio": 93,
+    "method": "cross-checked",
+    "employees": 8830,
+    "statedYear": 2025,
+    "excerpt": "ation of our employees and the annual total compensation of Mr. Wells, our Chief Executive Officer for 2025. For 2025, our last completed fiscal year: • the median of the annual total compensation of all employees of CenterPoint Energy, excluding Mr. Wells, our Chief Executive Officer for 2025, was $130,189; and • the annual total compensation of Mr. Wells, our Chief Executive Officer for 2025, as reported in the Summary Compensation Table, was $12,092,341. Based on this information, for 2025, the ratio of our Chief Executive Officer's annual total compensation to that of our median employee was approximately 93 to 1. To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of our median employee and Mr. Wells, our"
+   }
+  },
+  "0001104659-25-020886": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1130310/000110465925020886/tm2426094d2_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001130310-25-000040",
+   "result": {
+    "ceoPay": 9591964,
+    "medianPay": 121266,
+    "payRatio": 79,
+    "method": "cross-checked",
+    "employees": 9100,
+    "statedYear": 2024,
+    "excerpt": "served as our Chief Executive Officer since January 5, 2024. For 2024, our last completed fiscal year: • the median of the annual total compensation of all employees of CenterPoint Energy, excluding the compensation for Messrs. Lesar and Wells for serving as our Chief Executive Officer in 2024, was $121,266 and • the annual total compensation of our Chief Executive Officer for 2024, determined by calculating the sum of the compensation provided to each of Mr. Lesar and Mr. Wells for the period during which each served as our Chief Executive Officer in 2024, as reported in the Summary Compensation Table, was $9,591,964. | | | CenterPoint Energy, Inc. 2025 Proxy Statement | | | | | | 77 | | | TABLE OF CONTENTS Based on this information, for 2024, the ratio of our Chief Executive Officer's an"
+   }
+  },
+  "0001104659-24-035036": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1130310/000110465924035036/tm2324842d3_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001130310-24-000010",
+   "result": {
+    "ceoPay": 16204475,
+    "medianPay": 115722,
+    "payRatio": 140,
+    "method": "cross-checked",
+    "employees": 9100,
+    "statedYear": 2023,
+    "excerpt": "ation of our employees and the annual total compensation of Mr. Lesar, our Chief Executive Officer for 2023. For 2023, our last completed fiscal year: • the median of the annual total compensation of all employees of CenterPoint Energy, excluding Mr. Lesar, our Chief Executive Officer for 2023, was $115,722 and • the annual total compensation of Mr. Lesar, our Chief Executive Officer for 2023, as reported in the Summary Compensation Table, was $16,204,475. Based on this information, for 2023, the ratio of Mr. Lesar's annual total compensation to that of our median employee was approximately 140 to 1. | | | CenterPoint Energy, Inc. 2024 Proxy Statement | | | | | | 76 | | | TABLE OF CONTENTS To identify the median of the annual total compensation of all our employees, as well as to determine"
+   }
+  },
+  "0001193125-23-067654": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1130310/000119312523067654/d461167ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001130310-23-000013",
+   "result": {
+    "ceoPay": 13867875,
+    "medianPay": 95129,
+    "payRatio": 146,
+    "method": "cross-checked",
+    "employees": 9100,
+    "statedYear": 2022,
+    "excerpt": "l total compensation of our employees and the annual total compensation of Mr. Lesar, our Chief Executive Officer. For 2022, our last completed fiscal year: | | | • | | | | the median of the annual total compensation of all employees of CenterPoint Energy, excluding our Chief Executive Officer, was $95,129 and | | | | • | | | | the annual total compensation of our Chief Executive Officer, as reported in the Summary Compensation Table, was $13,867,875. | Based on this information, for 2022, the ratio of Mr. Lesar's annual total compensation to that of our median employee was approximately 146 to 1. To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of our median employee and our Chief Executive Officer, we took"
+   }
+  },
+  "0001193125-22-073412": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1130310/000119312522073412/d333523ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001130310-22-000023",
+   "result": {
+    "ceoPay": 37809810,
+    "medianPay": 103170,
+    "payRatio": 366,
+    "method": "cross-checked",
+    "employees": 9500,
+    "statedYear": 2021,
+    "excerpt": "l total compensation of our employees and the annual total compensation of Mr. Lesar, our Chief Executive Officer. For 2021, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all employees of CenterPoint Energy, excluding our Chief Executive Officer, was $103,170; and | | | |  | | | | the annual total compensation of our Chief Executive Officer, as reported in the Summary Compensation Table, was $37,809,810, which includes retention awards valued at $25,240,000 on the Retention Incentive Agreement date (July 20, 2021). | Based on this information, for 2021, the ratio of Mr. Lesars annual total compensation to that of our median employee was approximately 366 to one. We understand that the CEO pay ratio is intended to provide greater transparen"
+   }
+  },
+  "0001193125-21-079713": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1130310/000119312521079713/d28674ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001130310-21-000009",
+   "result": {
+    "ceoPay": 12621295,
+    "medianPay": 103993,
+    "payRatio": 121,
+    "method": "cross-checked",
+    "employees": 9500,
+    "statedYear": 2020,
+    "excerpt": "l total compensation of our employees and the annual total compensation of Mr. Lesar, our Chief Executive Officer. For 2020, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all employees of CenterPoint Energy, excluding our Chief Executive Officer, was $103,993; and | | | |  | | | | the annual total compensation of our Chief Executive Officer was $12,621,295, which reflects the Chief Executive Officers annualized base salary and includes the sign-on restricted stock unit grant valued at $1,000,000. | Based on this information, for 2020, the ratio of Mr. Lesars annual total compensation to that of our median employee was approximately 121 to one. To identify the median of the annual total compensation of all our employees, as well as to dete"
+   }
+  },
+  "0001193125-20-072951": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1130310/000119312520072951/d856674ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001130310-20-000016",
+   "result": {
+    "ceoPay": 7724121,
+    "medianPay": 102957,
+    "payRatio": 75,
+    "method": "cross-checked",
+    "employees": 7900,
+    "statedYear": 2019,
+    "excerpt": "pensation of our employees and the annual total compensation of Mr. Prochazka, our former Chief Executive Officer. For 2019, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all employees of CenterPoint Energy, excluding our Chief Executive Officer, was $102,957; and | | | |  | | | | the annual total compensation of our Chief Executive Officer, as reported in the Summary Compensation Table, was $7,724,121. | Based on this information, for 2019, the ratio of Mr. Prochazkas annual total compensation to that of our median employee was approximately 75 to one. To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of our median employee and our Chief Executive Officer, w"
+   }
+  },
+  "0001193125-19-073957": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1130310/000119312519073957/d672060ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001130310-19-000016",
+   "result": {
+    "ceoPay": 8887981,
+    "medianPay": 97572,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": 7900,
+    "statedYear": 2018,
+    "excerpt": "tal compensation of our employees and the annual total compensation of Mr. Prochazka, our Chief Executive Officer. For 2018, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all employees of CenterPoint Energy, excluding our Chief Executive Officer, was $97,572; and | | | |  | | | | the annual total compensation of our Chief Executive Officer, as reported in the Summary Compensation Table, was $8,887,981. | Based on this information, for 2018, the ratio of Mr. Prochazkas annual total compensation to that of our median employee was approximately 91 to one. To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of our median employee and our Chief Executive Officer, we"
+   }
+  },
+  "0001193125-18-083035": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1130310/000119312518083035/d540092ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001130310-18-000003",
+   "result": {
+    "ceoPay": 8024525,
+    "medianPay": 96573,
+    "payRatio": 83,
+    "method": "cross-checked",
+    "employees": 7900,
+    "statedYear": 2017,
+    "excerpt": "tal compensation of our employees and the annual total compensation of Mr. Prochazka, our Chief Executive Officer. For 2017, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all employees of CenterPoint Energy, excluding our Chief Executive Officer, was $96,573; and | | | |  | | | | the annual total compensation of our Chief Executive Officer, as reported in the Summary Compensation Table, was $8,024,525. | Based on this information, for 2017 the ratio of Mr. Prochazkas annual total compensation to that of our median employee was approximately 83 to one. To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of our median employee and our Chief Executive Officer, we"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 9623000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-10-000006"
+   },
+   "2008": {
+    "revenue": 11322000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-11-000020"
+   },
+   "2009": {
+    "revenue": 8281000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-12-000011"
+   },
+   "2010": {
+    "revenue": 8785000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-13-000006"
+   },
+   "2011": {
+    "revenue": 8450000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-14-000005"
+   },
+   "2012": {
+    "revenue": 7452000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-15-000008"
+   },
+   "2013": {
+    "revenue": 8106000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-16-000031"
+   },
+   "2014": {
+    "revenue": 9226000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-17-000006"
+   },
+   "2015": {
+    "revenue": 7386000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-18-000003"
+   },
+   "2016": {
+    "revenue": 7528000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-19-000016"
+   },
+   "2017": {
+    "revenue": 9614000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-20-000016"
+   },
+   "2018": {
+    "revenue": 6282000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001130310-21-000009"
+   },
+   "2019": {
+    "revenue": 7564000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-22-000023"
+   },
+   "2020": {
+    "revenue": 7418000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-23-000013"
+   },
+   "2021": {
+    "revenue": 8352000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-24-000010"
+   },
+   "2022": {
+    "revenue": 9327000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001130310-25-000040"
+   },
+   "2023": {
+    "revenue": 8696000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-26-000008"
+   },
+   "2024": {
+    "revenue": 8643000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-26-000008"
+   },
+   "2025": {
+    "revenue": 9357000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001130310-26-000008"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001130310-26-000008",
+    "filingDate": "2026-02-19",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031026000008/cnp-20251231.htm"
+   },
+   {
+    "accession": "0001130310-25-000040",
+    "filingDate": "2025-02-20",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031025000040/cnp-20241231.htm"
+   },
+   {
+    "accession": "0001130310-24-000010",
+    "filingDate": "2024-02-20",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031024000010/cnp-20231231.htm"
+   },
+   {
+    "accession": "0001130310-23-000013",
+    "filingDate": "2023-02-17",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031023000013/cnp-20221231.htm"
+   },
+   {
+    "accession": "0001130310-22-000023",
+    "filingDate": "2022-02-22",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031022000023/cnp-20211231.htm"
+   },
+   {
+    "accession": "0001130310-21-000009",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031021000009/cnp-20201231.htm"
+   },
+   {
+    "accession": "0001130310-20-000016",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031020000016/cnp10k12312019.htm"
+   },
+   {
+    "accession": "0001130310-19-000016",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031019000016/cnp_10kx12312018.htm"
+   },
+   {
+    "accession": "0001130310-18-000003",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031018000003/cnp_10kx12312017.htm"
+   },
+   {
+    "accession": "0001130310-17-000006",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1130310/000113031017000006/cnp_10kx12312016.htm"
+   }
+  ]
+ }
+}

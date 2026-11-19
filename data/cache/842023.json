@@ -1,0 +1,340 @@
+{
+ "proxies": {
+  "0001308179-25-000599": {
+   "parserVersion": 1,
+   "filingDate": "2025-09-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000130817925000599/tech014339-def14a.htm",
+   "periodEnd": "2025-06-30",
+   "tenK": "0001558370-25-011716",
+   "result": {
+    "ceoPay": 8151181,
+    "medianPay": 91707,
+    "payRatio": 88.9,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "in fiscal year 2025 to identify our median employee for purposes of our pay ratio disclosure. We calculated the annual total compensation of the median employee for fiscal 2025 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which resulted in annual total compensation of $91,707. For the year ended June 30, 2025, the total compensation for our CEO, Mr. Kelderman, was $8,151,181 as reported in the Summary Compensation Table on page 58. Accordingly, this fiscal 2025 annual total compensation was 88.9 times the median of the annual total compensation of the median employee. Pay vs. Performance As required by SEC rules, we are providing the following information about the relationship between executive compensation actually paid (as defined by SEC rules) and certain"
+   }
+  },
+  "0001308179-24-000703": {
+   "parserVersion": 1,
+   "filingDate": "2024-09-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000130817924000703/ltech2024_def14a.htm",
+   "periodEnd": "2024-06-30",
+   "tenK": "0001558370-24-012430",
+   "result": {
+    "ceoPay": 6852495,
+    "medianPay": 87290,
+    "payRatio": 78.5,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "in fiscal year 2024 to identify our median employee for purposes of our pay ratio disclosure. We calculated the annual total compensation of the median employee for fiscal 2024 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which resulted in annual total compensation of $87,290. For the year ended June 30, 2024, the total compensation for our CEO, Mr. Kelderman, was $759,511 as reported in the Summary Compensation Table on page 57. Since Mr. Kelderman was appointed CEO effective February 1, 2024, we annualized his salary, bonus plan compensation, equity compensation, and any other compensation as disclosed in the Summary Compensation Table, and added the disclosed values of his bonus, equity awards, and other components of total compensation to arrive at a valu"
+   }
+  },
+  "0001308179-23-000977": {
+   "parserVersion": 1,
+   "filingDate": "2023-09-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000130817923000977/ltech2023_def14a.htm",
+   "periodEnd": "2023-06-30",
+   "tenK": "0001558370-23-015226",
+   "result": {
+    "ceoPay": 30584644,
+    "medianPay": 105484,
+    "payRatio": 290,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "d our analysis to identify our median employee for purposes of our pay ratio disclosure. We calculated the annual total compensation of the median employee for fiscal year 2023 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which resulted in annual total compensation of $105,484. Included in this total compensation for our median employee is a grant of stock options in fiscal year 2023 valued at $5000 at time of grant. Our CEO, Mr. Kummeth, received annual total compensation for fiscal year 2023 in the amount of $30,584,644 as reflected in the Summary Compensation Table included in this Proxy Statement. Based on this | 2023 Proxy Statement 55 | | | Back to Contents | | | information, we estimate that Mr. Kummeth's fiscal year 2023 annual total compensation was"
+   }
+  },
+  "0001308179-22-000356": {
+   "parserVersion": 1,
+   "filingDate": "2022-09-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000130817922000356/ltech2022_def14a.htm",
+   "periodEnd": "2022-06-30",
+   "tenK": "0001558370-22-013935",
+   "result": {
+    "ceoPay": 15370549,
+    "medianPay": 84964,
+    "payRatio": 181,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "d our analysis to identify our median employee for purposes of our pay ratio disclosure. We calculated the annual total compensation of the median employee for fiscal year 2022 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which resulted in annual total compensation of $84,964. Our median employee did not receive any equity compensation. Our CEO, Mr. Kummeth, received annual total compensation for fiscal year 2022 in the amount of $15,370,549 as reflected in the Summary Compensation Table included in this Proxy Statement. Based on this information, we estimate that Mr. Kummeth's fiscal year 2022 annual total compensation was approximately 181 times the median of the annual total compensation of all employees. | 2022 Proxy Statement 51 | | | Back to Contents |"
+   }
+  },
+  "0001140361-21-031213": {
+   "parserVersion": 1,
+   "filingDate": "2021-09-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000114036121031213/ny20000506x1_def14a.htm",
+   "periodEnd": "2021-06-30",
+   "tenK": "0001437749-21-020980",
+   "result": {
+    "ceoPay": 15556565,
+    "medianPay": 72758,
+    "payRatio": 214,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "e annual total compensation of our CEO to the median of the annual total compensation of our other employees. We calculated the annual total compensation of the median employee in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which resulted in annual total compensation of $72,758. Our median employee did not receive any equity compensation. Our CEO, Mr. Kummeth, received annual total compensation for FY 2021 in the amount of $15,556,565 as reflected in the Summary Compensation Table included in this Proxy Statement. Based on this information, we estimate that Mr. Kummeth's FY 2021 annual total compensation was approximately 214 times the median of the annual total compensation of all employees. | | | | | | | | | | | | | | | | | | | | | 46 | | | | | | | | | | | |"
+   }
+  },
+  "0001437749-20-019750": {
+   "parserVersion": 1,
+   "filingDate": "2020-09-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000143774920019750/tech20200912_def14a.htm",
+   "periodEnd": "2020-06-30",
+   "tenK": "0001437749-20-018754",
+   "result": {
+    "ceoPay": 11484782,
+    "medianPay": 63347,
+    "payRatio": 181,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ompensation of our CEO to the median of the annual total compensation of our other employees for FY 2019 and 2018. We calculated the annual total compensation of the median employee in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $63,347. Our median employee did not receive any equity compensation. Our CEO, Mr. Kummeth, received annual total compensation for FY 2020 in the amount of $11,484,782 as reflected in the Summary Compensation Table included in this Proxy Statement. Based on this information, we estimate that Mr. Kummeth's FY 2020 annual total compensation was approximately 181 times the median of the annual total compensation of all employees. | 44 | | | | 2020 Proxy Statement | PROPOSAL 3. ADVISORY VOTE ON EXEC"
+   }
+  },
+  "0001437749-19-018072": {
+   "parserVersion": 1,
+   "filingDate": "2019-09-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000143774919018072/tech20190906_def14a.htm",
+   "periodEnd": "2019-06-30",
+   "tenK": "0001437749-19-017565",
+   "result": {
+    "ceoPay": 11011138,
+    "medianPay": 64371,
+    "payRatio": 171,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "l total compensation of our CEO to the median of the annual total compensation of our other employees for FY 2018. We calculated the annual total compensation of the median employee in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $64,371. Our median employee did not receive any equity compensation. Our CEO, Mr. Kummeth, received annual total compensation for FY 2019 in the amount of $11,011,138 as reflected in the Summary Compensation Table included in this Proxy Statement. Based on this information, we estimate that Mr. Kummeth's FY 2019 annual total compensation was approximately 171 times the median of the annual total compensation of all employees. In calculating our pay ratio for FY 2019, we determined that we had e"
+   }
+  },
+  "0001437749-18-016854": {
+   "parserVersion": 1,
+   "filingDate": "2018-09-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/842023/000143774918016854/tech20180906_def14a.htm",
+   "periodEnd": "2018-06-30",
+   "tenK": "0001437749-18-016190",
+   "result": {
+    "ceoPay": 9664874,
+    "medianPay": 73840,
+    "payRatio": 131,
+    "method": "cross-checked",
+    "employees": 1852,
+    "statedYear": null,
+    "excerpt": "nsisting in the aggregate of less than 5% of our total employee population. After identifying our median employee, we calculated the annual total compensation of the median employee in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, resulting in annual total compensation of $73,840. Our median employee did not receive any equity compensation. Our CEO, Mr. Kummeth, received annual total compensation for FY 2018 in the amount of $9,664,874 as reflected in the Summary Compensation Table included in this Proxy Statement. Based on this information, we estimate that Mr. Kummeth's FY 2018 annual total compensation was approximately 131 times the median of the annual total compensation of all employees. Item 3. ADVISORY VOTE ON EXECUTIVE COMPENSATION Your Board recommends"
+   }
+  }
+ },
+ "tenKs": {
+  "0001437749-19-017565": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001437749-20-018754": {
+   "parserVersion": 1,
+   "employees": 2300
+  },
+  "0001437749-21-020980": {
+   "parserVersion": 1,
+   "employees": 2600
+  },
+  "0001558370-22-013935": {
+   "parserVersion": 1,
+   "employees": 3000
+  },
+  "0001558370-23-015226": {
+   "parserVersion": 1,
+   "employees": 3050
+  },
+  "0001558370-24-012430": {
+   "parserVersion": 1,
+   "employees": 3100
+  },
+  "0001558370-25-011716": {
+   "parserVersion": 1,
+   "employees": 3100
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 263956000,
+    "periodEnd": "2009-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-235045"
+   },
+   "2010": {
+    "revenue": 269047000,
+    "periodEnd": "2010-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-373084"
+   },
+   "2011": {
+    "revenue": 289962000,
+    "periodEnd": "2011-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-351961"
+   },
+   "2012": {
+    "revenue": 314560000,
+    "periodEnd": "2012-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-327566"
+   },
+   "2013": {
+    "revenue": 310575000,
+    "periodEnd": "2013-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001437749-15-016645"
+   },
+   "2014": {
+    "revenue": 357763000,
+    "periodEnd": "2014-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001437749-16-038182"
+   },
+   "2015": {
+    "revenue": 452246000,
+    "periodEnd": "2015-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001437749-17-015711"
+   },
+   "2016": {
+    "revenue": 499023000,
+    "periodEnd": "2016-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001437749-18-016190"
+   },
+   "2017": {
+    "revenue": 563003000,
+    "periodEnd": "2017-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001437749-19-021760"
+   },
+   "2018": {
+    "revenue": 642993000,
+    "periodEnd": "2018-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001437749-20-018754"
+   },
+   "2019": {
+    "revenue": 714006000,
+    "periodEnd": "2019-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001437749-21-020980"
+   },
+   "2020": {
+    "revenue": 738691000,
+    "periodEnd": "2020-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-22-013935"
+   },
+   "2021": {
+    "revenue": 931032000,
+    "periodEnd": "2021-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-23-015226"
+   },
+   "2022": {
+    "revenue": 1105599000,
+    "periodEnd": "2022-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-24-012430"
+   },
+   "2023": {
+    "revenue": 1136702000,
+    "periodEnd": "2023-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-25-011716"
+   },
+   "2024": {
+    "revenue": 1159060000,
+    "periodEnd": "2024-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-100322"
+   },
+   "2025": {
+    "revenue": 1219635000,
+    "periodEnd": "2025-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-100322"
+   },
+   "2026": {
+    "revenue": 1215039000,
+    "periodEnd": "2026-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-100322"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001104659-26-100322",
+    "filingDate": "2026-08-24",
+    "reportDate": "2026-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/842023/000110465926100322/tech-20260630x10k.htm"
+   },
+   {
+    "accession": "0001558370-25-011716",
+    "filingDate": "2025-08-22",
+    "reportDate": "2025-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837025011716/tech-20250630x10k.htm"
+   },
+   {
+    "accession": "0001558370-24-012430",
+    "filingDate": "2024-08-22",
+    "reportDate": "2024-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837024012430/tech-20240630x10k.htm"
+   },
+   {
+    "accession": "0001558370-23-015226",
+    "filingDate": "2023-08-23",
+    "reportDate": "2023-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837023015226/tmb-20230630x10k.htm"
+   },
+   {
+    "accession": "0001558370-22-013935",
+    "filingDate": "2022-08-24",
+    "reportDate": "2022-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/842023/000155837022013935/tmb-20220630x10k.htm"
+   },
+   {
+    "accession": "0001437749-21-020980",
+    "filingDate": "2021-08-25",
+    "reportDate": "2021-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/842023/000143774921020980/tech20200630b_10k.htm"
+   },
+   {
+    "accession": "0001437749-20-018754",
+    "filingDate": "2020-08-26",
+    "reportDate": "2020-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/842023/000143774920018754/tech20200630_10k.htm"
+   },
+   {
+    "accession": "0001437749-19-017565",
+    "filingDate": "2019-08-28",
+    "reportDate": "2019-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/842023/000143774919017565/tech20190630_10k.htm"
+   },
+   {
+    "accession": "0001437749-18-016190",
+    "filingDate": "2018-08-27",
+    "reportDate": "2018-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/842023/000143774918016190/tech20180630_10k.htm"
+   },
+   {
+    "accession": "0001437749-17-015711",
+    "filingDate": "2017-09-07",
+    "reportDate": "2017-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/842023/000143774917015711/tech20170630_10k.htm"
+   }
+  ]
+ }
+}

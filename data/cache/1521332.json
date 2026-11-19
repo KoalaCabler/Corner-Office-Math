@@ -1,0 +1,348 @@
+{
+ "proxies": {
+  "0001193125-26-108328": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000119312526108328/aptv-20260311.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001521332-26-000009",
+   "result": {
+    "ceoPay": 19250277,
+    "medianPay": 10162,
+    "payRatio": 1894,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "nusual or nonstandard compensation items. After identifying the Median Employee, we calculated annual total compensation for the Median Employee using the same methodology as compensation reported in the 2025 Summary Compensation Table for the CEO. The Median Employee's annual total compensation is $10,162. When compared to our CEO's annual total compensation of $19,250,277, the ratio of the total annual compensation of our CEO to the total annual compensation of our Median Employee was approximately 1,894:1. We believe that there are a number of reasons why our pay ratio is not comparable to that of other companies, including that other companies may have a median employee that works in the U.S., may outsource manufacturing, may have different types of workforces, may operate in different"
+   }
+  },
+  "0000950170-25-036263": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000095017025036263/aptv-20250305.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001521332-25-000010",
+   "result": {
+    "ceoPay": 18758050,
+    "medianPay": 9052,
+    "payRatio": 2072,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "greatly from standard U.S. hourly rates. After identifying the Median Employee, we calculated annual total compensation for the Median Employee using the same methodology as compensation reported in the 2024 Summary Compensation Table for the CEO. The Median Employee's annual total compensation is $9,052. When compared to our CEO's annual total compensation of $18,758,050, the ratio of the total annual compensation of our CEO to the total annual compensation of our Median Employee was approximately 2,072:1. We believe that there are a number of reasons why our pay ratio is not comparable to that of other companies, including that other companies may have a median employee that works in the U.S., may outsource manufacturing, may have different types of workforces, may operate in different"
+   }
+  },
+  "0001193125-24-064797": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000119312524064797/d743164ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001521332-24-000011",
+   "result": {
+    "ceoPay": 18000136,
+    "medianPay": 11647,
+    "payRatio": 1545,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "greatly from standard U.S. hourly rates. After identifying the Median Employee, we calculated annual total compensation for the Median Employee using the same methodology as compensation reported in the 2023 Summary Compensation Table for the CEO. The Median Employee's annual total compensation is $11,647. When compared to our CEO's annual total compensation of $18,000,136, the ratio of the total annual compensation of our CEO to the total annual compensation of our Median Employee was approximately 1,545:1. We believe that there are a number of reasons why our pay ratio is not comparable to that of other companies, including that other companies may have a median employee that works in the U.S., may outsource manufacturing, may have different types of workforces, may operate in different"
+   }
+  },
+  "0001193125-23-069031": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000119312523069031/d426680ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001521332-23-000013",
+   "result": {
+    "ceoPay": 16206621,
+    "medianPay": 8139,
+    "payRatio": 1991,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "greatly from standard U.S. hourly rates. After identifying the Median Employee, we calculated annual total compensation for the Median Employee using the same methodology as compensation reported in the 2022 Summary Compensation Table for the CEO. The Median Employee's annual total compensation is $8,139. When compared to our CEO's annual total compensation of $16,206,621, the ratio of the total annual compensation of our CEO to the total annual compensation of our Median Employee was approximately 1,991:1. We believe that there are a number of reasons why our pay ratio is not comparable to that of other companies, including that other companies may have a median employee that works in the U.S., may outsource manufacturing, may have different types of workforces, may operate in different"
+   }
+  },
+  "0001193125-22-074596": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000119312522074596/d212755ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001521332-22-000010",
+   "result": {
+    "ceoPay": 14744780,
+    "medianPay": 7402,
+    "payRatio": 1992,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "greatly from standard U.S. hourly rates. After identifying the Median Employee, we calculated annual total compensation for the Median Employee using the same methodology as compensation reported in the 2021 Summary Compensation Table for the CEO. The Median Employees annual total compensation is $7,402. When compared to our CEOs annual total compensation of $14,744,780, the ratio of the total annual compensation of our CEO to the total annual compensation of our Median Employee was approximately 1,992:1. We believe that there are a number of reasons why our pay ratio is not comparable to that of other companies, including that other companies may have a median employee that works in the U.S., may outsource manufacturing, may have different types of workforces, may operate in different"
+   }
+  },
+  "0001193125-21-081342": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000119312521081342/d103929ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001521332-21-000009",
+   "result": {
+    "ceoPay": 31267329,
+    "medianPay": 5906,
+    "payRatio": 5294,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ermining that the same Median Employee could be used for this years disclosure, we calculated annual total compensation for the Median Employee using the same methodology as compensation reported in the 2020 Summary Compensation Table for the CEO. The Median Employees annual total compensation is $5,906. When compared to our CEOs annual total compensation of $31,267,329 (which is the total compensation reported for him in the 2020 Summary Compensation Table for 2020), the ratio of the total annual compensation of our CEO to the total annual compensation of our Median Employee was approximately 5,294:1. As noted previously in this Proxy Statement, the 2020 Summary Compensation Table includes required accounting adjustments related to the 2019 and 2020 stock awards that distort CEO total"
+   }
+  },
+  "0001193125-20-067143": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000119312520067143/d807022ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001521332-20-000012",
+   "result": {
+    "ceoPay": 15164533,
+    "medianPay": 7302,
+    "payRatio": 2077,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ermining that the same Median Employee could be used for this years disclosure, we calculated annual total compensation for the Median Employee using the same methodology as compensation reported in the 2019 Summary Compensation Table for the CEO. The Median Employees annual total compensation is $7,302. When compared to our CEOs annual total compensation of $15,164,533 (which is the total compensation reported for him in the 2019 Summary Compensation Table for 2019), the ratio of the total annual compensation of our CEO to the total annual compensation of our Median Employee was approximately 2,077:1. APTIV PLC 43 Table of Contents | | | 2020 NOTICE OF ANNUAL MEETING AND PROXY STATEMENT | REPORT OF THE AUDIT COMMITTEE The information contained in this report shall not be deemed to be "
+   }
+  },
+  "0001193125-19-070796": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000119312519070796/d697913ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001521332-19-000007",
+   "result": {
+    "ceoPay": 14123103,
+    "medianPay": 5414,
+    "payRatio": 2609,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "be. After identifying the Median Employee using the methodology described above, we calculated annual total compensation for the Median Employee using the same methodology as compensation reported in the 2018 Summary Compensation Table for the CEO. The Median Employees annual total compensation is $5,414. When compared to our CEOs annual total compensation of $14,123,103, the ratio of the total annual compensation of our CEO to the total annual compensation of our Median Employee was approximately 2,609:1. APTIV PLC 43 Table of Contents | | | 2019 NOTICE OF ANNUAL MEETING AND PROXY STATEMENT | | | REPORT OF THE AUDIT COMMITTEE The information contained in this report shall not be deemed to be soliciting material or filed or incorporated by reference in future filings with the SEC, or"
+   }
+  },
+  "0001193125-18-079291": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1521332/000119312518079291/d527278ddef14a.htm",
+   "periodEnd": "2018-02-05",
+   "tenK": "0001521332-18-000013",
+   "result": {
+    "ceoPay": 13800347,
+    "medianPay": 5464,
+    "payRatio": 2526,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "be. After identifying the Median Employee using the methodology described above, we calculated annual total compensation for the Median Employee using the same methodology as compensation reported in the 2017 Summary Compensation Table for the CEO. The Median Employees annual total compensation is $5,464. When compared to our CEOs annual total compensation of $13,800,347, the ratio of the total annual compensation of our CEO to the total annual compensation of our Median Employee was approximately 2,526 : 1. APTIV PLC 43 | | | 2018 NOTICE OF MEETING AND PROXY STATEMENT | REPORT OF THE AUDIT COMMITTEE The information contained in this report shall not be deemed to be soliciting material or filed or incorporated by reference in future filings with the SEC, or subject to the liabilities"
+   }
+  }
+ },
+ "tenKs": {
+  "0001521332-18-000013": {
+   "parserVersion": 1,
+   "employees": 129000
+  },
+  "0001521332-20-000012": {
+   "parserVersion": 1,
+   "employees": 141000
+  },
+  "0001521332-21-000009": {
+   "parserVersion": 1,
+   "employees": 151000
+  },
+  "0001521332-22-000010": {
+   "parserVersion": 1,
+   "employees": 155000
+  },
+  "0001521332-23-000013": {
+   "parserVersion": 1,
+   "employees": 160000
+  },
+  "0001521332-24-000011": {
+   "parserVersion": 1,
+   "employees": 154000
+  },
+  "0001521332-25-000010": {
+   "parserVersion": 1,
+   "employees": 141000
+  },
+  "0001521332-26-000009": {
+   "parserVersion": 1,
+   "employees": 140000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2010": {
+    "revenue": 13817000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001521332-13-000010"
+   },
+   "2011": {
+    "revenue": 16041000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001521332-14-000011"
+   },
+   "2012": {
+    "revenue": 15519000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001521332-15-000014"
+   },
+   "2013": {
+    "revenue": 15051000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001521332-16-000084"
+   },
+   "2014": {
+    "revenue": 15499000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001521332-17-000013"
+   },
+   "2015": {
+    "revenue": 10864000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001521332-18-000013"
+   },
+   "2016": {
+    "revenue": 12274000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001521332-19-000007"
+   },
+   "2017": {
+    "revenue": 12884000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001521332-20-000012"
+   },
+   "2018": {
+    "revenue": 14435000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001521332-21-000009"
+   },
+   "2019": {
+    "revenue": 14357000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001521332-22-000010"
+   },
+   "2020": {
+    "revenue": 13066000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001521332-23-000013"
+   },
+   "2021": {
+    "revenue": 15618000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001521332-24-000011"
+   },
+   "2022": {
+    "revenue": 17489000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001521332-25-000010"
+   },
+   "2023": {
+    "revenue": 20051000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001521332-26-000009"
+   },
+   "2024": {
+    "revenue": 19713000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001521332-26-000009"
+   },
+   "2025": {
+    "revenue": 20398000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001521332-26-000009"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001521332-26-000009",
+    "filingDate": "2026-02-06",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133226000009/aptv-20251231.htm"
+   },
+   {
+    "accession": "0001521332-25-000010",
+    "filingDate": "2025-02-07",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133225000010/aptv-20241231.htm"
+   },
+   {
+    "accession": "0001521332-24-000011",
+    "filingDate": "2024-02-06",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133224000011/aptv-20231231.htm"
+   },
+   {
+    "accession": "0001521332-23-000013",
+    "filingDate": "2023-02-08",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133223000013/aptv-20221231.htm"
+   },
+   {
+    "accession": "0001521332-22-000010",
+    "filingDate": "2022-02-07",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133222000010/aptv-20211231.htm"
+   },
+   {
+    "accession": "0001521332-21-000009",
+    "filingDate": "2021-02-08",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133221000009/aptv-20201231.htm"
+   },
+   {
+    "accession": "0001521332-20-000012",
+    "filingDate": "2020-02-03",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133220000012/aptv1231201910-k.htm"
+   },
+   {
+    "accession": "0001521332-19-000007",
+    "filingDate": "2019-02-04",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133219000007/aptv1231201810k.htm"
+   },
+   {
+    "accession": "0001521332-18-000013",
+    "filingDate": "2018-02-05",
+    "reportDate": "2018-02-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133218000013/aptv1231201710k.htm"
+   },
+   {
+    "accession": "0001521332-17-000013",
+    "filingDate": "2017-02-06",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1521332/000152133217000013/dlph1231201610k.htm"
+   }
+  ]
+ }
+}

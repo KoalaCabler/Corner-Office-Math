@@ -1,0 +1,368 @@
+{
+ "proxies": {
+  "0001628280-26-067145": {
+   "parserVersion": 1,
+   "filingDate": "2026-10-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013237/000162828026067145/fds-20261026.htm",
+   "periodEnd": "2026-08-31",
+   "tenK": "0001628280-26-066391",
+   "result": {
+    "ceoPay": 62046674,
+    "medianPay": 18413,
+    "payRatio": 3370,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "CEO Pay Ratio As required by Section 953(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (collectively, the \"Pay Ratio Rule\"), we are providing the following estimated information for fiscal 2026: The median of the annual total compensation of all our employees (other than our CEO), wa s $18,413, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K; the annual total compensation of our CEO, as reported in the Summary Compensation Table, w as $62,046,674 (or $15,337,782 excluding the impact of the \"make-whole\" awards described on page 42 and annualizing the long-term incentive award); and the 2026 Proxy Statement 55 ratio of these two amounts was 3,370 to 1 (or 833 to 1 excluding the impact of \"make-whole\" awards and annualizing the long-term ince"
+   }
+  },
+  "0001628280-25-046442": {
+   "parserVersion": 1,
+   "filingDate": "2025-10-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013237/000162828025046442/fds-20251027.htm",
+   "periodEnd": "2025-08-31",
+   "tenK": "0001628280-25-045769",
+   "result": {
+    "ceoPay": 9460930,
+    "medianPay": 17636,
+    "payRatio": 536,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "tion about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO during fiscal 2025, Mr. Snow. For the fiscal year completed August 31, 2025 , the median of the annual total compensation of all employees at FactSet (other than our CEO), wa s $17,636 and the annual total compensation of our CEO, as reported in the Summary Compensation Table of this Proxy Statement, was $9,460,930. Based on this information, for fiscal 2025, a reasonable estimate, calculated in a manner consistent with the Pay Ratio Rule, of the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 536 to 1. The provisions of the Pay Ratio Rule for identifying the median compensated employee and calcu"
+   }
+  },
+  "0001013237-24-000145": {
+   "parserVersion": 1,
+   "filingDate": "2024-10-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013237/000101323724000145/fds-20241029.htm",
+   "periodEnd": "2024-08-31",
+   "tenK": "0001013237-24-000141",
+   "result": {
+    "ceoPay": 7584472,
+    "medianPay": 17171,
+    "payRatio": 442,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "he following information about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Snow. For the fiscal year completed August 31, 2024 , the median of the annual total compensation of all employees at FactSet (other than our CEO), was $17,171 and the annual total compensation of our CEO, as reported in the Summary Compensation Table of this Proxy Statement, was $7,584,472. Based on this information, for fiscal 2024, a reasonable estimate, calculated in a manner consistent with the Pay Ratio Rule, of the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 442 to 1. The provisions of the Pay Ratio Rule for identifying the median compensated employee and calcu"
+   }
+  },
+  "0001013237-23-000130": {
+   "parserVersion": 1,
+   "filingDate": "2023-10-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013237/000101323723000130/fds-20231026.htm",
+   "periodEnd": "2023-08-31",
+   "tenK": "0001013237-23-000128",
+   "result": {
+    "ceoPay": 6862015,
+    "medianPay": 21301,
+    "payRatio": 322,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "he following information about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Snow. For the fiscal year completed August 31, 2023 , the median of the annual total compensation of all employees at FactSet (other than our CEO), was $21,301 and the annual total compensation of our CEO, as reported in the Summary Compensation Table of this Proxy Statement, was $6,862,015. Based on this information, for fiscal 2023, a reasonable estimate, calculated in a manner consistent with the Pay Ratio Rule, of the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 322 to 1. The provisions of the Pay Ratio Rule for identifying the median compensated employee and calcu"
+   }
+  },
+  "0001013237-22-000165": {
+   "parserVersion": 1,
+   "filingDate": "2022-10-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013237/000101323722000165/fds-20220831xdefinitivepro.htm",
+   "periodEnd": "2022-08-31",
+   "tenK": "0001013237-22-000159",
+   "result": {
+    "ceoPay": 6604998,
+    "medianPay": 18958,
+    "payRatio": 348,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "he following information about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Snow. For the fiscal year completed August 31, 2022 , the median of the annual total compensation of all employees at FactSet (other than our CEO), was $18,958 and the annual total compensation of our CEO, as reported in the Summary Compensation Table of this Proxy Statement, was $6,604,998. Based on this information, for fiscal 2022, a reasonable estimate, calculated in a manner consistent with the Pay Ratio Rule, of the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 348 to 1. The provisions of the Pay Ratio Rule for identifying the median compensated employee and calcu"
+   }
+  },
+  "0001013237-21-000147": {
+   "parserVersion": 1,
+   "filingDate": "2021-10-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013237/000101323721000147/fds-20210831xproxy.htm",
+   "periodEnd": "2021-08-31",
+   "tenK": "0001013237-21-000142",
+   "result": {
+    "ceoPay": 5468745,
+    "medianPay": 15272,
+    "payRatio": 358,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "he following information about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Snow. For the fiscal year completed August 31, 2021 , the median of the annual total compensation of all employees at FactSet (other than our CEO), was $15,272 , and the annual total compensation of our CEO, as reported in the Summary Compensation Table of this Proxy Statement, was $5,468,745. Based on this information, for fiscal 2021, a reasonable estimate, calculated in a manner consistent with the Pay Ratio Rule, of the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 358 to 1. The provisions of the Pay Ratio Rule for identifying the median compensated employee and cal"
+   }
+  },
+  "0001013237-20-000156": {
+   "parserVersion": 1,
+   "filingDate": "2020-10-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013237/000101323720000156/fds-20200831xproxyxng.htm",
+   "periodEnd": "2020-08-31",
+   "tenK": "0001013237-20-000153",
+   "result": {
+    "ceoPay": 4719062,
+    "medianPay": 21746,
+    "payRatio": 217,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "he following information about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Snow. For the fiscal year completed August 31, 2020 , the median of the annual total compensation of all employees at FactSet (other than our CEO), was $21,746 , and the annual total compensation of our CEO, as reported in the Summary Compensation Table of this Proxy Statement, was $4,719,062 . Based on this information, for fiscal 2020, a reasonable estimate, calculated in a manner consistent with the Pay Ratio Rule, of the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees was 217 to 1 . The provisions of the Pay Ratio Rule for identifying the median compensated employee and c"
+   }
+  },
+  "0001437749-19-020895": {
+   "parserVersion": 1,
+   "filingDate": "2019-10-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013237/000143774919020895/fds20191027_def14a.htm",
+   "periodEnd": "2019-08-31",
+   "tenK": "0001437749-19-020894",
+   "result": {
+    "ceoPay": 2884084,
+    "medianPay": 17358,
+    "payRatio": 166,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "roviding the following information about the relationship of the annual total compensation of its employees and the annual total compensation of Mr. Snow. For the fiscal year completed August 31, 2019, the median of the annual total compensation of all employees at FactSet (other than its CEO), was $17,358, and the annual total compensation of its CEO, as reported in the Summary Compensation Table of this Proxy Statement, was $2,884,084. Based on this information, for fiscal 2019 a reasonable estimate, calculated in a manner consistent with SEC regulations, of the ratio of the annual total compensation of its CEO, to the median of the annual total compensation of all employees was 166 to 1. Given the differences in their particular facts and circumstances, and the various methodologies tha"
+   }
+  },
+  "0001437749-18-019031": {
+   "parserVersion": 1,
+   "filingDate": "2018-10-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013237/000143774918019031/fds20181028_def14a.htm",
+   "periodEnd": "2018-08-31",
+   "tenK": "0001437749-18-019028",
+   "result": {
+    "ceoPay": 3129509,
+    "medianPay": 15331,
+    "payRatio": 204,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "roviding the following information about the relationship of the annual total compensation of its employees and the annual total compensation of Mr. Snow. For the fiscal year completed August 31, 2018, the median of the annual total compensation of all employees at FactSet (other than its CEO), was $15,331, and the annual total compensation of its CEO, as reported in the Summary Compensation Table of this Proxy Statement, was $3,129,509. Based on this information, for 2018 a reasonable estimate, calculated in a manner consistent with SEC regulations, of the ratio of the annual total compensation of its CEO, to the median of the annual total compensation of all employees was 204 to 1. Given the differences in their particular facts and circumstances, and the various methodologies that publi"
+   }
+  }
+ },
+ "tenKs": {
+  "0001437749-18-019028": {
+   "parserVersion": 1,
+   "employees": 5500
+  },
+  "0001437749-19-020894": {
+   "parserVersion": 1,
+   "employees": 5800
+  },
+  "0001013237-20-000153": {
+   "parserVersion": 1,
+   "employees": 6400
+  },
+  "0001013237-21-000142": {
+   "parserVersion": 1,
+   "employees": 6800
+  },
+  "0001013237-22-000159": {
+   "parserVersion": 1,
+   "employees": 7100
+  },
+  "0001013237-23-000128": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001013237-24-000141": {
+   "parserVersion": 1,
+   "employees": 8632
+  },
+  "0001628280-25-045769": {
+   "parserVersion": 1,
+   "employees": 8854
+  },
+  "0001628280-26-066391": {
+   "parserVersion": 1,
+   "employees": 8652
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 622023000,
+    "periodEnd": "2009-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-288590"
+   },
+   "2010": {
+    "revenue": 641059000,
+    "periodEnd": "2010-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-12-010651"
+   },
+   "2011": {
+    "revenue": 726510000,
+    "periodEnd": "2011-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-13-013610"
+   },
+   "2012": {
+    "revenue": 805793000,
+    "periodEnd": "2012-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-14-019084"
+   },
+   "2013": {
+    "revenue": 858112000,
+    "periodEnd": "2013-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-15-019227"
+   },
+   "2014": {
+    "revenue": 920335000,
+    "periodEnd": "2014-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-16-040606"
+   },
+   "2015": {
+    "revenue": 1006768000,
+    "periodEnd": "2015-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-17-017840"
+   },
+   "2016": {
+    "revenue": 1127092000,
+    "periodEnd": "2016-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-18-019028"
+   },
+   "2017": {
+    "revenue": 1221179000,
+    "periodEnd": "2017-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-19-020894"
+   },
+   "2018": {
+    "revenue": 1350145000,
+    "periodEnd": "2018-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-19-020894"
+   },
+   "2019": {
+    "revenue": 1435351000,
+    "periodEnd": "2019-08-31",
+    "revenueTag": "Revenues",
+    "accession": "0001437749-19-020894"
+   },
+   "2020": {
+    "revenue": 1494111000,
+    "periodEnd": "2020-08-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001013237-22-000159"
+   },
+   "2021": {
+    "revenue": 1591445000,
+    "periodEnd": "2021-08-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001013237-23-000128"
+   },
+   "2022": {
+    "revenue": 1843892000,
+    "periodEnd": "2022-08-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001013237-24-000141"
+   },
+   "2023": {
+    "revenue": 2085508000,
+    "periodEnd": "2023-08-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-25-045769"
+   },
+   "2024": {
+    "revenue": 2203056000,
+    "periodEnd": "2024-08-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-066391"
+   },
+   "2025": {
+    "revenue": 2321748000,
+    "periodEnd": "2025-08-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-066391"
+   },
+   "2026": {
+    "revenue": 2476256000,
+    "periodEnd": "2026-08-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-066391"
+   }
+  },
+  "employeesTagged": {
+   "0001437749-12-010651": 5735,
+   "0001193125-11-288590": 5251,
+   "0001437749-13-013610": 6258
+  },
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-066391",
+    "filingDate": "2026-10-20",
+    "reportDate": "2026-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013237/000162828026066391/fds-20260831.htm"
+   },
+   {
+    "accession": "0001628280-25-045769",
+    "filingDate": "2025-10-22",
+    "reportDate": "2025-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013237/000162828025045769/fds-20250831.htm"
+   },
+   {
+    "accession": "0001013237-24-000141",
+    "filingDate": "2024-10-29",
+    "reportDate": "2024-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013237/000101323724000141/fds-20240831.htm"
+   },
+   {
+    "accession": "0001013237-23-000128",
+    "filingDate": "2023-10-27",
+    "reportDate": "2023-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013237/000101323723000128/fds-20230831.htm"
+   },
+   {
+    "accession": "0001013237-22-000159",
+    "filingDate": "2022-10-21",
+    "reportDate": "2022-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013237/000101323722000159/fds-20220831.htm"
+   },
+   {
+    "accession": "0001013237-21-000142",
+    "filingDate": "2021-10-22",
+    "reportDate": "2021-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013237/000101323721000142/fds-20210831.htm"
+   },
+   {
+    "accession": "0001013237-20-000153",
+    "filingDate": "2020-10-29",
+    "reportDate": "2020-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013237/000101323720000153/fds-20200831.htm"
+   },
+   {
+    "accession": "0001437749-19-020894",
+    "filingDate": "2019-10-30",
+    "reportDate": "2019-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013237/000143774919020894/fds20190831_10k.htm"
+   },
+   {
+    "accession": "0001437749-18-019028",
+    "filingDate": "2018-10-30",
+    "reportDate": "2018-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013237/000143774918019028/fds20180831_10k.htm"
+   },
+   {
+    "accession": "0001437749-17-017840",
+    "filingDate": "2017-10-30",
+    "reportDate": "2017-08-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013237/000143774917017840/fds20170831_10k.htm"
+   }
+  ]
+ }
+}

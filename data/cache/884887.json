@@ -1,0 +1,340 @@
+{
+ "proxies": {
+  "0000884887-26-000017": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000017/rcl-20260417.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000884887-26-000007",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 19027,
+    "payRatio": 1260,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "year and thus did not receive any compensation) to identify our median employee. We did not annualize the pay for our employees when identifying our median. We determined that this person was a crew member whose total compensation for 2025 , calculated consistent with Item 402(c) of Regulation, was $19,027 . This figure includes shipboard pension and gratuities directly billed to our guests but excludes any cash gratuities paid directly to the employee by guests. Based upon this methodology and the CEO's total compensation, as set forth in the Summary Compensation Table, we estimate the ratio of our CEO's pay to the median employee's pay is 1260 to 1. Pay Versus Performance As required by Section 953(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act and Item 402(v) of Reg"
+   }
+  },
+  "0000884887-25-000087": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488725000087/rcl-20250418.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000884887-25-000050",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 18799,
+    "payRatio": 1037,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "g the year and thus did not receive any compensation) to identify our median employee. We did not annualize the pay for our employees when identifying our median. We determined that this person was a crew member whose total compensation for 2024, calculated consistent with Item 402(c) of Regulation $18,799 . This figure includes shipboard pension and gratuities directly billed to our guests but excludes any cash gratuities paid directly to the employee by guests. Based upon this methodology and the CEO's total compensation, as set forth in the Summary Compensation Table, we estimate the ratio of our CEO's pay to the median employee's pay is 1037 to 1. Pay Versus Performance As required by Section 953(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act and Item 402(v) of Reg"
+   }
+  },
+  "0001140361-24-020353": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000114036124020353/ny20022903x1_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000884887-24-000075",
+   "result": {
+    "ceoPay": 17216276,
+    "medianPay": 18073,
+    "payRatio": 953,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "r and thus did not receive any compensation) to identify our median employee. We did not annualize the pay for our employees when identifying our median. We determined that this person was a crew member whose total compensation for 2023, calculated consistent with Item 402(c) of Regulation S-K, was $18,073. This figure includes shipboard pension and gratuities directly billed to our guests but excludes any cash gratuities paid directly to the employee by guests. Based upon this methodology and the CEO's total compensation, as set forth in the Summary Compensation Table, we estimate the ratio of our CEO's pay to the median employee's pay is 953 to 1. | 72 | | | | | | 2024 Proxy Statement | | | | | | | TABLE OF CONTENTS Pay Versus Performance As required by Section 953(a) of the Dodd-Frank W"
+   }
+  },
+  "0001308179-23-000689": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000130817923000689/rcl4106121-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000884887-23-000006",
+   "result": {
+    "ceoPay": 10764258,
+    "medianPay": 15264,
+    "payRatio": 705,
+    "method": "cross-checked",
+    "employees": 84059,
+    "statedYear": 2022,
+    "excerpt": "n gross wages for our employee population and identified our median employee. We did not annualize the pay for our employees when identifying our median. We determined that this person was a crew member whose total compensation for 2022, calculated consistent with Item 402(c) of Regulation S-K, was $15,264. This figure includes gratuities directly billed to our guests but excludes any cash gratuities paid directly to the employee by guests. It also excludes room and board, which is provided to our crew members without charge. Based upon this methodology and the CEO's total compensation, as set forth in the Summary Compensation Table, we estimate the ratio of our CEO's pay to the median employee's pay is 705 to 1. | | | | | 2023 Proxy - CEO Pay Ratio | | 75 | | | Table of Contents Pay Versu"
+   }
+  },
+  "0001206774-22-001125": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000120677422001125/rcl4015761-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000884887-22-000008",
+   "result": {
+    "ceoPay": 300000,
+    "medianPay": 100000,
+    "payRatio": 3,
+    "method": "cross-checked",
+    "employees": 85000,
+    "statedYear": 2021,
+    "excerpt": "compensation, as set forth in the Summary Compensation Table, we estimate the ratio of our CEO's pay to the median employee's pay is 1,075 to 1. | 80 | | | | 2022 Proxy - CEO Pay Ratio | Table of Contents Director Compensation for 2021 Director Compensation for 2021 We pay annual cash retainers of $100,000 to our directors for their service on the Board. We also pay annual cash retainers for chairing and service on various Board committees. The amount of these retainers in 2021 for a full year of service was as follows: | Committee Role | | | | Audit Committee | | | | | | Talent & Compensation Committee | | | | | | Nominating & Corporate Governance Committee | | | | | | Safety, Environment, Sustainability & Health Committee | | | | Chairman | | | | $ | | 35,000 | | | | | | $ | | 25,500 |"
+   }
+  },
+  "0001047469-21-001010": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000104746921001010/a2243209zdef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000884887-21-000006",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 8664,
+    "payRatio": 1395,
+    "method": "ratio-and-median",
+    "employees": 85000,
+    "statedYear": 2020,
+    "excerpt": "atio disclosure with respect to 2020 compensation, we calculated median gross wages for our employee population and identified our median employee, who we determined to be a crew member. The median employee's total compensation for 2020, calculated consistent with Item 402(c) of Regulation S-K, was $8,664. This figure includes gratuities directly billed to our guests but excludes any cash gratuities paid directly to the employee by guests. It also excludes room and board, which is provided to our crew members without charge. Based upon this methodology and the CEO's total compensation, as set forth in the Summary Compensation Table, we estimate the ratio of our CEO pay to the median employee's pay is 1,395 to 1. 65 Table of Contents PROPOSAL 2  ADVISORY VOTE TO APPROVE THE COMPENSATION OF"
+   }
+  },
+  "0001047469-20-002406": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000104746920002406/a2241308zdef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000884887-20-000009",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 17303,
+    "payRatio": 830,
+    "method": "ratio-and-median",
+    "employees": 85400,
+    "statedYear": 2019,
+    "excerpt": "atio disclosure with respect to 2019 compensation, we calculated median gross wages for our employee population and identified our median employee, who we determined to be a crew member. The median employee's total compensation for 2019, calculated consistent with Item 402(c) of Regulation S-K, was $17,303. This figure includes gratuities directly billed to our guests but excludes any cash gratuities paid directly to the employee by guests. It also excludes room and board, which is provided to our crew members without charge. Based upon this methodology and the CEO's total compensation, as set forth in the Summary Compensation Table, we estimate the ratio of our CEO pay to the median employee's pay is 830:1. 53 Table of Contents PROPOSAL 2  ADVISORY VOTE TO APPROVE THE COMPENSATION OF OUR"
+   }
+  },
+  "0001047469-19-002383": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000104746919002383/a2238464zdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000884887-19-000017",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 19396,
+    "payRatio": 640,
+    "method": "ratio-and-median",
+    "employees": 77000,
+    "statedYear": 2018,
+    "excerpt": "t our pay ratio disclosure. We have therefore used the same median employee for our pay ratio disclosure with respect to 2018 compensation, as permitted by Item 402(u) of Regulation S-K. The median employee's total compensation for 2018, calculated consistent with Item 402(c) of Regulation S-K, was $19,396. This figure includes gratuities directly billed to our guests, but excludes any cash gratuities paid directly to the employee by guests. It also excludes room and board, which is provided to our crew members without charge. Based upon this methodology and the CEO's total compensation, as set forth in the Summary Compensation Table, we estimate the ratio of our CEO pay to the median employee's pay is 640:1. 53 Table of Contents PROPOSAL 2  ADVISORY VOTE TO APPROVE THE COMPENSATION OF OU"
+   }
+  },
+  "0001047469-18-003071": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/884887/000104746918003071/a2235350zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000884887-18-000017",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 18320,
+    "payRatio": 728,
+    "method": "ratio-and-median",
+    "employees": 64000,
+    "statedYear": null,
+    "excerpt": ": We had approximately 64,000 employees as of December 31, 2017. We calculated median gross wages for this employee population and identified our median employee. We determined that this person was a crew member whose total compensation, calculated consistent with Item 402(c) of Regulation S-K, was $18,320. This figure includes gratuities directly billed to our guests, but excludes any cash gratuities paid directly to the employee by guests. It also excludes room and board, which is provided to our crew members without charge. Based upon this methodology and the CEO's total compensation, as set forth in the Summary Compensation Table, we estimate the ratio of our CEO pay to the median worker's pay is 728:1. 54 Table of Contents PROPOSAL 2  ADVISORY VOTE TO APPROVE THE COMPENSATION OF OUR"
+   }
+  }
+ },
+ "tenKs": {
+  "0000884887-24-000075": {
+   "parserVersion": 1,
+   "employees": 98200
+  },
+  "0000884887-25-000050": {
+   "parserVersion": 1,
+   "employees": 106000
+  },
+  "0000884887-26-000007": {
+   "parserVersion": 1,
+   "employees": 108000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 6532525000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-045435"
+   },
+   "2009": {
+    "revenue": 5889826000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-087322"
+   },
+   "2010": {
+    "revenue": 6752504000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-13-001567"
+   },
+   "2011": {
+    "revenue": 7537263000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000884887-14-000023"
+   },
+   "2012": {
+    "revenue": 7688024000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000884887-15-000025"
+   },
+   "2013": {
+    "revenue": 7959894000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000884887-16-000126"
+   },
+   "2014": {
+    "revenue": 8073855000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000884887-17-000020"
+   },
+   "2015": {
+    "revenue": 8299074000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000884887-18-000017"
+   },
+   "2016": {
+    "revenue": 8496401000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000884887-18-000017"
+   },
+   "2017": {
+    "revenue": 8777845000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000884887-18-000017"
+   },
+   "2018": {
+    "revenue": 9493849000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000884887-21-000006"
+   },
+   "2019": {
+    "revenue": 10950661000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000884887-22-000008"
+   },
+   "2020": {
+    "revenue": 2208805000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000884887-23-000006"
+   },
+   "2021": {
+    "revenue": 1532000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000884887-24-000075"
+   },
+   "2022": {
+    "revenue": 8840000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000884887-25-000050"
+   },
+   "2023": {
+    "revenue": 13900000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000884887-26-000007"
+   },
+   "2024": {
+    "revenue": 16484000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000884887-26-000007"
+   },
+   "2025": {
+    "revenue": 17935000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000884887-26-000007"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000884887-26-000007",
+    "filingDate": "2026-02-11",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488726000007/rcl-20251231.htm"
+   },
+   {
+    "accession": "0000884887-25-000050",
+    "filingDate": "2025-02-14",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488725000050/rcl-20241231.htm"
+   },
+   {
+    "accession": "0000884887-24-000075",
+    "filingDate": "2024-02-21",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488724000075/rcl-20231231.htm"
+   },
+   {
+    "accession": "0000884887-23-000006",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488723000006/rcl-20221231.htm"
+   },
+   {
+    "accession": "0000884887-22-000008",
+    "filingDate": "2022-03-01",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488722000008/rcl-20211231.htm"
+   },
+   {
+    "accession": "0000884887-21-000006",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488721000006/rcl-20201231.htm"
+   },
+   {
+    "accession": "0000884887-20-000009",
+    "filingDate": "2020-02-25",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488720000009/rcl-20191231.htm"
+   },
+   {
+    "accession": "0000884887-19-000017",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488719000017/rcl-20181231x10k.htm"
+   },
+   {
+    "accession": "0000884887-18-000017",
+    "filingDate": "2018-02-21",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488718000017/rcl-20171231x10k.htm"
+   },
+   {
+    "accession": "0000884887-17-000020",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/884887/000088488717000020/rcl-20161231x10k.htm"
+   }
+  ]
+ }
+}

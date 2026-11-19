@@ -1,0 +1,356 @@
+{
+ "proxies": {
+  "0000899051-26-000063": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000063/all-20260410.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000899051-26-000031",
+   "result": {
+    "ceoPay": 22920898,
+    "medianPay": 74782,
+    "payRatio": 306,
+    "method": "cross-checked",
+    "employees": 1802,
+    "statedYear": 2025,
+    "excerpt": "nformation about the relationship of the annual total compensation of our employees to the annual total compensation of Mr. Wilson, our CEO. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. For 2025: • The annual total compensation of our median employee was $74,782. • The annual total compensation of our CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $22,920,898. • The ratio of the annual total compensation of Mr. Wilson to our median employee was 306:1. We followed SEC permitted rules to calculate the ratio and used the following methodology and material assumptions, adjustments and estimates: | | | | | | | | | | | | | | | | | | | | | | December 31, 2025 was selected as the determination date as it enabled us to ch"
+   }
+  },
+  "0000899051-25-000030": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905125000030/all-20250417.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000899051-25-000015",
+   "result": {
+    "ceoPay": 26744085,
+    "medianPay": 73333,
+    "payRatio": 364,
+    "method": "cross-checked",
+    "employees": 1058,
+    "statedYear": 2022,
+    "excerpt": "t we used for purposes of calculating the CEO pay ratio for 2022 and 2023, as there has been no meaningful change in our employee population or employee compensation arrangements that we believe would significantly impact the CEO pay ratio. • The annual total compensation of our median employee was $73,333. • The annual total compensation of our CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $26,744,085. • The ratio of the annual total compensation of Mr. Wilson to our median employee was 364:1. In 2022, to calculate the ratio, we followed SEC permitted rules and used the following methodology and material assumptions, adjustments and estimates: | | | | | | | | | December 31, 2022 was selected as the determination date as it enabled us to choose a pay date"
+   }
+  },
+  "0001308179-24-000404": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/899051/000130817924000404/all4258441-def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000899051-24-000013",
+   "result": {
+    "ceoPay": 16487957,
+    "medianPay": 68814,
+    "payRatio": 239,
+    "method": "cross-checked",
+    "employees": 1058,
+    "statedYear": 2022,
+    "excerpt": "that we used for purposes of calculating the CEO pay ratio for 2022, as there has been no meaningful change in our employee population or employee compensation arrangements that we believe would significantly impact the CEO pay ratio. | ● | | the annual total compensation of our median employee was $68,814; and | | ● | | the annual total compensation of our CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $16,487,957. | | ● | | The ratio of the annual total compensation of Mr. Wilson to our median employee was 239:1. | In 2022, to calculate the ratio, we followed SEC permitted rules and used the following methodology and material assumptions, adjustments, and estimates: | ● | | December 31, 2022 was selected as the determination date as it enabled us to choos"
+   }
+  },
+  "0001308179-23-000618": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/899051/000130817923000618/all4106341-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000899051-23-000020",
+   "result": {
+    "ceoPay": 15005001,
+    "medianPay": 66189,
+    "payRatio": 226,
+    "method": "cross-checked",
+    "employees": 1058,
+    "statedYear": 2022,
+    "excerpt": "tion about the relationship of the annual total compensation of our employees to the annual total compensation of Mr. Wilson, our CEO. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. For 2022: | ● | | the annual total compensation of our median employee was $66,189; and | | ● | | the annual total compensation of our CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $15,005,001. | | ● | | The ratio of the annual total compensation of Mr. Wilson to our median employee was 226:1. | | | | | | | | | | To calculate the ratio, we followed SEC permitted rules and used the following methodology and material assumptions, adjustments, and estimates: | | | | | | | | | | ● | | December 31, 2022 was selected as the determination dat"
+   }
+  },
+  "0001206774-22-001068": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/899051/000120677422001068/all3970181-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000899051-22-000015",
+   "result": {
+    "ceoPay": 19066920,
+    "medianPay": 62235,
+    "payRatio": 306,
+    "method": "cross-checked",
+    "employees": 880,
+    "statedYear": 2021,
+    "excerpt": "tion about the relationship of the annual total compensation of our employees to the annual total compensation of Mr. Wilson, our CEO. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. For 2021: | ● | | the annual total compensation of our median employee was $62,235; and | | ● | | the annual total compensation of our CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $19,066,920. | | ● | | The ratio of the annual total compensation of Mr. Wilson to our median employee was 306:1. | As required by SEC rules, the annual total compensation for both the CEO and median employee includes the change in pension value during the year. The change in pension value is subject to several external variables, including interest rates, t"
+   }
+  },
+  "0001206774-21-001081": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/899051/000120677421001081/all3822771-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000899051-21-000011",
+   "result": {
+    "ceoPay": 21126386,
+    "medianPay": 102184,
+    "payRatio": 206,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "mation about the relationship of the annual total compensation of our employees to the annual total compensation of Mr. Wilson, our CEO. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. For 2020: | | | the annual total compensation of our median employee was $102,184; and | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $21,126,386. | | | | The ratio of the annual total compensation of Mr. Wilson to our median employee was 206:1. | As required by SEC rules, the annual total compensation for both the CEO and median employee includes the change in pension value during the year. The change in pension value is subject to several external variables, including interest rates, that"
+   }
+  },
+  "0001206774-20-001085": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/899051/000120677420001085/all3645741-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000899051-20-000013",
+   "result": {
+    "ceoPay": 19615696,
+    "medianPay": 61860,
+    "payRatio": 317,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "tion about the relationship of the annual total compensation of our employees to the annual total compensation of Mr. Wilson, our CEO. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. For 2019: | ► | | the annual total compensation of our median employee was $61,860; and | | ► | | the annual total compensation of our CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $19,615,696. | | ► | | The ratio of the annual total compensation of Mr. Wilson to our median employee was 317:1. | As required by SEC rules, the annual total compensation for both the CEO and median employee includes the change in pension value during the year. The change in pension value is subject to several external variables, including interest rates, t"
+   }
+  },
+  "0001206774-19-001263": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/899051/000120677419001263/all3474231-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000899051-19-000007",
+   "result": {
+    "ceoPay": 18687246,
+    "medianPay": 72363,
+    "payRatio": 258,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "tion about the relationship of the annual total compensation of our employees to the annual total compensation of Mr. Wilson, our CEO. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. For 2018: | ► | | the annual total compensation of our median employee was $72,363; and | | ► | | the annual total compensation of our CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $18,687,246. | | ► | | The ratio of the annual total compensation of Mr. Wilson to our median employee was 258:1. | In contrast to the compensation of the median employee, a significant portion of our CEO's compensation is tied to company performance. If we were to calculate the ratio using Mr. Wilson's target annual cash incentive (as opposed to the actual"
+   }
+  },
+  "0001206774-18-000988": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/899051/000120677418000988/allstate3288151-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000899051-18-000007",
+   "result": {
+    "ceoPay": 18757329,
+    "medianPay": 81573,
+    "payRatio": 230,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ual total compensation of our employees to the annual total compensation of Mr. Wilson, our Chief Executive Officer (\"CEO\"). This pay ratio is a reasonable estimate calculated in a manner consistent with the final SEC rules. For 2017, | ● | | the annual total compensation of our median employee was $81,573; and | | ● | | the annual total compensation of our CEO, as reported in the Summary Compensation Table in this Proxy Statement, was $18,757,329. | | ● | | The ratio of the annual total compensation of Mr. Wilson to our median employee was 230:1. | As required by SEC rules, the annual total compensation for both the CEO and median employee includes the change in pension value during the year. The change in pension value is subject to several external variables, including interest rates, t"
+   }
+  }
+ },
+ "tenKs": {
+  "0000899051-18-000007": {
+   "parserVersion": 1,
+   "employees": 42460
+  },
+  "0000899051-19-000007": {
+   "parserVersion": 1,
+   "employees": 1000000
+  },
+  "0000899051-20-000013": {
+   "parserVersion": 1,
+   "employees": 10000
+  },
+  "0000899051-21-000011": {
+   "parserVersion": 1,
+   "employees": 10000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 36769000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-10-001355"
+   },
+   "2008": {
+    "revenue": 29394000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-001286"
+   },
+   "2009": {
+    "revenue": 32013000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-12-001250"
+   },
+   "2010": {
+    "revenue": 31400000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-13-001288"
+   },
+   "2011": {
+    "revenue": 32654000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-14-001083"
+   },
+   "2012": {
+    "revenue": 33315000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-15-000935"
+   },
+   "2013": {
+    "revenue": 34507000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-16-000040"
+   },
+   "2014": {
+    "revenue": 35239000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-17-000005"
+   },
+   "2015": {
+    "revenue": 35653000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-18-000007"
+   },
+   "2016": {
+    "revenue": 37399000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-19-000007"
+   },
+   "2017": {
+    "revenue": 39407000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-20-000013"
+   },
+   "2018": {
+    "revenue": 39815000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-21-000011"
+   },
+   "2019": {
+    "revenue": 41541000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-22-000015"
+   },
+   "2020": {
+    "revenue": 41909000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-23-000020"
+   },
+   "2021": {
+    "revenue": 50601000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-24-000013"
+   },
+   "2022": {
+    "revenue": 51411000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-25-000015"
+   },
+   "2023": {
+    "revenue": 57094000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-26-000031"
+   },
+   "2024": {
+    "revenue": 64106000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-26-000031"
+   },
+   "2025": {
+    "revenue": 67685000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000899051-26-000031"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 19066920,
+   "2022": 15005001,
+   "2023": 16487957,
+   "2024": 26744295,
+   "2025": 22920898
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000899051-26-000031",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905126000031/all-20251231.htm"
+   },
+   {
+    "accession": "0000899051-25-000015",
+    "filingDate": "2025-02-24",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905125000015/all-20241231.htm"
+   },
+   {
+    "accession": "0000899051-24-000013",
+    "filingDate": "2024-02-21",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905124000013/all-20231231.htm"
+   },
+   {
+    "accession": "0000899051-23-000020",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905123000020/all-20221231.htm"
+   },
+   {
+    "accession": "0000899051-22-000015",
+    "filingDate": "2022-02-18",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905122000015/all-20211231.htm"
+   },
+   {
+    "accession": "0000899051-21-000011",
+    "filingDate": "2021-02-22",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905121000011/all-20201231.htm"
+   },
+   {
+    "accession": "0000899051-20-000013",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905120000013/allcorp-12311910xk.htm"
+   },
+   {
+    "accession": "0000899051-19-000007",
+    "filingDate": "2019-02-15",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905119000007/allcorp-12311810xk.htm"
+   },
+   {
+    "accession": "0000899051-18-000007",
+    "filingDate": "2018-02-26",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905118000007/allcorp-12311710xk.htm"
+   },
+   {
+    "accession": "0000899051-17-000005",
+    "filingDate": "2017-02-17",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/899051/000089905117000005/allcorp-12311610xk.htm"
+   }
+  ]
+ }
+}

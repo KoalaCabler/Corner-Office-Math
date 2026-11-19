@@ -1,0 +1,346 @@
+{
+ "proxies": {
+  "0001104659-26-033387": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001551152-26-000008",
+   "result": {
+    "ceoPay": 32530984,
+    "medianPay": 169019,
+    "payRatio": 192,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "able estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The ratio of Mr. Michael's annual total compensation for 2025, as reported in the Summary Compensation Table of this proxy statement, to the median employee annual total compensation determined on the same basis was 192:1. For 2025, the annual total compensation of our median employee (other than Mr. Michael) was $169,019. To identify the median employee, we prepared a list of active AbbVie employees throughout the world as of December 19, 2025, which was the last payroll date in 2025. Because we use the last payroll date of the applicable year as the determination date, it may vary from year-to-year. The consistently applied compensation measure used to identify the median employee was annual base pay and"
+   }
+  },
+  "0001558370-25-003537": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837025003537/abbv-20250509xdef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001551152-25-000020",
+   "result": {
+    "ceoPay": 18492517,
+    "medianPay": 134351,
+    "payRatio": 138,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "able estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The ratio of Mr. Michael's annual total compensation for 2024, as reported in the Summary Compensation Table in this proxy statement, to the median employee annual total compensation determined on the same basis was 138:1. For 2024, the annual total compensation of our median employee (other than Mr. Michael) was $134,351 . To identify the median employee, we prepared a list of active AbbVie employees throughout the world as of December 20, 2024, which was the last payroll date in 2024. Because we use the last payroll date of the applicable year as the determination date, it may vary from year-to-year. The consistently applied compensation measure used to identify the median employee was annual base pay and"
+   }
+  },
+  "0001558370-24-003496": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837024003496/abbv-20240503xdef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001551152-24-000011",
+   "result": {
+    "ceoPay": 25661972,
+    "medianPay": 151991,
+    "payRatio": 169,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ble estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The ratio of Mr. Gonzalez's annual total compensation for 2023, as reported in the Summary Compensation Table in this proxy statement, to the median employee annual total compensation determined on the same basis was 169:1. For 2023, the annual total compensation of our median employee (other than Mr. Gonzalez) was $151,991 . To identify the median employee, we prepared a list of active AbbVie employees, throughout the world as of December 31, 202 3. The consistently applied compensation measure used to identify the median employee was annual base pay and target bonus, using hours worked during 2023 for hourly employees and base salary for the remaining employees. This process resulted in a median group cons"
+   }
+  },
+  "0001558370-23-004204": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837023004204/abbv-20230505xdef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001551152-23-000011",
+   "result": {
+    "ceoPay": 26287185,
+    "medianPay": 117189,
+    "payRatio": 224,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "onable estimate calculated in a manner consistent with Regulation S-K Item 402(u). The ratio of Mr. Gonzalez's annual total compensation for 2022, as reported in the Summary Compensation Table in this proxy statement, to the median employee annual total compensation determined on the same basis was 224:1. For 2022, the annual total compensation of our median employee (other than Mr. Gonzalez) was $117,189. Annual total compensation is calculated by incorporating the increase in present value of accumulated pension benefits during the year. Due to rising interest rates in 2022 the present value of participants' pension benefits is lower on a valuation basis, which is the main reason for a decline in the annual total compensation for the median employee as compared to 2021. For 2022, we used"
+   }
+  },
+  "0001558370-22-004011": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837022004011/tmb-20220506xdef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001551152-22-000007",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 149662,
+    "payRatio": 160,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "onable estimate calculated in a manner consistent with Regulation S-K Item 402(u). The ratio of Mr. Gonzalez's annual total compensation for 2021, as reported in the Summary Compensation Table in this proxy statement, to the median employee annual total compensation determined on the same basis was 160:1. For 2021, the annual total compensation of our median employee (other than Mr. Gonzalez) was $149,662. To identify the median employee, we prepared a list of active AbbVie employees, including legacy Allergan employees, throughout the world as of December 31, 2021. The consistently applied compensation measure used to identify the median employee was annual base pay and target bonus, using hours worked during 2021 for hourly employees and base salary for the remaining employees. This proc"
+   }
+  },
+  "0001558370-21-003318": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837021003318/tmb-20210507xdef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001551152-21-000008",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 155772,
+    "payRatio": 154,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "onable estimate calculated in a manner consistent with Regulation S-K Item 402(u). The ratio of Mr. Gonzalez's annual total compensation for 2020, as reported in the Summary Compensation Table in this proxy statement, to the median employee annual total compensation determined on the same basis was 154:1. For 2020, the annual total compensation of our median employee (other than Mr. Gonzalez) was $155,772. To identify the median employee, we prepared a list of active AbbVie employees throughout the world as of December 25, 2020. In accordance with SEC rules, we omitted approximately 16,935 legacy Allergan employees who became our employees during 2020 as a result of our acquisition of Allergan plc. The consistently applied compensation measure used to identify the median employee was annua"
+   }
+  },
+  "0001047469-20-001710": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746920001710/a2241076zdef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001551152-20-000007",
+   "result": {
+    "ceoPay": 4287970,
+    "medianPay": 31471,
+    "payRatio": 139,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "in cash on a current basis and deposited into a grantor trust established by the NEO, net of maximum tax withholdings. Other 2019 Compensation The totals shown in the table include the cost of providing a corporate automobile less the amount reimbursed by the NEO: R. Gonzalez: $20,944; R. Michael: $31,471; L. Schumacher: $19,755; C. Alban: $19,227; and M. Severino: $20,834. AbbVie imputes income to the NEO, if required, and the NEO pays taxes in accordance with tax regulations without gross-ups. The totals shown in the table include a $10,000 financial planning services allowance for each NEO. AbbVie imputes income to the NEO, if required, and the NEO pays taxes in accordance with tax regulations without gross-ups. The totals shown in the table include the following costs for non-business"
+   }
+  },
+  "0001047469-19-001544": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746919001544/a2238040zdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001551152-19-000008",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 148823,
+    "payRatio": 143,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "onable estimate calculated in a manner consistent with Regulation S-K Item 402(u). The ratio of Mr. Gonzalez's annual total compensation for 2018, as reported in the Summary Compensation Table in this proxy statement, to the median employee annual total compensation determined on the same basis was 143:1. For 2018, the annual total compensation of our median employee (other than Mr. Gonzalez) was $148,823. To identify the median employee, we prepared a list of all active AbbVie employees throughout the world as of December 28, 2018. The consistently applied compensation measure used to identify the median employee was annual base pay and target 48 | 2019 Proxy Statement Table of Contents | EXECUTIVE COMPENSATION | bonus, using hours worked during 2018 for hourly employees and base salary f"
+   }
+  },
+  "0001047469-18-001843": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746918001843/a2234787zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001551152-18-000014",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 157347,
+    "payRatio": 144,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "onable estimate calculated in a manner consistent with Regulation S-K Item 402(u). The ratio of Mr. Gonzalez's annual total compensation for 2017, as reported in the Summary Compensation Table in this proxy statement, to the median employee annual total compensation determined on the same basis was 144:1. For 2017, the annual total compensation of our median employee (other than Mr. Gonzalez) was $157,347. To identify the median employee, we prepared a list of all active AbbVie employees throughout the world as of December 28, 2017. The consistently applied compensation measure used to identify the median employee was annual base pay and target bonus, using hours worked during 2017 for hourly employees and base salary for the remaining employees. This process resulted in a median group con"
+   }
+  }
+ },
+ "tenKs": {
+  "0001551152-18-000014": {
+   "parserVersion": 1,
+   "employees": 29000
+  },
+  "0001551152-19-000008": {
+   "parserVersion": 1,
+   "employees": 30000
+  },
+  "0001551152-20-000007": {
+   "parserVersion": 1,
+   "employees": 30000
+  },
+  "0001551152-21-000008": {
+   "parserVersion": 1,
+   "employees": 47000
+  },
+  "0001551152-22-000007": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0001551152-23-000011": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0001551152-24-000011": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0001551152-25-000020": {
+   "parserVersion": 1,
+   "employees": 55000
+  },
+  "0001551152-26-000008": {
+   "parserVersion": 1,
+   "employees": 57000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2011": {
+    "revenue": 17444000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-14-001154"
+   },
+   "2012": {
+    "revenue": 18380000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-15-000995"
+   },
+   "2013": {
+    "revenue": 18790000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-16-010239"
+   },
+   "2014": {
+    "revenue": 19960000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001551152-17-000004"
+   },
+   "2015": {
+    "revenue": 22859000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001551152-18-000014"
+   },
+   "2016": {
+    "revenue": 25638000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001551152-19-000008"
+   },
+   "2017": {
+    "revenue": 28216000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001551152-20-000007"
+   },
+   "2018": {
+    "revenue": 32753000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001551152-21-000008"
+   },
+   "2019": {
+    "revenue": 33266000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001551152-22-000007"
+   },
+   "2020": {
+    "revenue": 45804000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001551152-23-000011"
+   },
+   "2021": {
+    "revenue": 56197000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001551152-24-000011"
+   },
+   "2022": {
+    "revenue": 58054000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001551152-25-000020"
+   },
+   "2023": {
+    "revenue": 54318000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001551152-26-000008"
+   },
+   "2024": {
+    "revenue": 56334000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001551152-26-000008"
+   },
+   "2025": {
+    "revenue": 61160000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001551152-26-000008"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001551152-26-000008",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm"
+   },
+   {
+    "accession": "0001551152-25-000020",
+    "filingDate": "2025-02-14",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115225000020/abbv-20241231.htm"
+   },
+   {
+    "accession": "0001551152-24-000011",
+    "filingDate": "2024-02-20",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115224000011/abbv-20231231.htm"
+   },
+   {
+    "accession": "0001551152-23-000011",
+    "filingDate": "2023-02-17",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115223000011/abbv-20221231.htm"
+   },
+   {
+    "accession": "0001551152-22-000007",
+    "filingDate": "2022-02-18",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115222000007/abbv-20211231.htm"
+   },
+   {
+    "accession": "0001551152-21-000008",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115221000008/abbv-20201231.htm"
+   },
+   {
+    "accession": "0001551152-20-000007",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115220000007/abbv-20191231x10k.htm"
+   },
+   {
+    "accession": "0001551152-19-000008",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115219000008/abbv-20181231x10k.htm"
+   },
+   {
+    "accession": "0001551152-18-000014",
+    "filingDate": "2018-02-16",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115218000014/abbv-20171231x10k.htm"
+   },
+   {
+    "accession": "0001551152-17-000004",
+    "filingDate": "2017-02-17",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115217000004/abbv-12312016x10k.htm"
+   }
+  ]
+ }
+}

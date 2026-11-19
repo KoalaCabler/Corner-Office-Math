@@ -1,0 +1,358 @@
+{
+ "proxies": {
+  "0000072971-26-000200": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000200/wfc-20260318.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000072971-26-000133",
+   "result": {
+    "ceoPay": 94522642,
+    "medianPay": 82044,
+    "payRatio": 1152,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "al compensation of the median Wells Fargo employee (other than our CEO) was $82,044. As such, our CEO's total annual compensation was approximately 1,152 times that of the estimated annual total compensation of the median Wells Fargo employee in 2025. | | | | | | | CEO annual total compensation | | $94,522,642 | | | Median Employee estimated annual total compensation | | $82,044 | | | Ratio of CEO annual total compensation to Median Employee estimated annual total compensation | | 1,152:1 | Median Employee Total Annual Compensation Methodology To identify the estimated total annual compensation of the median Wells Fargo employee other than our CEO: • We prepared a database including the total gross amount of salary, wages, and other non-equity compensation (which depending on the individua"
+   }
+  },
+  "0000072971-25-000090": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000090/wfc-20250317.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000072971-25-000066",
+   "result": {
+    "ceoPay": 30313559,
+    "medianPay": 80296,
+    "payRatio": 378,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "otal compensation of the median Wells Fargo employee (other than our CEO) was $80,296. As such, our CEO's total annual compensation was approximately 378 times that of the estimated annual total compensation of the median Wells Fargo employee in 2024. | | | | | | | CEO annual total compensation | | $30,313,559 | | | Median Employee estimated annual total compensation | | $80,296 | | | Ratio of CEO annual total compensation to Median Employee estimated annual total compensation | | 378:1 | Median Employee Total Annual Compensation Methodology To identify the estimated total annual compensation of the median Wells Fargo employee other than our CEO: • We prepared a database including the total gross amount of salary, wages, and other non-equity compensation (which depending on the individual"
+   }
+  },
+  "0000072971-24-000084": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000084/wfc-20240315.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000072971-24-000064",
+   "result": {
+    "ceoPay": 25966198,
+    "medianPay": 80012,
+    "payRatio": 325,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "tal compensation of the median Wells Fargo employee (other than our CEO) was $80,012. As such, our CEO's total annual compensation was approximately 325 times that of the estimated annual total compensation of the median Wells Fargo employee in 20 23. | | | | | | | CEO annual total compensation | | $25,966,198 | | | Median Employee estimated annual total compensation | | $80,012 | | | Ratio of CEO annual total compensation to Median Employee estimated annual total compensation | | 325:1 | Median Employee Total Annual Compensation Methodology To identify the estimated total annual compensation of the median Wells Fargo employee other than our CEO: • We prepared a database including the total gross amount of salary, wages, and other non-equity compensation (which depending on the individual"
+   }
+  },
+  "0001193125-23-071373": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/72971/000119312523071373/d399928ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000072971-23-000071",
+   "result": {
+    "ceoPay": 24642526,
+    "medianPay": 75979,
+    "payRatio": 324,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ian Wells Fargo employee (other than our CEO) was $75,979. As such, our CEO's total annual compensation was approximately 324 times that of the estimated annual total compensation of the median Wells Fargo employee in 2022. | | | | | | | | | | | | | | | CEO annualized total compensation | | | | | | $24,642,526 | | | | | | | | Median Employee estimated annual total compensation | | | | | | $75,979 | | | | | | | | Ratio of CEO annualized total compensation to Median Employee estimated annual total compensation | | | | | | 324:1 | | | Median Employee Total Annual Compensation Methodology To identify the estimated total annual compensation of the median Wells Fargo employee other than our CEO: | • | | | | We prepared a database including the total gross amount of salary, wages, and other non-e"
+   }
+  },
+  "0001193125-22-074612": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/72971/000119312522074612/d304150ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000072971-22-000096",
+   "result": {
+    "ceoPay": 21350906,
+    "medianPay": 73578,
+    "payRatio": 290,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ian Wells Fargo employee (other than our CEO) was $73,578. As such, our CEOs total annual compensation was approximately 290 times that of the estimated annual total compensation of the median Wells Fargo employee in 2021. | | | | | | | | | | | | | | | CEO annualized total compensation | | | | | | $21,350,906 | | | | | | | | Median Employee estimated annual total compensation | | | | | | $73,578 | | | | | | | | Ratio of CEO annualized total compensation to Median Employee estimated annual total compensation | | | | | | 290:1 | | | Median Employee Total Annual Compensation Methodology To identify the estimated total annual compensation of the median Wells Fargo employee other than our CEO: |  | | | | We prepared a database including the total gross amount of salary, wages, and other compe"
+   }
+  },
+  "0001193125-21-082907": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/72971/000119312521082907/d71313ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000072971-21-000197",
+   "result": {
+    "ceoPay": 20392046,
+    "medianPay": 74416,
+    "payRatio": 274,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "nsation of the median Wells Fargo employee (other than our CEO) was $74,416. We estimate that our CEOs total annual compensation was 274 times that of the estimated annual total compensation of the median Wells Fargo employee in 2020. | | | | | | | | | | | CEO annualized total compensation | | | | $ | | 20,392,046 | | | | Median Employee annual total compensation | | | | $ | | 74,416 | | | | Ratio of CEO to Median Employee annual total compensation | | | | | | 274:1 | | | Median Total Annual Compensation Methodology To identify the estimated total annual compensation of the median Wells Fargo employee other than our CEO: |  | | | | We prepared a database including the total gross amount of salary, wages, and other compensation (which depending on the individual could include items such a"
+   }
+  },
+  "0001193125-20-074921": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/72971/000119312520074921/d864220ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000072971-20-000217",
+   "result": {
+    "ceoPay": 23000000,
+    "medianPay": 65931,
+    "payRatio": 349,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "n of the pay ratio. The alternative calculation excludes the Replacement Award and includes the annual equity award Mr. Scharf received in March 2020 with a grant date fair value of $15,500,000, as provided in his offer letter. In that case, Mr. Scharfs compensation would have been estimated to be $23,000,000 and the resulting CEO pay ratio would have been 349 times that of the estimated annual total compensation of the median Wells Fargo employee. | | | | | | | | | | | Alternative CEO annualized total compensation | | | | $ | | 23,000,000 | | | | Median Employee annual total compensation | | | | $ | | 65,931 | | | | Alternative Ratio of CEO to Median Employee annual total compensation | | | | | | 349:1 | | | Median Total Annual Compensation Methodology To identify the estimated total ann"
+   }
+  },
+  "0001193125-19-073314": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/72971/000119312519073314/d699854ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000072971-19-000227",
+   "result": {
+    "ceoPay": 18426734,
+    "medianPay": 65191,
+    "payRatio": 283,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "+6.2 | | % | | | | | | +5.2 | | % | | | | | | +36.6 | | % | | | | | | +23.8 | | % | CEO Pay Ratio and Annual Median Total Compensation For 2018, our last completed fiscal year: |  | | | | The estimated median of the annual total compensation of all Wells Fargo team members (other than our CEO) was $65,191; and | |  | | | | The annual total compensation of our CEO was $18,426,734, as reflected in the Total column of the Summary Compensation Table included in this proxy statement. | We estimate that our CEOs annual total compensation was 283 times that of the median of the annual total compensation of all team members. To identify the estimated median of the annual total compensation of all our team members other than our CEO: |  | | | | We prepared a database including the total gross"
+   }
+  },
+  "0001193125-18-082312": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/72971/000119312518082312/d522023ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000072971-18-000272",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0000072971-19-000227": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000072971-20-000217": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000072971-21-000197": {
+   "parserVersion": 1,
+   "employees": 200000
+  },
+  "0000072971-22-000096": {
+   "parserVersion": 1,
+   "employees": 247848
+  },
+  "0000072971-23-000071": {
+   "parserVersion": 1,
+   "employees": 238000
+  },
+  "0000072971-24-000064": {
+   "parserVersion": 1,
+   "employees": 226000
+  },
+  "0000072971-25-000066": {
+   "parserVersion": 1,
+   "employees": 217000
+  },
+  "0000072971-26-000133": {
+   "parserVersion": 1,
+   "employees": 205000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 703000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0000950123-10-017877"
+   },
+   "2008": {
+    "revenue": 427000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0000950123-11-018541"
+   },
+   "2009": {
+    "revenue": 685000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0001193125-12-084528"
+   },
+   "2010": {
+    "revenue": 815000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0001193125-13-078820"
+   },
+   "2011": {
+    "revenue": 524000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0000072971-14-000337"
+   },
+   "2012": {
+    "revenue": 567000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0000072971-15-000449"
+   },
+   "2013": {
+    "revenue": 663000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0000072971-16-001045"
+   },
+   "2014": {
+    "revenue": 526000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0000072971-17-000278"
+   },
+   "2015": {
+    "revenue": 621000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0000072971-18-000272"
+   },
+   "2016": {
+    "revenue": 88267000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000072971-19-000227"
+   },
+   "2017": {
+    "revenue": 88389000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000072971-20-000217"
+   },
+   "2018": {
+    "revenue": 86408000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000072971-21-000197"
+   },
+   "2019": {
+    "revenue": 86832000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000072971-22-000096"
+   },
+   "2020": {
+    "revenue": 74264000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000072971-23-000071"
+   },
+   "2021": {
+    "revenue": 79166000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000072971-24-000064"
+   },
+   "2022": {
+    "revenue": 74368000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000072971-25-000066"
+   },
+   "2023": {
+    "revenue": 82597000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000072971-26-000133"
+   },
+   "2024": {
+    "revenue": 82296000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000072971-26-000133"
+   },
+   "2025": {
+    "revenue": 83699000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000072971-26-000133"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000072971-26-000133",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000133/wfc-20251231_d2.htm"
+   },
+   {
+    "accession": "0000072971-25-000066",
+    "filingDate": "2025-02-25",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000066/wfc-20241231.htm"
+   },
+   {
+    "accession": "0000072971-24-000064",
+    "filingDate": "2024-02-20",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297124000064/wfc-20231231.htm"
+   },
+   {
+    "accession": "0000072971-23-000071",
+    "filingDate": "2023-02-21",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297123000071/wfc-20221231.htm"
+   },
+   {
+    "accession": "0000072971-22-000096",
+    "filingDate": "2022-02-22",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297122000096/wfc-20211231.htm"
+   },
+   {
+    "accession": "0000072971-21-000197",
+    "filingDate": "2021-02-23",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297121000197/wfc-20201231.htm"
+   },
+   {
+    "accession": "0000072971-20-000217",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297120000217/wfc-12312019x10k.htm"
+   },
+   {
+    "accession": "0000072971-19-000227",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297119000227/wfc-12312018x10k.htm"
+   },
+   {
+    "accession": "0000072971-18-000272",
+    "filingDate": "2018-03-01",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297118000272/wfc-12312017x10k.htm"
+   },
+   {
+    "accession": "0000072971-17-000278",
+    "filingDate": "2017-03-01",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000007297117000278/wfc-12312016x10k.htm"
+   }
+  ]
+ }
+}

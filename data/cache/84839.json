@@ -1,0 +1,348 @@
+{
+ "proxies": {
+  "0000084839-26-000014": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483926000014/rol-20260317.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000084839-26-000008",
+   "result": {
+    "ceoPay": 8966870,
+    "medianPay": 65116,
+    "payRatio": 137,
+    "method": "cross-checked",
+    "employees": 21712,
+    "statedYear": 2025,
+    "excerpt": "PEO \") during fiscal year 2025. The purpose of the required disclosure is to provide a measure of the equitability of pay within the organization. We believe our compensation philosophy and process yield an equitable result. | | | | | | | | | | Median Employee annual total compensation for 2025 | | $ | | 65,116 | | | | PEO annual total compensation for 2025 | | $ | | 8,966,870 | | | | Ratio of PEO to Median Employee compensation for 2025 | | 137:1 | | As of December 31, 2025, we had 21,712 employees, consisting of 2,247 international employees and 19,465 employees in the United States. In determining the median employee as of December 31, 2025, a listing was prepared of all employees employed by the Company or its consolidated subsidiaries, excluding our principal executive officer. For th"
+   }
+  },
+  "0000084839-25-000048": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483925000048/rol-20250313.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000084839-25-000024",
+   "result": {
+    "ceoPay": 8236749,
+    "medianPay": 62200,
+    "payRatio": 132,
+    "method": "cross-checked",
+    "employees": 20293,
+    "statedYear": 2024,
+    "excerpt": "PEO \") during fiscal year 2024. The purpose of the required disclosure is to provide a measure of the equitability of pay within the organization. We believe our compensation philosophy and process yield an equitable result. | | | | | | | | | | Median Employee annual total compensation for 2024 | | $ | | 62,200 | | | | PEO annual total compensation for 2024 | | $ | | 8,236,749 | | | | Ratio of PEO to Median Employee compensation for 2024 | | 132:1 | | As of December 31, 2024, we had 20,293 employees, consisting of 2,034 international employees and 18,259 employees in the United States. In determining the median employee as of December 31, 2024, a listing was prepared of all employees employed by the Company or its consolidated subsidiaries, excluding our principal executive officer. For th"
+   }
+  },
+  "0000084839-24-000058": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483924000058/rol-20240314.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000084839-24-000025",
+   "result": {
+    "ceoPay": 6743889,
+    "medianPay": 57200,
+    "payRatio": 118,
+    "method": "cross-checked",
+    "employees": 19000,
+    "statedYear": 2023,
+    "excerpt": "PEO \") during fiscal year 2023. The purpose of the required disclosure is to provide a measure of the equitability of pay within the organization. We believe our compensation philosophy and process yield an equitable result. | | | | | | | | | | Median Employee annual total compensation for 2023 | | $ | | 57,200 | | | | PEO annual total compensation for 2023 | | $ | | 6,743,889 | | | | Ratio of PEO to Median Employee compensation for 2023 | | 118:1 | | In determining the median employee, a listing was prepared of all employees as of December 31, 2023. As of December 31, 2023, we had approximately 19,000 employees, including approximately 2,000 international employees and approximately 17,000 employees in the United States. For purposes of identifying the median employee, we (i) used the ann"
+   }
+  },
+  "0001558370-23-003871": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000155837023003871/rol-20230425xdef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000084839-23-000006",
+   "result": {
+    "ceoPay": 7760204,
+    "medianPay": 49099,
+    "payRatio": 158,
+    "method": "cross-checked",
+    "employees": 17515,
+    "statedYear": 2022,
+    "excerpt": "during fiscal year 2022. The purpose of the required disclosure is to provide a measure of the equitability of pay within the organization. We believe our compensation philosophy and process yield an equitable result. | | | | | | | | | | | Median Employee annual total compensation for 2022 | | | | $ | | 49,099 | | (1) | | PEO annual total compensation for 2022 | | | | $ | | 7,760,204 | | | | Ratio of PEO to Median Employee compensation for 2022 | | | | | | 158:1 | | | | | | (1) | | This amount represents taxable wages of the median employee, not including equity awards, if any. | In determining the median employee, a listing was prepared of all employees as of December 31, 2022. We changed the determination date to identify our median employee from October 31 st to December 31 st in order"
+   }
+  },
+  "0000084839-22-000015": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483922000015/rol-20220426xdef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000084839-22-000011",
+   "result": {
+    "ceoPay": 8393601,
+    "medianPay": 44843,
+    "payRatio": 187,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "executive officer (\" PEO \"). The purpose of the required disclosure is to provide a measure of the equitability of pay within the organization. We believe our compensation philosophy and process yield an equitable result. | | | | | | | | | Median Employee annual total compensation for 2021 | | | | $ | | 44,843 | | PEO annual total compensation for 2021 | | | | $ | | 8,393,601 | | Ratio of PEO to Median Employee compensation for 2021 | | | | | | 187:1 | The median employee was identified in 2020 using the methodology described below. The Company is using the same median employee in the presentation above because the Company does not believe that there has been a change in its employee population or employee compensation arrangements that would materially impact the pay ratio disclosure. In"
+   }
+  },
+  "0001171200-21-000108": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000117120021000108/i21135_rol-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001171200-21-000076",
+   "result": {
+    "ceoPay": 5475194,
+    "medianPay": 46121,
+    "payRatio": 118.7,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "mpany's PEO is Mr. Gary W. Rollins. The purpose of the required disclosure is to provide a measure of the equitability of pay within the organization. The Company believes its compensation philosophy and process yield an equitable result. | Median Employee annual total compensation for 2020 | | | | $ | | 46,121 | | | | Mr. Gary W. Rollins (\"PEO\") annual total compensation for 2020 | | | | $ | | 5,475,194 | | | | Ratio of PEO to Median Employee Compensation for 2020 | | | | | | 118.7:1 | | | | | | | | | | | | | The median employee was re-identified in 2019 due to a change in employee population as a result of our acquisition of Clark Pest Control of Stockton, Inc. on April 30, 2019, which resulted in a meaningful change to our employee population. In determining the median employee, a listi"
+   }
+  },
+  "0001171200-20-000137": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000117120020000137/i20114_rol-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001171200-20-000103",
+   "result": {
+    "ceoPay": 4780854,
+    "medianPay": 50134,
+    "payRatio": 95.4,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "mpany's PEO is Mr. Gary W. Rollins. The purpose of the required disclosure is to provide a measure of the equitability of pay within the organization. The Company believes its compensation philosophy and process yield an equitable result. | Median Employee annual total compensation for 2019 | | | | $ | | 50,134 | | | | Mr. Gary W. Rollins (\"PEO\") annual total compensation for 2019 | | | | $ | | 4,780,854 | | | | Ratio of PEO to Median Employee Compensation for 2019 | | | | | | 95.4:1 | | | The median employee was re-identified this year due to a change in employee population as a result of our acquisition of Clark Pest Control of Stockton, Inc. on April 30, 2019, which resulted in a meaningful change to our employee population. In determining the median employee, a listing was prepared of"
+   }
+  },
+  "0001171200-19-000121": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000117120019000121/i19130_rol-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001171200-19-000087",
+   "result": {
+    "ceoPay": 4872075,
+    "medianPay": 111960,
+    "payRatio": 43.5,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "y's PEO is Mr. Gary W. Rollins. The purpose of the new required disclosure is to provide a measure of the equitability of pay within the organization. The Company believes its compensation philosophy and process yield an equitable result. | Median Employee annual total compensation for 2018 | | | | $ | | 111,960 | | | | Mr. Gary W. Rollins (\"PEO\") annual total compensation for 2018 | | | | $ | | 4,872,075 | | | | Ratio of PEO to Median Employee Compensation for 2018 | | | | | | 43.5:1 | | | In determining the median employee, a listing was prepared of all employees as of October 31, 2017, including full-time, part-time, and seasonal or temporary workers employed by the Company or its consolidated subsidiaries, but excluding the PEO, since there has been no significant change to its employe"
+   }
+  },
+  "0000084839-18-000081": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483918000081/rol2018proxy.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000084839-18-000065",
+   "result": {
+    "ceoPay": 4327265,
+    "medianPay": 83369,
+    "payRatio": 51.9,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "is Mr. Gary W. Rollins. The purpose of the new required disclosure is to provide a measure of the equitability of pay within the organization. The Company believes its compensation philosophy and process yield an equitable result. | | | | | | | | | | | Median Employee total annual compensation | | $ | | 83,369 | | | | Mr. Gary W. Rollins (\"PEO\") total annual compensation | | $ | | 4,327,265 | | | | Ratio of PEO to Median Employee Compensation | | 51.9:1 | | | In determining the median employee, a listing was prepared of all employees as of October 31, 2017. Employees from our foreign subsidiaries in Australia and United Kingdom, both of which combined were less than 5% of our total employees, were excluded (other than seasonal or temporary employees) and employees on leave of absence were"
+   }
+  }
+ },
+ "tenKs": {
+  "0000084839-18-000065": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001171200-19-000087": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001171200-20-000103": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001171200-21-000076": {
+   "parserVersion": 1,
+   "employees": 15616
+  },
+  "0000084839-22-000011": {
+   "parserVersion": 1,
+   "employees": 16482
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 1020564000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001047469-11-001349"
+   },
+   "2009": {
+    "revenue": 1073958000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001047469-12-001690"
+   },
+   "2010": {
+    "revenue": 1136890000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001047469-13-001764"
+   },
+   "2011": {
+    "revenue": 1205064000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001552781-14-000153"
+   },
+   "2012": {
+    "revenue": 1270909000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001552781-15-000273"
+   },
+   "2013": {
+    "revenue": 1337374000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001552781-16-001318"
+   },
+   "2014": {
+    "revenue": 1411566000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001171200-17-000077"
+   },
+   "2015": {
+    "revenue": 1485305000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0000084839-18-000065"
+   },
+   "2016": {
+    "revenue": 1573477000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001171200-19-000087"
+   },
+   "2017": {
+    "revenue": 1673957000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001171200-20-000103"
+   },
+   "2018": {
+    "revenue": 1821565000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001171200-21-000076"
+   },
+   "2019": {
+    "revenue": 2015477000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001171200-21-000076"
+   },
+   "2020": {
+    "revenue": 2161220000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001171200-21-000076"
+   },
+   "2021": {
+    "revenue": 2424300000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000084839-24-000025"
+   },
+   "2022": {
+    "revenue": 2695823000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000084839-25-000024"
+   },
+   "2023": {
+    "revenue": 3073278000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000084839-26-000008"
+   },
+   "2024": {
+    "revenue": 3388708000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000084839-26-000008"
+   },
+   "2025": {
+    "revenue": 3761050000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000084839-26-000008"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000084839-26-000008",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483926000008/rol-20251231.htm"
+   },
+   {
+    "accession": "0000084839-25-000024",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483925000024/rol-20241231.htm"
+   },
+   {
+    "accession": "0000084839-24-000025",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483924000025/rol-20231231.htm"
+   },
+   {
+    "accession": "0000084839-23-000006",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483923000006/rol-20221231x10k.htm"
+   },
+   {
+    "accession": "0000084839-22-000011",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483922000011/rol-20211231x10k.htm"
+   },
+   {
+    "accession": "0001171200-21-000076",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/84839/000117120021000076/i21062_rol-10k.htm"
+   },
+   {
+    "accession": "0001171200-20-000103",
+    "filingDate": "2020-02-28",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/84839/000117120020000103/i20108_rol-10k.htm"
+   },
+   {
+    "accession": "0001171200-19-000087",
+    "filingDate": "2019-03-01",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/84839/000117120019000087/i19083_rol-10k.htm"
+   },
+   {
+    "accession": "0000084839-18-000065",
+    "filingDate": "2018-02-26",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/84839/000008483918000065/rol-123117x10k.htm"
+   },
+   {
+    "accession": "0001171200-17-000077",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/84839/000117120017000077/i17072_rol-10k.htm"
+   }
+  ]
+ }
+}

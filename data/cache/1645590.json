@@ -1,0 +1,283 @@
+{
+ "proxies": {
+  "0001645590-26-000019": {
+   "parserVersion": 1,
+   "filingDate": "2026-02-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559026000019/hpe-20260210.htm",
+   "periodEnd": "2025-10-31",
+   "tenK": "0001645590-25-000130",
+   "result": {
+    "ceoPay": 23482721,
+    "medianPay": 74276,
+    "payRatio": 316,
+    "method": "cross-checked",
+    "employees": 58119,
+    "statedYear": 2025,
+    "excerpt": "herefore not receiving matching credits. | | | | | | | | | | HPE 2026 PROXY STATEMENT | | | 103 | | | | | | | | | | | | | | Executive compensation | | | | Chief Executive Officer (\"CEO\") pay ratio For fiscal 2025, the median annual total compensation of all employees of HPE (other than our CEO) was $74,276. The annual total compensation of our CEO was $23,482,721. Based on this information, the ratio of the annual total compensation of our CEO to the median annual total compensation of all employees was approximately 316 to 1. We identified the \"median employee\" by using the following methodology and material assumptions, adjustments, and estimates (consistent with all applicable SEC rules): • we selected August 31, 2025 as the date upon which we would identify the \"median employee;\" • as"
+   }
+  },
+  "0001645590-25-000024": {
+   "parserVersion": 1,
+   "filingDate": "2025-02-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000024/hpe-20250211.htm",
+   "periodEnd": "2024-10-31",
+   "tenK": "0001645590-24-000139",
+   "result": {
+    "ceoPay": 21411197,
+    "medianPay": 66886,
+    "payRatio": 320,
+    "method": "cross-checked",
+    "employees": 61347,
+    "statedYear": 2024,
+    "excerpt": "A and is therefore not receiving matching credits, while Mr. MacDonald's matching credits are reflected on the \"Fiscal 2024 all other compensation table\". Chief Executive Officer (\"CEO\") pay ratio For fiscal 2024, the median annual total compensation of all employees of HPE (other than our CEO) was $66,886. The annual total compensation of our CEO was $21,411,197. Based on this information, the ratio of the annual total compensation of our CEO to the median annual total compensation of all employees was approximately 320 to 1. We identified the \"median employee\" by using the following methodology and material assumptions, adjustments, and estimates (consistent with all applicable SEC rules): • we selected August 31, 2024 as the date upon which we would identify the \"median employee;\" • as"
+   }
+  },
+  "0001645590-24-000044": {
+   "parserVersion": 1,
+   "filingDate": "2024-02-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000044/hpe-20240220.htm",
+   "periodEnd": "2023-10-31",
+   "tenK": "0001645590-23-000117",
+   "result": {
+    "ceoPay": 20066549,
+    "medianPay": 66816,
+    "payRatio": 300,
+    "method": "cross-checked",
+    "employees": 63773,
+    "statedYear": 2023,
+    "excerpt": "A and is therefore not receiving matching credits, while Mr. MacDonald's matching credits are reflected on the \"Fiscal 2023 all other compensation table\". Chief Executive Officer (\"CEO\") pay ratio For fiscal 2023, the median annual total compensation of all employees of HPE (other than our CEO) was $66,816. The annual total compensation of our CEO was $20,066,549. Based on this information, the ratio of the annual total compensation of our CEO to the median annual total compensation of all employees was approximately 300 to 1. We identified the \"median employee\" by using the following methodology and material assumptions, adjustments, and estimates (consistent with all applicable SEC rules): • we selected August 31, 2023 as the date upon which we would identify the \"median employee;\" • as"
+   }
+  },
+  "0001645590-23-000022": {
+   "parserVersion": 1,
+   "filingDate": "2023-02-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559023000022/a2023hpeproxy.htm",
+   "periodEnd": "2022-10-31",
+   "tenK": "0001645590-22-000071",
+   "result": {
+    "ceoPay": 17366365,
+    "medianPay": 64006,
+    "payRatio": 271,
+    "method": "cross-checked",
+    "employees": 61987,
+    "statedYear": 2022,
+    "excerpt": "A and is therefore not receiving matching credits, while Mr. MacDonald's matching credits are reflected on the \"Fiscal 2022 all other compensation table\". Chief Executive Officer (\"CEO\") pay ratio For fiscal 2022, the median annual total compensation of all employees of HPE (other than our CEO) was $64,006. The annual total compensation of our CEO was $17,366,365. Based on this information, the ratio of the annual total compensation of our CEO to the median annual total compensation of all employees was approximately 271 to 1. We identified the \"median employee\" by using the following methodology and material assumptions, adjustments, and estimates (consistent with all applicable SEC rules): • we selected August 31, 2022 as the date upon which we would identify the \"median employee;\" • as"
+   }
+  },
+  "0001645590-22-000006": {
+   "parserVersion": 1,
+   "filingDate": "2022-02-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559022000006/a2022hpeproxy.htm",
+   "periodEnd": "2021-10-31",
+   "tenK": "0001645590-21-000068",
+   "result": {
+    "ceoPay": 19052415,
+    "medianPay": 65944,
+    "payRatio": 289,
+    "method": "cross-checked",
+    "employees": 62252,
+    "statedYear": 2021,
+    "excerpt": "| | | | | | | | | | | | | | | | HPE 2022 PROXY STATEMENT | | | | 95 | | | | | | | | | | | | | | | | | | | | | | | | | | EXECUTIVE COMPENSATION | | | | | | | CHIEF EXECUTIVE OFFICER (CEO) PAY RATIO For fiscal 2021, the median annual total compensation of all employees of HPE (other than our CEO) was $65,944. The annual total compensation of our CEO was $19,052,415. Based on this information, the ratio of the annual total compensation of our CEO to the median annual total compensation of all employees was approximately 289 to 1. We identified the \"median employee\" by using the following methodology and material assumptions, adjustments, and estimates (consistent with all applicable SEC rules): • We selected August 31, 2021 as the date upon which we would identify the \"median employee.\" • As"
+   }
+  },
+  "0001645590-21-000008": {
+   "parserVersion": 1,
+   "filingDate": "2021-02-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559021000008/a2021hpeproxy.htm",
+   "periodEnd": "2020-10-31",
+   "tenK": "0001645590-20-000056",
+   "result": {
+    "ceoPay": 13489396,
+    "medianPay": 61278,
+    "payRatio": 220,
+    "method": "cross-checked",
+    "employees": 62084,
+    "statedYear": 2020,
+    "excerpt": "ntly eligible for the HPE matching credits under the RMSA. However, Mr. Neri is not contributing to an RMSA and is therefore not receiving matching credits. CHIEF EXECUTIVE OFFICER (CEO) PAY RATIO For fiscal 2020, the median annual total compensation of all employees of HPE (other than our CEO) was $61,278. The annual total compensation of our CEO was $13,489,396. Based on this information, the ratio of the annual total compensation of our CEO to the median annual total compensation of all employees was approximately 220 to 1. | | | | | | | | | | | | | | | | | | | HPE 2021 PROXY STATEMENT | | | | 91 | | | | | | | | | | | | | | | | | | | | | | | | | | EXECUTIVE COMPENSATION | | | | | | | We identified the \"median employee\" by using the following methodology and material assumptions, adjustm"
+   }
+  },
+  "0001047469-20-000857": {
+   "parserVersion": 1,
+   "filingDate": "2020-02-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1645590/000104746920000857/a2240646zdef14a.htm",
+   "periodEnd": "2019-10-31",
+   "tenK": "0001645590-19-000044",
+   "result": {
+    "ceoPay": 13714497,
+    "medianPay": 67196,
+    "payRatio": 204,
+    "method": "cross-checked",
+    "employees": 62386,
+    "statedYear": 2019,
+    "excerpt": "ntly eligible for the HPE matching credits under the RMSA. However, Mr. Neri is not contributing to an RMSA and is therefore not receiving matching credits. CHIEF EXECUTIVE OFFICER (CEO) PAY RATIO For fiscal 2019, the median annual total compensation of all employees of HPE (other than our CEO) was $67,196. The annual total compensation of our CEO was $13,714,497. Based on this information, the ratio of the annual total compensation of our CEO to the median annual total compensation of all employees was approximately 204 to 1. We identified the \"median employee\" by using the following methodology and material assumptions, adjustments, and estimates (consistent with all applicable SEC rules):  We selected August 31, 2019, as the date upon which we would identify the \"median employee.\"  As"
+   }
+  },
+  "0001047469-19-000476": {
+   "parserVersion": 1,
+   "filingDate": "2019-02-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1645590/000104746919000476/a2237647zdef14a.htm",
+   "periodEnd": "2018-10-31",
+   "tenK": "0001628280-18-015054",
+   "result": {
+    "ceoPay": 12623005,
+    "medianPay": 65652,
+    "payRatio": 192,
+    "method": "cross-checked",
+    "employees": 61738,
+    "statedYear": 2018,
+    "excerpt": "ntly eligible for the HPE matching credits under the RMSA. However, Mr. Neri is not contributing to an RMSA and is therefore not receiving matching credits. CHIEF EXECUTIVE OFFICER (CEO) PAY RATIO For fiscal 2018, the median annual total compensation of all employees of HPE (other than our CEO) was $65,652. The annual total compensation of our current CEO was $12,623,005. Based on this information, the ratio of the annual total compensation of our CEO to the median annual total compensation of all employees was approximately 192 to 1. We identified the \"median employee\" by using the following methodology and material assumptions, adjustments, and estimates (consistent with all applicable SEC rules):  We selected August 31, 2018, as the date upon which we would identify the \"median employe"
+   }
+  },
+  "0001047469-18-000792": {
+   "parserVersion": 1,
+   "filingDate": "2018-02-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1645590/000104746918000792/a2234431zdef14a.htm",
+   "periodEnd": "2017-10-31",
+   "tenK": "0001628280-17-012383",
+   "result": null
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2013": {
+    "revenue": 57371000000,
+    "periodEnd": "2013-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-15-009279"
+   },
+   "2014": {
+    "revenue": 55123000000,
+    "periodEnd": "2014-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-16-022051"
+   },
+   "2015": {
+    "revenue": 31077000000,
+    "periodEnd": "2015-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-17-012383"
+   },
+   "2016": {
+    "revenue": 30280000000,
+    "periodEnd": "2016-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-18-015054"
+   },
+   "2017": {
+    "revenue": 28871000000,
+    "periodEnd": "2017-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001645590-19-000044"
+   },
+   "2018": {
+    "revenue": 30852000000,
+    "periodEnd": "2018-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001645590-20-000056"
+   },
+   "2019": {
+    "revenue": 29135000000,
+    "periodEnd": "2019-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001645590-21-000068"
+   },
+   "2020": {
+    "revenue": 26982000000,
+    "periodEnd": "2020-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001645590-22-000071"
+   },
+   "2021": {
+    "revenue": 27784000000,
+    "periodEnd": "2021-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001645590-23-000117"
+   },
+   "2022": {
+    "revenue": 28496000000,
+    "periodEnd": "2022-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001645590-24-000139"
+   },
+   "2023": {
+    "revenue": 29135000000,
+    "periodEnd": "2023-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001645590-25-000130"
+   },
+   "2024": {
+    "revenue": 30127000000,
+    "periodEnd": "2024-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001645590-25-000130"
+   },
+   "2025": {
+    "revenue": 34296000000,
+    "periodEnd": "2025-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001645590-25-000130"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001645590-25-000130",
+    "filingDate": "2025-12-18",
+    "reportDate": "2025-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559025000130/hpe-20251031.htm"
+   },
+   {
+    "accession": "0001645590-24-000139",
+    "filingDate": "2024-12-19",
+    "reportDate": "2024-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559024000139/hpe-20241031.htm"
+   },
+   {
+    "accession": "0001645590-23-000117",
+    "filingDate": "2023-12-22",
+    "reportDate": "2023-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559023000117/hpe-20231031.htm"
+   },
+   {
+    "accession": "0001645590-22-000071",
+    "filingDate": "2022-12-08",
+    "reportDate": "2022-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559022000071/hpe-20221031.htm"
+   },
+   {
+    "accession": "0001645590-21-000068",
+    "filingDate": "2021-12-10",
+    "reportDate": "2021-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559021000068/hpe-20211031.htm"
+   },
+   {
+    "accession": "0001645590-20-000056",
+    "filingDate": "2020-12-10",
+    "reportDate": "2020-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559020000056/hpe-20201031.htm"
+   },
+   {
+    "accession": "0001645590-19-000044",
+    "filingDate": "2019-12-13",
+    "reportDate": "2019-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1645590/000164559019000044/hpe-10312019x10k.htm"
+   },
+   {
+    "accession": "0001628280-18-015054",
+    "filingDate": "2018-12-12",
+    "reportDate": "2018-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1645590/000162828018015054/hpe-10312018x10k.htm"
+   },
+   {
+    "accession": "0001628280-17-012383",
+    "filingDate": "2017-12-15",
+    "reportDate": "2017-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1645590/000162828017012383/hpe-10312017x10k.htm"
+   }
+  ]
+ }
+}

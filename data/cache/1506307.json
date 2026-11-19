@@ -1,0 +1,321 @@
+{
+ "proxies": {
+  "0001506307-26-000024": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000024/kmi-20260401.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001506307-26-000011",
+   "result": {
+    "ceoPay": 12331566,
+    "medianPay": 135175,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": 11086,
+    "statedYear": 2025,
+    "excerpt": "n about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Ms. Dang. For 2025, our last completed fiscal year: a reasonable estimate of the median of the annual total compensation of all employees of our company (other than our CEO), was $135,175; and the annual total compensation of our CEO was $12,331,566 as reported in the 2025 Summary Compensation Table included in this proxy statement. Based on this information, for 2025, the ratio of the annual total compensation of Ms. Dang, our CEO, to the median of the annual total compensation of all employees was approximately 91 to 1. We identified a new \"median employee\" for 2025. To identify the median of the annual total compensation of all our employees, as well as to determine t"
+   }
+  },
+  "0001506307-25-000017": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630725000017/kmi-20250401.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001506307-25-000008",
+   "result": {
+    "ceoPay": 11534182,
+    "medianPay": 126918,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": 10926,
+    "statedYear": 2024,
+    "excerpt": "n about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Ms. Dang. For 2024, our last completed fiscal year: a reasonable estimate of the median of the annual total compensation of all employees of our company (other than our CEO), was $126,918; and the annual total compensation of our CEO was $11,534,182 as reported in the 2024 Summary Compensation Table included in this proxy statement. Based on this information, for 2024, the ratio of the annual total compensation of Ms. Dang, our CEO, to the median of the annual total compensation of all employees was approximately 91 to 1. We identified a new \"median employee\" for 2024. To identify the median of the annual total compensation of all our employees, as well as to determine t"
+   }
+  },
+  "0001506307-24-000022": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630724000022/kmi-20240326.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001506307-24-000011",
+   "result": {
+    "ceoPay": 12405510,
+    "medianPay": 132724,
+    "payRatio": 93,
+    "method": "cross-checked",
+    "employees": 10821,
+    "statedYear": 2021,
+    "excerpt": "n about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Ms. Dang. For 2023, our last completed fiscal year: a reasonable estimate of the median of the annual total compensation of all employees of our company (other than our CEO), was $132,724; and the annual total compensation of our CEO was $12,405,510 as reported in the 2023 Summary Compensation Table included in this proxy statement. Based on this information, for 2023, the ratio of the annual total compensation of Ms. Dang, our CEO, to the median of the annual total compensation of all employees was approximately 93 to 1. To identify the median of the annual total compensation of all our employees, as well as to determine the annual total compensation of the \"median empl"
+   }
+  },
+  "0001104659-23-039853": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1506307/000110465923039853/tm231838d4_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001506307-23-000023",
+   "result": {
+    "ceoPay": 1137410,
+    "medianPay": 111888,
+    "payRatio": 10,
+    "method": "cross-checked",
+    "employees": 11008,
+    "statedYear": 2022,
+    "excerpt": "ip of the annual total compensation of our employees and the annual total compensation of Mr. Kean, our Chief Executive Officer: For 2022, our last completed fiscal year: • a reasonable estimate of the median of the annual total compensation of all employees of our company (other than our CEO), was $111,888; and • the annual total compensation of our CEO, given Mr. Kean's election to receive $1 in base salary and not to receive an annual cash bonus, was $1,462 as reported in the Summary Compensation Table presented elsewhere in this proxy statement. Based on this information, for 2022, the ratio of the annual total compensation of Mr. Kean, our CEO, to the median of the annual total compensation of all employees was 0 to 1. As discussed in footnotes to the Summary Compensation Table, the v"
+   }
+  },
+  "0001104659-22-041562": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1506307/000110465922041562/tm223408-1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001506307-22-000018",
+   "result": {
+    "ceoPay": 18000005,
+    "medianPay": 115388,
+    "payRatio": 156,
+    "method": "cross-checked",
+    "employees": 11008,
+    "statedYear": 2021,
+    "excerpt": "ip of the annual total compensation of our employees and the annual total compensation of Mr. Kean, our Chief Executive Officer: For 2021, our last completed fiscal year: • a reasonable estimate of the median of the annual total compensation of all employees of our company (other than our CEO), was $115,388; and • the annual total compensation of our CEO, given Mr. Kean's election to receive $1 in base salary and not to receive an annual cash bonus, was $18,000,259 as reported in the Summary Compensation Table presented elsewhere in this proxy statement. Mr. Kean's 2021 compensation consists almost entirely of a two-year RSU award valued at $18,000,005. 42 TABLE OF CONTENTS Based on this information, for 2021, the ratio of the annual total compensation of Mr. Kean, our CEO, to the median o"
+   }
+  },
+  "0001104659-21-045349": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1506307/000110465921045349/tm212360-2_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001506307-21-000022",
+   "result": {
+    "ceoPay": 938384,
+    "medianPay": 117413,
+    "payRatio": 8,
+    "method": "cross-checked",
+    "employees": 11008,
+    "statedYear": 2020,
+    "excerpt": "ip of the annual total compensation of our employees and the annual total compensation of Mr. Kean, our Chief Executive Officer: For 2020, our last completed fiscal year: • a reasonable estimate of the median of the annual total compensation of all employees of our company (other than our CEO), was $117,413; • per the above regulations, the median employee was recalculated for 2020; and • the annual total compensation of our CEO, given Mr. Kean's election to receive $1 in base salary and not to receive an annual cash bonus, was $1 as reported in the Summary Compensation Table presented elsewhere in this proxy statement. Based on this information, for 2020, the ratio of the annual total compensation of Mr. Kean, our CEO, to the median of the annual total compensation of all employees was 0"
+   }
+  },
+  "0001047469-20-002038": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1506307/000104746920002038/a2241068zdef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001506307-20-000022",
+   "result": {
+    "ceoPay": 1206135,
+    "medianPay": 111546,
+    "payRatio": 11,
+    "method": "cross-checked",
+    "employees": 11495,
+    "statedYear": 2019,
+    "excerpt": "e annual total compensation of our employees and the annual total compensation of Mr. Kean, our Chief Executive Officer (\"CEO\"): For 2019, our last completed fiscal year:  a reasonable estimate of the median of the annual total compensation of all employees of our company (other than our CEO), was $111,546. Our median employee in 2017 is no longer with the company, and in 2018 we substituted a similarly situated employee as permitted by Item 402(u) and we continued to use that employee in 2019; and  the annual total compensation of our CEO, given Mr. Kean's election to receive $1 in base salary and not to receive an annual cash bonus, was $7,270 as reported in the Summary Compensation Table presented elsewhere in this proxy statement. 48 Table of Contents Based on this information, for 2"
+   }
+  },
+  "0001047469-19-001762": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1506307/000104746919001762/a2238099zdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001506307-19-000033",
+   "result": {
+    "ceoPay": 16908961,
+    "medianPay": 106850,
+    "payRatio": 158,
+    "method": "cross-checked",
+    "employees": 11495,
+    "statedYear": 2018,
+    "excerpt": "e annual total compensation of our employees and the annual total compensation of Mr. Kean, our Chief Executive Officer (\"CEO\"): For 2018, our last completed fiscal year:  a reasonable estimate of the median of the annual total compensation of all employees of our company (other than our CEO), was $106,850. Our median employee in 2017 is no longer with 44 Table of Contents the company, and we have substituted a similarly situated employee as permitted by Item 402(u); and  the annual total compensation of our CEO, which, given Mr. Kean's election to receive $1 in base salary and not to receive an annual cash bonus, primarily consists of long-term incentive equity granted to him in July 2018 and related dividend equivalent payments, as reported in the Summary Compensation Table presented e"
+   }
+  },
+  "0001047469-18-002313": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1506307/000104746918002313/a2234931zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001506307-18-000010",
+   "result": {
+    "ceoPay": 382026,
+    "medianPay": 103947,
+    "payRatio": 3.7,
+    "method": "cross-checked",
+    "employees": 11495,
+    "statedYear": 2017,
+    "excerpt": "pensation of our employees and the annual total compensation of Mr. Kean, our President and Chief Executive Officer (our \"CEO\"): For 2017, our last completed fiscal year:  a reasonable estimate of the median of the annual total compensation of all employees of our company (other than our CEO), was $103,947; and  the annual total compensation of our CEO, as reported in the Summary Compensation Table presented elsewhere in this proxy statement, was $382,026. Based on this information, for 2017 the ratio of the annual total compensation of Mr. Kean, our President and Chief Executive Officer, to the median of the annual total compensation of all employees was 3.7 to 1. 42 Table of Contents To identify the median of the annual total compensation of all our employees, as well as to determine t"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 7185200000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001135017-12-000009"
+   },
+   "2010": {
+    "revenue": 7852000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-13-000015"
+   },
+   "2011": {
+    "revenue": 7943000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-14-000010"
+   },
+   "2012": {
+    "revenue": 9973000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-15-000014"
+   },
+   "2013": {
+    "revenue": 14070000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-16-000072"
+   },
+   "2014": {
+    "revenue": 16226000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-17-000008"
+   },
+   "2015": {
+    "revenue": 14403000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-18-000010"
+   },
+   "2016": {
+    "revenue": 13058000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-19-000033"
+   },
+   "2017": {
+    "revenue": 13705000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-20-000022"
+   },
+   "2018": {
+    "revenue": 14144000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-21-000022"
+   },
+   "2019": {
+    "revenue": 13209000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-22-000018"
+   },
+   "2020": {
+    "revenue": 11700000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-23-000023"
+   },
+   "2021": {
+    "revenue": 16610000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-24-000011"
+   },
+   "2022": {
+    "revenue": 19200000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-25-000008"
+   },
+   "2023": {
+    "revenue": 15334000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-26-000011"
+   },
+   "2024": {
+    "revenue": 15100000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-26-000011"
+   },
+   "2025": {
+    "revenue": 16937000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001506307-26-000011"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001506307-26-000011",
+    "filingDate": "2026-02-13",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630726000011/kmi-20251231.htm"
+   },
+   {
+    "accession": "0001506307-25-000008",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630725000008/kmi-20241231.htm"
+   },
+   {
+    "accession": "0001506307-24-000011",
+    "filingDate": "2024-02-20",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630724000011/kmi-20231231.htm"
+   },
+   {
+    "accession": "0001506307-23-000023",
+    "filingDate": "2023-02-08",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630723000023/kmi-20221231.htm"
+   },
+   {
+    "accession": "0001506307-22-000018",
+    "filingDate": "2022-02-07",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630722000018/kmi-20211231.htm"
+   },
+   {
+    "accession": "0001506307-21-000022",
+    "filingDate": "2021-02-05",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630721000022/kmi-20201231.htm"
+   },
+   {
+    "accession": "0001506307-20-000022",
+    "filingDate": "2020-02-12",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630720000022/kmi-2019x10k.htm"
+   },
+   {
+    "accession": "0001506307-19-000033",
+    "filingDate": "2019-02-08",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630719000033/kmi-2018x10k.htm"
+   },
+   {
+    "accession": "0001506307-18-000010",
+    "filingDate": "2018-02-09",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630718000010/kmi-2017x10k.htm"
+   },
+   {
+    "accession": "0001506307-17-000008",
+    "filingDate": "2017-02-10",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1506307/000150630717000008/kmi-2016x10k.htm"
+   }
+  ]
+ }
+}

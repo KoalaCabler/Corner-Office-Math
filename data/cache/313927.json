@@ -1,0 +1,364 @@
+{
+ "proxies": {
+  "0001193125-26-115994": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312526115994/chd-20260319.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001193125-26-048139",
+   "result": {
+    "ceoPay": 9799678,
+    "medianPay": 81203,
+    "payRatio": 120.7,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "rds to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2025 Summary Compensation Table in this Proxy Statement. As illustrated in the table below, our 2025 CEO to median employee pay ratio is 120.7:1. | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | President and CEO | | | | | | Median Employee | | | | Base Salary | | | | $ | | 986,580 | | | | | | $ | | 69,467 | | | | Annual Incentive Plan Compensation | | | | $ | | 1,472,656 | | | | | | $ | | 3,473 | | | | Long-Term Incentive Awards | | | | $ | | 7,084,073 | | | | | | | | - | | | | All Other Compensation | | | | $ | | 256,368 | | | | | | $ | | 8,263 | | | | TOTAL | | | | $ | | 9,799,678 | | | | | | $ | |"
+   }
+  },
+  "0001193125-25-059273": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312525059273/d941120ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-019801",
+   "result": {
+    "ceoPay": 1231633,
+    "medianPay": 1231633,
+    "payRatio": 1,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2024 Summary Compensation Table in this Proxy Statement. As illustrated in the table below, our 2024 CEO to median employee pay ratio is 157.1:1. | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,231,633 | | | | | | | | | | | | $ | | 65,938 | | | | Annual Incentive Plan Compensation | | | | | | 2,499,000 | | | | | | | | | | | | | | 3,930 | | | | Long-Term Incentive Awards | | | | | | 8,060,000 | | | | | | | | | | | | | | - | | | | All Other Compensation | | | | | | 462,792 | | | | |"
+   }
+  },
+  "0001193125-24-075319": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312524075319/d17100ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-015810",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 1183975,
+    "payRatio": 126.4,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ate our employees to create shareholder value. We are committed to internal pay equity, and the Compensation & Human Capital Committee monitors the relationship between the pay our officers receive and the pay our non-officer employees receive. The compensation for our CEO in 2023 was approximately 126.4:1 times the 2023 pay for our median employee. As a result of the rules adopted by the SEC under the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the \"Dodd-Frank Act\"), we are required to disclose the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee, using the required calculations. We identified our median employee utilizing data as of November 30, 2023 by examining the 2023 target total cash compensation (base"
+   }
+  },
+  "0001193125-23-073946": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312523073946/d462087ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000950170-23-003066",
+   "result": {
+    "ceoPay": 8375361,
+    "medianPay": 60498,
+    "payRatio": 138.4,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "rds to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2022 Summary Compensation Table in this Proxy Statement. As illustrated in the table below, our 2022 CEO to median employee pay ratio is 138.4:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,156,275 | | | | | | | | | | | | | | $ | | 54,541 | | | | Option Awards | | | | | | 6,590,722 | | | | | | | | | | | | | | | | - | | | | Restricted Stock Units | | | | | | - | | | | | | | | | | | | | | | | - | | | | Annual Incentive Plan Compensation | | | | | | 4"
+   }
+  },
+  "0001193125-22-079492": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312522079492/d240098ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001564590-22-005528",
+   "result": {
+    "ceoPay": 8889526,
+    "medianPay": 73466,
+    "payRatio": 121,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "rds to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2021 Summary Compensation Table in this Proxy Statement. As illustrated in the table below, our 2021 CEO to median employee pay ratio is 121.0:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,117,400 | | | | | | | | | | | | | | $ | | 63,133 | | | | Option Awards | | | | | | 6,359,608 | | | | | | | | | | | | | | | |  | | | | Restricted Stock Units | | | | | |  | | | | | | | | | | | | | | | | 1,242 | | | | Annual Incentive Plan Compensation | | | | |"
+   }
+  },
+  "0001193125-21-087577": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312521087577/d67012ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-006669",
+   "result": {
+    "ceoPay": 9889792,
+    "medianPay": 70649,
+    "payRatio": 140,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "rds to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2020 Summary Compensation Table in this Proxy Statement. As illustrated in the table below, our 2020 CEO to median employee pay ratio is 140:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,084,825 | | | | | | | | | | | | | | $ | | 60,044 | | | | Option Awards | | | | | | 6,174,305 | | | | | | | | | | | | | | | |  | | | | Restricted Stock Units | | | | | |  | | | | | | | | | | | | | | | |  | | | | Annual Incentive Plan Compensation | | | | | | 2,1"
+   }
+  },
+  "0001193125-20-080717": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312520080717/d861884ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-004956",
+   "result": {
+    "ceoPay": 8985122,
+    "medianPay": 65894,
+    "payRatio": 136.4,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "rds to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2019 Summary Compensation Table in this proxy statement. As illustrated in the table below, our 2019 CEO to median employee pay ratio is 136.4:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,053,175 | | | | | | | | | | | | | | $ | | 56,153 | | | | Option Awards | | | | | | 5,622,700 | | | | | | | | | | | | | | | |  | | | | Restricted Stock Units | | | | | |  | | | | | | | | | | | | | | | |  | | | | Annual Incentive Plan Compensation | | | | | | 1"
+   }
+  },
+  "0001193125-19-083523": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312519083523/d661468ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001564590-19-003587",
+   "result": {
+    "ceoPay": 7267713,
+    "medianPay": 64001,
+    "payRatio": 113.6,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "rds to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2018 Summary Compensation Table in this proxy statement. As illustrated in the table below, our 2018 CEO to median employee pay ratio is 113.6:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,022,500 | | | | | | | | | | | | | | $ | | 54,047 | | | | Option Awards | | | | | | 4,377,524 | | | | | | | | | | | | | | | |  | | | | Restricted Stock Units | | | | | |  | | | | | | | | | | | | | | | | 1,059 | | | | Annual Incentive Plan Compensation | | | | |"
+   }
+  },
+  "0001193125-18-093066": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312518093066/d536443ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001564590-18-002984",
+   "result": {
+    "ceoPay": 6259615,
+    "medianPay": 63989,
+    "payRatio": 97.8,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ash compensation, we calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2017 Summary Compensation Table in this proxy statement. As illustrated in the table below, our 2017 CEO to median employee pay ratio is 97.8:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,000,000 | | | | | | | | | | | | | | $ | | 56,358 | | | | Option Awards | | | | | | 3,849, 993 | | | | | | | | | | | | | | | |  | | | | Annual Incentive Plan Compensation | | | | | | 1,150,000 | | | | | | | | | | | | | | | | 1,691 | | | | All Other Compensation | | | | | | 259,622 | | |"
+   }
+  }
+ },
+ "tenKs": {
+  "0001564590-18-002984": {
+   "parserVersion": 1,
+   "employees": 4700
+  },
+  "0001564590-19-003587": {
+   "parserVersion": 1,
+   "employees": 4700
+  },
+  "0001564590-20-004956": {
+   "parserVersion": 1,
+   "employees": 4800
+  },
+  "0001564590-21-006669": {
+   "parserVersion": 1,
+   "employees": 5100
+  },
+  "0001564590-22-005528": {
+   "parserVersion": 1,
+   "employees": 5100
+  },
+  "0000950170-23-003066": {
+   "parserVersion": 1,
+   "employees": 5250
+  },
+  "0000950170-24-015810": {
+   "parserVersion": 1,
+   "employees": 5550
+  },
+  "0000950170-25-019801": {
+   "parserVersion": 1,
+   "employees": 5750
+  },
+  "0001193125-26-048139": {
+   "parserVersion": 1,
+   "employees": 5550
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 2422398000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-11-045474"
+   },
+   "2009": {
+    "revenue": 2520900000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-12-077495"
+   },
+   "2010": {
+    "revenue": 2589200000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-13-071188"
+   },
+   "2011": {
+    "revenue": 2749300000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-14-062315"
+   },
+   "2012": {
+    "revenue": 2921900000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001564590-15-000786"
+   },
+   "2013": {
+    "revenue": 3194300000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001564590-16-012917"
+   },
+   "2014": {
+    "revenue": 3297600000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001564590-17-002326"
+   },
+   "2015": {
+    "revenue": 3394800000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001564590-18-002984"
+   },
+   "2016": {
+    "revenue": 3493100000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-19-003587"
+   },
+   "2017": {
+    "revenue": 3776200000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-20-004956"
+   },
+   "2018": {
+    "revenue": 4145900000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-21-006669"
+   },
+   "2019": {
+    "revenue": 4357700000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-22-005528"
+   },
+   "2020": {
+    "revenue": 4895800000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-23-003066"
+   },
+   "2021": {
+    "revenue": 5190100000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-24-015810"
+   },
+   "2022": {
+    "revenue": 5375600000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-25-019801"
+   },
+   "2023": {
+    "revenue": 5867900000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-048139"
+   },
+   "2024": {
+    "revenue": 6107100000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-048139"
+   },
+   "2025": {
+    "revenue": 6203200000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-048139"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-048139",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312526048139/chd-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-019801",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313927/000095017025019801/chd-20241231.htm"
+   },
+   {
+    "accession": "0000950170-24-015810",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313927/000095017024015810/chd-20231231.htm"
+   },
+   {
+    "accession": "0000950170-23-003066",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313927/000095017023003066/chd-20221231.htm"
+   },
+   {
+    "accession": "0001564590-22-005528",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313927/000156459022005528/chd-10k_20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-006669",
+    "filingDate": "2021-02-18",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313927/000156459021006669/chd-10k_20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-004956",
+    "filingDate": "2020-02-18",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313927/000156459020004956/chd-10k_20191231.htm"
+   },
+   {
+    "accession": "0001564590-19-003587",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313927/000156459019003587/chd-10k_20181231.htm"
+   },
+   {
+    "accession": "0001564590-18-002984",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313927/000156459018002984/chd-10k_20171231.htm"
+   },
+   {
+    "accession": "0001564590-17-002326",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313927/000156459017002326/chd-10k_20161231.htm"
+   }
+  ]
+ }
+}

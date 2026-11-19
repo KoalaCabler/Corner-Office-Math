@@ -1,0 +1,332 @@
+{
+ "proxies": {
+  "0001534701-26-000010": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000010/psx-20260401.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001534701-26-000006",
+   "result": {
+    "ceoPay": 23143982,
+    "medianPay": 159592,
+    "payRatio": 145,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "o of the annual total compensation, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, of our median employee and the annual total compensation of our Chief Executive Officer, Mr. Lashier. For 2025, the annual total compensation of our Chief Executive Officer was 145 times that of the median of the annual total compensation of all employees, based on annual total compensation of $23,143,982 for the Chief Executive Officer and $159,592 for the median employee. For 2025, with the promotion of the previous median employee, we selected a new median employee whose compensation more closely reflected the median compensation level determined as of December 2023, in compliance with Item 402(c)(2)(x). This ratio is based on a December 1, 2023, employee population"
+   }
+  },
+  "0001534701-24-000095": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470124000095/psx-20240402.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001534701-24-000078",
+   "result": {
+    "ceoPay": 19436699,
+    "medianPay": 156695,
+    "payRatio": 124,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "the following information about the ratio of the annual total compensation, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, of our median employee and the annual total compensation of our CEO, Mr. Lashier. For 2023, the annual total compensation of our CEO was 124 times that of the median of the annual total compensation of all employees, based on annual total compensation of $19,436,699 for the CEO and $156,695 for the median employee. This ratio is based on a December 1, 2023, employee population of 14,179, which, in accordance with SEC rules, excluded a total of 453 non-U.S. employees across Germany (296), Singapore (76), Austria (46), Canada (27), and China (8). The median employee was identified using annual base pay, annual bonus, and target LTI"
+   }
+  },
+  "0001534701-23-000064": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470123000064/psx-20230329.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001534701-23-000053",
+   "result": {
+    "ceoPay": 16314212,
+    "medianPay": 179184,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "the following information about the ratio of the annual total compensation, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, of our median employee and the annual total compensation of our CEO, Mr. Lashier. For 2022, the annual total compensation of our CEO was 91 times that of the median of the annual total compensation of all employees, based on annual total compensation of $16,314,212 for the CEO and $179,184 for the median employee. This ratio is based on an October 1, 2020, employee population of 14,215, which excluded 413 non-U.S. employees in Germany (260), Singapore (75), Austria (42), Canada (32), China (3), and the United Arab Emirates (1). The median employee was identified using annual base pay, overtime pay, annual bonus, and target LTI co"
+   }
+  },
+  "0001206774-22-000928": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000120677422000928/psx3965551_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001534701-22-000078",
+   "result": {
+    "ceoPay": 20980867,
+    "medianPay": 161584,
+    "payRatio": 130,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "re providing the following information about the ratio of the annual total compensation, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, of our median employee and the annual total compensation of our CEO. For 2021, the annual total compensation of our CEO was 130 times that of the median of the annual total compensation of all employees, based on annual total compensation of $20,980,867 for the CEO and $161,584 for the median employee. This ratio is based on an October 1, 2020, employee population of 14,215, which excluded 413 non-U.S. employees in Germany (260), Singapore (75), Austria (42), Canada (32), China (3), and the United Arab Emirates (1). The median employee was identified using annual base pay, overtime pay, annual bonus, and target LTI c"
+   }
+  },
+  "0001140361-21-010999": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000114036121010999/nc10021503x3_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001534701-21-000074",
+   "result": {
+    "ceoPay": 25016843,
+    "medianPay": 167382,
+    "payRatio": 149,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "re providing the following information about the ratio of the annual total compensation, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, of our median employee and the annual total compensation of our CEO. For 2020, the annual total compensation of our CEO was 149 times that of the median of the annual total compensation of all employees, based on annual total compensation of $25,016,843 for the CEO and $167,382 for the median employee. This ratio is based on an October 1, 2020, employee population of 14,316, which excluded 413 non-U.S. employees in Germany (260), Singapore (75), Austria (42), Canada (32), China (3), and the United Arab Emirates (1). The median employee was identified using annual base pay, overtime pay, annual bonus, and target LTI c"
+   }
+  },
+  "0001193125-20-085402": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000119312520085402/d873892ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001534701-20-000070",
+   "result": {
+    "ceoPay": 31927081,
+    "medianPay": 188738,
+    "payRatio": 169,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "re providing the following information about the ratio of the annual total compensation, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, of our median employee and the annual total compensation of our CEO. For 2019, the annual total compensation of our CEO was 169 times that of the median of the annual total compensation of all employees, based on annual total compensation of $31,927,081 for the CEO and $188,738 for the median employee. 2020 PROXY STATEMENT 51 Table of Contents EXECUTIVE COMPENSATION TABLES This ratio is based on an October 1, 2017, employee population of 14,316, which excluded 412 non-U.S. employees in Germany (270), Singapore (71), Austria (39), Canada (30), and the United Arab Emirates (2). In 2017, the median employee was identifi"
+   }
+  },
+  "0001193125-19-092869": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000119312519092869/d691086ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001534701-19-000063",
+   "result": {
+    "ceoPay": 19304673,
+    "medianPay": 196407,
+    "payRatio": 98,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "re providing the following information about the ratio of the annual total compensation, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, of our median employee and the annual total compensation of our CEO. For 2018, the annual total compensation of our CEO was 98 times that of the median of the annual total compensation of all employees, based on annual total compensation of $19,304,673 for the CEO and $196,407 for the median employee. This ratio is based on an October 1, 2017 employee population of 14,316, which excluded 412 non-U.S. employees in Germany (270), Singapore (71), Austria (39), Canada (30), and the United Arab Emirates (2). In 2017, the median employee was identified using annual base pay, overtime pay, annual bonus, and target LTI compe"
+   }
+  },
+  "0001571049-18-000199": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1534701/000157104918000199/tv488480_phillips66-2018pxy.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001534701-18-000065",
+   "result": {
+    "ceoPay": 23677209,
+    "medianPay": 170988,
+    "payRatio": 138,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "re providing the following information about the ratio of the annual total compensation, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, of our median employee and the annual total compensation of our CEO. For 2017, the annual total compensation of our CEO was 138 times that of the median of the annual total compensation of all employees, based on annual total compensation of $23,677,209 for the CEO and $170,988 for the median employee. This ratio is based on an October 1, 2017 employee population of 14,316, which excluded 412 non-U.S. employees in Germany (270), Singapore (71), Austria (39), Canada (30), and the United Arab Emirates (2). The median employee was identified using annual base pay, overtime pay, annual bonus, and target LTI compensation"
+   }
+  }
+ },
+ "tenKs": {
+  "0001534701-18-000065": {
+   "parserVersion": 1,
+   "employees": 14600
+  },
+  "0001534701-19-000063": {
+   "parserVersion": 1,
+   "employees": 14200
+  },
+  "0001534701-20-000070": {
+   "parserVersion": 1,
+   "employees": 14500
+  },
+  "0001534701-21-000074": {
+   "parserVersion": 1,
+   "employees": 14300
+  },
+  "0001534701-22-000078": {
+   "parserVersion": 1,
+   "employees": 14000
+  },
+  "0001534701-23-000053": {
+   "parserVersion": 1,
+   "employees": 13000
+  },
+  "0001534701-24-000078": {
+   "parserVersion": 1,
+   "employees": 14000
+  },
+  "0001534701-26-000006": {
+   "parserVersion": 1,
+   "employees": 12600
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2010": {
+    "revenue": 146561000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001534701-13-000006"
+   },
+   "2011": {
+    "revenue": 195931000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001534701-14-000042"
+   },
+   "2012": {
+    "revenue": 179290000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001534701-15-000038"
+   },
+   "2013": {
+    "revenue": 171596000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001534701-16-000119"
+   },
+   "2014": {
+    "revenue": 161212000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001534701-17-000051"
+   },
+   "2015": {
+    "revenue": 98975000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001534701-18-000065"
+   },
+   "2016": {
+    "revenue": 84279000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001534701-19-000063"
+   },
+   "2017": {
+    "revenue": 102354000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001534701-20-000070"
+   },
+   "2018": {
+    "revenue": 111461000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001534701-21-000074"
+   },
+   "2019": {
+    "revenue": 107293000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001534701-22-000078"
+   },
+   "2020": {
+    "revenue": 64129000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001534701-23-000053"
+   },
+   "2021": {
+    "revenue": 111476000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001534701-24-000078"
+   },
+   "2022": {
+    "revenue": 169990000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001534701-25-000074"
+   },
+   "2023": {
+    "revenue": 147399000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001534701-26-000006"
+   },
+   "2024": {
+    "revenue": 143153000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001534701-26-000006"
+   },
+   "2025": {
+    "revenue": 132376000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001534701-26-000006"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001534701-26-000006",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000006/psx-20251231.htm"
+   },
+   {
+    "accession": "0001534701-25-000074",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470125000074/psx-20241231.htm"
+   },
+   {
+    "accession": "0001534701-24-000078",
+    "filingDate": "2024-02-21",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470124000078/psx-20231231.htm"
+   },
+   {
+    "accession": "0001534701-23-000053",
+    "filingDate": "2023-02-22",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470123000053/psx-20221231.htm"
+   },
+   {
+    "accession": "0001534701-22-000078",
+    "filingDate": "2022-02-18",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470122000078/psx-20211231.htm"
+   },
+   {
+    "accession": "0001534701-21-000074",
+    "filingDate": "2021-02-24",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470121000074/psx-20201231.htm"
+   },
+   {
+    "accession": "0001534701-20-000070",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470120000070/psx-2019123110k.htm"
+   },
+   {
+    "accession": "0001534701-19-000063",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470119000063/psx-20181231_10k.htm"
+   },
+   {
+    "accession": "0001534701-18-000065",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470118000065/psx-20171231_10k.htm"
+   },
+   {
+    "accession": "0001534701-17-000051",
+    "filingDate": "2017-02-17",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470117000051/psx-20161231_10k.htm"
+   }
+  ]
+ }
+}

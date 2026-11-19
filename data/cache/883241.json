@@ -1,0 +1,334 @@
+{
+ "proxies": {
+  "0000883241-26-000007": {
+   "parserVersion": 1,
+   "filingDate": "2026-02-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324126000007/snps-20260219.htm",
+   "periodEnd": "2025-10-31",
+   "tenK": "0000883241-25-000028",
+   "result": {
+    "ceoPay": 19605963,
+    "medianPay": 93538,
+    "payRatio": 210,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "oyees. Our general employee compensation program is designed separately from the executive officer compensation program to be competitive based on an employee's position and geographic location. CEO Pay Ratio For fiscal 2025: • The annual total compensation of our median employee in fiscal 2025 was $93,538, which amount was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K. • The annual total compensation of Mr. Ghazi was $19,605,963, which amount represents the total compensation reported for our Chief Executive Officer under the \"Summary Compensation Table\" for fiscal 2025. Based on the above, the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of our median employee for fiscal 2025 is estimated to be 210 to 1. Assump"
+   }
+  },
+  "0000883241-25-000008": {
+   "parserVersion": 1,
+   "filingDate": "2025-02-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324125000008/snps-20250214.htm",
+   "periodEnd": "2024-10-31",
+   "tenK": "0000883241-24-000024",
+   "result": {
+    "ceoPay": 18935447,
+    "medianPay": 93786,
+    "payRatio": 202,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "oyees. Our general employee compensation program is designed separately from the executive officer compensation program to be competitive based on an employee's position and geographic location. CEO Pay Ratio For fiscal 2024: • The annual total compensation of our median employee in fiscal 2024 was $93,786, which amount was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K. • The annual total compensation of Mr. Ghazi was $27,404,261, which amount represents the total compensation reported for our Chief Executive Officer under the \"Summary Compensation Table\" for fiscal 2024. • The annual total compensation of Mr. Ghazi excluding the one-time equity grant in connection with Mr. Ghazi's promotion to Chief Executive Officer was $18,935,447 for fiscal 2024. Based on the above,"
+   }
+  },
+  "0000883241-24-000006": {
+   "parserVersion": 1,
+   "filingDate": "2024-02-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324124000006/snps-20240216.htm",
+   "periodEnd": "2023-10-31",
+   "tenK": "0000883241-23-000019",
+   "result": {
+    "ceoPay": 12681076,
+    "medianPay": 90759,
+    "payRatio": 140,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "oyees. Our general employee compensation program is designed separately from the executive officer compensation program to be competitive based on an employee's position and geographic location. CEO Pay Ratio For fiscal 2023: • The annual total compensation of our median employee in fiscal 2023 was $90,759, which amount was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K. • The annual total compensation of Dr. de Geus was $12,681,076, which amount represents the total compensation reported for our Chief Executive Officer under the \"Summary Compensation Table\" for fiscal 2023. Based on the above, the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of our median employee for fiscal 2023 is estimated to be 140 to 1. Assu"
+   }
+  },
+  "0000883241-23-000007": {
+   "parserVersion": 1,
+   "filingDate": "2023-02-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324123000007/a2023proxystatementdef14a.htm",
+   "periodEnd": "2022-10-31",
+   "tenK": "0000883241-22-000017",
+   "result": {
+    "ceoPay": 10058495,
+    "medianPay": 93618,
+    "payRatio": 107,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "oyees. Our general employee compensation program is designed separately from the executive officer compensation program to be competitive based on an employee's position and geographic location. CEO Pay Ratio For fiscal 2022: • The annual total compensation of our median employee in fiscal 2022 was $93,618, which amount was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K. • The annual total compensation of Dr. de Geus was $10,058,495, which amount represents the total compensation reported for our CEO under the \"Summary Compensation Table\" for fiscal 2022. Based on the above, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee for fiscal 2022 is estimated to be 107 to 1. Assumptions and Methodology In accordance wi"
+   }
+  },
+  "0000883241-22-000007": {
+   "parserVersion": 1,
+   "filingDate": "2022-02-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324122000007/a2022proxystatementdef14a.htm",
+   "periodEnd": "2021-10-31",
+   "tenK": "0000883241-21-000022",
+   "result": {
+    "ceoPay": 9976485,
+    "medianPay": 98215,
+    "payRatio": 102,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "oyees. Our general employee compensation program is designed separately from the executive officer compensation program to be competitive based on an employee's position and geographic location. CEO Pay Ratio For fiscal 2021: • The annual total compensation of our median employee in fiscal 2021 was $98,215, and was calculated by totaling for our median employee all applicable elements of compensation for fiscal 2021 in accordance with Item 402(c)(2)(x) of Regulation S-K. • The annual total compensation of Dr. de Geus and Dr. Chan was $9,974,985 and $9,976,485, respectively, which amounts represent the total compensation reported for each co-CEO under the \"Summary Compensation Table\" for fiscal 2021. Based on the above, the ratio of the annual total compensation of each of our co-CEOs to th"
+   }
+  },
+  "0000883241-21-000005": {
+   "parserVersion": 1,
+   "filingDate": "2021-02-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324121000005/a2021proxystatementdef14a.htm",
+   "periodEnd": "2020-10-31",
+   "tenK": "0000883241-20-000015",
+   "result": {
+    "ceoPay": 6769666,
+    "medianPay": 91119,
+    "payRatio": 74,
+    "method": "cross-checked",
+    "employees": 13683,
+    "statedYear": 2020,
+    "excerpt": "Synopsys' general employee compensation program is designed separately from the executive officer compensation program to be competitive based on an employee's position and geographic location. CEO Pay Ratio For fiscal 2020: • The annual total compensation of our median employee in fiscal 2020 was $91,119, and was calculated by totaling for our median employee all applicable elements of compensation for fiscal 2020 in accordance with Item 402(c)(2)(x) of Regulation S-K. • The annual total compensation of Drs. de Geus and Chan was $6,768,566 and $6,769,666, respectively, which amounts represent the total compensation reported for each co-CEO under the \"Summary Compensation Table\" for fiscal 2020. Based on the above, the ratio of the annual total compensation of each of our co-CEOs to the a"
+   }
+  },
+  "0000883241-20-000003": {
+   "parserVersion": 1,
+   "filingDate": "2020-02-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324120000003/synopsys-2020proxy.htm",
+   "periodEnd": "2019-10-31",
+   "tenK": "0000883241-19-000019",
+   "result": {
+    "ceoPay": 9628307,
+    "medianPay": 89083,
+    "payRatio": 108,
+    "method": "cross-checked",
+    "employees": 13683,
+    "statedYear": 2019,
+    "excerpt": "ral employee compensation program is designed separately from the executive officer compensation program to be competitive based on an employee's position and geographic location. CEO Pay Ratio For fiscal 2019 : | | | | | • | | The annual total compensation of our median employee in fiscal 2019 was $ 89,083 , and was calculated by totaling for our median employee all applicable elements of compensation for fiscal 2019 in accordance with Item 402(c)(2)(x) of Regulation S-K. | | | | | | • | | The annual total compensation of Drs. de Geus and Chan was $ 9,627,625 and $ 9,628,307 , respectively, which amounts represent the total compensation reported for each co-CEO under the \"Summary Compensation Table\" for fiscal 2019 . | Based on the above, the ratio of the annual total compensation of each"
+   }
+  },
+  "0000883241-19-000004": {
+   "parserVersion": 1,
+   "filingDate": "2019-02-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324119000004/synopsys-2019proxy.htm",
+   "periodEnd": "2018-10-31",
+   "tenK": "0000883241-18-000012",
+   "result": {
+    "ceoPay": 7433124,
+    "medianPay": 92995,
+    "payRatio": 80,
+    "method": "cross-checked",
+    "employees": 13683,
+    "statedYear": 2018,
+    "excerpt": "ral employee compensation program is designed separately from the executive officer compensation program to be competitive based on an employee's position and geographic location. CEO Pay Ratio For fiscal 2018 : | | | | | • | | The annual total compensation of our median employee in fiscal 2018 was $ 92,995 , and was calculated by totaling for our median employee all applicable elements of compensation for fiscal 2018 in accordance with Item 402(c)(2)(x) of Regulation S-K. | | | | | | • | | The annual total compensation of Drs. de Geus and Chan was $ 7,432,836 and $ 7,433,124 , respectively, which amounts represent the total compensation reported for each co-CEO under the \"Summary Compensation Table\" for fiscal 2018 . | Based on the above, the ratio of the annual total compensation of each"
+   }
+  },
+  "0001193125-18-048649": {
+   "parserVersion": 1,
+   "filingDate": "2018-02-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/883241/000119312518048649/d515555ddef14a.htm",
+   "periodEnd": "2017-10-31",
+   "tenK": "0000883241-17-000014",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0000883241-21-000022": {
+   "parserVersion": 1,
+   "employees": 16361
+  },
+  "0000883241-22-000017": {
+   "parserVersion": 1,
+   "employees": 19000
+  },
+  "0000883241-23-000019": {
+   "parserVersion": 1,
+   "employees": 20300
+  },
+  "0000883241-24-000024": {
+   "parserVersion": 1,
+   "employees": 20000
+  },
+  "0000883241-25-000028": {
+   "parserVersion": 1,
+   "employees": 28000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 1336951000,
+    "periodEnd": "2008-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-028105"
+   },
+   "2009": {
+    "revenue": 1360045000,
+    "periodEnd": "2009-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-343034"
+   },
+   "2010": {
+    "revenue": 1380661000,
+    "periodEnd": "2010-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-510596"
+   },
+   "2011": {
+    "revenue": 1535643000,
+    "periodEnd": "2011-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-479653"
+   },
+   "2012": {
+    "revenue": 1756017000,
+    "periodEnd": "2012-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000883241-14-000008"
+   },
+   "2013": {
+    "revenue": 1962214000,
+    "periodEnd": "2013-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000883241-15-000014"
+   },
+   "2014": {
+    "revenue": 2057472000,
+    "periodEnd": "2014-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000883241-16-000027"
+   },
+   "2015": {
+    "revenue": 2242211000,
+    "periodEnd": "2015-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000883241-17-000014"
+   },
+   "2016": {
+    "revenue": 2422532000,
+    "periodEnd": "2016-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000883241-18-000012"
+   },
+   "2017": {
+    "revenue": 2724880000,
+    "periodEnd": "2017-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000883241-19-000019"
+   },
+   "2018": {
+    "revenue": 3121058000,
+    "periodEnd": "2018-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000883241-20-000015"
+   },
+   "2019": {
+    "revenue": 3360694000,
+    "periodEnd": "2019-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000883241-21-000022"
+   },
+   "2020": {
+    "revenue": 3685281000,
+    "periodEnd": "2020-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000883241-22-000017"
+   },
+   "2021": {
+    "revenue": 4204193000,
+    "periodEnd": "2021-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000883241-22-000017"
+   },
+   "2022": {
+    "revenue": 5081542000,
+    "periodEnd": "2022-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0000883241-22-000017"
+   },
+   "2023": {
+    "revenue": 5318014000,
+    "periodEnd": "2023-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000883241-25-000028"
+   },
+   "2024": {
+    "revenue": 6127436000,
+    "periodEnd": "2024-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000883241-25-000028"
+   },
+   "2025": {
+    "revenue": 7054178000,
+    "periodEnd": "2025-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000883241-25-000028"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000883241-25-000028",
+    "filingDate": "2025-12-22",
+    "reportDate": "2025-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324125000028/snps-20251031.htm"
+   },
+   {
+    "accession": "0000883241-24-000024",
+    "filingDate": "2024-12-19",
+    "reportDate": "2024-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324124000024/snps-20241031.htm"
+   },
+   {
+    "accession": "0000883241-23-000019",
+    "filingDate": "2023-12-12",
+    "reportDate": "2023-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324123000019/snps-20231031.htm"
+   },
+   {
+    "accession": "0000883241-22-000017",
+    "filingDate": "2022-12-12",
+    "reportDate": "2022-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324122000017/snps-20221031.htm"
+   },
+   {
+    "accession": "0000883241-21-000022",
+    "filingDate": "2021-12-13",
+    "reportDate": "2021-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324121000022/snps-20211031.htm"
+   },
+   {
+    "accession": "0000883241-20-000015",
+    "filingDate": "2020-12-15",
+    "reportDate": "2020-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324120000015/snps10312010-k.htm"
+   },
+   {
+    "accession": "0000883241-19-000019",
+    "filingDate": "2019-12-20",
+    "reportDate": "2019-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324119000019/snps10311910-k.htm"
+   },
+   {
+    "accession": "0000883241-18-000012",
+    "filingDate": "2018-12-17",
+    "reportDate": "2018-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324118000012/snps10311810-k.htm"
+   },
+   {
+    "accession": "0000883241-17-000014",
+    "filingDate": "2017-12-14",
+    "reportDate": "2017-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324117000014/snps10311710-k.htm"
+   }
+  ]
+ }
+}

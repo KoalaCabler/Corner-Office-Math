@@ -1,0 +1,202 @@
+{
+ "proxies": {
+  "0001140361-26-015389": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036126015389/ny20061782x1_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001781335-26-000011",
+   "result": {
+    "ceoPay": 16977877,
+    "medianPay": 59408,
+    "payRatio": 286,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "r fiscal year 2025, we concluded there were no changes to our colleague population or compensation arrangements that would significantly change our pay ratio disclosure. We used the same median colleague as last year, as permitted by the SEC rules. For 2025, Ms. Marks' annual total compensation was $16,977,877, and the annual total compensation of our median colleague was $59,408, resulting in a ratio of 286:1. We believe this pay ratio is a reasonable estimate based on the methodology and assumptions described above. Comparing pay ratios of other companies Because SEC rules allow companies to use different methodologies, exclusions, estimates and assumptions in calculating their CEO pay ratios, our CEO pay ratio may not be comparable to those reported by other companies. | 86 // 112 | | |"
+   }
+  },
+  "0001140361-25-012360": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036125012360/ny20040372x1_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001781335-25-000010",
+   "result": {
+    "ceoPay": 42102257,
+    "medianPay": 61120,
+    "payRatio": 689,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "MINATION We then determined the annual total compensation of our CEO and median colleague for fiscal year 2024, using the methodology required for the Summary Compensation Table to compute the pay ratio. Fiscal year 2024 CEO pay ratio determination For 2024, Ms. Marks' annual total compensation was $42,102,257, and the annual total compensation of our median colleague was $61,120, resulting in a ratio of 689:1. We believe this pay ratio is a reasonable estimate based on the methodology and assumptions described above. Comparing pay ratios of other companies Because SEC rules allow companies to use different methodologies, exclusions, estimates and assumptions in calculating their CEO pay ratios, our CEO pay ratio may not be comparable to those reported by other companies. We also note that"
+   }
+  },
+  "0001140361-24-018332": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036124018332/ny20017136x1_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001781335-24-000013",
+   "result": {
+    "ceoPay": 15924194,
+    "medianPay": 49048,
+    "payRatio": 325,
+    "method": "cross-checked",
+    "employees": 65861,
+    "statedYear": 2023,
+    "excerpt": "gue population or compensation arrangements that would significantly change our pay ratio disclosure. We used the same median colleague as last year, as permitted by the SEC rules. Using the same methodology as for 2021 and 2022, we determined that for 2023, Ms. Marks' annual total compensation was $15,924,194, and the annual total compensation of our median colleague was $49,048, resulting in a ratio of 325:1. We believe this pay ratio is a reasonable estimate based on the methodology and assumptions described above. Comparing pay ratios of other companies Because SEC rules allow companies to use different methodologies, exclusions, estimates and assumptions in calculating their CEO pay ratios, our CEO pay ratio may not be comparable to those reported by other companies. | 78 // 102 | TAB"
+   }
+  },
+  "0001140361-23-017048": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036123017048/ny20004612x1_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001781335-23-000009",
+   "result": {
+    "ceoPay": 14477875,
+    "medianPay": 51865,
+    "payRatio": 279,
+    "method": "cross-checked",
+    "employees": 65861,
+    "statedYear": 2022,
+    "excerpt": "colleague whose compensation was substantially similar to the compensation of the original median colleague last year, based on the methodology used to select the original median colleague. Using the same methodology as for 2021, we determined that for 2022, Ms. Marks' annual total compensation was $14,477,875, and the annual total compensation of our new median colleague was $51,865, resulting in a ratio of 279:1. We believe this pay ratio is a reasonable estimate based on the methodology and assumptions described above. Comparing pay ratios of other companies Because SEC rules allow companies to use different methodologies, exclusions, estimates and assumptions in calculating their CEO pay ratios, our CEO pay ratio may not be comparable to those reported by other companies. | 76 // 98 |"
+   }
+  },
+  "0001206774-22-001053": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000120677422001053/otis3963051-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001781335-22-000007",
+   "result": {
+    "ceoPay": 13770306,
+    "medianPay": 49941,
+    "payRatio": 276,
+    "method": "cross-checked",
+    "employees": 65861,
+    "statedYear": 2021,
+    "excerpt": "on determination We then determined the annual total compensation of our CEO and median colleague for fiscal year 2021, using the methodology required for the Summary Compensation Table (see page 62 of this Proxy Statement). Pay ratio determination For 2021, Ms. Marks' annual total compensation was $13,770,306, and the annual total compensation of our median colleague was $49,941, resulting in a ratio of 276:1. We believe this pay ratio is a reasonable estimate based on the methodology and assumptions described above. Comparing pay ratios of other companies Because SEC rules allow companies to use different methodologies, exclusions, estimates and assumptions in calculating their CEO pay ratios, our CEO pay ratio may not be comparable to those reported by other companies. | | | 73 // 95 |"
+   }
+  },
+  "0001206774-21-000694": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781335/000120677421000694/otis3814731-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001781335-21-000023",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001781335-25-000010": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001781335-26-000011": {
+   "parserVersion": 1,
+   "employees": 72000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2018": {
+    "revenue": 12915000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001781335-21-000023"
+   },
+   "2019": {
+    "revenue": 13118000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001781335-22-000007"
+   },
+   "2020": {
+    "revenue": 12756000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001781335-23-000009"
+   },
+   "2021": {
+    "revenue": 14298000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001781335-24-000013"
+   },
+   "2022": {
+    "revenue": 13685000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001781335-25-000010"
+   },
+   "2023": {
+    "revenue": 14209000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001781335-26-000011"
+   },
+   "2024": {
+    "revenue": 14261000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001781335-26-000011"
+   },
+   "2025": {
+    "revenue": 14431000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001781335-26-000011"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 13770306,
+   "2022": 14477875,
+   "2023": 15924194,
+   "2024": 42102257,
+   "2025": 16977877
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001781335-26-000011",
+    "filingDate": "2026-02-05",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133526000011/otis-20251231.htm"
+   },
+   {
+    "accession": "0001781335-25-000010",
+    "filingDate": "2025-02-04",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133525000010/otis-20241231.htm"
+   },
+   {
+    "accession": "0001781335-24-000013",
+    "filingDate": "2024-02-02",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133524000013/otis-20231231.htm"
+   },
+   {
+    "accession": "0001781335-23-000009",
+    "filingDate": "2023-02-03",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133523000009/otis-20221231.htm"
+   },
+   {
+    "accession": "0001781335-22-000007",
+    "filingDate": "2022-02-04",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133522000007/otis-20211231.htm"
+   },
+   {
+    "accession": "0001781335-21-000023",
+    "filingDate": "2021-02-05",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000178133521000023/otis-20201231.htm"
+   }
+  ]
+ }
+}

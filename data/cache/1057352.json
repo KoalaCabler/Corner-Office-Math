@@ -1,0 +1,364 @@
+{
+ "proxies": {
+  "0001193125-26-197205": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1057352/000119312526197205/d903159ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001057352-26-000020",
+   "result": {
+    "ceoPay": 36431936,
+    "medianPay": 120170,
+    "payRatio": 303,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "uance under the Company's stockholder-approved Employee Stock Purchase Plan, which amount includes 13,268 shares subject to purchase during the then-current purchase period. | CEO Pay Ratio The 2025 annual total compensation for the median compensated employee of the Company, other than our CEO was $120,170 and the annual total compensation of our CEO was $36,431,936. Based on this information, for fiscal year 2025 the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 303 to 1. We believe this ratio is a reasonable estimate, calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. As a result of large acquisitions completed in 2025, including Domain, which significantly change"
+   }
+  },
+  "0001193125-25-107493": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1057352/000119312525107493/d821281ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001057352-25-000016",
+   "result": {
+    "ceoPay": 37393960,
+    "medianPay": 118800,
+    "payRatio": 315,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "own pay ratios. | | | | | | | | 2025 PROXY STATEMENT 69 | Table of Contents | | | | | | | | | | EXECUTIVE COMPENSATION | The 2024 total compensation of the median compensated of all our employees who were employed as of December 31, 2024, other than our Chief Executive Officer, Andrew Florance, was $118,800; Andrew Florance's 2024 total compensation was $37,393,960, which were each calculated in accordance with SEC rules applicable to the Summary Compensation Table. The ratio of these amounts was approximately 1-to-315. Pay Versus Performance As required by Section 953(a) of the Dodd-Frank Act, we are providing the information below to illustrate the relationship between the SEC-defined compensation actually paid (\"CAP\") and various measures used to gauge the Company's financial performanc"
+   }
+  },
+  "0001193125-24-117787": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1057352/000119312524117787/d806524ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001057352-24-000013",
+   "result": {
+    "ceoPay": 29176180,
+    "medianPay": 109250,
+    "payRatio": 267,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "d compensation practices and may utilize different methodologies, exclusions, estimates and assumptions in calculating their own pay ratios. The 2023 total compensation of the median compensated of all our employees who were employed as of December 31, 2023, other than our CEO, Andrew Florance, was $109,250; Andrew Florance's 2023 total compensation was $29,176,180, which were each calculated in accordance with SEC rules applicable to the Summary Compensation Table. The ratio of these amounts was 1-to-267. | | | | | | | | 2024 PROXY STATEMENT 66 | Table of Contents | | | | | | | | | | EXECUTIVE COMPENSATION | Pay Versus Performance As required by Section 953(a) of the Dodd-Frank Act, we are providing the information below to illustrate the relationship between the SEC-defined compensation"
+   }
+  },
+  "0001193125-23-122453": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1057352/000119312523122453/d412492ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001057352-23-000030",
+   "result": {
+    "ceoPay": 19420514,
+    "medianPay": 104791,
+    "payRatio": 185,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "d compensation practices and may utilize different methodologies, exclusions, estimates and assumptions in calculating their own pay ratios. The 2022 total compensation of the median compensated of all our employees who were employed as of December 31, 2022, other than our CEO, Andrew Florance, was $104,791; Andrew Florance's 2022 total compensation was $19,420,514, which were each calculated in accordance with SEC rules applicable to the Summary Compensation Table. The ratio of these amounts was 1-to-185. | | | | | | | | | | | 2023 PROXY STATEMENT 63 | Table of Contents | | | | | | | | | | | | | | | EXECUTIVE COMPENSATION | Pay Versus Performance As required by Section 953(a) of the Dodd-Frank Act, we are providing the information below to illustrate the relationship between the SEC-defin"
+   }
+  },
+  "0001057352-22-000045": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735222000045/a2022proxystatement-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001057352-22-000027",
+   "result": {
+    "ceoPay": 22164341,
+    "medianPay": 94511,
+    "payRatio": 235,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "in his employment agreement, and Mr. Wheeler would be entitled to the payment set forth in his offer letter. CEO PAY RATIO DISCLOSURE The 2021 annual total compensation of the median compensated of all our employees who were employed as of December 31, 2021, other than our CEO Andrew Florance, was $94,511; Andrew Florance's 2021 annual total compensation was $$22,164,341, both of which were calculated in accordance with SEC rules applicable to the Summary Compensation Table. The ratio of these amounts was 1-to-235. 67 For these purposes, we identified our employee population as of December 31, 2021 based on our payroll records. As permitted by SEC rules under a de minimis exemption, we excluded 160 employees located in Germany (52 employees), Spain (39 employees), France (29 employees), C"
+   }
+  },
+  "0001057352-21-000059": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735221000059/a2021proxystatement-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001057352-21-000032",
+   "result": {
+    "ceoPay": 21304754,
+    "medianPay": 91979,
+    "payRatio": 232,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "in his employment agreement, and Mr. Wheeler would be entitled to the payment set forth in his offer letter. CEO PAY RATIO DISCLOSURE The 2020 annual total compensation of the median compensated of all our employees who were employed as of December 31, 2020, other than our CEO Andrew Florance, was $91,979; Andrew Florance's 2020 annual total compensation was $21,304,754, both of which were calculated in accordance with SEC rules applicable to the Summary Compensation Table. The ratio of these amounts was 1-to-232. For these purposes, we identified our employee population as of December 31, 2020 based on our payroll records. As permitted by SEC rules under a de minimis exemption, we excluded 139 employees located in Germany (60 employees), Spain (38 employees), Singapore (10 employees), Ch"
+   }
+  },
+  "0001057352-20-000065": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735220000065/a2020proxystatement.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001057352-20-000036",
+   "result": {
+    "ceoPay": 19324540,
+    "medianPay": 89925,
+    "payRatio": 215,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "Linnington would be entitled to the payment set forth in his offer letter, each of which are described above. CEO PAY RATIO DISCLOSURE The 2019 annual total compensation of the median compensated of all our employees who were employed as of December 31, 2019, other than our CEO Andrew Florance, was $89,925; Andrew Florance's 2019 annual total compensation was $19,324,540, both of which were calculated in accordance with SEC rules applicable to the Summary Compensation Table. The ratio of these amounts was 1-to-215. For these purposes, we identified our employee population as of December 31, 2019 based on our payroll records. As permitted by SEC rules under a de minimis exemption, we excluded 141 employees located in Germany (61 employee), Spain (39 employees), China (11 employees), Singapo"
+   }
+  },
+  "0001057352-19-000049": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735219000049/a2019proxystatement.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001057352-19-000017",
+   "result": {
+    "ceoPay": 14640477,
+    "medianPay": 83805,
+    "payRatio": 175,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "Linnington would be entitled to the payment set forth in his offer letter, each of which are described above. CEO PAY RATIO DISCLOSURE The 2018 annual total compensation of the median compensated of all our employees who were employed as of December 31, 2018, other than our CEO Andrew Florance, was $83,805; Andrew Florance's 2018 annual total compensation was $14,640,477, both of which were calculated in accordance with SEC rules applicable to the Summary Compensation Table. The ratio of these amounts was 1-to-175. For these purposes, we identified our employee population as of December 31, 2018 based on our payroll records. As permitted by SEC rules under a de minimis exemption, we excluded 166 employees located in Canada (70 employees), France (8 employees), Germany (54 employees), and S"
+   }
+  },
+  "0001057352-18-000061": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735218000061/a2018proxystatement.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001057352-18-000011",
+   "result": {
+    "ceoPay": 10621531,
+    "medianPay": 72377,
+    "payRatio": 147,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "Linnington would be entitled to the payment set forth in his offer letter, each of which are described above. CEO PAY RATIO DISCLOSURE The 2017 annual total compensation of the median compensated of all our employees who were employed as of December 31, 2017, other than our CEO Andrew Florance, was $72,377; Andrew Florance's 2017 annual total compensation was $10,621,531, both of which were calculated in accordance with SEC rules applicable to the Summary Compensation Table. The ratio of these amounts was 1-to-147. For these purposes, we identified our employee population as of December 31, 2017 based on our payroll records. As permitted by SEC rules under a de minimis exemption, we excluded 161 employees located in Canada (58 employees), France (7 employees), Germany (56 employees), and S"
+   }
+  }
+ },
+ "tenKs": {
+  "0001057352-18-000011": {
+   "parserVersion": 1,
+   "employees": 3711
+  },
+  "0001057352-19-000017": {
+   "parserVersion": 1,
+   "employees": 3705
+  },
+  "0001057352-20-000036": {
+   "parserVersion": 1,
+   "employees": 4337
+  },
+  "0001057352-21-000032": {
+   "parserVersion": 1,
+   "employees": 4752
+  },
+  "0001057352-22-000027": {
+   "parserVersion": 1,
+   "employees": 4742
+  },
+  "0001057352-23-000030": {
+   "parserVersion": 1,
+   "employees": 5653
+  },
+  "0001057352-24-000013": {
+   "parserVersion": 1,
+   "employees": 6152
+  },
+  "0001057352-25-000016": {
+   "parserVersion": 1,
+   "employees": 6593
+  },
+  "0001057352-26-000020": {
+   "parserVersion": 1,
+   "employees": 8000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 209659000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001057352-12-000024"
+   },
+   "2010": {
+    "revenue": 226260000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001057352-13-000013"
+   },
+   "2011": {
+    "revenue": 251738000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001057352-14-000006"
+   },
+   "2012": {
+    "revenue": 349936000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001057352-15-000012"
+   },
+   "2013": {
+    "revenue": 440943000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001057352-16-000103"
+   },
+   "2014": {
+    "revenue": 575936000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001057352-17-000008"
+   },
+   "2015": {
+    "revenue": 711764000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001057352-18-000011"
+   },
+   "2016": {
+    "revenue": 837630000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001057352-18-000011"
+   },
+   "2017": {
+    "revenue": 965230000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001057352-18-000011"
+   },
+   "2018": {
+    "revenue": 1191832000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001057352-21-000032"
+   },
+   "2019": {
+    "revenue": 1399719000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001057352-22-000027"
+   },
+   "2020": {
+    "revenue": 1659019000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001057352-23-000030"
+   },
+   "2021": {
+    "revenue": 1944100000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001057352-24-000013"
+   },
+   "2022": {
+    "revenue": 2182400000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001057352-25-000016"
+   },
+   "2023": {
+    "revenue": 2455000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001057352-26-000020"
+   },
+   "2024": {
+    "revenue": 2736000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001057352-26-000020"
+   },
+   "2025": {
+    "revenue": 3247000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001057352-26-000020"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 22164341,
+   "2022": 19420514,
+   "2023": 29176180,
+   "2024": 37393960,
+   "2025": 36431936
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001057352-26-000020",
+    "filingDate": "2026-02-26",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735226000020/csgp-20251231.htm"
+   },
+   {
+    "accession": "0001057352-25-000016",
+    "filingDate": "2025-02-20",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735225000016/csgp-20241231.htm"
+   },
+   {
+    "accession": "0001057352-24-000013",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735224000013/csgp-20231231.htm"
+   },
+   {
+    "accession": "0001057352-23-000030",
+    "filingDate": "2023-02-22",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735223000030/csgp-20221231.htm"
+   },
+   {
+    "accession": "0001057352-22-000027",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735222000027/csgp-20211231.htm"
+   },
+   {
+    "accession": "0001057352-21-000032",
+    "filingDate": "2021-02-24",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735221000032/csgp-20201231.htm"
+   },
+   {
+    "accession": "0001057352-20-000036",
+    "filingDate": "2020-02-26",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735220000036/csgp20191231-10k.htm"
+   },
+   {
+    "accession": "0001057352-19-000017",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735219000017/csgp20181231-10k.htm"
+   },
+   {
+    "accession": "0001057352-18-000011",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735218000011/csgp20171231-10k.htm"
+   },
+   {
+    "accession": "0001057352-17-000008",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1057352/000105735217000008/csgp20161231-10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001308179-26-000290": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000130817926000290/ctsh014861-def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001058290-26-000008",
+   "result": {
+    "ceoPay": 21532448,
+    "medianPay": 45138,
+    "payRatio": 477,
+    "method": "cross-checked",
+    "employees": 351600,
+    "statedYear": 2025,
+    "excerpt": "our median employees for the year ended December 31, 2025. | Category | | | | Median Employee Annual Total Compensation | | | | | | CEO Annual Total Compensation | | | | | | Pay Ratio (CEO: median employee) | | | | CEO Pay to Worldwide Median Employee Pay (SEC-required pay ratio disclosure) | | | | $ | | 45,138 | | | | | | $ | | 21,532,448 | | | | | | | | 477 : 1 | | | | CEO Pay to U.S. Median Employee Pay (Supplemental pay ratio information) | | | | $ | | 140,739 | | | | | | | | | | | | | | | | 153 : 1 | | | Employees Included. The Company had approximately 351,600 employees as of December 31, 2025, with 256,900 in India, 41,600 in North America, 14,600 in Continental Europe, 7,800 in the United Kingdom and 30,700 in various other locations throughout the rest of the world. In identifying"
+   }
+  },
+  "0001359948-25-000472": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000135994825000472/ctsh013300-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001058290-25-000017",
+   "result": {
+    "ceoPay": 16801707,
+    "medianPay": 44497,
+    "payRatio": 378,
+    "method": "cross-checked",
+    "employees": 336800,
+    "statedYear": 2024,
+    "excerpt": "tion of our median employees for the year ended December 31, 2024. | Category | | | | Median Employee Annual Total Compensation | | | | | | CEO Annual Total Compensation | | | | Pay Ratio (CEO: median employee) | | CEO Pay to Worldwide Median Employee Pay (SEC-required pay ratio disclosure) | | | | $ | | 44,497 | | | | | | $ | | 16,801,707 | | | | | | 378 : 1 | | CEO Pay to U.S. Median Employee Pay (Supplemental pay ratio information) | | | | $ | | 139,355 | | | | | | | | | | | | | | 121 : 1 | Employees Included. The Company had approximately 336,800 employees as of December 31, 2024, with 241,500 in India, 42,800 in North America, 15,700 in Continental Europe, 8,200 in the United Kingdom and 28,600 in various other locations throughout the rest of the world. In identifying the worldwide m"
+   }
+  },
+  "0001308179-24-000541": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000130817924000541/lctsh2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001058290-24-000017",
+   "result": {
+    "ceoPay": 22617945,
+    "medianPay": 40660,
+    "payRatio": 556,
+    "method": "cross-checked",
+    "employees": 347700,
+    "statedYear": 2023,
+    "excerpt": "payout at all. See page 54 for information on the current performance of these PSUs. | Category | | Median Employee Annual Total Compensation | | CEO Annual Total Compensation | | Pay Ratio (CEO: median employee) | | CEO Pay to Worldwide Median Employee Pay ( SEC-required pay ratio disclosure ) | | $40,660 | | $22,617,945 | | 556 : 1 | | CEO Pay to U.S. Median Employee Pay ( Supplemental pay ratio information ) | | $125,791 | | 180 : 1 | | | | | | | | | CEO Compensation. For the year ended December 31, 2023, the total compensation for our current CEO, Mr. Kumar, was $22,563,405 as reported in the \"SEC Total\" column of the Summary Compensation Table on page 70 . Since Mr. Kumar was appointed CEO effective January 12, 2023, we annualized his Salary and Non-Equity Incentive Plan Compensation"
+   }
+  },
+  "0001308179-23-000721": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000130817923000721/lctsh2023_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001058290-23-000027",
+   "result": {
+    "ceoPay": 17943895,
+    "medianPay": 31450,
+    "payRatio": 571,
+    "method": "cross-checked",
+    "employees": 355300,
+    "statedYear": 2022,
+    "excerpt": "ual total compensation of our median employees for the year ended December 31, 2022. | Category | | Median Employee Annual Total Compensation | | CEO Annual Total Compensation | | Pay Ratio (CEO: median employee) | | CEO Pay to Worldwide Median Employee Pay ( SEC-required pay ratio disclosure ) | | $31,450 | | $17,943,895 | | 571 : 1 | | CEO Pay to U.S. Median Employee Pay ( Supplemental pay ratio information ) | | $93,846 | | 191 : 1 | | CEO Pay to U.K. and Western Europe Median Employee Pay ( Supplemental pay ratio information ) | | $70,562 | | 254 : 1 | | Employees Included. The company had approximately 355,300 employees as of December 31, 2022, with 258,500 in India, 41,100 in North America, 18,200 in Continental Europe, 9,200 in the United Kingdom and 28,300 in various other location"
+   }
+  },
+  "0001206774-22-001214": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000120677422001214/ctsh3985061-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001058290-22-000023",
+   "result": {
+    "ceoPay": 19687285,
+    "medianPay": 34225,
+    "payRatio": 575,
+    "method": "cross-checked",
+    "employees": 330600,
+    "statedYear": 2021,
+    "excerpt": "sation of our median employees for the year ended December 31, 2021. | Category | | | | Median Employee Annual Total Compensation | | | | CEO Annual Total Compensation | | | | Pay Ratio (CEO: median employee) | | CEO Pay to Worldwide Median Employee Pay ( SEC-required pay ratio disclosure ) | | | | $ | | 34,225 | | | | $19,687,285 | | | | 575 : 1 | | CEO Pay to U.S. Median Employee Pay ( Supplemental pay ratio information ) | | | | $ | | 106,133 | | | | | | 185 : 1 | | CEO Pay to U.K. and Western Europe Median Employee Pay ( Supplemental pay ratio information ) | | | | $ | | 79,446 | | | | | | 248 : 1 | | | | | | | | | | | | | | | Employees Included. The company had approximately 330,600 employees at the end of 2021, with 40,900 in North America, 15,700 in Continental Europe, 8,100 in the"
+   }
+  },
+  "0001206774-21-001176": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000120677421001176/ctsh3816981-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001058290-21-000031",
+   "result": {
+    "ceoPay": 13807940,
+    "medianPay": 33358,
+    "payRatio": 414,
+    "method": "cross-checked",
+    "employees": 289500,
+    "statedYear": 2020,
+    "excerpt": "| | | | | | Median | | | | | | | | | | | | Employee | | CEO | | Pay Ratio | | | | | | | | Annual Total | | Annual Total | | (CEO : median | | | | | | Category | | Compensation | | Compensation | | employee) | | | | | | CEO Pay to Worldwide Median Employee Pay (SEC-required pay ratio disclosure) | | $ 33,358 | | | | 414 : 1 | | | | | | CEO Pay to U.S. Median Employee Pay (Supplemental pay ratio information) | | $ 87,375 | | $13,807,940 | | 158 : 1 | | | | | | CEO Pay to U.K. and Western Europe Median Employee Pay (Supplemental pay ratio information) | | $ 72,253 | | | | 191 : 1 | | | | | | | | | | | | | | | | | | Employees Included. The company had approximately 289,500 employees at the end of 2020, with 43,500 in North America, 13,400 in Continental Europe, 6,800 in the United Kingdom and"
+   }
+  },
+  "0001206774-20-001259": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000120677420001259/ctsh3652831-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001058290-20-000008",
+   "result": {
+    "ceoPay": 16503792,
+    "medianPay": 32084,
+    "payRatio": 514,
+    "method": "cross-checked",
+    "employees": 293000,
+    "statedYear": 2019,
+    "excerpt": "ompensation of our employees as of December 31, 2019. | Category | | | | Median Employee Annual Total Compensation | | | | Current CEO Annual Total Compensation | | | | Pay Ratio (CEO : median employee) | | Current CEO Pay to Worldwide Median Employee Pay (SEC-required pay ratio disclosure) | | | | $ | | 32,084 | | | | $ | | 16,503,792 | | | | 514 : 1 | | Current CEO Pay to U.S. Median Employee Pay (Supplemental pay ratio information) | | | | $ | | 89,177 | | | | | | 185 : 1 | 54 COGNIZANT Table of Contents CEO Compensation . For the year ended December 31, 2019, the total compensation for our current CEO, Mr. Humphries, was $15,958,002 as reported in the \"SEC Total\" column of the Summary Compensation Table on page 49 . Since Mr. Humphries was appointed CEO effective April 1, 2019, we annu"
+   }
+  },
+  "0001206774-19-001373": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000120677419001373/ctsh3484491-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001058290-19-000009",
+   "result": {
+    "ceoPay": 14094531,
+    "medianPay": 34183,
+    "payRatio": 412,
+    "method": "cross-checked",
+    "employees": 281600,
+    "statedYear": 2018,
+    "excerpt": "otal compensation of our employees as of December 31, 2018. | Category | | | | Median Employee Annual Total Compensation | | | | 2018 CEO Annual Total Compensation | | | | Pay Ratio (CEO : median employee) | | 2018 CEO Pay to Worldwide Median Employee Pay (SEC-required pay ratio disclosure) | | | | $34,183 | | | | $14,094,531 | | | | 412 : 1 | | 2018 CEO Pay to U.S. Median Employee Pay (Supplemental pay ratio information) | | | | $92,971 | | | | | | 152 : 1 | Employees Included. The company had approximately 281,600 employees worldwide as of December 31, 2018, including approximately 50,000 in North America, approximately 18,300 in Europe and approximately 213,300 in various other locations throughout the rest of the world, including approximately 194,700 in India. In identifying the world"
+   }
+  },
+  "0001206774-18-001288": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058290/000120677418001288/ctsh3251631-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001058290-18-000009",
+   "result": {
+    "ceoPay": 12478392,
+    "medianPay": 31998,
+    "payRatio": 390,
+    "method": "cross-checked",
+    "employees": 260000,
+    "statedYear": 2017,
+    "excerpt": "total compensation of our CEO and the annual total compensation of our employees as of December 31, 2017. | Category | | | | Median Employee Annual Total Compensation | | | | CEO Annual Total Compensation | | | | Pay Ratio (CEO : median employee) | | CEO Pay to Worldwide Median Employee Pay | | | | $31,998 | | | | $12,478,392 | | | | 390 : 1 | | (SEC-required pay ratio disclosure) | | | | | | | | | | | | CEO Pay to U.S. Median Employee Pay | | | | $90,293 | | | | | | 138 : 1 | | (Supplemental pay ratio information) | | | | | | | | | | | Employees Included. The Company had approximately 260,000 employees worldwide as of December 31, 2017, including approximately 50,400 in North America, approximately 13,800 in Europe and approximately 195,800 in various other locations throughout the rest o"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 2135577000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-040500"
+   },
+   "2008": {
+    "revenue": 2816304000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-043696"
+   },
+   "2009": {
+    "revenue": 3278663000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-081638"
+   },
+   "2010": {
+    "revenue": 4592389000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-077271"
+   },
+   "2011": {
+    "revenue": 6121156000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-067531"
+   },
+   "2012": {
+    "revenue": 7346472000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001058290-15-000006"
+   },
+   "2013": {
+    "revenue": 8843200000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001058290-16-000049"
+   },
+   "2014": {
+    "revenue": 10263000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001058290-17-000008"
+   },
+   "2015": {
+    "revenue": 12416000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001058290-18-000009"
+   },
+   "2016": {
+    "revenue": 13487000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058290-19-000009"
+   },
+   "2017": {
+    "revenue": 14810000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058290-20-000008"
+   },
+   "2018": {
+    "revenue": 16125000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058290-21-000031"
+   },
+   "2019": {
+    "revenue": 16783000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058290-22-000023"
+   },
+   "2020": {
+    "revenue": 16652000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058290-23-000027"
+   },
+   "2021": {
+    "revenue": 18507000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058290-24-000017"
+   },
+   "2022": {
+    "revenue": 19428000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058290-25-000017"
+   },
+   "2023": {
+    "revenue": 19353000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058290-26-000008"
+   },
+   "2024": {
+    "revenue": 19736000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058290-26-000008"
+   },
+   "2025": {
+    "revenue": 21108000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058290-26-000008"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001058290-26-000008",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829026000008/ctsh-20251231.htm"
+   },
+   {
+    "accession": "0001058290-25-000017",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829025000017/ctsh-20241231.htm"
+   },
+   {
+    "accession": "0001058290-24-000017",
+    "filingDate": "2024-02-14",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829024000017/ctsh-20231231.htm"
+   },
+   {
+    "accession": "0001058290-23-000027",
+    "filingDate": "2023-02-15",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829023000027/ctsh-20221231.htm"
+   },
+   {
+    "accession": "0001058290-22-000023",
+    "filingDate": "2022-02-16",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829022000023/ctsh-20211231.htm"
+   },
+   {
+    "accession": "0001058290-21-000031",
+    "filingDate": "2021-02-12",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829021000031/ctsh-20201231.htm"
+   },
+   {
+    "accession": "0001058290-20-000008",
+    "filingDate": "2020-02-14",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829020000008/ctsh20191231-10k.htm"
+   },
+   {
+    "accession": "0001058290-19-000009",
+    "filingDate": "2019-02-19",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829019000009/ctsh20181231-10k.htm"
+   },
+   {
+    "accession": "0001058290-18-000009",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829018000009/ctsh20171231-10k.htm"
+   },
+   {
+    "accession": "0001058290-17-000008",
+    "filingDate": "2017-03-01",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058290/000105829017000008/ctsh20161231-10k.htm"
+   }
+  ]
+ }
+}

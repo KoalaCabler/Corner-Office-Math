@@ -1,0 +1,344 @@
+{
+ "proxies": {
+  "0000060667-26-000056": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000056/low-20260415.htm",
+   "periodEnd": "2026-01-30",
+   "tenK": "0000060667-26-000029",
+   "result": {
+    "ceoPay": 21581889,
+    "medianPay": 37371,
+    "payRatio": 578,
+    "method": "cross-checked",
+    "employees": 266000,
+    "statedYear": 2025,
+    "excerpt": "on S-K (\" Annual Total Compensation \"), of our median-paid associate and the Annual Total Compensation of our Chairman, President and Chief Executive Officer, Marvin R. Ellison. • For 2025, the Annual Total Compensation for Mr. Ellison, as reported in the Summary Compensation Table on page 61 , was $21,581,889. • The Annual Total Compensation for 2025 for our median-paid associate, excluding Mr. Ellison, was $37,371. • Based on this information, for fiscal 2025, the ratio of the Annual Total Compensation of Mr. Ellison to the Annual Total Compensation of our median associate, a full-time hourly employee in the United States , was 578 to 1. The SEC rules for identifying the median-compensated associate and calculating the pay ratio based on that associate's Annual Total Compensation allow c"
+   }
+  },
+  "0001193125-25-083589": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/60667/000119312525083589/d873071ddef14a.htm",
+   "periodEnd": "2025-01-31",
+   "tenK": "0000060667-25-000049",
+   "result": {
+    "ceoPay": 20164912,
+    "medianPay": 30606,
+    "payRatio": 659,
+    "method": "cross-checked",
+    "employees": 273000,
+    "statedYear": 2024,
+    "excerpt": "nual Total Compensation\"), of our median-paid associate and the Annual Total Compensation of our Chairman, President and Chief Executive Officer, Marvin R. Ellison. | | | • | | | | For 2024, the Annual Total Compensation for Mr. Ellison, as reported in the Summary Compensation Table on page 46, was $20,164,912. | | | | • | | | | The Annual Total Compensation for 2024 for our median-paid associate, excluding Mr. Ellison, was $30,606. | | | | • | | | | Based on this information, for fiscal 2024, the ratio of the Annual Total Compensation of Mr. Ellison to the Annual Total Compensation of our median associate, a full-time hourly employee, was 659 to 1. | The SEC rules for identifying the median-compensated associate and calculating the pay ratio based on that associate's Annual Total Compensa"
+   }
+  },
+  "0001193125-24-100050": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/60667/000119312524100050/d467523ddef14a.htm",
+   "periodEnd": "2024-02-02",
+   "tenK": "0000060667-24-000033",
+   "result": {
+    "ceoPay": 18162272,
+    "medianPay": 32626,
+    "payRatio": 557,
+    "method": "cross-checked",
+    "employees": 285000,
+    "statedYear": 2023,
+    "excerpt": "ual Total Compensation\"), of our median-paid associate and the Annual Total Compensation of our Chairman, President and Chief Executive Officer, Marvin R. Ellison. | | | • | | | | For 2023, the Annual Total Compensation for Mr. Ellison, as reported in the Summary Compensation Table on page 47 , was $18,162,272. | | | | • | | | | The Annual Total Compensation for 2023 for our median-paid associate, excluding Mr. Ellison, was $32,626. | | | | • | | | | Based on this information, for fiscal 2023, the ratio of the Annual Total Compensation of Mr. Ellison to the Annual Total Compensation of our median associate, a full-time hourly employee, was 557 to 1. | The SEC rules for identifying the median-compensated associate and calculating the pay ratio based on that associate's Annual Total Compensa"
+   }
+  },
+  "0001193125-23-099980": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/60667/000119312523099980/d392221ddef14a.htm",
+   "periodEnd": "2023-02-03",
+   "tenK": "0000060667-23-000034",
+   "result": {
+    "ceoPay": 17472005,
+    "medianPay": 29584,
+    "payRatio": 591,
+    "method": "cross-checked",
+    "employees": 328000,
+    "statedYear": 2022,
+    "excerpt": "ual Total Compensation\"), of our median-paid associate and the Annual Total Compensation of our Chairman, President and Chief Executive Officer, Marvin R. Ellison. | | | • | | | | For 2022, the Annual Total Compensation for Mr. Ellison, as reported in the Summary Compensation Table on page 44 , was $17,472,005. | | | | • | | | | The Annual Total Compensation for 2022 for our median-paid associate, excluding Mr. Ellison, was $29,584. | | | | • | | | | Based on this information, for fiscal 2022, the ratio of the Annual Total Compensation of Mr. Ellison to the Annual Total Compensation of our median associate, a full-time hourly employee, was 591 to 1. | The SEC rules for identifying the median-compensated associate and calculating the pay ratio based on that associate's Annual Total Compensa"
+   }
+  },
+  "0001193125-22-105006": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/60667/000119312522105006/d301898ddef14a.htm",
+   "periodEnd": "2022-01-28",
+   "tenK": "0000060667-22-000038",
+   "result": {
+    "ceoPay": 17871716,
+    "medianPay": 22697,
+    "payRatio": 787,
+    "method": "cross-checked",
+    "employees": 325000,
+    "statedYear": 2021,
+    "excerpt": "nual Total Compensation), of our median-paid employee and the Annual Total Compensation of our Chairman, President and Chief Executive Officer, Marvin R. Ellison. | | |  | | | | For 2021, the Annual Total Compensation for Mr. Ellison, as reported in the Summary Compensation Table on page 44 , was $17,871,716. | | | |  | | | | The Annual Total Compensation for 2021 for our median-paid employee, excluding Mr. Ellison, was $22,697. | | | |  | | | | Based on this information, for fiscal 2021, the ratio of the Annual Total Compensation of Mr. Ellison to the Annual Total Compensation of our median employee, a part-time hourly associate, was 787 to 1. | The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employees Annual Total Compensatio"
+   }
+  },
+  "0001193125-21-117203": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/60667/000119312521117203/d64263ddef14a.htm",
+   "periodEnd": "2021-01-29",
+   "tenK": "0000060667-21-000026",
+   "result": {
+    "ceoPay": 23075881,
+    "medianPay": 24554,
+    "payRatio": 940,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "n S-K (Annual Total Compensation), of our median-paid employee and the Annual Total Compensation of our President and Chief Executive Officer, Marvin R. Ellison. | | |  | | | | For 2020, the Annual Total Compensation for Mr. Ellison, as reported in the Summary Compensation Table on page 46 , was $23,075,881. | | | |  | | | | The Annual Total Compensation for 2020 for our median-paid employee, excluding Mr. Ellison, was $24,554. | | | |  | | | | Based on this information, for fiscal 2020, the ratio of the Annual Total Compensation of Mr. Ellison to the Annual Total Compensation of our median employee was 940 to 1. | Factors Underlying the Change in the Pay Ratio From 2019 The increase in Mr. Ellisons Annual Total Compensation for 2020, as reported in the Summary Compensation Table, is"
+   }
+  },
+  "0001193125-20-108770": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/60667/000119312520108770/d876223ddef14a.htm",
+   "periodEnd": "2020-01-31",
+   "tenK": "0000060667-20-000036",
+   "result": {
+    "ceoPay": 11621369,
+    "medianPay": 22748,
+    "payRatio": 511,
+    "method": "cross-checked",
+    "employees": 292363,
+    "statedYear": 2019,
+    "excerpt": "providing the following information regarding the annual total compensation of our median employee and the annual total compensation of Mr. Ellison, our President and Chief Executive Officer. For 2019, the annual total compensation for Mr. Ellison, as reported in the Summary Compensation Table, was $11,621,369. The total compensation for 2019 for our median employee, excluding Mr. Ellison, was $22,748 (calculated in accordance with the SEC rules). Based on this information, for fiscal 2019, the ratio of the annual total compensation of Mr. Ellison to the annual total compensation of our median employee is 511 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC"
+   }
+  },
+  "0001193125-19-110021": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/60667/000119312519110021/d687530ddef14a.htm",
+   "periodEnd": "2019-02-01",
+   "tenK": "0000060667-19-000042",
+   "result": {
+    "ceoPay": 10525890,
+    "medianPay": 22921,
+    "payRatio": 459,
+    "method": "cross-checked",
+    "employees": 298711,
+    "statedYear": 2018,
+    "excerpt": ",176 | | | | | | | | | | 0 | | | | All Other Compensation | | | | | | | | 200,709 | | | | | | | | | | 200,709 | | | | Total CEO Compensation | | | | | | | | 10,525,890 | | | | | | | | | | 14,302,791 | | | Mr. Ellisons annualized compensation for 2018, for purposes of this pay ratio disclosure, was $10,525,890. The total compensation for 2018 for our median employee was $22,921 (calculated in accordance with the SEC rules), resulting in a pay ratio of approximately 459 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. We believe that calculating the pay ratio using the actual bonus and equity values from the Summary Compensation Table (resulting in a ratio of 650 to"
+   }
+  },
+  "0001193125-18-123722": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/60667/000119312518123722/d506121ddef14a.htm",
+   "periodEnd": "2018-02-02",
+   "tenK": "0000060667-18-000051",
+   "result": {
+    "ceoPay": 11208658,
+    "medianPay": 23905,
+    "payRatio": 469,
+    "method": "cross-checked",
+    "employees": 297933,
+    "statedYear": 2017,
+    "excerpt": "ormation regarding the annual total compensation of our median employee and the annual total compensation of Mr. Niblock, our Chairman, President and Chief Executive Officer. For fiscal 2017, the annual total compensation of the employee identified as our median employee (excluding Mr. Niblock) was $23,905. The annual total compensation of Mr. Niblock was $11,208,658. Based on this information, for fiscal 2017, the ratio of the annual total compensation of Mr. Niblock to the median of the annual total compensation of all employees is 469 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the median compensated employee and calculating th"
+   }
+  }
+ },
+ "tenKs": {
+  "0000060667-21-000026": {
+   "parserVersion": 1,
+   "employees": 220000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 48283000000,
+    "periodEnd": "2008-02-01",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000060667-10-000064"
+   },
+   "2009": {
+    "revenue": 48230000000,
+    "periodEnd": "2009-01-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000060667-11-000061"
+   },
+   "2010": {
+    "revenue": 47220000000,
+    "periodEnd": "2010-01-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000060667-12-000112"
+   },
+   "2011": {
+    "revenue": 48815000000,
+    "periodEnd": "2011-01-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000060667-13-000045"
+   },
+   "2012": {
+    "revenue": 50208000000,
+    "periodEnd": "2012-02-03",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000060667-14-000054"
+   },
+   "2013": {
+    "revenue": 50521000000,
+    "periodEnd": "2013-02-01",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000060667-15-000057"
+   },
+   "2014": {
+    "revenue": 53417000000,
+    "periodEnd": "2014-01-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000060667-16-000276"
+   },
+   "2015": {
+    "revenue": 56223000000,
+    "periodEnd": "2015-01-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000060667-17-000076"
+   },
+   "2016": {
+    "revenue": 59074000000,
+    "periodEnd": "2016-01-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000060667-18-000051"
+   },
+   "2017": {
+    "revenue": 65017000000,
+    "periodEnd": "2017-02-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000060667-19-000042"
+   },
+   "2018": {
+    "revenue": 68619000000,
+    "periodEnd": "2018-02-02",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000060667-20-000036"
+   },
+   "2019": {
+    "revenue": 71309000000,
+    "periodEnd": "2019-02-01",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000060667-21-000026"
+   },
+   "2020": {
+    "revenue": 72148000000,
+    "periodEnd": "2020-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000060667-22-000038"
+   },
+   "2021": {
+    "revenue": 89597000000,
+    "periodEnd": "2021-01-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000060667-23-000034"
+   },
+   "2022": {
+    "revenue": 96250000000,
+    "periodEnd": "2022-01-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000060667-24-000033"
+   },
+   "2023": {
+    "revenue": 97059000000,
+    "periodEnd": "2023-02-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000060667-25-000049"
+   },
+   "2024": {
+    "revenue": 86377000000,
+    "periodEnd": "2024-02-02",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000060667-26-000029"
+   },
+   "2025": {
+    "revenue": 83674000000,
+    "periodEnd": "2025-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000060667-26-000029"
+   },
+   "2026": {
+    "revenue": 86286000000,
+    "periodEnd": "2026-01-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000060667-26-000029"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 17871716,
+   "2023": 17472005,
+   "2024": 18162272,
+   "2025": 20164912,
+   "2026": 21581889
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000060667-26-000029",
+    "filingDate": "2026-03-23",
+    "reportDate": "2026-01-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000029/low-20260130.htm"
+   },
+   {
+    "accession": "0000060667-25-000049",
+    "filingDate": "2025-03-24",
+    "reportDate": "2025-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066725000049/low-20250131.htm"
+   },
+   {
+    "accession": "0000060667-24-000033",
+    "filingDate": "2024-03-25",
+    "reportDate": "2024-02-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066724000033/low-20240202.htm"
+   },
+   {
+    "accession": "0000060667-23-000034",
+    "filingDate": "2023-03-27",
+    "reportDate": "2023-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066723000034/low-20230203.htm"
+   },
+   {
+    "accession": "0000060667-22-000038",
+    "filingDate": "2022-03-21",
+    "reportDate": "2022-01-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066722000038/low-20220128.htm"
+   },
+   {
+    "accession": "0000060667-21-000026",
+    "filingDate": "2021-03-22",
+    "reportDate": "2021-01-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066721000026/low-20210129.htm"
+   },
+   {
+    "accession": "0000060667-20-000036",
+    "filingDate": "2020-03-23",
+    "reportDate": "2020-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066720000036/form10k01312020.htm"
+   },
+   {
+    "accession": "0000060667-19-000042",
+    "filingDate": "2019-04-02",
+    "reportDate": "2019-02-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066719000042/form10k_02012019.htm"
+   },
+   {
+    "accession": "0000060667-18-000051",
+    "filingDate": "2018-04-02",
+    "reportDate": "2018-02-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066718000051/form10k_02022018.htm"
+   },
+   {
+    "accession": "0000060667-17-000076",
+    "filingDate": "2017-04-04",
+    "reportDate": "2017-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066717000076/lowesform10k.htm"
+   }
+  ]
+ }
+}

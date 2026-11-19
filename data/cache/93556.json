@@ -1,0 +1,322 @@
+{
+ "proxies": {
+  "0001140361-26-008170": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/93556/000114036126008170/ny20055502x771_def14a.htm",
+   "periodEnd": "2026-01-03",
+   "tenK": "0000093556-26-000009",
+   "result": {
+    "ceoPay": 8579210,
+    "medianPay": 47897,
+    "payRatio": 179,
+    "method": "cross-checked",
+    "employees": 44292,
+    "statedYear": 2025,
+    "excerpt": "ion Table \" for 2025). We then added the estimated value of health and welfare benefits provided to the median employee during 2025 to more accurately represent our overall compensation programs. Based on this, our median employee's total annual compensation, inclusive of benefits, was an estimated $47,897. Annual Total Compensation of CEO Our Company had two individuals who served as CEO during 2025. With respect to the annual total compensation of our CEO for these calculations, we annualized the total compensation reported for Mr. Nelson in the \" Summary Compensation Table \" for the period in which he served as CEO (October 1, 2025 to January 3, 2026), and then added the $35,680 estimated value of health and welfare benefits provided to the CEO during 2025 to maintain consistency betwee"
+   }
+  },
+  "0001140361-25-007512": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/93556/000114036125007512/ny20036270x771_def14a.htm",
+   "periodEnd": "2024-12-28",
+   "tenK": "0000093556-25-000007",
+   "result": {
+    "ceoPay": 16030749,
+    "medianPay": 76984,
+    "payRatio": 208,
+    "method": "cross-checked",
+    "employees": 50630,
+    "statedYear": 2024,
+    "excerpt": "ion Table \" for 2024). We then added the estimated value of health and welfare benefits provided to the median employee during 2024 to more accurately represent our overall compensation programs. Based on this, our median employee's total annual compensation, inclusive of benefits, was an estimated $76,984. Annual Total Compensation of CEO With respect to the annual total compensation of our CEO, we used the total compensation reported for Mr. Allan in the \" Summary Compensation Table \" for 2024, and then added the $30,468 estimated value of health and welfare benefits provided to the CEO during 2024 to maintain consistency between the annual total compensation of our CEO and our median employee. Using this calculation, our CEO's annual total compensation was $16,030,749. Pay Ratio Based o"
+   }
+  },
+  "0001206774-24-000242": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677424000242/swk4258921-def14a.htm",
+   "periodEnd": "2023-12-30",
+   "tenK": "0000093556-24-000032",
+   "result": {
+    "ceoPay": 13906748,
+    "medianPay": 64305,
+    "payRatio": 216,
+    "method": "cross-checked",
+    "employees": 50630,
+    "statedYear": 2023,
+    "excerpt": "ion Table \" for 2023). We then added the estimated value of health and welfare benefits provided to the median employee during 2023 to more accurately represent our overall compensation programs. Based on this, our median employee's total annual compensation, inclusive of benefits, was an estimated $64,305. Annual Total Compensation of CEO With respect to the annual total compensation of our CEO, we used the total compensation reported for Mr. Allan in the \" Summary Compensation Table \" for 2023, and then added the $29,104 estimated value of health and welfare benefits provided to the CEO during 2023 to maintain consistency between the annual total compensation of our CEO and our median employee. Using this calculation, our CEO's annual total compensation was $13,906,748. Pay Ratio Based o"
+   }
+  },
+  "0001206774-23-000344": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677423000344/swk4118481-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000093556-23-000007",
+   "result": {
+    "ceoPay": 19546287,
+    "medianPay": 47651,
+    "payRatio": 410,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "tio calculations, in order to more accurately represent our overall compensation programs, we added the estimated value of health and welfare benefits provided to the median employee during 2022. Based on this, our median employee's total annual compensation, inclusive of benefits, was an estimated $47,651. Annual Total Compensation of CEO Stanley Black & Decker had two individuals in the role of CEO during 2022. The CEO compensation used to compute the CEO Pay Ratio aggregates the compensation for each CEO for the time they served in that capacity during 2022. Mr. Loree served as CEO until June 30, 2022; Mr. Allan served as CEO from July 1 - December 31, 2022, and prior to July 1 he served as President & Chief Financial Officer. Mr. Loree's compensation for purposes of the CEO Pay Ratio i"
+   }
+  },
+  "0001206774-22-000635": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677422000635/stanley3978221-def14a.htm",
+   "periodEnd": "2022-01-01",
+   "tenK": "0000093556-22-000015",
+   "result": {
+    "ceoPay": 13187789,
+    "medianPay": 56016,
+    "payRatio": 235,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "tio calculations, in order to more accurately represent our overall compensation programs, we added the estimated value of health and welfare benefits provided to the median employee during 2021. Based on this, our median employee's total annual compensation, inclusive of benefits, was an estimated $56,016. Annual Total Compensation of CEO With respect to the annual total compensation of our CEO, we used the SCT Compensation as reported in the \"total\" column of our 2021 Summary Compensation Table, and then added the $19,896 estimated value of health and welfare benefits provided to the CEO during 2021 to maintain consistency between the annual total compensation of our CEO and our median employee. Using this calculation, our CEO's annual total compensation was $13,187,789. Pay Ratio Based"
+   }
+  },
+  "0001206774-21-000878": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677421000878/stanley3818831-def14a.htm",
+   "periodEnd": "2021-01-02",
+   "tenK": "0000093556-21-000008",
+   "result": {
+    "ceoPay": 16289894,
+    "medianPay": 58362,
+    "payRatio": 279,
+    "method": "cross-checked",
+    "employees": 53310,
+    "statedYear": 2020,
+    "excerpt": "tio calculations, in order to more accurately represent our overall compensation programs, we added the estimated value of health and welfare benefits provided to the median employee during 2020. Based on this, our median employee's total annual compensation, inclusive of benefits, was an estimated $58,362. Annual Total Compensation of CEO With respect to the annual total compensation of our CEO, we used the SCT Compensation as reported in the \"total\" column of our 2020 Summary Compensation Table, and then added the $19,270 estimated value of health and welfare benefits provided to the CEO during 2020 to maintain consistency between the annual total compensation of our CEO and our median employee. Using this calculation, our CEO's annual total compensation was $16,289,894. Pay Ratio Based"
+   }
+  },
+  "0001206774-20-000687": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677420000687/stanley3655671-def14a.htm",
+   "periodEnd": "2019-12-28",
+   "tenK": "0000093556-20-000006",
+   "result": {
+    "ceoPay": 18707111,
+    "medianPay": 43316,
+    "payRatio": 432,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "atio calculation, in order to more accurately represent our overall compensation programs, we added the estimated value of health and welfare benefits provided to the median employee during 2019. Based on this, our median employee's total annual compensation, inclusive of benefits, was an estimated $43,316. Annual Total Compensation of CEO With respect to the annual total compensation of our CEO, we used the SCT Compensation as reported in the \"total\" column of our 2019 Summary Compensation Table, and then added the $19,562 estimated value of health and welfare benefits provided to the CEO during 2019 to maintain consistency between the annual total compensation of our CEO and our median employee. Using this calculation, our CEO's annual total compensation was $18,707,111. Pay Ratio Based"
+   }
+  },
+  "0001206774-19-000703": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677419000703/stanley3501101-def14a.htm",
+   "periodEnd": "2018-12-29",
+   "tenK": "0000093556-19-000011",
+   "result": {
+    "ceoPay": 13580324,
+    "medianPay": 47861,
+    "payRatio": 284,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "atio calculation, in order to more accurately represent our overall compensation programs, we added the estimated value of health and welfare benefits provided to the median employee during 2018. Based on this, our median employee's total annual compensation, inclusive of benefits, was an estimated $47,861. Annual Total Compensation of CEO With respect to the annual total compensation of our CEO, we used the SCT Compensation as reported in the \"total\" column of our 2018 Summary Compensation Table, and then added the $16,920 estimated value of health and welfare benefits provided to the CEO during 2018 to maintain consistency between the annual total compensation of our CEO and our median employee. Using this calculation, our CEO's annual total compensation was $13,580,324. Pay Ratio Based"
+   }
+  },
+  "0001206774-18-000732": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677418000732/stanley3347211-def14a.htm",
+   "periodEnd": "2017-12-30",
+   "tenK": "0000093556-18-000008",
+   "result": {
+    "ceoPay": 16236936,
+    "medianPay": 45449,
+    "payRatio": 357,
+    "method": "cross-checked",
+    "employees": 52625,
+    "statedYear": 2017,
+    "excerpt": "T Compensation\"). In order to more accurately represent our overall compensation programs, we added the estimated value of health and welfare benefits provided to the median employee during 2017. Based on this, our median employee's total annual compensation, inclusive of benefits, was an estimated $45,449. With respect to the annual total compensation of our CEO, we used the SCT Compensation as reported in the \"total\" column of our 2017 Summary Compensation Table, and then added the $25,521 estimated value of health and welfare benefits provided to the CEO during 2017 in order to maintain consistency between the annual total compensation of our CEO and our median employee. Using this calculation, the CEO's annual total compensation was $16,236,936. Based on our CEO's annual total compensa"
+   }
+  }
+ },
+ "tenKs": {
+  "0000093556-19-000011": {
+   "parserVersion": 1,
+   "employees": 60767
+  },
+  "0000093556-20-000006": {
+   "parserVersion": 1,
+   "employees": 59438
+  },
+  "0000093556-22-000015": {
+   "parserVersion": 1,
+   "employees": 71300
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 4426200000,
+    "periodEnd": "2009-01-03",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-015782"
+   },
+   "2010": {
+    "revenue": 3682600000,
+    "periodEnd": "2010-01-02",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-075395"
+   },
+   "2011": {
+    "revenue": 9376500000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000093556-14-000004"
+   },
+   "2012": {
+    "revenue": 10022400000,
+    "periodEnd": "2012-12-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000093556-15-000005"
+   },
+   "2013": {
+    "revenue": 10889500000,
+    "periodEnd": "2013-12-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000093556-16-000051"
+   },
+   "2015": {
+    "revenue": 11338600000,
+    "periodEnd": "2015-01-03",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000093556-17-000006"
+   },
+   "2016": {
+    "revenue": 11593500000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093556-19-000011"
+   },
+   "2017": {
+    "revenue": 12966600000,
+    "periodEnd": "2017-12-30",
+    "revenueTag": "Revenues",
+    "accession": "0000093556-20-000006"
+   },
+   "2018": {
+    "revenue": 13982400000,
+    "periodEnd": "2018-12-29",
+    "revenueTag": "Revenues",
+    "accession": "0000093556-22-000004"
+   },
+   "2019": {
+    "revenue": 12912900000,
+    "periodEnd": "2019-12-28",
+    "revenueTag": "Revenues",
+    "accession": "0000093556-22-000015"
+   },
+   "2021": {
+    "revenue": 12750000000,
+    "periodEnd": "2021-01-02",
+    "revenueTag": "Revenues",
+    "accession": "0000093556-23-000007"
+   },
+   "2022": {
+    "revenue": 16947400000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093556-25-000007"
+   },
+   "2023": {
+    "revenue": 15781100000,
+    "periodEnd": "2023-12-30",
+    "revenueTag": "Revenues",
+    "accession": "0000093556-26-000009"
+   },
+   "2024": {
+    "revenue": 15365700000,
+    "periodEnd": "2024-12-28",
+    "revenueTag": "Revenues",
+    "accession": "0000093556-26-000009"
+   },
+   "2026": {
+    "revenue": 15130400000,
+    "periodEnd": "2026-01-03",
+    "revenueTag": "Revenues",
+    "accession": "0000093556-26-000009"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000093556-26-000009",
+    "filingDate": "2026-02-24",
+    "reportDate": "2026-01-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/93556/000009355626000009/swk-20260103.htm"
+   },
+   {
+    "accession": "0000093556-25-000007",
+    "filingDate": "2025-02-18",
+    "reportDate": "2024-12-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/93556/000009355625000007/swk-20241228.htm"
+   },
+   {
+    "accession": "0000093556-24-000032",
+    "filingDate": "2024-02-27",
+    "reportDate": "2023-12-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/93556/000009355624000032/swk-20231230.htm"
+   },
+   {
+    "accession": "0000093556-23-000007",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93556/000009355623000007/swk-20221231.htm"
+   },
+   {
+    "accession": "0000093556-22-000015",
+    "filingDate": "2022-02-22",
+    "reportDate": "2022-01-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/93556/000009355622000015/swk-20220101.htm"
+   },
+   {
+    "accession": "0000093556-21-000008",
+    "filingDate": "2021-02-18",
+    "reportDate": "2021-01-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/93556/000009355621000008/swk-20210102.htm"
+   },
+   {
+    "accession": "0000093556-20-000006",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/93556/000009355620000006/swk10k2019.htm"
+   },
+   {
+    "accession": "0000093556-19-000011",
+    "filingDate": "2019-02-26",
+    "reportDate": "2018-12-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/93556/000009355619000011/swk_10k2018.htm"
+   },
+   {
+    "accession": "0000093556-18-000008",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/93556/000009355618000008/swk_10k2017.htm"
+   },
+   {
+    "accession": "0000093556-17-000006",
+    "filingDate": "2017-02-15",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93556/000009355617000006/swk_10k2016.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "proxies": {
+  "0001086222-26-000042": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000042/akam-20260330.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001086222-26-000022",
+   "result": {
+    "ceoPay": 15954172,
+    "medianPay": 129052,
+    "payRatio": 124,
+    "method": "cross-checked",
+    "employees": 10300,
+    "statedYear": 2023,
+    "excerpt": "tted by applicable SEC rules, we excluded 57 interns located in India and six interns located in Brazil, representing less than 5% of our total workforce as of the measurement date. The 2025 annual total compensation as determined under Item 402 of Regulation S-K for our Chief Executive Officer was $15,954,172, as reported in the Summary Compensation Table of this Proxy Statement. The 2025 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $129,052. Based on the foregoing, our estimate of the ratio of our CEO's annual total compensation to our median employee's annual total compensation for fiscal year 2025 is approximately 124 to 1. / 77 / Table of Contents Securities Authorized for Issuance Under Equity Compensation Plans The following ta"
+   }
+  },
+  "0001193125-25-070445": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000119312525070445/d882861ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001086222-25-000028",
+   "result": {
+    "ceoPay": 15064923,
+    "medianPay": 129006,
+    "payRatio": 117,
+    "method": "cross-checked",
+    "employees": 10300,
+    "statedYear": 2023,
+    "excerpt": "tted by applicable SEC rules, we excluded 57 interns located in India and six interns located in Brazil, representing less than 5% of our total workforce as of the measurement date. The 2024 annual total compensation as determined under Item 402 of Regulation S-K for our Chief Executive Officer was $15,064,923, as reported in the Summary Compensation Table of this Proxy Statement. The 2024 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $129,006. Based on the foregoing, our estimate of the ratio of our CEO's annual total compensation to our median employee's annual total compensation for fiscal year 2024 is approximately 117 to 1. / 95 / Securities Authorized for Issuance Under Equity Compensation Plans The following table reflects the n"
+   }
+  },
+  "0001193125-24-080562": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000119312524080562/d873368ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001086222-24-000040",
+   "result": {
+    "ceoPay": 13384975,
+    "medianPay": 114429,
+    "payRatio": 117,
+    "method": "cross-checked",
+    "employees": 10300,
+    "statedYear": 2023,
+    "excerpt": "national employees' pay was converted to U.S. dollars using the exchange rates on the determination date. We did not apply any cost-of-living adjustments as part of the calculation. The 2023 annual total compensation as determined under Item 402 of Regulation S-K for our Chief Executive Officer was $13,384,975, as reported in the Summary Compensation Table of this Proxy Statement. The 2023 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $114,429. Based on the foregoing, our estimate of the ratio of our CEO's annual total compensation to our median employee's annual total compensation for fiscal year 2023 is 117 to 1. / 88 / Table of Contents Securities Authorized for Issuance Under Equity Compensation Plans The following table reflects t"
+   }
+  },
+  "0001193125-23-082903": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000119312523082903/d435813ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001086222-23-000078",
+   "result": {
+    "ceoPay": 11982771,
+    "medianPay": 104827,
+    "payRatio": 114,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "mination date. International employees' pay was converted to U.S. dollars using the exchange rates on the determination date. We did not apply any cost-of-living adjustments as part of the calculation. The 2022 annual total compensation as determined under Item 402 of Regulation S-K for our CEO was $11,982,771, as reported in the Summary Compensation Table of this Proxy Statement. The 2022 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $104,827. Based on the foregoing, our estimate of the ratio of our CEO's annual total compensation to our median employee's annual total compensation for fiscal year 2022 is 114 to 1. / 88 / Securities Authorized for Issuance Under Equity Compensation Plans The following table reflects the number of share"
+   }
+  },
+  "0001193125-22-088608": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000119312522088608/d245750ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001086222-22-000058",
+   "result": {
+    "ceoPay": 11951574,
+    "medianPay": 112018,
+    "payRatio": 107,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ermination date. We did not apply any cost-of-living adjustments as part of the calculation. In 2021, following the determination date, we acquired Guardicore consisting of approximately 250 employees. The 2021 annual total compensation as determined under Item 402 of Regulation S-K for our CEO was $11,951,574, as reported in the Summary Compensation Table of this Proxy Statement. The 2021 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $112,018. Based on the foregoing, our estimate of the ratio of our CEOs annual total compensation to our median employees annual total compensation for fiscal year 2021 is 107 to 1. Securities Authorized for Issuance Under Equity Compensation Plans The following table reflects the number of shares of ou"
+   }
+  },
+  "0001193125-21-128044": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000119312521128044/d29398ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001086222-21-000075",
+   "result": {
+    "ceoPay": 11750467,
+    "medianPay": 120734,
+    "payRatio": 97,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "on in pay and substituted another employee with substantially similar compensation (based on the compensation measure described above). For 2020s analysis, we used the same median employee as in 2019. The 2020 annual total compensation as determined under Item 402 of Regulation S-K for our CEO was $11,750,467, as reported in the Summary Compensation Table of this Proxy Statement. The 2020 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $120,734. Based on the foregoing, our estimate of the ratio of our CEOs annual total compensation to our median employees annual total compensation for fiscal year 2020 is 97 to 1. / 79 / Table of Contents Securities Authorized for Issuance Under Equity Compensation Plans The following table reflects th"
+   }
+  },
+  "0001193125-20-102578": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000119312520102578/d750481ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001086222-20-000045",
+   "result": {
+    "ceoPay": 10937601,
+    "medianPay": 117276,
+    "payRatio": 93,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "a material reduction in pay, and as permitted by Commission guidance, was substituted with another employee with substantially similar compensation (based on the compensation measure described above). The 2019 annual total compensation as determined under Item 402 of Regulation S-K for our CEO was $10,937,601, as reported in the Summary Compensation Table of this Proxy Statement. The 2019 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $117,276. Based on the foregoing, our estimate of the ratio of our CEOs annual total compensation to our median employees annual total compensation for fiscal year 2019 is 93 to 1. / 70 / Table of Contents Securities Authorized for Issuance Under Equity Compensation Plans The following table reflects th"
+   }
+  },
+  "0001193125-19-095633": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000119312519095633/d686078ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001086222-19-000066",
+   "result": {
+    "ceoPay": 11347676,
+    "medianPay": 110359,
+    "payRatio": 103,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "full period, and international employees pay was converted to US dollars using the exchange rates on the determination date. We did not apply any cost-of-living adjustments as part of the calculation. The 2018 annual total compensation as determined under Item 402 of Regulation S-K for our CEO was $11,347,676, as reported in the Summary Compensation Table of this Proxy Statement. The 2018 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $110,359. Based on the foregoing, our estimate of the ratio of our CEOs annual total compensation to our median employees annual total compensation for fiscal year 2018 is 103 to 1. The increase in the estimated ratio in 2018 as compared to 2017 is due to two primary factors: (1) the increase in Dr. Lei"
+   }
+  },
+  "0001193125-18-123751": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1086222/000119312518123751/d468166ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001086222-18-000052",
+   "result": {
+    "ceoPay": 9202921,
+    "medianPay": 109461,
+    "payRatio": 84,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "full period, and international employees pay was converted to US dollars using the exchange rates on the determination date. We did not apply any cost-of-living adjustments as part of the calculation. The 2017 annual total compensation as determined under Item 402 of Regulation S-K for our CEO was $9,202,921, as reported in the Summary Compensation Table of this proxy statement. The 2017 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $109,461. Based on the foregoing, our estimate of the ratio of our CEOs annual total compensation to our median employees annual total compensation for fiscal year 2017 is 84 to 1. / 67 / Table of Contents Securities Authorized for Issuance Under Equity Compensation Plans The following table reflects the"
+   }
+  }
+ },
+ "tenKs": {
+  "0001086222-18-000052": {
+   "parserVersion": 1,
+   "employees": 7650
+  },
+  "0001086222-19-000066": {
+   "parserVersion": 1,
+   "employees": 7519
+  },
+  "0001086222-20-000045": {
+   "parserVersion": 1,
+   "employees": 7724
+  },
+  "0001086222-21-000075": {
+   "parserVersion": 1,
+   "employees": 8368
+  },
+  "0001086222-22-000058": {
+   "parserVersion": 1,
+   "employees": 8700
+  },
+  "0001086222-23-000078": {
+   "parserVersion": 1,
+   "employees": 9800
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 636406000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-044561"
+   },
+   "2008": {
+    "revenue": 790924000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-051569"
+   },
+   "2009": {
+    "revenue": 859773000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001266432-12-000010"
+   },
+   "2010": {
+    "revenue": 1023586000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001266432-13-000021"
+   },
+   "2011": {
+    "revenue": 1158538000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001542567-14-000009"
+   },
+   "2012": {
+    "revenue": 1373947000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001086222-15-000066"
+   },
+   "2013": {
+    "revenue": 1577922000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001086222-16-000245"
+   },
+   "2014": {
+    "revenue": 1963874000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001086222-17-000080"
+   },
+   "2015": {
+    "revenue": 2197448000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001086222-18-000052"
+   },
+   "2016": {
+    "revenue": 2347988000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001086222-19-000066"
+   },
+   "2017": {
+    "revenue": 2502996000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001086222-18-000052"
+   },
+   "2018": {
+    "revenue": 2714474000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001086222-21-000075"
+   },
+   "2019": {
+    "revenue": 2893617000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001086222-22-000058"
+   },
+   "2020": {
+    "revenue": 3198149000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001086222-23-000078"
+   },
+   "2021": {
+    "revenue": 3461223000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001086222-24-000040"
+   },
+   "2022": {
+    "revenue": 3616654000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001086222-25-000028"
+   },
+   "2023": {
+    "revenue": 3811920000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001086222-26-000022"
+   },
+   "2024": {
+    "revenue": 3991168000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001086222-26-000022"
+   },
+   "2025": {
+    "revenue": 4208175000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001086222-26-000022"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001086222-26-000022",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622226000022/akam-20251231.htm"
+   },
+   {
+    "accession": "0001086222-25-000028",
+    "filingDate": "2025-02-24",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622225000028/akam-20241231.htm"
+   },
+   {
+    "accession": "0001086222-24-000040",
+    "filingDate": "2024-02-28",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622224000040/akam-20231231.htm"
+   },
+   {
+    "accession": "0001086222-23-000078",
+    "filingDate": "2023-02-28",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622223000078/akam-20221231.htm"
+   },
+   {
+    "accession": "0001086222-22-000058",
+    "filingDate": "2022-02-28",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622222000058/akam-20211231.htm"
+   },
+   {
+    "accession": "0001086222-21-000075",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622221000075/akam-20201231.htm"
+   },
+   {
+    "accession": "0001086222-20-000045",
+    "filingDate": "2020-02-28",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622220000045/akam10k123119.htm"
+   },
+   {
+    "accession": "0001086222-19-000066",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622219000066/akam10k123118.htm"
+   },
+   {
+    "accession": "0001086222-18-000052",
+    "filingDate": "2018-03-01",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622218000052/akam10k123117.htm"
+   },
+   {
+    "accession": "0001086222-17-000080",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000108622217000080/akam10k123116.htm"
+   }
+  ]
+ }
+}

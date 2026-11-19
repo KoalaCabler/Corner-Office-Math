@@ -1,0 +1,366 @@
+{
+ "proxies": {
+  "0000313616-26-000101": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000101/dhr-20260325.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000313616-26-000062",
+   "result": {
+    "ceoPay": 23795280,
+    "medianPay": 69440,
+    "payRatio": 343,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ompanies may apply as permitted under the SEC rules, this information should not be used as a basis for comparison between different companies. For 2025, our last completed fiscal year: • the annual total compensation of Mr. Blair, as reported in the 2025 Summary Compensation Table on page 52 , was $23,795,280; • the annual total compensation of the median of all Danaher employees (other than Mr. Blair) was $69,440; and • the ratio of the annual total compensation of Mr. Blair to the annual total compensation of the median of all other Company employees was 343 to 1. For purposes of the 2025 CEO pay ratio set forth above, we used the same median employee identified with respect to our 2024 CEO pay ratio, as there has been no change in our employee population or employee compensation arrang"
+   }
+  },
+  "0000313616-25-000081": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361625000081/dhr-20250326.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000313616-25-000043",
+   "result": {
+    "ceoPay": 22107164,
+    "medianPay": 68828,
+    "payRatio": 321,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ompanies may apply as permitted under the SEC rules, this information should not be used as a basis for comparison between different companies. For 2024, our last completed fiscal year: • the annual total compensation of Mr. Blair, as reported in the 2024 Summary Compensation Table on page 53 , was $22,107,164; • the annual total compensation of the median of all Danaher employees (other than Mr. Blair) was $68,828; and • the ratio of the annual total compensation of Mr. Blair to the annual total compensation of the median of all other Company employees was 321 to 1. For purposes of the 2024 CEO pay ratio set forth above, we used the same median employee identified with respect to our 2023 CEO pay ratio, as there has been no change in our employee population or employee compensation arrang"
+   }
+  },
+  "0001308179-24-000303": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/313616/000130817924000303/ldhr2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000313616-24-000052",
+   "result": {
+    "ceoPay": 20903282,
+    "medianPay": 65010,
+    "payRatio": 322,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "nder the SEC rules, this information should not be used as a basis for comparison between different companies. For 2023, our last completed fiscal year: | • | | the annual total compensation of Mr. Blair, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $20,903,282; | | • | | the annual total compensation of the median of all Danaher employees (other than Mr. Blair) was $65,010; and | | • | | the ratio of the annual total compensation of Mr. Blair to the annual total compensation of the median of all other Company employees was 322 to 1. | | 2024 Notice of Annual Meeting and Proxy Statement | | 79 | | | | Back to Contents | | Summary of Employment Agreements and Plans Following is a description of (1) named executive officer employment-related"
+   }
+  },
+  "0001308179-23-000414": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/313616/000130817923000414/ldhr2023_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000313616-23-000087",
+   "result": {
+    "ceoPay": 20196027,
+    "medianPay": 64979,
+    "payRatio": 311,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "nder the SEC rules, this information should not be used as a basis for comparison between different companies. For 2022, our last completed fiscal year: | • | | the annual total compensation of Mr. Blair, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $20,196,027; | | • | | the annual total compensation of the median of all Danaher employees (other than Mr. Blair) was $64,979; and | | • | | the ratio of the annual total compensation of Mr. Blair to the annual total compensation of the median of all other Company employees was 311 to 1. | For purposes of the 2022 CEO pay ratio set forth above, we used the same median employee identified with respect to our 2021 CEO pay ratio, as there has been no change in our employee population or employee c"
+   }
+  },
+  "0001308179-22-000139": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/313616/000130817922000139/ldhr2022_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000313616-22-000061",
+   "result": {
+    "ceoPay": 17152267,
+    "medianPay": 66203,
+    "payRatio": 259,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "nder the SEC rules, this information should not be used as a basis for comparison between different companies. For 2021, our last completed fiscal year: | • | | the annual total compensation of Mr. Blair, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $17,152,267; | | • | | the annual total compensation of the median of all Danaher employees (other than Mr. Blair) was $66,203; and | | • | | the ratio of the annual total compensation of Mr. Blair to the annual total compensation of the median of all other Company employees was 259 to 1. | For purposes of the 2021 CEO pay ratio set forth above, we used the same median employee identified with respect to our 2020 CEO pay ratio, as there has been no change in our employee population or employee c"
+   }
+  },
+  "0001308179-21-000099": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/313616/000130817921000099/ldhr2021_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000313616-21-000045",
+   "result": {
+    "ceoPay": 14727361,
+    "medianPay": 60594,
+    "payRatio": 243,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "mpanies may apply as permitted under the SEC rules, this information should not be used as a basis for comparison between different companies. For 2020, our last completed fiscal year: | | | the annualized total compensation of Mr. Blair (based on Mr. Blair's rate of pay as of October 31, 2020) was $14,727,361; | | | | the annual total compensation of the median of all Danaher employees (other than Messrs. Blair and Joyce) was $60,594; and | | | | the ratio of the annualized total compensation of Mr. Blair to the annual total compensation of the median of all other Company employees was 243 to 1. | 2021 PROXY STATEMENT 68 | | | | | Back to Contents | SUMMARY OF EMPLOYMENT AGREEMENTS AND PLANS Following is a description of (1) named executive officer employment-related agreements, and (2) t"
+   }
+  },
+  "0001193125-20-084393": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/313616/000119312520084393/d865563ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000313616-20-000041",
+   "result": {
+    "ceoPay": 18193200,
+    "medianPay": 74672,
+    "payRatio": 244,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "the SEC rules, this information should not be used as a basis for comparison between different companies. For 2019, our last completed fiscal year: |  | | | | the annual total compensation of Mr. Joyce, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $18,193,200; | |  | | | | the annual total compensation of the median of all Danaher employees (other than Mr. Joyce) was $74,672; and | |  | | | | the ratio of the annual total compensation of Mr. Joyce to the annual total compensation of the median of all other Company employees was 244 to 1. | For purposes of the 2019 CEO pay ratio set forth above, we used the same median employee identified with respect to our 2017 and 2018 CEO pay ratio, as there has been no change in our employee populat"
+   }
+  },
+  "0001193125-19-087316": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/313616/000119312519087316/d656365ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000313616-19-000035",
+   "result": {
+    "ceoPay": 15361041,
+    "medianPay": 73425,
+    "payRatio": 209,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "the SEC rules, this information should not be used as a basis for comparison between different companies. For 2018, our last completed fiscal year: |  | | | | the annual total compensation of Mr. Joyce, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $15,361,041; | |  | | | | the annual total compensation of the median of all Danaher employees (other than Mr. Joyce) was $73,425; and | |  | | | | the ratio of the annual total compensation of Mr. Joyce to the annual total compensation of the median of all other Company employees was 209 to 1. | For purposes of the 2018 CEO pay ratio set forth above, we used the same median employee identified with respect to our 2017 CEO pay ratio, as there has been no change in our employee population or em"
+   }
+  },
+  "0001193125-18-097976": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/313616/000119312518097976/d539472ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000313616-18-000038",
+   "result": {
+    "ceoPay": 14786341,
+    "medianPay": 67756,
+    "payRatio": 218,
+    "method": "cross-checked",
+    "employees": 66566,
+    "statedYear": 2017,
+    "excerpt": "ANAHER 2018 PROXY STATEMENT 47 | | | | | Table of Contents | | | | | Compensation Tables and Information | For 2017, our last completed fiscal year: |  | | | | the annual total compensation of Mr. Joyce, as reported in the Summary Compensation Table presented elsewhere in this Proxy Statement, was $14,786,341; | |  | | | | the annual total compensation of the median of all Danaher employees (other than Mr. Joyce) was $67,756; and | |  | | | | the ratio of the annual total compensation of Mr. Joyce to the annual total compensation of the median of all other Company employees was 218 to 1. | In estimating the ratio set forth above, we used the following methodology and material assumptions, adjustments and estimates: |  | | | | As of October 31, 2017, Danaher had 66,566 employees globall"
+   }
+  }
+ },
+ "tenKs": {
+  "0000313616-19-000035": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000313616-20-000041": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000313616-21-000045": {
+   "parserVersion": 1,
+   "employees": 69000
+  },
+  "0000313616-22-000061": {
+   "parserVersion": 1,
+   "employees": 80000
+  },
+  "0000313616-23-000087": {
+   "parserVersion": 1,
+   "employees": 81000
+  },
+  "0000313616-24-000052": {
+   "parserVersion": 1,
+   "employees": 63000
+  },
+  "0000313616-25-000043": {
+   "parserVersion": 1,
+   "employees": 63000
+  },
+  "0000313616-26-000062": {
+   "parserVersion": 1,
+   "employees": 60000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 11025917000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-038977"
+   },
+   "2008": {
+    "revenue": 12697456000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-044412"
+   },
+   "2009": {
+    "revenue": 10516681000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-076756"
+   },
+   "2010": {
+    "revenue": 12550000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000313616-13-000026"
+   },
+   "2011": {
+    "revenue": 16090500000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000313616-14-000023"
+   },
+   "2012": {
+    "revenue": 18260400000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000313616-15-000038"
+   },
+   "2013": {
+    "revenue": 18283100000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000313616-16-000145"
+   },
+   "2014": {
+    "revenue": 12866900000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000313616-17-000066"
+   },
+   "2015": {
+    "revenue": 14433700000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000313616-18-000038"
+   },
+   "2016": {
+    "revenue": 16882400000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000313616-19-000035"
+   },
+   "2017": {
+    "revenue": 18329700000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000313616-19-000035"
+   },
+   "2018": {
+    "revenue": 19893000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000313616-19-000035"
+   },
+   "2019": {
+    "revenue": 17911000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000313616-22-000061"
+   },
+   "2020": {
+    "revenue": 22284000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000313616-23-000087"
+   },
+   "2021": {
+    "revenue": 24802000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000313616-24-000052"
+   },
+   "2022": {
+    "revenue": 26643000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000313616-25-000043"
+   },
+   "2023": {
+    "revenue": 23890000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000313616-26-000062"
+   },
+   "2024": {
+    "revenue": 23875000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000313616-26-000062"
+   },
+   "2025": {
+    "revenue": 24568000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000313616-26-000062"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000313616-26-000062",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000062/dhr-20251231.htm"
+   },
+   {
+    "accession": "0000313616-25-000043",
+    "filingDate": "2025-02-20",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361625000043/dhr-20241231.htm"
+   },
+   {
+    "accession": "0000313616-24-000052",
+    "filingDate": "2024-02-21",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361624000052/dhr-20231231.htm"
+   },
+   {
+    "accession": "0000313616-23-000087",
+    "filingDate": "2023-02-22",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361623000087/dhr-20221231.htm"
+   },
+   {
+    "accession": "0000313616-22-000061",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361622000061/dhr-20211231.htm"
+   },
+   {
+    "accession": "0000313616-21-000045",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361621000045/dhr-20201231.htm"
+   },
+   {
+    "accession": "0000313616-20-000041",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361620000041/dhr-20191231x10xk.htm"
+   },
+   {
+    "accession": "0000313616-19-000035",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361619000035/dhr-20181231x10xk.htm"
+   },
+   {
+    "accession": "0000313616-18-000038",
+    "filingDate": "2018-02-21",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361618000038/dhr-20171231x10xk.htm"
+   },
+   {
+    "accession": "0000313616-17-000066",
+    "filingDate": "2017-02-22",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/313616/000031361617000066/dhr-20161231x10xk.htm"
+   }
+  ]
+ }
+}

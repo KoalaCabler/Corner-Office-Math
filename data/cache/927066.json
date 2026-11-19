@@ -1,0 +1,337 @@
+{
+ "proxies": {
+  "0000927066-26-000053": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000053/dva-20260422.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000927066-26-000012",
+   "result": {
+    "ceoPay": 18233679,
+    "medianPay": 71839,
+    "payRatio": 254,
+    "method": "cross-checked",
+    "employees": 78397,
+    "statedYear": 2025,
+    "excerpt": "he relationship of the annual total compensation of Mr. Rodriguez, our Chief Executive Officer, to the annual total compensation of our teammates. Ratio For 2025, based on the methodology described below: - The median of the annual total compensation of all of our teammates (other than our CEO) was $71,839. - As we have included the value of non-discriminatory benefits in the calculation of the median teammate's annual total compensation, Mr. Rodriguez's annual total compensation, as reported in the 2025 Summary Compensation Table, has been adjusted to also include the value of non-discriminatory benefits. As a result of the foregoing, Mr. Rodriguez's annual total compensation was $18,233,679 for purposes of this calculation. - Based on the information above, the ratio of the annual total"
+   }
+  },
+  "0000927066-25-000076": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000076/dva-20250424.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000927066-25-000012",
+   "result": {
+    "ceoPay": 21829225,
+    "medianPay": 73047,
+    "payRatio": 299,
+    "method": "cross-checked",
+    "employees": 70361,
+    "statedYear": 2025,
+    "excerpt": "he relationship of the annual total compensation of Mr. Rodriguez, our Chief Executive Officer, to the annual total compensation of our teammates. Ratio For 2024, based on the methodology described below: - The median of the annual total compensation of all of our teammates (other than our CEO) was $73,047. - As we have included the value of non-discriminatory benefits in the calculation of the median teammate's annual total compensation, Mr. Rodriguez's annual total compensation, as reported in the 2024 Summary Compensation Table, has been adjusted to also include the value of non-discriminatory benefits. As a result of the foregoing, Mr. Rodriguez's annual total compensation was $21,829,225 for purposes of this calculation. - Based on the information above, the ratio of the annual total"
+   }
+  },
+  "0000927066-24-000078": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706624000078/dva-20240426.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000927066-24-000013",
+   "result": {
+    "ceoPay": 6735936,
+    "medianPay": 68007,
+    "payRatio": 99,
+    "method": "cross-checked",
+    "employees": 70361,
+    "statedYear": 2023,
+    "excerpt": "ationship of the annual total compensation of Mr. Rodriguez, our Chief Executive Officer, to the annual total compensation of our teammates. Ratio For 2023, based on the methodology described below: - The median of the annual total compensation of all of our teammates, other than Mr. Rodriguez, was $68,007. - As we have included the value of non-discriminatory benefits in the calculation of the median teammate's annual total compensation, Mr. Rodriguez's annual total compensation, as reported in the 2023 Summary Compensation Table, has been adjusted to also include the value of non-discriminatory benefits. As a result of the foregoing, Mr. Rodriguez's annual total compensation was $6,735,936 for purposes of this calculation. - Based on the information above, the ratio of the annual total c"
+   }
+  },
+  "0000927066-23-000088": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706623000088/dva-20230425.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000927066-23-000011",
+   "result": {
+    "ceoPay": 3007620,
+    "medianPay": 67488,
+    "payRatio": 45,
+    "method": "cross-checked",
+    "employees": 70361,
+    "statedYear": 2022,
+    "excerpt": "ationship of the annual total compensation of Mr. Rodriguez, our Chief Executive Officer, to the annual total compensation of our teammates. Ratio For 2022, based on the methodology described below: - The median of the annual total compensation of all of our teammates, other than Mr. Rodriguez, was $67,488. - As we have included the value of non-discriminatory benefits in the calculation of the median teammate's annual total compensation, Mr. Rodriguez's annual total compensation, as reported in the 2022 Summary Compensation Table, has been adjusted to also include the value of non-discriminatory benefits. As a result of the foregoing, Mr. Rodriguez's annual total compensation was $3,007,620 for purposes of this calculation. - Based on the information above, the ratio of the annual total c"
+   }
+  },
+  "0000927066-22-000061": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706622000061/dva-123121def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000927066-22-000012",
+   "result": {
+    "ceoPay": 3321930,
+    "medianPay": 67535,
+    "payRatio": 49,
+    "method": "cross-checked",
+    "employees": 64411,
+    "statedYear": 2021,
+    "excerpt": "ationship of the annual total compensation of Mr. Rodriguez, our Chief Executive Officer, to the annual total compensation of our teammates. Ratio For 2021, based on the methodology described below: - The median of the annual total compensation of all of our teammates, other than Mr. Rodriguez, was $67,535. - As we have included the value of non-discriminatory benefits in the calculation of the median teammate's annual total compensation, Mr. Rodriguez's annual total compensation, as reported in the 2021 Summary Compensation Table, has been adjusted to also include the value of non-discriminatory benefits. As a result of the foregoing, Mr. Rodriguez's annual total compensation was $3,321,930 for purposes of this calculation. - Based on the information above, the ratio of the annual total c"
+   }
+  },
+  "0001206774-21-001233": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000120677421001233/dva3847301-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000927066-21-000008",
+   "result": {
+    "ceoPay": 73456962,
+    "medianPay": 64620,
+    "payRatio": 1137,
+    "method": "cross-checked",
+    "employees": 64411,
+    "statedYear": 2020,
+    "excerpt": "hip of the annual total compensation of Mr. Rodriguez, our Chief Executive Officer, to the annual total compensation of our teammates. Ratio For 2020, based on the methodology described below: | - | | The median of the annual total compensation of all of our teammates, other than Mr. Rodriguez, was $64,620. | | - | | As discussed below, in determining Mr. Rodriguez's annual total compensation for purposes of this calculation, SEC disclosure rules require us to include the entire grant date fair value amount of the CEO Premium-Priced SSAR Award, even though the award is intended to replace five years of grants. In addition, because we have included the value of non-discriminatory benefits in the calculation of the median teammate's annual total compensation, Mr. Rodriguez's annual total com"
+   }
+  },
+  "0000927066-20-000064": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706620000064/dva-123119xdef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000927066-20-000014",
+   "result": {
+    "ceoPay": 17629901,
+    "medianPay": 61536,
+    "payRatio": 286,
+    "method": "cross-checked",
+    "employees": 64000,
+    "statedYear": 2019,
+    "excerpt": ". Rodriguez, who became our Chief Executive Officer effective June 1, 2019, to the annual total compensation of our teammates. Ratio For 2019, based on the methodology described below: | | | | | • | | The median of the annual total compensation of all of our teammates, other than Mr. Rodriguez, was $61,536. | | | | | | • | | Mr. Rodriguez's annual total compensation was $17,629,901. This amount differs from the amount reported in the Total column of the 2019 Summary Compensation Table due to the annualization of Mr. Rodriguez's compensation to reflect his June 1, 2019 promotion to the position of Chief Executive Officer and the inclusion of the value of non-discriminatory benefits, each as discussed further below. | | | | | | • | | Based on this information, the ratio of the annual total c"
+   }
+  },
+  "0000927066-19-000202": {
+   "parserVersion": 1,
+   "filingDate": "2019-12-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706619000202/dva-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000927066-19-000025",
+   "result": {
+    "ceoPay": 32031175,
+    "medianPay": 60889,
+    "payRatio": 526,
+    "method": "cross-checked",
+    "employees": 74549,
+    "statedYear": 2018,
+    "excerpt": "lationship of the annual total compensation of Mr. Thiry, our CEO during 2018 , to the annual total compensation of our teammates. Ratio For 2018, based on the methodology described below: | | | | | • | | The median of the annual total compensation of all of our teammates, other than Mr. Thiry, was $60,889. | | | | | | • | | Mr. Thiry's annual total compensation was $32,031,175, including the impact of certain one-time accounting modification charges that impacted Mr. Thiry's reported 2018 compensation. | | | | | | • | | Based on this information, the ratio of the annual total compensation of Mr. Thiry to the median of the annual total compensation of all teammates is estimated to be 526 to 1. | | | | | | • | | As further described below, excluding the impact of certain one-time accounting"
+   }
+  },
+  "0000927066-19-000050": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706619000050/dva-123118xdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000927066-19-000025",
+   "result": {
+    "ceoPay": 32031175,
+    "medianPay": 60889,
+    "payRatio": 526,
+    "method": "cross-checked",
+    "employees": 74549,
+    "statedYear": 2018,
+    "excerpt": "hip of the annual total compensation of Mr. Thiry, our chief executive officer, to the annual total compensation of our teammates. Ratio For 2018, based on the methodology described below: | | | | | • | | The median of the annual total compensation of all of our teammates, other than Mr. Thiry, was $60,889. | | | | | | • | | Mr. Thiry's annual total compensation was $32,031,175, including the impact of certain one-time accounting modification charges that impacted Mr. Thiry's reported 2018 compensation. | | | | | | • | | Based on this information, the ratio of the annual total compensation of Mr. Thiry to the median of the annual total compensation of all teammates is estimated to be 526 to 1. | | | | | | • | | As further described below, excluding the impact of certain one-time accounting"
+   }
+  },
+  "0000927066-18-000062": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706618000062/dva-123117xdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000927066-18-000030",
+   "result": {
+    "ceoPay": 15338585,
+    "medianPay": 60332,
+    "payRatio": 254,
+    "method": "cross-checked",
+    "employees": 74549,
+    "statedYear": 2017,
+    "excerpt": "hip of the annual total compensation of Mr. Thiry, our chief executive officer, to the annual total compensation of our teammates. Ratio For 2017, based on the methodology described below: | | | | | • | | The median of the annual total compensation of all of our teammates, other than Mr. Thiry, was $60,332. | | | | | | • | | Mr. Thiry's annual total compensation was $15,338,585. | | | | | | • | | Based on this information, the ratio of the annual total compensation of Mr. Thiry to the median of the annual total compensation of all teammates is approximately 254 to 1. | We believe this pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the median co"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2010": {
+    "revenue": 6219610000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001193125-13-085450"
+   },
+   "2011": {
+    "revenue": 6731806000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001193125-14-062565"
+   },
+   "2012": {
+    "revenue": 8186280000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001564590-15-001035"
+   },
+   "2013": {
+    "revenue": 11764050000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001564590-16-013587"
+   },
+   "2014": {
+    "revenue": 12795106000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0001564590-17-002409"
+   },
+   "2015": {
+    "revenue": 9982245000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "HealthCareOrganizationRevenue",
+    "accession": "0000927066-18-000030"
+   },
+   "2016": {
+    "revenue": 10707467000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000927066-19-000025"
+   },
+   "2017": {
+    "revenue": 10876634000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000927066-20-000014"
+   },
+   "2018": {
+    "revenue": 11404851000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000927066-21-000008"
+   },
+   "2019": {
+    "revenue": 11388479000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000927066-22-000012"
+   },
+   "2020": {
+    "revenue": 11550604000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000927066-23-000011"
+   },
+   "2021": {
+    "revenue": 11618797000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000927066-24-000013"
+   },
+   "2022": {
+    "revenue": 11609894000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000927066-25-000012"
+   },
+   "2023": {
+    "revenue": 12140147000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000927066-26-000012"
+   },
+   "2024": {
+    "revenue": 12815550000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000927066-26-000012"
+   },
+   "2025": {
+    "revenue": 13643069000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000927066-26-000012"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 3298439,
+   "2022": 2984581,
+   "2023": 6712328,
+   "2024": 21807489,
+   "2025": 18210597
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000927066-26-000012",
+    "filingDate": "2026-02-11",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706626000012/dva-20251231.htm"
+   },
+   {
+    "accession": "0000927066-25-000012",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706625000012/dva-20241231.htm"
+   },
+   {
+    "accession": "0000927066-24-000013",
+    "filingDate": "2024-02-14",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706624000013/dva-20231231.htm"
+   },
+   {
+    "accession": "0000927066-23-000011",
+    "filingDate": "2023-02-22",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706623000011/dva-20221231.htm"
+   },
+   {
+    "accession": "0000927066-22-000012",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706622000012/dva-20211231.htm"
+   },
+   {
+    "accession": "0000927066-21-000008",
+    "filingDate": "2021-02-12",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706621000008/dva-20201231.htm"
+   },
+   {
+    "accession": "0000927066-20-000014",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706620000014/dva-12311910k.htm"
+   },
+   {
+    "accession": "0000927066-19-000025",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706619000025/dva-123118x10k.htm"
+   },
+   {
+    "accession": "0000927066-18-000030",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/927066/000092706618000030/dva-123117x10k.htm"
+   },
+   {
+    "accession": "0001564590-17-002409",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/927066/000156459017002409/dva-10k_20161231.htm"
+   }
+  ]
+ }
+}

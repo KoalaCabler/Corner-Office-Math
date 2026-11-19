@@ -1,0 +1,210 @@
+{
+ "proxies": {
+  "0001104659-26-060253": {
+   "parserVersion": 1,
+   "filingDate": "2026-05-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm",
+   "periodEnd": "2026-01-31",
+   "tenK": "0001835632-26-000011",
+   "result": {
+    "ceoPay": 25064348,
+    "medianPay": 158857,
+    "payRatio": 158,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "r to the annual total compensation of our median employee. During fiscal 2026, the principal executive officer of the Company was our Chairman and Chief Executive Officer, Matthew J. Murphy. For fiscal 2026, Mr. Murphy's annual total compensation, as disclosed in the Summary Compensation Table, was $25,064,348 and our median employee's annual total compensation was $158,857, resulting in a pay ratio of approximately 158 to 1. In accordance with Item 402(u) of Regulation S-K we identified the median employee as of December 31, 2025 by (i) aggregating for each applicable employee (A) annual base salary for salaried employees (or hourly rate multiplied by the estimated annual work schedule, for hourly employees), (B) the target incentive compensation, and (C) the estimated grant date fair val"
+   }
+  },
+  "0001104659-25-043088": {
+   "parserVersion": 1,
+   "filingDate": "2025-05-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000110465925043088/tm252448-4_def14a.htm",
+   "periodEnd": "2025-02-01",
+   "tenK": "0001835632-25-000057",
+   "result": {
+    "ceoPay": 32160142,
+    "medianPay": 171377,
+    "payRatio": 188,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "nual total compensation of our median employee. During fiscal 2025, the principal executive officer of the Company was our Chairman, President and Chief Executive Officer, Matthew J. Murphy. For fiscal 2025, Mr. Murphy's annual total compensation, as disclosed in the Summary Compensation Table, was $32,160,142 and our median employee's annual total compensation was $171,377, resulting in a pay ratio of approximately 188 to 1. In accordance with Item 402(u) of Regulation S-K we identified the median employee as of December 30, 2024 by (i) aggregating for each applicable employee (A) annual base salary for salaried employees (or hourly rate multiplied by the estimated annual work schedule, for hourly employees), (B) the target incentive compensation, and (C) the estimated grant date fair val"
+   }
+  },
+  "0001104659-24-058658": {
+   "parserVersion": 1,
+   "filingDate": "2024-05-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000110465924058658/tm242819-d2_def14a.htm",
+   "periodEnd": "2024-02-03",
+   "tenK": "0001835632-24-000009",
+   "result": {
+    "ceoPay": 45163040,
+    "medianPay": 184313,
+    "payRatio": 245,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "nual total compensation of our median employee. During fiscal 2024, the principal executive officer of the Company was our Chairman, President and Chief Executive Officer, Matthew J. Murphy. For fiscal 2024, Mr. Murphy's annual total compensation, as disclosed in the Summary Compensation Table, was $45,163,040 and our median employee's annual total compensation was $184,313, resulting in a pay ratio of approximately 245 to 1. For fiscal 2024, Mr. Murphy's annual total compensation, excluding the Special Performance-Based Equity Grant, was $23,329,844 and our median employee's annual total compensation was $184,313, resulting in a pay ratio of approximately 127 to 1. In accordance with Item 402(u) of Regulation S-K we identified the median employee as of December 30, 2023 by (i) aggregating"
+   }
+  },
+  "0001104659-23-055484": {
+   "parserVersion": 1,
+   "filingDate": "2023-05-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000110465923055484/tm232045d2_def14a.htm",
+   "periodEnd": "2023-01-28",
+   "tenK": "0001835632-23-000013",
+   "result": {
+    "ceoPay": 22442578,
+    "medianPay": 175972,
+    "payRatio": 127.5,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "to the annual total compensation of our median employee. During fiscal 2023, the principal executive officer of the Company was our President and Chief Executive Officer, Matthew J. Murphy. For fiscal 2023, Mr. Murphy's annual total compensation, as disclosed in the Summary Compensation Table, was $22,442,578 and our median employee's annual total compensation was $175,972, resulting in a pay ratio of approximately 127.5 to 1. In accordance with Item 402(u) of Regulation S-K we identified the median employee as of December 30, 2022 by (i) aggregating for each applicable employee (A) annual base salary for salaried employees (or hourly rate multiplied by the estimated annual work schedule, for hourly employees), (B) the target incentive compensation, and (C) the estimated grant date fair v"
+   }
+  },
+  "0001104659-22-056869": {
+   "parserVersion": 1,
+   "filingDate": "2022-05-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000110465922056869/tm226068-1_def14a.htm",
+   "periodEnd": "2022-01-29",
+   "tenK": "0001835632-22-000016",
+   "result": {
+    "ceoPay": 15510223,
+    "medianPay": 167829,
+    "payRatio": 92.4,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "to the annual total compensation of our median employee. During fiscal 2022, the principal executive officer of the Company was our President and Chief Executive Officer, Matthew J. Murphy. For fiscal 2022, Mr. Murphy's annual total compensation, as disclosed in the Summary Compensation Table, was $15,510,223 and our median employee's annual total compensation was $167,829, resulting in a pay ratio of approximately 92.4 to1. In accordance with Item 402(u) of Regulation S-K we identified the median employee as of December 30, 2021 by (i) aggregating for each applicable employee (A) annual base salary for salaried employees (or hourly rate multiplied by the estimated annual work schedule, for hourly employees), (B) the target incentive compensation, and (C) the estimated grant date fair val"
+   }
+  },
+  "0001193125-21-176583": {
+   "parserVersion": 1,
+   "filingDate": "2021-05-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312521176583/d151238ddef14a.htm",
+   "periodEnd": null,
+   "tenK": null,
+   "result": {
+    "ceoPay": 14615795,
+    "medianPay": 147993,
+    "payRatio": 99,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "to the annual total compensation of our median employee. During fiscal 2021, the principal executive officer of the Company was our President and Chief Executive Officer, Matthew J. Murphy. For fiscal 2021, Mr. Murphys annual total compensation, as disclosed in the Summary Compensation Table, was $14,615,795 and our median employees annual total compensation was $147,993, resulting in a pay ratio of approximately 99:1. The applicable SEC rules allow us to identify a median employee only once every three years, if we conclude that there have been no changes in our employee population or employee compensation arrangements that we believe would significantly impact the calculation of our CEO Pay Ratio. For fiscal 2021, we have concluded that there have been no significant changes between D"
+   }
+  }
+ },
+ "tenKs": {
+  "0001835632-22-000016": {
+   "parserVersion": 1,
+   "employees": 6729
+  },
+  "0001835632-23-000013": {
+   "parserVersion": 1,
+   "employees": 7448
+  },
+  "0001835632-24-000009": {
+   "parserVersion": 1,
+   "employees": 6577
+  },
+  "0001835632-25-000057": {
+   "parserVersion": 1,
+   "employees": 7042
+  },
+  "0001835632-26-000011": {
+   "parserVersion": 1,
+   "employees": 7480
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2020": {
+    "revenue": 2699161000,
+    "periodEnd": "2020-02-01",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001835632-22-000016"
+   },
+   "2021": {
+    "revenue": 2968900000,
+    "periodEnd": "2021-01-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001835632-23-000013"
+   },
+   "2022": {
+    "revenue": 4462400000,
+    "periodEnd": "2022-01-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001835632-24-000009"
+   },
+   "2023": {
+    "revenue": 5919600000,
+    "periodEnd": "2023-01-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001835632-25-000057"
+   },
+   "2024": {
+    "revenue": 5507700000,
+    "periodEnd": "2024-02-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001835632-26-000011"
+   },
+   "2025": {
+    "revenue": 5767300000,
+    "periodEnd": "2025-02-01",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001835632-26-000011"
+   },
+   "2026": {
+    "revenue": 8194600000,
+    "periodEnd": "2026-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001835632-26-000011"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 15510223,
+   "2023": 22442578,
+   "2024": 45163040,
+   "2025": 32160142,
+   "2026": 25064348
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001835632-26-000011",
+    "filingDate": "2026-03-11",
+    "reportDate": "2026-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563226000011/mrvl-20260131.htm"
+   },
+   {
+    "accession": "0001835632-25-000057",
+    "filingDate": "2025-03-12",
+    "reportDate": "2025-02-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563225000057/mrvl-20250201.htm"
+   },
+   {
+    "accession": "0001835632-24-000009",
+    "filingDate": "2024-03-13",
+    "reportDate": "2024-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563224000009/mrvl-20240203.htm"
+   },
+   {
+    "accession": "0001835632-23-000013",
+    "filingDate": "2023-03-09",
+    "reportDate": "2023-01-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563223000013/mrvl-20230128.htm"
+   },
+   {
+    "accession": "0001835632-22-000016",
+    "filingDate": "2022-03-10",
+    "reportDate": "2022-01-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563222000016/mrvl-20220129.htm"
+   }
+  ]
+ }
+}

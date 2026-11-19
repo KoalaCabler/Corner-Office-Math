@@ -1,0 +1,358 @@
+{
+ "proxies": {
+  "0000906163-26-000029": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000029/nvr-20260316.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000906163-26-000018",
+   "result": {
+    "ceoPay": 1748227,
+    "medianPay": 88431,
+    "payRatio": 20,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "VR and its subsidiaries as of October 31, 2025. We did not include the compensation of employees hired in 2025 who did not work the full year for purposes of this calculation. The 2025 annual total compensation as determined under Item 402 of Regulation S-K (\"Item 402 Compensation\") for our CEO was $1,748,227. The 2025 Item 402 Compensation for our median employee was $88,431. The ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation for fiscal year 2025 is approximately 20 to 1. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions"
+   }
+  },
+  "0000906163-25-000042": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000042/nvr-20250318.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000906163-25-000011",
+   "result": {
+    "ceoPay": 2309548,
+    "medianPay": 75244,
+    "payRatio": 31,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "VR and its subsidiaries as of October 31, 2024. We did not include the compensation of employees hired in 2024 who did not work the full year for purposes of this calculation. The 2024 annual total compensation as determined under Item 402 of Regulation S-K (\"Item 402 Compensation\") for our CEO was $2,309,548. The 2023 Item 402 Compensation for our median employee was approximately $75,244. The ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation for fiscal year 2024 is approximately 31 to 1. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates a"
+   }
+  },
+  "0000906163-24-000062": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616324000062/nvr-20240319.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000906163-24-000033",
+   "result": {
+    "ceoPay": 1763200,
+    "medianPay": 75700,
+    "payRatio": 23,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "its subsidiaries as of October 31, 2023. For employees hired in 2023 who did not work the full year, we did not annualize their compensation for purposes of this calculation. The 2023 annual total compensation as determined under Item 402 of Regulation S-K (\"Item 402 Compensation\") for our CEO was $1,763,200. The 2023 Item 402 Compensation for our median employee was approximately $75,700. The ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation for fiscal year 2023 is approximately 23 to 1. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates a"
+   }
+  },
+  "0000906163-23-000035": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616323000035/nvr-20230310.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000906163-23-000023",
+   "result": {
+    "ceoPay": 19289010,
+    "medianPay": 71500,
+    "payRatio": 270,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "its subsidiaries as of October 31, 2022. For employees hired in 2022 who did not work the full year, we did not annualize their compensation for purposes of this calculation. The 2022 annual total compensation as determined under Item 402 of Regulation S-K (\"Item 402 Compensation\") for our CEO was $19,289,010. The 2022 Item 402 Compensation for our median employee was $71,500. The ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation for fiscal year 2022 is approximately 270 to 1. Mr. Bredow received a periodic equity grant in 2022. For purposes of the pay ratio calculation, issuing periodic equity grants instead of annual equity grants results in the compensation for named executive officers appearing uneven, with four years of equity compensation being"
+   }
+  },
+  "0000906163-22-000021": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616322000021/nvrdef14a_2022.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000906163-22-000008",
+   "result": {
+    "ceoPay": 4162400,
+    "medianPay": 71417,
+    "payRatio": 58,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "its subsidiaries as of October 31, 2021. For employees hired in 2021 who did not work the full year, we did not annualize their compensation for purposes of this calculation. The 2021 annual total compensation as determined under Item 402 of Regulation S-K (\"Item 402 Compensation\") for our CEO was $4,162,400. The 2021 Item 402 Compensation for our median employee was $71,417. The ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation for fiscal year 2021 is approximately 58 to 1. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions"
+   }
+  },
+  "0000906163-21-000049": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616321000049/nvrdef14a_2021.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000906163-21-000017",
+   "result": {
+    "ceoPay": 4012200,
+    "medianPay": 69373,
+    "payRatio": 58,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "its subsidiaries as of October 31, 2020. For employees hired in 2020 who did not work the full year, we did not annualize their compensation for purposes of this calculation. The 2020 annual total compensation as determined under Item 402 of Regulation S-K (\"Item 402 Compensation\") for our CEO was $4,012,200. The 2020 Item 402 Compensation for our median employee was $69,373. The ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation for fiscal year 2020 is approximately 58 to 1. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions"
+   }
+  },
+  "0000906163-20-000046": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616320000046/nvrdef14a_2020.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000906163-20-000026",
+   "result": {
+    "ceoPay": 3987000,
+    "medianPay": 78448,
+    "payRatio": 51,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "its subsidiaries as of October 31, 2019. For employees hired in 2019 who did not work the full year, we did not annualize their compensation for purposes of this calculation. The 2019 annual total compensation as determined under Item 402 of Regulation S-K (\"Item 402 Compensation\") for our CEO was $3,987,000. The 2019 Item 402 Compensation for our median employee was $78,448. The ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation for fiscal year 2019 is approximately 51 to 1. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions"
+   }
+  },
+  "0000906163-19-000053": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616319000053/nvrdef14a_2019.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000906163-19-000029",
+   "result": {
+    "ceoPay": 39134164,
+    "medianPay": 63456,
+    "payRatio": 617,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "its subsidiaries as of October 31, 2018. For employees hired in 2018 who did not work the full year, we did not annualize their compensation for purposes of this calculation. The 2018 annual total compensation as determined under Item 402 of Regulation S-K (\"Item 402 Compensation\") for our CEO was $39,134,164. The 2018 Item 402 Compensation for our median employee was $63,456. The ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation for fiscal year 2018 is approximately 617 to 1. As disclosed in our 2018 proxy statement, the ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation was approximately 51 to 1 in 2017. Mr. Saville received a periodic block equity grant in 2018. For purposes of the pay ratio calculation, issuing"
+   }
+  },
+  "0000906163-18-000017": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616318000017/nvrdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000906163-18-000007",
+   "result": {
+    "ceoPay": 3538600,
+    "medianPay": 69147,
+    "payRatio": 51,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "its subsidiaries as of October 31, 2017. For employees hired in 2017 who did not work the full year, we did not annualize their compensation for purposes of this calculation. The 2017 annual total compensation as determined under Item 402 of Regulation S-K (\"Item 402 Compensation\") for our CEO was $3,538,600. The 2017 Item 402 Compensation for our median employee was $69,147. The ratio of our CEO's Item 402 Compensation to our median employee's Item 402 Compensation for fiscal year 2017 is approximately 51 to 1. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions"
+   }
+  }
+ },
+ "tenKs": {
+  "0000906163-18-000007": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000906163-19-000029": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000906163-20-000026": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000906163-21-000017": {
+   "parserVersion": 1,
+   "employees": 6100
+  },
+  "0000906163-22-000008": {
+   "parserVersion": 1,
+   "employees": 6600
+  },
+  "0000906163-23-000023": {
+   "parserVersion": 1,
+   "employees": 6550
+  },
+  "0000906163-24-000033": {
+   "parserVersion": 1,
+   "employees": 6300
+  },
+  "0000906163-25-000011": {
+   "parserVersion": 1,
+   "employees": 7000
+  },
+  "0000906163-26-000018": {
+   "parserVersion": 1,
+   "employees": 6300
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 2743848000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-072956"
+   },
+   "2010": {
+    "revenue": 3041892000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-065025"
+   },
+   "2011": {
+    "revenue": 2659149000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-060606"
+   },
+   "2012": {
+    "revenue": 3184650000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-15-000764"
+   },
+   "2013": {
+    "revenue": 4211267000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-16-012809"
+   },
+   "2014": {
+    "revenue": 4444568000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-17-001623"
+   },
+   "2015": {
+    "revenue": 5159008000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906163-18-000007"
+   },
+   "2016": {
+    "revenue": 5822544000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906163-19-000029"
+   },
+   "2017": {
+    "revenue": 6305840000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906163-20-000026"
+   },
+   "2018": {
+    "revenue": 7163674000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906163-21-000017"
+   },
+   "2019": {
+    "revenue": 7388664000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906163-22-000008"
+   },
+   "2020": {
+    "revenue": 7536923000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906163-23-000023"
+   },
+   "2021": {
+    "revenue": 8951025000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906163-24-000033"
+   },
+   "2022": {
+    "revenue": 10526434000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906163-25-000011"
+   },
+   "2023": {
+    "revenue": 9518202000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906163-26-000018"
+   },
+   "2024": {
+    "revenue": 10524479000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906163-26-000018"
+   },
+   "2025": {
+    "revenue": 10323959000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000906163-26-000018"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000906163-26-000018",
+    "filingDate": "2026-02-11",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000018/nvr-20251231.htm"
+   },
+   {
+    "accession": "0000906163-25-000011",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000011/nvr-20241231.htm"
+   },
+   {
+    "accession": "0000906163-24-000033",
+    "filingDate": "2024-02-14",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616324000033/nvr-20231231.htm"
+   },
+   {
+    "accession": "0000906163-23-000023",
+    "filingDate": "2023-02-15",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616323000023/nvr-20221231.htm"
+   },
+   {
+    "accession": "0000906163-22-000008",
+    "filingDate": "2022-02-16",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616322000008/nvr-20211231.htm"
+   },
+   {
+    "accession": "0000906163-21-000017",
+    "filingDate": "2021-02-12",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616321000017/nvr-20201231.htm"
+   },
+   {
+    "accession": "0000906163-20-000026",
+    "filingDate": "2020-02-19",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616320000026/a201910-k.htm"
+   },
+   {
+    "accession": "0000906163-19-000029",
+    "filingDate": "2019-02-13",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616319000029/nvr201810-k.htm"
+   },
+   {
+    "accession": "0000906163-18-000007",
+    "filingDate": "2018-02-14",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616318000007/a201710-k.htm"
+   },
+   {
+    "accession": "0001564590-17-001623",
+    "filingDate": "2017-02-15",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906163/000156459017001623/nvr-10k_20161231.htm"
+   }
+  ]
+ }
+}

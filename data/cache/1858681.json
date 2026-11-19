@@ -1,0 +1,164 @@
+{
+ "proxies": {
+  "0001193125-26-177321": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312526177321/d948913ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001858681-26-000013",
+   "result": {
+    "ceoPay": 913367,
+    "medianPay": 189150,
+    "payRatio": 5,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "Pay Ratio SEC rules require companies to disclose the ratio of the total annual compensation of the principal executive officer (\"PEO\") to the total annual compensation of the median employee (calculated excluding the PEO), and our ratio is as follows: Mr. Rowan's total annual compensation as PEO: $913,367 Median employee total annual compensation: $189,150 Ratio of PEO to median employee total annual compensation: 5:1 In determining the median employee, we prepared a list of all employees as of December 31, 2025. Consistent with applicable rules, we used reasonable estimates in the methodology used to identify the median employee. We determined the median employee by reviewing the annualized base salary for 2025 and the annual cash bonus paid in 2025 by employees other than the PEO. For"
+   }
+  },
+  "0001193125-25-096971": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312525096971/d920046ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001858681-25-000034",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 182781,
+    "payRatio": 4,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "he ratio of the total annual compensation of the principal executive officer (\"PEO\") to the total annual compensation of the median employee (calculated excluding the PEO), and our ratio is as follows: Mr. Rowan's total annual compensation as PEO: $763,381 Median employee total annual compensation: $182,781 Ratio of PEO to median employee total annual compensation: 4:1 In determining the median employee, we prepared a list of all employees as of December 31, 2023. Consistent with applicable rules, we used reasonable estimates in the methodology used to identify the median employee. We determined the median employee by reviewing the annualized base salary for 2023 and the annual 58 Table of Contents cash bonus paid in 2023 by employees other than the PEO. SEC rules permit identification of"
+   }
+  },
+  "0001193125-24-118090": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312524118090/d802194ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001858681-24-000031",
+   "result": {
+    "ceoPay": 320760,
+    "medianPay": 171311,
+    "payRatio": 1.87,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "Pay Ratio SEC rules require companies to disclose the ratio of the total annual compensation of the principal executive officer (\"PEO\") to the total annual compensation of the median employee (calculated excluding the PEO), and our ratio is as follows: Mr. Rowan's total annual compensation as PEO: $320,760 61 Table of Contents Median employee total annual compensation: $171,311 Ratio of PEO to median employee total annual compensation: 1.87:1 In determining the median employee, we prepared a list of all employees as of December 31, 2023. Consistent with applicable rules, we used reasonable estimates in the methodology used to identify the median employee. We determined the median employee by reviewing the annualized base salary for 2023 and the annual cash bonus paid in 2023 by employees"
+   }
+  },
+  "0001193125-23-215946": {
+   "parserVersion": 1,
+   "filingDate": "2023-08-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312523215946/d543681ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001858681-23-000007",
+   "result": {
+    "ceoPay": 310011,
+    "medianPay": 170035,
+    "payRatio": 1.8,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "Pay Ratio SEC rules require companies to disclose the ratio of the total annual compensation of the principal executive officer (\"PEO\") to the total annual compensation of the median employee (calculated excluding the PEO), and our ratio is as follows: Mr. Rowan's total annual compensation as PEO: $310,011 Median employee total annual compensation: $170,035 Ratio of PEO to median employee total annual compensation: 1.8:1 In determining the median employee, we prepared a list of all employees as of December 31, 2022. Consistent with applicable rules, we used reasonable estimates in the methodology used to identify the median employee. We determined the median employee by reviewing the annualized base salary for 2022 and the annual cash bonus paid in 2022 by employees other than the PEO. Af"
+   }
+  },
+  "0001193125-22-225440": {
+   "parserVersion": 1,
+   "filingDate": "2022-08-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312522225440/d339343ddef14a.htm",
+   "periodEnd": null,
+   "tenK": null,
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001858681-23-000007": {
+   "parserVersion": 1,
+   "employees": 1718
+  },
+  "0001858681-24-000031": {
+   "parserVersion": 1,
+   "employees": 1976
+  },
+  "0001858681-25-000034": {
+   "parserVersion": 1,
+   "employees": 1983
+  },
+  "0001858681-26-000013": {
+   "parserVersion": 1,
+   "employees": 4130
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2020": {
+    "revenue": 2354000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001858681-23-000007"
+   },
+   "2021": {
+    "revenue": 5951000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001858681-24-000031"
+   },
+   "2022": {
+    "revenue": 10968000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001858681-25-000034"
+   },
+   "2023": {
+    "revenue": 32644000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001858681-26-000013"
+   },
+   "2024": {
+    "revenue": 26114000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001858681-26-000013"
+   },
+   "2025": {
+    "revenue": 32049000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001858681-26-000013"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001858681-26-000013",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868126000013/apo-20251231.htm"
+   },
+   {
+    "accession": "0001858681-25-000034",
+    "filingDate": "2025-02-24",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868125000034/apo-20241231.htm"
+   },
+   {
+    "accession": "0001858681-24-000031",
+    "filingDate": "2024-02-27",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868124000031/apo-20231231.htm"
+   },
+   {
+    "accession": "0001858681-23-000007",
+    "filingDate": "2023-03-01",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000185868123000007/apo-20221231.htm"
+   }
+  ]
+ }
+}

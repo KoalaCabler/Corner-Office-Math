@@ -1,0 +1,178 @@
+{
+ "proxies": {
+  "0001751008-26-000028": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000028/app-20260420.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001751008-26-000010",
+   "result": {
+    "ceoPay": 12969001,
+    "medianPay": 133808,
+    "payRatio": 97,
+    "method": "cross-checked",
+    "employees": 898,
+    "statedYear": 2021,
+    "excerpt": "nt as permitted by applicable SEC regulations. Pay Ratio Once the median employee was identified, we calculated the median employee's annual total compensation in accordance with the requirements of paragraph (c)(2)(x) of Regulation S-K Item 402 . Our median employee's annual total compensation was $133,808 . Our CEO's annual total compensation as reported in the Summary Compensation Table was $12,969,001. Therefore, our CEO to median employee pay ratio is 97:1 . This information is being provided for compliance purposes. Neither the Compensation Committee nor management of the Company used the pay ratio measure in making compensation decisions. | | | | | | | | | | | | | | | AppLovin Corporation | | 50 | | 2026 Proxy Statement | Table of Contents Equity Compensation Plan Information The fo"
+   }
+  },
+  "0001751008-25-000041": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100825000041/app-20250421.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001751008-25-000018",
+   "result": {
+    "ceoPay": 11202098,
+    "medianPay": 98555,
+    "payRatio": 114,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "e Summary Compensation Table on page 44 . Although our median employee's compensation was calculated using Summary Compensation Table requirements, this employee is located in Germany, holds a generalist position and was not eligible for equity, which resulted in only his total cash compensation of $98,555 being included. Our CEO's compensation as reported in the Summary Compensation Table was $11,202,098. Therefore, our CEO to median employee pay ratio is 114:1 . As a result of our performance-based equity program, this was an exceptional year for equity grants for our CEO for the reasons discussed above; and if you were to assess the pay ratio based only on total cash compensation, the pay ratio would have been 4.1:1. This information is being provided for compliance purposes. Neither th"
+   }
+  },
+  "0001751008-24-000028": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100824000028/app-20240422.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001751008-24-000012",
+   "result": {
+    "ceoPay": 83361678,
+    "medianPay": 104861,
+    "payRatio": 795,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "the Summary Compensation Table on page 55. Although our median employee's compensation was calculated using Summary Compensation Table requirements,this employee is located in Germany, holds a generalist position and was not eligible for equity, which resulted in only his total cash compensation of $104,861 being included. Our CEO's compensation as reported in the Summary Compensation Table was $83,361,678. Therefore, our CEO to median employee pay ratio is 795:1 . As a result of our performance-based equity program, this was an exceptional year for equity grants for our CEO for the reasons discussed above; and if you were to assess the pay ratio based only on total cash compensation, the pay ratio would have been 3.9:1. This information is being provided for compliance purposes. Neither t"
+   }
+  },
+  "0001751008-23-000033": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100823000033/applovinproxystatement2023.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001751008-23-000006",
+   "result": {
+    "ceoPay": 104355,
+    "medianPay": 139502,
+    "payRatio": 0.748,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "ntified the median employee. Once the median employee was identified, we calculated the median employee's total annual compensation in accordance with the requirements of the Summary Compensation Table. Our median employee compensation as calculated using Summary Compensation Table requirements was $139,502. Our CEO's compensation as reported in the Summary Compensation Table was $104,355. Therefore, our CEO to median employee pay ratio is 0.748:1. This information is being provided for compliance purposes. Neither the Compensation Committee nor management of the company used the pay ratio measure in making compensation decisions. | | | | | | | | | | | | | | | | | | | 2023 Proxy Statement | | 53 | | AppLovin | Equity Compensation Plan Information The following table summarizes our equity c"
+   }
+  },
+  "0001140361-22-016243": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1751008/000114036122016243/brhc10036366_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001751008-22-000005",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001751008-23-000006": {
+   "parserVersion": 1,
+   "employees": 1707
+  },
+  "0001751008-24-000012": {
+   "parserVersion": 1,
+   "employees": 1745
+  },
+  "0001751008-25-000018": {
+   "parserVersion": 1,
+   "employees": 1563
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2019": {
+    "revenue": 994104000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001751008-22-000005"
+   },
+   "2020": {
+    "revenue": 1451086000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001751008-23-000006"
+   },
+   "2021": {
+    "revenue": 2793104000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001751008-24-000012"
+   },
+   "2022": {
+    "revenue": 2817058000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001751008-25-000018"
+   },
+   "2023": {
+    "revenue": 1841762000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001751008-26-000010"
+   },
+   "2024": {
+    "revenue": 3224058000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001751008-26-000010"
+   },
+   "2025": {
+    "revenue": 5480717000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001751008-26-000010"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 104346,
+   "2022": 104355,
+   "2023": 83361678,
+   "2024": 11202098,
+   "2025": 12969001
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001751008-26-000010",
+    "filingDate": "2026-02-19",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100826000010/app-20251231.htm"
+   },
+   {
+    "accession": "0001751008-25-000018",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100825000018/app-20241231.htm"
+   },
+   {
+    "accession": "0001751008-24-000012",
+    "filingDate": "2024-02-26",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100824000012/app-20231231.htm"
+   },
+   {
+    "accession": "0001751008-23-000006",
+    "filingDate": "2023-02-28",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100823000006/app-20221231.htm"
+   },
+   {
+    "accession": "0001751008-22-000005",
+    "filingDate": "2022-03-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1751008/000175100822000005/app-20211231.htm"
+   }
+  ]
+ }
+}

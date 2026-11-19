@@ -1,0 +1,335 @@
+{
+ "proxies": {
+  "0000320187-26-000089": {
+   "parserVersion": 1,
+   "filingDate": "2026-07-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000089/nke-20260715.htm",
+   "periodEnd": "2026-05-31",
+   "tenK": "0000320187-26-000088",
+   "result": {
+    "ceoPay": 36340876,
+    "medianPay": 48695,
+    "payRatio": 746,
+    "method": "cross-checked",
+    "employees": 76600,
+    "statedYear": 2026,
+    "excerpt": "order to drive business results and maximize shareholder value. For fiscal 2026, our last completed fiscal year: • The employee identified at the median of all NIKE employees (other than our CEO) was a retail employee in the United Kingdom; • The annual total compensation of the median employee was $48,695; • The annual total compensation of our CEO, Mr. Hill, was $36,340,876; and • Based on this information, the estimated ratio of the annual total compensation of our CEO to the median annual total compensation of all other NIKE employees was 746 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio allow companies to"
+   }
+  },
+  "0000320187-25-000048": {
+   "parserVersion": 1,
+   "filingDate": "2025-07-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018725000048/nke-20250717.htm",
+   "periodEnd": "2025-05-31",
+   "tenK": "0000320187-25-000047",
+   "result": {
+    "ceoPay": 26566145,
+    "medianPay": 48723,
+    "payRatio": 545,
+    "method": "cross-checked",
+    "employees": 76600,
+    "statedYear": 2025,
+    "excerpt": "order to drive business results and maximize shareholder value. For fiscal 2025, our last completed fiscal year: • The employee identified at the median of all NIKE employees (other than our CEO) was a retail employee in the United Kingdom; • The annual total compensation of the median employee was $48,723, based on the Summary Compensation Table rules used for our Named Executive Officers (in accordance with Item 402(c)(2)(x) of Regulation S-K); and • The annualized total compensation of our CEO, Mr. Hill, was $26,566,145, as described below. NIKE had two individuals serve as CEO during fiscal 2025. For purposes of calculating the CEO pay ratio, we annualized the base salary and cash incentive award under the PSP of our current CEO, Mr. Hill, who began serving in the role on October 14, 2"
+   }
+  },
+  "0000320187-24-000045": {
+   "parserVersion": 1,
+   "filingDate": "2024-07-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000045/nke-20240725.htm",
+   "periodEnd": "2024-05-31",
+   "tenK": "0000320187-24-000044",
+   "result": {
+    "ceoPay": 29184701,
+    "medianPay": 38462,
+    "payRatio": 759,
+    "method": "cross-checked",
+    "employees": 77239,
+    "statedYear": 2024,
+    "excerpt": "e\" in order to drive business results and maximize shareholder value. For fiscal 2024, our last completed fiscal year: • The employee identified at the median of all NIKE employees (other than our CEO) was a retail store employee in Canada; • The annual total compensation of the median employee was $38,462; • The annual total compensation of our CEO, Mr. Donahoe, was $29,184,701; and • The estimated ratio of the annual total compensation of our CEO to the median annual total compensation of all other NIKE employees was 759 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio allow companies to adopt a variety of meth"
+   }
+  },
+  "0000320187-23-000040": {
+   "parserVersion": 1,
+   "filingDate": "2023-07-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018723000040/nke-20230720.htm",
+   "periodEnd": "2023-05-31",
+   "tenK": "0000320187-23-000039",
+   "result": {
+    "ceoPay": 32789885,
+    "medianPay": 33646,
+    "payRatio": 975,
+    "method": "cross-checked",
+    "employees": 77239,
+    "statedYear": 2023,
+    "excerpt": "e\" in order to drive business results and maximize shareholder value. For fiscal 2023, our last completed fiscal year: • The employee identified at the median of all NIKE employees (other than our CEO) was a retail store employee in Canada; • The annual total compensation of the median employee was $33,646; • The annual total compensation of our CEO, Mr. Donahoe, was $32,789,885; and • The estimated ratio of the annual total compensation of our CEO to the median annual total compensation of all other NIKE employees was 975 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio allow companies to adopt a variety of meth"
+   }
+  },
+  "0000320187-22-000041": {
+   "parserVersion": 1,
+   "filingDate": "2022-07-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018722000041/nike2022proxy.htm",
+   "periodEnd": "2022-05-31",
+   "tenK": "0000320187-22-000038",
+   "result": {
+    "ceoPay": 28838060,
+    "medianPay": 37410,
+    "payRatio": 771,
+    "method": "cross-checked",
+    "employees": 77239,
+    "statedYear": 2022,
+    "excerpt": "e\" in order to drive business results and maximize shareholder value. For fiscal 2022, our last completed fiscal year: • The employee identified at the median of all NIKE employees (other than our CEO) was a retail store employee in Canada; • The annual total compensation of the median employee was $37,410; • The annual total compensation of our CEO, Mr. Donahoe, was $28,838,060; and • The estimated ratio of the annual total compensation of our CEO to the median annual total compensation of all other NIKE employees was 771 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio allow companies to adopt a variety of meth"
+   }
+  },
+  "0000320187-21-000035": {
+   "parserVersion": 1,
+   "filingDate": "2021-08-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018721000035/nike2021proxy.htm",
+   "periodEnd": "2021-05-31",
+   "tenK": "0000320187-21-000028",
+   "result": {
+    "ceoPay": 32920708,
+    "medianPay": 36077,
+    "payRatio": 913,
+    "method": "cross-checked",
+    "employees": 72645,
+    "statedYear": 2021,
+    "excerpt": "to drive business results and maximize shareholder value. For fiscal 2021, our last completed fiscal year: • The employee identified at the median of all NIKE employees (other than our CEO) was a retail store employee in the United States; • The annual total compensation of the median employee was $36,077; • The annual total compensation of our CEO, Mr. Donahoe, was $32,920,708; and • The estimated ratio of the annual total compensation of our CEO to the median annual total compensation of all other NIKE employees was 913 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio allow companies to adopt a variety of meth"
+   }
+  },
+  "0000320187-20-000049": {
+   "parserVersion": 1,
+   "filingDate": "2020-07-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018720000049/nike2020proxy.htm",
+   "periodEnd": "2020-05-31",
+   "tenK": "0000320187-20-000047",
+   "result": {
+    "ceoPay": 54451903,
+    "medianPay": 28142,
+    "payRatio": 1935,
+    "method": "cross-checked",
+    "employees": 75109,
+    "statedYear": 2020,
+    "excerpt": "maximize shareholder value. For fiscal 2020, our last completed fiscal year: | | | | | • | | The employee identified at the median of all NIKE employees (other than our CEO) was a retail store employee in the United States; | | | | | | • | | The annual total compensation of the median employee was $28,142; | | | | | | • | | The annual total compensation of our CEO, Mr. Donahoe, was $54,451,903; and | | | | | | • | | The estimated ratio of the annual total compensation of our CEO to the median annual total compensation of all other NIKE employees was 1935 to 1. | This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio allow c"
+   }
+  },
+  "0000320187-19-000053": {
+   "parserVersion": 1,
+   "filingDate": "2019-07-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018719000053/nike2019proxy.htm",
+   "periodEnd": "2019-05-31",
+   "tenK": "0000320187-19-000051",
+   "result": {
+    "ceoPay": 13968022,
+    "medianPay": 25386,
+    "payRatio": 550,
+    "method": "cross-checked",
+    "employees": 75109,
+    "statedYear": 2019,
+    "excerpt": "TION DISCUSSION AND ANALYSIS For fiscal 2019, our last completed fiscal year: | | | | | • | | The employee identified at the median of all NIKE employees (other than our CEO) was a retail store employee in the United States; | | | | | | • | | The annual total compensation of the median employee was $25,386; | | | | | | • | | The annual total compensation of our CEO, Mr. Parker, was $13,968,022; and | | | | | | • | | The estimated ratio of the annual total compensation of our CEO to the median annual total compensation of all other NIKE employees was 550 to 1. | This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio allow com"
+   }
+  },
+  "0000320187-18-000144": {
+   "parserVersion": 1,
+   "filingDate": "2018-07-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018718000144/nke-2018xdef14a.htm",
+   "periodEnd": "2018-05-31",
+   "tenK": "0000320187-18-000142",
+   "result": {
+    "ceoPay": 9467460,
+    "medianPay": 24955,
+    "payRatio": 379,
+    "method": "cross-checked",
+    "employees": 72997,
+    "statedYear": 2018,
+    "excerpt": "n how the ratio was derived. For fiscal 2018, our last completed fiscal year: | | | | | • | | The employee identified at the median of all NIKE employees (other than our CEO) was a retail store employee in the United States; | | | | | | • | | The annual total compensation of the median employee was $24,955; | | | | | | • | | The annual total compensation of our CEO, Mr. Parker, was $9,467,460; and | | | | | | • | | The estimated ratio of the annual total compensation of our CEO to the median annual total compensation of all NIKE employees was 379 to 1. | This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the median compensated employee and cal"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 18627000000,
+    "periodEnd": "2008-05-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-161874"
+   },
+   "2009": {
+    "revenue": 19176000000,
+    "periodEnd": "2009-05-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-194791"
+   },
+   "2010": {
+    "revenue": 19014000000,
+    "periodEnd": "2010-05-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-312306"
+   },
+   "2011": {
+    "revenue": 20117000000,
+    "periodEnd": "2011-05-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000320187-13-000092"
+   },
+   "2012": {
+    "revenue": 23331000000,
+    "periodEnd": "2012-05-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000320187-14-000097"
+   },
+   "2013": {
+    "revenue": 25313000000,
+    "periodEnd": "2013-05-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000320187-15-000113"
+   },
+   "2014": {
+    "revenue": 27799000000,
+    "periodEnd": "2014-05-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000320187-16-000336"
+   },
+   "2015": {
+    "revenue": 30601000000,
+    "periodEnd": "2015-05-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000320187-17-000090"
+   },
+   "2016": {
+    "revenue": 32376000000,
+    "periodEnd": "2016-05-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000320187-18-000142"
+   },
+   "2017": {
+    "revenue": 34350000000,
+    "periodEnd": "2017-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000320187-19-000051"
+   },
+   "2018": {
+    "revenue": 36397000000,
+    "periodEnd": "2018-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000320187-20-000047"
+   },
+   "2019": {
+    "revenue": 39117000000,
+    "periodEnd": "2019-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000320187-21-000028"
+   },
+   "2020": {
+    "revenue": 37403000000,
+    "periodEnd": "2020-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000320187-22-000038"
+   },
+   "2021": {
+    "revenue": 44538000000,
+    "periodEnd": "2021-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000320187-23-000039"
+   },
+   "2022": {
+    "revenue": 46710000000,
+    "periodEnd": "2022-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000320187-24-000044"
+   },
+   "2023": {
+    "revenue": 51217000000,
+    "periodEnd": "2023-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000320187-25-000047"
+   },
+   "2024": {
+    "revenue": 51362000000,
+    "periodEnd": "2024-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000320187-26-000088"
+   },
+   "2025": {
+    "revenue": 46309000000,
+    "periodEnd": "2025-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000320187-26-000088"
+   },
+   "2026": {
+    "revenue": 46398000000,
+    "periodEnd": "2026-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000320187-26-000088"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2026": 36340876
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000320187-26-000088",
+    "filingDate": "2026-07-15",
+    "reportDate": "2026-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000088/nke-20260531.htm"
+   },
+   {
+    "accession": "0000320187-25-000047",
+    "filingDate": "2025-07-17",
+    "reportDate": "2025-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018725000047/nke-20250531.htm"
+   },
+   {
+    "accession": "0000320187-24-000044",
+    "filingDate": "2024-07-25",
+    "reportDate": "2024-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000044/nke-20240531.htm"
+   },
+   {
+    "accession": "0000320187-23-000039",
+    "filingDate": "2023-07-20",
+    "reportDate": "2023-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018723000039/nke-20230531.htm"
+   },
+   {
+    "accession": "0000320187-22-000038",
+    "filingDate": "2022-07-21",
+    "reportDate": "2022-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018722000038/nke-20220531.htm"
+   },
+   {
+    "accession": "0000320187-21-000028",
+    "filingDate": "2021-07-20",
+    "reportDate": "2021-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018721000028/nke-20210531.htm"
+   },
+   {
+    "accession": "0000320187-20-000047",
+    "filingDate": "2020-07-24",
+    "reportDate": "2020-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018720000047/nke-531202010k.htm"
+   },
+   {
+    "accession": "0000320187-19-000051",
+    "filingDate": "2019-07-23",
+    "reportDate": "2019-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018719000051/nke-531201910k.htm"
+   },
+   {
+    "accession": "0000320187-18-000142",
+    "filingDate": "2018-07-25",
+    "reportDate": "2018-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018718000142/nke-5312018x10k.htm"
+   },
+   {
+    "accession": "0000320187-17-000090",
+    "filingDate": "2017-07-20",
+    "reportDate": "2017-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018717000090/nke-5312017x10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,372 @@
+{
+ "proxies": {
+  "0001141391-26-000021": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001141391-26-000013",
+   "result": {
+    "ceoPay": 35422518,
+    "medianPay": 124650,
+    "payRatio": 284,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "of the annual total compensation of our CEO, Mr. Miebach, to the median annual total compensation of all our employees except our CEO. For 2025, the annual total compensation of our identified median employee (that is, the median employee across all employees of the company other than the CEO) was $124,650, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes base pay, incentive compensation, long-term incentive awards and matching pension contributions made by the company, as well as the change in pension value during 2025. Mr. Miebach's annual total compensation for 2025 as reported in the Summary Compensation Table was $35,422,518. Accordingly, for 2025, the ratio of the compensation of our CEO to the compensation for our median employee"
+   }
+  },
+  "0001141391-25-000078": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139125000078/ma-20250428.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001141391-25-000011",
+   "result": {
+    "ceoPay": 30099482,
+    "medianPay": 120501,
+    "payRatio": 250,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "of the annual total compensation of our CEO, Mr. Miebach, to the median annual total compensation of all our employees except our CEO. For 2024, the annual total compensation of our identified median employee (that is, the median employee across all employees of the company other than the CEO) was $120,501 , calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes base pay, incentive compensation, long-term incentive awards and matching pension contributions made by the company, as well as the change in pension value during 2024. Mr. Miebach's annual total compensation for 2024 as reported in the Summary Compensation Table was $30,099,482. Accordingly, for 2024, the ratio of the compensation of our CEO to the compensation for our median employe"
+   }
+  },
+  "0001141391-24-000078": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139124000078/ma-20240426.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001141391-24-000022",
+   "result": {
+    "ceoPay": 25746498,
+    "medianPay": 140777,
+    "payRatio": 183,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "of the annual total compensation of our CEO, Mr. Miebach, to the median annual total compensation of all our employees except our CEO. For 2023, the annual total compensation of our identified median employee (that is, the median employee across all employees of the company other than the CEO) was $140,777 , calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes base pay, incentive compensation, long-term incentive awards and matching pension contributions made by the company, as well as the change in pension value during 2023. Mr. Miebach's annual total compensation for 2023 as reported in the Summary Compensation Table was $25,746,498. Accordingly, for 2023, the ratio of the compensation of our CEO to the compensation for our median employe"
+   }
+  },
+  "0001141391-23-000070": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139123000070/ma-20230428.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001141391-23-000020",
+   "result": {
+    "ceoPay": 21058543,
+    "medianPay": 129440,
+    "payRatio": 163,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "of the annual total compensation of our CEO, Mr. Miebach, to the median annual total compensation of all our employees except our CEO. For 2022, the annual total compensation of our identified median employee (that is, the median employee across all employees of the company other than the CEO) was $129,440 , calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes base pay, incentive compensation, long-term incentive awards and matching pension contributions made by the company, as well as the change in pension value during 2022. Mr. Miebach's annual total compensation for 2022 as reported in the Summary Compensation Table was $21,058,543. Accordingly, for 2022, the ratio of the compensation of our CEO to the compensation for our median employe"
+   }
+  },
+  "0001141391-22-000099": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139122000099/mastercard2022proxystateme.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001141391-22-000023",
+   "result": {
+    "ceoPay": 16120055,
+    "medianPay": 128154,
+    "payRatio": 126,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "f the annual total compensation of our CEO, Mr. Miebach, to the median annual total compensation of all our employees, except our CEO. For 2021, the annual total compensation of our identified median employee (that is, the median employee across all employees of the company other than the CEO) wa s $128,154, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes base pay, incentive compensation, long-term incentive awards and matching pension contributions made by the company, as well as the change in pension value during 2021. Mr. Miebach's annual total compensation for 2021 as reported in the Summary Compensation Table was $16,120,055. Accordingly, for 2021, the ratio of the compensation of our CEO to the compensation for our median employee"
+   }
+  },
+  "0001141391-21-000098": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139121000098/mastercard2021proxystateme.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001141391-21-000018",
+   "result": {
+    "ceoPay": 27774448,
+    "medianPay": 132114,
+    "payRatio": 210,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "of the annual total compensation of our CEO, Mr. Banga, to the median annual total compensation of all our employees, except our CEO. For 2020, the annual total compensation of our identified median employee (that is, the median employee across all employees of the company other than the CEO) wa s $132,114, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes base pay, incentive compensation, long-term incentive awards and matching pension contributions made by the company, as well as the change in pension value during 2020. Mr. Banga's annual total compensation for 2020 as reported in the Summary Compensation Table was $27,774,448 . Accordingly, for 2020, the ratio of the compensation of our CEO to the compensation for our median employee"
+   }
+  },
+  "0001141391-20-000096": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139120000096/mastercard2020proxystateme.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001141391-20-000032",
+   "result": {
+    "ceoPay": 23249977,
+    "medianPay": 138142,
+    "payRatio": 168,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "o of the annual total compensation of our CEO, Mr. Banga, to the median annual total compensation of all our employees, except our CEO. For 2019, the annual total compensation of our identified median employee (that is, the median employee across all employees of the company other than the CEO) was $138,142, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes base pay, incentive compensation, long-term incentive awards and matching pension contributions made by the company, as well as the change in pension value during 2019. Mr. Banga's annual total compensation for 2019 as reported in the Summary Compensation Table was $23,249,977. Accordingly, for 2019, the ratio of the compensation of our CEO to the compensation for our median employee w"
+   }
+  },
+  "0001141391-19-000067": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139119000067/mastercard2019proxystateme.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001141391-19-000013",
+   "result": {
+    "ceoPay": 20379353,
+    "medianPay": 121897,
+    "payRatio": 167,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "o of the annual total compensation of our CEO, Mr. Banga, to the median annual total compensation of all our employees, except our CEO. For 2018, the annual total compensation of our identified median employee (that is, the median employee across all employees of the company other than the CEO) was $121,897, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes base pay, incentive compensation, long-term incentive awards and matching pension contributions made by the company, as well as the change in pension value during 2018. Mr. Banga's annual total compensation for 2018 as reported in the Summary Compensation Table was $20,379,353. Accordingly, for 2018, the ratio of the compensation of our CEO to the compensation for our median employee w"
+   }
+  },
+  "0001141391-18-000045": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139118000045/mastercard2018proxydef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001141391-18-000009",
+   "result": {
+    "ceoPay": 18684468,
+    "medianPay": 120499,
+    "payRatio": 155,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "o of the annual total compensation of our CEO, Mr. Banga, to the median annual total compensation of all our employees, except our CEO. For 2017, the annual total compensation of our identified median employee (that is, the median employee across all employees of the Company other than the CEO) was $120,499, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes base pay, incentive compensation, long-term incentive awards and matching pension contributions made by the Company, as well as the change in pension value during 2017. Mr. Banga's annual total compensation for 2017 as reported in the Summary Compensation Table was $18,684,468. Accordingly, for 2017, the ratio of the compensation of our CEO to the compensation for our median employee w"
+   }
+  }
+ },
+ "tenKs": {
+  "0001141391-18-000009": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001141391-19-000013": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001141391-20-000032": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001141391-21-000018": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001141391-22-000023": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001141391-23-000020": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001141391-24-000022": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001141391-25-000011": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001141391-26-000013": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 4067599000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-034065"
+   },
+   "2008": {
+    "revenue": 4992000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-044721"
+   },
+   "2009": {
+    "revenue": 5099000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-12-000003"
+   },
+   "2010": {
+    "revenue": 5539000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-13-000003"
+   },
+   "2011": {
+    "revenue": 6714000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-14-000003"
+   },
+   "2012": {
+    "revenue": 7391000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-15-000011"
+   },
+   "2013": {
+    "revenue": 8346000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-15-000011"
+   },
+   "2014": {
+    "revenue": 9473000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-15-000011"
+   },
+   "2015": {
+    "revenue": 9667000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001141391-18-000009"
+   },
+   "2016": {
+    "revenue": 10776000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-19-000013"
+   },
+   "2017": {
+    "revenue": 12497000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-20-000032"
+   },
+   "2018": {
+    "revenue": 21831000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001141391-21-000018"
+   },
+   "2019": {
+    "revenue": 24980000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001141391-22-000023"
+   },
+   "2020": {
+    "revenue": 23616000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001141391-22-000023"
+   },
+   "2021": {
+    "revenue": 29845000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001141391-22-000023"
+   },
+   "2022": {
+    "revenue": 22237000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-25-000011"
+   },
+   "2023": {
+    "revenue": 25098000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-26-000013"
+   },
+   "2024": {
+    "revenue": 28167000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-26-000013"
+   },
+   "2025": {
+    "revenue": 32791000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001141391-26-000013"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2025": 35422518
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001141391-26-000013",
+    "filingDate": "2026-02-11",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm"
+   },
+   {
+    "accession": "0001141391-25-000011",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139125000011/ma-20241231.htm"
+   },
+   {
+    "accession": "0001141391-24-000022",
+    "filingDate": "2024-02-13",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139124000022/ma-20231231.htm"
+   },
+   {
+    "accession": "0001141391-23-000020",
+    "filingDate": "2023-02-14",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139123000020/ma-20221231.htm"
+   },
+   {
+    "accession": "0001141391-22-000023",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139122000023/ma-20211231.htm"
+   },
+   {
+    "accession": "0001141391-21-000018",
+    "filingDate": "2021-02-12",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139121000018/ma-20201231.htm"
+   },
+   {
+    "accession": "0001141391-20-000032",
+    "filingDate": "2020-02-14",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139120000032/ma12312019-10xk.htm"
+   },
+   {
+    "accession": "0001141391-19-000013",
+    "filingDate": "2019-02-13",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139119000013/ma12312018-10xk.htm"
+   },
+   {
+    "accession": "0001141391-18-000009",
+    "filingDate": "2018-02-14",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139118000009/ma12312017-10xk.htm"
+   },
+   {
+    "accession": "0001141391-17-000014",
+    "filingDate": "2017-02-15",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139117000014/ma12312016-10xk.htm"
+   }
+  ]
+ }
+}

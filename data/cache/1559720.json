@@ -1,0 +1,208 @@
+{
+ "proxies": {
+  "0001193125-26-175062": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526175062/d936646ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001559720-26-000004",
+   "result": {
+    "ceoPay": 235416,
+    "medianPay": 242122,
+    "payRatio": 0.97,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "f Executive Officer. The following table sets forth the ratio of our Chief Executive Officer Brian Chesky's total compensation to that of the Company's median employee for the year ended December 31, 2025. | | | | | | | | | | Chief Executive Officer total annual compensation | | | | | | | | | | | | $ | | 242,122 | | | | Median Employee total annual compensation | | | | | | | | | $ | | 235,416 | | | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | | | | | | | | | | | 1 to 0.97 | | | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The Company chose December 31, 2025 as the date for establishing the employee population used in identifying the median employee and 2025 as the measurement period."
+   }
+  },
+  "0001193125-25-096938": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312525096938/d842295ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001559720-25-000010",
+   "result": {
+    "ceoPay": 271657,
+    "medianPay": 186326,
+    "payRatio": 1.5,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "f Executive Officer. The following table sets forth the ratio of our Chief Executive Officer Brian Chesky's total compensation to that of the Company's median employee for the year ended December 31, 2024. | | | | | | | | | | Chief Executive Officer total annual compensation | | | | | | | | | | | | $ | | 186,326 | | | | Median Employee total annual compensation | | | | | | | | | $ | | 271,657 | | | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | | | | | | | | | | | 1 to 1.5 | | | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The Company chose December 31, 2024 as the date for establishing the employee population used in identifying the median employee and 2024 as the measurement period."
+   }
+  },
+  "0001193125-24-102960": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312524102960/d636281ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001559720-24-000006",
+   "result": {
+    "ceoPay": 295125,
+    "medianPay": 243757,
+    "payRatio": 1.2,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "tion of our Chief Executive Officer. The following table sets forth the ratio of our Chief Executive Officer Brian Chesky's total compensation to that of the Company's median employee for the year ended December 31, 2023. | | | | | | | | | | Chief Executive Officer total annual compensation | | | | $ | | 295,125 | | | | | | | | | | | | Median Employee total annual compensation | | | | $ | | 243,757 | | | | | | | | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | | | 1.2 to 1 | | | | | | | | | | | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The Company chose December 31, 2021 as the date for establishing the employee population used in identifying the median employee and 2021 as the meas"
+   }
+  },
+  "0001193125-23-109099": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312523109099/d406835ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001559720-23-000003",
+   "result": {
+    "ceoPay": 236240,
+    "medianPay": 311233,
+    "payRatio": 0.759,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "Executive Officer. The following table sets forth the ratio of our Chief Executive Officer Brian Chesky's total compensation to that of the Company's median employee for the year ended December 31, 2022. | | | | | | | | | | | | | | | | | | | Chief Executive Officer total annual compensation | | | | $ | | 311,233 | | | | | | | | | | | | Median Employee total annual compensation | | | | $ | | 236,240 | | | | | | | | | | | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | | | 1 to 0.759 | | | | | | | | | | | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The Company chose December 31, 2021 as the date for establishing the employee population used in identifying the median employee and 2021 as"
+   }
+  },
+  "0001193125-22-115317": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312522115317/d278253ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001559720-22-000006",
+   "result": {
+    "ceoPay": 132152,
+    "medianPay": 202541,
+    "payRatio": 0.65,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "Executive Officer. The following table sets forth the ratio of our Chief Executive Officer Brian Cheskys total compensation to that of the Companys median employee for the year ended December 31, 2021. | | | | | | | | | | | | | | | | | | | Chief Executive Officer total annual compensation | | | | $ | | 132,152 | | | | | | | | | | | | Median Employee total annual compensation | | | | $ | | 202,541 | | | | | | | | | | | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | | | 0.65 to 1 | | | | | | | | | | | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The Company chose December 31, 2021 as the date for establishing the employee population used in identifying the median employee and 2021 as t"
+   }
+  },
+  "0001193125-21-145242": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312521145242/d44566ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001559720-21-000010",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001559720-22-000006": {
+   "parserVersion": 1,
+   "employees": 6132
+  },
+  "0001559720-23-000003": {
+   "parserVersion": 1,
+   "employees": 6811
+  },
+  "0001559720-24-000006": {
+   "parserVersion": 1,
+   "employees": 6907
+  },
+  "0001559720-25-000010": {
+   "parserVersion": 1,
+   "employees": 7300
+  },
+  "0001559720-26-000004": {
+   "parserVersion": 1,
+   "employees": 8200
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2019": {
+    "revenue": 4805239000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001559720-22-000006"
+   },
+   "2020": {
+    "revenue": 3378000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001559720-23-000003"
+   },
+   "2021": {
+    "revenue": 5992000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001559720-24-000006"
+   },
+   "2022": {
+    "revenue": 8399000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001559720-25-000010"
+   },
+   "2023": {
+    "revenue": 9917000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001559720-26-000004"
+   },
+   "2024": {
+    "revenue": 11102000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001559720-26-000004"
+   },
+   "2025": {
+    "revenue": 12241000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001559720-26-000004"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 132152,
+   "2022": 311233,
+   "2023": 295125,
+   "2024": 186326,
+   "2025": 242122
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001559720-26-000004",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972026000004/abnb-20251231.htm"
+   },
+   {
+    "accession": "0001559720-25-000010",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972025000010/abnb-20241231.htm"
+   },
+   {
+    "accession": "0001559720-24-000006",
+    "filingDate": "2024-02-16",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972024000006/abnb-20231231.htm"
+   },
+   {
+    "accession": "0001559720-23-000003",
+    "filingDate": "2023-02-17",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972023000003/abnb-20221231.htm"
+   },
+   {
+    "accession": "0001559720-22-000006",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972022000006/abnb-20211231.htm"
+   },
+   {
+    "accession": "0001559720-21-000010",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000155972021000010/airbnb-10k.htm"
+   }
+  ]
+ }
+}

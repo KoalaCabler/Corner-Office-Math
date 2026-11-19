@@ -1,0 +1,334 @@
+{
+ "proxies": {
+  "0001467858-26-000022": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000022/gm-20260420.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001467858-26-000013",
+   "result": {
+    "ceoPay": 29895868,
+    "medianPay": 89785,
+    "payRatio": 333,
+    "method": "cross-checked",
+    "employees": 155000,
+    "statedYear": 2025,
+    "excerpt": ". | | | 2026 Proxy Statement | | 73 | ITEM 3 Proposal to Approve, on an Advisory Basis, Named Executive Officer Compensation CEO Pay Ratio Our CEO, who leads our global workforce of 155,000 employees (94,000 located in the United States and 61,000 non-U.S. employees) as of December 31, 2025, earned $29,895,868 i n total compensation in 2025 as reported in the Summary Compensation Table. To identify our new median employee for 2025, we: 1. Excluded all employees (5,469) in the following 28 countries under the SEC's 5 percent de minimis exemption: Argentina (913), Australia (200), Chile (202), China (734), Colombia (411), Ecuador (81), Egypt (595), France (20), Germany (108), India (335), Indonesia (8), Ireland (356), Israel (347), Italy (1), Japan (37), New Zealand (21), Peru (41), Philippi"
+   }
+  },
+  "0001467858-25-000084": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785825000084/gm-20250422.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001467858-25-000032",
+   "result": {
+    "ceoPay": 29496637,
+    "medianPay": 95111,
+    "payRatio": 310,
+    "method": "cross-checked",
+    "employees": 162000,
+    "statedYear": 2024,
+    "excerpt": "Voluntary Separation. | | | 80 | | | ITEM 3 Proposal to Approve, on an Advisory Basis, Named Executive Officer Compensation CEO Pay Ratio Our CEO, who leads our global workforce of 162,000 employees (97,000 located in the United States and 65,000 non-U.S. employees) as of December 31, 2024, earned $29,496,637 in total compensation in 2024 as reported in the Summary Compensation Table. To identify our new median employee for 2024, we: 1. Excluded all employees (6,660) in the following 29 countries under the SEC's 5 percent de minimis exemption: Argentina (1,271), Australia (190), Chile (225), China (1,103), Colombia (502), Ecuador (130), Egypt (591), France (16), Germany (117), India (320), Indonesia (8), Ireland (392), Israel (681), Italy (1), Japan (39), New Zealand (14), Norway (1), Per"
+   }
+  },
+  "0001193125-24-108581": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000119312524108581/d648661ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001467858-24-000031",
+   "result": {
+    "ceoPay": 27847405,
+    "medianPay": 91778,
+    "payRatio": 303,
+    "method": "cross-checked",
+    "employees": 163000,
+    "statedYear": 2023,
+    "excerpt": "| | | | | | | | | | | | | EXECUTIVE COMPENSATION TABLES | | | | 2024 Proxy Statement | | | | | | 73 | | | Table of Contents CEO Pay Ratio Our CEO, who leads our global workforce of 163,000 employees (99,000 located in the United States and 64,000 non-U.S. employees) as of December 31, 2023, earned $27,847,405 in total compensation in 2023 as reported in the Summary Compensation Table. To identify our new median employee for 2023, we: | 1. | | Excluded all employees (7,595) in the following 28 countries under the SEC's 5 percent de minimis exemption: Argentina (1,468), Australia (173), Chile (222), China (1,041), Colombia (952), Ecuador (396), Egypt (599), Germany (102), India (352), Indonesia (8), Ireland (480), Israel (812), Italy (1), Japan (38), New Zealand (14), Norway (1), Peru (37),"
+   }
+  },
+  "0001193125-23-126270": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000119312523126270/d333787ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001467858-23-000029",
+   "result": {
+    "ceoPay": 28979570,
+    "medianPay": 80034,
+    "payRatio": 362,
+    "method": "cross-checked",
+    "employees": 167000,
+    "statedYear": 2022,
+    "excerpt": "e for full career status retirement as of December 31, 2022. | | | | | | | | | | | | | | | | | | 83 | | | Table of Contents CEO Pay Ratio Our CEO, who leads our global workforce of 167,000 employees (104,000 located in the United States and 63,000 non-U.S. employees) as of December 31, 2022, earned $28,979,570 in total compensation in 2022 as reported in the Summary Compensation Table. To identify our new median employee for 2022, we: | | | 1. | | Excluded all employees (7,574) in the following 27 countries under the SEC's 5 percent de minimis exception: Argentina (1,481), Australia (196), Chile (218), China (910), Colombia (1,164), Ecuador (406), Egypt (700), Germany (91), India (321), Indonesia (8), Ireland (469), Israel (740), Italy (1), Japan (36), New Zealand (14), Peru (35), Philippi"
+   }
+  },
+  "0001193125-22-131642": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000119312522131642/d215687ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001467858-22-000034",
+   "result": {
+    "ceoPay": 29136780,
+    "medianPay": 69433,
+    "payRatio": 420,
+    "method": "cross-checked",
+    "employees": 157000,
+    "statedYear": 2021,
+    "excerpt": "s. Reuss, Parks, and Carlisle were eligible for full career status retirement as of December 31, 2021. | | | | | | | | 80 | | | | | Table of Contents CEO Pay Ratio Our CEO, who leads our global workforce of 157,000 employees (98,000 located in the United States and 59,000 non-U.S. employees) earned $29,136,780 in total compensation in 2021 as reported in the Summary Compensation Table. To identify our new median employee for 2021, we: | | | 1. | | Excluded all employees (7,005) in the following 27 countries under the SECs 5 percent de minimis exception: Argentina (1,501), Australia (195), Chile (215), China (735), Colombia (980), Ecuador (401), Egypt (748), Germany (87), India (309), Indonesia (10), Ireland (401), Israel (535), Italy (1), Japan (35), New Zealand (14), Peru (33), Philippin"
+   }
+  },
+  "0001193125-21-143594": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000119312521143594/d22375ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001467858-21-000037",
+   "result": {
+    "ceoPay": 23657987,
+    "medianPay": 117566,
+    "payRatio": 201,
+    "method": "cross-checked",
+    "employees": 155000,
+    "statedYear": 2020,
+    "excerpt": "d agreement, reflects prorated Salary Reduction RSUs, which vested and settled on April 1, 2021. | | | | | | | 82 | | | | | Table of Contents CEO Pay Ratio Our CEO, who leads our global workforce of 155,000 employees (94,000 are located in the United States and 61,000 are non-U.S. employees) earned $23,657,987 in total compensation in 2020 as reported in the Summary Compensation Table. To identify our median employee, we: | | | 1. | | Excluded all employees (7,037) in the following 26 countries under the SECs 5% de minimis exception: Australia (273), Chile (213), China (675), Colombia (910), Ecuador (388), Egypt (768), Germany (3), India (2,125), Indonesia (11), Ireland (304), Israel (388), Italy (1), Japan (33), New Zealand (16), Peru (34), Philippines (428), Russia (69), Singapore (7),"
+   }
+  },
+  "0001193125-20-120812": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000119312520120812/d752756ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001467858-20-000028",
+   "result": {
+    "ceoPay": 21630867,
+    "medianPay": 106715,
+    "payRatio": 203,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "LTIP awards is based on the closing stock price on February 28, 2020, of $30.50. | | | | | | | | 72 | | | | | Table of Contents EXECUTIVE COMPENSATION CEO Pay Ratio Our CEO, who leads our global workforce of 164,000 (96,000 are located in the United States and 68,000 are non-U.S. employees) earned $21,630,867 in total compensation in 2019 as reported in the Summary Compensation Table. To identify our median employee, we: | | | 1. | | Excluded all employees (8,045) in the following 26 countries under the SECs 5% de minimis exception: Australia (767), Chile (217), China (711), Colombia (1,122), Ecuador (485), Egypt (808), Germany (5), Indonesia (26), Ireland (248), Israel (313), Italy (711), Japan (36), New Zealand (33), Peru (37), Philippines (395), Romania (1), Russia (69), Singapore (8)"
+   }
+  },
+  "0001193125-19-110751": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000119312519110751/d613802ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001467858-19-000033",
+   "result": {
+    "ceoPay": 21870450,
+    "medianPay": 77849,
+    "payRatio": 281,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "s is based on the closing stock price on March 1, 2019, of $39.53. | | | | | | | | 66 | | | | | Table of Contents EXECUTIVE COMPENSATION | u | | | | CEO Pay Ratio | Our CEO, who leads our global workforce of 173,000 (103,000 are located in the United States and 70,000 are non-U.S. employees) earned $21,870,450 in total compensation in 2018 as reported in the Summary Compensation Table. To identify our median employee, we: | | | 1. | | Excluded all employees (8,175) in the following 26 countries under the SECs 5% de minimis exception: Chile (200), China (771), Colombia (1,188), Germany (17), Ecuador (716), Egypt (809), Indonesia (44), Ireland (221), Israel (246), Italy (714), Japan (39), New Zealand (37), Peru (43), Philippines (372), Romania (1), Russia (106), Singapore (44), South Africa"
+   }
+  },
+  "0001193125-18-137797": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1467858/000119312518137797/d519767ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001467858-18-000022",
+   "result": {
+    "ceoPay": 21958048,
+    "medianPay": 74487,
+    "payRatio": 295,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "and no payments were made, as reflected in the table. | | | | | | | | | | | | | | | | | | 65 | | | Table of Contents EXECUTIVE COMPENSATION | u | | | | CEO Pay Ratio | Our CEO, who leads our global workforce of 180,000 (103,000 are located in the United States and 77,000 are non-U.S. employees) had $21,958,048 in Annual Total Compensation in 2017 as reported in the Summary Compensation Table. To identify our median employee, we: | | | 1. | | Excluded all employees (7,519) in the following 26 countries under the SECs 5% de minimis exemption: Argentina (199), Belarus (2), Switzerland (26), Chile (215), China (802), Colombia (1,204), Germany (16), Ecuador (853), Egypt (837), Great Britain (57), Indonesia (52), Ireland (195), Israel (187), Italy (705), Japan (42), New Zealand (39), Peru (45),"
+   }
+  }
+ },
+ "tenKs": {
+  "0001467858-18-000022": {
+   "parserVersion": 1,
+   "employees": 10000
+  },
+  "0001467858-19-000033": {
+   "parserVersion": 1,
+   "employees": 10000
+  },
+  "0001467858-20-000028": {
+   "parserVersion": 1,
+   "employees": 10000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2010": {
+    "revenue": 135592000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-13-000025"
+   },
+   "2011": {
+    "revenue": 150276000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-14-000043"
+   },
+   "2012": {
+    "revenue": 152256000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-15-000036"
+   },
+   "2013": {
+    "revenue": 155427000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-16-000255"
+   },
+   "2014": {
+    "revenue": 155929000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-17-000028"
+   },
+   "2015": {
+    "revenue": 135725000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-18-000022"
+   },
+   "2016": {
+    "revenue": 149184000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-19-000033"
+   },
+   "2017": {
+    "revenue": 145588000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-20-000028"
+   },
+   "2018": {
+    "revenue": 147049000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-21-000037"
+   },
+   "2019": {
+    "revenue": 137237000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-22-000034"
+   },
+   "2020": {
+    "revenue": 122485000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-23-000029"
+   },
+   "2021": {
+    "revenue": 127004000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-24-000031"
+   },
+   "2022": {
+    "revenue": 156735000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-25-000032"
+   },
+   "2023": {
+    "revenue": 171842000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-26-000013"
+   },
+   "2024": {
+    "revenue": 187442000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-26-000013"
+   },
+   "2025": {
+    "revenue": 185019000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001467858-26-000013"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 29136780,
+   "2022": 28979570,
+   "2023": 27847405,
+   "2024": 29496637,
+   "2025": 29895868
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001467858-26-000013",
+    "filingDate": "2026-01-27",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000013/gm-20251231.htm"
+   },
+   {
+    "accession": "0001467858-25-000032",
+    "filingDate": "2025-01-28",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785825000032/gm-20241231.htm"
+   },
+   {
+    "accession": "0001467858-24-000031",
+    "filingDate": "2024-01-30",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785824000031/gm-20231231.htm"
+   },
+   {
+    "accession": "0001467858-23-000029",
+    "filingDate": "2023-01-31",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785823000029/gm-20221231.htm"
+   },
+   {
+    "accession": "0001467858-22-000034",
+    "filingDate": "2022-02-02",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785822000034/gm-20211231.htm"
+   },
+   {
+    "accession": "0001467858-21-000037",
+    "filingDate": "2021-02-10",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785821000037/gm-20201231.htm"
+   },
+   {
+    "accession": "0001467858-20-000028",
+    "filingDate": "2020-02-05",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785820000028/gm201910k.htm"
+   },
+   {
+    "accession": "0001467858-19-000033",
+    "filingDate": "2019-02-06",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785819000033/gm201810k.htm"
+   },
+   {
+    "accession": "0001467858-18-000022",
+    "filingDate": "2018-02-06",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785818000022/gm201710k.htm"
+   },
+   {
+    "accession": "0001467858-17-000028",
+    "filingDate": "2017-02-07",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785817000028/gm201610k.htm"
+   }
+  ]
+ }
+}

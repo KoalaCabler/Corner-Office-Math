@@ -1,0 +1,340 @@
+{
+ "proxies": {
+  "0001193125-26-181884": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000119312526181884/d11985ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001283699-26-000010",
+   "result": {
+    "ceoPay": 37993644,
+    "medianPay": 76141,
+    "payRatio": 499,
+    "method": "cross-checked",
+    "employees": 70690,
+    "statedYear": 2025,
+    "excerpt": "Regulation S-K, we are providing the following information regarding the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Gopalan, our Chief Executive Officer. We have calculated the 2025 total annual compensation for our median employee to be $76,141. We experienced a Chief Executive Officer transition effective November 1, 2025 and, as permitted by Item 402(u), for purposes of calculating our 2025 pay ratio, we chose to annualize the pay of Mr. Gopalan, who was the Chief Executive Officer serving in such position on the date we identified our median employee (December 31, 2025). Our Chief Executive Officer's total annual compensation for 2025 was $37,993,644. This amount represents the Chief Executive Officer's compensation as repor"
+   }
+  },
+  "0001193125-25-085753": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000119312525085753/d877179ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001283699-25-000012",
+   "result": {
+    "ceoPay": 30053510,
+    "medianPay": 74097,
+    "payRatio": 406,
+    "method": "cross-checked",
+    "employees": 68162,
+    "statedYear": 2024,
+    "excerpt": "Regulation S-K, we are providing the following information regarding the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Sievert, our Chief Executive Officer. We have calculated the 2024 total annual compensation for our median employee to be $74,097. Our Chief Executive Officer's total annual compensation for 2024, as set forth in the 2024 Summary Compensation Table above (adjusted to include his employer-paid health benefits with respect to 2024), was $30,053,510. The estimated ratio of the total compensation of Mr. Sievert to the annual total compensation of our median employee was 406 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules of the SEC. This information is be"
+   }
+  },
+  "0001193125-24-117940": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000119312524117940/d562184ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001283699-24-000008",
+   "result": {
+    "ceoPay": 37500851,
+    "medianPay": 72004,
+    "payRatio": 521,
+    "method": "cross-checked",
+    "employees": 66043,
+    "statedYear": 2023,
+    "excerpt": "lowing information regarding the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Sievert, our Chief Executive Officer. We have calculated the median of our employees' 2023 total annual compensation (excluding our Chief Executive Officer) to be $72,004. Our Chief Executive Officer's total annual compensation for 2023, as set forth in the 2023 Summary Compensation Table above (adjusted to include his employer-paid health benefits with respect to 2023), was $37,500,851. The estimated ratio of the total compensation of Mr. Sievert to the median of the annual total compensation of our employees (other than Mr. Sievert) was 521 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules o"
+   }
+  },
+  "0001193125-23-126842": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000119312523126842/d435364ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001283699-23-000016",
+   "result": {
+    "ceoPay": 29074608,
+    "medianPay": 71333,
+    "payRatio": 408,
+    "method": "cross-checked",
+    "employees": 70203,
+    "statedYear": 2022,
+    "excerpt": "lowing information regarding the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Sievert, our Chief Executive Officer. We have calculated the median of our employees' 2022 total annual compensation (excluding our Chief Executive Officer) to be $71,333. Our Chief Executive Officer's total annual compensation for 2022, as set forth in the 2022 Summary Compensation Table above (adjusted to include his employer-paid health benefits with respect to 2022), was $29,074,608. The estimated ratio of the total compensation of Mr. Sievert to the median of the annual total compensation of our employees (other than Mr. Sievert) was 408 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules o"
+   }
+  },
+  "0001193125-22-123750": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000119312522123750/d266878ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001283699-22-000018",
+   "result": {
+    "ceoPay": 22628601,
+    "medianPay": 72572,
+    "payRatio": 312,
+    "method": "cross-checked",
+    "employees": 73876,
+    "statedYear": 2021,
+    "excerpt": "lowing information regarding the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Sievert, our Chief Executive Officer. We have calculated the median of our employees 2021 total annual compensation (excluding our Chief Executive Officer) to be $72,572. Our Chief Executive Officers total annual compensation for 2021, as set forth in the 2021 Summary Compensation Table above (adjusted to include his employer-paid health benefits with respect to 2021), was $22,628,601. The estimated ratio of the total compensation of Mr. Sievert to the median of the annual total compensation of our employees (other than Mr. Sievert) was 312 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules o"
+   }
+  },
+  "0001193125-21-124685": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000119312521124685/d71321ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001283699-21-000039",
+   "result": {
+    "ceoPay": 54931184,
+    "medianPay": 63949,
+    "payRatio": 859,
+    "method": "cross-checked",
+    "employees": 54739,
+    "statedYear": 2020,
+    "excerpt": "lowing information regarding the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Sievert, our Chief Executive Officer. We have calculated the median of our employees 2020 total annual compensation (excluding our Chief Executive Officer) to be $63,949. We experienced a Chief Executive Officer transition effective April 1, 2020 and, as permitted by Item 402(u), for purposes of calculating our 2020 pay ratio, we used the total annual 2020 compensation of Mr. Sievert, who was the Chief Executive Officer serving in such position on the date we identified our median employee. Pursuant to the Sievert Employment Agreement, Mr. Sieverts 2020 compensation was effective as of January 1, 2020, and did not increase when he was appointed Chief Ex"
+   }
+  },
+  "0001193125-20-113504": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000119312520113504/d783130ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001283699-20-000026",
+   "result": {
+    "ceoPay": 27762231,
+    "medianPay": 62195,
+    "payRatio": 446,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "llowing information regarding the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Legere, our Chief Executive Officer. We have calculated the median of our employees 2019 total annual compensation (excluding our Chief Executive Officer) to be $62,195. Our Chief Executive Officers 2019 total annual compensation, as set forth in the 2019 Summary Compensation Table above (adjusted to include his employer-paid health benefits with respect to 2019), was $27,762,231. As a result, the estimated ratio of the total compensation of Mr. Legere to the median of the annual total compensation of our employees (other than the Chief Executive Officer) was 446 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent"
+   }
+  },
+  "0001193125-19-122304": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000119312519122304/d910041ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001283699-19-000015",
+   "result": {
+    "ceoPay": 66543571,
+    "medianPay": 59653,
+    "payRatio": 1116,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "llowing information regarding the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Legere, our Chief Executive Officer. We have calculated the median of our employees 2018 total annual compensation (excluding our Chief Executive Officer) to be $59,653. Our Chief Executive Officers 2018 total annual compensation, as set forth in the 2018 Summary Compensation Table above (adjusted to include his employer-paid health benefits with respect to 2018), was $66,543,571. As a result, the estimated ratio of the total compensation of Mr. Legere to the median of the annual total compensation of our employees (other than the Chief Executive Officer) was 1,116 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consiste"
+   }
+  },
+  "0001193125-18-134957": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1283699/000119312518134957/d527530ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001283699-18-000011",
+   "result": {
+    "ceoPay": 23636334,
+    "medianPay": 55739,
+    "payRatio": 424,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "llowing information regarding the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Legere, our Chief Executive Officer. We have calculated the median of our employees 2017 total annual compensation (excluding our Chief Executive Officer) to be $55,739. Our Chief Executive Officers 2017 total annual compensation, as set forth in the 2017 Summary Compensation Table above (adjusted to include his employer-paid health benefits with respect to 2017), was $23,636,334. As a result, the estimated ratio of the total compensation of Mr. Legere to the median of the annual total compensation of our employees (other than the Chief Executive Officer) was 424 to 1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent"
+   }
+  }
+ },
+ "tenKs": {
+  "0001283699-18-000011": {
+   "parserVersion": 1,
+   "employees": 51000
+  },
+  "0001283699-19-000015": {
+   "parserVersion": 1,
+   "employees": 52000
+  },
+  "0001283699-20-000026": {
+   "parserVersion": 1,
+   "employees": 53000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 2751516000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-051403"
+   },
+   "2009": {
+    "revenue": 3480515000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-051403"
+   },
+   "2010": {
+    "revenue": 4069353000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-051403"
+   },
+   "2011": {
+    "revenue": 20618000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001283699-14-000012"
+   },
+   "2012": {
+    "revenue": 19719000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001283699-15-000010"
+   },
+   "2013": {
+    "revenue": 24420000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001283699-16-000073"
+   },
+   "2014": {
+    "revenue": 29564000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001283699-17-000010"
+   },
+   "2015": {
+    "revenue": 32467000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001283699-18-000011"
+   },
+   "2016": {
+    "revenue": 37490000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001283699-18-000011"
+   },
+   "2017": {
+    "revenue": 40604000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001283699-18-000011"
+   },
+   "2018": {
+    "revenue": 43310000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001283699-21-000039"
+   },
+   "2019": {
+    "revenue": 44998000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001283699-22-000018"
+   },
+   "2020": {
+    "revenue": 68397000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001283699-23-000016"
+   },
+   "2021": {
+    "revenue": 80118000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001283699-24-000008"
+   },
+   "2022": {
+    "revenue": 79571000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001283699-25-000012"
+   },
+   "2023": {
+    "revenue": 78558000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001283699-26-000010"
+   },
+   "2024": {
+    "revenue": 81400000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001283699-26-000010"
+   },
+   "2025": {
+    "revenue": 88309000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001283699-26-000010"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001283699-26-000010",
+    "filingDate": "2026-02-11",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000010/tmus-20251231.htm"
+   },
+   {
+    "accession": "0001283699-25-000012",
+    "filingDate": "2025-01-31",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369925000012/tmus-20241231.htm"
+   },
+   {
+    "accession": "0001283699-24-000008",
+    "filingDate": "2024-02-02",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369924000008/tmus-20231231.htm"
+   },
+   {
+    "accession": "0001283699-23-000016",
+    "filingDate": "2023-02-14",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369923000016/tmus-20221231.htm"
+   },
+   {
+    "accession": "0001283699-22-000018",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369922000018/tmus-20211231.htm"
+   },
+   {
+    "accession": "0001283699-21-000039",
+    "filingDate": "2021-02-23",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369921000039/tmus-20201231.htm"
+   },
+   {
+    "accession": "0001283699-20-000026",
+    "filingDate": "2020-02-06",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369920000026/tmus-20191231.htm"
+   },
+   {
+    "accession": "0001283699-19-000015",
+    "filingDate": "2019-02-07",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369919000015/tmus12312018form10-k.htm"
+   },
+   {
+    "accession": "0001283699-18-000011",
+    "filingDate": "2018-02-08",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369918000011/tmus12312017form10-k.htm"
+   },
+   {
+    "accession": "0001283699-17-000010",
+    "filingDate": "2017-02-14",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1283699/000128369917000010/tmus12312016form10-k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,360 @@
+{
+ "proxies": {
+  "0000726728-26-000021": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672826000021/o-20260325.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000726728-26-000011",
+   "result": {
+    "ceoPay": 16251931,
+    "medianPay": 154939,
+    "payRatio": 105,
+    "method": "cross-checked",
+    "employees": 544,
+    "statedYear": 2025,
+    "excerpt": "rned for 2025, the grant date fair value of equity awards granted during the 2025 measurement period, healthcare costs paid by the Company, matching 401(k) contributions, and the cost of group term life insurance paid by the Company. The annual total compensation of our median employee for 2025 was $154,939. The annual total compensation for 2025 for Mr. Roy, our CEO, was $16,251,931, which includes compensation as disclosed in the \"Summary Compensation Table\" on page 60 . Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 105 to 1. Given the different methodologies that various public companies use to determine an estimate of their pay ratio, the estimated ratio reported above should not"
+   }
+  },
+  "0000726728-25-000080": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672825000080/o-20250326.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000726728-25-000055",
+   "result": {
+    "ceoPay": 15246209,
+    "medianPay": 143475,
+    "payRatio": 106,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ned for 2024, the grant date fair value of equity awards granted during the 2024 measurement period, health care costs paid by the Company, matching 401(k) contributions, and the cost of group term life insurance paid by the Company. The annual total compensation of our median employee for 2024 was $143,475. The annual total compensation for 2024 for Mr. Roy, our CEO, was $15,246,209, which includes compensation as disclosed in the \"Summary Compensation Table\" on page 68 . Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 106 to 1. Given the different methodologies that various public companies use to determine an estimate of their pay ratio, the estimated ratio reported above should not"
+   }
+  },
+  "0000726728-24-000063": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672824000063/o-20240415.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000726728-24-000047",
+   "result": {
+    "ceoPay": 13128810,
+    "medianPay": 134421,
+    "payRatio": 98,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ned for 2023, the grant date fair value of equity awards granted during the 2023 measurement period, health care costs paid by the Company, matching 401(k) contributions, and the cost of group term life insurance paid by the Company. The annual total compensation of our median employee for 2023 was $134,421. The annual total compensation for 2023 for Mr. Roy, our CEO, was $13,128,810, which includes compensation as disclosed in the \"Summary Compensation Table\" on page 63 . Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 98 to 1. Given the different methodologies that various public companies use to determine an estimate of their pay ratio, the estimated ratio reported above should not"
+   }
+  },
+  "0000726728-23-000059": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672823000059/o-20230331.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000726728-23-000044",
+   "result": {
+    "ceoPay": 14286815,
+    "medianPay": 133556,
+    "payRatio": 107,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ned for 2022, the grant date fair value of equity awards granted during the 2022 measurement period, health care costs paid by the Company, matching 401(k) contributions, and the cost of group term life insurance paid by the Company. The annual total compensation of our median employee for 2022 was $133,556. The annual total compensation for 2022 for Mr. Roy, our CEO, was $14,286,815, which includes compensation as disclosed in the \"Summary Compensation Table\" on page 61 . Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 107 to 1. Given the different methodologies that various public companies use to determine an estimate of their pay ratio, the estimated ratio reported above should not"
+   }
+  },
+  "0001104659-22-041381": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/726728/000110465922041381/tm222939-2_pre14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000726728-22-000046",
+   "result": {
+    "ceoPay": 12861011,
+    "medianPay": 136304,
+    "payRatio": 94,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "s earned for 2021, the grant date fair value of equity awards granted during the 2021 measurement period, health care costs paid by the us, matching 401(k) contributions, and the cost of group term life insurance paid by the Company. The annual total compensation of our median employee for 2021 was $136,304. The annual total compensation for 2021 for Mr. Roy, our CEO, was $12,861,011, which includes compensation as disclosed in the \"Summary Compensation Table\" on page 67 . Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 94 to 1. Given the different methodologies that various public companies use to determine an estimate of their pay ratio, the estimated ratio reported above should not"
+   }
+  },
+  "0001140361-21-011229": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/726728/000114036121011229/nc10020951x1_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000726728-21-000043",
+   "result": {
+    "ceoPay": 7810636,
+    "medianPay": 106238,
+    "payRatio": 74,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "al cash bonus earned for 2020, the grant date fair value of equity awards granted during the 2020 measurement period, health care costs paid by the us, matching 401(k) contributions, and the taxable cost of group term life insurance. The annual total compensation of our median employee for 2020 was $106,238. The annual total compensation for 2020 for Mr. Roy, our CEO, was $7,810,636, which includes compensation as disclosed in the \"Summary Compensation Table\" on page 60 . Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 74 to 1. Given the different methodologies that various public companies use to determine an estimate of their pay ratio, the estimated ratio reported above should not b"
+   }
+  },
+  "0001140361-20-007691": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/726728/000114036120007691/nc10007826x1_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000726728-20-000033",
+   "result": {
+    "ceoPay": 7538883,
+    "medianPay": 99644,
+    "payRatio": 76,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "sh bonus earned for 2019, the grant date fair value of equity awards granted during the 2019 measurement period, health care costs paid by the company, matching 401(k) contributions, and the taxable cost of group term life insurance. The annual total compensation of our median employee for 2019 was $99,644. The annual total compensation for 2019 for Mr. Roy, our CEO, was $7,538,883, which includes compensation as disclosed in the \"Summary Compensation Table\" on page 47 . Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 76 to 1. Given the different methodologies that various public companies use to determine an estimate of their pay ratio, the estimated ratio reported above should not be"
+   }
+  },
+  "0001140361-19-006239": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/726728/000114036119006239/bp18522x2_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000726728-19-000038",
+   "result": {
+    "ceoPay": 8054588,
+    "medianPay": 97630,
+    "payRatio": 83,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "sh bonus earned for 2018, the grant date fair value of equity awards granted during the 2018 measurement period, health care costs paid by the company, matching 401(k) contributions, and the taxable cost of group term life insurance. The annual total compensation of our median employee for 2018 was $97,630. The annual total compensation for 2018 for Mr. Roy, our CEO, was $8,054,588, which includes compensation as disclosed in the Summary Compensation Table on page 49, with the exception of Mr. Roy's 2018 base salary and bonus, which have been annualized for the purposes of this calculation. This amount also includes health care costs paid by the company. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our med"
+   }
+  },
+  "0001140361-18-016400": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/726728/000114036118016400/bp00306x1.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001104659-18-011376",
+   "result": {
+    "ceoPay": 10066345,
+    "medianPay": 114692,
+    "payRatio": 88,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "us earned for 2017, the grant date fair value of equity awards granted during the 2017 measurement period, health care costs paid by the company, matching 401(k) contributions, and the cost of term life insurance paid by the company. The annual total compensation of our median employee for 2017 was $114,692. Our Chief Executive Officers' annual total compensation for 2017 was $10,066,345, which includes compensation as disclosed in the Summary Compensation Table on page 38 and health care costs paid by the company. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 88 to 1. | Realty Income | 2018 Proxy Statement | | 47 | | | | | Section 16(a) Beneficial Ownership Reporting Compliance Sect"
+   }
+  }
+ },
+ "tenKs": {
+  "0001104659-18-011376": {
+   "parserVersion": 1,
+   "employees": 152
+  },
+  "0000726728-19-000038": {
+   "parserVersion": 1,
+   "employees": 165
+  },
+  "0000726728-20-000033": {
+   "parserVersion": 1,
+   "employees": 194
+  },
+  "0000726728-21-000043": {
+   "parserVersion": 1,
+   "employees": 210
+  },
+  "0000726728-22-000046": {
+   "parserVersion": 1,
+   "employees": 371
+  },
+  "0000726728-23-000044": {
+   "parserVersion": 1,
+   "employees": 395
+  },
+  "0000726728-24-000047": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000726728-25-000055": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 325041000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000726728-11-000013"
+   },
+   "2009": {
+    "revenue": 322550000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001140361-12-007480"
+   },
+   "2010": {
+    "revenue": 343492000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001140361-12-007480"
+   },
+   "2011": {
+    "revenue": 421059000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001140361-12-007480"
+   },
+   "2012": {
+    "revenue": 484581000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001104659-15-011630"
+   },
+   "2013": {
+    "revenue": 780209000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001104659-16-095923"
+   },
+   "2014": {
+    "revenue": 933505000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001104659-17-011170"
+   },
+   "2015": {
+    "revenue": 1023285000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001104659-18-011376"
+   },
+   "2016": {
+    "revenue": 1103172000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000726728-19-000041"
+   },
+   "2017": {
+    "revenue": 1215768000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000726728-20-000033"
+   },
+   "2018": {
+    "revenue": 1327838000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000726728-21-000043"
+   },
+   "2019": {
+    "revenue": 1488163000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000726728-22-000046"
+   },
+   "2020": {
+    "revenue": 1647087000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000726728-23-000044"
+   },
+   "2021": {
+    "revenue": 2080463000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000726728-24-000047"
+   },
+   "2022": {
+    "revenue": 3343681000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000726728-25-000055"
+   },
+   "2023": {
+    "revenue": 4078993000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000726728-26-000011"
+   },
+   "2024": {
+    "revenue": 5271142000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000726728-26-000011"
+   },
+   "2025": {
+    "revenue": 5749377000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000726728-26-000011"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000726728-26-000011",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672826000011/o-20251231.htm"
+   },
+   {
+    "accession": "0000726728-25-000055",
+    "filingDate": "2025-02-25",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672825000055/o-20241231.htm"
+   },
+   {
+    "accession": "0000726728-24-000047",
+    "filingDate": "2024-02-21",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672824000047/o-20231231.htm"
+   },
+   {
+    "accession": "0000726728-23-000044",
+    "filingDate": "2023-02-22",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672823000044/o-20221231.htm"
+   },
+   {
+    "accession": "0000726728-22-000046",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672822000046/o-20211231.htm"
+   },
+   {
+    "accession": "0000726728-21-000043",
+    "filingDate": "2021-02-23",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672821000043/o-20201231.htm"
+   },
+   {
+    "accession": "0000726728-20-000033",
+    "filingDate": "2020-02-24",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672820000033/realtyincome10k2019.htm"
+   },
+   {
+    "accession": "0000726728-19-000038",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/726728/000072672819000038/realtyincome10k2018.htm"
+   },
+   {
+    "accession": "0001104659-18-011376",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/726728/000110465918011376/a18-1096_110k.htm"
+   },
+   {
+    "accession": "0001104659-17-011170",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/726728/000110465917011170/a17-1163_110k.htm"
+   }
+  ]
+ }
+}

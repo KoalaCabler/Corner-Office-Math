@@ -1,0 +1,221 @@
+{
+ "proxies": {
+  "0001308179-26-000125": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000130817926000125/uber014597-def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001543151-26-000015",
+   "result": {
+    "ceoPay": 35595826,
+    "medianPay": 98826,
+    "payRatio": 360,
+    "method": "cross-checked",
+    "employees": 33354,
+    "statedYear": 2025,
+    "excerpt": "yet reflect Uber's compensation philosophy. For purposes of this disclosure, we converted employee compensation from local currency to U.S. dollars using the exchange rate on the Determination Date. For fiscal year 2025, the annual total compensation for the median employee (excluding our CEO) was $98,826 and annual total compensation of our CEO was $35,595,826. Based on this information, for fiscal year 2025, we estimate that the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 360 to 1. The pay ratio described above is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. SEC rules for identifying the median employee permit companies to use a wide range of methodologies, assumptions and ex"
+   }
+  },
+  "0001308179-25-000210": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000130817925000210/uber013353-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001543151-25-000008",
+   "result": {
+    "ceoPay": 39408629,
+    "medianPay": 92958,
+    "payRatio": 424,
+    "method": "cross-checked",
+    "employees": 31049,
+    "statedYear": 2024,
+    "excerpt": ", 2024 (Determination Date) in 64 countries. For purposes of this disclosure, we converted employee compensation from local currency to U.S. dollars using the exchange rate on the Determination Date. For fiscal year 2024, the annual total compensation for the median employee (excluding our CEO) was $92,958. Our median employee is an entry level Operations Manager, based in Hong Kong. Annual total compensation of our CEO was $39,408,629. Based on this information, for fiscal year 2024, we estimate that the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 424 to 1. The pay ratio described above is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. SEC rules for identifying the median employe"
+   }
+  },
+  "0001552781-24-000177": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278124000177/e24048_uber-def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001543151-24-000012",
+   "result": {
+    "ceoPay": 24248209,
+    "medianPay": 83077,
+    "payRatio": 292,
+    "method": "cross-checked",
+    "employees": 32350,
+    "statedYear": 2023,
+    "excerpt": ", 2023 (Determination Date) in 66 countries. For purposes of this disclosure, we converted employee compensation from local currency to U.S. dollars using the exchange rate on the Determination Date. For fiscal year 2023, the annual total compensation for the median employee (excluding our CEO) was $83,077. Our median employee is an entry level Account Manager, based in the UK. Annual total compensation of our CEO was $24,248,209. Based on this information, for fiscal year 2023, we estimate that the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 292 to 1. The pay ratio described above is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. SEC rules for identifying the median employee perm"
+   }
+  },
+  "0001552781-23-000193": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278123000193/e23076_uber-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001543151-23-000010",
+   "result": {
+    "ceoPay": 24276977,
+    "medianPay": 76767,
+    "payRatio": 316,
+    "method": "cross-checked",
+    "employees": 32900,
+    "statedYear": 2022,
+    "excerpt": "22 (Determination Date) in 63 countries. For purposes of this disclosure, we converted employee compensation from local currency to U.S. dollars using the exchange rate on the Determination Date. For fiscal 2022, the annual total compensation for the median employee of Uber (other than our CEO) was $76,767, and the annual total compensation of our CEO was $24,276,977, which was an increase from last year. The increase in Mr. Khosrowshahi's year-over-year compensation was primarily due to an increase in his equity grant for 2022. Based on this information, for fiscal year 2022, we estimate that the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 316 to 1. The ratio is higher in 2022 than 2021 due to Mr. Khosrowshahi's increased y"
+   }
+  },
+  "0001552781-22-000289": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278122000289/e22079_uber-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001543151-22-000008",
+   "result": {
+    "ceoPay": 19937818,
+    "medianPay": 81825,
+    "payRatio": 244,
+    "method": "cross-checked",
+    "employees": 22400,
+    "statedYear": 2021,
+    "excerpt": "reflect Uber's compensation philosophy. For purposes of this disclosure, we converted employee compensation from local currency to U.S. dollars using the exchange rate on the Determination Date. For fiscal 2021, the annual total compensation for the median employee of Uber (other than our CEO) was $81,825, and the annual total compensation of our CEO was $19,937,818, which was an increase from last year. The increase in Mr. Khosrowshahi's year-over-year compensation was primarily due to him voluntarily waiving his salary from May 1, 2020 through December 31, 2020, an increase in the grant date fair value of his equity awards captured in 2021 as a result of implementing more three-year goals in the 2021 PRSU program, and an increase in his equity grant for 2021. Based on this information,"
+   }
+  },
+  "0001552781-21-000157": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278121000157/e21146_uber-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001543151-21-000014",
+   "result": {
+    "ceoPay": 12246078,
+    "medianPay": 99382,
+    "payRatio": 123,
+    "method": "cross-checked",
+    "employees": 19000,
+    "statedYear": 2020,
+    "excerpt": "reflect Uber's compensation philosophy. For purposes of this disclosure, we converted employee compensation from local currency to U.S. dollars using the exchange rate on the Determination Date. For fiscal 2020, the annual total compensation for the median employee of Uber (other than our CEO) was $99,382, and the annual total compensation of our CEO was $12,246,078. Based on this information, for fiscal year 2020, we estimate that the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 123 to 1. The pay ratio described above is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. SEC rules for identifying the median employee permit companies to use a wide range of methodologies, assumptions a"
+   }
+  },
+  "0001552781-20-000238": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278120000238/e20161_uber-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001543151-20-000010",
+   "result": null
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2017": {
+    "revenue": 7932000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001543151-20-000010"
+   },
+   "2018": {
+    "revenue": 10433000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001543151-21-000014"
+   },
+   "2019": {
+    "revenue": 13000000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001543151-22-000008"
+   },
+   "2020": {
+    "revenue": 11139000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001543151-23-000010"
+   },
+   "2021": {
+    "revenue": 17455000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001543151-24-000012"
+   },
+   "2022": {
+    "revenue": 31877000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001543151-25-000008"
+   },
+   "2023": {
+    "revenue": 37281000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001543151-26-000015"
+   },
+   "2024": {
+    "revenue": 43978000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001543151-26-000015"
+   },
+   "2025": {
+    "revenue": 52017000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001543151-26-000015"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 19937818,
+   "2022": 24276977,
+   "2023": 24248209,
+   "2024": 39408629,
+   "2025": 35595826
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001543151-26-000015",
+    "filingDate": "2026-02-13",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315126000015/uber-20251231.htm"
+   },
+   {
+    "accession": "0001543151-25-000008",
+    "filingDate": "2025-02-14",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315125000008/uber-20241231.htm"
+   },
+   {
+    "accession": "0001543151-24-000012",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315124000012/uber-20231231.htm"
+   },
+   {
+    "accession": "0001543151-23-000010",
+    "filingDate": "2023-02-21",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315123000010/uber-20221231.htm"
+   },
+   {
+    "accession": "0001543151-22-000008",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315122000008/uber-20211231.htm"
+   },
+   {
+    "accession": "0001543151-21-000014",
+    "filingDate": "2021-03-01",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315121000014/uber-20201231.htm"
+   },
+   {
+    "accession": "0001543151-20-000010",
+    "filingDate": "2020-03-02",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000154315120000010/fy2019q410kfinancialst.htm"
+   }
+  ]
+ }
+}

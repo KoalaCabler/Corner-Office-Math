@@ -1,0 +1,354 @@
+{
+ "proxies": {
+  "0001104659-26-034163": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000004962-26-000080",
+   "result": {
+    "ceoPay": 46239805,
+    "medianPay": 56827,
+    "payRatio": 814,
+    "method": "cross-checked",
+    "employees": 25600,
+    "statedYear": 2025,
+    "excerpt": "Other Information | | | TABLE OF CONTENTS • 84 2026 PROXY STATEMENT Pay Ratio CEO Pay Ratio In accordance with SEC rules, this year we identified a new median compensated employee as the last median employee was identified for our 2023 disclosure. Our CEO to median compensated employee pay ratio is 814:1. This reflects Mr. Squeri's compensation as reported in the 2025 Summary Compensation Table of $46,239,805, and the equivalent annual total compensation for the identified median compensated employee of $56,827. Median Total Annual Compensation Methodology To determine our median compensated employee, we reviewed our worldwide colleague population, consisting of approximately 25,600 U.S. colleagues and 48,100 non-U.S. colleagues, excluding our CEO, who were employed as of November 30, 2025"
+   }
+  },
+  "0001193125-25-054588": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312525054588/d804836ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000004962-25-000016",
+   "result": {
+    "ceoPay": 37164405,
+    "medianPay": 60421,
+    "payRatio": 615,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "| | Equity compensation plans not approved by shareholders | | | | | | | | - | | | | | | | | | - | | | | | | | | | - | | | | | | | Total | | | | | | | | 2,717,832 | | | | | | | $ | | 139.54 | | | | | | | | | 19,738,214 | | Pay Ratio CEO Pay Ratio Our CEO to median compensated employee pay ratio is 615:1, with the 2024 Summary Compensation Table annual total compensation amount for Mr. Squeri being $37,164,405 and the equivalent annual total compensation for the identified median compensated employee being $60,421. To calculate the annual total compensation for the identified median employee, we used the same methodology as set forth in the \"2024 Summary Compensation Table\" in this Proxy Statement and did not make any assumptions, adjustments or estimates with respect to their total compen"
+   }
+  },
+  "0001193125-24-068837": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312524068837/d558747ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000004962-24-000013",
+   "result": {
+    "ceoPay": 35676905,
+    "medianPay": 52680,
+    "payRatio": 677,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "| | | Equity compensation plans not approved by shareholders | | | | | | | | - | | | | | | | | | - | | | | | | | | | - | | | | | | | Total | | | | | | | | 3,553,439 | | | | | | | $ | | 119.80 | | | | | | | | | 6,849,506 | | Pay Ratio CEO Pay Ratio Our CEO to median compensated employee pay ratio is 677:1, with the 2023 Summary Compensation Table annual total compensation amount for Mr. Squeri being $35,676,905 and the equivalent annual total compensation for the identified median compensated employee being $52,680. To calculate the annual total compensation for the identified median employee, we used the same methodology as set forth in the \"2023 Summary Compensation Table\" in this Proxy Statement and did not make any assumptions, adjustments or estimates with respect to their total compen"
+   }
+  },
+  "0001193125-23-073923": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312523073923/d326074ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000004962-23-000006",
+   "result": {
+    "ceoPay": 48029631,
+    "medianPay": 49409,
+    "payRatio": 972,
+    "method": "cross-checked",
+    "employees": 26000,
+    "statedYear": null,
+    "excerpt": "89 | | | | | | | | $ | | 113.80 | | | | | | | | | | 9,227,057 | | | Pay Ratio CEO Pay Ratio In accordance with SEC rules, this year we identified a new median compensated employee as the last median employee was identified for our 2020 disclosure. Our CEO to median compensated employee pay ratio is 972:1. This reflects Mr. Squeri's compensation as reported in the 2022 Summary Compensation Table of $48,029,631, which includes the 2022 Special Award, and the equivalent annual total compensation for the identified median compensated employee of $49,409. The change in median compensated employee is a result of approximately 20% growth in our number of colleagues since 2020. This growth has been predominantly within our junior front-line roles in geographies where compensation rates are lower r"
+   }
+  },
+  "0001193125-22-079264": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312522079264/d235027ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000004962-22-000008",
+   "result": {
+    "ceoPay": 25513922,
+    "medianPay": 67460,
+    "payRatio": 378,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "Equity compensation plans not approved by shareholders | | | | | | | | 0 | | | | | | | | | | 0 | | | | | | | | | | 0 | | | | | | | | | | | | Total | | | | | | | | 3,103,467 | | | | | | | | $ | | 93.33 | | | | | | | | | | 11,887,743 | | | Pay Ratio Our CEO to median compensated employee pay ratio is 378:1, with the 2021 Summary Compensation Table annual total compensation amount for Mr. Squeri being $25,513,922 and the equivalent annual total compensation for the identified median compensated employee being $67,460. To calculate the annual total compensation for the identified median employee, we used the same methodology as set forth in the 2021 Summary Compensation Table in this proxy statement and did not make any assumptions, adjustments or estimates with respect to their total compensa"
+   }
+  },
+  "0001193125-21-087284": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312521087284/d919404ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000004962-21-000013",
+   "result": {
+    "ceoPay": 24221319,
+    "medianPay": 61188,
+    "payRatio": 396,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "418,844 | | | | Equity compensation plans not approved by shareholders | | | | | | | | 0 | | | | | | | | | | 0 | | | | | | | | | | 0 | | | | Total | | | | | | | | 3,750,678 | | | | | | | | $ | | 83.59 | | | | | | | | | | 14,418,844 | | | Pay Ratio Our CEO to median compensated employee pay ratio is 396:1, with the 2020 Summary Compensation Table annual total compensation amount for Mr. Squeri being $24,221,319 and the equivalent annual total compensation for the identified median compensated employee being $61,188. To calculate the annual total compensation for the identified median employee, we used the same methodology as set forth in the 2020 Summary Compensation Table in this proxy statement and did not make any assumptions, adjustments or estimates with respect to their total compensa"
+   }
+  },
+  "0001193125-20-083487": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312520083487/d804770ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000004962-20-000030",
+   "result": {
+    "ceoPay": 23796002,
+    "medianPay": 64803,
+    "payRatio": 367,
+    "method": "cross-checked",
+    "employees": 22000,
+    "statedYear": 2019,
+    "excerpt": "72.70 | | | | | | | | 9,497,564 | | | | Equity compensation plans not approved by shareholders | | | | | | 0 | | | | | | | | 0 | | | | | | | | 0 | | | | TOTAL | | | | | | 4,171,773 | | | | | | $ | | 72.70 | | | | | | | | 9,497,564 | | | Pay Ratio Our CEO to median compensated employee pay ratio is 367:1, with the 2019 Summary Compensation Table annual total compensation amount for Mr. Squeri being $23,796,002 and the equivalent annual total compensation for the identified median compensated employee being $64,803. We identified a new median compensated employee this year considering increases in our employee population since our 2018 calculation and disclosure. To determine our median compensated employee, we reviewed our worldwide employee population, consisting of approximately 22,000 U"
+   }
+  },
+  "0001206774-19-000869": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/4962/000120677419000869/axp3463051-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000004962-19-000018",
+   "result": {
+    "ceoPay": 17353942,
+    "medianPay": 56756,
+    "payRatio": 306,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ed by shareholders | | | | 5,484,040 | | | | $ | | 64.73 | | | | 11,884,897 | | Equity compensation plans not approved by shareholders | | | | 0 | | | | | | 0 | | | | 0 | | TOTAL | | | | 5,484,040 | | | | $ | | 64.73 | | | | 11,884,897 | Pay Ratio Our CEO to median compensated employee pay ratio is 306:1, with the 2018 Total Compensation number for Mr. Squeri being $17,353,942 and the equivalent number for the identified median employee being $56,756. Since the Company had two CEOs in 2018, we annualized the compensation of Mr. Squeri, who was CEO on November 30, 2018, which results in a 2018 total compensation number that is $12,500 higher than the total compensation for Mr. Squeri in the Summary Compensation Table. To calculate the annual total compensation for the identified median empl"
+   }
+  },
+  "0001206774-18-000866": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/4962/000120677418000866/amex3289431-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000004962-18-000032",
+   "result": {
+    "ceoPay": 18611373,
+    "medianPay": 56873,
+    "payRatio": 327,
+    "method": "cross-checked",
+    "employees": 19864,
+    "statedYear": null,
+    "excerpt": "henault | | | | 87,777 | | | | 87,777 | | S.J. Squeri | | | | 27,777 | | | | 27,777 | | D.E. Buckminster | | | | 13,111 | | | | 13,111 | | J.C. Campbell | | | | 25,777 | | | | 25,777 | | L. E. Seeger | | | | 17,777 | | | | 17,777 | Other Pay Ratio Our CEO to median compensated employee pay ratio is 327:1, with the Summary Compensation Table number for Mr. Chenault being $18,611,373 and the equivalent number for the identified median employee being $56,873. To calculate our median compensated employee, we reviewed our worldwide employee population, consisting of 19,864 U.S. employees and 33,985 non-U.S. employees, and examined the 2017 total compensation for all employees, excluding our CEO, who were employed by us as of November 30, 2017. As our non-U.S. employees exceed 5 percent of our t"
+   }
+  }
+ },
+ "tenKs": {
+  "0000004962-19-000018": {
+   "parserVersion": 1,
+   "employees": 59000
+  },
+  "0000004962-21-000013": {
+   "parserVersion": 1,
+   "employees": 63700
+  },
+  "0000004962-22-000008": {
+   "parserVersion": 1,
+   "employees": 64000
+  },
+  "0000004962-24-000013": {
+   "parserVersion": 1,
+   "employees": 74600
+  },
+  "0000004962-25-000016": {
+   "parserVersion": 1,
+   "employees": 75100
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 7424000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001193125-10-041232"
+   },
+   "2008": {
+    "revenue": 28365000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-019072"
+   },
+   "2009": {
+    "revenue": 24523000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-019072"
+   },
+   "2010": {
+    "revenue": 27819000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-019072"
+   },
+   "2011": {
+    "revenue": 6696000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001193125-14-066777"
+   },
+   "2012": {
+    "revenue": 6854000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001193125-15-059931"
+   },
+   "2013": {
+    "revenue": 7005000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001193125-16-469798"
+   },
+   "2014": {
+    "revenue": 7179000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001193125-17-047588"
+   },
+   "2015": {
+    "revenue": 32818000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000004962-18-000032"
+   },
+   "2016": {
+    "revenue": 35438000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000004962-19-000018"
+   },
+   "2017": {
+    "revenue": 36878000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000004962-20-000030"
+   },
+   "2018": {
+    "revenue": 40338000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000004962-21-000013"
+   },
+   "2019": {
+    "revenue": 43556000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000004962-22-000008"
+   },
+   "2020": {
+    "revenue": 36087000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000004962-23-000006"
+   },
+   "2021": {
+    "revenue": 42380000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000004962-24-000013"
+   },
+   "2022": {
+    "revenue": 52862000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000004962-25-000016"
+   },
+   "2023": {
+    "revenue": 60515000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000004962-26-000080"
+   },
+   "2024": {
+    "revenue": 65949000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000004962-26-000080"
+   },
+   "2025": {
+    "revenue": 72229000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenuesNetOfInterestExpense",
+    "accession": "0000004962-26-000080"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000004962-26-000080",
+    "filingDate": "2026-02-06",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000080/axp-20251231.htm"
+   },
+   {
+    "accession": "0000004962-25-000016",
+    "filingDate": "2025-02-07",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496225000016/axp-20241231.htm"
+   },
+   {
+    "accession": "0000004962-24-000013",
+    "filingDate": "2024-02-09",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496224000013/axp-20231231.htm"
+   },
+   {
+    "accession": "0000004962-23-000006",
+    "filingDate": "2023-02-10",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496223000006/axp-20221231.htm"
+   },
+   {
+    "accession": "0000004962-22-000008",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496222000008/axp-20211231.htm"
+   },
+   {
+    "accession": "0000004962-21-000013",
+    "filingDate": "2021-02-12",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496221000013/axp-20201231.htm"
+   },
+   {
+    "accession": "0000004962-20-000030",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496220000030/axp-20191231.htm"
+   },
+   {
+    "accession": "0000004962-19-000018",
+    "filingDate": "2019-02-13",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496219000018/axp201810k.htm"
+   },
+   {
+    "accession": "0000004962-18-000032",
+    "filingDate": "2018-02-16",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000000496218000032/axp201710k.htm"
+   },
+   {
+    "accession": "0001193125-17-047588",
+    "filingDate": "2017-02-17",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312517047588/d321397d10k.htm"
+   }
+  ]
+ }
+}

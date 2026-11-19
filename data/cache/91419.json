@@ -1,0 +1,350 @@
+{
+ "proxies": {
+  "0001193125-26-283858": {
+   "parserVersion": 1,
+   "filingDate": "2026-06-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000119312526283858/d227901ddef14a.htm",
+   "periodEnd": "2026-04-30",
+   "tenK": "0000091419-26-000050",
+   "result": {
+    "ceoPay": 10935216,
+    "medianPay": 77698,
+    "payRatio": 141,
+    "method": "cross-checked",
+    "employees": 9079,
+    "statedYear": 2026,
+    "excerpt": "annual total compensation to each other. The annual total compensation values are calculated in accordance with SEC rules applicable to the Summary Compensation Table. The values are as follows for fiscal year 2026, our last completed fiscal year: | | | | | Mark Smucker's annual total compensation: $10,935,216; | | | | | | Our median employee's annual total compensation: $77,698; and | | | | | | Ratio of Mark Smucker's annual total compensation to our median employee's annual total compensation: 141 to 1. | Pay Ratio Methodology To prepare the pay ratio analysis, SEC rules allow us to select a methodology for identifying our median employee in a manner that is most appropriate based on our size, organizational structure, and compensation plans, policies, and procedures. For the purposes of"
+   }
+  },
+  "0001193125-25-149673": {
+   "parserVersion": 1,
+   "filingDate": "2025-06-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000119312525149673/d876403ddef14a.htm",
+   "periodEnd": "2025-04-30",
+   "tenK": "0000091419-25-000056",
+   "result": {
+    "ceoPay": 10976383,
+    "medianPay": 79561,
+    "payRatio": 138,
+    "method": "cross-checked",
+    "employees": 9079,
+    "statedYear": 2025,
+    "excerpt": "annual total compensation to each other. The annual total compensation values are calculated in accordance with SEC rules applicable to the Summary Compensation Table. The values are as follows for fiscal year 2025, our last completed fiscal year: | | | | | Mark Smucker's annual total compensation: $10,976,383; | | | | | | Our median employee's annual total compensation: $79,561; and | | | | | | Ratio of Mark Smucker's annual total compensation to our median employee's annual total compensation: 138 to 1. | Pay Ratio Methodology To prepare the pay ratio analysis, SEC rules allow us to select a methodology for identifying our median employee in a manner that is most appropriate based on our size, organizational structure, and compensation plans, policies, and procedures. For the purposes of"
+   }
+  },
+  "0001193125-24-171203": {
+   "parserVersion": 1,
+   "filingDate": "2024-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000119312524171203/d834843ddef14a.htm",
+   "periodEnd": "2024-04-30",
+   "tenK": "0000091419-24-000054",
+   "result": {
+    "ceoPay": 10367569,
+    "medianPay": 78111,
+    "payRatio": 133,
+    "method": "cross-checked",
+    "employees": 9079,
+    "statedYear": 2024,
+    "excerpt": "annual total compensation to each other. The annual total compensation values are calculated in accordance with SEC rules applicable to the Summary Compensation Table. The values are as follows for fiscal year 2024, our last completed fiscal year: | | | | | Mark Smucker's annual total compensation: $10,367,569; | | | | | | Our median employee's annual total compensation: $78,111; and | | | | | | Ratio of Mark Smucker's annual total compensation to our median employee's annual total compensation: 133 to 1. | Pay Ratio Methodology To prepare the pay ratio analysis, SEC rules allow us to select a methodology for identifying our median employee in a manner that is most appropriate based on our size, organizational structure, and compensation plans, policies, and procedures. As permitted under"
+   }
+  },
+  "0001193125-23-179232": {
+   "parserVersion": 1,
+   "filingDate": "2023-06-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000119312523179232/d462924ddef14a.htm",
+   "periodEnd": "2023-04-30",
+   "tenK": "0000091419-23-000072",
+   "result": {
+    "ceoPay": 11348537,
+    "medianPay": 74353,
+    "payRatio": 153,
+    "method": "cross-checked",
+    "employees": 6676,
+    "statedYear": 2022,
+    "excerpt": "ual total compensation to each other. The annual total compensation values are calculated in accordance with SEC rules applicable to the Summary Compensation Table. The values are as follows for fiscal year 2023, our last completed fiscal year: | | | | | Mark T. Smucker's annual total compensation: $11,348,537; | | | | | | Our median employee's annual total compensation: $74,353; and | | | | | | Ratio of Mark T. Smucker's annual total compensation to our median employee's annual total compensation: 153 to 1. | Pay Ratio Methodology To prepare the pay ratio analysis, SEC rules allow us to select a methodology for identifying our median employee in a manner that is most appropriate based on our size, organizational structure, and compensation plans, policies, and procedures. As permitted und"
+   }
+  },
+  "0001193125-22-188985": {
+   "parserVersion": 1,
+   "filingDate": "2022-07-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000119312522188985/d202327ddef14a.htm",
+   "periodEnd": "2022-04-30",
+   "tenK": "0000091419-22-000049",
+   "result": {
+    "ceoPay": 8511639,
+    "medianPay": 86742,
+    "payRatio": 98,
+    "method": "cross-checked",
+    "employees": 6676,
+    "statedYear": 2021,
+    "excerpt": "ual total compensation to each other. The annual total compensation values are calculated in accordance with SEC rules applicable to the Summary Compensation Table. The values are as follows for fiscal year 2022, our last completed fiscal year: | | | | | Mark T. Smuckers annual total compensation: $8,511,639; | | | | | | Our median employees annual total compensation: $86,742; and | | | | | | Ratio of Mark T. Smuckers annual total compensation to our median employees annual total compensation: 98 to 1. | Pay Ratio Methodology To prepare the pay ratio analysis, SEC rules allow us to select a methodology for identifying our median employee in a manner that is most appropriate based on our size, organizational structure, and compensation plans, policies, and procedures. As permitted under"
+   }
+  },
+  "0001193125-21-206344": {
+   "parserVersion": 1,
+   "filingDate": "2021-07-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000119312521206344/d127394ddef14a.htm",
+   "periodEnd": "2021-04-30",
+   "tenK": "0000091419-21-000048",
+   "result": {
+    "ceoPay": 12450437,
+    "medianPay": 87098,
+    "payRatio": 143,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ual total compensation to each other. The annual total compensation values are calculated in accordance with SEC rules applicable to the Summary Compensation Table. The values are as follows for fiscal year 2021, our last completed fiscal year: | | | | | Mark T. Smuckers annual total compensation: $12,450,437 | | | | | | Our median employees annual total compensation: $87,098 | | | | | | Ratio of Mark T. Smuckers annual total compensation to our median employees annual total compensation: 143 to 1 | Pay Ratio Methodology To prepare the pay ratio analysis, SEC rules allow us to select a methodology for identifying our median employee in a manner that is most appropriate based on our size, organizational structure, and compensation plans, policies, and procedures. As permitted under SEC"
+   }
+  },
+  "0001193125-20-185234": {
+   "parserVersion": 1,
+   "filingDate": "2020-07-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000119312520185234/d922453ddef14a.htm",
+   "periodEnd": "2020-04-30",
+   "tenK": "0000091419-20-000065",
+   "result": {
+    "ceoPay": 10728961,
+    "medianPay": 79071,
+    "payRatio": 136,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ual total compensation to each other. The annual total compensation values are calculated in accordance with SEC rules applicable to the Summary Compensation Table. The values are as follows for fiscal year 2020, our last completed fiscal year: | | | | | Mark T. Smuckers annual total compensation: $10,728,961 | | | | | | Our median employees annual total compensation: $79,071 | | | | | | Ratio of Mark T. Smuckers annual total compensation to our median employees annual total compensation: 136:1 | Pay Ratio Methodology To prepare the pay ratio analysis, SEC rules allow us to select a methodology for identifying our median employee in a manner that is most appropriate based on our size, organizational structure, and compensation plans, policies, and procedures. For purposes of calculatin"
+   }
+  },
+  "0001193125-19-184986": {
+   "parserVersion": 1,
+   "filingDate": "2019-06-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000119312519184986/d829052ddef14a.htm",
+   "periodEnd": "2019-04-30",
+   "tenK": "0000091419-19-000005",
+   "result": {
+    "ceoPay": 8056890,
+    "medianPay": 71045,
+    "payRatio": 113,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "ual total compensation to each other. The annual total compensation values are calculated in accordance with SEC rules applicable to the Summary Compensation Table. The values are as follows for fiscal year 2019, our last completed fiscal year: | | | | | Mark T. Smuckers annual total compensation: $8,056,890 | | | | | | Our median employees annual total compensation: $71,045 | | | | | | Ratio of Mark T. Smuckers annual total compensation to our median employees annual total compensation: 113:1 | Pay Ratio Methodology To prepare the pay ratio analysis, SEC rules allow us to select a methodology for identifying our median employee in a manner that is most appropriate based on our size, organizational structure, and compensation plans, policies, and procedures. As permitted under SEC rule"
+   }
+  },
+  "0001193125-18-208398": {
+   "parserVersion": 1,
+   "filingDate": "2018-06-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/91419/000119312518208398/d586848ddef14a.htm",
+   "periodEnd": "2018-04-30",
+   "tenK": "0000091419-18-000005",
+   "result": {
+    "ceoPay": 6745939,
+    "medianPay": 75742,
+    "payRatio": 89,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "tal compensation to each other. The annual total compensation values are calculated in accordance with SEC rules applicable to the Summary Compensation Table. The values are as follows for fiscal year 2018, our last completed fiscal year: | | |  | | | | Mark T. Smuckers annual total compensation: $6,745,939 | | | |  | | | | Our median employees annual total compensation: $75,742 | | | |  | | | | Ratio of Mark T. Smuckers annual total compensation to our median employees annual total compensation: 89:1 | Pay Ratio Methodology To prepare the pay ratio analysis, SEC rules allow us to select a methodology for identifying our median employee in a manner that is most appropriate based on our size, organizational structure, and compensation plans, policies, and procedures. In determining o"
+   }
+  }
+ },
+ "tenKs": {
+  "0000091419-18-000005": {
+   "parserVersion": 1,
+   "employees": 7000
+  },
+  "0000091419-19-000005": {
+   "parserVersion": 1,
+   "employees": 7400
+  },
+  "0000091419-20-000065": {
+   "parserVersion": 1,
+   "employees": 7300
+  },
+  "0000091419-21-000048": {
+   "parserVersion": 1,
+   "employees": 160
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 3757933000,
+    "periodEnd": "2009-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000950123-11-062373"
+   },
+   "2010": {
+    "revenue": 4605289000,
+    "periodEnd": "2010-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-12-282260"
+   },
+   "2011": {
+    "revenue": 4825700000,
+    "periodEnd": "2011-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-13-266625"
+   },
+   "2012": {
+    "revenue": 5525800000,
+    "periodEnd": "2012-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-14-245437"
+   },
+   "2013": {
+    "revenue": 5897700000,
+    "periodEnd": "2013-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-15-235197"
+   },
+   "2014": {
+    "revenue": 5610600000,
+    "periodEnd": "2014-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000091419-16-000007"
+   },
+   "2015": {
+    "revenue": 5692700000,
+    "periodEnd": "2015-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000091419-17-000005"
+   },
+   "2016": {
+    "revenue": 7811200000,
+    "periodEnd": "2016-04-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000091419-18-000005"
+   },
+   "2017": {
+    "revenue": 7392300000,
+    "periodEnd": "2017-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000091419-19-000005"
+   },
+   "2018": {
+    "revenue": 7357100000,
+    "periodEnd": "2018-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000091419-20-000065"
+   },
+   "2019": {
+    "revenue": 7838000000,
+    "periodEnd": "2019-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000091419-21-000048"
+   },
+   "2020": {
+    "revenue": 7801000000,
+    "periodEnd": "2020-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000091419-22-000049"
+   },
+   "2021": {
+    "revenue": 8002700000,
+    "periodEnd": "2021-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000091419-23-000072"
+   },
+   "2022": {
+    "revenue": 7998900000,
+    "periodEnd": "2022-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000091419-24-000054"
+   },
+   "2023": {
+    "revenue": 8529200000,
+    "periodEnd": "2023-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000091419-25-000056"
+   },
+   "2024": {
+    "revenue": 8178700000,
+    "periodEnd": "2024-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000091419-26-000050"
+   },
+   "2025": {
+    "revenue": 8726100000,
+    "periodEnd": "2025-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000091419-26-000050"
+   },
+   "2026": {
+    "revenue": 9050900000,
+    "periodEnd": "2026-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000091419-26-000050"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 8511639,
+   "2023": 11348537,
+   "2024": 10367569,
+   "2025": 10976383,
+   "2026": 10935216
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000091419-26-000050",
+    "filingDate": "2026-06-09",
+    "reportDate": "2026-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141926000050/sjm-20260430.htm"
+   },
+   {
+    "accession": "0000091419-25-000056",
+    "filingDate": "2025-06-18",
+    "reportDate": "2025-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141925000056/sjm-20250430.htm"
+   },
+   {
+    "accession": "0000091419-24-000054",
+    "filingDate": "2024-06-18",
+    "reportDate": "2024-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141924000054/sjm-20240430.htm"
+   },
+   {
+    "accession": "0000091419-23-000072",
+    "filingDate": "2023-06-20",
+    "reportDate": "2023-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141923000072/sjm-20230430.htm"
+   },
+   {
+    "accession": "0000091419-22-000049",
+    "filingDate": "2022-06-16",
+    "reportDate": "2022-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141922000049/sjm-20220430.htm"
+   },
+   {
+    "accession": "0000091419-21-000048",
+    "filingDate": "2021-06-17",
+    "reportDate": "2021-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141921000048/sjm-20210430.htm"
+   },
+   {
+    "accession": "0000091419-20-000065",
+    "filingDate": "2020-06-19",
+    "reportDate": "2020-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141920000065/sjm-20200430.htm"
+   },
+   {
+    "accession": "0000091419-19-000005",
+    "filingDate": "2019-06-17",
+    "reportDate": "2019-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141919000005/sjm43019-10k.htm"
+   },
+   {
+    "accession": "0000091419-18-000005",
+    "filingDate": "2018-06-18",
+    "reportDate": "2018-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141918000005/sjm43018-10xk.htm"
+   },
+   {
+    "accession": "0000091419-17-000005",
+    "filingDate": "2017-06-19",
+    "reportDate": "2017-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/91419/000009141917000005/sjm43017-10xk.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,38 @@
+{
+ "proxies": {},
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2024": {
+    "revenue": 9424000000,
+    "periodEnd": "2024-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-053359"
+   },
+   "2025": {
+    "revenue": 8892000000,
+    "periodEnd": "2025-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-053359"
+   },
+   "2026": {
+    "revenue": 8795000000,
+    "periodEnd": "2026-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-053359"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-053359",
+    "filingDate": "2026-08-05",
+    "reportDate": "2026-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/2082247/000162828026053359/fdxf-20260531.htm"
+   }
+  ]
+ }
+}

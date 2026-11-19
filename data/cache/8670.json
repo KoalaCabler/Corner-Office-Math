@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001308179-26-000409": {
+   "parserVersion": 1,
+   "filingDate": "2026-09-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/8670/000130817926000409/adp015474-def14a.htm",
+   "periodEnd": "2026-06-30",
+   "tenK": "0000008670-26-000030",
+   "result": {
+    "ceoPay": 25452877,
+    "medianPay": 70118,
+    "payRatio": 363,
+    "method": "cross-checked",
+    "employees": 67681,
+    "statedYear": 2026,
+    "excerpt": "onsumer Protection Act (\"Pay Ratio Rule\"), we are providing the following information to disclose the annual compensation of our CEO, Ms. Black, compared to the annual compensation of the median associate of our workforce (not including Ms. Black). For fiscal year 2026, an estimate of this ratio is 363:1, and is based on Ms. Black's 2026 Summary Compensation Table total of $25,452,877 and the 2026 total of our median associate of $70,118. To arrive at the ratio and calculate the median associate's compensation, we first identified our active global workforce as of April 1, 2026, inclusive of full-time, part-time, and temporary workers, which consisted of 67,681 associates (excluding our CEO). Consistent with permitted adjustments allowed under the Pay Ratio Rule, we then applied the de min"
+   }
+  },
+  "0001308179-25-000607": {
+   "parserVersion": 1,
+   "filingDate": "2025-09-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/8670/000130817925000607/adp014341-def14a.htm",
+   "periodEnd": "2025-06-30",
+   "tenK": "0000008670-25-000037",
+   "result": {
+    "ceoPay": 19137192,
+    "medianPay": 67434,
+    "payRatio": 284,
+    "method": "cross-checked",
+    "employees": 67071,
+    "statedYear": 2025,
+    "excerpt": "onsumer Protection Act (\"Pay Ratio Rule\"), we are providing the following information to disclose the annual compensation of our CEO, Ms. Black, compared to the annual compensation of the median associate of our workforce (not including Ms. Black). For fiscal year 2025, an estimate of this ratio is 284:1, and is based on Ms. Black's 2025 Summary Compensation Table total of $19,137,192 and the 2025 total of our median associate of $67,434. To arrive at the ratio and calculate the median associate's compensation, we first identified our active global workforce as of April 1, 2025, inclusive of full-time, part-time, and temporary workers, which consisted of 67,071 associates (excluding our CEO). Consistent with permitted adjustments allowed under the Pay Ratio Rule, we then applied the de min"
+   }
+  },
+  "0001308179-24-000714": {
+   "parserVersion": 1,
+   "filingDate": "2024-09-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/8670/000130817924000714/adp4345811-def14a.htm",
+   "periodEnd": "2024-06-30",
+   "tenK": "0000008670-24-000024",
+   "result": {
+    "ceoPay": 15866785,
+    "medianPay": 65894,
+    "payRatio": 241,
+    "method": "cross-checked",
+    "employees": 65111,
+    "statedYear": 2024,
+    "excerpt": "onsumer Protection Act (\"Pay Ratio Rule\"), we are providing the following information to disclose the annual compensation of our CEO, Ms. Black, compared to the annual compensation of the median associate of our workforce (not including Ms. Black). For fiscal year 2024, an estimate of this ratio is 241:1, and is based on Ms. Black's 2024 Summary Compensation Table total of $15,866,785, and the 2024 total of our median associate of $65,894. To arrive at the ratio and calculate the median associate's compensation, we first identified our active global workforce as of April 1, 2024, inclusive of full-time, part-time, and temporary workers, which consisted of 65,111 associates (excluding our CEO). Consistent with permitted adjustments allowed under the Pay Ratio Rule, we then applied the de mi"
+   }
+  },
+  "0001308179-23-000987": {
+   "parserVersion": 1,
+   "filingDate": "2023-09-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/8670/000130817923000987/adp4229101-def14a.htm",
+   "periodEnd": "2023-06-30",
+   "tenK": "0000008670-23-000030",
+   "result": {
+    "ceoPay": 12799877,
+    "medianPay": 64996,
+    "payRatio": 197,
+    "method": "cross-checked",
+    "employees": 63578,
+    "statedYear": 2023,
+    "excerpt": "onsumer Protection Act (\"Pay Ratio Rule\"), we are providing the following information to disclose the annual compensation of our CEO, Ms. Black, compared to the annual compensation of the median associate of our workforce (not including Ms. Black). For fiscal year 2023, an estimate of this ratio is 197:1, and is based on Ms. Black's 2023 Summary Compensation Table total of $10,682,318, which has been annualized to $12,799,877 for the purposes of computing the Pay Ratio, and the 2023 total of our median associate of $64,996. The annualization of Ms. Black's compensation for the purpose of computing the Pay Ratio takes into account her promotion to the CEO role effective January 1, 2023 and adjusts her salary, the grant date fair value of stock awards, non-equity incentive plan compensation,"
+   }
+  },
+  "0001206774-22-002461": {
+   "parserVersion": 1,
+   "filingDate": "2022-09-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/8670/000120677422002461/adp4094281-def14a.htm",
+   "periodEnd": "2022-06-30",
+   "tenK": "0000008670-22-000038",
+   "result": {
+    "ceoPay": 20827092,
+    "medianPay": 62238,
+    "payRatio": 335,
+    "method": "cross-checked",
+    "employees": 59632,
+    "statedYear": 2022,
+    "excerpt": "Protection Act (\"Pay Ratio Rule\"), we are providing the following information to disclose the annual compensation of our CEO, Mr. Rodriguez, compared to the annual compensation of the median associate of our workforce (not including Mr. Rodriguez). For fiscal year 2022, an estimate of this ratio is 335:1, and is based on Mr. Rodriguez's 2022 Summary Compensation Table total of $20,827,092, and the 2022 total of our median associate of $62,238. To arrive at the ratio and calculate the median associate's compensation, we first identified our active global workforce as of April 1, 2022, inclusive of full-time, part-time, and temporary workers, which consisted of 59,632 associates (excluding our CEO). Consistent with permitted adjustments allowed under the Pay Ratio Rule, we then applied the d"
+   }
+  },
+  "0001206774-21-002512": {
+   "parserVersion": 1,
+   "filingDate": "2021-09-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/8670/000120677421002512/adp3935971-def14a.htm",
+   "periodEnd": "2021-06-30",
+   "tenK": "0000008670-21-000027",
+   "result": {
+    "ceoPay": 16985259,
+    "medianPay": 64965,
+    "payRatio": 261,
+    "method": "cross-checked",
+    "employees": 56369,
+    "statedYear": 2021,
+    "excerpt": "Protection Act (\"Pay Ratio Rule\"), we are providing the following information to disclose the annual compensation of our CEO, Mr. Rodriguez, compared to the annual compensation of the median associate of our workforce (not including Mr. Rodriguez). For fiscal year 2021, an estimate of this ratio is 261:1, and is based on Mr. Rodriguez's 2021 Summary Compensation Table total of $16,985,259, and the 2021 total of our median associate of $64,965. To arrive at the ratio and calculate the median associate's compensation, we first identified our active global workforce as of April 1, 2021, inclusive of full-time, part-time, and temporary workers, which consisted of 56,369 associates (excluding our CEO). Consistent with permitted adjustments allowed under the Pay Ratio Rule, we then applied the d"
+   }
+  },
+  "0001206774-20-002764": {
+   "parserVersion": 1,
+   "filingDate": "2020-09-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/8670/000120677420002764/adp3788011-def14a.htm",
+   "periodEnd": "2020-06-30",
+   "tenK": "0000008670-20-000032",
+   "result": {
+    "ceoPay": 17645648,
+    "medianPay": 60655,
+    "payRatio": 291,
+    "method": "cross-checked",
+    "employees": 58993,
+    "statedYear": 2020,
+    "excerpt": "Protection Act (\"Pay Ratio Rule\"), we are providing the following information to disclose the annual compensation of our CEO, Mr. Rodriguez, compared to the annual compensation of the median associate of our workforce (not including Mr. Rodriguez). For fiscal year 2020, an estimate of this ratio is 291:1, and is based on Mr. Rodriguez's 2020 Summary Compensation Table total of $17,645,648, and the 2020 total of our median associate of $60,655. To arrive at the ratio and calculate the median associate's compensation, we first identified our active global workforce as of April 1, 2020, inclusive of full-time, part-time, and temporary workers, which consisted of 58,993 associates (excluding our CEO). Consistent with permitted adjustments allowed under the Pay Ratio Rule, we then applied the d"
+   }
+  },
+  "0001206774-19-003299": {
+   "parserVersion": 1,
+   "filingDate": "2019-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/8670/000120677419003299/adp3610941-def14a.htm",
+   "periodEnd": "2019-06-30",
+   "tenK": "0000008670-19-000021",
+   "result": {
+    "ceoPay": 19000187,
+    "medianPay": 63225,
+    "payRatio": 301,
+    "method": "cross-checked",
+    "employees": 58079,
+    "statedYear": 2019,
+    "excerpt": "Protection Act (\"Pay Ratio Rule\"), we are providing the following information to disclose the annual compensation of our CEO, Mr. Rodriguez, compared to the annual compensation of the median associate of our workforce (not including Mr. Rodriguez). For fiscal year 2019, an estimate of this ratio is 301:1, and is based on Mr. Rodriguez's 2019 Summary Compensation Table total of $19,000,187, and the 2019 total of our median associate of $63,225. To arrive at the ratio and calculate the median associate's compensation, we first identified our active global workforce as of April 1, 2019, inclusive of full-time, part-time, and temporary workers, which consisted of 58,079 associates (excluding our CEO). Consistent with permitted adjustments allowed under the Pay Ratio Rule, we then applied the d"
+   }
+  },
+  "0001206774-18-002805": {
+   "parserVersion": 1,
+   "filingDate": "2018-09-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/8670/000120677418002805/adp3453541-def14a.htm",
+   "periodEnd": "2018-06-30",
+   "tenK": "0000008670-18-000011",
+   "result": {
+    "ceoPay": 12489040,
+    "medianPay": 59284,
+    "payRatio": 211,
+    "method": "cross-checked",
+    "employees": 58029,
+    "statedYear": 2018,
+    "excerpt": "Protection Act (Pay Ratio Rule), we are providing the following information to disclose the annual compensation of our CEO, Mr. Rodriguez, compared to the annual compensation of the median associate of our workforce (not including Mr. Rodriguez). For fiscal year 2018, an estimate of this ratio is 211:1, and is based on Mr. Rodriguezs 2018 Summary Compensation Table total of $12,489,040, and the 2018 total of our median associate of $59,284. To arrive at the ratio and calculate the median associates compensation, we first identified our active global workforce as of April 1, 2018, inclusive of full-time, part-time, and temporary workers, which consisted of 58,029 associates (excluding our CEO). Consistent with permitted adjustments allowed under the Pay Ratio Rule, we then applied the d"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 8733700000,
+    "periodEnd": "2008-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001206774-10-001881"
+   },
+   "2009": {
+    "revenue": 8838400000,
+    "periodEnd": "2009-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001206774-11-001935"
+   },
+   "2010": {
+    "revenue": 8927700000,
+    "periodEnd": "2010-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001206774-12-003634"
+   },
+   "2011": {
+    "revenue": 9833000000,
+    "periodEnd": "2011-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-13-000015"
+   },
+   "2012": {
+    "revenue": 10595400000,
+    "periodEnd": "2012-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-14-000015"
+   },
+   "2013": {
+    "revenue": 9442000000,
+    "periodEnd": "2013-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-15-000021"
+   },
+   "2014": {
+    "revenue": 10226400000,
+    "periodEnd": "2014-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-16-000053"
+   },
+   "2015": {
+    "revenue": 10938500000,
+    "periodEnd": "2015-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-17-000010"
+   },
+   "2016": {
+    "revenue": 11667800000,
+    "periodEnd": "2016-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-18-000011"
+   },
+   "2017": {
+    "revenue": 12372000000,
+    "periodEnd": "2017-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-19-000021"
+   },
+   "2018": {
+    "revenue": 13274200000,
+    "periodEnd": "2018-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-20-000032"
+   },
+   "2019": {
+    "revenue": 14110200000,
+    "periodEnd": "2019-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-21-000027"
+   },
+   "2020": {
+    "revenue": 14589800000,
+    "periodEnd": "2020-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-22-000038"
+   },
+   "2021": {
+    "revenue": 15005400000,
+    "periodEnd": "2021-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-23-000030"
+   },
+   "2022": {
+    "revenue": 16498300000,
+    "periodEnd": "2022-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-24-000024"
+   },
+   "2023": {
+    "revenue": 18012200000,
+    "periodEnd": "2023-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-25-000037"
+   },
+   "2024": {
+    "revenue": 19202600000,
+    "periodEnd": "2024-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-26-000030"
+   },
+   "2025": {
+    "revenue": 20560900000,
+    "periodEnd": "2025-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-26-000030"
+   },
+   "2026": {
+    "revenue": 21947400000,
+    "periodEnd": "2026-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000008670-26-000030"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000008670-26-000030",
+    "filingDate": "2026-08-05",
+    "reportDate": "2026-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867026000030/adp-20260630.htm"
+   },
+   {
+    "accession": "0000008670-25-000037",
+    "filingDate": "2025-08-06",
+    "reportDate": "2025-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867025000037/adp-20250630.htm"
+   },
+   {
+    "accession": "0000008670-24-000024",
+    "filingDate": "2024-08-07",
+    "reportDate": "2024-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867024000024/adp-20240630.htm"
+   },
+   {
+    "accession": "0000008670-23-000030",
+    "filingDate": "2023-08-03",
+    "reportDate": "2023-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867023000030/adp-20230630.htm"
+   },
+   {
+    "accession": "0000008670-22-000038",
+    "filingDate": "2022-08-03",
+    "reportDate": "2022-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867022000038/adp-20220630.htm"
+   },
+   {
+    "accession": "0000008670-21-000027",
+    "filingDate": "2021-08-04",
+    "reportDate": "2021-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867021000027/adp-20210630.htm"
+   },
+   {
+    "accession": "0000008670-20-000032",
+    "filingDate": "2020-08-05",
+    "reportDate": "2020-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867020000032/adp-20200630.htm"
+   },
+   {
+    "accession": "0000008670-19-000021",
+    "filingDate": "2019-08-09",
+    "reportDate": "2019-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867019000021/q4fy1910k.htm"
+   },
+   {
+    "accession": "0000008670-18-000011",
+    "filingDate": "2018-08-03",
+    "reportDate": "2018-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867018000011/q4fy1810k.htm"
+   },
+   {
+    "accession": "0000008670-17-000010",
+    "filingDate": "2017-08-04",
+    "reportDate": "2017-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000000867017000010/q4fy1710k.htm"
+   }
+  ]
+ }
+}

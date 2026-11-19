@@ -1,0 +1,315 @@
+{
+ "proxies": {
+  "0000864749-26-000042": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474926000042/trmb-20260409.htm",
+   "periodEnd": "2026-01-02",
+   "tenK": "0000864749-26-000015",
+   "result": {
+    "ceoPay": 19129944,
+    "medianPay": 116683,
+    "payRatio": 163.9,
+    "method": "cross-checked",
+    "employees": 12040,
+    "statedYear": 2025,
+    "excerpt": "nual total compensation of all our employees, the annual total compensation of our President and Chief Executive Officer, Robert G. Painter, and the ratio of these two amounts. We have determined the median of the annual total compensation of all our employees, excluding Mr. Painter, for 2025 to be $116,683. The annual total compensation of Mr. Painter, our CEO, was $19,129,944 for 2025, as reported in our \"Summary Compensation Table .\" The ratio of the annual total compensation of Mr. Painter to the median of the annual total compensation of all our employees was 163.9 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. As permitted by SEC rules, for purposes of calculating the pay ratio"
+   }
+  },
+  "0000864749-25-000100": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474925000100/trmb-20250430.htm",
+   "periodEnd": "2025-01-03",
+   "tenK": "0000864749-25-000090",
+   "result": {
+    "ceoPay": 18938871,
+    "medianPay": 84344,
+    "payRatio": 224.5,
+    "method": "cross-checked",
+    "employees": 12040,
+    "statedYear": 2024,
+    "excerpt": "nual total compensation of all our employees, the annual total compensation of our President and Chief Executive Officer, Robert G. Painter, and the ratio of these two amounts. We have determined the median of the annual total compensation of all our employees, excluding Mr. Painter, for 2024 to be $84,344. The annual total compensation of Mr. Painter, our CEO, was $18,938,871 for 2024, as reported in our \"Summary Compensation Table .\" The ratio of the annual total compensation of Mr. Painter to the median of the annual total compensation of all our employees was 224.5 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. For purposes of calculating the pay ratio set forth above, we used the"
+   }
+  },
+  "0000864749-24-000093": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474924000093/trmb-20240416.htm",
+   "periodEnd": "2023-12-29",
+   "tenK": "0000864749-24-000047",
+   "result": {
+    "ceoPay": 14954642,
+    "medianPay": 83971,
+    "payRatio": 178.1,
+    "method": "cross-checked",
+    "employees": 12108,
+    "statedYear": 2023,
+    "excerpt": "nual total compensation of all our employees, the annual total compensation of our President and Chief Executive Officer, Robert G. Painter, and the ratio of these two amounts. We have determined the median of the annual total compensation of all our employees, excluding Mr. Painter, for 2023 to be $83,971. The annual total compensation of Mr. Painter, our CEO, was $14,954,642 for 2023, as reported in our \"Summary Compensation Table .\" The ratio of the annual total compensation of Mr. Painter to the median of the annual total compensation of all our employees was 178.1 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. As permitted by SEC rules, for purposes of calculating the pay ratio s"
+   }
+  },
+  "0000864749-23-000053": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474923000053/trmb-20230418.htm",
+   "periodEnd": "2022-12-30",
+   "tenK": "0000864749-23-000012",
+   "result": {
+    "ceoPay": 16134366,
+    "medianPay": 77178,
+    "payRatio": 209.1,
+    "method": "cross-checked",
+    "employees": 12108,
+    "statedYear": 2022,
+    "excerpt": "nual total compensation of all our employees, the annual total compensation of our President and Chief Executive Officer, Robert G. Painter, and the ratio of these two amounts. We have determined the median of the annual total compensation of all our employees, excluding Mr. Painter, for 2022 to be $77,178. The annual total compensation of Mr. Painter, our CEO, was $16,134,366 for 2022, as reported in our Summary Compensation Table. The ratio of the annual total compensation of Mr. Painter to the median of the annual total compensation of all our employees was 209.1 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. As permitted by SEC rules, for purposes of calculating the pay ratio set"
+   }
+  },
+  "0000864749-22-000079": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474922000079/trimble-2022proxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000864749-22-000044",
+   "result": {
+    "ceoPay": 13956821,
+    "medianPay": 71625,
+    "payRatio": 194.9,
+    "method": "cross-checked",
+    "employees": 11362,
+    "statedYear": 2021,
+    "excerpt": "nual total compensation of all our employees, the annual total compensation of our President and Chief Executive Officer, Robert G. Painter, and the ratio of these two amounts. We have determined the median of the annual total compensation of all our employees, excluding Mr. Painter, for 2021 to be $71,625. The annual total compensation of Mr. Painter, our CEO, was $13,956,821 for 2021, as reported in our Summary Compensation Table. The ratio of the annual total compensation of Mr. Painter to the median of the annual total compensation of all our employees was 194.9 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. As permitted by SEC rules, for purposes of calculating the pay ratio set"
+   }
+  },
+  "0000864749-21-000039": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474921000039/trimble-2021proxystatement.htm",
+   "periodEnd": "2021-01-01",
+   "tenK": "0000864749-21-000029",
+   "result": {
+    "ceoPay": 12590537,
+    "medianPay": 71242,
+    "payRatio": 176.7,
+    "method": "cross-checked",
+    "employees": 11362,
+    "statedYear": 2020,
+    "excerpt": "nual total compensation of all our employees, the annual total compensation of our President and Chief Executive Officer, Robert G. Painter, and the ratio of these two amounts. We have determined the median of the annual total compensation of all our employees, excluding Mr. Painter, for 2020 to be $71,242. The annual total compensation of Mr. Painter, our CEO, was $12,590,537 for 2020, as reported in our Summary Compensation Table. The ratio of the annual total compensation of Mr. Painter to the median of the annual total compensation of all our employees was 176.7 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. As permitted by SEC rules, for purposes of calculating the pay ratio set"
+   }
+  },
+  "0000864749-20-000039": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474920000039/trimble-2020proxystatement.htm",
+   "periodEnd": "2020-01-03",
+   "tenK": "0000864749-20-000029",
+   "result": {
+    "ceoPay": 9680494,
+    "medianPay": 70075,
+    "payRatio": 138,
+    "method": "cross-checked",
+    "employees": 11362,
+    "statedYear": 2019,
+    "excerpt": "al total compensation of all our employees, the annual total compensation of our President and Chief Executive Officer, Steven W. Berglund, and the ratio of these two amounts. We have determined the median of the annual total compensation of all our employees, excluding Mr. Berglund, for 2019 to be $70,075. The annual total compensation of Mr. Berglund, our CEO, was $9,680,494 for 2019, as reported in our Summary Compensation Table. The ratio of the annual total compensation of Mr. Berglund to the median of the annual total compensation of all our employees was 138 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. As permitted by SEC rules, to identify our median employee, | | | | | • |"
+   }
+  },
+  "0000864749-19-000041": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474919000041/trimble-2019proxystatement.htm",
+   "periodEnd": "2018-12-28",
+   "tenK": "0000864749-19-000006",
+   "result": {
+    "ceoPay": 11177172,
+    "medianPay": 94591,
+    "payRatio": 118,
+    "method": "cross-checked",
+    "employees": 9228,
+    "statedYear": 2018,
+    "excerpt": "al total compensation of all our employees, the annual total compensation of our President and Chief Executive Officer, Steven W. Berglund, and the ratio of these two amounts. We have determined the median of the annual total compensation of all our employees, excluding Mr. Berglund, for 2018 to be $94,591. The annual total compensation of Mr. Berglund, our CEO, was $11,177,172 for 2018, as reported in our Summary Compensation Table. The ratio of the annual total compensation of Mr. Berglund to the median of the annual total compensation of all our employees was 118 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. As permitted by SEC rules, for purposes of calculating the pay ratio set"
+   }
+  },
+  "0001193125-18-090599": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/864749/000119312518090599/d436248ddef14a.htm",
+   "periodEnd": "2017-12-29",
+   "tenK": "0000864749-18-000010",
+   "result": {
+    "ceoPay": 10637661,
+    "medianPay": 83151,
+    "payRatio": 128,
+    "method": "cross-checked",
+    "employees": 9228,
+    "statedYear": 2017,
+    "excerpt": "al total compensation of all our employees, the annual total compensation of our President and Chief Executive Officer, Steven W. Berglund, and the ratio of these two amounts. We have determined the median of the annual total compensation of all our employees, excluding Mr. Berglund, for 2017 to be $83,151. The annual total compensation of Mr. Berglund for 2017 was $10,637,661. The ratio of the annual total compensation of Mr. Berglund to the median of the annual total compensation of all our employees was 128 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. As permitted by SEC rules, to identify our median employee, we selected the base salaries in effect as of October 1, 2017 and prof"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 1329234000,
+    "periodEnd": "2009-01-02",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-050403"
+   },
+   "2010": {
+    "revenue": 1293937000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-13-000005"
+   },
+   "2011": {
+    "revenue": 1644065000,
+    "periodEnd": "2011-12-30",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-14-000021"
+   },
+   "2012": {
+    "revenue": 2040113000,
+    "periodEnd": "2012-12-28",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-15-000002"
+   },
+   "2014": {
+    "revenue": 2288100000,
+    "periodEnd": "2014-01-03",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-16-000092"
+   },
+   "2015": {
+    "revenue": 2395500000,
+    "periodEnd": "2015-01-02",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-17-000007"
+   },
+   "2016": {
+    "revenue": 2362200000,
+    "periodEnd": "2016-12-30",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-18-000010"
+   },
+   "2017": {
+    "revenue": 2654200000,
+    "periodEnd": "2017-12-29",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-18-000010"
+   },
+   "2018": {
+    "revenue": 3132000000,
+    "periodEnd": "2018-12-28",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-21-000029"
+   },
+   "2020": {
+    "revenue": 3271300000,
+    "periodEnd": "2020-01-03",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-22-000044"
+   },
+   "2021": {
+    "revenue": 3659400000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-25-000011"
+   },
+   "2022": {
+    "revenue": 3676300000,
+    "periodEnd": "2022-12-30",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-25-000011"
+   },
+   "2023": {
+    "revenue": 3798700000,
+    "periodEnd": "2023-12-29",
+    "revenueTag": "Revenues",
+    "accession": "0000864749-25-000011"
+   },
+   "2025": {
+    "revenue": 3683300000,
+    "periodEnd": "2025-01-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000864749-26-000015"
+   },
+   "2026": {
+    "revenue": 3587300000,
+    "periodEnd": "2026-01-02",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000864749-26-000015"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 13956821,
+   "2022": 16134366,
+   "2023": 14954642,
+   "2025": 18938871,
+   "2026": 19129944
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000864749-26-000015",
+    "filingDate": "2026-02-25",
+    "reportDate": "2026-01-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474926000015/trmb-20260102.htm"
+   },
+   {
+    "accession": "0000864749-25-000090",
+    "filingDate": "2025-04-25",
+    "reportDate": "2025-01-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474925000090/trmb-20250103.htm"
+   },
+   {
+    "accession": "0000864749-24-000047",
+    "filingDate": "2024-02-26",
+    "reportDate": "2023-12-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474924000047/trmb-20231229.htm"
+   },
+   {
+    "accession": "0000864749-23-000012",
+    "filingDate": "2023-02-17",
+    "reportDate": "2022-12-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474923000012/trmb-20221230.htm"
+   },
+   {
+    "accession": "0000864749-22-000044",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474922000044/trmb-20211231.htm"
+   },
+   {
+    "accession": "0000864749-21-000029",
+    "filingDate": "2021-02-26",
+    "reportDate": "2021-01-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474921000029/trmb-20210101.htm"
+   },
+   {
+    "accession": "0000864749-20-000029",
+    "filingDate": "2020-02-28",
+    "reportDate": "2020-01-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474920000029/trmb201910k.htm"
+   },
+   {
+    "accession": "0000864749-19-000006",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474919000006/trmb201810k.htm"
+   },
+   {
+    "accession": "0000864749-18-000010",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474918000010/trmb201710k.htm"
+   },
+   {
+    "accession": "0000864749-17-000007",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474917000007/trmb201610k.htm"
+   }
+  ]
+ }
+}

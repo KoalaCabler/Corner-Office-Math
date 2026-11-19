@@ -1,0 +1,125 @@
+{
+ "proxies": {
+  "0001932393-26-000021": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000021/gehc-20260318.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001932393-26-000007",
+   "result": {
+    "ceoPay": 18562794,
+    "medianPay": 76951,
+    "payRatio": 241,
+    "method": "cross-checked",
+    "employees": 51565,
+    "statedYear": 2025,
+    "excerpt": "n about the relationship of the annual total compensation of the individual identified in accordance with the process outlined below as our median paid employee excluding our CEO (the \"Median Employee\") and the annual total compensation of our CEO, Mr. Arduini. Pay Ratio. Our Median Employee earned $76,951 in total compensation for 2025. The total 2025 compensation for Mr. Arduini as reported in the \"Summary Compensation Table\" beginning on page 50 was $18,562,794. Based upon total compensation for 2025, the ratio of the annual total compensation of our CEO to the annual total compensation of our Median Employee was calculated to be approximately 241 to 1. How we Identified the Median Employee. In accordance with Item 402(u) of Regulation S-K, we began with a decision to use the same media"
+   }
+  },
+  "0001628280-25-017240": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000162828025017240/gehc-20250409.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001932393-25-000005",
+   "result": {
+    "ceoPay": 19487880,
+    "medianPay": 73078,
+    "payRatio": 267,
+    "method": "cross-checked",
+    "employees": 51565,
+    "statedYear": 2024,
+    "excerpt": "n about the relationship of the annual total compensation of the individual identified in accordance with the process outlined below as our median paid employee excluding our CEO (the \"Median Employee\") and the annual total compensation of our CEO, Mr. Arduini. Pay Ratio. Our Median Employee earned $73,078 in total compensation for 2024. The total 2024 compensation for Mr. Arduini as reported in the \"Summary Compensation Table\" beginning on page 56 was $19,487,880. Based upon total compensation for 2024, the ratio of the annual total compensation of our CEO to the annual total compensation of our Median Employee was calculated to be approximately 267 to 1. How we Identified the Median Employee. In accordance with Item 402(u) of Regulation S-K, we began with a decision to use the same media"
+   }
+  },
+  "0001932393-24-000022": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239324000022/gehc-20240404.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001932393-24-000013",
+   "result": {
+    "ceoPay": 24510947,
+    "medianPay": 74733,
+    "payRatio": 328,
+    "method": "cross-checked",
+    "employees": 51565,
+    "statedYear": 2023,
+    "excerpt": "n about the relationship of the annual total compensation of the individual identified in accordance with the process outlined below as our median paid employee excluding our CEO (the \"Median Employee\") and the annual total compensation of our CEO, Mr. Arduini. Pay Ratio. Our Median Employee earned $74,733 in total compensation for 2023. The total 2023 compensation for Mr. Arduini as reported in the \"Summary Compensation Table\" beginning on page 60 was $24,510,947. Based upon total compensation for 2023, the ratio of the annual total compensation of our CEO to the annual total compensation of our Median Employee was calculated to be approximately 328 to 1. How we Identified the Median Employee . To identify our median employee, we started with our global employment records as of December 1"
+   }
+  },
+  "0001932393-23-000070": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239323000070/gehc-20230404.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001932393-23-000025",
+   "result": null
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2021": {
+    "revenue": 17585000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001932393-24-000013"
+   },
+   "2022": {
+    "revenue": 18341000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001932393-25-000005"
+   },
+   "2023": {
+    "revenue": 19552000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001932393-26-000007"
+   },
+   "2024": {
+    "revenue": 19672000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001932393-26-000007"
+   },
+   "2025": {
+    "revenue": 20625000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001932393-26-000007"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001932393-26-000007",
+    "filingDate": "2026-02-04",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239326000007/gehc-20251231.htm"
+   },
+   {
+    "accession": "0001932393-25-000005",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239325000005/gehc-20241231.htm"
+   },
+   {
+    "accession": "0001932393-24-000013",
+    "filingDate": "2024-02-06",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239324000013/gehc-20231231.htm"
+   },
+   {
+    "accession": "0001932393-23-000025",
+    "filingDate": "2023-02-15",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1932393/000193239323000025/gehc-20221231.htm"
+   }
+  ]
+ }
+}

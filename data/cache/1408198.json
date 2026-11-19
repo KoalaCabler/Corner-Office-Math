@@ -1,0 +1,319 @@
+{
+ "proxies": {
+  "0001408198-26-000023": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1408198/000140819826000023/msci-20260310.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001408198-26-000011",
+   "result": null
+  },
+  "0001408198-25-000098": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1408198/000140819825000098/msci-20250312.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001408198-25-000053",
+   "result": {
+    "ceoPay": 15696607,
+    "medianPay": 55751,
+    "payRatio": 282,
+    "method": "cross-checked",
+    "employees": 6132,
+    "statedYear": 2024,
+    "excerpt": "the requirements of Section 953(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (collectively, the \"Pay Ratio Rule\"), we are providing the following estimated information for 2024: • the median of the annual total compensation of all our employees (except our Chief Executive Officer) was $55,751; • the annual total compensation of our Chief Executive Officer was $15,696,607; and • the ratio of these two amounts was 282 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. SEC rules for identifying the median employee and calculating the pay ratio allow companies to apply various methodologies and apply various assumptions and, as a result, the pay ratio reported by us may not be comparable to the"
+   }
+  },
+  "0001408198-24-000061": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1408198/000140819824000061/msci-20240313.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001408198-24-000030",
+   "result": {
+    "ceoPay": 13793145,
+    "medianPay": 57876,
+    "payRatio": 238,
+    "method": "cross-checked",
+    "employees": 5794,
+    "statedYear": 2023,
+    "excerpt": "the requirements of Section 953(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (collectively, the \"Pay Ratio Rule\"), we are providing the following estimated information for 2023: • the median of the annual total compensation of all our employees (except our Chief Executive Officer) was $57,876; • the annual total compensation of our Chief Executive Officer was $13,793,145; and • the ratio of these two amounts was 238 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. SEC rules for identifying the median employee and calculating the pay ratio allow companies to apply various methodologies and apply various assumptions and, as a result, the pay ratio reported by us may not be comparable to the"
+   }
+  },
+  "0001408198-23-000026": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1408198/000140819823000026/msci-20230315.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001408198-23-000011",
+   "result": {
+    "ceoPay": 12998816,
+    "medianPay": 58401,
+    "payRatio": 223,
+    "method": "cross-checked",
+    "employees": 4759,
+    "statedYear": 2022,
+    "excerpt": "the requirements of Section 953(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (collectively, the \"Pay Ratio Rule\"), we are providing the following estimated information for 2022: • the median of the annual total compensation of all our employees (except our Chief Executive Officer) was $58,401; • the annual total compensation of our Chief Executive Officer was $12,998,816; and • the ratio of these two amounts was 223 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. SEC rules for identifying the median employee and calculating the pay ratio allow companies to apply various methodologies and apply various assumptions and, as a result, the pay ratio reported by us may not be comparable to the"
+   }
+  },
+  "0001206774-22-000723": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1408198/000120677422000723/msci4002911-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001564590-22-004803",
+   "result": {
+    "ceoPay": 10338312,
+    "medianPay": 58415,
+    "payRatio": 177,
+    "method": "cross-checked",
+    "employees": 4303,
+    "statedYear": 2021,
+    "excerpt": "n 953(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (which we collectively refer to as the \"Pay Ratio Rule\"), we are providing the following estimated information for 2021: | ● | | the median of the annual total compensation of all our employees (except our Chief Executive Officer) was $58,415; | | ● | | the annual total compensation of our Chief Executive Officer was $10,338,312; and | | ● | | the ratio of these two amounts was 177 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. | SEC rules for identifying the median employee and calculating the pay ratio allow companies to apply various methodologies and apply various assumptions and, as a result, the pay ratio reported by us may not be"
+   }
+  },
+  "0001193125-21-083833": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1408198/000119312521083833/d131690ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-005811",
+   "result": {
+    "ceoPay": 9924139,
+    "medianPay": 60903,
+    "payRatio": 163,
+    "method": "cross-checked",
+    "employees": 3633,
+    "statedYear": 2020,
+    "excerpt": "3(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (which we collectively refer to as the Pay Ratio Rule), we are providing the following estimated information for 2020: |  | | | | the median of the annual total compensation of all our employees (except our Chief Executive Officer) was $60,903; | |  | | | | the annual total compensation of our Chief Executive Officer was $9,924,139; and | |  | | | | the ratio of these two amounts was 163 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. | SEC rules for identifying the median employee and calculating the pay ratio allow companies to apply various methodologies and apply various assumptions and, as a result, the pay ratio reported by us may"
+   }
+  },
+  "0001193125-20-076501": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1408198/000119312520076501/d759238ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-004992",
+   "result": {
+    "ceoPay": 9255960,
+    "medianPay": 55857,
+    "payRatio": 165,
+    "method": "cross-checked",
+    "employees": 3414,
+    "statedYear": 2018,
+    "excerpt": "3(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (which we collectively refer to as the Pay Ratio Rule), we are providing the following estimated information for 2019: |  | | | | the median of the annual total compensation of all our employees (except our Chief Executive Officer) was $55,857; | |  | | | | the annual total compensation of our Chief Executive Officer was $9,255,960; and | |  | | | | the ratio of these two amounts was 165 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. | As described in our 2019 proxy statement, due to SEC disclosure rules, we were required to report the total three-year value of PSUs granted to our NEOs, including our CEO in 2016 (the 2016 Multi-Year PS"
+   }
+  },
+  "0001193125-19-070934": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1408198/000119312519070934/d685466ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001564590-19-003885",
+   "result": {
+    "ceoPay": 2978454,
+    "medianPay": 55857,
+    "payRatio": 53,
+    "method": "cross-checked",
+    "employees": 3122,
+    "statedYear": 2018,
+    "excerpt": "3(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (which we collectively refer to as the Pay Ratio Rule), we are providing the following estimated information for 2018: |  | | | | the median of the annual total compensation of all our employees (except our Chief Executive Officer) was $55,857; | |  | | | | the annual total compensation of our Chief Executive Officer was $2,978,454; and | |  | | | | the ratio of these two amounts was 53 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. | Due to SEC disclosure rules, we were required to report the total three-year value of the 2016 Multi-Year PSUs granted to our CEO as 2016 compensation in the Summary Compensation Table for 2016, rather tha"
+   }
+  },
+  "0001193125-18-093925": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1408198/000119312518093925/d520986ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001564590-18-003147",
+   "result": {
+    "ceoPay": 2476501,
+    "medianPay": 59126,
+    "payRatio": 42,
+    "method": "cross-checked",
+    "employees": 2910,
+    "statedYear": 2017,
+    "excerpt": "3(b) of the Dodd-Frank Act and Item 402(u) of Regulation S-K (which we collectively refer to as the Pay Ratio Rule), we are providing the following estimated information for 2017: |  | | | | the median of the annual total compensation of all our employees (except our Chief Executive Officer) was $59,126; | |  | | | | the annual total compensation of our Chief Executive Officer was $2,476,501; and | |  | | | | the ratio of these two amounts was 42 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consistent with the requirements of the Pay Ratio Rule. | Due to SEC disclosure rules, we were required to report the total three-year value of the Multi-Year PSUs granted to our CEO as 2016 compensation in the Summary Compensation Table for 2016, rather than rep"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 430961000,
+    "periodEnd": "2008-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-017728"
+   },
+   "2009": {
+    "revenue": 442948000,
+    "periodEnd": "2009-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-086989"
+   },
+   "2010": {
+    "revenue": 662901000,
+    "periodEnd": "2010-11-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-087988"
+   },
+   "2011": {
+    "revenue": 900941000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-077882"
+   },
+   "2012": {
+    "revenue": 826990000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-072708"
+   },
+   "2013": {
+    "revenue": 913364000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-482334"
+   },
+   "2014": {
+    "revenue": 996680000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-17-002336"
+   },
+   "2015": {
+    "revenue": 1075013000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-003147"
+   },
+   "2016": {
+    "revenue": 1150669000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-003147"
+   },
+   "2017": {
+    "revenue": 1274172000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-003147"
+   },
+   "2018": {
+    "revenue": 1433984000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-21-005811"
+   },
+   "2019": {
+    "revenue": 1557796000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-22-004803"
+   },
+   "2020": {
+    "revenue": 1695390000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001408198-23-000011"
+   },
+   "2021": {
+    "revenue": 2043544000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001408198-24-000030"
+   },
+   "2022": {
+    "revenue": 2248598000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001408198-25-000053"
+   },
+   "2023": {
+    "revenue": 2528920000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001408198-26-000011"
+   },
+   "2024": {
+    "revenue": 2856128000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001408198-26-000011"
+   },
+   "2025": {
+    "revenue": 3134459000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001408198-26-000011"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001408198-26-000011",
+    "filingDate": "2026-02-06",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408198/000140819826000011/msci-20251231.htm"
+   },
+   {
+    "accession": "0001408198-25-000053",
+    "filingDate": "2025-02-07",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408198/000140819825000053/msci-20241231.htm"
+   },
+   {
+    "accession": "0001408198-24-000030",
+    "filingDate": "2024-02-09",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408198/000140819824000030/msci-20231231.htm"
+   },
+   {
+    "accession": "0001408198-23-000011",
+    "filingDate": "2023-02-10",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408198/000140819823000011/msci-20221231.htm"
+   },
+   {
+    "accession": "0001564590-22-004803",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408198/000156459022004803/msci-10k_20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-005811",
+    "filingDate": "2021-02-12",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408198/000156459021005811/msci-10k_20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-004992",
+    "filingDate": "2020-02-18",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408198/000156459020004992/msci-10k_20191231.htm"
+   },
+   {
+    "accession": "0001564590-19-003885",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408198/000156459019003885/msci-10k_20181231.htm"
+   },
+   {
+    "accession": "0001564590-18-003147",
+    "filingDate": "2018-02-26",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408198/000156459018003147/msci-10k_20171231.htm"
+   },
+   {
+    "accession": "0001564590-17-002336",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1408198/000156459017002336/msci-10k_20161231.htm"
+   }
+  ]
+ }
+}

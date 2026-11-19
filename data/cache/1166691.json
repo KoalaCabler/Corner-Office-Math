@@ -1,0 +1,336 @@
+{
+ "proxies": {
+  "0001193125-26-177138": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000119312526177138/cmcsa-20260424.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-004994",
+   "result": null
+  },
+  "0001308179-25-000504": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000130817925000504/cmcsa012438-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001166691-25-000011",
+   "result": null
+  },
+  "0001308179-24-000600": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000130817924000600/cmcsa4226581-def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001166691-24-000011",
+   "result": null
+  },
+  "0001308179-23-000809": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000130817923000809/cmcsa4130111-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001166691-23-000010",
+   "result": {
+    "ceoPay": 32084174,
+    "medianPay": 83399,
+    "payRatio": 385,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "be meaningful. We believe putting into context how our median employee was identified highlights why that employee's compensation and the resulting pay ratio, and year-over-year changes thereto, should not be compared on an \"apples-to-apples\" basis. We have estimated that our pay ratio for 2022 is 385 to 1, calculated by dividing Mr. Roberts' 2022 total compensation set forth in the Summary Compensation Table, adjusted as described below ($32,084,174), by $83,399, which represents the annual total compensation of our median employee. Our median employee's annual total compensation was determined using the same methodology we used to determine the annual total compensation of our NEOs, which, along with Mr. Roberts' compensation, was then adjusted to include the cost to the Company of spec"
+   }
+  },
+  "0001206774-22-001186": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000120677422001186/cmcsa4011221-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001166691-22-000009",
+   "result": {
+    "ceoPay": 33993040,
+    "medianPay": 83840,
+    "payRatio": 405,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "be meaningful. We believe putting into context how our median employee was identified highlights why that employee's compensation and the resulting pay ratio, and year-over-year changes thereto, should not be compared on an \"apples-to-apples\" basis. We have estimated that our pay ratio for 2021 is 405 to 1, calculated by dividing Mr. Roberts' 2021 total compensation set forth in the Summary Compensation Table, adjusted as described below ($33,993,040), by $83,840, which represents the annual total compensation of our median employee. Our median employee's annual total compensation was determined using the same methodology we used to determine the annual total compensation of our NEOs, which, along with Mr. Roberts' compensation, was then adjusted to include the cost to the Company of spec"
+   }
+  },
+  "0001206774-21-001222": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000120677421001222/cmcsa3829211-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001166691-21-000008",
+   "result": {
+    "ceoPay": 32727220,
+    "medianPay": 86206,
+    "payRatio": 380,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "be meaningful. We believe putting into context how our median employee was identified highlights why that employee's compensation and the resulting pay ratio, and year-over-year changes thereto, should not be compared on an \"apples-to-apples\" basis. We have estimated that our pay ratio for 2020 is 380 to 1, calculated by dividing Mr. Roberts' 2020 total compensation set forth in the Summary Compensation Table, adjusted as described below ($32,727,220), by $86,206, which represents the annual total compensation of our median employee. Our median employee's annual total compensation was determined using the same methodology we used to determine the annual total compensation of our NEOs, which, along with Mr. Roberts' compensation, was then adjusted to include the cost to the Company of spec"
+   }
+  },
+  "0001193125-20-118504": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000119312520118504/d781322ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001166691-20-000008",
+   "result": {
+    "ceoPay": 36384957,
+    "medianPay": 78869,
+    "payRatio": 461,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "be meaningful. We believe putting into context how our median employee was identified highlights why that employees compensation and the resulting pay ratio, and year-over-year changes thereto, should not be compared on an apples-to-apples basis. We have estimated that our pay ratio for 2019 is 461 to 1, calculated by dividing Mr. Roberts 2019 total compensation set forth in the Summary Compensation Table, adjusted as described below ($36,384,957), by $78,869, which represents the annual total compensation of our median employee. Our median employees annual total compensation was determined using the same methodology we used to determine the annual total compensation of our NEOs, which, along with Mr. Roberts compensation, was then adjusted to include the cost to the Company of spec"
+   }
+  },
+  "0001193125-19-121456": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000119312519121456/d696198ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001166691-19-000005",
+   "result": {
+    "ceoPay": 35041029,
+    "medianPay": 82205,
+    "payRatio": 426,
+    "method": "cross-checked",
+    "employees": 30000,
+    "statedYear": 2018,
+    "excerpt": "not meaningful. We believe putting into context how our median employee was identified highlights why that employees compensation and the resulting pay ratio, and year-over-year changes thereto, should not be compared on an apples-to-apples basis. We have estimated that our pay ratio for 2018 is 426 to 1, calculated by dividing Mr. Roberts 2018 total compensation set forth in the Summary Compensation Table, adjusted as described below ($35,041,029), by $82,205, which represents the annual total compensation of our median employee. Our median employees annual total compensation was determined using the same methodology we used to determine the annual total compensation of our NEOs, which, along with Mr. Roberts compensation, was then adjusted to include the cost to the Company of spec"
+   }
+  },
+  "0001193125-18-142400": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1166691/000119312518142400/d507526ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001166691-18-000004",
+   "result": {
+    "ceoPay": 32536737,
+    "medianPay": 71006,
+    "payRatio": 458,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "s our uniquely diversified company. We believe putting into context how our median employee was identified highlights why that employees compensation and the resulting pay ratio should not be compared across companies on an apples-to-apples basis. We have estimated that our pay ratio for 2017 is 458 to 1, calculated by dividing Mr. Roberts 2017 total compensation set forth in the Summary Compensation Table, adjusted as described below ($32,536,737), by $71,006, which represents the annual total compensation of our median employee. Our median employees annual total compensation was determined using the same methodology we used to determine the annual total compensation of our NEOs, which, along with Mr. Roberts compensation, was adjusted to include the cost to the Company of specified"
+   }
+  }
+ },
+ "tenKs": {
+  "0001166691-18-000004": {
+   "parserVersion": 1,
+   "employees": 164000
+  },
+  "0001166691-20-000008": {
+   "parserVersion": 1,
+   "employees": 190000
+  },
+  "0001166691-21-000008": {
+   "parserVersion": 1,
+   "employees": 168000
+  },
+  "0001166691-22-000009": {
+   "parserVersion": 1,
+   "employees": 189000
+  },
+  "0001166691-23-000010": {
+   "parserVersion": 1,
+   "employees": 186000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 31060000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-037551"
+   },
+   "2008": {
+    "revenue": 34423000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-047243"
+   },
+   "2009": {
+    "revenue": 35756000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-073905"
+   },
+   "2010": {
+    "revenue": 37937000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-067658"
+   },
+   "2011": {
+    "revenue": 55842000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-047522"
+   },
+   "2012": {
+    "revenue": 62570000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-068526"
+   },
+   "2013": {
+    "revenue": 64657000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-452423"
+   },
+   "2014": {
+    "revenue": 68775000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-030512"
+   },
+   "2015": {
+    "revenue": 74510000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001166691-18-000004"
+   },
+   "2016": {
+    "revenue": 80736000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001166691-19-000005"
+   },
+   "2017": {
+    "revenue": 85029000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001166691-20-000008"
+   },
+   "2018": {
+    "revenue": 94507000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001166691-21-000008"
+   },
+   "2019": {
+    "revenue": 108942000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001166691-22-000009"
+   },
+   "2020": {
+    "revenue": 103564000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001166691-23-000010"
+   },
+   "2021": {
+    "revenue": 116385000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001166691-24-000011"
+   },
+   "2022": {
+    "revenue": 121427000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001166691-24-000011"
+   },
+   "2023": {
+    "revenue": 121572000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001166691-24-000011"
+   },
+   "2024": {
+    "revenue": 123731000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-004994"
+   },
+   "2025": {
+    "revenue": 123707000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-004994"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 33978581,
+   "2022": 32069850,
+   "2023": 35473666,
+   "2024": 33861622,
+   "2025": 35148413
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-004994",
+    "filingDate": "2026-02-03",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026004994/cmcsa-20251231.htm"
+   },
+   {
+    "accession": "0001166691-25-000011",
+    "filingDate": "2025-01-31",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669125000011/cmcsa-20241231.htm"
+   },
+   {
+    "accession": "0001166691-24-000011",
+    "filingDate": "2024-01-31",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669124000011/cmcsa-20231231.htm"
+   },
+   {
+    "accession": "0001166691-23-000010",
+    "filingDate": "2023-02-03",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669123000010/cmcsa-20221231.htm"
+   },
+   {
+    "accession": "0001166691-22-000009",
+    "filingDate": "2022-02-02",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669122000009/cmcsa-20211231.htm"
+   },
+   {
+    "accession": "0001166691-21-000008",
+    "filingDate": "2021-02-04",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669121000008/cmcsa-20201231.htm"
+   },
+   {
+    "accession": "0001166691-20-000008",
+    "filingDate": "2020-01-30",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669120000008/cmcsa-12312019x10k.htm"
+   },
+   {
+    "accession": "0001166691-19-000005",
+    "filingDate": "2019-01-31",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669119000005/cmcsa-12312018x10k.htm"
+   },
+   {
+    "accession": "0001166691-18-000004",
+    "filingDate": "2018-01-31",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000116669118000004/cmcsa-12312017x10k.htm"
+   },
+   {
+    "accession": "0001193125-17-030512",
+    "filingDate": "2017-02-03",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1166691/000119312517030512/d290430d10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,312 @@
+{
+ "proxies": {
+  "0001104659-26-116700": {
+   "parserVersion": 1,
+   "filingDate": "2026-10-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465926116700/tm267596-1_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-003952",
+   "result": null
+  },
+  "0001104659-25-090866": {
+   "parserVersion": 1,
+   "filingDate": "2025-09-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925090866/tm252289-12_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-003063",
+   "result": {
+    "ceoPay": 0,
+    "medianPay": 57243,
+    "payRatio": 0,
+    "method": "cross-checked",
+    "employees": 126507,
+    "statedYear": 2024,
+    "excerpt": "annual total compensation of our employees reflects differences in local compensation scales and practices. 2025 Proxy Statement 151 TABLE OF CONTENTS Mr. Musk's 2024 annual total compensation, as reported under \" Executive Compensation for Fiscal Year 2024 - 2024 Summary Compensation Table ,\" was $0, and the median 2024 annual total compensation of all other qualifying employees, as determined pursuant to the methodology set forth below, was $57,243. Consequently, the applicable ratio of such amounts for 2024 was 0.00:1. Our methodology for identifying the median of the 2024 annual total compensation for each individual other than Mr. Musk was as follows: • We selected December 31, 2024, which is within the last three months of 2024, as the date upon which we would identify the \"median e"
+   }
+  },
+  "0001104659-24-053333": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465924053333/tm2326076d15_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001628280-24-002390",
+   "result": {
+    "ceoPay": 0,
+    "medianPay": 45811,
+    "payRatio": 0,
+    "method": "cross-checked",
+    "employees": 140666,
+    "statedYear": 2023,
+    "excerpt": "ary Compensation Table \" above. As we continue our expansion, the median annual total compensation of our employees reflects differences in local compensation scales and practices. Mr. Musk's 2023 annual total compensation, as reported in \" Executive Compensation - Summary Compensation Table, \" was $0, and the median 2023 annual total compensation of all other qualifying 2024 Proxy Statement 135 TABLE OF CONTENTS employees, as determined pursuant to the methodology set forth below, was $45,811. Consequently, the applicable ratio of such amounts for 2023 was 0.00:1. Our methodology for identifying the median of the 2023 annual total compensation for each individual other than Mr. Musk was as follows: • We selected December 31, 2023, which is within the last three months of 2023, as the date"
+   }
+  },
+  "0001193125-23-094075": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312523094075/d451342ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000950170-23-001409",
+   "result": {
+    "ceoPay": 0,
+    "medianPay": 34084,
+    "payRatio": 0,
+    "method": "cross-checked",
+    "employees": 126771,
+    "statedYear": 2022,
+    "excerpt": "ontinue our international expansion, the median annual total compensation of our employees reflects differences in local compensation scales and practices abroad to a greater extent. Mr. Musk's 2022 annual total compensation, as reported in \" Executive Compensation-Summary Compensation Table, \" was $0, and the median 2022 annual total compensation of all other qualifying employees, as determined pursuant to the methodology set forth below, was $34,084. Consequently, the applicable ratio of such amounts for 2022 was 0.00:1. Our methodology for identifying the median of the 2022 annual total compensation for each individual other than Mr. Musk was as follows: | | | • | | | | We selected December 31, 2022, which is within the last three months of 2022, as the date upon which we would identify"
+   }
+  },
+  "0001564590-22-024064": {
+   "parserVersion": 1,
+   "filingDate": "2022-06-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459022024064/tsla-def14a_20220804.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000950170-22-000796",
+   "result": {
+    "ceoPay": 0,
+    "medianPay": 40723,
+    "payRatio": 0,
+    "method": "cross-checked",
+    "employees": 100121,
+    "statedYear": 2021,
+    "excerpt": "ontinue our international expansion, the median annual total compensation of our employees reflects differences in local compensation scales and practices abroad to a greater extent. Mr. Musk's 2021 annual total compensation, as reported in \" Executive Compensation-Summary Compensation Table, \" was $0, and the median 2021 annual total compensation of all other qualifying employees, as determined pursuant to the methodology set forth below, was $40,723. Consequently, the applicable ratio of such amounts for 2021 was 0.00:1. Our methodology for identifying the median of the 2021 annual total compensation for each individual other than Mr. Musk was as follows: | | | • | | We determined that as of December 31, 2021, Tesla and all our subsidiaries had 100,121 individuals qualifying for this ana"
+   }
+  },
+  "0001564590-21-045926": {
+   "parserVersion": 1,
+   "filingDate": "2021-08-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459021045926/tsla-def14a_20210826.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-004599",
+   "result": {
+    "ceoPay": 0,
+    "medianPay": 46150,
+    "payRatio": 0,
+    "method": "cross-checked",
+    "employees": 68854,
+    "statedYear": 2020,
+    "excerpt": "ontinue our international expansion, the median annual total compensation of our employees reflects differences in local compensation scales and practices abroad to a greater extent. Mr. Musk's 2020 annual total compensation, as reported in \" Executive Compensation-Summary Compensation Table, \" was $0, and the median 2020 annual total compensation of all other qualifying employees, as determined pursuant to the methodology set forth below, was $46,150. Consequently, the applicable ratio of such amounts for 2020 was 0.00:1. Our methodology for identifying the median of the 2020 annual total compensation for each individual other than Mr. Musk was as follows: | | | • | | We determined that as of December 31, 2020, Tesla and all of our subsidiaries had 68,854 individuals qualifying for this a"
+   }
+  },
+  "0001564590-20-027321": {
+   "parserVersion": 1,
+   "filingDate": "2020-05-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020027321/tsla-def14a_20200707.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-004475",
+   "result": null
+  },
+  "0001564590-19-014268": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459019014268/tsla-def14a_20190611.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001564590-19-003165",
+   "result": {
+    "ceoPay": 2284044884,
+    "medianPay": 56163,
+    "payRatio": 40668.14,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ase refer to \" Executive Compensation-Compensation Discussion and Analysis-Chief Executive Officer Compensation-Realized Compensation \" above for additional supplemental information. Mr. Musk's 2018 annual total compensation, as reported in \" Executive Compensation-Summary Compensation Table, \" was $ 2,284,044,884 , and the median 2018 annual total compensation of all other employees, as determined pursuant to the methodology set forth below, was $56,163. Consequently, the applicable ratio of such amounts for 2018 was 40,668.14:1. However, using the \"Total CEO realized compensation\" for 2018 of $56,380 as described in \" Executive Compensation-Compensation Discussion and Analysis-Chief Executive Officer Compensation-Realized Compensation \" above, such ratio was 1.00:1. Our methodology for i"
+   }
+  },
+  "0001564590-18-009339": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459018009339/tsla-def14a_20180606.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001564590-18-002956",
+   "result": null
+  },
+  "0001193125-18-035345": {
+   "parserVersion": 1,
+   "filingDate": "2018-02-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312518035345/d524719ddef14a.htm",
+   "periodEnd": "2016-12-31",
+   "tenK": "0001564590-17-003118",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001564590-19-003165": {
+   "parserVersion": 1,
+   "employees": 48817
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 111943000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-137560"
+   },
+   "2010": {
+    "revenue": 116744000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-096241"
+   },
+   "2011": {
+    "revenue": 204242000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-069681"
+   },
+   "2012": {
+    "revenue": 413256000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-15-001031"
+   },
+   "2013": {
+    "revenue": 2013496000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-16-013195"
+   },
+   "2014": {
+    "revenue": 3198356000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-17-003118"
+   },
+   "2015": {
+    "revenue": 4046025000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-002956"
+   },
+   "2016": {
+    "revenue": 7000132000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-19-003165"
+   },
+   "2017": {
+    "revenue": 11759000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-20-004475"
+   },
+   "2018": {
+    "revenue": 21461268000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-19-003165"
+   },
+   "2019": {
+    "revenue": 24578000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-22-000796"
+   },
+   "2020": {
+    "revenue": 31536000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-23-001409"
+   },
+   "2021": {
+    "revenue": 53823000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-24-002390"
+   },
+   "2022": {
+    "revenue": 81462000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-25-003063"
+   },
+   "2023": {
+    "revenue": 96773000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-003952"
+   },
+   "2024": {
+    "revenue": 97690000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-003952"
+   },
+   "2025": {
+    "revenue": 94827000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-003952"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2025": 158359000000
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-003952",
+    "filingDate": "2026-01-29",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026003952/tsla-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-003063",
+    "filingDate": "2025-01-30",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828025003063/tsla-20241231.htm"
+   },
+   {
+    "accession": "0001628280-24-002390",
+    "filingDate": "2024-01-29",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828024002390/tsla-20231231.htm"
+   },
+   {
+    "accession": "0000950170-23-001409",
+    "filingDate": "2023-01-31",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017023001409/tsla-20221231.htm"
+   },
+   {
+    "accession": "0000950170-22-000796",
+    "filingDate": "2022-02-07",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000095017022000796/tsla-20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-004599",
+    "filingDate": "2021-02-08",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459021004599/tsla-10k_20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-004475",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020004475/tsla-10k_20191231.htm"
+   },
+   {
+    "accession": "0001564590-19-003165",
+    "filingDate": "2019-02-19",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459019003165/tsla-10k_20181231.htm"
+   },
+   {
+    "accession": "0001564590-18-002956",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459018002956/tsla-10k_20171231.htm"
+   },
+   {
+    "accession": "0001564590-17-003118",
+    "filingDate": "2017-03-01",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459017003118/tsla-10k_20161231.htm"
+   }
+  ]
+ }
+}

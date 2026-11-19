@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0000051143-26-000025": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000025/ibm-20260306.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000051143-26-000010",
+   "result": {
+    "ceoPay": 37989685,
+    "medianPay": 49630,
+    "payRatio": 765,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "reflect forfeiture of IBM Contributions made during the last 12 months under plan terms. See column (c) in 2025 Nonqualified Deferred Compensation Table. Pay ratio The ratio of the Chairman, President and CEO's annual total compensation to that of the median employee's annual total compensation is 765:1. This ratio is based on annual total compensation of $37,989,685 for the Chairman, President and CEO (as reported in the Summary Compensation Table) and $49,630 for the median employee. The base salary for the median employee was $48,001. The median employee used for the pay ratio disclosure was determined as of October 1, 2025 using annual base pay for IBM employees on that date; all foreign currencies were converted to U.S. dollars. | | | | | | | 2026 Notice of Annual Meeting & Proxy Sta"
+   }
+  },
+  "0001104659-25-022186": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/51143/000110465925022186/tm2430706-6_def14aseq1.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000051143-25-000015",
+   "result": {
+    "ceoPay": 25143682,
+    "medianPay": 48582,
+    "payRatio": 518,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "Compensation Table. (11) The Excess Savings Plan does not permit mid-year enrollments, and as Ms. Robinson was hired July 1, 2024, she was not a participant in the plan in 2024. Pay Ratio The ratio of the CEO's annual total compensation to that of the median employee's annual total compensation is 518:1. This ratio is based on annual total compensation of $25,143,682 for the CEO (as reported in the Summary Compensation Table) and $48,582 for the median employee. The base salary for the median employee was $43,069. The median employee used for the pay ratio disclosure was determined as of October 1, 2024 using annual base pay for IBM employees on that date; all foreign currencies were converted to U.S. dollars. 64 2025 Notice of Annual Meeting & Proxy Statement | 2024 Potential Payments Up"
+   }
+  },
+  "0001104659-24-032641": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/51143/000110465924032641/tm2329614-d3_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000051143-24-000012",
+   "result": {
+    "ceoPay": 20398426,
+    "medianPay": 65463,
+    "payRatio": 312,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "educed to reflect forfeiture of Match and Automatic Contribution made during the last 12 months under plan terms. See column (c) in 2023 Nonqualified Deferred Compensation Table. Pay Ratio The ratio of the CEO's annual total compensation to that of the median employee's annual total compensation is 312:1. This ratio is based on annual total compensation of $20,398,426 for the CEO (as reported in the Summary Compensation Table) and $65,463 for the median employee. The base salary for the median employee was $45,197. The median employee used for the pay ratio disclosure was determined as of October 1, 2021 using annual base pay for IBM employees on that date; all foreign currencies were converted to U.S. dollars. 64 2024 Notice of Annual Meeting & Proxy Statement | 2023 Potential Payments Up"
+   }
+  },
+  "0001104659-23-029014": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/51143/000110465923029014/tm231774d2_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001558370-23-002376",
+   "result": {
+    "ceoPay": 16580075,
+    "medianPay": 61242,
+    "payRatio": 271,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "rice of IBM common stock on the vesting date ($140.89). See the Compensation Discussion and Analysis and the 2022 Summary Compensation Table for details on these types of awards. Pay Ratio The ratio of the CEO's annual total compensation to that of the median employee's annual total compensation is 271:1. This ratio is based on annual total compensation of $16,580,075 for the CEO (as reported in the Summary Compensation Table) and $61,242 for the median employee. The base salary for the median employee was $45,197. The median employee used for the pay ratio disclosure was determined as of October 1, 2021 using annual base pay for IBM employees on that date; all foreign currencies were converted to U.S. dollars. 2023 Notice of Annual Meeting & Proxy Statement | 2022 Outstanding Equity Award"
+   }
+  },
+  "0001104659-22-031075": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/51143/000110465922031075/tm2122634-2_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001558370-22-001584",
+   "result": {
+    "ceoPay": 17550959,
+    "medianPay": 67926,
+    "payRatio": 258,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "flect an adjustment for the exclusion of dividend equivalents. 2022 Notice of Annual Meeting & Proxy Statement | 2021 G RANTS OF P LAN- B ASED A WARDS T ABLE 51 TABLE OF CONTENTS Pay Ratio The ratio of the CEO's annual total compensation to that of the median employee's annual total compensation is 258:1. This ratio is based on annual total compensation of $17,550,959 for the CEO (as reported in the Summary Compensation Table) and $67,926 for the median employee. The base salary for the median employee was $45,197. The median employee used for the pay ratio disclosure was determined as of October 1, 2021 using annual base pay for IBM employees on that date (excluding Kyndryl employees, who would separate and begin employment with Kyndryl on November 4, 2021); all foreign currencies were co"
+   }
+  },
+  "0001193125-21-073223": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/51143/000119312521073223/d46027ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001558370-21-001489",
+   "result": {
+    "ceoPay": 17009682,
+    "medianPay": 49001,
+    "payRatio": 347,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "for the exclusion of dividend equivalents. | | | | | | | | 54 | | | | 2021 Notice of Annual Meeting & Proxy Statement | 2020 Grants of Plan-Based Awards Table | Table of Contents Pay Ratio The ratio of the CEOs annual total compensation to that of the median employees annual total compensation is 347:1 This ratio is based on annual total compensation of $17,009,682 for the CEO (as reported in the Summary Compensation Table) and $49,001 for the median employee. The median employee used for the pay ratio disclosure was determined as of October 1, 2020 using annual base pay for IBM employees on that date; all foreign currencies were converted to U.S. dollars. The calculation to determine the median employee was updated this year as required by SEC rules, and resulted in a new median employe"
+   }
+  },
+  "0001193125-20-067199": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/51143/000119312520067199/d845103ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001558370-20-001334",
+   "result": {
+    "ceoPay": 20160865,
+    "medianPay": 56896,
+    "payRatio": 354,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "multiplying the number of shares by the closing price of IBM stock on the vesting date. See the 2019 Summary Compensation Table Narrative for details on these types of awards. | Pay Ratio The ratio of the CEOs annual total compensation to that of the median employees annual total compensation is 354:1. This ratio is based on annual total compensation of $20,160,865 for the CEO (as reported in the Summary Compensation Table) and $56,896 for the median employee. The median employee used for the pay ratio disclosure in the Companys 2018 and 2019 Proxy Statements was determined as of October 1, 2017 using annual base pay for IBM employees on that date; all foreign currencies were converted to U.S. dollars. The original median employee has since left the Company; accordingly, the Company ha"
+   }
+  },
+  "0001104659-19-013856": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/51143/000110465919013856/a19-2536_1def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001047469-19-000712",
+   "result": {
+    "ceoPay": 17552218,
+    "medianPay": 55088,
+    "payRatio": 319,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "08/2018 | | | | 22,344 | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Pay Ratio | | | | | | | | | | | | | | | | | | | | The ratio of the CEOs annual total compensation to that of the median employees annual total compensation is 319:1. This ratio is based on annual total compensation of $17,552,218 for the CEO (as reported in the Summary Compensation Table) and $55,088 for the median employee. Since there have been no significant changes, the Company used the same median employee that was determined as of October 1, 2017 using annual base pay for IBM employees on that date; all foreign currencies were converted to U.S. dollars. For purposes of determining our median employee in 2017, approximately 17,000 employees* (whi"
+   }
+  },
+  "0001104659-18-016710": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/51143/000110465918016710/a18-2910_1def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001047469-18-001117",
+   "result": {
+    "ceoPay": 18595350,
+    "medianPay": 54491,
+    "payRatio": 341,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "y multiplying the number of shares by the closing price of IBM stock on the vesting date. See the 2017 Summary Compensation Table Narrative for details on these types of rewards. Pay Ratio The ratio of the CEOs annual total compensation to that of the median employees annual total compensation is 341:1. This ratio is based on annual total compensation of $18,595,350 for the CEO (as reported in the Summary Compensation Table) and $54,491 for the median employee. The median employee was determined using annual base pay for IBM employees as of October 1, 2017; all foreign currencies were converted to U.S. dollars. For purposes of determining our median employee, approximately 17,000 employees* (which represents less than 5% of IBMs total employees) were excluded either because they became"
+   }
+  }
+ },
+ "tenKs": {
+  "0001047469-18-001117": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001047469-19-000712": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-20-001334": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-21-001489": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-22-001584": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-23-002376": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000051143-24-000012": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000051143-25-000015": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000051143-26-000010": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 98786000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-10-001151"
+   },
+   "2008": {
+    "revenue": 103630000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-001117"
+   },
+   "2009": {
+    "revenue": 95758000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-12-001742"
+   },
+   "2010": {
+    "revenue": 99870000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-13-001698"
+   },
+   "2011": {
+    "revenue": 106916000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-14-001302"
+   },
+   "2012": {
+    "revenue": 102874000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-15-001106"
+   },
+   "2013": {
+    "revenue": 98367000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-16-010329"
+   },
+   "2014": {
+    "revenue": 92793000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-17-001061"
+   },
+   "2015": {
+    "revenue": 81741000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-18-001117"
+   },
+   "2016": {
+    "revenue": 79919000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-19-000712"
+   },
+   "2017": {
+    "revenue": 79139000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-20-001334"
+   },
+   "2018": {
+    "revenue": 79591000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-21-001489"
+   },
+   "2019": {
+    "revenue": 57714000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-22-001584"
+   },
+   "2020": {
+    "revenue": 55179000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-23-002376"
+   },
+   "2021": {
+    "revenue": 57350000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000051143-24-000012"
+   },
+   "2022": {
+    "revenue": 60530000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000051143-25-000015"
+   },
+   "2023": {
+    "revenue": 61860000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000051143-26-000010"
+   },
+   "2024": {
+    "revenue": 62753000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000051143-26-000010"
+   },
+   "2025": {
+    "revenue": 67535000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000051143-26-000010"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000051143-26-000010",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm"
+   },
+   {
+    "accession": "0000051143-25-000015",
+    "filingDate": "2025-02-25",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114325000015/ibm-20241231.htm"
+   },
+   {
+    "accession": "0000051143-24-000012",
+    "filingDate": "2024-02-26",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114324000012/ibm-20231231.htm"
+   },
+   {
+    "accession": "0001558370-23-002376",
+    "filingDate": "2023-02-28",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000155837023002376/ibm-20221231x10k.htm"
+   },
+   {
+    "accession": "0001558370-22-001584",
+    "filingDate": "2022-02-22",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000155837022001584/ibm-20211231x10k.htm"
+   },
+   {
+    "accession": "0001558370-21-001489",
+    "filingDate": "2021-02-23",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000155837021001489/ibm-20201231x10k.htm"
+   },
+   {
+    "accession": "0001558370-20-001334",
+    "filingDate": "2020-02-25",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000155837020001334/ibm-20191231x10k2af531.htm"
+   },
+   {
+    "accession": "0001047469-19-000712",
+    "filingDate": "2019-02-26",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000104746919000712/a2237254z10-k.htm"
+   },
+   {
+    "accession": "0001047469-18-001117",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000104746918001117/a2233835z10-k.htm"
+   },
+   {
+    "accession": "0001047469-17-001061",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000104746917001061/a2230222z10-k.htm"
+   }
+  ]
+ }
+}

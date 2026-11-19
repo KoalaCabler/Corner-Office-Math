@@ -1,0 +1,49 @@
+{
+ "proxies": {
+  "0001628280-26-024259": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/2058873/000162828026024259/q-20260408.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0002058873-26-000010",
+   "result": null
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2023": {
+    "revenue": 4035000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0002058873-26-000010"
+   },
+   "2024": {
+    "revenue": 4335000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0002058873-26-000010"
+   },
+   "2025": {
+    "revenue": 4754000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0002058873-26-000010"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2025": 20646678
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0002058873-26-000010",
+    "filingDate": "2026-02-26",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/2058873/000205887326000010/q-20251231.htm"
+   }
+  ]
+ }
+}

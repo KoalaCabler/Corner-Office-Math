@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001193125-26-092500": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312526092500/d52987ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001390777-26-000033",
+   "result": {
+    "ceoPay": 83495625,
+    "medianPay": 81987,
+    "payRatio": 1018,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "nsation Disclosures | Pay Ratio Pay Ratio set forth below is the annual total compensation of our median employee, the annual total compensation of Mr. Vince, and the ratio of those two values: | | | • | | | | The 2025 annual total compensation of the median employee of BNY (other than our CEO) was $81,987 1. ; | | | | • | | | | The 2025 annual total compensation of our CEO, Mr. Vince, was $83,495,625 2. ; and | | | | • | | | | For 2025, the ratio of the annual total compensation of Mr. Vince to the annual total compensation of our median employee was 1,018 to 1. | Background We previously identified our median employee (who is located in the U.S.) using our world-wide employee population (without exclusions) as of October 31, 2023 and measuring compensation based on total pay actually rec"
+   }
+  },
+  "0001193125-25-046216": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312525046216/d801554ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001390777-25-000046",
+   "result": {
+    "ceoPay": 23315851,
+    "medianPay": 80839,
+    "payRatio": 288,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ther Compensation Disclosures | Pay Ratio Set forth below is the annual total compensation of our median employee, the annual total compensation of Mr. Vince, and the ratio of those two values: | | | • | | | | The 2024 annual total compensation of the median employee of BNY (other than our CEO) was $80,839 1 ; | | | | • | | | | The 2024 annual total compensation of our CEO, Mr. Vince, was $23,315,851 2 ; and | | | | • | | | | For 2024, the ratio of the annual total compensation of Mr. Vince to the annual total compensation of our median employee was 288 to 1. | Background We previously identified our median employee (who is located in the U.S.) using our world-wide employee population (without exclusions) as of October 31, 2023 and measuring compensation based on total pay actually receive"
+   }
+  },
+  "0001193125-24-051895": {
+   "parserVersion": 1,
+   "filingDate": "2024-02-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312524051895/d525388ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001390777-24-000051",
+   "result": {
+    "ceoPay": 16819670,
+    "medianPay": 80501,
+    "payRatio": 209,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "mpensation Disclosures | Pay Ratio Set forth below is the annual total compensation of our median employee, the annual total compensation of Mr. Vince, and the ratio of those two values: | | | • | | | | The 2023 annual total compensation of the median employee of BNY Mellon (other than our CEO) was $80,501 (1) ; | | | | • | | | | The 2023 annual total compensation of our CEO, Mr. Vince, was $16,819,670 (2) ; and | | | | • | | | | For 2023, the ratio of the annual total compensation of Mr. Vince to the annual total compensation of our median employee was 209 to 1. | Background We identified our median employee using our world-wide employee population (without exclusions) as of October 31, 2023 and measuring compensation based on total pay actually received over the period November 1, 2022 -"
+   }
+  },
+  "0001193125-23-055130": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312523055130/d405459ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001390777-23-000033",
+   "result": {
+    "ceoPay": 11220925,
+    "medianPay": 70737,
+    "payRatio": 159,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "mpensation Disclosures | Pay Ratio Set forth below is the annual total compensation of our median employee, the annual total compensation of Mr. Vince, and the ratio of those two values: | | | • | | | | The 2022 annual total compensation of the median employee of BNY Mellon (other than our CEO) was $70,737 (1) ; | | | | • | | | | The 2022 annual total compensation of our CEO, Mr. Vince, was $11,220,925 (2) ; and | | | | • | | | | For 2022, the ratio of the annual total compensation of Mr. Vince to the annual total compensation of our median employee was 159 to 1. | Background We previously identified our median employee (who is located in the U.S.) using our world-wide employee population (without exclusions) as of October 31, 2020 and measuring compensation based on total pay actually rec"
+   }
+  },
+  "0001193125-22-059759": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312522059759/d198874ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001390777-22-000043",
+   "result": {
+    "ceoPay": 14129539,
+    "medianPay": 76123,
+    "payRatio": 186,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ensation Disclosures | Pay Ratio Set forth below is the annual total compensation of our median employee, the annual total compensation of Mr. Gibbons, and the ratio of those two values: | | |  | | | | The 2021 annual total compensation of the median employee of BNY Mellon (other than our CEO) was $76,123 (1) ; | | | |  | | | | The 2021 annual total compensation of our CEO, Mr. Gibbons, was $14,129,539 (2) ; and | | | |  | | | | For 2021, the ratio of the annual total compensation of Mr. Gibbons to the annual total compensation of our median employee was 186 to 1. | Background We previously identified our median employee (who is located in the U.S.) using our world-wide employee population (without exclusions) as of October 31, 2020 and measuring compensation based on total pay actually"
+   }
+  },
+  "0001193125-21-064461": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312521064461/d112399ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001390777-21-000037",
+   "result": {
+    "ceoPay": 9392052,
+    "medianPay": 77487,
+    "payRatio": 121,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ensation Disclosures | Pay Ratio Set forth below is the annual total compensation of our median employee, the annual total compensation of Mr. Gibbons, and the ratio of those two values: | | |  | | | | The 2020 annual total compensation of the median employee of BNY Mellon (other than our CEO) was $77,487 (1) ; | | | |  | | | | The 2020 annual total compensation of our CEO, Mr. Gibbons, was $9,392,052 (2) ; and | | | |  | | | | For 2020, the ratio of the annual total compensation of Mr. Gibbons to the annual total compensation of our median employee was 121 to 1. | Background We identified our median employee (who is located in the U.S.) using our world-wide employee population (without exclusions) as of October 31, 2020 and measuring compensation based on total pay actually received ov"
+   }
+  },
+  "0001193125-20-060464": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312520060464/d838155ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001390777-20-000044",
+   "result": {
+    "ceoPay": 13437888,
+    "medianPay": 63202,
+    "payRatio": 213,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "tion Disclosures | Pay Ratio Set forth below is the annual total compensation of our median employee, the annualized total compensation of Mr. Gibbons, and the ratio of those two values: | | |  | | | | The 2019 annual total compensation of the median employee of BNY Mellon (other than our CEO) was $63,202; | | | |  | | | | The 2019 annualized total compensation of our Interim CEO, Mr. Gibbons, was $13,437,888; and | | | |  | | | | For 2019, the ratio of the annual total compensation of Mr. Gibbons to the median annual total compensation of all our employees was 213 to 1. | Background We previously identified our median employee (who is located in the U.S.) using our world-wide employee population (without exclusions) as of October 31, 2017 and measuring compensation based on total pay a"
+   }
+  },
+  "0001193125-19-069151": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312519069151/d638623ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001390777-19-000050",
+   "result": {
+    "ceoPay": 9383885,
+    "medianPay": 61380,
+    "payRatio": 153,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ts on page 60 above. | Pay Ratio Set forth below is the annual total compensation of our median employee, the annual total compensation of Mr. Scharf, and the ratio of those two values: | | |  | | | | The 2018 annual total compensation of the median employee of BNY Mellon (other than our CEO) was $61,380; | | | |  | | | | The 2018 annual total compensation of our CEO, Mr. Scharf, was $9,383,885; and | | | |  | | | | For 2018, the ratio of the annual total compensation of Mr. Scharf to the median annual total compensation of all our employees was 153 to 1. | Background As disclosed in our 2018 proxy statement, we previously identified our median employee (who is located in the U.S.) using our world-wide employee population (without exclusions) as of October 31, 2018 and measuring compen"
+   }
+  },
+  "0001193125-18-077373": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1390777/000119312518077373/d498493ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001390777-18-000069",
+   "result": {
+    "ceoPay": 19837535,
+    "medianPay": 55970,
+    "payRatio": 354,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "mpensation Disclosure | Pay Ratio Set forth below is the annual total compensation of our median employee, the annual total compensation of Mr. Scharf, and the ratio of those two values: | | |  | | | | The 2017 annual total compensation of the median employee of BNY Mellon (other than our CEO) was $55,970; | | | |  | | | | The 2017 annual total compensation of our CEO, Mr. Scharf, was $19,837,535; and | | | |  | | | | For 2017, the ratio of the annual total compensation of Mr. Scharf to the median annual total compensation of all our employees was 354 to 1. | Background To identify our median employee, we used our world-wide employee population (without exclusions) as of October 31, 2017 and measured compensation based on total pay actually received over the period November 1, 2016 Oct"
+   }
+  }
+ },
+ "tenKs": {
+  "0001390777-18-000069": {
+   "parserVersion": 1,
+   "employees": 52500
+  },
+  "0001390777-19-000050": {
+   "parserVersion": 1,
+   "employees": 51300
+  },
+  "0001390777-20-000044": {
+   "parserVersion": 1,
+   "employees": 48400
+  },
+  "0001390777-21-000037": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001390777-22-000043": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001390777-23-000033": {
+   "parserVersion": 1,
+   "employees": 51700
+  },
+  "0001390777-24-000051": {
+   "parserVersion": 1,
+   "employees": 53400
+  },
+  "0001390777-25-000046": {
+   "parserVersion": 1,
+   "employees": 51800
+  },
+  "0001390777-26-000033": {
+   "parserVersion": 1,
+   "employees": 48100
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 5670000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001193125-10-042948"
+   },
+   "2008": {
+    "revenue": 13573000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-049932"
+   },
+   "2009": {
+    "revenue": 7654000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-085349"
+   },
+   "2010": {
+    "revenue": 13816000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-084562"
+   },
+   "2011": {
+    "revenue": 14680000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001445305-14-000745"
+   },
+   "2012": {
+    "revenue": 14534000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-15-001194"
+   },
+   "2013": {
+    "revenue": 14968000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-16-000204"
+   },
+   "2014": {
+    "revenue": 15608000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-16-000204"
+   },
+   "2015": {
+    "revenue": 15126000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-16-000204"
+   },
+   "2016": {
+    "revenue": 3575000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001390777-19-000050"
+   },
+   "2017": {
+    "revenue": 15543000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-20-000044"
+   },
+   "2018": {
+    "revenue": 16392000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-21-000037"
+   },
+   "2019": {
+    "revenue": 16462000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-22-000043"
+   },
+   "2020": {
+    "revenue": 15808000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-23-000033"
+   },
+   "2021": {
+    "revenue": 15931000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-24-000051"
+   },
+   "2022": {
+    "revenue": 16529000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-25-000046"
+   },
+   "2023": {
+    "revenue": 17697000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-26-000033"
+   },
+   "2024": {
+    "revenue": 18619000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-26-000033"
+   },
+   "2025": {
+    "revenue": 20080000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001390777-26-000033"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001390777-26-000033",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000033/bk-20251231.htm"
+   },
+   {
+    "accession": "0001390777-25-000046",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077725000046/bk-20241231.htm"
+   },
+   {
+    "accession": "0001390777-24-000051",
+    "filingDate": "2024-02-28",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077724000051/bk-20231231.htm"
+   },
+   {
+    "accession": "0001390777-23-000033",
+    "filingDate": "2023-02-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077723000033/bk-20221231.htm"
+   },
+   {
+    "accession": "0001390777-22-000043",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077722000043/bk-20211231.htm"
+   },
+   {
+    "accession": "0001390777-21-000037",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077721000037/bk-20201231.htm"
+   },
+   {
+    "accession": "0001390777-20-000044",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077720000044/form10-k4q19.htm"
+   },
+   {
+    "accession": "0001390777-19-000050",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077719000050/form10-k_4q18.htm"
+   },
+   {
+    "accession": "0001390777-18-000069",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077718000069/form10-k_4q17.htm"
+   },
+   {
+    "accession": "0001390777-17-000065",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1390777/000139077717000065/bk201610-k_4q16.htm"
+   }
+  ]
+ }
+}

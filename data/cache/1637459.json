@@ -1,0 +1,250 @@
+{
+ "proxies": {
+  "0001193125-26-141397": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1637459/000119312526141397/khc-20260402.htm",
+   "periodEnd": "2025-12-27",
+   "tenK": "0001637459-26-000009",
+   "result": null
+  },
+  "0001308179-25-000266": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1637459/000130817925000266/khc4368711-def14a.htm",
+   "periodEnd": "2024-12-28",
+   "tenK": "0001637459-25-000011",
+   "result": null
+  },
+  "0001308179-24-000234": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1637459/000130817924000234/lkhc2024_def14a.htm",
+   "periodEnd": "2023-12-30",
+   "tenK": "0001637459-24-000018",
+   "result": null
+  },
+  "0001104659-23-036287": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465923036287/tm2230899d2_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001637459-23-000009",
+   "result": null
+  },
+  "0001104659-22-037838": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465922037838/tm2134352-1_def14a.htm",
+   "periodEnd": "2021-12-25",
+   "tenK": "0001637459-22-000018",
+   "result": null
+  },
+  "0001104659-21-042002": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465921042002/tm213761-2_def14a.htm",
+   "periodEnd": "2020-12-26",
+   "tenK": "0001637459-21-000009",
+   "result": null
+  },
+  "0001637459-20-000046": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745920000046/kraft-heinzproxy2020.htm",
+   "periodEnd": "2019-12-28",
+   "tenK": "0001637459-20-000027",
+   "result": {
+    "ceoPay": 44158287,
+    "medianPay": 42689,
+    "payRatio": 1034,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "not widely distribute annual equity awards to employees and because we believe that this measure reasonably reflects the total annual compensation of our employees. After applying the methodology described above, our median employee compensation using the Summary Compensation Table requirements was $42,689. Our CEO's compensation, using the annualized Total Compensation of the current CEO methodology, was $44,158,287. Therefore, our CEO to median employee pay ratio (\"CEO pay ratio\"), a reasonable estimate calculated in a manner consistent with Item 402(u), is 1034:1. The CEO's annualized Total Compensation of $44,158,287 included $40,746,195 related to the grant date fair value of RSUs and PSUs, which were one-time awards related to the new CEO's employment agreement. If we exclude the gra"
+   }
+  },
+  "0001193125-19-211214": {
+   "parserVersion": 1,
+   "filingDate": "2019-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1637459/000119312519211214/d711101ddef14a.htm",
+   "periodEnd": "2018-12-29",
+   "tenK": "0001637459-19-000049",
+   "result": {
+    "ceoPay": 29047768,
+    "medianPay": 47612,
+    "payRatio": 610,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "not widely distribute annual equity awards to employees and because we believe that this measure reasonably reflects the total annual compensation of our employees. After applying the methodology described above, our median employee compensation using the Summary Compensation Table requirements was $47,612. Our CEOs compensation in the Summary Compensation Table was $29,047,768. Therefore, our CEO to median employee pay ratio (CEO pay ratio), a reasonable estimate calculated in a manner consistent with Item 402(u), is 610:1. The CEOs total compensation of $29,047,768 included $1,060,000 payable pursuant to the PBP for 2018, as well as $17,838,582 related to the grant date fair value of PSUs. As noted above, Mr. Hees has decided to forfeit the PBP for 2018, and as of December 29, 2018,"
+   }
+  },
+  "0001637459-18-000028": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745918000028/kraft-heinzproxy2018.htm",
+   "periodEnd": "2017-12-30",
+   "tenK": "0001637459-18-000015",
+   "result": {
+    "ceoPay": 4194179,
+    "medianPay": 46006,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "not widely distribute annual equity awards to employees and because we believe that this measure reasonably reflects the total annual compensation of our employees. After applying the methodology described above, our median employee compensation using the Summary Compensation Table requirements was $46,006. Our CEO's compensation in the Summary Compensation Table was $4,194,179. Therefore, our CEO to median employee pay ratio is 91:1. 38 Table of Contents OWNERSHIP OF EQUITY SECURITIES The following table shows the number of shares of our common stock beneficially owned as of February 27, 2018, unless otherwise noted, by each director, director nominee and Named Executive Officer, as well as the number of shares beneficially owned by all of our current directors and executive officers as a"
+   }
+  }
+ },
+ "tenKs": {
+  "0001637459-18-000015": {
+   "parserVersion": 1,
+   "employees": 39000
+  },
+  "0001637459-19-000049": {
+   "parserVersion": 1,
+   "employees": 38000
+  },
+  "0001637459-20-000027": {
+   "parserVersion": 1,
+   "employees": 37000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2014": {
+    "revenue": 10922000000,
+    "periodEnd": "2014-12-28",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001637459-17-000007"
+   },
+   "2016": {
+    "revenue": 26487000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001637459-18-000015"
+   },
+   "2017": {
+    "revenue": 26232000000,
+    "periodEnd": "2017-12-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001637459-18-000015"
+   },
+   "2018": {
+    "revenue": 26268000000,
+    "periodEnd": "2018-12-29",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001637459-21-000009"
+   },
+   "2019": {
+    "revenue": 24977000000,
+    "periodEnd": "2019-12-28",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001637459-22-000018"
+   },
+   "2020": {
+    "revenue": 26185000000,
+    "periodEnd": "2020-12-26",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001637459-23-000009"
+   },
+   "2021": {
+    "revenue": 26042000000,
+    "periodEnd": "2021-12-25",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001637459-24-000018"
+   },
+   "2022": {
+    "revenue": 26485000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001637459-25-000011"
+   },
+   "2023": {
+    "revenue": 26640000000,
+    "periodEnd": "2023-12-30",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001637459-26-000009"
+   },
+   "2024": {
+    "revenue": 25846000000,
+    "periodEnd": "2024-12-28",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001637459-26-000009"
+   },
+   "2025": {
+    "revenue": 24942000000,
+    "periodEnd": "2025-12-27",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001637459-26-000009"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001637459-26-000009",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000009/khc-20251227.htm"
+   },
+   {
+    "accession": "0001637459-25-000011",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745925000011/khc-20241228.htm"
+   },
+   {
+    "accession": "0001637459-24-000018",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745924000018/khc-20231230.htm"
+   },
+   {
+    "accession": "0001637459-23-000009",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745923000009/khc-20221231.htm"
+   },
+   {
+    "accession": "0001637459-22-000018",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745922000018/khc-20211225.htm"
+   },
+   {
+    "accession": "0001637459-21-000009",
+    "filingDate": "2021-02-17",
+    "reportDate": "2020-12-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745921000009/khc-20201226.htm"
+   },
+   {
+    "accession": "0001637459-20-000027",
+    "filingDate": "2020-02-14",
+    "reportDate": "2019-12-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745920000027/form10-k2019.htm"
+   },
+   {
+    "accession": "0001637459-19-000049",
+    "filingDate": "2019-06-07",
+    "reportDate": "2018-12-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745919000049/form10-k2018.htm"
+   },
+   {
+    "accession": "0001637459-18-000015",
+    "filingDate": "2018-02-16",
+    "reportDate": "2017-12-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745918000015/form10-k2017.htm"
+   },
+   {
+    "accession": "0001637459-17-000007",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745917000007/khc201610k.htm"
+   }
+  ]
+ }
+}

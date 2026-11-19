@@ -1,0 +1,364 @@
+{
+ "proxies": {
+  "0000352541-26-000025": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254126000025/lnt-20260330.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000352541-26-000007",
+   "result": {
+    "ceoPay": 8999073,
+    "medianPay": 177645,
+    "payRatio": 51,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "payment. (7) Mr. Smyth was not a named executive officer in 2023 or 2024. 2025 CEO Pay Ratio As required by SEC rules, we are providing the following information based on reasonable estimates. For 2025, the median of the annual total compensation of all employees (other than CEO) of the Company was $177,645. The annual total compensation of Alliant Energy's CEO, as reported in the Summary Compensation Table for 2025 above, was $8,999,073. The ratio of the annual total compensation of Alliant Energy's CEO to the median of the annual total compensation of all employees for 2025 was 51 to 1. As permitted by SEC rules, the median employee for 2025 is the same employee identified in 2023 because there have not been changes to our employee population or employee compensation arrangements in 2025"
+   }
+  },
+  "0000352541-25-000036": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254125000036/lnt-20250331.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000352541-25-000014",
+   "result": {
+    "ceoPay": 6971735,
+    "medianPay": 136985,
+    "payRatio": 51,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "mber 31, 2024 and became non-employee Chairman of the Board at that time. 2024 CEO Pay Ratio As required by SEC rules, we are providing the following information based on reasonable estimates. For 2024, the median of the annual total compensation of all employees (other than CEO) of the Company was $136,985. The annual total compensation of Alliant Energy's CEO, as reported in the Summary Compensation Table for 2024 above, was $6,971,735. The ratio of the annual total compensation of Alliant Energy's CEO to the median of the annual total compensation of all employees for 2024 was 51 to 1. As permitted by SEC rules, the median employee for 2024 is the same employee identified in 2023 because there have not been changes to our employee population or employee compensation arrangements in 2024"
+   }
+  },
+  "0000352541-24-000038": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254124000038/lnt-20240401.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000352541-24-000014",
+   "result": {
+    "ceoPay": 9709782,
+    "medianPay": 173346,
+    "payRatio": 56,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "n and Mr. Sundararajan were not named executive officers in 2021 or 2022. 2023 CEO Pay Ratio As required by SEC rules, we are providing the following information based on reasonable estimates. For 2023, the median of the annual total compensation of all employees (other than CEO) of the Company was $173,346. The annual total compensation of Alliant Energy's CEO, as reported in the Summary Compensation Table for 2023 above, was $9,709,782. The ratio of the annual total compensation of Alliant Energy's CEO to the median of the annual total compensation of all employees for 2023 was 56 to 1. In 2023, both Mr. Larsen and Ms. Barton served as CEO of IPL and WPL. We used Ms. Barton's annualized compensation to calculate the CEO pay ratio for IPL and WPL. To calculate Ms. Barton's annualized comp"
+   }
+  },
+  "0000352541-23-000042": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254123000042/lnt-20230403.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000352541-23-000017",
+   "result": {
+    "ceoPay": 7286977,
+    "medianPay": 100691,
+    "payRatio": 72,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "Company. (7) Mr. Luhrs was not a named executive officer in 2020 or 2021. 2022 CEO Pay Ratio As required by SEC rules, we are providing the following information based on reasonable estimates. For 2022, the median of the annual total compensation of all employees (other than CEO) of the Company was $100,691. The annual total compensation of our CEO, as reported in the Summary Compensation Table for 2022 above, was $7,286,977. The ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees for 2022 was 72 to 1. As permitted by the SEC rules, the median employee utilized for 2022 is the same employee identified in 2020 because there have been no changes in our employee population or employee compensation arrangements that we reasonably be"
+   }
+  },
+  "0000352541-22-000041": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254122000041/lnt2022def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000352541-22-000020",
+   "result": {
+    "ceoPay": 10449260,
+    "medianPay": 110610,
+    "payRatio": 94,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "n for a business purpose at no aggregate incremental cost to the Company. 2021 CEO Pay Ratio As required by SEC rules, we are providing the following information based on reasonable estimates. For 2021, the median of the annual total compensation of all employees (other than CEO) of the Company was $110,610. The annual total compensation of our CEO, as reported in the Summary Compensation Table for 2021 above, was $10,449,260. The ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees for 2021 was 94 to 1. As permitted by the SEC rules, the median employee utilized for 2021 is the same employee identified in 2020 because there have been no changes in our employee population or employee compensation arrangements that we reasonably b"
+   }
+  },
+  "0000352541-21-000043": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254121000043/lnt2021def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000352541-21-000022",
+   "result": {
+    "ceoPay": 11020134,
+    "medianPay": 199102,
+    "payRatio": 55,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "(6) Mr. de Leon and Mr. Kouba were not named executive officers in 2018. 2020 CEO Pay Ratio As required by SEC rules, we are providing the following information based on reasonable estimates. For 2020, the median of the annual total compensation of all employees (other than CEO) of the Company was $199,102. The annual total compensation of our CEO, as reported in the Summary Compensation Table for 2020 above, was $11,020,134. The ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees for 2020 was 55 to 1. To identify the median employee from our employee population in 2020, we compared the amount of salary and wages of our employees as reflected in our payroll records as reported to the IRS on Form W-2 for 2020. We used December 3"
+   }
+  },
+  "0000352541-20-000047": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254120000047/lnt2020def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000352541-20-000021",
+   "result": {
+    "ceoPay": 7765384,
+    "medianPay": 138044,
+    "payRatio": 56,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "grant amounts shown for 2019 in the Stock Awards column and footnote 2. | 2019 CEO Pay Ratio As required by SEC rules, we are providing the following information based on reasonable estimates. For 2019, the median of the annual total compensation of all employees (other than CEO) of the Company was $138,044 . In 2019, both Ms. Kampling and Mr. Larsen served in the role of CEO. We used our current CEO's annualized compensation to calculate the CEO pay ratio. To calculate our current CEO's annualized compensation, we used the 2019 values reflected in the Summary Compensation Table except for salary where we used the annualized salary of $900,000. For purposes of calculating the CEO pay ratio only, the total CEO compensation used was $7,765,384 . The ratio of the annual total compensation of"
+   }
+  },
+  "0000352541-19-000044": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254119000044/lnt2019def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000352541-19-000013",
+   "result": {
+    "ceoPay": 6520709,
+    "medianPay": 98700,
+    "payRatio": 66,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": ". | | | | | | (6) | | Mr. Kopp was not a named executive officer in 2016 or 2017. | 2018 CEO Pay Ratio As required by SEC rules, we are providing the following information based on reasonable estimates. The median of the annual total compensation of all employees (other than CEO) of the Company was $98,700 . The annual total compensation of our CEO, as reported in the Summary Compensation Table for 2018 above, was $6,520,709 . The ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees for 2018 was 66 to 1. As permitted by the SEC rules, the median employee utilized for 2018 is the same employee identified in 2017 because there have been no changes in our employee population or employee compensation arrangements that we reasonably b"
+   }
+  },
+  "0000352541-18-000038": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254118000038/lnt2018def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000352541-18-000019",
+   "result": {
+    "ceoPay": 6535329,
+    "medianPay": 120296,
+    "payRatio": 54,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "er beginning in 2016 and served as Senior Vice President until December 31, 2017. | 2017 CEO Pay Ratio As required by SEC rules, we are providing the following information based on reasonable estimates. The median of the annual total compensation of all employees (other than CEO) of the Company was $120,296 . The annual total compensation of our CEO, as reported in the Summary Compensation Table for 2017 above, was $6,535,329 . The ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees for 2017 was 54 to 1. To identify the \"median employee\" from our employee population, we compared the amount of salary and wages of our employees as reflected in our payroll records as reported to the IRS on Form W-2 for 2017. We used December 31, 20"
+   }
+  }
+ },
+ "tenKs": {
+  "0000352541-18-000019": {
+   "parserVersion": 1,
+   "employees": 2200
+  },
+  "0000352541-19-000013": {
+   "parserVersion": 1,
+   "employees": 2200
+  },
+  "0000352541-20-000021": {
+   "parserVersion": 1,
+   "employees": 2000
+  },
+  "0000352541-21-000022": {
+   "parserVersion": 1,
+   "employees": 1800
+  },
+  "0000352541-22-000020": {
+   "parserVersion": 1,
+   "employees": 1800
+  },
+  "0000352541-23-000017": {
+   "parserVersion": 1,
+   "employees": 1700
+  },
+  "0000352541-24-000014": {
+   "parserVersion": 1,
+   "employees": 1800
+  },
+  "0000352541-25-000014": {
+   "parserVersion": 1,
+   "employees": 1700
+  },
+  "0000352541-26-000007": {
+   "parserVersion": 1,
+   "employees": 1700
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 3669100000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-049662"
+   },
+   "2009": {
+    "revenue": 3427300000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-081622"
+   },
+   "2010": {
+    "revenue": 3262100000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-13-000007"
+   },
+   "2011": {
+    "revenue": 3221400000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-14-000006"
+   },
+   "2012": {
+    "revenue": 3094500000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-15-000005"
+   },
+   "2013": {
+    "revenue": 3276800000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-16-000076"
+   },
+   "2014": {
+    "revenue": 3350300000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-17-000017"
+   },
+   "2015": {
+    "revenue": 3253600000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-18-000019"
+   },
+   "2016": {
+    "revenue": 3320000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-19-000013"
+   },
+   "2017": {
+    "revenue": 3382200000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-20-000021"
+   },
+   "2018": {
+    "revenue": 3534000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-21-000022"
+   },
+   "2019": {
+    "revenue": 3648000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-22-000020"
+   },
+   "2020": {
+    "revenue": 3416000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-23-000017"
+   },
+   "2021": {
+    "revenue": 3669000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-24-000014"
+   },
+   "2022": {
+    "revenue": 4205000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-25-000014"
+   },
+   "2023": {
+    "revenue": 4027000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-26-000007"
+   },
+   "2024": {
+    "revenue": 3981000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-26-000007"
+   },
+   "2025": {
+    "revenue": 4362000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000352541-26-000007"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000352541-26-000007",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254126000007/lnt-20251231.htm"
+   },
+   {
+    "accession": "0000352541-25-000014",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254125000014/lnt-20241231.htm"
+   },
+   {
+    "accession": "0000352541-24-000014",
+    "filingDate": "2024-02-16",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254124000014/lnt-20231231.htm"
+   },
+   {
+    "accession": "0000352541-23-000017",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254123000017/lnt-20221231.htm"
+   },
+   {
+    "accession": "0000352541-22-000020",
+    "filingDate": "2022-02-18",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254122000020/lnt-20211231.htm"
+   },
+   {
+    "accession": "0000352541-21-000022",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254121000022/lnt-20201231.htm"
+   },
+   {
+    "accession": "0000352541-20-000021",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254120000021/lnt1231201910-k.htm"
+   },
+   {
+    "accession": "0000352541-19-000013",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254119000013/lnt1231201810-k.htm"
+   },
+   {
+    "accession": "0000352541-18-000019",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254118000019/lnt1231201710-k.htm"
+   },
+   {
+    "accession": "0000352541-17-000017",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/352541/000035254117000017/lnt1231201610-k.htm"
+   }
+  ]
+ }
+}

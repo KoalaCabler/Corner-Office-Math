@@ -1,0 +1,75 @@
+{
+ "proxies": {
+  "0001104659-26-026094": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000110465926026094/sw-20260501xdef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-012555",
+   "result": {
+    "ceoPay": 16429689,
+    "medianPay": 60554,
+    "payRatio": 271,
+    "method": "cross-checked",
+    "employees": 91183,
+    "statedYear": 2025,
+    "excerpt": "l compensation of our CEO to that of our median employee (excluding our CEO), together with a description of the methodology used to identify the median employee and calculate the respective compensation amounts. For 2025, the annual total compensation of our median employee (excluding our CEO) was $60,554, while the annual total compensation as presented in the \"Total\" column in the 2025 Summary Compensation Table for our CEO was $16,429,689. As a result, for 2025, the ratio of the annual total compensation of our CEO to that of our median employee was estimated to be 271 to 1. Methodology Our CEO pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules. Our methodology and process is explained below: | | ● | | Determined employee population . We began with our"
+   }
+  },
+  "0001104659-25-025323": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/2005951/000110465925025323/tm2425283-3_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0002005951-25-000005",
+   "result": null
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2022": {
+    "revenue": 13509000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0002005951-25-000005"
+   },
+   "2023": {
+    "revenue": 12093000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-012555"
+   },
+   "2024": {
+    "revenue": 21109000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-012555"
+   },
+   "2025": {
+    "revenue": 31179000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-012555"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-012555",
+    "filingDate": "2026-02-27",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/2005951/000162828026012555/smur-20251231.htm"
+   },
+   {
+    "accession": "0002005951-25-000005",
+    "filingDate": "2025-03-07",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/2005951/000200595125000005/smur-20241231.htm"
+   }
+  ]
+ }
+}

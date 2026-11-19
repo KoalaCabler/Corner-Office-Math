@@ -1,0 +1,182 @@
+{
+ "proxies": {
+  "0001679788-26-000045": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000045/coin-20260424.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001679788-26-000015",
+   "result": {
+    "ceoPay": 9713000,
+    "medianPay": 217526,
+    "payRatio": 45,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "r understand and assess each particular company's compensation practices and pay ratio disclosures. Pay Ratio As of December 31, 2025, the Chief Executive Officer of the Company was Mr. Armstrong. The 2025 total compensation for Mr. Armstrong, as reported in the 2025 Summary Compensation Table, was $9,713,000 and the 2025 total compensation for our median employee was $217,526, resulting in a pay ratio of approximately 45:1. Median Employee Our compensation and benefits philosophy and the overall structure of our compensation and benefit programs aim to ensure that the pay of every employee appropriately reflects the level of their job impact and responsibilities and is competitive within our peer group. Our determination of the median employee was based on compensation data for all employ"
+   }
+  },
+  "0001679788-25-000070": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000070/coin-20250425.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001679788-25-000022",
+   "result": {
+    "ceoPay": 7235090,
+    "medianPay": 333757,
+    "payRatio": 22,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "r understand and assess each particular company's compensation practices and pay ratio disclosures. Pay Ratio As of December 31, 2024, the Chief Executive Officer of the Company was Mr. Armstrong. The 2024 total compensation for Mr. Armstrong, as reported in the 2024 Summary Compensation Table, was $7,235,090 and the 2024 total compensation for our median employee was $333,757, resulting in a pay ratio of approximately 22:1. Median Employee Our compensation and benefits philosophy and the overall structure of our compensation and benefit programs aim to ensure that the pay of every employee appropriately reflects the level of their job impact and responsibilities and is competitive within our peer group. Our determination of the median employee was based on compensation data for all employ"
+   }
+  },
+  "0001679788-24-000080": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978824000080/coin-20240425.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001679788-24-000022",
+   "result": {
+    "ceoPay": 4704800,
+    "medianPay": 235036,
+    "payRatio": 21,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "h particular company's compensation practices and pay ratio disclosures. Pay Ratio As of December 31, 2023 (the \"Determination Date\"), the Chief Executive Officer of the Company was Mr. Armstrong. The 2023 total compensation for Mr. Armstrong, as reported in the 2023 Summary Compensation Table, was $4,704,800 and for our median employee was $235,036 , resulting in a pay ratio of approximately 21:1. Median Employee Our compensation and benefits philosophy and the overall structure of our compensation and benefit programs aim to ensure that the pay of every employee appropriately reflects the level of their job impact and responsibilities and is competitive within our peer group. Our determination of the median employee was based on compensation data for all employees worldwide, excluding Mr"
+   }
+  },
+  "0001679788-23-000065": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978823000065/coin-20230428.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001679788-23-000031",
+   "result": {
+    "ceoPay": 7465350,
+    "medianPay": 232903,
+    "payRatio": 32,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "h particular company's compensation practices and pay ratio disclosures. Pay Ratio As of December 31, 2022 (the \"Determination Date\"), the Chief Executive Officer of the Company was Mr. Armstrong. The 2022 total compensation for Mr. Armstrong, as reported in the 2022 Summary Compensation Table, was $7,465,350 and for our median employee was $232,903, resulting in a pay ratio of approximately 32:1. Median Employee Our compensation and benefits philosophy and the overall structure of our compensation and benefit programs aim to ensure that the pay of every employee appropriately reflects the level of their job impact and responsibilities and is competitive within our peer group. Our determination of the median employee was based on compensation data for all employees worldwide, excluding Mr."
+   }
+  },
+  "0001140361-22-015201": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1679788/000114036122015201/edge20001234x1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001679788-22-000031",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001679788-23-000031": {
+   "parserVersion": 1,
+   "employees": 4510
+  },
+  "0001679788-24-000022": {
+   "parserVersion": 1,
+   "employees": 3416
+  },
+  "0001679788-25-000022": {
+   "parserVersion": 1,
+   "employees": 3772
+  },
+  "0001679788-26-000015": {
+   "parserVersion": 1,
+   "employees": 4951
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2019": {
+    "revenue": 533735000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001679788-22-000031"
+   },
+   "2020": {
+    "revenue": 1277481000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001679788-23-000031"
+   },
+   "2021": {
+    "revenue": 7839444000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001679788-24-000022"
+   },
+   "2022": {
+    "revenue": 3194208000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001679788-25-000022"
+   },
+   "2023": {
+    "revenue": 3108383000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001679788-26-000015"
+   },
+   "2024": {
+    "revenue": 6564028000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001679788-26-000015"
+   },
+   "2025": {
+    "revenue": 7181325000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001679788-26-000015"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 3267027,
+   "2022": 7465350,
+   "2023": 4704800,
+   "2024": 7235090,
+   "2025": 9713000
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001679788-26-000015",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000015/coin-20251231.htm"
+   },
+   {
+    "accession": "0001679788-25-000022",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000022/coin-20241231.htm"
+   },
+   {
+    "accession": "0001679788-24-000022",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978824000022/coin-20231231.htm"
+   },
+   {
+    "accession": "0001679788-23-000031",
+    "filingDate": "2023-02-21",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978823000031/coin-20221231.htm"
+   },
+   {
+    "accession": "0001679788-22-000031",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978822000031/coin-20211231.htm"
+   }
+  ]
+ }
+}

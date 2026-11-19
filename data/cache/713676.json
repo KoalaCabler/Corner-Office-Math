@@ -1,0 +1,358 @@
+{
+ "proxies": {
+  "0001193125-26-102189": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000119312526102189/d62941ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000713676-26-000020",
+   "result": {
+    "ceoPay": 29530103,
+    "medianPay": 130900,
+    "payRatio": 226,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "information about the relationship between the annual total compensation of William S. Demchak, our Chairman and CEO, and the annual total compensation of our median employee (other than Mr. Demchak). For the year ended December 31, 2025: | ∎ | | | | The annual total compensation of Mr. Demchak was $29,530,103. | | ∎ | | | | The annual total compensation of our median employee was $130,900 (see below for an explanation of how we calculate this amount). | | ∎ | | | | The resulting ratio of Mr. Demchak's annual total compensation to the annual total compensation of our median employee is 226 to 1. | We believe our ratio represents a reasonable estimate, calculated in a manner consistent with SEC regulations, based on the following methodology: | ∎ | | | | As permitted by SEC rules, we used t"
+   }
+  },
+  "0001193125-25-052937": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000119312525052937/d889589ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000713676-25-000027",
+   "result": {
+    "ceoPay": 22377886,
+    "medianPay": 125000,
+    "payRatio": 179,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "rmation about the relationship between the annual total compensation of William S. Demchak, our Chairman and CEO, and the annual total compensation of our median employee (other than Mr. Demchak). For the year ended December 31, 2024: | | | ◾ | | | | The annual total compensation of Mr. Demchak was $22,377,886. | | | | ◾ | | | | The annual total compensation of our median employee was $125,000 (see below for an explanation of how we calculate this amount). | | | | ◾ | | | | The resulting ratio of Mr. Demchak's annual total compensation to the annual total compensation of our median employee is 179 to 1. | We believe our ratio represents a reasonable estimate, calculated in a manner consistent with SEC regulations, based on the following methodology: | | | ◾ | | | | As permitted by SEC rule"
+   }
+  },
+  "0001193125-24-066850": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000119312524066850/d540496ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000713676-24-000028",
+   "result": {
+    "ceoPay": 19973770,
+    "medianPay": 104576,
+    "payRatio": 191,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ing information about the relationship between the annual total compensation of William S. Demchak, our Chairman and CEO, and the annual total compensation of our median employee (other than Mr. Demchak). For the year ended December 31, 2023: | ∎ | | The annual total compensation of Mr. Demchak was $19,973,770. | | ∎ | | The annual total compensation of our median employee was $104,576 (see below for an explanation of how we calculate this amount). | | ∎ | | The resulting ratio of Mr. Demchak's annual total compensation to the annual total compensation of our median employee is 191 to 1. | We believe our ratio represents a reasonable estimate, calculated in a manner consistent with SEC regulations, based on the following methodology: | ∎ | | To identify the median employee, we used the For"
+   }
+  },
+  "0001193125-23-070779": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000119312523070779/d377505ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000713676-23-000020",
+   "result": {
+    "ceoPay": 19495699,
+    "medianPay": 70695,
+    "payRatio": 276,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "about the relationship between the annual total compensation of William S. Demchak, our Chairman, President and CEO, and the annual total compensation of our median employee (other than Mr. Demchak). For the year ended December 31, 2022: | • | | | | The annual total compensation of Mr. Demchak was $19,495,699 | | • | | | | The annual total compensation of our median employee was $70,695 (see below for an explanation of how we calculate this amount) | | • | | | | The resulting ratio of Mr. Demchak's annual total compensation to the annual total compensation of our median employee is 276 to 1 | We believe our ratio represents a reasonable estimate, calculated in a manner consistent with SEC rules, based on the following methodology: | • | | | | To identify the median employee, we used the F"
+   }
+  },
+  "0000713676-22-000023": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367622000023/pnc2022proxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000713676-22-000019",
+   "result": {
+    "ceoPay": 17527319,
+    "medianPay": 78333,
+    "payRatio": 224,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "nformation about the relationship between the annual total compensation of William S. Demchak, our Chairman, President and CEO, and the annual total compensation of our median employee (other than Mr. Demchak). For the year ended December 31, 2021: • The annual total compensation of Mr. Demchak was $17,527,319 • The annual total compensation of our median employee was $78,333 (see below for an explanation of how we calculate this amount) • The resulting ratio of Mr. Demchak's annual total compensation to the annual total compensation of our median employee is 224 to 1 We believe our ratio represents a reasonable estimate, calculated in a manner consistent with SEC rules, based on the following methodology: • To identify the median employee, we used the Form W-2 (Box 5) issued by the IRS fo"
+   }
+  },
+  "0000713676-21-000030": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367621000030/pnc2021proxystatement.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000713676-21-000025",
+   "result": {
+    "ceoPay": 15900479,
+    "medianPay": 80350,
+    "payRatio": 198,
+    "method": "cross-checked",
+    "employees": 51233,
+    "statedYear": 2020,
+    "excerpt": "nformation about the relationship between the annual total compensation of William S. Demchak, our Chairman, President and CEO, and the annual total compensation of our median employee (other than Mr. Demchak). For the year ended December 31, 2020: • The annual total compensation of Mr. Demchak was $15,900,479 • The annual total compensation of our median employee was $80,350 (see below for an explanation of how we calculate this amount) • The resulting ratio of Mr. Demchak's annual total compensation to the annual total compensation of our median employee is 198 to 1 We believe our ratio represents a reasonable estimate, calculated in a manner consistent with SEC rules, based on the following methodology: • As permitted under SEC rules, we are using the same median employee for our 2020 p"
+   }
+  },
+  "0000713676-20-000052": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367620000052/pnc2020proxystatement.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000713676-20-000042",
+   "result": {
+    "ceoPay": 16555752,
+    "medianPay": 76131,
+    "payRatio": 217,
+    "method": "cross-checked",
+    "employees": 51872,
+    "statedYear": 2019,
+    "excerpt": "t the relationship between the annual total compensation of William S. Demchak, our Chairman, President and CEO, and the annual total compensation of our median employee (other than Mr. Demchak). For the year ended December 31, 2019 : | | | | | • | | The annual total compensation of Mr. Demchak was $16,555,752 | | | | | | • | | The annual total compensation of our median employee was $76,131 (see below for an explanation of how we calculate this amount) | | | | | | • | | The resulting ratio of Mr. Demchak's annual total compensation to the annual total compensation of our median employee is 217 to 1 | We believe our ratio represents a reasonable estimate, calculated in a manner consistent with SEC rules, based on the following methodology: | | | | | • | | As permitted under SEC rules, we a"
+   }
+  },
+  "0001193125-19-071394": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000119312519071394/d641691ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000713676-19-000015",
+   "result": {
+    "ceoPay": 15695189,
+    "medianPay": 67648,
+    "payRatio": 232,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "tionship between the annual total compensation of William S. Demchak, our Chairman, President and CEO, and the median of the annual total compensation of all of our employees (other than Mr. Demchak). For the year ended December 31, 2018: |  | | | | The annual total compensation of Mr. Demchak was $15,695,189 | |  | | | | The median of the annual total compensation of all of our employees was $67,648 (see below for an explanation of how we calculate this amount) | |  | | | | The resulting ratio of Mr. Demchaks annual total compensation to the median of the annual total compensation of all of our employees is 232 to 1 | We believe that our ratio represents a reasonable estimate, calculated in a manner consistent with SEC rules, based on the following methodology: |  | | | | We evaluate"
+   }
+  },
+  "0001193125-18-080774": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/713676/000119312518080774/d504775ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000713676-18-000032",
+   "result": {
+    "ceoPay": 13917986,
+    "medianPay": 69190,
+    "payRatio": 201,
+    "method": "cross-checked",
+    "employees": 52935,
+    "statedYear": 2017,
+    "excerpt": "tal compensation of our median employee and William S. Demchak, our Chairman, President, and Chief Executive Officer (CEO). For 2017, our most recently completed fiscal year: |  | | | | The annual total compensation of the employee we identified at the median of our company (excluding our CEO) was $69,190 | |  | | | | The annual total compensation of our CEO for purposes of determining the pay ratio was $13,917,986 | Based on this information, for 2017, the ratio of the annual total compensation of our CEO to the annual total compensation of the employee we identified as the median (excluding our CEO) was 201 to 1. The methodology and the material assumptions and adjustments we used to identify the median employee and to determine the annual total compensation of the median employee are"
+   }
+  }
+ },
+ "tenKs": {
+  "0000713676-19-000015": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000713676-22-000019": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000713676-23-000020": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000713676-24-000028": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000713676-25-000027": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000713676-26-000020": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 5891000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-052794"
+   },
+   "2008": {
+    "revenue": 6296000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-051725"
+   },
+   "2009": {
+    "revenue": 16228000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-087345"
+   },
+   "2010": {
+    "revenue": 15176000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-085012"
+   },
+   "2011": {
+    "revenue": 14326000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-077944"
+   },
+   "2012": {
+    "revenue": 15512000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-070443"
+   },
+   "2013": {
+    "revenue": 16012000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-482577"
+   },
+   "2014": {
+    "revenue": 15375000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-062524"
+   },
+   "2015": {
+    "revenue": 15225000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000713676-18-000032"
+   },
+   "2016": {
+    "revenue": 15162000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000713676-19-000015"
+   },
+   "2017": {
+    "revenue": 16329000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000713676-19-000015"
+   },
+   "2018": {
+    "revenue": 16190000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000713676-21-000025"
+   },
+   "2019": {
+    "revenue": 16839000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000713676-22-000019"
+   },
+   "2020": {
+    "revenue": 16901000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000713676-23-000020"
+   },
+   "2021": {
+    "revenue": 19211000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000713676-24-000028"
+   },
+   "2022": {
+    "revenue": 21120000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000713676-25-000027"
+   },
+   "2023": {
+    "revenue": 21490000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000713676-26-000020"
+   },
+   "2024": {
+    "revenue": 21555000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000713676-26-000020"
+   },
+   "2025": {
+    "revenue": 23099000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000713676-26-000020"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000713676-26-000020",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367626000020/pnc-20251231.htm"
+   },
+   {
+    "accession": "0000713676-25-000027",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367625000027/pnc-20241231.htm"
+   },
+   {
+    "accession": "0000713676-24-000028",
+    "filingDate": "2024-02-21",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367624000028/pnc-20231231.htm"
+   },
+   {
+    "accession": "0000713676-23-000020",
+    "filingDate": "2023-02-22",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367623000020/pnc-20221231.htm"
+   },
+   {
+    "accession": "0000713676-22-000019",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367622000019/pnc-20211231.htm"
+   },
+   {
+    "accession": "0000713676-21-000025",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367621000025/pnc-20201231.htm"
+   },
+   {
+    "accession": "0000713676-20-000042",
+    "filingDate": "2020-03-02",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367620000042/pnc201910-k.htm"
+   },
+   {
+    "accession": "0000713676-19-000015",
+    "filingDate": "2019-03-01",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367619000015/pnc201810k.htm"
+   },
+   {
+    "accession": "0000713676-18-000032",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000071367618000032/pnc-12312017x10k.htm"
+   },
+   {
+    "accession": "0001193125-17-062524",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/713676/000119312517062524/d300732d10k.htm"
+   }
+  ]
+ }
+}

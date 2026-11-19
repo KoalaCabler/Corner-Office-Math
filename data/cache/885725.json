@@ -1,0 +1,358 @@
+{
+ "proxies": {
+  "0000885725-26-000025": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000025/bsx-20260318.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000885725-26-000010",
+   "result": {
+    "ceoPay": 23532050,
+    "medianPay": 67539,
+    "payRatio": 348,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "d to the total compensation paid to Michael F. Mahoney, our CEO. The following paragraphs describe our methodology and the resulting CEO Pay Ratio. For 2025, our last completed fiscal year: • the annual total compensation of the employee identified at median of our Company (other than our CEO), was $67,539; and • the annual total compensation of our CEO was $23,532,050. Based on this information, for 2025, the ratio of the annual total compensation of our CEO to the total annual compensation of our median employee is estimated to be approximately 348 to 1. The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the \"median employee\" and calculating"
+   }
+  },
+  "0000885725-25-000017": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572525000017/bsx-20250319.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000885725-25-000011",
+   "result": {
+    "ceoPay": 21420801,
+    "medianPay": 58074,
+    "payRatio": 369,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "d to the total compensation paid to Michael F. Mahoney, our CEO. The following paragraphs describe our methodology and the resulting CEO Pay Ratio. For 2024, our last completed fiscal year: • the annual total compensation of the employee identified at median of our Company (other than our CEO), was $58,074; and • the annual total compensation of our CEO was $21,420,801. Based on this information, for 2024 the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees (other than our CEO) was estimated to be approximately 369 to 1. The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the \"medi"
+   }
+  },
+  "0000885725-24-000033": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572524000033/bsx-20240320.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000885725-24-000017",
+   "result": {
+    "ceoPay": 18723735,
+    "medianPay": 54147,
+    "payRatio": 346,
+    "method": "cross-checked",
+    "employees": 48000,
+    "statedYear": 2023,
+    "excerpt": "d to the total compensation paid to Michael F. Mahoney, our CEO. The following paragraphs describe our methodology and the resulting CEO Pay Ratio. For 2023, our last completed fiscal year: • the annual total compensation of the employee identified at median of our Company (other than our CEO), was $54,147; and • the annual total compensation of our CEO was $18,723,735. | | | | | | | 2024 Proxy Statement | | 103 | Executive Compensation Based on this information, for 2023 the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees (other than our CEO) was estimated to be approximately 346 to 1. The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the"
+   }
+  },
+  "0000885725-23-000017": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572523000017/a2023bostonscientificnps.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000885725-23-000008",
+   "result": {
+    "ceoPay": 16941961,
+    "medianPay": 76054,
+    "payRatio": 223,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "d to the total compensation paid to Michael F. Mahoney, our CEO. The following paragraphs describe our methodology and the resulting CEO Pay Ratio. For 2022, our last completed fiscal year: • the annual total compensation of the employee identified at median of our Company (other than our CEO), was $76,054; and • the annual total compensation of our CEO was $16,941,961. Based on this information, for 2022 the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees (other than our CEO) was estimated to be approximately 223 to 1. The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the \"medi"
+   }
+  },
+  "0001104659-22-037008": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000110465922037008/tm223423d3_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000885725-22-000006",
+   "result": {
+    "ceoPay": 16064039,
+    "medianPay": 68891,
+    "payRatio": 233,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "d to the total compensation paid to Michael F. Mahoney, our CEO. The following paragraphs describe our methodology and the resulting CEO Pay Ratio. For 2021, our last completed fiscal year: • the annual total compensation of the employee identified at median of our Company (other than our CEO), was $68,891; and • the annual total compensation of our CEO was $16,064,039. Based on this information, for 2021 the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees (other than our CEO) was estimated to be approximately 233 to 1. The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the \"medi"
+   }
+  },
+  "0001047469-21-000709": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000104746921000709/a2243057zdef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000885725-21-000008",
+   "result": {
+    "ceoPay": 13773795,
+    "medianPay": 59332,
+    "payRatio": 232,
+    "method": "cross-checked",
+    "employees": 38120,
+    "statedYear": 2020,
+    "excerpt": "ation paid to Michael F. Mahoney, our CEO. The following paragraphs describe our methodology and the resulting CEO Pay Ratio. 102 Table of Contents For 2020, our last completed fiscal year:  the annual total compensation of the employee identified at median of our Company (other than our CEO), was $59,332; and  the annual total compensation of our CEO was $13,773,795. Based on this information, for 2020 the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees (other than our CEO) was estimated to be approximately 232 to 1. The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the \"medi"
+   }
+  },
+  "0001047469-20-001770": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000104746920001770/a2241016zdef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000885725-20-000012",
+   "result": {
+    "ceoPay": 15764140,
+    "medianPay": 65630,
+    "payRatio": 240,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "d to the total compensation paid to Michael F. Mahoney, our CEO. The following paragraphs describe our methodology and the resulting CEO Pay Ratio. For 2019, our last completed fiscal year:  the annual total compensation of the employee identified at median of our company (other than our CEO), was $65,630; and  the annual total compensation of our CEO was $15,764,140. Based on this information, for 2019 the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees (other than our CEO) was estimated to be approximately 240 to 1. 96 Table of Contents The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for"
+   }
+  },
+  "0001047469-19-001648": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000104746919001648/a2238131zdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000885725-19-000011",
+   "result": {
+    "ceoPay": 13970901,
+    "medianPay": 62447,
+    "payRatio": 224,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "d to the total compensation paid to Michael F. Mahoney, our CEO. The following paragraphs describe our methodology and the resulting CEO Pay Ratio. For 2018, our last completed fiscal year:  the annual total compensation of the employee identified at median of our company (other than our CEO), was $62,447; and  the annual total compensation of our CEO was $13,970,901. Based on this information, for 2018 the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees (other than our CEO) was estimated to be approximately 224 to 1. 94 Table of Contents The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for"
+   }
+  },
+  "0001047469-18-002268": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/885725/000104746918002268/a2234928zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000885725-18-000010",
+   "result": {
+    "ceoPay": 13084452,
+    "medianPay": 63696,
+    "payRatio": 205,
+    "method": "cross-checked",
+    "employees": 29038,
+    "statedYear": 2017,
+    "excerpt": "sation paid to Michael F. Mahoney, our CEO. The following paragraphs describe our methodology and the resulting CEO Pay Ratio. 93 Table of Contents For 2017, our last completed fiscal year:  the annual total compensation of the employee identified at median of our company (other than our CEO), was $63,696; and  the annual total compensation of our CEO was $13,084,452. Based on this information, for 2017 the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees (other than our CEO) was estimated to be approximately 205 to 1. The pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the \"medi"
+   }
+  }
+ },
+ "tenKs": {
+  "0000885725-19-000011": {
+   "parserVersion": 1,
+   "employees": 32000
+  },
+  "0000885725-20-000012": {
+   "parserVersion": 1,
+   "employees": 36000
+  },
+  "0000885725-22-000006": {
+   "parserVersion": 1,
+   "employees": 41000
+  },
+  "0000885725-23-000008": {
+   "parserVersion": 1,
+   "employees": 45000
+  },
+  "0000885725-25-000011": {
+   "parserVersion": 1,
+   "employees": 53000
+  },
+  "0000885725-26-000010": {
+   "parserVersion": 1,
+   "employees": 59000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 8357000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-10-017254"
+   },
+   "2008": {
+    "revenue": 8050000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-015112"
+   },
+   "2009": {
+    "revenue": 8188000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000885725-12-000006"
+   },
+   "2010": {
+    "revenue": 7806000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000885725-13-000007"
+   },
+   "2011": {
+    "revenue": 7622000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000885725-14-000005"
+   },
+   "2012": {
+    "revenue": 7249000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000885725-15-000006"
+   },
+   "2013": {
+    "revenue": 7143000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000885725-16-000028"
+   },
+   "2014": {
+    "revenue": 7462000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000885725-17-000006"
+   },
+   "2015": {
+    "revenue": 8068000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000885725-17-000006"
+   },
+   "2016": {
+    "revenue": 9076000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000885725-17-000006"
+   },
+   "2017": {
+    "revenue": 9048000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000885725-20-000012"
+   },
+   "2018": {
+    "revenue": 9823000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000885725-21-000008"
+   },
+   "2019": {
+    "revenue": 10735000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000885725-22-000006"
+   },
+   "2020": {
+    "revenue": 9913000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000885725-23-000008"
+   },
+   "2021": {
+    "revenue": 11888000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000885725-24-000017"
+   },
+   "2022": {
+    "revenue": 12682000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000885725-25-000011"
+   },
+   "2023": {
+    "revenue": 14240000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000885725-26-000010"
+   },
+   "2024": {
+    "revenue": 16747000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000885725-26-000010"
+   },
+   "2025": {
+    "revenue": 20074000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000885725-26-000010"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000885725-26-000010",
+    "filingDate": "2026-02-17",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572526000010/bsx-20251231.htm"
+   },
+   {
+    "accession": "0000885725-25-000011",
+    "filingDate": "2025-02-18",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572525000011/bsx-20241231.htm"
+   },
+   {
+    "accession": "0000885725-24-000017",
+    "filingDate": "2024-02-20",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572524000017/bsx-20231231.htm"
+   },
+   {
+    "accession": "0000885725-23-000008",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572523000008/bsx-20221231.htm"
+   },
+   {
+    "accession": "0000885725-22-000006",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572522000006/bsx-20211231.htm"
+   },
+   {
+    "accession": "0000885725-21-000008",
+    "filingDate": "2021-02-23",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572521000008/bsx-20201231.htm"
+   },
+   {
+    "accession": "0000885725-20-000012",
+    "filingDate": "2020-02-25",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572520000012/a2019form10-k.htm"
+   },
+   {
+    "accession": "0000885725-19-000011",
+    "filingDate": "2019-02-19",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572519000011/a2018form10-k.htm"
+   },
+   {
+    "accession": "0000885725-18-000010",
+    "filingDate": "2018-02-20",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572518000010/a2017form10-k.htm"
+   },
+   {
+    "accession": "0000885725-17-000006",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/885725/000088572517000006/a2016form10-k.htm"
+   }
+  ]
+ }
+}

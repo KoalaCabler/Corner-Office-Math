@@ -1,0 +1,327 @@
+{
+ "proxies": {
+  "0001069202-26-000046": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920226000046/lii-20260406.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001069202-26-000028",
+   "result": {
+    "ceoPay": 8451361,
+    "medianPay": 63587,
+    "payRatio": 133,
+    "method": "cross-checked",
+    "employees": 14089,
+    "statedYear": 2025,
+    "excerpt": "of October 31, 2024. Therefore, there were 13,820 employees used for purposes of identifying our median employee. | | | Compensation Used to Identify Median Employee | | | Total gross wages as derived from the Company's payroll records. | | | Median Employee Annual Total Compensation for 2025 | | | $63,587, which includes the value of the median employee's health and welfare benefits and retirement benefits. We calculated the median employee's compensation in the same manner as we calculated total compensation of the CEO in the 2025 Summary Compensation Table and then added the value of health and welfare benefits. | | | CEO Annual Total Compensation for 2025 | | | $8,451,361, which is $17,206 more than the amount disclosed in the 2025 Summary Compensation Table. The increase reflects the"
+   }
+  },
+  "0001069202-25-000010": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920225000010/lii-20250408.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-004859",
+   "result": {
+    "ceoPay": 9923347,
+    "medianPay": 61166,
+    "payRatio": 162,
+    "method": "cross-checked",
+    "employees": 14089,
+    "statedYear": 2024,
+    "excerpt": "of October 31, 2024. Therefore, there were 13,820 employees used for purposes of identifying our median employee. | | | Compensation Used to Identify Median Employee | | | Total gross wages as derived from the Company's payroll records. | | | Median Employee Annual Total Compensation for 2024 | | | $61,166, which includes the value of the median employee's health and welfare benefits and retirement benefits. We calculated the median employee's compensation in the same manner as we calculated total compensation of the CEO in the 2024 Summary Compensation Table and then added the value of health and welfare benefits. | | | CEO Annual Total Compensation for 2024 | | | $9,923,347, which is $15,436 more than the amount disclosed in the 2024 Summary Compensation Table. The increase reflects the"
+   }
+  },
+  "0001193125-24-085732": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069202/000119312524085732/d855929ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001628280-24-004446",
+   "result": {
+    "ceoPay": 4998664,
+    "medianPay": 60409,
+    "payRatio": 83,
+    "method": "cross-checked",
+    "employees": 12555,
+    "statedYear": 2023,
+    "excerpt": "of our total employee population as of October 31, 2021. Our pay ratio includes 12,393 employees. | | | | | | Compensation Used to Identify Median Employee | | | | Total gross wages as derived from the Company's payroll records. | | | | | | Median Employee Annual Total Compensation for 2023 | | | | $60,409, which includes the value of the median employee's health and welfare benefits and retirement benefits. We calculated the median employee's compensation in the same manner as we calculated total compensation of the CEO in the Summary Compensation Table and then added the value of health and welfare benefits. | | | | | | CEO Annual Total Compensation for 2023 | | | | $4,998,664, which is $15,001 more than the amount disclosed in the Summary Compensation Table. The increase reflects the va"
+   }
+  },
+  "0001193125-23-093419": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069202/000119312523093419/d412647ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001628280-23-004257",
+   "result": {
+    "ceoPay": 10671967,
+    "medianPay": 64675,
+    "payRatio": 165,
+    "method": "cross-checked",
+    "employees": 12555,
+    "statedYear": 2022,
+    "excerpt": "roximately 1.3% of our total employee population as of October 31, 2021. Our pay ratio includes 12,393 employees. | | Compensation Used to Identify Median Employee | | | | Total gross wages as derived from the Company's payroll records. | | Median Employee Annual Total Compensation for 2022 | | | | $64,675, which includes the value of the median employee's health and welfare benefits and retirement benefits. We calculated the median employee's compensation in the same manner as we calculated total compensation of the CEO in the Summary Compensation Table and then added the value of health and welfare benefits. | | CEO Annual Total Compensation for 2022 | | | | Full year CEO compensation for 2022 equals $10,671,967, which combines (1) Mr. Bluedorn's total 2022 compensation of $310,210 inclu"
+   }
+  },
+  "0001193125-22-098331": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069202/000119312522098331/d222632ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001628280-22-002664",
+   "result": {
+    "ceoPay": 5039548,
+    "medianPay": 61371,
+    "payRatio": 82,
+    "method": "cross-checked",
+    "employees": 12555,
+    "statedYear": 2021,
+    "excerpt": "ng approximately 1.3% of our total employee population as of October 31, 2021. Our pay ratio includes 12,393 employees. | | Compensation Used to Identify Median Employee | | | | Total gross wages as derived from the Companys payroll records. | | Median Employee Annual Compensation for 2021 | | | | $61,371, which includes the value of the median employees health and welfare benefits and retirement benefits. We calculated the median employees compensation in the same manner as we calculated total compensation of the CEO in the Summary Compensation Table and then added the value of health and welfare benefits. | | CEO Compensation for 2021 | | | | $5,039,548, which is $12,203 more than the amount disclosed in the Summary Compensation Table. The increase reflects the value of health and wel"
+   }
+  },
+  "0001069202-21-000011": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920221000011/a2021proxystatement.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001069202-21-000007",
+   "result": {
+    "ceoPay": 14487090,
+    "medianPay": 63769,
+    "payRatio": 227,
+    "method": "cross-checked",
+    "employees": 11420,
+    "statedYear": 2020,
+    "excerpt": "presenting approximately 1.5% of our total employee population as of October 31, 2019. Our pay ratio includes 11,254 employees. | | Compensation Used to Identify Median Employee | | Total gross wages as derived from the company's payroll records. | | Median Employee Annual Compensation for 2020 | | $63,769, which includes the value of the median employee's health and welfare benefits and retirement benefits. We calculated the median employee's compensation in the same manner as we calculated total compensation of the CEO in the Summary Compensation Table and then added the value of health and welfare benefits. | | CEO Compensation for 2020 | | $14,487,090, which is $11,742 more than the amount disclosed in the Summary Compensation Table. The increase reflects the value of health and welfar"
+   }
+  },
+  "0001069202-20-000007": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920220000007/a2020proxystatement.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001069202-20-000004",
+   "result": {
+    "ceoPay": 13231690,
+    "medianPay": 70513,
+    "payRatio": 188,
+    "method": "cross-checked",
+    "employees": 11420,
+    "statedYear": 2019,
+    "excerpt": "ption, representing approximately 1.5% of our total employee population as of October 31, 2019. Our pay ratio includes 11,254 employees. | | Compensation Used to Identify Median Employee | | Total gross wages as derived from the company's payroll records. | | Median Employee Annual Compensation | | $70,513, which includes the value of the median employee's health and welfare benefits and retirement benefits. We calculated the median employee's compensation in the same manner as we calculated total compensation of the CEO in the Summary Compensation Table and then added the value of health and welfare benefits. | | CEO Compensation | | $13,231,690, which is $12,907 more than the amount disclosed in the Summary Compensation Table. The increase reflects the value of health and welfare benefit"
+   }
+  },
+  "0001069202-19-000010": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920219000010/a2019proxystatement.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001069202-19-000008",
+   "result": {
+    "ceoPay": 7554528,
+    "medianPay": 56613,
+    "payRatio": 133,
+    "method": "cross-checked",
+    "employees": 11736,
+    "statedYear": 2018,
+    "excerpt": "emption, representing approximately 2% of our total employee population as of October 31, 2018. Our pay ratio includes 11,558 employees. | | Compensation Used to Identify Median Employee | | Total gross wages as derived from the company's payroll records. | | Median Employee Annual Compensation | | $56,613, which includes the value of the median employee's health and welfare benefits and retirement benefits. We calculated the median employee's compensation in the same manner as we calculated total compensation of the CEO in the Summary Compensation Table and then added the value of health and welfare benefits. | | CEO Compensation | | $7,554,528, which is $13,231 more than the amount disclosed in the Summary Compensation Table. The increase reflects the value of health and welfare benefits"
+   }
+  },
+  "0001069202-18-000007": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920218000007/a2018proxystatement.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001069202-18-000004",
+   "result": {
+    "ceoPay": 11467545,
+    "medianPay": 63201,
+    "payRatio": 181,
+    "method": "cross-checked",
+    "employees": 11987,
+    "statedYear": 2017,
+    "excerpt": "emption, representing approximately 3% of our total employee population as of October 31, 2017. Our pay ratio includes 11,624 employees. | | Compensation Used to Identify Median Employee | | Total gross wages as derived from the company's payroll records. | | Median Employee Annual Compensation | | $63,201, which includes the value of the median employee's health and welfare benefits and retirement benefits. We calculated the median employee's compensation in the same manner as we calculated total compensation of the CEO in the Summary Compensation Table and then added the value of health and welfare benefits. | | CEO Compensation | | $11,467,545, which is a $12,985 increase over the amount disclosed in the Summary Compensation Table. The increase reflects the value of health and welfare b"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 3441100000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-015556"
+   },
+   "2009": {
+    "revenue": 2847500000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-065358"
+   },
+   "2010": {
+    "revenue": 2585200000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001069202-13-000003"
+   },
+   "2011": {
+    "revenue": 2840900000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001069202-14-000002"
+   },
+   "2012": {
+    "revenue": 2949400000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001069202-15-000003"
+   },
+   "2013": {
+    "revenue": 3199100000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001069202-16-000014"
+   },
+   "2014": {
+    "revenue": 3367400000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001069202-17-000003"
+   },
+   "2015": {
+    "revenue": 3467400000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001069202-18-000004"
+   },
+   "2016": {
+    "revenue": 3641600000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001069202-19-000008"
+   },
+   "2017": {
+    "revenue": 3839600000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001069202-20-000004"
+   },
+   "2018": {
+    "revenue": 3883900000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001069202-21-000007"
+   },
+   "2019": {
+    "revenue": 3807200000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-22-002664"
+   },
+   "2020": {
+    "revenue": 3634100000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-23-004257"
+   },
+   "2021": {
+    "revenue": 4194100000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-24-004446"
+   },
+   "2022": {
+    "revenue": 4718400000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-25-004859"
+   },
+   "2023": {
+    "revenue": 4981900000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001069202-26-000028"
+   },
+   "2024": {
+    "revenue": 5341300000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001069202-26-000028"
+   },
+   "2025": {
+    "revenue": 5195300000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001069202-26-000028"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001069202-26-000028",
+    "filingDate": "2026-02-17",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920226000028/lii-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-004859",
+    "filingDate": "2025-02-11",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069202/000162828025004859/lii-20241231.htm"
+   },
+   {
+    "accession": "0001628280-24-004446",
+    "filingDate": "2024-02-13",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069202/000162828024004446/lii-20231231.htm"
+   },
+   {
+    "accession": "0001628280-23-004257",
+    "filingDate": "2023-02-21",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069202/000162828023004257/lii-20221231.htm"
+   },
+   {
+    "accession": "0001628280-22-002664",
+    "filingDate": "2022-02-15",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069202/000162828022002664/lii-20211231.htm"
+   },
+   {
+    "accession": "0001069202-21-000007",
+    "filingDate": "2021-02-16",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920221000007/lii-20201231.htm"
+   },
+   {
+    "accession": "0001069202-20-000004",
+    "filingDate": "2020-02-18",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920220000004/lii-20191231x10k.htm"
+   },
+   {
+    "accession": "0001069202-19-000008",
+    "filingDate": "2019-02-19",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920219000008/lii-20181231x10k.htm"
+   },
+   {
+    "accession": "0001069202-18-000004",
+    "filingDate": "2018-02-16",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920218000004/lii-20171231x10k.htm"
+   },
+   {
+    "accession": "0001069202-17-000003",
+    "filingDate": "2017-02-21",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069202/000106920217000003/lii-20161231x10k.htm"
+   }
+  ]
+ }
+}

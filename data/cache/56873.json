@@ -1,0 +1,350 @@
+{
+ "proxies": {
+  "0001104659-26-060250": {
+   "parserVersion": 1,
+   "filingDate": "2026-05-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926060250/tm261573d1_def14a.htm",
+   "periodEnd": "2026-01-31",
+   "tenK": "0001104659-26-037723",
+   "result": {
+    "ceoPay": 14400108,
+    "medianPay": 34552,
+    "payRatio": 417,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "of fiscal 2025, we choose to use the compensation of the Interim CEO, Mr. Sargent, who was in the position on the date selected to identify the median employee. We then annualized Mr. Sargent's annual total compensation. Using this methodology, the annual total compensation for our Interim CEO was $14,400,108. The annual total compensation of our median associate for 2025 was $34,552. As a result, we estimate that the ratio of our Interim CEO's annual total compensation to that of our median associate for fiscal 2025 was 417 to 1. Our median employee is a full-time associate in the Central region. Over half of Kroger's associates are part-time workers. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll records and the methodology"
+   }
+  },
+  "0001104659-25-049009": {
+   "parserVersion": 1,
+   "filingDate": "2025-05-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465925049009/tm252618d1_def14a.htm",
+   "periodEnd": "2025-02-01",
+   "tenK": "0001558370-25-004267",
+   "result": {
+    "ceoPay": 15631028,
+    "medianPay": 34213,
+    "payRatio": 457,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "tion S-K, we are providing the following information regarding the ratio of the annual total compensation of our Chairman and CEO, Mr. McMullen, to the annual total compensation of our median associate. As reported in the Summary Compensation Table, our CEO had annual total compensation for 2024 of $15,631,028. Using this Summary Compensation Table methodology, the annual total compensation of our median associate for 2024 was $34,213. As a result, we estimate that the ratio of our CEO's annual total compensation to that of our median associate for fiscal 2024 was 457 to 1. Our median employee is a full-time associate in the Central region. Over half of Kroger's associates are part-time workers. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based"
+   }
+  },
+  "0001104659-24-061665": {
+   "parserVersion": 1,
+   "filingDate": "2024-05-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465924061665/tm2414296d2_def14a.htm",
+   "periodEnd": "2024-02-03",
+   "tenK": "0001558370-24-004603",
+   "result": {
+    "ceoPay": 15710572,
+    "medianPay": 31302,
+    "payRatio": 502,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "tion S-K, we are providing the following information regarding the ratio of the annual total compensation of our Chairman and CEO, Mr. McMullen, to the annual total compensation of our median associate. As reported in the Summary Compensation Table, our CEO had annual total compensation for 2023 of $15,710,572. Using this Summary Compensation Table methodology, the annual total compensation of our median associate for 2023 was $31,302. As a result, we estimate that the ratio of our CEO's annual total compensation to that of our median associate for fiscal 2023 was 502 to 1. Our median employee is a full-time associate in the Central region. Over half of Kroger's associates are part-time workers. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based"
+   }
+  },
+  "0001104659-23-059456": {
+   "parserVersion": 1,
+   "filingDate": "2023-05-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465923059456/tm233382d3_def14a.htm",
+   "periodEnd": "2023-01-28",
+   "tenK": "0001558370-23-004767",
+   "result": {
+    "ceoPay": 19209843,
+    "medianPay": 28644,
+    "payRatio": 671,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "tion S-K, we are providing the following information regarding the ratio of the annual total compensation of our Chairman and CEO, Mr. McMullen, to the annual total compensation of our median associate. As reported in the Summary Compensation Table, our CEO had annual total compensation for 2022 of $19,209,843. Using this Summary Compensation Table methodology, the annual total compensation of our median associate for 2022 was $28,644. As a result, we estimate that the ratio of our CEO's annual total compensation to that of our median associate for fiscal 2022 was 671 to 1. Our median employee is a full-time associate in the Southeast region. Over half of Kroger's associates are part-time workers. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules base"
+   }
+  },
+  "0001140361-21-017149": {
+   "parserVersion": 1,
+   "filingDate": "2021-05-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000114036121017149/nc10022090x1_def14a.htm",
+   "periodEnd": "2021-01-30",
+   "tenK": "0001558370-21-003706",
+   "result": {
+    "ceoPay": 22373574,
+    "medianPay": 24617,
+    "payRatio": 909,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ation S-K, we are providing the following information regarding the ratio of the annual total compensation of our Chairman and CEO, Mr. McMullen, to the annual total compensation of our median employee. As reported in the Summary Compensation Table, our CEO had annual total compensation for 2020 of $22,373,574. Using this Summary Compensation Table methodology, the annual total compensation of our median employee for 2020 was $24,617. As a result, we estimate that the ratio of our CEO's annual total compensation to that of our median employee for fiscal 2020 was 909 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll records and the methodology described below. The SEC rules for identifying the median compensated employee and"
+   }
+  },
+  "0001140361-20-011379": {
+   "parserVersion": 1,
+   "filingDate": "2020-05-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000114036120011379/nc10008523x1_def14a.htm",
+   "periodEnd": "2020-02-01",
+   "tenK": "0001558370-20-003501",
+   "result": {
+    "ceoPay": 21129648,
+    "medianPay": 26790,
+    "payRatio": 789,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ation S-K, we are providing the following information regarding the ratio of the annual total compensation of our Chairman and CEO, Mr. McMullen, to the annual total compensation of our median employee. As reported in the Summary Compensation Table, our CEO had annual total compensation for 2019 of $21,129,648. Using this Summary Compensation Table methodology, the annual total compensation of our median employee for 2019 was $26,790. As a result, we estimate that the ratio of our CEO's annual total compensation to that of our median employee for fiscal 2019 was 789 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll records and the methodology described below. The SEC rules for identifying the median compensated employee and"
+   }
+  },
+  "0001140361-19-009096": {
+   "parserVersion": 1,
+   "filingDate": "2019-05-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000114036119009096/nc10001224x3_def14a.htm",
+   "periodEnd": "2019-02-02",
+   "tenK": "0001558370-19-002756",
+   "result": {
+    "ceoPay": 12037872,
+    "medianPay": 24912,
+    "payRatio": 483,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ation S-K, we are providing the following information regarding the ratio of the annual total compensation of our Chairman and CEO, Mr. McMullen, to the annual total compensation of our median employee. As reported in the Summary Compensation Table, our CEO had annual total compensation for 2018 of $12,037,872. Using this Summary Compensation Table methodology, the annual total compensation of our median employee for 2018 was $24,912. As a result, we estimate that the ratio of our CEOs annual total compensation to that of our median employee for fiscal 2018 was 483 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll records and the methodology described below. The SEC rules for identifying the median compensated employee and"
+   }
+  },
+  "0001193125-18-163508": {
+   "parserVersion": 1,
+   "filingDate": "2018-05-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/56873/000119312518163508/d457260ddef14a.htm",
+   "periodEnd": "2018-02-03",
+   "tenK": "0001558370-18-002753",
+   "result": {
+    "ceoPay": 11534860,
+    "medianPay": 21075,
+    "payRatio": 547,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ation S-K, we are providing the following information regarding the ratio of the annual total compensation of our Chairman and CEO, Mr. McMullen, to the annual total compensation of our median employee. As reported in the Summary Compensation Table, our CEO had annual total compensation for 2017 of $11,534,860. Using this Summary Compensation Table methodology, the annual total compensation of our median employee for 2017 was $21,075. As a result, we estimate that the ratio of our CEOs annual total compensation to that of our median employee for fiscal 2017 was 547 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll records and the methodology described below. The SEC rules for identifying the median compensated employee and"
+   }
+  }
+ },
+ "tenKs": {
+  "0001558370-18-002753": {
+   "parserVersion": 1,
+   "employees": 1300
+  },
+  "0001558370-19-002756": {
+   "parserVersion": 1,
+   "employees": 1300
+  },
+  "0001558370-20-003501": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-21-003706": {
+   "parserVersion": 1,
+   "employees": 30000
+  },
+  "0001558370-23-004767": {
+   "parserVersion": 1,
+   "employees": 5000
+  },
+  "0001558370-24-004603": {
+   "parserVersion": 1,
+   "employees": 7000
+  },
+  "0001558370-25-004267": {
+   "parserVersion": 1,
+   "employees": 5500
+  },
+  "0001104659-26-037723": {
+   "parserVersion": 1,
+   "employees": 6100
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 70336000000,
+    "periodEnd": "2008-02-02",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-10-017258"
+   },
+   "2009": {
+    "revenue": 76148000000,
+    "periodEnd": "2009-01-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-11-017372"
+   },
+   "2010": {
+    "revenue": 76609000000,
+    "periodEnd": "2010-01-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-12-021358"
+   },
+   "2011": {
+    "revenue": 82049000000,
+    "periodEnd": "2011-01-29",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-13-026395"
+   },
+   "2012": {
+    "revenue": 90269000000,
+    "periodEnd": "2012-01-28",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-14-024819"
+   },
+   "2013": {
+    "revenue": 96619000000,
+    "periodEnd": "2013-02-02",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-15-025139"
+   },
+   "2014": {
+    "revenue": 98375000000,
+    "periodEnd": "2014-02-01",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-16-108277"
+   },
+   "2015": {
+    "revenue": 108465000000,
+    "periodEnd": "2015-01-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001558370-17-002198"
+   },
+   "2016": {
+    "revenue": 109830000000,
+    "periodEnd": "2016-01-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001558370-18-003055"
+   },
+   "2017": {
+    "revenue": 115337000000,
+    "periodEnd": "2017-01-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-19-002756"
+   },
+   "2018": {
+    "revenue": 123280000000,
+    "periodEnd": "2018-02-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-20-003501"
+   },
+   "2019": {
+    "revenue": 121852000000,
+    "periodEnd": "2019-02-02",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-21-003706"
+   },
+   "2020": {
+    "revenue": 122286000000,
+    "periodEnd": "2020-02-01",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-22-004595"
+   },
+   "2021": {
+    "revenue": 132498000000,
+    "periodEnd": "2021-01-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-23-004767"
+   },
+   "2022": {
+    "revenue": 137888000000,
+    "periodEnd": "2022-01-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-24-004603"
+   },
+   "2023": {
+    "revenue": 148258000000,
+    "periodEnd": "2023-01-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-25-004267"
+   },
+   "2024": {
+    "revenue": 150039000000,
+    "periodEnd": "2024-02-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-26-037723"
+   },
+   "2025": {
+    "revenue": 147123000000,
+    "periodEnd": "2025-02-01",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-26-037723"
+   },
+   "2026": {
+    "revenue": 147642000000,
+    "periodEnd": "2026-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-26-037723"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001104659-26-037723",
+    "filingDate": "2026-03-31",
+    "reportDate": "2026-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/56873/000110465926037723/kr-20260131x10k.htm"
+   },
+   {
+    "accession": "0001558370-25-004267",
+    "filingDate": "2025-04-01",
+    "reportDate": "2025-02-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837025004267/kr-20250201x10k.htm"
+   },
+   {
+    "accession": "0001558370-24-004603",
+    "filingDate": "2024-04-02",
+    "reportDate": "2024-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837024004603/kr-20240203x10k.htm"
+   },
+   {
+    "accession": "0001558370-23-004767",
+    "filingDate": "2023-03-28",
+    "reportDate": "2023-01-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837023004767/kr-20230128x10k.htm"
+   },
+   {
+    "accession": "0001558370-22-004595",
+    "filingDate": "2022-03-29",
+    "reportDate": "2022-01-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837022004595/kr-20220129x10k.htm"
+   },
+   {
+    "accession": "0001558370-21-003706",
+    "filingDate": "2021-03-30",
+    "reportDate": "2021-01-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837021003706/kr-20210130x10k.htm"
+   },
+   {
+    "accession": "0001558370-20-003501",
+    "filingDate": "2020-04-01",
+    "reportDate": "2020-02-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837020003501/kr-20200201x10k.htm"
+   },
+   {
+    "accession": "0001558370-19-002756",
+    "filingDate": "2019-04-02",
+    "reportDate": "2019-02-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837019002756/kr-20190202x10k.htm"
+   },
+   {
+    "accession": "0001558370-18-002753",
+    "filingDate": "2018-04-03",
+    "reportDate": "2018-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837018002753/kr-20180203x10k.htm"
+   },
+   {
+    "accession": "0001558370-17-002198",
+    "filingDate": "2017-03-28",
+    "reportDate": "2017-01-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/56873/000155837017002198/kr-20170128x10k.htm"
+   }
+  ]
+ }
+}

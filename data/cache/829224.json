@@ -1,0 +1,344 @@
+{
+ "proxies": {
+  "0001213900-26-007780": {
+   "parserVersion": 1,
+   "filingDate": "2026-01-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000121390026007780/ea0270973-01.htm",
+   "periodEnd": "2025-09-28",
+   "tenK": "0000829224-25-000114",
+   "result": {
+    "ceoPay": 30992773,
+    "medianPay": 17279,
+    "payRatio": 1794,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ed during the twelve -month period, compensation was annualized to reflect a full year of wages. Compensation for international employees was converted to U.S. dollar equivalents applying an average exchange rate for the fiscal year. The fiscal year 2025 annual total compensation for Mr. Niccol was $30,992,773, as reported in the Summary Compensation Table of this proxy statement. The fiscal year 2025 annual total compensation for our median employee, a part -time barista in the U.S., was $17,279. The ratio of our ceo's annual total compensation to our median employee's annual total compensation for fiscal year 2025 is 1,794 to 1. Pay versus performance This section provides disclosure about the relationship between executive compensation actually paid to our principal executive officer (\""
+   }
+  },
+  "0001213900-25-006516": {
+   "parserVersion": 1,
+   "filingDate": "2025-01-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000121390025006516/ea0224926-02.htm",
+   "periodEnd": "2024-09-29",
+   "tenK": "0000829224-24-000057",
+   "result": {
+    "ceoPay": 97813843,
+    "medianPay": 14674,
+    "payRatio": 6666,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ed during the twelve -month period, compensation was annualized to reflect a full year of wages. Compensation for international employees was converted to U.S. dollar equivalents applying an average exchange rate for the fiscal year. The fiscal year 2024 annual total compensation for Mr. Niccol was $97,813,843 1 , as reported in the Summary Compensation Table of this proxy statement. The fiscal year 2024 annual total compensation for our median employee, a part -time barista in the U.S., was $14,674, including salary and Bean Stock awards. The ratio of our ceo's annual total compensation to our median employee's annual total compensation for fiscal year 2024 is 6,666 to 1. (1) Mr. Niccol's base salary and annual cash incentive has been annualized as required under SEC rules. The Summary Co"
+   }
+  },
+  "0000829224-23-000007": {
+   "parserVersion": 1,
+   "filingDate": "2023-01-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922423000007/a2023proxystatementfinal.htm",
+   "periodEnd": "2022-10-02",
+   "tenK": "0000829224-22-000058",
+   "result": {
+    "ceoPay": 374558,
+    "medianPay": 12254,
+    "payRatio": 31,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "s hired during the twelve-month period, compensation was annualized to reflect a full year of wages. Compensation for international employees was converted to U.S. dollar equivalents applying an average exchange rate for the fiscal year. The fiscal 2022 annual total compensation for Mr. Schultz was $374,558, as reported in the Summary Compensation Table of this proxy statement. The fiscal 2022 annual total compensation for our median employee, a part-time barista in the United States, was $12,254, including salary and Bean Stock. The ratio of our CEO's annual total compensation to our median employee's annual total compensation for fiscal 2022 is 31 to 1. | | | | | | | | | | | | | 2023 PROXY STATEMENT | | 71 | | | | | | | | | | PROPOSAL 3 ADVISORY VOTE ON THE FREQUENCY OF FUTURE ADVISORY V"
+   }
+  },
+  "0001206774-22-000270": {
+   "parserVersion": 1,
+   "filingDate": "2022-01-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000120677422000270/sbux3974881-def14a.htm",
+   "periodEnd": "2021-10-03",
+   "tenK": "0000829224-21-000086",
+   "result": {
+    "ceoPay": 20425163,
+    "medianPay": 12935,
+    "payRatio": 1579,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "s hired during the twelve-month period, compensation was annualized to reflect a full year of wages. Compensation for international employees was converted to U.S. dollar equivalents applying an average exchange rate for the fiscal year. The fiscal 2021 annual total compensation for Mr. Johnson was $20,425,163, as reported in the Summary Compensation Table of this proxy statement. The fiscal 2021 annual total compensation for our median employee, a part-time barista in Canada, was $12,935, including salary and Bean Stock. The ratio of our ceo's annual total compensation to our median employee's annual total compensation for fiscal 2021 is 1,579 to 1. 2022 PROXY STATEMENT 87 Table of Contents | PROPOSAL 4 | | RATIFICATION OF SELECTION OF DELOITTE & TOUCHE LLP AS OUR INDEPENDENT REGISTERED P"
+   }
+  },
+  "0000829224-21-000017": {
+   "parserVersion": 1,
+   "filingDate": "2021-01-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922421000017/a2021proxystatement.htm",
+   "periodEnd": "2020-09-27",
+   "tenK": "0000829224-20-000078",
+   "result": {
+    "ceoPay": 14665575,
+    "medianPay": 12113,
+    "payRatio": 1211,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "s hired during the twelve-month period, compensation was annualized to reflect a full year of wages. Compensation for international employees was converted to U.S. dollar equivalents applying an average exchange rate for the fiscal year. The fiscal 2020 annual total compensation for Mr. Johnson was $14,665,575, as reported in the Summary Compensation Table of this proxy statement. The fiscal 2020 annual total compensation for our median employee, a part-time barista in Canada, was $12,113. The ratio of our ceo's annual total compensation to our median employee's annual total compensation for fiscal 2020 is 1,211 to 1. | | | | | | | | | | | | | 60 | | | | | | | | | | | | | | PROPOSAL 3 RATIFICATION OF SELECTION OF DELOITTE & TOUCHE LLP AS OUR INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM |"
+   }
+  },
+  "0001206774-20-000230": {
+   "parserVersion": 1,
+   "filingDate": "2020-01-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000120677420000230/sbux3632601-def14a.htm",
+   "periodEnd": "2019-09-29",
+   "tenK": "0000829224-19-000051",
+   "result": {
+    "ceoPay": 19241950,
+    "medianPay": 11489,
+    "payRatio": 1675,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "s hired during the twelve-month period, compensation was annualized to reflect a full year of wages. Compensation for international employees was converted to U.S. dollar equivalents applying an average exchange rate for the fiscal year. The fiscal 2019 annual total compensation for Mr. Johnson was $19,241,950, as reported in the Summary Compensation Table of this proxy statement. The fiscal 2019 annual total compensation for our median employee, a part-time barista in Canada, was $11,489. The ratio of our ceo's annual total compensation to our median employee's annual total compensation for fiscal 2019 is 1,675 to 1. | 2020 PROXY STATEMENT | | 59 | Table of Contents | Starbucks Approach To Sustainability | At Starbucks, we live our mission of inspiring and nurturing the human spirit every"
+   }
+  },
+  "0001193125-19-017145": {
+   "parserVersion": 1,
+   "filingDate": "2019-01-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000119312519017145/d623511ddef14a.htm",
+   "periodEnd": "2018-09-30",
+   "tenK": "0000829224-18-000052",
+   "result": {
+    "ceoPay": 13382480,
+    "medianPay": 12754,
+    "payRatio": 1049,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "s hired during the twelve-month period, compensation was annualized to reflect a full year of wages. Compensation for international employees was converted to U.S. dollar equivalents applying an average exchange rate for the fiscal year. The fiscal 2018 annual total compensation for Mr. Johnson was $13,382,480, as reported in the Summary Compensation Table of this proxy statement. The fiscal 2018 annual total compensation for our median employee, a part-time barista in California, was $12,754, including salary and Bean Stock. The ratio of our ceos annual total compensation to our median employees annual total compensation for fiscal 2018 is 1,049 to 1. | | | | | | | | | | | 52 / 2019 PROXY STATEMENT | | | | | | | | | Table of Contents Proposal 3  Ratification of Selection of Deloitte &"
+   }
+  },
+  "0001193125-18-021792": {
+   "parserVersion": 1,
+   "filingDate": "2018-01-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/829224/000119312518021792/d440699ddef14a.htm",
+   "periodEnd": "2017-10-01",
+   "tenK": "0000829224-17-000049",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0000829224-18-000052": {
+   "parserVersion": 1,
+   "employees": 291000
+  },
+  "0000829224-19-000051": {
+   "parserVersion": 1,
+   "employees": 346000
+  },
+  "0000829224-20-000078": {
+   "parserVersion": 1,
+   "employees": 349000
+  },
+  "0000829224-21-000086": {
+   "parserVersion": 1,
+   "employees": 383000
+  },
+  "0000829224-22-000058": {
+   "parserVersion": 1,
+   "employees": 402000
+  },
+  "0000829224-24-000057": {
+   "parserVersion": 1,
+   "employees": 361000
+  },
+  "0000829224-25-000114": {
+   "parserVersion": 1,
+   "employees": 381000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 9411500000,
+    "periodEnd": "2007-09-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-09-064772"
+   },
+   "2008": {
+    "revenue": 10383000000,
+    "periodEnd": "2008-09-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-266333"
+   },
+   "2009": {
+    "revenue": 9774600000,
+    "periodEnd": "2009-09-27",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-317175"
+   },
+   "2010": {
+    "revenue": 10707400000,
+    "periodEnd": "2010-10-03",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-12-000007"
+   },
+   "2011": {
+    "revenue": 11700400000,
+    "periodEnd": "2011-10-02",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-13-000044"
+   },
+   "2012": {
+    "revenue": 13299500000,
+    "periodEnd": "2012-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-13-000044"
+   },
+   "2013": {
+    "revenue": 14892200000,
+    "periodEnd": "2013-09-29",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-13-000044"
+   },
+   "2014": {
+    "revenue": 16447800000,
+    "periodEnd": "2014-09-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000829224-16-000083"
+   },
+   "2015": {
+    "revenue": 19162700000,
+    "periodEnd": "2015-09-27",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000829224-17-000049"
+   },
+   "2016": {
+    "revenue": 21315900000,
+    "periodEnd": "2016-10-02",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-18-000052"
+   },
+   "2017": {
+    "revenue": 22386800000,
+    "periodEnd": "2017-10-01",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-19-000051"
+   },
+   "2018": {
+    "revenue": 24719500000,
+    "periodEnd": "2018-09-30",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-20-000078"
+   },
+   "2019": {
+    "revenue": 26508600000,
+    "periodEnd": "2019-09-29",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-21-000086"
+   },
+   "2020": {
+    "revenue": 23518000000,
+    "periodEnd": "2020-09-27",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-22-000058"
+   },
+   "2021": {
+    "revenue": 29060600000,
+    "periodEnd": "2021-10-03",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-23-000058"
+   },
+   "2022": {
+    "revenue": 32250300000,
+    "periodEnd": "2022-10-02",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-24-000057"
+   },
+   "2023": {
+    "revenue": 35975600000,
+    "periodEnd": "2023-10-01",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-25-000114"
+   },
+   "2024": {
+    "revenue": 36176200000,
+    "periodEnd": "2024-09-29",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-26-000162"
+   },
+   "2025": {
+    "revenue": 37184400000,
+    "periodEnd": "2025-09-28",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-26-000162"
+   },
+   "2026": {
+    "revenue": 37910600000,
+    "periodEnd": "2026-09-27",
+    "revenueTag": "Revenues",
+    "accession": "0000829224-26-000162"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000829224-26-000162",
+    "filingDate": "2026-11-12",
+    "reportDate": "2026-09-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922426000162/sbux-20260927.htm"
+   },
+   {
+    "accession": "0000829224-25-000114",
+    "filingDate": "2025-11-14",
+    "reportDate": "2025-09-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922425000114/sbux-20250928.htm"
+   },
+   {
+    "accession": "0000829224-24-000057",
+    "filingDate": "2024-11-20",
+    "reportDate": "2024-09-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922424000057/sbux-20240929.htm"
+   },
+   {
+    "accession": "0000829224-23-000058",
+    "filingDate": "2023-11-17",
+    "reportDate": "2023-10-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922423000058/sbux-20231001.htm"
+   },
+   {
+    "accession": "0000829224-22-000058",
+    "filingDate": "2022-11-18",
+    "reportDate": "2022-10-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922422000058/sbux-20221002.htm"
+   },
+   {
+    "accession": "0000829224-21-000086",
+    "filingDate": "2021-11-19",
+    "reportDate": "2021-10-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922421000086/sbux-20211003.htm"
+   },
+   {
+    "accession": "0000829224-20-000078",
+    "filingDate": "2020-11-12",
+    "reportDate": "2020-09-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922420000078/sbux-20200927.htm"
+   },
+   {
+    "accession": "0000829224-19-000051",
+    "filingDate": "2019-11-15",
+    "reportDate": "2019-09-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/sbux-9292019x10xk.htm"
+   },
+   {
+    "accession": "0000829224-18-000052",
+    "filingDate": "2018-11-16",
+    "reportDate": "2018-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/sbux-9302018x10xk.htm"
+   },
+   {
+    "accession": "0000829224-17-000049",
+    "filingDate": "2017-11-17",
+    "reportDate": "2017-10-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/829224/000082922417000049/sbux-1012017x10xk.htm"
+   }
+  ]
+ }
+}

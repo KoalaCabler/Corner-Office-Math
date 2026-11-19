@@ -1,0 +1,360 @@
+{
+ "proxies": {
+  "0001101239-26-000073": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000073/eqix-20260401.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001101239-26-000032",
+   "result": {
+    "ceoPay": 22654885,
+    "medianPay": 126952,
+    "payRatio": 178,
+    "method": "cross-checked",
+    "employees": 13777,
+    "statedYear": 2025,
+    "excerpt": "he same methodology applied to our named executive officers, as reflected in the \"Total\" column of the 2025 Summary Compensation Table included elsewhere in this proxy statement. As disclosed in the 2025 Summary Compensation Table, Ms. Fox‑Martin's annual total compensation for fiscal year 2025 was $22,654,885. The annual total compensation of the median employee for fiscal year 2025 was $126,952. Based on these amounts, the resulting ratio of our Chief Executive Officer's annual total compensation to the annual total compensation of our median employee for fiscal year 2025 is approximately 178:1. | | | | | | | | | | | | EQUINIX 2026 PROXY STATEMENT | | Compensation / 76 | Pay versus performance As required by Section 953(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act,"
+   }
+  },
+  "0001628280-25-017318": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828025017318/eqix-20250410.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-005126",
+   "result": {
+    "ceoPay": 37062786,
+    "medianPay": 118527,
+    "payRatio": 313,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "e Chief Executive Officer to Median Employee pay ratio. As disclosed in the 2024 Summary Compensation Table, the annual total compensation for fiscal year 2024 for our Chief Executive Officer was $36,601,248. We annualized her compensation by $461,538 resulting in a total annualized compensation of $37,062,786. The annual total compensation for the Median Employee for fiscal year 2024 was $118,527. The resulting ratio of our Chief Executive Officer's annual total compensation to the annual total compensation of our Median Employee for fiscal year 2024 is approximately 313:1. As discussed in the \"Compensation discussion and analysis\" section above, Ms. Fox-Martin received a make-whole sign-on long-term award when she became our Chief Executive Officer of $17,000,000, consisting 100% of RSUs"
+   }
+  },
+  "0001628280-24-016094": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828024016094/eqix-20240412.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001628280-24-005350",
+   "result": {
+    "ceoPay": 23927452,
+    "medianPay": 115896,
+    "payRatio": 206,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "the amount reported for our named executive officers in the \"Total\" column of the 2023 Summary Compensation Table, set forth elsewhere in this proxy statement. As disclosed in the 2023 Summary Compensation Table, the annual total compensation for fiscal year 2023 for our chief executive officer was $23,927,452. The annual total compensation for the Median Employee for fiscal year 2023 was $115,896. The resulting ratio of our chief executive officer annual total compensation to the annual total compensation of our Median Employee for fiscal year 2023 is approximately 206:1. | | | | | | | EQUINIX 2024 PROXY STATEMENT | | Compensation / 79 | Pay versus performance As required by Section 953(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(v) of Regulation S-K,"
+   }
+  },
+  "0001104659-23-044487": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110465923044487/tm231819d2_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001628280-23-004039",
+   "result": {
+    "ceoPay": 22282928,
+    "medianPay": 121753,
+    "payRatio": 183,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "the amount reported for our named executive officers in the \"Total\" column of the 2022 Summary Compensation Table, set forth elsewhere in this proxy statement. As disclosed in the 2022 Summary Compensation Table, the annual total compensation for fiscal year 2022 for our chief executive officer was $22,282,928. The annual total compensation for the Median Employee for fiscal year 2022 was $121,753. The resulting ratio of our chief executive officer annual total compensation to the annual total compensation of our Median Employee for fiscal year 2022 is approximately 183:1. TABLE OF CONTENTS | | | Equinix 2023 PROXY STATEMENT | | | | | | | | Compensation | | | | | | | | 60 | | | Pay versus performance As required by Section 953(a) of the Dodd-Frank Wall Street Reform and Consumer Protection"
+   }
+  },
+  "0001104659-22-045077": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110465922045077/tm223387-1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001628280-22-003171",
+   "result": {
+    "ceoPay": 23248193,
+    "medianPay": 122075,
+    "payRatio": 190,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "the amount reported for our named executive officers in the \"Total\" column of the 2021 Summary Compensation Table, set forth elsewhere in this proxy statement. As disclosed in the 2021 Summary Compensation Table, the annual total compensation for fiscal year 2021 for our chief executive officer was $23,248,193. The annual total compensation for the Median Employee for fiscal year 2021 was $122,075. The resulting ratio of our chief executive officer annual total compensation to the annual total compensation of our Median Employee for fiscal year 2021 is approximately 190:1. TABLE OF CONTENTS | | | Equinix 2022 PROXY STATEMENT | | | | | | | | Audit | | | | | | | | 59 | | | Audit Proposal 3 - Ratification of independent registered public accountants Equinix is asking the stockholders to ratif"
+   }
+  },
+  "0001104659-21-049796": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110465921049796/tm212328-1_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001628280-21-002563",
+   "result": {
+    "ceoPay": 25836268,
+    "medianPay": 115068,
+    "payRatio": 225,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "the amount reported for our named executive officers in the \"Total\" column of the 2020 Summary Compensation Table, set forth elsewhere in this proxy statement. As disclosed in the 2020 Summary Compensation Table, the annual total compensation for fiscal year 2020 for our chief executive officer was $25,836,268. The annual total compensation for the Median Employee for fiscal year 2020 was $115,068. The resulting ratio of our chief executive officer annual total compensation to the annual total compensation of our Median Employee for fiscal year 2020 is approximately 225:1. | | | | | | | | | | | Equinix 2021 PROXY STATEMENT • COMPENSATION | | | | | | | | 51 | | | TABLE OF CONTENTS AUDIT Proposal 3-Ratification of independent registered public accountants Equinix is asking the stockholders t"
+   }
+  },
+  "0001047469-20-002602": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000104746920002602/a2241357zdef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001628280-20-001947",
+   "result": {
+    "ceoPay": 16575596,
+    "medianPay": 133688,
+    "payRatio": 124,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "the amount reported for our named executive officers in the \"Total\" column of the 2019 Summary Compensation Table, set forth elsewhere in this proxy statement. As disclosed in the 2019 Summary Compensation Table, the annual total compensation for fiscal year 2019 for our chief executive officer was $16,575,596. The annual total compensation for the Median Employee for fiscal year 2019 was $133,688. The resulting ratio of our chief executive officer annual total compensation to the annual total compensation of our Median Employee for fiscal year 2019 is approximately 124:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | Equinix 2020 PROXY STATEMENT  COMPENSATION | | | | 49 | | | | | Table of Contents | Proposal3 Approval of the Equinix, Inc. 2020 Equity Incentive Plan | Equinix is"
+   }
+  },
+  "0001047469-19-002313": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000104746919002313/a2238378zdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001628280-19-001771",
+   "result": {
+    "ceoPay": 12573795,
+    "medianPay": 97035,
+    "payRatio": 130,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "r adjustments were made to the remaining components of Mr. Meyers's annual total compensation as reported in the 2018 Summary Compensation Table. As a result of these annualizing adjustments, for purposes of the CEO to Median Employee Pay Ratio disclosure, Mr. Meyers's annual total compensation was $12,573,795 for 2018. The annual total compensation for the Median Employee for fiscal year 2018 was $97,035. The resulting ratio of our chief executive officer's annual total compensation to the annual total compensation of our Median Employee for fiscal year 2018, is approximately 130:1. Due to the annualizing adjustments that we made to our chief executive officer's annual total compensation for purposes of the CEO to Median Employee Pay Ratio disclosure, the annual total compensation that we"
+   }
+  },
+  "0001193125-18-128801": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1101239/000119312518128801/d506697ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001628280-18-002212",
+   "result": {
+    "ceoPay": 12681869,
+    "medianPay": 119045,
+    "payRatio": 107,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ported for our named executive officers in the Total column of the 2017 Summary Compensation Table, set forth elsewhere in this proxy statement. As disclosed in the 2017 Summary Compensation Table, the annual total compensation for fiscal year 2017 for our then current chief executive officer was $12,681,869. The annual total compensation for the Median Employee for fiscal year 2017 was $119,045. The resulting ratio of our then current chief executive officer annual total compensation to the annual total compensation of our Median Employee for fiscal year 2017 is approximately 107:1. However, as supplemental information, we note that had our chief executive officer not resigned in Jan. 2018 before payment of his cash bonus award under our 2017 annual incentive plan, his annual total comp"
+   }
+  }
+ },
+ "tenKs": {
+  "0001628280-18-002212": {
+   "parserVersion": 1,
+   "employees": 7273
+  },
+  "0001628280-19-001771": {
+   "parserVersion": 1,
+   "employees": 7903
+  },
+  "0001628280-20-001947": {
+   "parserVersion": 1,
+   "employees": 8378
+  },
+  "0001628280-21-002563": {
+   "parserVersion": 1,
+   "employees": 10013
+  },
+  "0001628280-22-003171": {
+   "parserVersion": 1,
+   "employees": 10944
+  },
+  "0001628280-23-004039": {
+   "parserVersion": 1,
+   "employees": 12097
+  },
+  "0001628280-24-005350": {
+   "parserVersion": 1,
+   "employees": 13151
+  },
+  "0001628280-25-005126": {
+   "parserVersion": 1,
+   "employees": 13606
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 704680000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-047157"
+   },
+   "2009": {
+    "revenue": 882509000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-077943"
+   },
+   "2010": {
+    "revenue": 1196214000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-076572"
+   },
+   "2011": {
+    "revenue": 1565625000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-076710"
+   },
+   "2012": {
+    "revenue": 1887376000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-073042"
+   },
+   "2013": {
+    "revenue": 2152766000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-16-011802"
+   },
+   "2014": {
+    "revenue": 2443776000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-17-001774"
+   },
+   "2015": {
+    "revenue": 2725867000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-18-002212"
+   },
+   "2016": {
+    "revenue": 3611989000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-19-001771"
+   },
+   "2017": {
+    "revenue": 4368428000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-20-001947"
+   },
+   "2018": {
+    "revenue": 5071654000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-21-002563"
+   },
+   "2019": {
+    "revenue": 5562140000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-21-002563"
+   },
+   "2020": {
+    "revenue": 5998545000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-21-002563"
+   },
+   "2021": {
+    "revenue": 6635537000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-24-005350"
+   },
+   "2022": {
+    "revenue": 7263000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-25-005126"
+   },
+   "2023": {
+    "revenue": 8188000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001101239-26-000032"
+   },
+   "2024": {
+    "revenue": 8748000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001101239-26-000032"
+   },
+   "2025": {
+    "revenue": 9217000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001101239-26-000032"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001101239-26-000032",
+    "filingDate": "2026-02-11",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1101239/000110123926000032/eqix-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-005126",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828025005126/eqix-20241231.htm"
+   },
+   {
+    "accession": "0001628280-24-005350",
+    "filingDate": "2024-02-16",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828024005350/eqix-20231231.htm"
+   },
+   {
+    "accession": "0001628280-23-004039",
+    "filingDate": "2023-02-17",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828023004039/eqix-20221231.htm"
+   },
+   {
+    "accession": "0001628280-22-003171",
+    "filingDate": "2022-02-18",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828022003171/eqix-20211231.htm"
+   },
+   {
+    "accession": "0001628280-21-002563",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828021002563/eqix-20201231.htm"
+   },
+   {
+    "accession": "0001628280-20-001947",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828020001947/eqix2019123110k.htm"
+   },
+   {
+    "accession": "0001628280-19-001771",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828019001771/eqix_20181231x10kupgrade.htm"
+   },
+   {
+    "accession": "0001628280-18-002212",
+    "filingDate": "2018-02-26",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828018002212/eqix_20171231x10k.htm"
+   },
+   {
+    "accession": "0001628280-17-001774",
+    "filingDate": "2017-02-27",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1101239/000162828017001774/equix_20161231x10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,364 @@
+{
+ "proxies": {
+  "0001193125-26-127504": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312526127504/ter-20260325.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001193125-26-059002",
+   "result": {
+    "ceoPay": 14107588,
+    "medianPay": 117600,
+    "payRatio": 120,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "e pay ratio information included below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2025, Teradyne's last completed fiscal year: • the median of the annual total compensation of all Teradyne employees (other than the Chief Executive Officer) was $117,600; • the annual total compensation of the Chief Executive Officer, as reported in the Summary Compensation Table of this proxy statement, was $14,107,588; and • the ratio of the annual total compensation of the Chief Executive Officer to the median of the annual total compensation of all employees was approximately 120:1. To identify the median of the annual total compensation of all its employees (the \"median employee\"), the Company examined the target total cash compensation for all emp"
+   }
+  },
+  "0000950170-25-046345": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/97210/000095017025046345/ter-20250326.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-023784",
+   "result": {
+    "ceoPay": 11760656,
+    "medianPay": 116338,
+    "payRatio": 101,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "e pay ratio information included below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2024, Teradyne's last completed fiscal year: • the median of the annual total compensation of all Teradyne employees (other than the Chief Executive Officer) was $116,338; • the annual total compensation of the Chief Executive Officer, as reported in the Summary Compensation Table of this proxy statement, was $11,760,656; and • the ratio of the annual total compensation of the Chief Executive Officer to the median of the annual total compensation of all employees was approximately 101:1. To identify the median of the annual total compensation of all its employees (the \"median employee\"), the Company examined the target total cash compensation for all emp"
+   }
+  },
+  "0000950170-24-038544": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/97210/000095017024038544/ter-20240329.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-018701",
+   "result": {
+    "ceoPay": 10110437,
+    "medianPay": 98546,
+    "payRatio": 103,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "e pay ratio information included below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2023, Teradyne's last completed fiscal year: • the median of the annual total compensation of all Teradyne employees (other than the Chief Executive Officer) was $98,546; • the annual total compensation of the Chief Executive Officer, as reported in the Summary Compensation Table of this proxy statement, was $10,110,437; and • the ratio of the annual total compensation of the Chief Executive Officer to the median of the annual total compensation of all employees was approximately 103:1. 53 Table of Contents For 2023, the Company selected a new median employee as required by Item 402(u) of Regulation S-K. To identify the median of the annual total compens"
+   }
+  },
+  "0001193125-23-086955": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312523086955/d420001ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001193125-23-044711",
+   "result": {
+    "ceoPay": 10601249,
+    "medianPay": 128236,
+    "payRatio": 83,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "formation included below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2022, Teradyne's last completed fiscal year: | | | • | | | | the median of the annual total compensation of all Teradyne employees (other than the Chief Executive Officer) was $128,236; | | | | • | | | | the annual total compensation of the Chief Executive Officer, as reported in the Summary Compensation Table on page 45 of this proxy statement, was $10,601,249; and | | | | • | | | | the ratio of the annual total compensation of the Chief Executive Officer to the median of the annual total compensation of all employees was approximately 83:1. | To identify the median of the annual total compensation of all its employees (the \"median employee\"), Teradyne examined the 2"
+   }
+  },
+  "0001193125-22-093125": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312522093125/d218548ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001193125-22-049828",
+   "result": {
+    "ceoPay": 10954713,
+    "medianPay": 128299,
+    "payRatio": 85,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "formation included below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2021, Teradynes last completed fiscal year: | | |  | | | | the median of the annual total compensation of all Teradyne employees (other than the Chief Executive Officer) was $128,299; | | | |  | | | | the annual total compensation of the Chief Executive Officer, as reported in the Summary Compensation Table on page 40 of this proxy statement, was $10,954,713; and | | | |  | | | | the ratio of the annual total compensation of the Chief Executive Officer to the median of the annual total compensation of all employees was approximately 85:1. | To identify the median of the annual total compensation of all its employees (the median employee), Teradyne examined the 2"
+   }
+  },
+  "0001193125-21-095715": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312521095715/d95228ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001193125-21-050735",
+   "result": {
+    "ceoPay": 10366962,
+    "medianPay": 102455,
+    "payRatio": 101,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "formation included below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2020, Teradynes last completed fiscal year: | | |  | | | | the median of the annual total compensation of all Teradyne employees (other than the Chief Executive Officer) was $102,455; | | | |  | | | | the annual total compensation of the Chief Executive Officer, as reported in the Summary Compensation Table on page 54 of this proxy statement, was $10,366,962; and | | | |  | | | | the ratio of the annual total compensation of the Chief Executive Officer to the median of the annual total compensation of all employees was approximately 101:1. | To identify the median of the annual total compensation of all its employees (the median employee), Teradyne examined the"
+   }
+  },
+  "0001193125-20-087828": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312520087828/d864258ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001193125-20-058676",
+   "result": {
+    "ceoPay": 8007913,
+    "medianPay": 97185,
+    "payRatio": 82,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "formation included below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2019, Teradynes last completed fiscal year: | | |  | | | | the median of the annual total compensation of all Teradyne employees (other than the Chief Executive Officer) was $97,185; | | | |  | | | | the annual total compensation of the Chief Executive Officer, as reported in the Summary Compensation Table on page 41 of this proxy statement, was $8,007,913; and | | | |  | | | | the ratio of the annual total compensation of the Chief Executive Officer to the median of the annual total compensation of all employees was approximately 82:1. | To identify the median of the annual total compensation of all its employees (the median employee), Teradyne examined the 201"
+   }
+  },
+  "0001193125-19-089583": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312519089583/d639437ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001193125-19-059974",
+   "result": {
+    "ceoPay": 7172691,
+    "medianPay": 92268,
+    "payRatio": 78,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "). The pay ratio information included below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2018, Teradynes last completed fiscal year: | | |  | | | | the median of the annual total compensation of all Teradyne employees (other than the CEO) was $92,268; | | | |  | | | | the annual total compensation of the CEO, as reported in the Summary Compensation Table on page 39 of this proxy statement, was $7,172,691; and | | | |  | | | | the ratio of the annual total compensation of the CEO to the median of the annual total compensation of all employees was 78:1. | To identify the median of the annual total compensation of all its employees (the median employee), Teradyne examined the 2017 model cash compensation for all employees, excluding"
+   }
+  },
+  "0001193125-18-101023": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312518101023/d540172ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001193125-18-066579",
+   "result": {
+    "ceoPay": 7236688,
+    "medianPay": 94730,
+    "payRatio": 76,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ormation included below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. 25 Table of Contents For 2017, Teradynes last completed fiscal year: | | |  | | | | the median of the annual total compensation of all Teradyne employees (other than the CEO) was $94,730; | | | |  | | | | the annual total compensation of the CEO, as reported in the Summary Compensation Table on page 36 of this Proxy Statement, was $7,236,688; and | | | |  | | | | the ratio of the annual total compensation of the CEO to the median of the annual total compensation of all employees was 76:1. | To identify the median of the annual total compensation of all its employees (the median employee), Teradyne examined the 2017 model cash compensation for all employees, excluding"
+   }
+  }
+ },
+ "tenKs": {
+  "0001193125-18-066579": {
+   "parserVersion": 1,
+   "employees": 4500
+  },
+  "0001193125-19-059974": {
+   "parserVersion": 1,
+   "employees": 4900
+  },
+  "0001193125-20-058676": {
+   "parserVersion": 1,
+   "employees": 5400
+  },
+  "0001193125-21-050735": {
+   "parserVersion": 1,
+   "employees": 5500
+  },
+  "0001193125-22-049828": {
+   "parserVersion": 1,
+   "employees": 5900
+  },
+  "0001193125-23-044711": {
+   "parserVersion": 1,
+   "employees": 6500
+  },
+  "0000950170-24-018701": {
+   "parserVersion": 1,
+   "employees": 6500
+  },
+  "0000950170-25-023784": {
+   "parserVersion": 1,
+   "employees": 6500
+  },
+  "0001193125-26-059002": {
+   "parserVersion": 1,
+   "employees": 6600
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 1107042000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-051703"
+   },
+   "2009": {
+    "revenue": 777425000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-087457"
+   },
+   "2010": {
+    "revenue": 1566162000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-087821"
+   },
+   "2011": {
+    "revenue": 1429061000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-077218"
+   },
+   "2012": {
+    "revenue": 1656750000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-067671"
+   },
+   "2013": {
+    "revenue": 1427933000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-484381"
+   },
+   "2014": {
+    "revenue": 1647824000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-064638"
+   },
+   "2015": {
+    "revenue": 1639578000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-18-066579"
+   },
+   "2016": {
+    "revenue": 1753250000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-19-059974"
+   },
+   "2017": {
+    "revenue": 2136606000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-20-058676"
+   },
+   "2018": {
+    "revenue": 2100802000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-21-050735"
+   },
+   "2019": {
+    "revenue": 2294965000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-22-049828"
+   },
+   "2020": {
+    "revenue": 3121469000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-23-044711"
+   },
+   "2021": {
+    "revenue": 3702881000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-24-018701"
+   },
+   "2022": {
+    "revenue": 3155045000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-25-023784"
+   },
+   "2023": {
+    "revenue": 2676298000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-059002"
+   },
+   "2024": {
+    "revenue": 2819880000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-059002"
+   },
+   "2025": {
+    "revenue": 3190024000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-059002"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-059002",
+    "filingDate": "2026-02-19",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312526059002/ter-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-023784",
+    "filingDate": "2025-02-20",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/97210/000095017025023784/ter-20241231.htm"
+   },
+   {
+    "accession": "0000950170-24-018701",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/97210/000095017024018701/ter-20231231.htm"
+   },
+   {
+    "accession": "0001193125-23-044711",
+    "filingDate": "2023-02-22",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312523044711/d414778d10k.htm"
+   },
+   {
+    "accession": "0001193125-22-049828",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312522049828/d213661d10k.htm"
+   },
+   {
+    "accession": "0001193125-21-050735",
+    "filingDate": "2021-02-22",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312521050735/d69963d10k.htm"
+   },
+   {
+    "accession": "0001193125-20-058676",
+    "filingDate": "2020-03-02",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312520058676/d860886d10k.htm"
+   },
+   {
+    "accession": "0001193125-19-059974",
+    "filingDate": "2019-03-01",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312519059974/d652525d10k.htm"
+   },
+   {
+    "accession": "0001193125-18-066579",
+    "filingDate": "2018-03-01",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312518066579/d504255d10k.htm"
+   },
+   {
+    "accession": "0001193125-17-064638",
+    "filingDate": "2017-03-01",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/97210/000119312517064638/d274101d10k.htm"
+   }
+  ]
+ }
+}

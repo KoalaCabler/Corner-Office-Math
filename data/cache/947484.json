@@ -1,0 +1,364 @@
+{
+ "proxies": {
+  "0000947484-26-000038": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748426000038/acgl-20260324.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000947484-26-000017",
+   "result": {
+    "ceoPay": 13876024,
+    "medianPay": 132527,
+    "payRatio": 105,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ments applied to calculate our CEO annual total compensation as set forth in the \"2025 Summary Compensation Table,\" and then added the estimated value of the median employee's health plan benefits. Based on the foregoing, the annual total compensation calculated for the median employee for 2025 was $132,527 . For purposes of the pay ratio rule, the annual total compensation calculated for our CEO for 2025 , was $13,840,692 , as set forth in the \"2025 Summary Compensation Table,\" plus $35,332 , the estimated value of our CEO's health plan benefits, or $13,876,024 . Accordingly, for 2025 , our CEO to median employee pay ratio was 105 to 1 . Employment Arrangements Set forth below is a summary of the material terms of the employment arrangements with each of the NEOs. Nicolas Papadopoulo Mr."
+   }
+  },
+  "0000947484-25-000031": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748425000031/acgl-20250325.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000947484-25-000017",
+   "result": {
+    "ceoPay": 31625520,
+    "medianPay": 149222,
+    "payRatio": 212,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ents applied to calculate our CEO annual total compensation as set forth in the \"202 4 Summary Compensation Table,\" and then added the estimated value of the median employee's health plan benefits. Based on the foregoing, the annual total compensation calculated for the median employee for 2024 was $149,222. For purposes of the pay ratio rule, the annual total compensation calculated for our CEO for 2024, was $31,592,454, as set forth in the \"202 4 Summary Compensation Table,\" plus $33,066, the estimated value of our CEO's health plan benefits, or $31,625,520. Accordingly, for 2024, our CEO to median employee pay ratio was 212 to 1. Employment Arrangements Set forth below is a summary of the material terms of the employment arrangements with each of the NEOs. Nicolas Papadopoulo In connect"
+   }
+  },
+  "0000947484-24-000035": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748424000035/acgl-20240327.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000947484-24-000020",
+   "result": {
+    "ceoPay": 12710904,
+    "medianPay": 147294,
+    "payRatio": 86,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ents applied to calculate our CEO annual total compensation as set forth in the \"202 3 Summary Compensation Table,\" and then added the estimated value of the median employee's health plan benefits. Based on the foregoing, the annual total compensation calculated for the median employee for 2023 was $147,294. For purposes of the pay ratio rule, the annual total compensation calculated for our CEO for 2023, was $12,676,061, as set forth in the \"202 3 Summary Compensation Table,\" plus $34,843, the estimated value of our CEO's health plan benefits, or $12,710,904. Accordingly, for 2023, our CEO to median employee pay ratio was 86 to 1 . Employment Arrangements Set forth below is a summary of the material terms of the employment arrangements with each of the NEOs. Marc Grandisson Mr. Grandisson"
+   }
+  },
+  "0000947484-23-000040": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748423000040/acgl-20230323.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000947484-23-000015",
+   "result": {
+    "ceoPay": 11670819,
+    "medianPay": 141453,
+    "payRatio": 83,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "nts applied to calculate our CEO annual total compensation as set forth in the \"2022 Summary Compensation Table , \" and then added the estimated value of the median employee's health plan benefits. Based on the foregoing, the annual total compensation calculated for the median employee for 2022 was $141,453. For purposes of the pay ratio rule, the annual total compensation calculated for our CEO for 2022, was $11,634,398, as set forth in the \"2022 Summary Compensation Table , \" plus $36,421, the estimated value of our CEO's health plan benefits, or $11,670,819. Accordingly, for 2022, our CEO to median employee pay ratio was 83 to 1 . Employment Arrangements Set forth below is a summary of the material terms of the employment arrangements with each of the NEOs. Marc Grandisson Mr. Grandisso"
+   }
+  },
+  "0000947484-22-000024": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748422000024/a2022proxydef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000947484-22-000015",
+   "result": {
+    "ceoPay": 8907802,
+    "medianPay": 129028,
+    "payRatio": 69,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ments applied to calculate our CEO annual total compensation as set forth in the \"2021 Summary Compensation Table,\" and then added the estimated value of the median employee's health plan benefits. Based on the foregoing, the annual total compensation calculated for the median employee for 2021 was $129,028. For purposes of the pay ratio rule, the annual total compensation calculated for our CEO for 2021, was $8,907,802, as set forth in the \"2021 Summary Compensation Table,\" plus $35,151, the estimated value of our CEO's health plan benefits, or $8,942,953. Accordingly, for 2021, our CEO to median employee pay ratio was 69 to 1. Employment Arrangements Set forth below is a summary of the material terms of the employment arrangements with each of the named executive officers. Marc Grandisso"
+   }
+  },
+  "0000947484-21-000036": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748421000036/a2021proxydef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000947484-21-000028",
+   "result": {
+    "ceoPay": 8371225,
+    "medianPay": 131168,
+    "payRatio": 64,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "nts applied to calculate our CEO annual total compensation as set forth in the \"2020 Summary Compensation Table , \" and then added the estimated value of the median employee's health plan benefits. Based on the foregoing, the annual total compensation calculated for the median employee for 2020 was $131,168. For purposes of the pay ratio rule, the annual total compensation calculated for our CEO for 2020, was $8,339,087, as set forth in the \"2020 Summary Compensation Table , \" plus $32,138, the estimated value of our CEO's health plan benefits, or $8,371,225. Accordingly, for 2020, our CEO to median employee pay ratio was 64 to 1. Employment Arrangements Set forth below is a summary of the material terms of the employment arrangements with each of the named executive officers. Marc Grandis"
+   }
+  },
+  "0000947484-20-000021": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748420000021/a2020proxydef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000947484-20-000012",
+   "result": {
+    "ceoPay": 8947654,
+    "medianPay": 112111,
+    "payRatio": 80,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ents applied to calculate our CEO annual total compensation as set forth in the \"2019 Summary Compensation Table\" , and then added the estimated value of the median employee's health plan benefits. Based on the foregoing, the annual total compensation calculated for the median employee for 2019 was $112,111. For purposes of the pay ratio rule, the annual total compensation calculated for our CEO for 2019 , was $8,915,516, as set forth in the \"2019 Summary Compensation Table\" , plus $32,138, the estimated value of our CEO's health plan benefits, or $8,947,654. Accordingly, for 2019 , our CEO to median employee pay ratio was 80 to 1. Employment Arrangements Set forth below is a summary of the material terms of the employment arrangements with each of the named executive officers. Marc Grandi"
+   }
+  },
+  "0000947484-19-000023": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748419000023/a2019proxydef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000947484-19-000008",
+   "result": {
+    "ceoPay": 12467406,
+    "medianPay": 126070,
+    "payRatio": 99,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ents applied to calculate our CEO annual total compensation as set forth in the \"2018 Summary Compensation Table\" , and then added the estimated value of the median employee's health plan benefits. Based on the foregoing, the annual total compensation calculated for the median employee for 2018 was $126,070. For purposes of the pay ratio rule, the annual total compensation calculated for our CEO for 2018 , was $12,432,827, as set forth in the \"2018 Summary Compensation Table\" , plus $34,579, the estimated value of our CEO's health plan benefits, or $12,467,406. Accordingly, for 2018 , our CEO to median employee pay ratio was 99 to 1. Employment Arrangements Set forth below is a summary of the material terms of the employment arrangements with each of the named executive officers. Marc Gran"
+   }
+  },
+  "0000947484-18-000030": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748418000030/a2018proxydef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000947484-18-000012",
+   "result": {
+    "ceoPay": 12783792,
+    "medianPay": 123542,
+    "payRatio": 104,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ements applied to calculate our CEO annual total compensation as set forth in the 2017 Summary Compensation Table , and then added the estimated value of the median employee's health plan benefits. Based on the foregoing, the annual total compensation calculated for the median employee for 2017 was $123,542. For purposes of the pay ratio rule, the annual total compensation calculated for our CEO for 2017, was $12,752,096, our CEO's annual total compensation as set forth in the 2017 Summary Compensation Table , plus $31,696, the estimated value of our CEO's health plan benefits, or $12,783,792. Accordingly, for 2017, our CEO to median employee pay ratio was 104 to 1. Employment Arrangements Set forth below is a summary of the material terms of the employment arrangements with each of the na"
+   }
+  }
+ },
+ "tenKs": {
+  "0000947484-18-000012": {
+   "parserVersion": 1,
+   "employees": 3140
+  },
+  "0000947484-19-000008": {
+   "parserVersion": 1,
+   "employees": 3642
+  },
+  "0000947484-20-000012": {
+   "parserVersion": 1,
+   "employees": 4300
+  },
+  "0000947484-21-000028": {
+   "parserVersion": 1,
+   "employees": 4500
+  },
+  "0000947484-22-000015": {
+   "parserVersion": 1,
+   "employees": 5200
+  },
+  "0000947484-23-000015": {
+   "parserVersion": 1,
+   "employees": 5800
+  },
+  "0000947484-24-000020": {
+   "parserVersion": 1,
+   "employees": 6400
+  },
+  "0000947484-25-000017": {
+   "parserVersion": 1,
+   "employees": 7200
+  },
+  "0000947484-26-000017": {
+   "parserVersion": 1,
+   "employees": 8000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 2966813000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-001529"
+   },
+   "2009": {
+    "revenue": 3501622000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-12-001895"
+   },
+   "2010": {
+    "revenue": 3244067000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-13-002083"
+   },
+   "2011": {
+    "revenue": 3063307000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-14-000006"
+   },
+   "2012": {
+    "revenue": 3482381000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-15-000010"
+   },
+   "2013": {
+    "revenue": 3526157000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-16-000043"
+   },
+   "2014": {
+    "revenue": 3988873000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-17-000015"
+   },
+   "2015": {
+    "revenue": 3936590000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-18-000012"
+   },
+   "2016": {
+    "revenue": 4463556000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-19-000008"
+   },
+   "2017": {
+    "revenue": 5627375000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-20-000012"
+   },
+   "2018": {
+    "revenue": 5450568000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-21-000028"
+   },
+   "2019": {
+    "revenue": 6925967000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-22-000015"
+   },
+   "2020": {
+    "revenue": 8508509000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-23-000015"
+   },
+   "2021": {
+    "revenue": 9248000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-24-000020"
+   },
+   "2022": {
+    "revenue": 9613000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-25-000017"
+   },
+   "2023": {
+    "revenue": 13634000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-26-000017"
+   },
+   "2024": {
+    "revenue": 17440000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-26-000017"
+   },
+   "2025": {
+    "revenue": 19929000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000947484-26-000017"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000947484-26-000017",
+    "filingDate": "2026-02-26",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748426000017/acgl-20251231.htm"
+   },
+   {
+    "accession": "0000947484-25-000017",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748425000017/acgl-20241231.htm"
+   },
+   {
+    "accession": "0000947484-24-000020",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748424000020/acgl-20231231.htm"
+   },
+   {
+    "accession": "0000947484-23-000015",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748423000015/acgl-20221231.htm"
+   },
+   {
+    "accession": "0000947484-22-000015",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748422000015/acgl-20211231.htm"
+   },
+   {
+    "accession": "0000947484-21-000028",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748421000028/acgl-20201231.htm"
+   },
+   {
+    "accession": "0000947484-20-000012",
+    "filingDate": "2020-02-28",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748420000012/a201910-k.htm"
+   },
+   {
+    "accession": "0000947484-19-000008",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748419000008/a201810-k.htm"
+   },
+   {
+    "accession": "0000947484-18-000012",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748418000012/a201710-k.htm"
+   },
+   {
+    "accession": "0000947484-17-000015",
+    "filingDate": "2017-03-01",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/947484/000094748417000015/a201610-k.htm"
+   }
+  ]
+ }
+}

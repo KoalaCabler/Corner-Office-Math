@@ -1,0 +1,336 @@
+{
+ "proxies": {
+  "0001286681-26-000012": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1286681/000128668126000012/dpz-20260309.htm",
+   "periodEnd": "2025-12-28",
+   "tenK": "0001193125-26-062321",
+   "result": {
+    "ceoPay": 10696081,
+    "medianPay": 36776,
+    "payRatio": 291,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ourly basis. The median employee's annual total compensation was calculated using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table for 2025 earlier in this Proxy Statement. Mr. Weiner's annual total compensation for the 2025 fiscal year was $10,696,081, as reflected in the Summary Compensation Table for 2025 above. Our median employee's annual total compensation for the 2025 fiscal year, as determined in the same manner as Mr. Weiner's, was $36,776. As a result, we estimate that Mr. Weiner's annual total compensation was approximately 291 times that of our median employee. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Because the SEC rules for identifying the median co"
+   }
+  },
+  "0001193125-25-054426": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312525054426/d104247ddef14a.htm",
+   "periodEnd": "2024-12-29",
+   "tenK": "0000950170-25-025223",
+   "result": {
+    "ceoPay": 8944625,
+    "medianPay": 33744,
+    "payRatio": 265,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ourly basis. The median employee's annual total compensation was calculated using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table for 2024 earlier in this Proxy Statement. Mr. Weiner's annual total compensation for the 2024 fiscal year was $8,944,625, as reflected in the Summary Compensation Table for 2024 above. Our median employee's annual total compensation for the 2024 fiscal year, as determined in the same manner as Mr. Weiner's, was $33,744. As a result, we estimate that Mr. Weiner's annual total compensation was approximately 265 times that of our median employee. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Because the SEC rules for identifying the median com"
+   }
+  },
+  "0001193125-24-068579": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312524068579/d775903ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-019725",
+   "result": {
+    "ceoPay": 10135862,
+    "medianPay": 31481,
+    "payRatio": 322,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ourly basis. The median employee's annual total compensation was calculated using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table for 2023 earlier in this Proxy Statement. Mr. Weiner's annual total compensation for the 2023 fiscal year was $10,135,862, as reflected in the Summary Compensation Table for 2023 above. Our median employee's annual total compensation for the 2023 fiscal year, as determined in the same manner as Mr. Weiner's, was $31,481. As a result, we estimate that Mr. Weiner's annual total compensation was approximately 322 times that of our median employee. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Because the SEC rules for identifying the median co"
+   }
+  },
+  "0001193125-23-071970": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312523071970/d366824ddef14a.htm",
+   "periodEnd": "2023-01-01",
+   "tenK": "0000950170-23-003938",
+   "result": {
+    "ceoPay": 6741976,
+    "medianPay": 31638,
+    "payRatio": 213,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ier in this Proxy Statement. Mr. Weiner's annual total compensation for the 2022 fiscal year was $6,636,731, as reflected in the Summary Compensation Table for 2022 above. Our median employee's annual total compensation for the 2022 fiscal year, as determined in the same manner as Mr. Weiner's, was $31,638. As a result, we estimate that Mr. Weiner's annual total compensation was approximately 210 times that of our median employee. If we adjusted Mr. Weiner's annual base salary as if he served as our CEO for all of fiscal year 2022 (to $875,000), and further adjusted his AIP payout value to reflect a payout as if he were CEO for all of fiscal year 2022 (to $871,500), his adjusted annual total compensation for 2022, with no additional changes to the other amounts included in the Summary Comp"
+   }
+  },
+  "0001193125-22-077823": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312522077823/d222113ddef14a.htm",
+   "periodEnd": "2022-01-02",
+   "tenK": "0000950170-22-002426",
+   "result": {
+    "ceoPay": 7138002,
+    "medianPay": 17782,
+    "payRatio": 401,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "urly basis. The median employees annual total compensation was calculated using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table for 2021 earlier in this Proxy Statement. Mr. Allisons annual total compensation for the 2021 fiscal year was $7,138,002, as reflected in the Summary Compensation Table for 2021 above. Our median employees annual total compensation for the 2021 fiscal year, as determined in the same manner as Mr. Allisons, was $17,782. As a result, we estimate that Mr. Allisons annual total compensation was approximately 401 times that of our median employee. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Because the SEC rules for identifying the median c"
+   }
+  },
+  "0001193125-21-084940": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312521084940/d131065ddef14a.htm",
+   "periodEnd": "2021-01-03",
+   "tenK": "0001193125-21-055734",
+   "result": {
+    "ceoPay": 6295230,
+    "medianPay": 22076,
+    "payRatio": 285,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "urly basis. The median employees annual total compensation was calculated using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table for 2020 earlier in this Proxy Statement. Mr. Allisons annual total compensation for the 2020 fiscal year was $6,295,230, as reflected in the Summary Compensation Table for 2020 above. Our median employees annual total compensation for the 2020 fiscal year, as determined in the same manner as Mr. Allisons, was $22,076. As a result, we estimate that Mr. Allisons annual total compensation was approximately 285 times that of our median employee. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Because the SEC rules for identifying the median c"
+   }
+  },
+  "0001193125-20-070928": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312520070928/d837255ddef14a.htm",
+   "periodEnd": "2019-12-29",
+   "tenK": "0001193125-20-042675",
+   "result": {
+    "ceoPay": 5495804,
+    "medianPay": 17919,
+    "payRatio": 307,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "urly basis. The median employees annual total compensation was calculated using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table for 2019 earlier in this Proxy Statement. Mr. Allisons annual total compensation for the 2019 fiscal year was $5,495,804, as reflected in the Summary Compensation Table for 2019 above. Our median employees annual total compensation for 2019 was $17,919. As a result, we estimate that Mr. Allisons annual total compensation was approximately 307 times that of our median employee. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that empl"
+   }
+  },
+  "0001193125-19-074028": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312519074028/d691795ddef14a.htm",
+   "periodEnd": "2018-12-30",
+   "tenK": "0001193125-19-046191",
+   "result": {
+    "ceoPay": 9709192,
+    "medianPay": 19077,
+    "payRatio": 509,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "icers as set forth in the Summary Compensation Table for 2018 earlier in this Proxy Statement. Mr. Allisons annual total compensation for the 2018 fiscal year was $9,102,416, as reflected in the Summary Compensation Table for 2018 above. Our median employees annual total compensation for 2018 was $19,077. As a result, we estimate that Mr. Allisons annual total compensation was approximately 477 times that of our median employee. If we adjusted Mr. Allisons annual base salary as if he served as our CEO for a full year (to $865,000), and further adjusted his AIP payout value to reflect a payout as if he were CEO for the full year (to $1,956,630), his adjusted annual total compensation for 2018, with no additional changes to the other amounts included in the Summary Compensation Table for"
+   }
+  },
+  "0001193125-18-083125": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312518083125/d531583ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001193125-18-049576",
+   "result": {
+    "ceoPay": 7939727,
+    "medianPay": 17226,
+    "payRatio": 461,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ian employee, we calculated annual total compensation for such employee using the same methodology we use for our named executive officers as set forth in the 2017 Summary Compensation Table for 2017 earlier in this Proxy Statement. Mr. Doyles annual total compensation for the 2017 fiscal year was $7,939,727, as reflected in the Summary Compensation Table for 2017 above. Our median employees annual total compensation for 2017 was $17,226. As a result, we estimate that Mr. Doyles annual total compensation was approximately 461 times that of our median employee. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employ"
+   }
+  }
+ },
+ "tenKs": {
+  "0001193125-18-049576": {
+   "parserVersion": 1,
+   "employees": 14100
+  },
+  "0001193125-19-046191": {
+   "parserVersion": 1,
+   "employees": 14500
+  },
+  "0001193125-20-042675": {
+   "parserVersion": 1,
+   "employees": 13100
+  },
+  "0001193125-21-055734": {
+   "parserVersion": 1,
+   "employees": 14400
+  },
+  "0000950170-22-002426": {
+   "parserVersion": 1,
+   "employees": 13500
+  },
+  "0000950170-23-003938": {
+   "parserVersion": 1,
+   "employees": 11000
+  },
+  "0000950170-25-025223": {
+   "parserVersion": 1,
+   "employees": 10700
+  },
+  "0001193125-26-062321": {
+   "parserVersion": 1,
+   "employees": 10200
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2010": {
+    "revenue": 1404057000,
+    "periodEnd": "2010-01-03",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-083193"
+   },
+   "2011": {
+    "revenue": 1570894000,
+    "periodEnd": "2011-01-02",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-081957"
+   },
+   "2012": {
+    "revenue": 1678439000,
+    "periodEnd": "2012-12-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-059100"
+   },
+   "2013": {
+    "revenue": 1802223000,
+    "periodEnd": "2013-12-29",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-476935"
+   },
+   "2014": {
+    "revenue": 1993833000,
+    "periodEnd": "2014-12-28",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-060262"
+   },
+   "2016": {
+    "revenue": 2216528000,
+    "periodEnd": "2016-01-03",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-18-049576"
+   },
+   "2017": {
+    "revenue": 2787979000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-20-042675"
+   },
+   "2018": {
+    "revenue": 3432867000,
+    "periodEnd": "2018-12-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-21-055734"
+   },
+   "2019": {
+    "revenue": 3618774000,
+    "periodEnd": "2019-12-29",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-22-002426"
+   },
+   "2021": {
+    "revenue": 4117411000,
+    "periodEnd": "2021-01-03",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-23-003938"
+   },
+   "2022": {
+    "revenue": 4357373000,
+    "periodEnd": "2022-01-02",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-24-019725"
+   },
+   "2023": {
+    "revenue": 4479358000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-062321"
+   },
+   "2024": {
+    "revenue": 4706416000,
+    "periodEnd": "2024-12-29",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-062321"
+   },
+   "2025": {
+    "revenue": 4939994000,
+    "periodEnd": "2025-12-28",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-062321"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-062321",
+    "filingDate": "2026-02-23",
+    "reportDate": "2025-12-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312526062321/dpz-20251228.htm"
+   },
+   {
+    "accession": "0000950170-25-025223",
+    "filingDate": "2025-02-24",
+    "reportDate": "2024-12-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1286681/000095017025025223/dpz-20241229.htm"
+   },
+   {
+    "accession": "0000950170-24-019725",
+    "filingDate": "2024-02-26",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1286681/000095017024019725/dpz-20231231.htm"
+   },
+   {
+    "accession": "0000950170-23-003938",
+    "filingDate": "2023-02-23",
+    "reportDate": "2023-01-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1286681/000095017023003938/dpz-20230101.htm"
+   },
+   {
+    "accession": "0000950170-22-002426",
+    "filingDate": "2022-03-01",
+    "reportDate": "2022-01-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1286681/000095017022002426/dpz-20220102.htm"
+   },
+   {
+    "accession": "0001193125-21-055734",
+    "filingDate": "2021-02-25",
+    "reportDate": "2021-01-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312521055734/d326373d10k.htm"
+   },
+   {
+    "accession": "0001193125-20-042675",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312520042675/d796357d10k.htm"
+   },
+   {
+    "accession": "0001193125-19-046191",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312519046191/d696297d10k.htm"
+   },
+   {
+    "accession": "0001193125-18-049576",
+    "filingDate": "2018-02-20",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312518049576/d531906d10k.htm"
+   },
+   {
+    "accession": "0001193125-17-060262",
+    "filingDate": "2017-02-28",
+    "reportDate": "2017-01-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1286681/000119312517060262/d350071d10k.htm"
+   }
+  ]
+ }
+}

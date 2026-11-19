@@ -1,0 +1,346 @@
+{
+ "proxies": {
+  "0001193125-26-014662": {
+   "parserVersion": 1,
+   "filingDate": "2026-01-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/72331/000119312526014662/d895414ddef14a.htm",
+   "periodEnd": "2025-10-31",
+   "tenK": "0000072331-25-000144",
+   "result": {
+    "ceoPay": 8153900,
+    "medianPay": 62650,
+    "payRatio": 130,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "total compensation of the median employee by using the same methodology that we used to determine the annual total compensation of our CEO, as reported in the 2025 Summary Compensation Table. Using this calculation method, the annual total compensation of our median employee, excluding the CEO, was $62,650 and the annual total compensation of Mr. Nagarajan, our CEO, was $8,153,900. Using this methodology, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was130 to 1. The pay ratio disclosure rules of Item 402(u) of Regulation S-K provide reporting companies with flexibility in determining the methodology used to identify the median employee, in calculating the median employee's annual total compensation and in estima"
+   }
+  },
+  "0001193125-25-008068": {
+   "parserVersion": 1,
+   "filingDate": "2025-01-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/72331/000119312525008068/d574603ddef14a.htm",
+   "periodEnd": "2024-10-31",
+   "tenK": "0000072331-24-000177",
+   "result": {
+    "ceoPay": 8566276,
+    "medianPay": 71870,
+    "payRatio": 119,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "total compensation of the median employee by using the same methodology that we used to determine the annual total compensation of our CEO, as reported in the 2024 Summary Compensation Table. Using this calculation method, the annual total compensation of our median employee, excluding the CEO, was $71,870, and the annual total compensation of Mr. Nagarajan, our CEO, was $8,566,276. Using this methodology, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 119 to 1. The pay ratio disclosure rules of Item 402(u) of Regulation S-K provide reporting companies with flexibility in determining the methodology used to identify the median employee, in calculating the median employee's annual total compensation and in esti"
+   }
+  },
+  "0001193125-24-010767": {
+   "parserVersion": 1,
+   "filingDate": "2024-01-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/72331/000119312524010767/d482491ddef14a.htm",
+   "periodEnd": "2023-10-31",
+   "tenK": "0000072331-23-000242",
+   "result": {
+    "ceoPay": 6981645,
+    "medianPay": 85402,
+    "payRatio": 82,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "total compensation of the median employee by using the same methodology that we used to determine the annual total compensation of our CEO, as reported in the 2023 Summary Compensation Table. Using this calculation method, the annual total compensation of our median employee, excluding the CEO, was $85,402, and the annual total compensation of Mr. Nagarajan, our CEO, was $6,981,645. Using this methodology, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 82 to 1. The pay ratio disclosure rules of Item 402(u) of Regulation S-K provide reporting companies with flexibility in determining the methodology used to identify the median employee, in calculating the median employee's annual total compensation and in estim"
+   }
+  },
+  "0001193125-23-016893": {
+   "parserVersion": 1,
+   "filingDate": "2023-01-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/72331/000119312523016893/d397561ddef14a.htm",
+   "periodEnd": "2022-10-31",
+   "tenK": "0000072331-22-000185",
+   "result": {
+    "ceoPay": 8432113,
+    "medianPay": 69167,
+    "payRatio": 122,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "total compensation of the median employee by using the same methodology that we used to determine the annual total compensation of our CEO, as reported in the 2022 Summary Compensation Table. Using this calculation method, the annual total compensation of our median employee, excluding the CEO, was $69,167, and the annual total compensation of Mr. Nagarajan, our CEO, was $8,432,113. Using this methodology, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 122 to 1. The pay ratio disclosure rules of Item 402(u) of Regulation S-K provide reporting companies with flexibility in determining the methodology used to identify the median employee, in calculating the median employees annual total compensation and in esti"
+   }
+  },
+  "0001193125-22-014430": {
+   "parserVersion": 1,
+   "filingDate": "2022-01-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/72331/000119312522014430/d217367ddef14a.htm",
+   "periodEnd": "2021-10-31",
+   "tenK": "0000072331-21-000079",
+   "result": {
+    "ceoPay": 10308750,
+    "medianPay": 65527,
+    "payRatio": 157,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "total compensation of the median employee by using the same methodology that we used to determine the annual total compensation of our CEO, as reported in the 2021 Summary Compensation Table. Using this calculation method, the annual total compensation of our median employee, excluding the CEO, was $65,527, and the annual total compensation of Mr. Nagarajan, our CEO, was $10,308,750. Using this methodology, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 157 to 1. The pay ratio disclosure rules of Item 402(u) of Regulation S-K provide reporting companies with flexibility in determining the methodology used to identify the median employee, in calculating the median employees annual total compensation and in est"
+   }
+  },
+  "0001193125-21-014249": {
+   "parserVersion": 1,
+   "filingDate": "2021-01-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/72331/000119312521014249/d23490ddef14a.htm",
+   "periodEnd": "2020-10-31",
+   "tenK": "0000072331-20-000024",
+   "result": {
+    "ceoPay": 5350475,
+    "medianPay": 62544,
+    "payRatio": 86,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "total compensation of the median employee by using the same methodology that we used to determine the annual total compensation of our CEO, as reported in the 2020 Summary Compensation Table. Using this calculation method, the annual total compensation of our median employee, excluding the CEO, was $62,544, and the annual total compensation of Mr. Nagarajan, our CEO, was $5,350,475. Using this methodology, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 86 to 1. The pay ratio disclosure rules of Item 402(u) of Regulation S-K provide reporting companies with flexibility in determining the methodology used to identify the median employee, in calculating the median employees annual total compensation and in estim"
+   }
+  },
+  "0001193125-20-009583": {
+   "parserVersion": 1,
+   "filingDate": "2020-01-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/72331/000119312520009583/d808661ddef14a.htm",
+   "periodEnd": "2019-10-31",
+   "tenK": "0001564590-19-045927",
+   "result": {
+    "ceoPay": 3437271,
+    "medianPay": 57335,
+    "payRatio": 60,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "de the United States. We calculated the annual total compensation of the median employee by totaling the median employees annual base salary, annual cash incentive and pension value, if any. Using this calculation method, the annual total compensation of our median employee, excluding the CEO, was $57,335. For our CEO, we used the total compensation for Mr. Nagarajan, our CEO as reported in the 2019 Compensation Table; however, because Mr. Nagarajan was appointed CEO in August 2019, we annualized Mr. Nagarajans base salary, annual cash incentive (based on a guaranteed minimum bonus at target), and pension value. We included the value of the performance share grants made on his date of hire. Using this methodology, the annual total compensation of our CEO was $3,437,271; and the ratio of"
+   }
+  },
+  "0001193125-19-012054": {
+   "parserVersion": 1,
+   "filingDate": "2019-01-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/72331/000119312519012054/d632180ddef14a.htm",
+   "periodEnd": "2018-10-31",
+   "tenK": "0001564590-18-030928",
+   "result": {
+    "ceoPay": 6997090,
+    "medianPay": 61750,
+    "payRatio": 113.3,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "described above, we calculated the annual total compensation of the median employee using the same methodology that we used to determine the annual total compensation of the CEO, as reported in the Summary Compensation Table. The annual total compensation our median employee, excluding the CEO, was $61,750. The annual total compensation of our CEO, as reported in the Summary Compensation Table on page 61 of this Proxy Statement, was $6,997,090; and the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all other employees was 113.3 to 1. The pay ratio disclosure rules of Item 402(u) of Regulation S-K provide reporting companies with flexibility in determining the methodology used to identify the median employee, in calculating the median emp"
+   }
+  },
+  "0001193125-18-014007": {
+   "parserVersion": 1,
+   "filingDate": "2018-01-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/72331/000119312518014007/d473504ddef14a.htm",
+   "periodEnd": "2017-10-31",
+   "tenK": "0001564590-17-024983",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001564590-18-030928": {
+   "parserVersion": 1,
+   "employees": 7536
+  },
+  "0001564590-19-045927": {
+   "parserVersion": 1,
+   "employees": 7579
+  },
+  "0000072331-20-000024": {
+   "parserVersion": 1,
+   "employees": 7555
+  },
+  "0000072331-21-000079": {
+   "parserVersion": 1,
+   "employees": 100
+  },
+  "0000072331-22-000185": {
+   "parserVersion": 1,
+   "employees": 100
+  },
+  "0000072331-23-000242": {
+   "parserVersion": 1,
+   "employees": 100
+  },
+  "0000072331-24-000177": {
+   "parserVersion": 1,
+   "employees": 8000
+  },
+  "0000072331-25-000144": {
+   "parserVersion": 1,
+   "employees": 8000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 1124829000,
+    "periodEnd": "2008-10-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-10-114569"
+   },
+   "2009": {
+    "revenue": 819165000,
+    "periodEnd": "2009-10-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-343516"
+   },
+   "2010": {
+    "revenue": 1041551000,
+    "periodEnd": "2010-10-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-504725"
+   },
+   "2011": {
+    "revenue": 1233159000,
+    "periodEnd": "2011-10-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-474384"
+   },
+   "2012": {
+    "revenue": 1409578000,
+    "periodEnd": "2012-10-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-442368"
+   },
+   "2013": {
+    "revenue": 1542921000,
+    "periodEnd": "2013-10-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-15-011507"
+   },
+   "2014": {
+    "revenue": 1704021000,
+    "periodEnd": "2014-10-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-16-030237"
+   },
+   "2015": {
+    "revenue": 1688666000,
+    "periodEnd": "2015-10-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-17-024983"
+   },
+   "2016": {
+    "revenue": 1808994000,
+    "periodEnd": "2016-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-030928"
+   },
+   "2017": {
+    "revenue": 2066982000,
+    "periodEnd": "2017-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-030928"
+   },
+   "2018": {
+    "revenue": 2254668000,
+    "periodEnd": "2018-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-030928"
+   },
+   "2019": {
+    "revenue": 2194226000,
+    "periodEnd": "2019-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000072331-21-000079"
+   },
+   "2020": {
+    "revenue": 2121100000,
+    "periodEnd": "2020-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000072331-22-000185"
+   },
+   "2021": {
+    "revenue": 2362209000,
+    "periodEnd": "2021-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000072331-23-000242"
+   },
+   "2022": {
+    "revenue": 2590278000,
+    "periodEnd": "2022-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000072331-24-000177"
+   },
+   "2023": {
+    "revenue": 2628632000,
+    "periodEnd": "2023-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000072331-25-000144"
+   },
+   "2024": {
+    "revenue": 2689921000,
+    "periodEnd": "2024-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000072331-25-000144"
+   },
+   "2025": {
+    "revenue": 2791687000,
+    "periodEnd": "2025-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000072331-25-000144"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000072331-25-000144",
+    "filingDate": "2025-12-17",
+    "reportDate": "2025-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233125000144/ndsn-20251031.htm"
+   },
+   {
+    "accession": "0000072331-24-000177",
+    "filingDate": "2024-12-18",
+    "reportDate": "2024-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233124000177/ndsn-20241031.htm"
+   },
+   {
+    "accession": "0000072331-23-000242",
+    "filingDate": "2023-12-20",
+    "reportDate": "2023-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233123000242/ndsn-20231031.htm"
+   },
+   {
+    "accession": "0000072331-22-000185",
+    "filingDate": "2022-12-19",
+    "reportDate": "2022-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233122000185/ndsn-20221031.htm"
+   },
+   {
+    "accession": "0000072331-21-000079",
+    "filingDate": "2021-12-17",
+    "reportDate": "2021-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233121000079/ndsn-20211031.htm"
+   },
+   {
+    "accession": "0000072331-20-000024",
+    "filingDate": "2020-12-18",
+    "reportDate": "2020-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72331/000007233120000024/ndsn-20201031.htm"
+   },
+   {
+    "accession": "0001564590-19-045927",
+    "filingDate": "2019-12-13",
+    "reportDate": "2019-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72331/000156459019045927/ndsn-10k_20191031.htm"
+   },
+   {
+    "accession": "0001564590-18-030928",
+    "filingDate": "2018-12-14",
+    "reportDate": "2018-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72331/000156459018030928/ndsn-10k_20181031.htm"
+   },
+   {
+    "accession": "0001564590-17-024983",
+    "filingDate": "2017-12-15",
+    "reportDate": "2017-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/72331/000156459017024983/ndsn-10k_20171031.htm"
+   }
+  ]
+ }
+}

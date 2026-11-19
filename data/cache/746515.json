@@ -1,0 +1,366 @@
+{
+ "proxies": {
+  "0001193125-26-121388": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526121388/expd-20260323.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001193125-26-071569",
+   "result": {
+    "ceoPay": 9735290,
+    "medianPay": 52350,
+    "payRatio": 186,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "the annual total compensation of our estimated median employee and the annual total compensation for Daniel R. Wall, current President and Chief Executive Officer (the CEO). For the year ended December 31, 2025, the annual total compensation of the estimated median employee (other than our CEO) was $52,350. The annualized total compensation of Mr. Wall as CEO was $9,735,290. Based on this information, the ratio of the annual total CEO compensation to the annual total compensation of the estimated median employee was 186 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio based"
+   }
+  },
+  "0000950170-25-044161": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017025044161/expd-20250324.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-024750",
+   "result": {
+    "ceoPay": 8083891,
+    "medianPay": 54048,
+    "payRatio": 150,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "tween the annual total compensation of our estimated median employee and the annual total compensation of Jeffrey S. Musser, President and Chief Executive Officer (the CEO). For the year ended December 31, 2024, the annual total compensation of the estimated median employee (other than our CEO) was $54,048. The annual total compensation of Mr. Musser was $8,083,891. Based on this information, the ratio of the annual total CEO compensation to the annual total compensation of the estimated median employee was 150 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that e"
+   }
+  },
+  "0000950170-24-036522": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017024036522/expd-20240326.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-019394",
+   "result": {
+    "ceoPay": 7453361,
+    "medianPay": 51321,
+    "payRatio": 145,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "tween the annual total compensation of our estimated median employee and the annual total compensation of Jeffrey S. Musser, President and Chief Executive Officer (the CEO). For the year ended December 31, 2023, the annual total compensation of the estimated median employee (other than our CEO) was $51,321. The total compensation of the estimated median employee in 2023 declined 31% compared to the estimated median employee in 2022 primarily due to no bonus paid to the estimated median employee in 2023. The annual total compensation of Mr. Musser was $7,453,361. Based on this information, the ratio of the annual total CEO compensation to the annual total compensation of the estimated median employee was 145 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent wit"
+   }
+  },
+  "0000950170-23-008886": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017023008886/expd-20230320.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000950170-23-005412",
+   "result": {
+    "ceoPay": 10833047,
+    "medianPay": 74687,
+    "payRatio": 145,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "tween the annual total compensation of our estimated median employee and the annual total compensation of Jeffrey S. Musser, President and Chief Executive Officer (the CEO). For the year ended December 31, 2022, the annual total compensation of the estimated median employee (other than our CEO) was $74,687 and the annual total compensation of Mr. Musser was $10,833,047. Based on this information, the ratio of the annual total CEO compensation to the annual total compensation of the estimated median employee was 145 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on th"
+   }
+  },
+  "0001564590-22-011384": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000156459022011384/expd-def14a_20220503.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001564590-22-010381",
+   "result": {
+    "ceoPay": 13026304,
+    "medianPay": 68690,
+    "payRatio": 190,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "tween the annual total compensation of our estimated median employee and the annual total compensation of Jeffrey S. Musser, President and Chief Executive Officer (the CEO). For the year ended December 31, 2021, the annual total compensation of the estimated median employee (other than our CEO) was $68,690 and the annual total compensation of Mr. Musser was $13,026,304. Based on this information, the ratio of the annual total CEO compensation to the annual total compensation of the estimated median employee was 190 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on th"
+   }
+  },
+  "0001564590-21-014853": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000156459021014853/expd-def14a_20210504.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-006925",
+   "result": {
+    "ceoPay": 7405851,
+    "medianPay": 48187,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "tween the annual total compensation of our estimated median employee and the annual total compensation of Jeffrey S. Musser, President and Chief Executive Officer (the CEO). For the year ended December 31, 2020, the annual total compensation of the estimated median employee (other than our CEO) was $48,187 and the annual total compensation of Mr. Musser was $7,405,851. Based on this information, the ratio of the annual total CEO compensation to the annual total compensation of the estimated median employee was 154 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on tha"
+   }
+  },
+  "0001564590-20-012523": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000156459020012523/expd-def14a_20200505.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-005719",
+   "result": {
+    "ceoPay": 6424455,
+    "medianPay": 45108,
+    "payRatio": 142,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "een the annual total compensation of our estimated median employee and the annual total compensation of Jeffrey S. Musser, President and Chief Executive Officer (the \"CEO\"). For the year ended December 31, 2019, the annual total compensation of the estimated median employee (other than our CEO) was $45,108 and the annual total compensation of Mr. Musser was $6,424,455. Based on this information, the ratio of the annual total CEO compensation to the annual total compensation of the estimated median employee was 142 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on tha"
+   }
+  },
+  "0000746515-19-000009": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000074651519000009/a2019def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000746515-19-000004",
+   "result": {
+    "ceoPay": 6915480,
+    "medianPay": 43730,
+    "payRatio": 158,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "een the annual total compensation of our estimated median employee and the annual total compensation of Jeffrey S. Musser, President and Chief Executive Officer (the \"CEO\"). For the year ended December 31, 2018, the annual total compensation of the estimated median employee (other than our CEO) was $43,730 and the annual total compensation of Mr. Musser was $6,915,480. Based on this information, the ratio of the annual total CEO compensation to the annual total compensation of the estimated median employee was 158 to 1. SEC rules allow us to identify our median employee once every three years unless there has been a change in our employee population or employee compensation arrangements that we reasonably believe would result in a significant change in our pay ratio disclosure. Because the"
+   }
+  },
+  "0000746515-18-000008": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/746515/000074651518000008/a2018def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000746515-18-000004",
+   "result": {
+    "ceoPay": 6308768,
+    "medianPay": 40918,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": 16723,
+    "statedYear": 2015,
+    "excerpt": "tal compensation of our estimated median employee and the annual total compensation of Jeffrey S. Musser, President and Chief Executive Officer (the \"CEO\"). For the year ended December 31, 2017: | | | | | • | | the annual total compensation of the estimated median employee (other than our CEO), was $40,918; and | | | | | | • | | the annual total compensation of Mr. Musser was $6,308,768. | Based on this information, the ratio of the annual total CEO compensation to the annual total compensation of the estimated median employee was 154 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described below. The SEC rules for identifying the median compensated employee and calculating the p"
+   }
+  }
+ },
+ "tenKs": {
+  "0000746515-19-000004": {
+   "parserVersion": 1,
+   "employees": 17400
+  },
+  "0001564590-20-005719": {
+   "parserVersion": 1,
+   "employees": 18000
+  },
+  "0001564590-21-006925": {
+   "parserVersion": 1,
+   "employees": 17500
+  },
+  "0001564590-22-010381": {
+   "parserVersion": 1,
+   "employees": 19000
+  },
+  "0000950170-23-005412": {
+   "parserVersion": 1,
+   "employees": 20000
+  },
+  "0000950170-24-019394": {
+   "parserVersion": 1,
+   "employees": 18000
+  },
+  "0000950170-25-024750": {
+   "parserVersion": 1,
+   "employees": 18000
+  },
+  "0001193125-26-071569": {
+   "parserVersion": 1,
+   "employees": 20000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 5235171000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-042974"
+   },
+   "2008": {
+    "revenue": 5633878000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-049764"
+   },
+   "2009": {
+    "revenue": 4092283000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000746515-12-000006"
+   },
+   "2010": {
+    "revenue": 5967573000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000746515-13-000004"
+   },
+   "2011": {
+    "revenue": 6161537000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000746515-14-000004"
+   },
+   "2012": {
+    "revenue": 5992215000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000746515-15-000004"
+   },
+   "2013": {
+    "revenue": 6080257000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000746515-16-000053"
+   },
+   "2014": {
+    "revenue": 6564721000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000746515-17-000007"
+   },
+   "2015": {
+    "revenue": 6616632000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000746515-18-000004"
+   },
+   "2016": {
+    "revenue": 6098037000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000746515-18-000004"
+   },
+   "2017": {
+    "revenue": 6920948000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000746515-18-000004"
+   },
+   "2018": {
+    "revenue": 8138365000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-21-006925"
+   },
+   "2019": {
+    "revenue": 7942417000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-22-010381"
+   },
+   "2020": {
+    "revenue": 9584393000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-23-005412"
+   },
+   "2021": {
+    "revenue": 16523517000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-24-019394"
+   },
+   "2022": {
+    "revenue": 17071284000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-25-024750"
+   },
+   "2023": {
+    "revenue": 9300110000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-071569"
+   },
+   "2024": {
+    "revenue": 10600515000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-071569"
+   },
+   "2025": {
+    "revenue": 11069009000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-071569"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-071569",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/746515/000119312526071569/expd-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-024750",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017025024750/expd-20241231.htm"
+   },
+   {
+    "accession": "0000950170-24-019394",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017024019394/expd-20231231.htm"
+   },
+   {
+    "accession": "0000950170-23-005412",
+    "filingDate": "2023-03-01",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/746515/000095017023005412/expd-20221231.htm"
+   },
+   {
+    "accession": "0001564590-22-010381",
+    "filingDate": "2022-03-15",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/746515/000156459022010381/expd-10k_20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-006925",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/746515/000156459021006925/expd-10k_20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-005719",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/746515/000156459020005719/expd-10k_20191231.htm"
+   },
+   {
+    "accession": "0000746515-19-000004",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/746515/000074651519000004/a201810-k.htm"
+   },
+   {
+    "accession": "0000746515-18-000004",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/746515/000074651518000004/a201710-k.htm"
+   },
+   {
+    "accession": "0000746515-17-000007",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/746515/000074651517000007/a201610-k.htm"
+   }
+  ]
+ }
+}

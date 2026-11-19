@@ -1,0 +1,376 @@
+{
+ "proxies": {
+  "0001014473-26-000013": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447326000013/vrsn-20260409.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001014473-26-000006",
+   "result": {
+    "ceoPay": 15536674,
+    "medianPay": 233491,
+    "payRatio": 67,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ds, stock bonuses and performance shares. CEO Pay Ratio Item 402(u) of Regulation S-K requires disclosure of the ratio of the annual total compensation of our CEO, Mr. Bidzos, to the annual total compensation of our median employee. For 2025, the annual total compensation of the median employee was $233,491 and the annual total compensation of our CEO, as reported in the Summary Compensation Table in \"Executive Compensation\" above in this Proxy Statement, was $ 15,536,674 . Based on this information for 2025, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 67:1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules of the SEC using the data and assumptions summarized below. The"
+   }
+  },
+  "0001014473-25-000015": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447325000015/vrsn-20250411.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001014473-25-000006",
+   "result": {
+    "ceoPay": 14055378,
+    "medianPay": 221962,
+    "payRatio": 63,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ds, stock bonuses and performance shares. CEO Pay Ratio Item 402(u) of Regulation S-K requires disclosure of the ratio of the annual total compensation of our CEO, Mr. Bidzos, to the annual total compensation of our median employee. For 2024, the annual total compensation of the median employee was $221,962 and the annual total compensation of our CEO, as reported in the Summary Compensation Table in \"Executive Compensation\" above in this Proxy Statement, was $ 14,055,378 . Based on this information for 2024, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 63:1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules of the Securities and Exchange Commission (the \"SEC\") using the"
+   }
+  },
+  "0001014473-24-000015": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447324000015/vrsn-20240410.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001014473-24-000006",
+   "result": {
+    "ceoPay": 12245901,
+    "medianPay": 217196,
+    "payRatio": 56,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ds, stock bonuses and performance shares. CEO Pay Ratio Item 402(u) of Regulation S-K requires disclosure of the ratio of the annual total compensation of our CEO, Mr. Bidzos, to the annual total compensation of our median employee. For 2023, the annual total compensation of the median employee was $217,196 and the annual total compensation of our CEO, as reported in the Summary Compensation Table in \"Executive Compensation\" above in this Proxy Statement, was $12,245,901. Based on this information for 2023, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 56:1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules of the Securities and Exchange Commission (the \"SEC\") using the d"
+   }
+  },
+  "0001014473-23-000012": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447323000012/vrsn-20230411.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001014473-23-000005",
+   "result": {
+    "ceoPay": 11279094,
+    "medianPay": 206922,
+    "payRatio": 55,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ds, stock bonuses and performance shares. CEO Pay Ratio Item 402(u) of Regulation S-K requires disclosure of the ratio of the annual total compensation of our CEO, Mr. Bidzos, to the annual total compensation of our median employee. For 2022, the annual total compensation of the median employee was $206,922 and the annual total compensation of our CEO, as reported in the Summary Compensation Table in \"Executive Compensation\" above in this Proxy Statement, was $11,279,094. Based on this information for 2022, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 55:1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules of the Securities and Exchange Commission (the \"SEC\") using the d"
+   }
+  },
+  "0001014473-22-000011": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447322000011/a2022definitiveproxystatem.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001014473-22-000007",
+   "result": {
+    "ceoPay": 10118313,
+    "medianPay": 201444,
+    "payRatio": 50,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ds, stock bonuses and performance shares. CEO Pay Ratio Item 402(u) of Regulation S-K requires disclosure of the ratio of the annual total compensation of our CEO, Mr. Bidzos, to the annual total compensation of our median employee. For 2021, the annual total compensation of the median employee was $201,444, and the annual total compensation of our CEO, as reported in the Summary Compensation Table in \"Executive Compensation\" elsewhere in this Proxy Statement, was $10,118,313. Based on this information for 2021, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 50:1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules of the Securities and Exchange Commission (the \"SEC\") using"
+   }
+  },
+  "0001014473-21-000010": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447321000010/a2021definitiveproxystatem.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001014473-21-000005",
+   "result": {
+    "ceoPay": 10098502,
+    "medianPay": 194590,
+    "payRatio": 52,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "bonuses and performance shares. CEO Pay Ratio As required by Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our CEO, Mr. Bidzos, to the annual total compensation of our median employee. For 2020, the annual total compensation of the median employee was $194,590, and the annual total compensation of our CEO, as reported in the Summary Compensation Table in \"Executive Compensation\" elsewhere in this Proxy Statement, was $10,098,502. Based on this information for 2020, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 52:1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules of the Securities and Exchange Commission (the \"SEC\") using"
+   }
+  },
+  "0001014473-20-000013": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447320000013/a2020definitiveproxystatem.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001014473-20-000006",
+   "result": {
+    "ceoPay": 9024073,
+    "medianPay": 180475,
+    "payRatio": 50,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "able of Contents CEO Pay Ratio CEO PAY RATIO As required by Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our CEO, Mr. Bidzos, to the annual total compensation of our median employee. For 2019 , the annual total compensation of the median employee was $180,475, and the annual total compensation of our CEO, as reported in the Summary Compensation Table in \"Executive Compensation\" elsewhere in this Proxy Statement, was $9,024,073. Based on this information for 2019 , the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 50:1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules of the SEC using the data and assumptions summarized below."
+   }
+  },
+  "0001014473-19-000009": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447319000009/a2019definitiveproxystatem.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001014473-19-000005",
+   "result": {
+    "ceoPay": 9162786,
+    "medianPay": 189290,
+    "payRatio": 48,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "nuses and performance shares. | CEO Pay Ratio As required by Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our CEO, Mr. Bidzos, to the annual total compensation of our median employee. For 2018, the annual total compensation of the median employee was $189,290, and the annual total compensation of our CEO, as reported in the Summary Compensation Table included on page 24 of this Proxy Statement, was $9,162,786. Based on this information for 2018, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 48:1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with applicable rules of the SEC using the data and assumptions summarized below. The SEC's rules for"
+   }
+  },
+  "0001014473-18-000023": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447318000023/a2018definitiveproxystatem.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001014473-18-000018",
+   "result": {
+    "ceoPay": 8954313,
+    "medianPay": 171615,
+    "payRatio": 52,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "nuses and performance shares. | CEO Pay Ratio As required by Item 402(u) of Regulation S-K, we are providing the ratio of the annual total compensation of our CEO, Mr. Bidzos, to the annual total compensation of our median employee. For 2017, the annual total compensation of the median employee was $171,615; and the annual total compensation of our CEO, as reported in the Summary Compensation Table included on page 23 of this Proxy Statement, was $8,954,313. Based on this information for fiscal year 2017, the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 52:1. Our pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K using the data and assumptions summarized below. The median employ"
+   }
+  }
+ },
+ "tenKs": {
+  "0001014473-18-000018": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001014473-19-000005": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001014473-20-000006": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001014473-21-000005": {
+   "parserVersion": 1,
+   "employees": 909
+  },
+  "0001014473-22-000007": {
+   "parserVersion": 1,
+   "employees": 904
+  },
+  "0001014473-23-000005": {
+   "parserVersion": 1,
+   "employees": 917
+  },
+  "0001014473-24-000006": {
+   "parserVersion": 1,
+   "employees": 908
+  },
+  "0001014473-25-000006": {
+   "parserVersion": 1,
+   "employees": 932
+  },
+  "0001014473-26-000006": {
+   "parserVersion": 1,
+   "employees": 928
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 850509000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-043162"
+   },
+   "2008": {
+    "revenue": 558896000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-045196"
+   },
+   "2009": {
+    "revenue": 615947000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-077600"
+   },
+   "2010": {
+    "revenue": 680578000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-13-000006"
+   },
+   "2011": {
+    "revenue": 771978000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-14-000006"
+   },
+   "2012": {
+    "revenue": 873592000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-15-000011"
+   },
+   "2013": {
+    "revenue": 965087000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-16-000086"
+   },
+   "2014": {
+    "revenue": 1010117000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-17-000004"
+   },
+   "2015": {
+    "revenue": 1059366000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-18-000018"
+   },
+   "2016": {
+    "revenue": 1142167000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-19-000005"
+   },
+   "2017": {
+    "revenue": 1165095000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-20-000006"
+   },
+   "2018": {
+    "revenue": 1214969000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-21-000005"
+   },
+   "2019": {
+    "revenue": 1231661000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-22-000007"
+   },
+   "2020": {
+    "revenue": 1265100000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-23-000005"
+   },
+   "2021": {
+    "revenue": 1327600000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-24-000006"
+   },
+   "2022": {
+    "revenue": 1424900000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-25-000006"
+   },
+   "2023": {
+    "revenue": 1493100000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-26-000006"
+   },
+   "2024": {
+    "revenue": 1557400000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-26-000006"
+   },
+   "2025": {
+    "revenue": 1656600000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001014473-26-000006"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 10118565,
+   "2022": 11279094,
+   "2023": 12245901,
+   "2024": 14055378,
+   "2025": 15536674
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001014473-26-000006",
+    "filingDate": "2026-02-05",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447326000006/vrsn-20251231.htm"
+   },
+   {
+    "accession": "0001014473-25-000006",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447325000006/vrsn-20241231.htm"
+   },
+   {
+    "accession": "0001014473-24-000006",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447324000006/vrsn-20231231.htm"
+   },
+   {
+    "accession": "0001014473-23-000005",
+    "filingDate": "2023-02-17",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447323000005/vrsn-20221231.htm"
+   },
+   {
+    "accession": "0001014473-22-000007",
+    "filingDate": "2022-02-18",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447322000007/vrsn-20211231.htm"
+   },
+   {
+    "accession": "0001014473-21-000005",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447321000005/vrsn-20201231.htm"
+   },
+   {
+    "accession": "0001014473-20-000006",
+    "filingDate": "2020-02-14",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447320000006/vrsn-20191231x10k.htm"
+   },
+   {
+    "accession": "0001014473-19-000005",
+    "filingDate": "2019-02-15",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447319000005/vrsn-20181231x10k.htm"
+   },
+   {
+    "accession": "0001014473-18-000018",
+    "filingDate": "2018-02-16",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447318000018/vrsn-20171231x10k.htm"
+   },
+   {
+    "accession": "0001014473-17-000004",
+    "filingDate": "2017-02-17",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1014473/000101447317000004/vrsn-20161231x10k.htm"
+   }
+  ]
+ }
+}

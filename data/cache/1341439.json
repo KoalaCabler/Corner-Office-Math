@@ -1,0 +1,354 @@
+{
+ "proxies": {
+  "0001193125-26-402816": {
+   "parserVersion": 1,
+   "filingDate": "2026-09-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526402816/orcl-20260925.htm",
+   "periodEnd": "2026-05-31",
+   "tenK": "0001193125-26-277521",
+   "result": {
+    "ceoPay": 627472419,
+    "medianPay": 94740,
+    "payRatio": 6623,
+    "method": "cross-checked",
+    "employees": 143950,
+    "statedYear": 2026,
+    "excerpt": "l total compensation of each of our CEOs, Clayton M. Magouyrk and Michael D. Sicilia, to the annual total compensation of our median compensated employee worldwide (the median global employee) for fiscal 2026. For fiscal 2026, the ratio of CEO to median global employee annual total compensation was 6,623 to 1 for Mr. Magouyrk and 2,709 to 1 for Mr. Sicilia. The fiscal 2026 total compensation of Mr. Magouyrk was $627,472,419, the fiscal 2026 total compensation of Mr. Sicilia was $256,606,752 and the fiscal 2026 total compensation of our median global employee was $94,740. To identify our median compensated global employee, we used the base salaries and wage rates of our May 31, 2026 employee population (other than our CEOs) and the currency exchange rates then in effect, annualized for all"
+   }
+  },
+  "0001193125-25-220801": {
+   "parserVersion": 1,
+   "filingDate": "2025-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312525220801/d72066ddef14a.htm",
+   "periodEnd": "2025-05-31",
+   "tenK": "0000950170-25-087926",
+   "result": {
+    "ceoPay": 1113417,
+    "medianPay": 98899,
+    "payRatio": 11,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ith SEC rules, we are providing the ratio of the annual total compensation of Ms. Catz to the annual total compensation of our median compensated employee worldwide (the median global employee) for fiscal 2025. For fiscal 2025, the ratio of CEO to median global employee annual total compensation is 11 to 1. The fiscal 2025 total compensation of Ms. Catz was $1,113,417. The fiscal 2025 total compensation of our median global employee was $98,899. The SEC rules allow us to identify our median global employee once every three years unless there has been a change in our employee population or employee compensation arrangements that we reasonably believe would result in a significant change in our pay ratio disclosure. Since May 31, 2023, there has been no change in our employee population or e"
+   }
+  },
+  "0001193125-24-226139": {
+   "parserVersion": 1,
+   "filingDate": "2024-09-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312524226139/d860928ddef14a.htm",
+   "periodEnd": "2024-05-31",
+   "tenK": "0000950170-24-075605",
+   "result": {
+    "ceoPay": 6464234,
+    "medianPay": 78950,
+    "payRatio": 82,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "O In accordance with SEC rules, we are providing the ratio of the annual total compensation of our CEO to the annual total compensation of our median compensated employee worldwide (the median global employee). For fiscal 2024, the ratio of CEO to median global employee annual total compensation is 82 to 1. The fiscal 2024 total compensation of Ms. Catz was $6,464,234. The fiscal 2024 total compensation of our median global employee was $78,950. The SEC rules allow us to identify our median global employee once every three years unless there has been a change in our employee population or employee compensation arrangements that we reasonably believe would result in a significant change in our pay ratio disclosure. Since May 31, 2023, there has been no change in our employee population or e"
+   }
+  },
+  "0001193125-23-240594": {
+   "parserVersion": 1,
+   "filingDate": "2023-09-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312523240594/d744477ddef14a.htm",
+   "periodEnd": "2023-05-31",
+   "tenK": "0000950170-23-028914",
+   "result": {
+    "ceoPay": 5250680,
+    "medianPay": 85991,
+    "payRatio": 61,
+    "method": "cross-checked",
+    "employees": 166000,
+    "statedYear": 2023,
+    "excerpt": "O In accordance with SEC rules, we are providing the ratio of the annual total compensation of our CEO to the annual total compensation of our median compensated employee worldwide (the median global employee). For fiscal 2023, the ratio of CEO to median global employee annual total compensation is 61 to 1. The fiscal 2023 total compensation of Ms. Catz was $5,250,680. The fiscal 2023 total compensation of our median global employee was $85,991. To identify our median compensated global employee, we used the base salaries and wage rates of our May 31, 2023 employee population (other than our CEO) and the currency exchange rates then in effect, annualized for all permanent employees who did not work for the entire year. As of May 31, 2023, we had approximately 166,000 employees, of which ap"
+   }
+  },
+  "0001193125-22-250158": {
+   "parserVersion": 1,
+   "filingDate": "2022-09-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312522250158/d357923ddef14a.htm",
+   "periodEnd": "2022-05-31",
+   "tenK": "0001564590-22-023675",
+   "result": {
+    "ceoPay": 138192032,
+    "medianPay": 75043,
+    "payRatio": 1842,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ensation arrangements that we believe would significantly impact the pay ratio disclosure. We therefore used the same median global employee to calculate our 2022 pay ratio as was used for purposes of our 2020 and 2021 pay ratios. The fiscal 2022 total compensation of our median global employee was $75,043. Using Ms. Catzs fiscal 2022 total compensation as set forth in the SCT, the ratio of CEO to median global employee annual total compensation is 1,842 to 1. Using the annualized value in lieu of the aggregate accounting value of the modified PSOs, the ratio of CEO to median global employee annual total compensation, as adjusted, would be 334 to 1. The fiscal 2022 total compensation of Ms. Catz as set forth in the SCT was $138,192,032. This total compensation amount was atypically high d"
+   }
+  },
+  "0001193125-21-282422": {
+   "parserVersion": 1,
+   "filingDate": "2021-09-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312521282422/d162163ddef14a.htm",
+   "periodEnd": "2021-05-31",
+   "tenK": "0001564590-21-033616",
+   "result": {
+    "ceoPay": 10631223,
+    "medianPay": 85504,
+    "payRatio": 124,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "of Contents CEO PAY RATIO In accordance with SEC rules, we are providing the ratio of the annual total compensation of our CEO to the annual total compensation of our median compensated employee (the median employee). For fiscal 2021, our ratio of CEO to median employee annual total compensation is 124 to 1 . The fiscal 2021 total compensation of Ms. Catz was $10,631,223. The fiscal 2021 total compensation of our median employee was $85,504. The SEC rules allow us to identify our median employee once every three years unless there has been a change in our employee population or employee compensation arrangements that we reasonably believe would result in a significant change in our pay ratio disclosure. Since May 31, 2020, there has been no change in our employee population or employee com"
+   }
+  },
+  "0001193125-20-249194": {
+   "parserVersion": 1,
+   "filingDate": "2020-09-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312520249194/d78987ddef14a.htm",
+   "periodEnd": "2020-05-31",
+   "tenK": "0001564590-20-030125",
+   "result": {
+    "ceoPay": 964055,
+    "medianPay": 87402,
+    "payRatio": 11,
+    "method": "cross-checked",
+    "employees": 136177,
+    "statedYear": 2020,
+    "excerpt": "of Contents CEO PAY RATIO In accordance with SEC rules, we are providing the ratio of the annual total compensation of our CEO to the annual total compensation of our median compensated employee (the median employee). For fiscal 2020, our ratio of CEO to median employee annual total compensation is 11 to 1. The fiscal 2020 total compensation of Ms. Catz was $964,055. The fiscal 2020 total compensation of our median employee was $87,402. To identify our median compensated employee, we used the base salaries of our May 31, 2020 employee population (other than our CEO) and the currency exchange rates then in effect, annualized for all permanent employees who did not work for the entire year. As of May 31, 2020, we had 136,177 employees, of which 129,381 were considered in identifying the medi"
+   }
+  },
+  "0001193125-19-257430": {
+   "parserVersion": 1,
+   "filingDate": "2019-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312519257430/d755300ddef14a.htm",
+   "periodEnd": "2019-05-31",
+   "tenK": "0001564590-19-023119",
+   "result": {
+    "ceoPay": 2481646,
+    "medianPay": 83813,
+    "payRatio": 30,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ion of our median compensated employee (the median employee). Using Ms. Catzs fiscal 2019 total compensation, the ratio of CEO to median employee annual total compensation is 12 to 1 . Using Mr. Hurds fiscal 2019 total compensation, the ratio of CEO to median employee annual total compensation is 30 to 1 . The fiscal 2019 total compensation of Ms. Catz and Mr. Hurd was $965,981 and $2,481,646, respectively. The fiscal 2019 total compensation of our median employee was $83,813. The SEC rules allow us to identify our median employee once every three years unless there has been a change in our employee population or employee compensation arrangements that we reasonably believe would result in a significant change in our pay ratio disclosure. However, the compensation of the median employee"
+   }
+  },
+  "0001193125-18-283993": {
+   "parserVersion": 1,
+   "filingDate": "2018-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312518283993/d623045ddef14a.htm",
+   "periodEnd": "2018-05-31",
+   "tenK": "0001193125-18-201034",
+   "result": {
+    "ceoPay": 25300000,
+    "medianPay": 89887,
+    "payRatio": 282,
+    "method": "cross-checked",
+    "employees": 137446,
+    "statedYear": 2018,
+    "excerpt": "s from the following jurisdictions (in accordance with SEC rules): Bosnia and Herzegovina (17), Kazakhstan (15), Maldives (2), Pakistan (74), Philippines (1,877), Romania (4,765), Serbia (24), Sri Lanka (20) and Vietnam (75). The fiscal 2018 total compensation of our median compensated employee was $89,887. The fiscal 2018 total compensation of Ms. Catz and Mr. Hurd was $108,282,333 and $108,295,023, respectively. These total compensation amounts were atypically high because each CEO received an equity award in fiscal 2018 consisting of 17,500,000 performance-based stock options (PSOs), which are intended to represent five years of equity compensation and have a grant date fair value of $103.7 million (see pages 26 to 27 for details). When annualized over the awards five-year performance"
+   }
+  }
+ },
+ "tenKs": {
+  "0001564590-19-023119": {
+   "parserVersion": 1,
+   "employees": 136000
+  },
+  "0001564590-21-033616": {
+   "parserVersion": 1,
+   "employees": 132000
+  },
+  "0001564590-22-023675": {
+   "parserVersion": 1,
+   "employees": 143000
+  },
+  "0000950170-24-075605": {
+   "parserVersion": 1,
+   "employees": 159000
+  },
+  "0000950170-25-087926": {
+   "parserVersion": 1,
+   "employees": 162000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 22430000000,
+    "periodEnd": "2008-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-151896"
+   },
+   "2009": {
+    "revenue": 23252000000,
+    "periodEnd": "2009-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-174819"
+   },
+   "2010": {
+    "revenue": 26820000000,
+    "periodEnd": "2010-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-284007"
+   },
+   "2011": {
+    "revenue": 35622000000,
+    "periodEnd": "2011-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-272832"
+   },
+   "2012": {
+    "revenue": 37121000000,
+    "periodEnd": "2012-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-251351"
+   },
+   "2013": {
+    "revenue": 37180000000,
+    "periodEnd": "2013-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-235239"
+   },
+   "2014": {
+    "revenue": 38275000000,
+    "periodEnd": "2014-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-628942"
+   },
+   "2015": {
+    "revenue": 38226000000,
+    "periodEnd": "2015-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-214833"
+   },
+   "2016": {
+    "revenue": 37047000000,
+    "periodEnd": "2016-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-18-201034"
+   },
+   "2017": {
+    "revenue": 37792000000,
+    "periodEnd": "2017-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-19-023119"
+   },
+   "2018": {
+    "revenue": 39383000000,
+    "periodEnd": "2018-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-19-023119"
+   },
+   "2019": {
+    "revenue": 39506000000,
+    "periodEnd": "2019-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-19-023119"
+   },
+   "2020": {
+    "revenue": 39068000000,
+    "periodEnd": "2020-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-22-023675"
+   },
+   "2021": {
+    "revenue": 40479000000,
+    "periodEnd": "2021-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-23-028914"
+   },
+   "2022": {
+    "revenue": 42440000000,
+    "periodEnd": "2022-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-24-075605"
+   },
+   "2023": {
+    "revenue": 49954000000,
+    "periodEnd": "2023-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-25-087926"
+   },
+   "2024": {
+    "revenue": 52961000000,
+    "periodEnd": "2024-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-277521"
+   },
+   "2025": {
+    "revenue": 57399000000,
+    "periodEnd": "2025-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-277521"
+   },
+   "2026": {
+    "revenue": 67357000000,
+    "periodEnd": "2026-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-277521"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-277521",
+    "filingDate": "2026-06-22",
+    "reportDate": "2026-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526277521/orcl-20260531.htm"
+   },
+   {
+    "accession": "0000950170-25-087926",
+    "filingDate": "2025-06-18",
+    "reportDate": "2025-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017025087926/orcl-20250531.htm"
+   },
+   {
+    "accession": "0000950170-24-075605",
+    "filingDate": "2024-06-20",
+    "reportDate": "2024-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017024075605/orcl-20240531.htm"
+   },
+   {
+    "accession": "0000950170-23-028914",
+    "filingDate": "2023-06-20",
+    "reportDate": "2023-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000095017023028914/orcl-20230531.htm"
+   },
+   {
+    "accession": "0001564590-22-023675",
+    "filingDate": "2022-06-21",
+    "reportDate": "2022-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459022023675/orcl-10k_20220531.htm"
+   },
+   {
+    "accession": "0001564590-21-033616",
+    "filingDate": "2021-06-21",
+    "reportDate": "2021-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459021033616/orcl-10k_20210531.htm"
+   },
+   {
+    "accession": "0001564590-20-030125",
+    "filingDate": "2020-06-22",
+    "reportDate": "2020-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459020030125/orcl-10k_20200531.htm"
+   },
+   {
+    "accession": "0001564590-19-023119",
+    "filingDate": "2019-06-21",
+    "reportDate": "2019-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000156459019023119/orcl-10k_20190531.htm"
+   },
+   {
+    "accession": "0001193125-18-201034",
+    "filingDate": "2018-06-22",
+    "reportDate": "2018-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312518201034/d568983d10k.htm"
+   },
+   {
+    "accession": "0001193125-17-214833",
+    "filingDate": "2017-06-27",
+    "reportDate": "2017-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312517214833/d385998d10k.htm"
+   }
+  ]
+ }
+}

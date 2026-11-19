@@ -1,0 +1,261 @@
+{
+ "proxies": {
+  "0001193125-26-133303": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312526133303/d94896ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000062709-26-000022",
+   "result": null
+  },
+  "0001193125-25-066228": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312525066228/d878421ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000062709-25-000015",
+   "result": null
+  },
+  "0001193125-24-081524": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312524081524/d365210ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000062709-24-000016",
+   "result": null
+  },
+  "0001193125-23-086755": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312523086755/d450201ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000062709-23-000014",
+   "result": null
+  },
+  "0001193125-22-092794": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312522092794/d310397ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000062709-22-000009",
+   "result": null
+  },
+  "0001193125-21-101422": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312521101422/d81851ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000062709-21-000008",
+   "result": null
+  },
+  "0001193125-20-098080": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312520098080/d821972ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000062709-20-000010",
+   "result": null
+  },
+  "0001193125-19-091672": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312519091672/d624844ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000062709-19-000010",
+   "result": null
+  },
+  "0001193125-18-103118": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312518103118/d484564ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000062709-18-000007",
+   "result": null
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 11135000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001193125-10-042765"
+   },
+   "2008": {
+    "revenue": 10730000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001193125-11-047795"
+   },
+   "2009": {
+    "revenue": 9831000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0000062709-12-000016"
+   },
+   "2010": {
+    "revenue": 10550000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0000062709-13-000004"
+   },
+   "2011": {
+    "revenue": 11526000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0000062709-14-000008"
+   },
+   "2012": {
+    "revenue": 11924000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0000062709-15-000005"
+   },
+   "2013": {
+    "revenue": 12261000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0000062709-16-000040"
+   },
+   "2014": {
+    "revenue": 12951000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0000062709-17-000008"
+   },
+   "2015": {
+    "revenue": 12893000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0000062709-18-000007"
+   },
+   "2016": {
+    "revenue": 13211000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000062709-19-000010"
+   },
+   "2017": {
+    "revenue": 14024000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000062709-20-000010"
+   },
+   "2018": {
+    "revenue": 14950000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000062709-21-000008"
+   },
+   "2019": {
+    "revenue": 16652000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000062709-22-000009"
+   },
+   "2020": {
+    "revenue": 17224000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000062709-23-000014"
+   },
+   "2021": {
+    "revenue": 19820000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000062709-24-000016"
+   },
+   "2022": {
+    "revenue": 20720000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000062709-25-000015"
+   },
+   "2023": {
+    "revenue": 22736000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000062709-26-000022"
+   },
+   "2024": {
+    "revenue": 24458000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000062709-26-000022"
+   },
+   "2025": {
+    "revenue": 26981000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000062709-26-000022"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000062709-26-000022",
+    "filingDate": "2026-02-09",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/62709/000006270926000022/mrsh-20251231.htm"
+   },
+   {
+    "accession": "0000062709-25-000015",
+    "filingDate": "2025-02-10",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/62709/000006270925000015/mmc-20241231.htm"
+   },
+   {
+    "accession": "0000062709-24-000016",
+    "filingDate": "2024-02-12",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/62709/000006270924000016/mmc-20231231.htm"
+   },
+   {
+    "accession": "0000062709-23-000014",
+    "filingDate": "2023-02-13",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/62709/000006270923000014/mmc-20221231.htm"
+   },
+   {
+    "accession": "0000062709-22-000009",
+    "filingDate": "2022-02-16",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/62709/000006270922000009/mmc-20211231.htm"
+   },
+   {
+    "accession": "0000062709-21-000008",
+    "filingDate": "2021-02-17",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/62709/000006270921000008/mmc-20201231.htm"
+   },
+   {
+    "accession": "0000062709-20-000010",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/62709/000006270920000010/mmc1231201910k.htm"
+   },
+   {
+    "accession": "0000062709-19-000010",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/62709/000006270919000010/mmc1231201810k.htm"
+   },
+   {
+    "accession": "0000062709-18-000007",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/62709/000006270918000007/mmc1231201710k.htm"
+   },
+   {
+    "accession": "0000062709-17-000008",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/62709/000006270917000008/mmc1231201610k.htm"
+   }
+  ]
+ }
+}

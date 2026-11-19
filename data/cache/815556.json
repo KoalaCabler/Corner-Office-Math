@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0000815556-26-000017": {
+   "parserVersion": 1,
+   "filingDate": "2026-02-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555626000017/fast-20260225.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000815556-26-000009",
+   "result": {
+    "ceoPay": 4183328,
+    "medianPay": 47287,
+    "payRatio": 88,
+    "method": "cross-checked",
+    "employees": 23231,
+    "statedYear": 2025,
+    "excerpt": "formation about the relationship of the annual total compensation of our employees and the annual total compensation of Daniel L. Florness, our chief executive officer (our CEO): For 2025, our last completed fiscal year: • the total compensation amount for the median employee identified in 2023 was $47,287 for 2025; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this proxy statement, was $4,183,328. Based on this information for 2025, we reasonably estimate that the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 88:1. Our pay ratio estimate has been calculated in a manner consistent with Item 402(u) of Regulation S-K. We determined our median employee's total compensation, i"
+   }
+  },
+  "0000815556-25-000070": {
+   "parserVersion": 1,
+   "filingDate": "2025-02-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555625000070/fast-20250226.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000815556-25-000065",
+   "result": {
+    "ceoPay": 1695887,
+    "medianPay": 48037,
+    "payRatio": 35,
+    "method": "cross-checked",
+    "employees": 23231,
+    "statedYear": 2024,
+    "excerpt": "formation about the relationship of the annual total compensation of our employees and the annual total compensation of Daniel L. Florness, our chief executive officer (our CEO): For 2024, our last completed fiscal year: • the total compensation amount for the median employee identified in 2023 was $48,037 for 2024; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this proxy statement, was $1,695,887. Based on this information for 2024, we reasonably estimate that the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 35:1. Our pay ratio estimate has been calculated in a manner consistent with Item 402(u) of Regulation S-K. We determined our median employee's total compensation, i"
+   }
+  },
+  "0000815556-24-000015": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555624000015/fast-20240306.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000815556-24-000009",
+   "result": {
+    "ceoPay": 3115507,
+    "medianPay": 46393,
+    "payRatio": 67,
+    "method": "cross-checked",
+    "employees": 23231,
+    "statedYear": 2023,
+    "excerpt": "rmation about the relationship of the annual total compensation of our employees and the annual total compensation of Daniel L. Florness, our chief executive officer (our 'CEO'): For 2023, our last completed fiscal year: • the total compensation amount for the median employee identified in 2023 was $46,393 for 2023; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this proxy statement, was $3,115,507. Based on this information for 2023, we reasonably estimate that the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 67:1. Our pay ratio estimate has been calculated in a manner consistent with Item 402(u) of Regulation S-K. We determined our median employee's total compensation, i"
+   }
+  },
+  "0000815556-23-000017": {
+   "parserVersion": 1,
+   "filingDate": "2023-02-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555623000017/fast-20230223.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000815556-23-000009",
+   "result": {
+    "ceoPay": 5439610,
+    "medianPay": 44729,
+    "payRatio": 122,
+    "method": "cross-checked",
+    "employees": 20479,
+    "statedYear": 2022,
+    "excerpt": "rmation about the relationship of the annual total compensation of our employees and the annual total compensation of Daniel L. Florness, our chief executive officer (our 'CEO'): For 2022, our last completed fiscal year: • the total compensation amount for the median employee identified in 2020 was $44,729 for 2022; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this proxy statement, was $5,439,610. Based on this information for 2022, we reasonably estimate that the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 122:1. Our pay ratio estimate has been calculated in a manner consistent with Item 402(u) of Regulation S-K. We determined our median employee's total compensation,"
+   }
+  },
+  "0000815556-22-000014": {
+   "parserVersion": 1,
+   "filingDate": "2022-02-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555622000014/fast2022def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000815556-22-000009",
+   "result": {
+    "ceoPay": 2423614,
+    "medianPay": 40843,
+    "payRatio": 59,
+    "method": "cross-checked",
+    "employees": 20479,
+    "statedYear": 2021,
+    "excerpt": "rmation about the relationship of the annual total compensation of our employees and the annual total compensation of Daniel L. Florness, our Chief Executive Officer (our 'CEO'): For 2021, our last completed fiscal year: • the total compensation amount for the median employee identified in 2020 was $40,843 for 2021; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this proxy statement, was $2,423,614. Based on this information for 2021, we reasonably estimate that the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 59:1. Our pay ratio estimate has been calculated in a manner consistent with Item 402(u) of Regulation S-K. We determined our median employee's total compensation, i"
+   }
+  },
+  "0000815556-21-000011": {
+   "parserVersion": 1,
+   "filingDate": "2021-02-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555621000011/fast2021def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000815556-21-000008",
+   "result": {
+    "ceoPay": 2539150,
+    "medianPay": 38939,
+    "payRatio": 65,
+    "method": "cross-checked",
+    "employees": 20479,
+    "statedYear": 2020,
+    "excerpt": "rmation about the relationship of the annual total compensation of our employees and the annual total compensation of Daniel L. Florness, our Chief Executive Officer (our 'CEO'): For 2020, our last completed fiscal year: • the total compensation amount for the median employee identified in 2020 was $38,939 for 2020; and • the annual total compensation of our CEO, as reported in the Summary Compensation Table included in this proxy statement, was $2,539,150. Based on this information for 2020, we reasonably estimate that the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 65:1. Our pay ratio estimate has been calculated in a manner consistent with Item 402(u) of Regulation S-K. We determined our median employee's total compensation, i"
+   }
+  },
+  "0000815556-20-000014": {
+   "parserVersion": 1,
+   "filingDate": "2020-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555620000014/fast2020def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000815556-20-000011",
+   "result": {
+    "ceoPay": 1759943,
+    "medianPay": 45842,
+    "payRatio": 38,
+    "method": "cross-checked",
+    "employees": 20730,
+    "statedYear": 2019,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Daniel L. Florness, our Chief Executive Officer (our 'CEO'): For 2019, our last completed fiscal year: | | | | | • | | the total compensation amount for the median employee identified in 2017 was $45,842 for 2019; and | | | | | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included on page 27 of this proxy statement, was $1,759,943. | Based on this information for 2019, we reasonably estimate that the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 38:1. Our pay ratio estimate has been calculated in a manner consistent with Item 402(u) of Regulation S-K. We determined our median emp"
+   }
+  },
+  "0000815556-19-000019": {
+   "parserVersion": 1,
+   "filingDate": "2019-02-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555619000019/fast2019def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000815556-19-000015",
+   "result": {
+    "ceoPay": 2429411,
+    "medianPay": 39229,
+    "payRatio": 62,
+    "method": "cross-checked",
+    "employees": 20730,
+    "statedYear": 2018,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Daniel L. Florness, our Chief Executive Officer (our 'CEO'): For 2018, our last completed fiscal year: | | | | | • | | the total compensation amount for the median employee identified in 2017 was $39,229 for 2018; and | | | | | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included on page 25 of this proxy statement, was $2,429,411. | Based on this information for 2018, we reasonably estimate that the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 62:1. Our pay ratio estimate has been calculated in a manner consistent with Item 402(u) of Regulation S-K. We determined our median emp"
+   }
+  },
+  "0000815556-18-000013": {
+   "parserVersion": 1,
+   "filingDate": "2018-02-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555618000013/fast2018def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000815556-18-000010",
+   "result": {
+    "ceoPay": 2039356,
+    "medianPay": 34967,
+    "payRatio": 58,
+    "method": "cross-checked",
+    "employees": 20730,
+    "statedYear": 2017,
+    "excerpt": "annual total compensation of our employees and the annual total compensation of Daniel L. Florness, our Chief Executive Officer (our 'CEO'): For 2017, our last completed fiscal year: | | | | | • | | the median of the annual total compensation of all employees of our company (other than our CEO) was $34,967; and | | | | | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included on page 26 of this proxy statement, was $2,039,356. | Based on this information for 2017, we reasonably estimate that the ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 58:1. Our pay ratio estimate has been calculated in a manner consistent with Item 402(u) of Regulation S-K. To identify the median of the annual"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 2061819000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-025958"
+   },
+   "2008": {
+    "revenue": 2340425000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-029081"
+   },
+   "2009": {
+    "revenue": 1930330000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-048575"
+   },
+   "2010": {
+    "revenue": 2269471000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000815556-13-000013"
+   },
+   "2011": {
+    "revenue": 2766859000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000815556-14-000016"
+   },
+   "2012": {
+    "revenue": 3133577000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000815556-15-000014"
+   },
+   "2013": {
+    "revenue": 3326106000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000815556-16-000087"
+   },
+   "2014": {
+    "revenue": 3733507000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000815556-17-000009"
+   },
+   "2015": {
+    "revenue": 3869200000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000815556-18-000010"
+   },
+   "2016": {
+    "revenue": 3962000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000815556-19-000015"
+   },
+   "2017": {
+    "revenue": 4390500000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000815556-20-000011"
+   },
+   "2018": {
+    "revenue": 4965100000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000815556-21-000008"
+   },
+   "2019": {
+    "revenue": 5333700000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000815556-22-000009"
+   },
+   "2020": {
+    "revenue": 5647300000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000815556-23-000009"
+   },
+   "2021": {
+    "revenue": 6010900000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000815556-24-000009"
+   },
+   "2022": {
+    "revenue": 6980600000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000815556-25-000065"
+   },
+   "2023": {
+    "revenue": 7346700000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000815556-26-000009"
+   },
+   "2024": {
+    "revenue": 7546000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000815556-26-000009"
+   },
+   "2025": {
+    "revenue": 8200500000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000815556-26-000009"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000815556-26-000009",
+    "filingDate": "2026-02-05",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555626000009/fast-20251231.htm"
+   },
+   {
+    "accession": "0000815556-25-000065",
+    "filingDate": "2025-02-06",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555625000065/fast-20241231.htm"
+   },
+   {
+    "accession": "0000815556-24-000009",
+    "filingDate": "2024-02-06",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555624000009/fast-20231231.htm"
+   },
+   {
+    "accession": "0000815556-23-000009",
+    "filingDate": "2023-02-07",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555623000009/fast-20221231.htm"
+   },
+   {
+    "accession": "0000815556-22-000009",
+    "filingDate": "2022-02-07",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555622000009/fast-20211231.htm"
+   },
+   {
+    "accession": "0000815556-21-000008",
+    "filingDate": "2021-02-08",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555621000008/fast-20201231.htm"
+   },
+   {
+    "accession": "0000815556-20-000011",
+    "filingDate": "2020-02-06",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555620000011/fast1231201910-k.htm"
+   },
+   {
+    "accession": "0000815556-19-000015",
+    "filingDate": "2019-02-06",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555619000015/fast1231201810-k.htm"
+   },
+   {
+    "accession": "0000815556-18-000010",
+    "filingDate": "2018-02-05",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555618000010/fast1231201710-k.htm"
+   },
+   {
+    "accession": "0000815556-17-000009",
+    "filingDate": "2017-02-06",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/815556/000081555617000009/fast1231201610-k.htm"
+   }
+  ]
+ }
+}

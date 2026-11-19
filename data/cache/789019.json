@@ -1,0 +1,376 @@
+{
+ "proxies": {
+  "0001193125-26-427849": {
+   "parserVersion": 1,
+   "filingDate": "2026-10-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526427849/d61756ddef14a.htm",
+   "periodEnd": "2026-06-30",
+   "tenK": "0001193125-26-323660",
+   "result": {
+    "ceoPay": 90628977,
+    "medianPay": 215057,
+    "payRatio": 421,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "| | Termination without cause includes incremental value associated with retirement-based stock vesting of SAs: $1,695,749 for Mr. Numoto and $4,372,540 for Mr. Smith. | CEO Pay Ratio For fiscal year 2026, the annual total compensation for the median employee of the Company (other than our CEO) was $215,057 and the annual total compensation of our CEO was $90,628,977. Based on this information, for fiscal year 2026 the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 421 to 1. We believe this ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. As permitted under the SEC disclosure rules, the same median-paid employee selected for the 2025 P"
+   }
+  },
+  "0001193125-25-245150": {
+   "parserVersion": 1,
+   "filingDate": "2025-10-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312525245150/d908201ddef14a.htm",
+   "periodEnd": "2025-06-30",
+   "tenK": "0000950170-25-100235",
+   "result": {
+    "ceoPay": 96496790,
+    "medianPay": 200972,
+    "payRatio": 480,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "19 | | | | 64,235,527 | | (1) | | Termination without cause includes incremental value associated with retirement-based stock vesting of SAs: $6,254,433 for Mr. Smith. | CEO Pay Ratio For fiscal year 2025, the annual total compensation for the median employee of the Company (other than our CEO) was $200,972 and the annual total compensation of our CEO was $96,496,790. Based on this information, for fiscal year 2025 the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 480 to 1. We believe this ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. We identified our median employee from among our employees as of June 30, 2025, the last day of ou"
+   }
+  },
+  "0001193125-24-242883": {
+   "parserVersion": 1,
+   "filingDate": "2024-10-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312524242883/d858775ddef14a.htm",
+   "periodEnd": "2024-06-30",
+   "tenK": "0000950170-24-087843",
+   "result": {
+    "ceoPay": 79106183,
+    "medianPay": 193744,
+    "payRatio": 408,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "0 | | | | 38,535,135 | | (1) | | Termination without cause includes incremental value associated with retirement-based stock vesting of SAs: $6,403,006 for Mr. Smith. | CEO Pay Ratio For fiscal year 2024, the annual total compensation for the median employee of the Company (other than our CEO) was $193,744 and the annual total compensation of our CEO was $79,106,183. Based on this information, for fiscal year 2024 the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 408 to 1. We believe this ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. We identified our median employee from among our employees as of June 30, 2024, the last day of ou"
+   }
+  },
+  "0001193125-23-259247": {
+   "parserVersion": 1,
+   "filingDate": "2023-10-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312523259247/d356108ddef14a.htm",
+   "periodEnd": "2023-06-30",
+   "tenK": "0000950170-23-035122",
+   "result": {
+    "ceoPay": 48512537,
+    "medianPay": 193770,
+    "payRatio": 250,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ation without cause includes incremental value associated with retirement-based stock vesting of SAs and PSAs, $1,415,625 for Mr. Nadella and $4,467,885 for Mr. Smith. | CEO Pay Ratio For fiscal year 2023, the annual total compensation for the median employee of the Company (other than our CEO) was $193,770 and the annual total compensation of our CEO was $48,512,537. Based on this information, for fiscal year 2023 the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 250 to 1. We believe this ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. We identified our median employee from among our employees as of June 30, 2023, the last day of ou"
+   }
+  },
+  "0001193125-22-270484": {
+   "parserVersion": 1,
+   "filingDate": "2022-10-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312522270484/d318171ddef14a.htm",
+   "periodEnd": "2022-06-30",
+   "tenK": "0001564590-22-026876",
+   "result": {
+    "ceoPay": 54946310,
+    "medianPay": 190302,
+    "payRatio": 289,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "89 | | | | | | 29,620,204 | | (1) | | Includes $10,721,635 in Severance Plan benefits and $22,365,784 in retirement-based stock vesting under Mr. Smiths SAs and PSAs. | CEO Pay Ratio For fiscal year 2022, the annual total compensation for the median employee of the Company (other than our CEO) was $190,302 and the annual total compensation of our CEO was $54,946,310. Based on this information, for fiscal year 2022 the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 289 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. We identified our median employee from among our employees as of June 30, 2022, the last day of our fiscal ye"
+   }
+  },
+  "0001193125-21-298757": {
+   "parserVersion": 1,
+   "filingDate": "2021-10-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312521298757/d189481ddef14a.htm",
+   "periodEnd": "2021-06-30",
+   "tenK": "0001564590-21-039151",
+   "result": {
+    "ceoPay": 49858280,
+    "medianPay": 176858,
+    "payRatio": 282,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "| | | | | $12,686,341 | | | | (1) | | Includes $11,170,874 in Severance Plan benefits and $28,786,918 in retirement-based stock vesting under Mr. Smiths SAs and PSAs. | CEO Pay Ratio For fiscal year 2021, the annual total compensation for the median employee of the Company (other than our CEO) was $176,858 and the annual total compensation of our CEO was $49,858,280. Based on this information, for fiscal year 2021 the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 282 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. We identified our median employee from among our employees as of June 30, 2021, the last day of our fiscal ye"
+   }
+  },
+  "0001193125-20-272025": {
+   "parserVersion": 1,
+   "filingDate": "2020-10-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312520272025/d31295ddef14a.htm",
+   "periodEnd": "2020-06-30",
+   "tenK": "0001564590-20-034944",
+   "result": {
+    "ceoPay": 44321788,
+    "medianPay": 172142,
+    "payRatio": 257,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "DIT COMMITTEE MATTERS | | | | 4 | | | | PROPOSALS TO BE VOTED ON DURING THE MEETING | | | | 5 | | | | INFORMATION ABOUT THE MEETING | | | | | | | | | | | | | | | | | | | CEO Pay Ratio For fiscal year 2020, the annual total compensation for the median employee of the Company (other than our CEO) was $172,142 and the annual total compensation of our CEO was $44,321,788. Based on this information, for fiscal year 2020 the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 257 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. We identified our median employee from among our employees as of June 30, 2020, the last day of our fiscal ye"
+   }
+  },
+  "0001193125-19-268531": {
+   "parserVersion": 1,
+   "filingDate": "2019-10-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312519268531/d791036ddef14a.htm",
+   "periodEnd": "2019-06-30",
+   "tenK": "0001564590-19-027952",
+   "result": {
+    "ceoPay": 42910215,
+    "medianPay": 172512,
+    "payRatio": 249,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "DIT COMMITTEE MATTERS | | | | 4 | | | | PROPOSALS TO BE VOTED ON DURING THE MEETING | | | | 5 | | | | INFORMATION ABOUT THE MEETING | | | | | | | | | | | | | | | | | | | CEO Pay Ratio For fiscal year 2019, the annual total compensation for the median employee of the Company (other than our CEO) was $172,512 and the annual total compensation of our CEO was $42,910,215. Based on this information, for fiscal year 2019 the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 249 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. We identified our median employee from among our employees as of June 30, 2019, the last day of our fiscal ye"
+   }
+  },
+  "0001193125-18-300115": {
+   "parserVersion": 1,
+   "filingDate": "2018-10-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312518300115/d588721ddef14a.htm",
+   "periodEnd": "2018-06-30",
+   "tenK": "0001564590-18-019062",
+   "result": {
+    "ceoPay": 25843263,
+    "medianPay": 167689,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "mpensation Plan are credited with hypothetical investment earnings based on participant investment elections made from among investment options available under the plan. CEO pay ratio For fiscal year 2018, the annual total compensation for the median employee of the Company (other than our CEO) was $167,689 and the annual total compensation of our CEO was $25,843,263. Based on this information, for fiscal year 2018 the ratio of the annual total compensation of our CEO to the annual total compensation of the median employee was 154 to 1. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. We identified our median employee from among our employees as of June 30, 2018, the last day of our fiscal ye"
+   }
+  }
+ },
+ "tenKs": {
+  "0001564590-18-019062": {
+   "parserVersion": 1,
+   "employees": 131000
+  },
+  "0001564590-19-027952": {
+   "parserVersion": 1,
+   "employees": 144000
+  },
+  "0001564590-20-034944": {
+   "parserVersion": 1,
+   "employees": 163000
+  },
+  "0001564590-21-039151": {
+   "parserVersion": 1,
+   "employees": 181000
+  },
+  "0001564590-22-026876": {
+   "parserVersion": 1,
+   "employees": 221000
+  },
+  "0000950170-23-035122": {
+   "parserVersion": 1,
+   "employees": 221000
+  },
+  "0000950170-24-087843": {
+   "parserVersion": 1,
+   "employees": 228000
+  },
+  "0000950170-25-100235": {
+   "parserVersion": 1,
+   "employees": 228000
+  },
+  "0001193125-26-323660": {
+   "parserVersion": 1,
+   "employees": 223000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 60420000000,
+    "periodEnd": "2008-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-171791"
+   },
+   "2009": {
+    "revenue": 58437000000,
+    "periodEnd": "2009-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-171791"
+   },
+   "2010": {
+    "revenue": 62484000000,
+    "periodEnd": "2010-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-171791"
+   },
+   "2011": {
+    "revenue": 69943000000,
+    "periodEnd": "2011-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-310206"
+   },
+   "2012": {
+    "revenue": 73723000000,
+    "periodEnd": "2012-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-289961"
+   },
+   "2013": {
+    "revenue": 77849000000,
+    "periodEnd": "2013-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-15-272806"
+   },
+   "2014": {
+    "revenue": 86833000000,
+    "periodEnd": "2014-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-16-662209"
+   },
+   "2015": {
+    "revenue": 93580000000,
+    "periodEnd": "2015-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-17-014900"
+   },
+   "2016": {
+    "revenue": 91154000000,
+    "periodEnd": "2016-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-18-019062"
+   },
+   "2017": {
+    "revenue": 96571000000,
+    "periodEnd": "2017-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-19-027952"
+   },
+   "2018": {
+    "revenue": 110360000000,
+    "periodEnd": "2018-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-20-034944"
+   },
+   "2019": {
+    "revenue": 125843000000,
+    "periodEnd": "2019-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-21-039151"
+   },
+   "2020": {
+    "revenue": 143015000000,
+    "periodEnd": "2020-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-22-026876"
+   },
+   "2021": {
+    "revenue": 168088000000,
+    "periodEnd": "2021-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-23-035122"
+   },
+   "2022": {
+    "revenue": 198270000000,
+    "periodEnd": "2022-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-24-087843"
+   },
+   "2023": {
+    "revenue": 211915000000,
+    "periodEnd": "2023-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-25-100235"
+   },
+   "2024": {
+    "revenue": 245122000000,
+    "periodEnd": "2024-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-323660"
+   },
+   "2025": {
+    "revenue": 281724000000,
+    "periodEnd": "2025-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-323660"
+   },
+   "2026": {
+    "revenue": 331839000000,
+    "periodEnd": "2026-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-323660"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 54946310,
+   "2023": 48512537,
+   "2024": 79106183,
+   "2025": 96496790,
+   "2026": 90628977
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-323660",
+    "filingDate": "2026-07-29",
+    "reportDate": "2026-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
+   },
+   {
+    "accession": "0000950170-25-100235",
+    "filingDate": "2025-07-30",
+    "reportDate": "2025-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm"
+   },
+   {
+    "accession": "0000950170-24-087843",
+    "filingDate": "2024-07-30",
+    "reportDate": "2024-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017024087843/msft-20240630.htm"
+   },
+   {
+    "accession": "0000950170-23-035122",
+    "filingDate": "2023-07-27",
+    "reportDate": "2023-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000095017023035122/msft-20230630.htm"
+   },
+   {
+    "accession": "0001564590-22-026876",
+    "filingDate": "2022-07-28",
+    "reportDate": "2022-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459022026876/msft-10k_20220630.htm"
+   },
+   {
+    "accession": "0001564590-21-039151",
+    "filingDate": "2021-07-29",
+    "reportDate": "2021-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459021039151/msft-10k_20210630.htm"
+   },
+   {
+    "accession": "0001564590-20-034944",
+    "filingDate": "2020-07-30",
+    "reportDate": "2020-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459020034944/msft-10k_20200630.htm"
+   },
+   {
+    "accession": "0001564590-19-027952",
+    "filingDate": "2019-08-01",
+    "reportDate": "2019-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/msft-10k_20190630.htm"
+   },
+   {
+    "accession": "0001564590-18-019062",
+    "filingDate": "2018-08-03",
+    "reportDate": "2018-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459018019062/msft-10k_20180630.htm"
+   },
+   {
+    "accession": "0001564590-17-014900",
+    "filingDate": "2017-08-02",
+    "reportDate": "2017-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/789019/000156459017014900/msft-10k_20170630.htm"
+   }
+  ]
+ }
+}

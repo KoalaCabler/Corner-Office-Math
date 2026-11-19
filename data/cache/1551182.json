@@ -1,0 +1,342 @@
+{
+ "proxies": {
+  "0001193125-26-105117": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000119312526105117/etn-20260312.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001551182-26-000007",
+   "result": {
+    "ceoPay": 7944655,
+    "medianPay": 61945,
+    "payRatio": 128,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "our median employee. Base salaries for employees outside the United States were converted to United States Dollars by applying the applicable exchange rates in effect on the measurement date. No cost of living adjustments were applied in our methodology. Our median employee's total compensation of $61,945 was calculated in the same manner as we calculated total compensation for each of the NEOs in the Summary Compensation Table and includes base salary, overtime pay, recognition bonus amounts, employer contributions to retirement plans, and also includes employer contributions to health and welfare benefits. Mr. Ruiz's total compensation for purposes of this disclosure is $7,944,655 and also includes contributions to health and welfare benefits (which are properly excluded from the Summar"
+   }
+  },
+  "0001308179-25-000129": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000130817925000129/etn013294-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001551182-25-000006",
+   "result": {
+    "ceoPay": 22597466,
+    "medianPay": 40157,
+    "payRatio": 563,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "our median employee. Base salaries for employees outside the United States were converted to United States Dollars by applying the applicable exchange rates in effect on the measurement date. No cost of living adjustments were applied in our methodology. Our median employee's total compensation of $40,157 was calculated in the same manner as we calculated total compensation for each of the named executive officers in the Summary Compensation Table and includes base salary, overtime pay, recognition bonus amounts, employer contributions to retirement plans, and employer contributions to health and welfare benefits. Mr. Arnold's total compensation for purposes of this disclosure is $22,597,466 and also includes contributions to health and welfare benefits (which are properly excluded from t"
+   }
+  },
+  "0001308179-24-000169": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000130817924000169/letn2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001551182-24-000006",
+   "result": {
+    "ceoPay": 20516139,
+    "medianPay": 50683,
+    "payRatio": 405,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "our median employee. Base salaries for employees outside the United States were converted to United States Dollars by applying the applicable exchange rates in effect on the measurement date. No cost of living adjustments were applied in our methodology. Our median employee's total compensation of $50,683 was calculated in the same manner as we calculated total compensation for each of the named executive officers in the Summary Compensation Table and includes base salary, overtime pay, recognition bonus amounts, employer contributions to retirement plans, and employer contributions to health and welfare benefits. Mr. Arnold's total compensation for purposes of this disclosure is $20,516,139 and also includes contributions to health and welfare benefits (which are properly excluded from t"
+   }
+  },
+  "0001308179-23-000228": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000130817923000228/letn2023_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001551182-23-000004",
+   "result": {
+    "ceoPay": 14086061,
+    "medianPay": 59064,
+    "payRatio": 238,
+    "method": "cross-checked",
+    "employees": 88395,
+    "statedYear": 2022,
+    "excerpt": "our median employee. Base salaries for employees outside the United States were converted to United States Dollars by applying the applicable exchange rates in effect on the measurement date. No cost of living adjustments were applied in our methodology. Our median employee's total compensation of $59,064 was calculated in the same manner as we calculated total compensation for each of the named executive officers in the Summary Compensation Table and includes base salary, overtime pay, recognition bonus amounts, employer contributions to retirement plans, and employer contributions to health and welfare benefits. Mr. Arnold's total compensation for purposes of this disclosure is $14,086,061 and also includes contributions to health and welfare benefits (which are properly excluded from t"
+   }
+  },
+  "0001308179-22-000085": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000130817922000085/letn2022_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001551182-22-000004",
+   "result": {
+    "ceoPay": 19385973,
+    "medianPay": 56287,
+    "payRatio": 344,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "fying our median employee. Base salaries for employees outside the United States were converted to United States Dollars by applying the applicable exchange rates in effect on October 1, 2021. No cost of living adjustments were applied in our methodology. Our median employee's total compensation of $56,287 was calculated in the same manner as we calculated total compensation for each of the named executive officers in the Summary Compensation Table and includes base salary, overtime pay, recognition bonus amounts, employer contributions to retirement plans, and employer contributions to health and welfare benefits. Mr. Arnold's total compensation for purposes of this disclosure is $19,385,973 and also includes contributions to health and welfare benefits (which are properly excluded from t"
+   }
+  },
+  "0001308179-21-000071": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000130817921000071/letn2021_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001551182-21-000022",
+   "result": {
+    "ceoPay": 17491856,
+    "medianPay": 63951,
+    "payRatio": 274,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "fying our median employee. Base salaries for employees outside the United States were converted to United States Dollars by applying the applicable exchange rates in effect on October 1, 2020. No cost of living adjustments were applied in our methodology. Our median employee's total compensation of $63,951 was calculated in the same manner as we calculated total compensation for each of the named executive officers in the Summary Compensation Table and includes base salary, overtime pay, recognition bonus amounts, employer contributions to retirement plans, and employer contributions to health and welfare benefits. Mr. Arnold's total compensation for purposes of this disclosure is $17,491,856 and also includes contributions to health and welfare benefits (which are properly excluded from t"
+   }
+  },
+  "0001308179-20-000030": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000130817920000030/letn2020_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001551182-20-000050",
+   "result": {
+    "ceoPay": 19980672,
+    "medianPay": 57712,
+    "payRatio": 346,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ed States Dollars by applying the applicable exchange rates in effect on October 1, 2019. No cost of living adjustments were applied in our methodology. Our median employee for 2019 is the same employee that was used in the 2018 CEO Pay Ratio calculation. Our median employee's total compensation of $57,712 was calculated in the same manner as we calculated total compensation for each of the named executive officers in the Summary Compensation Table and includes base salary, overtime pay, recognition bonus amounts, employer contributions to retirement plans, and employer contributions to health and welfare benefits. Mr. Arnold's total compensation for purposes of this disclosure is $19,980,672 and also includes contributions to health and welfare benefits (which are properly excluded from t"
+   }
+  },
+  "0001308179-19-000028": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000130817919000028/letn2019_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001551182-19-000045",
+   "result": {
+    "ceoPay": 14691178,
+    "medianPay": 55585,
+    "payRatio": 264,
+    "method": "cross-checked",
+    "employees": 99000,
+    "statedYear": 2018,
+    "excerpt": "same salary band, job title, and location that our 2017 median employee was in when we calculated our 2017 CEO Pay Ratio; however, the additional components of pay beyond base salary as described below vary from employee to employee within that grouping. Our median employee's total compensation of $55,585 was calculated in the same manner as we calculated total compensation for each of the named executive officers in the Summary Compensation Table and includes base salary, overtime pay, recognition bonus amounts, employer contributions to retirement plans, and employer contributions to health and welfare benefits. Mr. Arnold's total compensation for purposes of this disclosure is $14,691,178 and also includes contributions to health and welfare benefits (which are properly excluded from t"
+   }
+  },
+  "0001308179-18-000055": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551182/000130817918000055/letn2018_def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001551182-18-000074",
+   "result": {
+    "ceoPay": 15191152,
+    "medianPay": 71073,
+    "payRatio": 214,
+    "method": "cross-checked",
+    "employees": 96000,
+    "statedYear": null,
+    "excerpt": "fying our median employee. Base salaries for employees outside the United States were converted to United States Dollars by applying the applicable exchange rates in effect on October 1, 2017. No cost of living adjustments were applied in our methodology. Our median employee's total compensation of $71,073 was calculated in the same manner as we calculated total compensation for each of the named executive officers in the Summary Compensation Table and also includes contributions to health and welfare benefits. Mr. Arnold's total compensation for purposes of this disclosure is $15,191,152. Accordingly, our CEO to Employee Pay Ratio is 214:1. In our pay ratio disclosure, our CEO's compensation is $15,191,152 which is $13,011 more than the amount disclosed in the Summary Compensation Table."
+   }
+  }
+ },
+ "tenKs": {
+  "0001551182-22-000004": {
+   "parserVersion": 1,
+   "employees": 86000
+  },
+  "0001551182-24-000006": {
+   "parserVersion": 1,
+   "employees": 94000
+  },
+  "0001551182-25-000006": {
+   "parserVersion": 1,
+   "employees": 94000
+  },
+  "0001551182-26-000007": {
+   "parserVersion": 1,
+   "employees": 97000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2010": {
+    "revenue": 13715000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001551182-13-000005"
+   },
+   "2011": {
+    "revenue": 16049000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001551182-14-000011"
+   },
+   "2012": {
+    "revenue": 16311000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001551182-15-000007"
+   },
+   "2013": {
+    "revenue": 22046000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001551182-16-000041"
+   },
+   "2014": {
+    "revenue": 22552000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001551182-17-000014"
+   },
+   "2015": {
+    "revenue": 20855000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001551182-18-000074"
+   },
+   "2016": {
+    "revenue": 19747000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001551182-19-000045"
+   },
+   "2017": {
+    "revenue": 20404000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001551182-20-000050"
+   },
+   "2018": {
+    "revenue": 21609000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001551182-21-000022"
+   },
+   "2019": {
+    "revenue": 21390000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001551182-22-000004"
+   },
+   "2020": {
+    "revenue": 17858000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001551182-23-000004"
+   },
+   "2021": {
+    "revenue": 19628000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001551182-24-000006"
+   },
+   "2022": {
+    "revenue": 20752000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001551182-25-000006"
+   },
+   "2023": {
+    "revenue": 23196000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001551182-26-000007"
+   },
+   "2024": {
+    "revenue": 24878000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001551182-26-000007"
+   },
+   "2025": {
+    "revenue": 27448000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001551182-26-000007"
+   }
+  },
+  "employeesTagged": {
+   "0001551182-21-000022": 92000,
+   "0001551182-13-000005": 103000,
+   "0001551182-14-000011": 102000,
+   "0001551182-15-000007": 102000,
+   "0001551182-16-000041": 97000,
+   "0001551182-17-000014": 95000,
+   "0001551182-18-000074": 96000,
+   "0001551182-19-000045": 99000,
+   "0001551182-20-000050": 101000
+  },
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001551182-26-000007",
+    "filingDate": "2026-02-26",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000007/etn-20251231.htm"
+   },
+   {
+    "accession": "0001551182-25-000006",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118225000006/etn-20241231.htm"
+   },
+   {
+    "accession": "0001551182-24-000006",
+    "filingDate": "2024-02-29",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118224000006/etn-20231231.htm"
+   },
+   {
+    "accession": "0001551182-23-000004",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118223000004/etn-20221231.htm"
+   },
+   {
+    "accession": "0001551182-22-000004",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118222000004/etn-20211231.htm"
+   },
+   {
+    "accession": "0001551182-21-000022",
+    "filingDate": "2021-02-24",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118221000022/etn-20201231.htm"
+   },
+   {
+    "accession": "0001551182-20-000050",
+    "filingDate": "2020-02-26",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118220000050/etn12312019form10-k.htm"
+   },
+   {
+    "accession": "0001551182-19-000045",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118219000045/etn12312018form10-k.htm"
+   },
+   {
+    "accession": "0001551182-18-000074",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118218000074/etn12312017form10-k.htm"
+   },
+   {
+    "accession": "0001551182-17-000014",
+    "filingDate": "2017-02-22",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1551182/000155118217000014/etn12312016form10-k.htm"
+   }
+  ]
+ }
+}

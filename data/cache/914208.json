@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001193125-26-140019": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000119312526140019/d931607ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000914208-26-000079",
+   "result": {
+    "ceoPay": 16299849,
+    "medianPay": 122418,
+    "payRatio": 133,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "K of the Exchange Act, we are providing the following information about the relationship of the annual total compensation of our CEO, and our employees (other than our CEO): For 2025, our last completed year: | • | | | | the annual total compensation of our median employee (other than our CEO), was $122,418, and | | • | | | | the annual total compensation of our CEO for purposes of calculating the CEO pay ratio was $16,299,849. | As a result for 2025, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee (other than our CEO) was 133 to 1. Methodology Our CEO to median employee pay ratio is calculated in accordance with SEC requirements. As of June 30, 2023, we appointed a new CEO who was promoted into the role. As a result, as of Octo"
+   }
+  },
+  "0001193125-25-066755": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000119312525066755/d896414ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000914208-25-000114",
+   "result": {
+    "ceoPay": 11232341,
+    "medianPay": 117537,
+    "payRatio": 96,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "K of the Exchange Act, we are providing the following information about the relationship of the annual total compensation of our CEO, and our employees (other than our CEO): For 2024, our last completed year: | • | | | | the annual total compensation of our median employee (other than our CEO), was $117,537, and | | • | | | | the annual total compensation of our CEO for purposes of calculating the CEO pay ratio was $11,232,341. | As a result for 2024, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee (other than our CEO) was 96 to 1. Methodology Our CEO to median employee pay ratio is calculated in accordance with SEC requirements. As of June 30, 2023, we appointed a new CEO who was promoted into the role. As a result, as of Octob"
+   }
+  },
+  "0001193125-24-080494": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000119312524080494/d798548ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000914208-24-000219",
+   "result": {
+    "ceoPay": 11989931,
+    "medianPay": 111480,
+    "payRatio": 108,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "mation about the relationship of the annual total compensation of Mr. Andrew R. Schlossberg, our Chief Executive Officer (our \"CEO\"), and our employees (other than our CEO): For 2023, our last completed year: | • | | | | the annual total compensation of our median employee (other than our CEO), was $111,480, and | | • | | | | the annual total compensation of our CEO for purposes of calculating the CEO pay ratio was $11,989,931. | As a result for 2023, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee (other than our CEO) was 108 to 1. Methodology Our CEO to median employee pay ratio is calculated in accordance with SEC requirements. As of June 30, 2023, we appointed a new CEO who was promoted into the role. As a result, as of Octo"
+   }
+  },
+  "0001193125-23-088075": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000119312523088075/d454008ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000914208-23-000297",
+   "result": {
+    "ceoPay": 15173146,
+    "medianPay": 124898,
+    "payRatio": 121,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "g information about the relationship of the annual total compensation of Mr. Martin L. Flanagan, our Chief Executive Officer (our \"CEO\"), and our employees (other than our CEO): For 2022, our last completed year: | • | | the annual total compensation of our median employee (other than our CEO), was $124,898, and | | • | | the annual total compensation of our CEO as reflected in the 2022 Summary Compensation Table was $15,173,146. | As a result for 2022, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee (other than our CEO) was 121 to 1. Methodology Our CEO to median employee pay ratio is calculated in accordance with the SEC requirements. As of October 1, 2022, we identified the median employee by examining 2021 total compensation"
+   }
+  },
+  "0001193125-22-085165": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000119312522085165/d200816ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000914208-22-000319",
+   "result": {
+    "ceoPay": 12897752,
+    "medianPay": 187854,
+    "payRatio": 69,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "formation about the relationship of the annual total compensation of Mr. Martin L. Flanagan, our Chief Executive Officer (our CEO), and our employees (other than our CEO): For 2021, our last completed year: |  | | | | the annual total compensation of our median employee (other than our CEO), was $187,854, and | |  | | | | the annual total compensation of our CEO as reflected in the 2021 Summary Compensation Table was $12,897,752. | As a result for 2021, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee (other than our CEO) was 69 to 1. | | | | | | | 72 Invesco Ltd. | | | | | Table of Contents Proposal 3 We are asking our shareholders to make a total of 3,715,137 common shares available for purchase under our ESPP Approval of t"
+   }
+  },
+  "0001193125-21-096544": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000119312521096544/d284456ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000914208-21-000331",
+   "result": {
+    "ceoPay": 11747102,
+    "medianPay": 150082,
+    "payRatio": 78,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "formation about the relationship of the annual total compensation of Mr. Martin L. Flanagan, our Chief Executive Officer (our CEO), and our employees (other than our CEO): For 2020, our last completed year: |  | | | | the annual total compensation of our median employee (other than our CEO), was $150,082; and | |  | | | | the annual total compensation of our CEO as reflected in the 2020 Summary Compensation Table was $11,747,102. | As a result for 2020, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee (other than our CEO) was 78 to 1. Compensation committee interlocks and insider participation During year 2020, the following directors served as members of the compensation committee: C. Robert Henrikson (Chair), Sarah E. Besha"
+   }
+  },
+  "0001193125-20-085082": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000119312520085082/d835542ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000914208-20-000245",
+   "result": {
+    "ceoPay": 11518949,
+    "medianPay": 125282,
+    "payRatio": 92,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "hip of the annual total compensation of Mr. Martin L. Flanagan, our Chief Executive Officer (our CEO), and our employees (other than our CEO): | | | | | | | | | | For 2019, our last completed fiscal year: | | | | | | ∎ the annual total compensation of our median employee (other than our CEO), was $125,282; and | | | | | | ∎ the annual total compensation of our CEO was $11,518,949. | | | | | | | | | | For 2019, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee (other than our CEO) was 92 to 1. | | | | | | | | | | Our CEO to median employee pay ratio is calculated in accordance with the SEC requirements. As of October 1, 2019, we identified a new median employee. We examined 2019 total compensation for all individuals, excluding o"
+   }
+  },
+  "0001193125-19-085414": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000119312519085414/d712266ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000914208-19-000195",
+   "result": {
+    "ceoPay": 12921609,
+    "medianPay": 119367,
+    "payRatio": 108,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "hip of the annual total compensation of Mr. Martin L. Flanagan, our Chief Executive Officer (our CEO), and our employees (other than our CEO): | | | | | | | | | | For 2018, our last completed fiscal year: | | | | | | ∎ the annual total compensation of our median employee (other than our CEO), was $119,367; and | | | | | | ∎ the annual total compensation of our CEO was $12,921,609. | | | | | | | | | | For 2018, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee (other than our CEO) was 108 to 1. | | | | | | | | | | Our CEO to median employee pay ratio is calculated in accordance with the SEC requirements. As of October 1, 2018, we identified a new median employee since the median employee identified in 2017 based on 2016 total com"
+   }
+  },
+  "0001193125-18-097696": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/914208/000119312518097696/d505975ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000914208-18-000255",
+   "result": {
+    "ceoPay": 13805195,
+    "medianPay": 97775,
+    "payRatio": 141,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "hip of the annual total compensation of Mr. Martin L. Flanagan, our Chief Executive Officer (our CEO), and our employees (other than our CEO): | | | | | | | | | | For 2017, our last completed fiscal year: | | | | | | ∎ the annual total compensation of our median employee (other than our CEO), was $97,775; and | | | | | | ∎ the annual total compensation of our CEO was $13,805,195. | | | | | | | | | | For 2017, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee (other than our CEO) was 141 to 1. | | | | | | | | | | Our CEO to median employee pay ratio is calculated in accordance with the SEC requirements. As of October 1, 2017, we identified the median employee by examining 2016 total compensation for all individuals, excluding our"
+   }
+  }
+ },
+ "tenKs": {
+  "0000914208-18-000255": {
+   "parserVersion": 1,
+   "employees": 7030
+  },
+  "0000914208-19-000195": {
+   "parserVersion": 1,
+   "employees": 7459
+  },
+  "0000914208-20-000245": {
+   "parserVersion": 1,
+   "employees": 8000
+  },
+  "0000914208-21-000331": {
+   "parserVersion": 1,
+   "employees": 8512
+  },
+  "0000914208-22-000319": {
+   "parserVersion": 1,
+   "employees": 8513
+  },
+  "0000914208-23-000297": {
+   "parserVersion": 1,
+   "employees": 8611
+  },
+  "0000914208-24-000219": {
+   "parserVersion": 1,
+   "employees": 8500
+  },
+  "0000914208-25-000114": {
+   "parserVersion": 1,
+   "employees": 8500
+  },
+  "0000914208-26-000079": {
+   "parserVersion": 1,
+   "employees": 7500
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 3878900000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-10-017949"
+   },
+   "2008": {
+    "revenue": 3307600000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-018684"
+   },
+   "2009": {
+    "revenue": 2627300000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000914208-12-000528"
+   },
+   "2010": {
+    "revenue": 3487700000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000914208-13-000308"
+   },
+   "2011": {
+    "revenue": 3982300000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000914208-14-000271"
+   },
+   "2012": {
+    "revenue": 4050400000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000914208-15-000293"
+   },
+   "2013": {
+    "revenue": 4644600000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000914208-16-000846"
+   },
+   "2014": {
+    "revenue": 5147100000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000914208-17-000328"
+   },
+   "2015": {
+    "revenue": 5122900000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000914208-18-000255"
+   },
+   "2016": {
+    "revenue": 4734400000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000914208-19-000195"
+   },
+   "2017": {
+    "revenue": 5160300000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000914208-19-000195"
+   },
+   "2018": {
+    "revenue": 5314100000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000914208-19-000195"
+   },
+   "2019": {
+    "revenue": 6117400000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000914208-22-000319"
+   },
+   "2020": {
+    "revenue": 6145600000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000914208-23-000297"
+   },
+   "2021": {
+    "revenue": 6894500000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000914208-24-000219"
+   },
+   "2022": {
+    "revenue": 6048900000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000914208-25-000114"
+   },
+   "2023": {
+    "revenue": 5716400000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000914208-26-000079"
+   },
+   "2024": {
+    "revenue": 6067000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000914208-26-000079"
+   },
+   "2025": {
+    "revenue": 6377100000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000914208-26-000079"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000914208-26-000079",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420826000079/ivz-20251231.htm"
+   },
+   {
+    "accession": "0000914208-25-000114",
+    "filingDate": "2025-02-25",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420825000114/ivz-20241231.htm"
+   },
+   {
+    "accession": "0000914208-24-000219",
+    "filingDate": "2024-02-21",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420824000219/ivz-20231231.htm"
+   },
+   {
+    "accession": "0000914208-23-000297",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420823000297/ivz-20221231.htm"
+   },
+   {
+    "accession": "0000914208-22-000319",
+    "filingDate": "2022-02-18",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420822000319/ivz-20211231.htm"
+   },
+   {
+    "accession": "0000914208-21-000331",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420821000331/ivz-20201231.htm"
+   },
+   {
+    "accession": "0000914208-20-000245",
+    "filingDate": "2020-03-02",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420820000245/a201910-k.htm"
+   },
+   {
+    "accession": "0000914208-19-000195",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420819000195/a201810-k.htm"
+   },
+   {
+    "accession": "0000914208-18-000255",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420818000255/a201710-k.htm"
+   },
+   {
+    "accession": "0000914208-17-000328",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/914208/000091420817000328/a201610-k.htm"
+   }
+  ]
+ }
+}

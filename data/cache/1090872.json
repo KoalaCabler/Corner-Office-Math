@@ -1,0 +1,352 @@
+{
+ "proxies": {
+  "0001193125-26-040286": {
+   "parserVersion": 1,
+   "filingDate": "2026-02-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090872/000119312526040286/a-20260203.htm",
+   "periodEnd": "2025-10-31",
+   "tenK": "0001090872-25-000087",
+   "result": {
+    "ceoPay": 12827236,
+    "medianPay": 82873,
+    "payRatio": 155,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "of base salary, annual bonus and target long-term incentive value. Once we identified the median employee, the annual total compensation was then calculated according to the SEC's rules for the Summary Compensation Table. The annual total compensation of our median employee for fiscal year 2025 was $82,873. As disclosed in our Summary Compensation Table on page 42 , our CEO's annual total compensation for fiscal year 2025 was $12,827,236. Based on these compensation amounts, our estimate of the ratio of the annual total compensation of CEO to the annual total compensation of our median employee was 155 to 1. As of October 31, 2025, Agilent had employees in 30 countries with 36% in Asia Pacific, 25% in Europe, Middle East and Africa and 39% in the Americas. Pay versus performance The follow"
+   }
+  },
+  "0000950170-25-011439": {
+   "parserVersion": 1,
+   "filingDate": "2025-01-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090872/000095017025011439/a-20250129.htm",
+   "periodEnd": "2024-10-31",
+   "tenK": "0001090872-24-000049",
+   "result": {
+    "ceoPay": 9046505,
+    "medianPay": 75642,
+    "payRatio": 120,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ined as the sum of base salary, annual bonus and target LTI value. Once we identified the median employee, the annual total compensation was then calculated according to the SEC's rules for the Summary Compensation Table. The annual total compensation of our median employee for fiscal year 2024 was $75,642. As disclosed in our Summary Compensation Table on page 42 , our CEO's annual total compensation for fiscal year 2024 was $9,046,505. Based on these compensation amounts, our estimate of the ratio of the annual total compensation of CEO to the annual total compensation of our median employee was 120 to 1. As of October 31, 2024, Agilent had employees in 30 countries with 37% in Asia Pacific, 26% in Europe, Middle East and Africa and 37% in the Americas. Pay versus performance The followi"
+   }
+  },
+  "0000950170-24-010096": {
+   "parserVersion": 1,
+   "filingDate": "2024-02-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090872/000095017024010096/a-20240129.htm",
+   "periodEnd": "2023-10-31",
+   "tenK": "0001090872-23-000020",
+   "result": {
+    "ceoPay": 16023410,
+    "medianPay": 78825,
+    "payRatio": 203,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ined as the sum of base salary, annual bonus and target LTI value. Once we identified the median employee, the annual total compensation was then calculated according to the SEC's rules for the Summary Compensation Table. The annual total compensation of our median employee for fiscal year 2023 was $78,825. As disclosed in our Summary Compensation Table on page 44 , our CEO's annual total compensation for fiscal year 2023 was $16,023,410. Based on these compensation amounts, our estimate of the ratio of the annual total compensation of CEO to the annual total compensation of our median employee was 203 to 1. As of October 31, 2023, Agilent had employees in 30 countries with 36% in Asia Pacific, 26% in Europe, Middle East and Africa and 38% in the Americas. 53 | | | | | EXECUTIVE COMPENSATI"
+   }
+  },
+  "0000950170-23-001746": {
+   "parserVersion": 1,
+   "filingDate": "2023-02-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090872/000095017023001746/a-def-14a-2023_proxy.htm",
+   "periodEnd": "2022-10-31",
+   "tenK": "0001090872-22-000026",
+   "result": {
+    "ceoPay": 16647413,
+    "medianPay": 75498,
+    "payRatio": 220,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ined as the sum of base salary, annual bonus and target LTI value. Once we identified the median employee, the annual total compensation was then calculated according to the SEC's rules for the Summary Compensation Table. The annual total compensation of our median employee for fiscal year 2022 was $75,498. As disclosed in our Summary Compensation Table on page 42 , our CEO's annual total compensation for fiscal year 2022 was $16,647,413. Based on these compensation amounts, our estimate of the ratio of the annual total compensation of CEO to the annual total compensation of our median employee was 220 to 1. As of October 31, 2022, Agilent had employees in 31 countries with 37% in Asia Pacific, 25% in Europe, Middle East and Africa and 38% in the Americas. 51 | | | | | | | PROPOSAL 2 - ADV"
+   }
+  },
+  "0001564590-22-003730": {
+   "parserVersion": 1,
+   "filingDate": "2022-02-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090872/000156459022003730/a-def14a_20220316.htm",
+   "periodEnd": "2021-10-31",
+   "tenK": "0001090872-21-000027",
+   "result": {
+    "ceoPay": 15967630,
+    "medianPay": 82890,
+    "payRatio": 193,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ined as the sum of base salary, annual bonus and target LTI value. Once we identified the median employee, the annual total compensation was then calculated according to the SEC's rules for the Summary Compensation Table. The annual total compensation of our median employee for fiscal year 2021 was $82,890. As disclosed in our Summary Compensation Table on page 41, our CEO's annual total compensation for fiscal year 2021 was $15,967,630. Based on these compensation amounts, our estimate of the ratio of the annual total compensation of CEO to the annual total compensation of our median employee was 193 to 1. As of October 31, 2021, Agilent had employees in 31 countries with 37% in Asia Pacific, 25% in Europe, Middle East and Africa and 38% in the Americas. 50 | | | PROPOSAL 2 - ADVISORY VOT"
+   }
+  },
+  "0001564590-21-004195": {
+   "parserVersion": 1,
+   "filingDate": "2021-02-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090872/000156459021004195/a-def14a_20210204.htm",
+   "periodEnd": "2020-10-31",
+   "tenK": "0001090872-20-000020",
+   "result": {
+    "ceoPay": 13610481,
+    "medianPay": 74440,
+    "payRatio": 183,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ined as the sum of base salary, annual bonus and target LTI value. Once we identified the median employee, the annual total compensation was then calculated according to the SEC's rules for the Summary Compensation Table. The annual total compensation of our median employee for fiscal year 2020 was $74,440. As disclosed in our Summary Compensation Table on page 39, our CEO's annual total compensation for fiscal year 2020 was $13,610,481. Based on these compensation amounts, our estimate of the ratio of the annual total compensation of CEO to the annual total compensation of our median employee was 183 to 1. As of October 31, 2020, Agilent had employees in 31 countries with 38% in Asia Pacific, 26% in Europe, Middle East and Africa and 36% in the Americas. 48 | | | PROPOSAL 2 - ADVISORY VOT"
+   }
+  },
+  "0001564590-20-003589": {
+   "parserVersion": 1,
+   "filingDate": "2020-02-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090872/000156459020003589/a-def14a_20200318.htm",
+   "periodEnd": "2019-10-31",
+   "tenK": "0001090872-19-000022",
+   "result": {
+    "ceoPay": 12520566,
+    "medianPay": 70014,
+    "payRatio": 179,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ined as the sum of base salary, annual bonus and target LTI value. Once we identified the median employee, the annual total compensation was then calculated according to the SEC's rules for the Summary Compensation Table. The annual total compensation of our median employee for fiscal year 2019 was $70,014. As disclosed in our Summary Compensation Table on page 44, our CEO's annual total compensation for fiscal year 2019 was $12,520,566. Based on these compensation amounts, our estimate of the ratio of the annual total compensation of CEO to the annual total compensation of our median employee was 179 to 1. As of October 31, 2019, Agilent had employees in 31 countries with 38% in Asia Pacific, 26% in Europe, Middle East and Africa and 36% in the Americas. 53 | | | PROPOSAL 3 - ADVISORY VOT"
+   }
+  },
+  "0001564590-19-002283": {
+   "parserVersion": 1,
+   "filingDate": "2019-02-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090872/000156459019002283/a-def14a_20190320.htm",
+   "periodEnd": "2018-10-31",
+   "tenK": "0001090872-18-000019",
+   "result": {
+    "ceoPay": 11708230,
+    "medianPay": 68579,
+    "payRatio": 170,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ined as the sum of base salary, annual bonus and target LTI value. Once we identified the median employee, the annual total compensation was then calculated according to the SEC's rules for the Summary Compensation Table. The annual total compensation of our median employee for fiscal year 2018 was $68,579. As disclosed in our Summary Compensation Table on page 46, our CEO's annual total compensation for fiscal year 2018 was $11,708,230. Based on these compensation amounts, our estimate of the ratio of the annual total compensation of CEO to the annual total compensation of our median employee was 170 to 1. As of October 31, 2018, Agilent had employees in 32 countries with 37% in Asia Pacific, 27% in Europe, Middle East and Africa and 36% in the Americas. 55 | | | PROPOSAL 3 - ADVISORY VOT"
+   }
+  },
+  "0001564590-18-001685": {
+   "parserVersion": 1,
+   "filingDate": "2018-02-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090872/000156459018001685/a-def14a_20180321.htm",
+   "periodEnd": "2017-10-31",
+   "tenK": "0001090872-17-000018",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001090872-18-000019": {
+   "parserVersion": 1,
+   "employees": 14800
+  },
+  "0001090872-19-000022": {
+   "parserVersion": 1,
+   "employees": 16300
+  },
+  "0001090872-20-000020": {
+   "parserVersion": 1,
+   "employees": 16400
+  },
+  "0001090872-21-000027": {
+   "parserVersion": 1,
+   "employees": 17000
+  },
+  "0001090872-22-000026": {
+   "parserVersion": 1,
+   "employees": 18100
+  },
+  "0001090872-23-000020": {
+   "parserVersion": 1,
+   "employees": 18100
+  },
+  "0001090872-24-000049": {
+   "parserVersion": 1,
+   "employees": 17900
+  },
+  "0001090872-25-000087": {
+   "parserVersion": 1,
+   "employees": 18100
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 5420000000,
+    "periodEnd": "2007-10-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-09-010861"
+   },
+   "2008": {
+    "revenue": 5774000000,
+    "periodEnd": "2008-10-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-10-010499"
+   },
+   "2009": {
+    "revenue": 4481000000,
+    "periodEnd": "2009-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-010124"
+   },
+   "2010": {
+    "revenue": 5444000000,
+    "periodEnd": "2010-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090872-12-000018"
+   },
+   "2011": {
+    "revenue": 6615000000,
+    "periodEnd": "2011-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090872-12-000018"
+   },
+   "2012": {
+    "revenue": 6858000000,
+    "periodEnd": "2012-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090872-12-000018"
+   },
+   "2013": {
+    "revenue": 3894000000,
+    "periodEnd": "2013-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090872-15-000051"
+   },
+   "2014": {
+    "revenue": 4048000000,
+    "periodEnd": "2014-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090872-16-000082"
+   },
+   "2015": {
+    "revenue": 4038000000,
+    "periodEnd": "2015-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090872-17-000018"
+   },
+   "2016": {
+    "revenue": 4202000000,
+    "periodEnd": "2016-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090872-17-000018"
+   },
+   "2017": {
+    "revenue": 4472000000,
+    "periodEnd": "2017-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090872-17-000018"
+   },
+   "2018": {
+    "revenue": 4914000000,
+    "periodEnd": "2018-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090872-20-000020"
+   },
+   "2019": {
+    "revenue": 5163000000,
+    "periodEnd": "2019-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090872-21-000027"
+   },
+   "2020": {
+    "revenue": 5339000000,
+    "periodEnd": "2020-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090872-22-000026"
+   },
+   "2021": {
+    "revenue": 6319000000,
+    "periodEnd": "2021-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090872-23-000020"
+   },
+   "2022": {
+    "revenue": 6848000000,
+    "periodEnd": "2022-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090872-24-000049"
+   },
+   "2023": {
+    "revenue": 6833000000,
+    "periodEnd": "2023-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090872-25-000087"
+   },
+   "2024": {
+    "revenue": 6510000000,
+    "periodEnd": "2024-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090872-25-000087"
+   },
+   "2025": {
+    "revenue": 6948000000,
+    "periodEnd": "2025-10-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090872-25-000087"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001090872-25-000087",
+    "filingDate": "2025-12-22",
+    "reportDate": "2025-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087225000087/a-20251031.htm"
+   },
+   {
+    "accession": "0001090872-24-000049",
+    "filingDate": "2024-12-20",
+    "reportDate": "2024-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087224000049/a-20241031.htm"
+   },
+   {
+    "accession": "0001090872-23-000020",
+    "filingDate": "2023-12-20",
+    "reportDate": "2023-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087223000020/a-20231031.htm"
+   },
+   {
+    "accession": "0001090872-22-000026",
+    "filingDate": "2022-12-21",
+    "reportDate": "2022-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087222000026/a-20221031.htm"
+   },
+   {
+    "accession": "0001090872-21-000027",
+    "filingDate": "2021-12-17",
+    "reportDate": "2021-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087221000027/a-20211031.htm"
+   },
+   {
+    "accession": "0001090872-20-000020",
+    "filingDate": "2020-12-18",
+    "reportDate": "2020-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087220000020/a-20201031.htm"
+   },
+   {
+    "accession": "0001090872-19-000022",
+    "filingDate": "2019-12-19",
+    "reportDate": "2019-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087219000022/a-10312019x10k.htm"
+   },
+   {
+    "accession": "0001090872-18-000019",
+    "filingDate": "2018-12-20",
+    "reportDate": "2018-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087218000019/a-10312018x10k.htm"
+   },
+   {
+    "accession": "0001090872-17-000018",
+    "filingDate": "2017-12-21",
+    "reportDate": "2017-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090872/000109087217000018/a-10312017x10k.htm"
+   }
+  ]
+ }
+}

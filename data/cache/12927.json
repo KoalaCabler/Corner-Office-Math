@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001193125-26-096787": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312526096787/d39411ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-004357",
+   "result": {
+    "ceoPay": 23581389,
+    "medianPay": 141933,
+    "payRatio": 166,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "er Protection Act and Item 402(u) of Regulation S-K, we are providing the following information about the relationship of the median of the annual total compensation of our employees and the annualized total compensation of our CEO. For 2025, the annual total compensation of our median employee was $141,933. The annualized total compensation of Mr. Ortberg was $23,581,389. Based on this information, we estimated that our CEO's 2025 total compensation was approximately 166 times that of our median employee. The median employee's 2025 total compensation was calculated in the same manner as would be required by Item 402(c)(2)(x) of Regulation S-K if the employee was a NEO for 2025. We have elected to identify our median employee every three years, unless a significant change in our employee p"
+   }
+  },
+  "0001193125-25-049921": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312525049921/d816992ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000012927-25-000015",
+   "result": {
+    "ceoPay": 19461706,
+    "medianPay": 106624,
+    "payRatio": 183,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "er Protection Act and Item 402(u) of Regulation S-K, we are providing the following information about the relationship of the median of the annual total compensation of our employees and the annualized total compensation of our CEO. For 2024, the annual total compensation of our median employee was $106,624. The annualized total compensation of Mr. Ortberg, our CEO serving in the role as of the median employee identification date (September 30), was $19,461,706. This amount differs from the amount shown in the Summary Compensation Table as it has been adjusted for annualization of Mr. Ortberg's base salary and company contributions to retirement plans. Based on this information, we estimated that our CEO's 2024 total compensation was approximately 183 times that of our median employee. The"
+   }
+  },
+  "0001193125-24-088568": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312524088568/d550077ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000012927-24-000010",
+   "result": {
+    "ceoPay": 32770519,
+    "medianPay": 119873,
+    "payRatio": 273,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "nsumer Protection Act and Item 402(u) of Regulation S-K, we are providing the following information about the relationship of the median of the annual total compensation of our employees and the annual total compensation of our CEO. For 2023, the annual total compensation of our median employee was $119,873, and the annual total compensation of our CEO, Mr. Calhoun, was $32,770,519 as reported in the Summary Compensation Table on page 72. Based on this information, we estimated that our CEO's 2023 total compensation was approximately 273 times that of our median employee. The median employee's 2023 total compensation was calculated in the same manner as would be required by Item 402(c)(2)(x) of Regulation S-K if the employee was a NEO for 2023. We have elected to identify our median employ"
+   }
+  },
+  "0001193125-23-059893": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312523059893/d424500ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000012927-23-000007",
+   "result": {
+    "ceoPay": 22480396,
+    "medianPay": 145756,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "sumer Protection Act and Item 402(u) of Regulation S-K, we are providing the following information about the relationship of the median of the annual total compensation of our employees and the annual total compensation of our CEO. For 2022, the annual total compensation of our median employee, was $145,756, and the annual total compensation of our CEO, Mr. Calhoun, was $22,480,396 as reported in the Summary Compensation Table on page 56. Based on this information, we estimated that our CEO's 2022 total compensation was approximately 154 times that of our median employee. The median employee's 2022 total compensation was calculated in the same manner as would be required by Item 402(c)(2)(x) of Regulation S-K if the employee was a NEO for 2022, and the 2022 annual total compensation of the"
+   }
+  },
+  "0001193125-22-073265": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312522073265/d240748ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000012927-22-000010",
+   "result": {
+    "ceoPay": 21093605,
+    "medianPay": 124844,
+    "payRatio": 169,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "sumer Protection Act and Item 402(u) of Regulation S-K, we are providing the following information about the relationship of the median of the annual total compensation of our employees and the annual total compensation of our CEO. For 2021, the annual total compensation of our median employee, was $124,844, and the annual total compensation of our CEO, Mr. Calhoun, was $21,093,605 as reported in the Summary Compensation Table on page 56. Based on this information, we estimated that our CEOs 2021 total compensation was approximately 169 times that of our median employee. The median employees 2021 total compensation was calculated in the same manner as would be required by item 402(c)(2)(x) of Regulation S-K if the employee was a NEO for 2021, and the 2021 annual total compensation of the"
+   }
+  },
+  "0001193125-21-071321": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312521071321/d922634ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000012927-21-000011",
+   "result": {
+    "ceoPay": 21074052,
+    "medianPay": 133800,
+    "payRatio": 158,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "nsumer Protection Act and Item 402(u) of Regulation S-K, we are providing the following information about the relationship of the median of the annual total compensation of our employees and the annual total compensation of our CEO. For 2020, the annual total compensation of our median employee was $133,800, and the annual total compensation of our CEO, Mr. Calhoun, was $21,074,052 as reported in the Summary Compensation Table on page 50. Based on this information, we estimated that our CEOs 2020 total compensation was 158 times that of our median employee. Although Mr. Calhouns base salary rate was set at $1,400,000 upon his hire in January 2020, he declined any payments of base salary following his March 2020 commitment to forego pay for the remainder of the year, and similarly decline"
+   }
+  },
+  "0001193125-20-072864": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312520072864/d806083ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000012927-20-000014",
+   "result": {
+    "ceoPay": 11460040,
+    "medianPay": 109106,
+    "payRatio": 105,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "s of tenure), $49,763 and $2,790,155, respectively, was attributable to an increase in the actuarial present value of the employees accumulated benefits under Company pension plans during 2019. Excluding the impact of these pension accruals, the annual total compensation of our median employee was $109,106 and, for our CEO, $11,460,040, resulting in a CEO pay amount estimated to be 105 times that of our median employee. We have elected to identify our median employee every three years, unless a significant change in our employee population or employee compensation arrangements has occurred. Our median employee was identified for the twelve-month period ending September 30, 2017, based on our employee population (including employees of our consolidated subsidiaries) which consisted of appr"
+   }
+  },
+  "0001193125-19-076793": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312519076793/d686032ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000012927-19-000010",
+   "result": {
+    "ceoPay": 23392187,
+    "medianPay": 126991,
+    "payRatio": 184,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "roviding the following information about the relationship of the median of the annual total compensation of our employees and the annual total compensation of Dennis Muilenburg, our Chairman, President and CEO. For 2018, the annual total compensation of our median employee (other than our CEO), was $126,991, and the annual total compensation of our CEO was $23,392,187. Based on this information, we estimated that our CEOs 2018 total compensation was 184 times that of the median employee. The median employees 2018 total compensation is calculated in the same manner as would be required by Item 402(c)(2)(x) of Regulation S-K if the employee was a NEO for 2018, and the 2018 annual total compensation of the CEO represents the amount reported in the Total column of the Summary Compensation"
+   }
+  },
+  "0001193125-18-085720": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/12927/000119312518085720/d529634ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000012927-18-000007",
+   "result": {
+    "ceoPay": 18450416,
+    "medianPay": 111204,
+    "payRatio": 166,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "roviding the following information about the relationship of the median of the annual total compensation of our employees and the annual total compensation of Dennis Muilenburg, our Chairman, President and CEO. For 2017, the annual total compensation of our median employee (other than our CEO), was $111,204 and the annual total compensation of our CEO was $18,450,416. Based on this information, for 2017 our CEOs annual total compensation was 166 times that of the median of the annual total compensation of all our employees. In making this calculation, we used the following methodology. We determined that, as of October 1, 2017, our employee population (including employees of our consolidated subsidiaries) consisted of approximately 140,600 full-time, part-time, and temporary employees in"
+   }
+  }
+ },
+ "tenKs": {
+  "0000012927-18-000007": {
+   "parserVersion": 1,
+   "employees": 52000
+  },
+  "0000012927-19-000010": {
+   "parserVersion": 1,
+   "employees": 54000
+  },
+  "0000012927-20-000014": {
+   "parserVersion": 1,
+   "employees": 57000
+  },
+  "0000012927-21-000011": {
+   "parserVersion": 1,
+   "employees": 47000
+  },
+  "0000012927-22-000010": {
+   "parserVersion": 1,
+   "employees": 47000
+  },
+  "0000012927-23-000007": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0000012927-24-000010": {
+   "parserVersion": 1,
+   "employees": 57000
+  },
+  "0000012927-25-000015": {
+   "parserVersion": 1,
+   "employees": 58000
+  },
+  "0001628280-26-004357": {
+   "parserVersion": 1,
+   "employees": 3200
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 66387000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-024406"
+   },
+   "2008": {
+    "revenue": 60909000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-028490"
+   },
+   "2009": {
+    "revenue": 68281000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-048565"
+   },
+   "2010": {
+    "revenue": 64306000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-13-000014"
+   },
+   "2011": {
+    "revenue": 68735000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-14-000004"
+   },
+   "2012": {
+    "revenue": 81698000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-15-000011"
+   },
+   "2013": {
+    "revenue": 86623000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-16-000099"
+   },
+   "2014": {
+    "revenue": 90762000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-17-000006"
+   },
+   "2015": {
+    "revenue": 96114000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-18-000007"
+   },
+   "2016": {
+    "revenue": 93496000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-19-000010"
+   },
+   "2017": {
+    "revenue": 94005000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-20-000014"
+   },
+   "2018": {
+    "revenue": 101127000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-21-000011"
+   },
+   "2019": {
+    "revenue": 76559000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-22-000010"
+   },
+   "2020": {
+    "revenue": 58158000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-23-000007"
+   },
+   "2021": {
+    "revenue": 62286000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-24-000010"
+   },
+   "2022": {
+    "revenue": 66608000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000012927-25-000015"
+   },
+   "2023": {
+    "revenue": 77794000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-004357"
+   },
+   "2024": {
+    "revenue": 66517000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-004357"
+   },
+   "2025": {
+    "revenue": 89463000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-004357"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-004357",
+    "filingDate": "2026-01-30",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000162828026004357/ba-20251231.htm"
+   },
+   {
+    "accession": "0000012927-25-000015",
+    "filingDate": "2025-02-03",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292725000015/ba-20241231.htm"
+   },
+   {
+    "accession": "0000012927-24-000010",
+    "filingDate": "2024-01-31",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292724000010/ba-20231231.htm"
+   },
+   {
+    "accession": "0000012927-23-000007",
+    "filingDate": "2023-01-27",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292723000007/ba-20221231.htm"
+   },
+   {
+    "accession": "0000012927-22-000010",
+    "filingDate": "2022-01-31",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292722000010/ba-20211231.htm"
+   },
+   {
+    "accession": "0000012927-21-000011",
+    "filingDate": "2021-02-01",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292721000011/ba-20201231.htm"
+   },
+   {
+    "accession": "0000012927-20-000014",
+    "filingDate": "2020-01-31",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292720000014/a201912dec3110k.htm"
+   },
+   {
+    "accession": "0000012927-19-000010",
+    "filingDate": "2019-02-08",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292719000010/a201812dec3110k.htm"
+   },
+   {
+    "accession": "0000012927-18-000007",
+    "filingDate": "2018-02-12",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292718000007/a201712dec3110k.htm"
+   },
+   {
+    "accession": "0000012927-17-000006",
+    "filingDate": "2017-02-08",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/12927/000001292717000006/a201612dec3110k.htm"
+   }
+  ]
+ }
+}

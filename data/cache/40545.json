@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0000040545-26-000018": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054526000018/ge-20260312.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000040545-26-000008",
+   "result": {
+    "ceoPay": 45616160,
+    "medianPay": 93873,
+    "payRatio": 486,
+    "method": "cross-checked",
+    "employees": 53000,
+    "statedYear": 2025,
+    "excerpt": "en calculated the median employee's total compensation in accordance with SEC rules to use as the basis for the pay ratio. Foreign exchange rates were translated to the U.S. dollar equivalent based on rates as of December 31, 2024. RATIO OF CEO PAY TO MEDIAN EMPLOYEE PAY. Our median employee earned $93,873 in total compensation for 2025. The total 2025 compensation reported for Mr. Culp as reported under SEC Total in the Summary Compensation Table on page 39 was $45,616,160. Based upon total compensation for 2025, we calculated that our ratio of CEO to median employee pay was 486 to 1. Our median employee is employed in United States. * These 34 countries and their headcounts as of the calculation date were: Argentina (2), Australia (112), Belgium (6), Chile (5), Colombia (4), Czech Republ"
+   }
+  },
+  "0001308179-25-000114": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/40545/000130817925000114/ge4356871-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000040545-25-000015",
+   "result": {
+    "ceoPay": 88954586,
+    "medianPay": 69553,
+    "payRatio": 1279,
+    "method": "cross-checked",
+    "employees": 53000,
+    "statedYear": 2024,
+    "excerpt": "n calculated the median employee's total compensation in accordance with SEC rules to use as the basis for the pay ratio. Foreign exchange rates were translated to the U.S. dollar equivalent based on rates as of December 31, 2024. RATIO OF CEO PAY TO MEDIAN EMPLOYEE PAY . Our median employee earned $69,553 in total compensation for 2024. The total 2024 compensation reported for Mr. Culp as reported under SEC Total in the Summary Compensation Table on page 38 was $88,954,586. Based upon total compensation for 2024, we calculated that our ratio of CEO to median employee pay was 1,279 to 1. Our median employee is employed in United States. | | * | | These 34 countries and their headcounts as of the calculation date were: Argentina (2), Australia (112), Belgium (6), Chile (5), Colombia (4), Cz"
+   }
+  },
+  "0001308179-24-000139": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/40545/000130817924000139/lge2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000040545-24-000027",
+   "result": {
+    "ceoPay": 14698285,
+    "medianPay": 73038,
+    "payRatio": 201,
+    "method": "cross-checked",
+    "employees": 125000,
+    "statedYear": 2023,
+    "excerpt": "n calculated the median employee's total compensation in accordance with SEC rules to use as the basis for the pay ratio. Foreign exchange rates were translated to the U.S. dollar equivalent based on rates as of December 31, 2023. RATIO OF CEO PAY TO MEDIAN EMPLOYEE PAY . Our median employee earned $73,038 in total compensation for 2023. The total 2023 compensation reported for Mr. Culp as reported under SEC Total in the Summary Compensation Table on page 38 was $14,698,285. Based upon total compensation for 2023, we calculated that our ratio of CEO to median employee pay was 201 to 1. Our median employee is employed in Italy in our Aerospace business. | * | | These 77 countries and their headcounts as of the calculation date were: Algeria (179), Angola (22), Argentina (140), Australia (46"
+   }
+  },
+  "0001308179-23-000208": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/40545/000130817923000208/ge4121681-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000040545-23-000023",
+   "result": {
+    "ceoPay": 8198024,
+    "medianPay": 49947,
+    "payRatio": 164,
+    "method": "cross-checked",
+    "employees": 181000,
+    "statedYear": 2022,
+    "excerpt": "en calculated the median employee's total compensation in accordance with SEC rules to use as the basis for the pay ratio. Foreign exchange rates were translated to the U.S. dollar equivalent based on rates as of December 31, 2021. RATIO OF CEO PAY TO MEDIAN EMPLOYEE PAY. Our median employee earned $49,947 in total compensation for 2022. The total 2022 compensation reported for Mr. Culp as reported under SEC Total in the Summary Compensation Table on page 42 was $8,198,024. Based upon total compensation for 2022, we calculated that our ratio of CEO to median employee pay was 164 to 1. Our median employee is employed in France in our Power business. | * | | These 76 countries and their headcounts as of the calculation date were: Algeria (321), Angola (23), Argentina (310), Austria (444), Az"
+   }
+  },
+  "0001206774-22-000763": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/40545/000120677422000763/ge3971291-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000040545-22-000008",
+   "result": {
+    "ceoPay": 22663449,
+    "medianPay": 55064,
+    "payRatio": 412,
+    "method": "cross-checked",
+    "employees": 181000,
+    "statedYear": 2021,
+    "excerpt": "en calculated the median employee's total compensation in accordance with SEC rules to use as the basis for the pay ratio. Foreign exchange rates were translated to the U.S. dollar equivalent based on rates as of December 31, 2021. RATIO OF CEO PAY TO MEDIAN EMPLOYEE PAY. Our median employee earned $55,064 in total compensation for 2021. The total 2021 compensation reported for Mr. Culp as reported under \"SEC Total\" in the Summary Compensation Table on page 36 was $22,663,449. Based upon total compensation for 2021, we calculated that our ratio of CEO to median employee pay was 412 to 1. Our median employee is employed in France in our Power business. | * | | These 76 countries and their headcounts as of the calculation date were: Algeria (321), Angola (23), Argentina (310), Austria (444),"
+   }
+  },
+  "0001206774-21-000774": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/40545/000120677421000774/ge3816561-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000040545-21-000011",
+   "result": {
+    "ceoPay": 73192032,
+    "medianPay": 53928,
+    "payRatio": 1357,
+    "method": "cross-checked",
+    "employees": 181000,
+    "statedYear": 2020,
+    "excerpt": "ement. This report is provided by the following independent directors, who comprise the committee: | Thomas Horton (Chairman) | | Edward Garden | | Sébastien Bazin | | Paula Rosput Reynolds | | Francisco D'Souza | | | CEO Pay Ratio RATIO OF CEO PAY TO MEDIAN EMPLOYEE PAY. Our median employee earned $53,928 in total compensation for 2020. The total 2020 compensation reported for Mr. Culp as reported under \"SEC Total\" in the Summary Compensation Table on page 39 was $73,192,032. This includes the full grant date fair value of his Leadership Performance Share Award, which does not vest until performance and service requirements are met. Based upon total compensation for 2020, we calculated that our ratio of CEO to median employee pay was 1,357 to 1. Our median employee is employed in the Unit"
+   }
+  },
+  "0001206774-20-000797": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/40545/000120677420000797/ge3662321-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000040545-20-000009",
+   "result": {
+    "ceoPay": 24553788,
+    "medianPay": 50471,
+    "payRatio": 486,
+    "method": "cross-checked",
+    "employees": 211000,
+    "statedYear": 2019,
+    "excerpt": "nt directors, who comprise the committee: | Thomas Horton (Chairman) | | | | Edward Garden | | Sébastien Bazin | | | | Paula Rosput Reynolds | | Francisco D'Souza | | | | | GE 2020 PROXY STATEMENT 53 Table of Contents CEO Pay Ratio RATIO OF CEO PAY TO MEDIAN EMPLOYEE PAY. Our median employee earned $50,471 in total compensation for 2019. Based upon the total 2019 compensation of $24,553,788 reported for Mr. Culp as reported under \"SEC Total\" in the Summary Compensation Table on page 38, we calculate our ratio of CEO to median employee pay was 486 to 1. Our median employee is employed in the United States in our Healthcare business. Year-over-year changes in our median employee pay are partially attributable to changes in our employee mix, including the deconsolidation of Baker Hughes Compa"
+   }
+  },
+  "0001206774-19-000903": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/40545/000120677419000903/ge3496121-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000040545-19-000014",
+   "result": {
+    "ceoPay": 20086327,
+    "medianPay": 58204,
+    "payRatio": 345,
+    "method": "cross-checked",
+    "employees": 264000,
+    "statedYear": 2018,
+    "excerpt": "independent directors, who comprise the committee: | Thomas Horton (Chairman) | | Edward Garden | | W. Geoffrey Beattie | | Risa Lavizzo-Mourey | | Francisco D'Souza | | | 52 GE 2019 Proxy Statement Table of Contents CEO Pay Ratio RATIO OF CEO PAY TO MEDIAN EMPLOYEE PAY. Our median employee earned $58,204 in total compensation for 2018. Based upon the total 2018 compensation reported for Mr. Culp as reported under \"SEC Total\" in the Summary Compensation Table on page 38, and annualizing his compensation where practicable per SEC rules, we calculate Mr. Culp's total annualized compensation as $20,086,327. Based upon this amount, our ratio of CEO to median employee pay was 345 to 1. Our median employee is employed in Louisiana, United States at Baker Hughes, a GE company. HOW WE IDENTIFIED"
+   }
+  },
+  "0001206774-18-000752": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/40545/000120677418000752/ge3334621-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000040545-18-000014",
+   "result": {
+    "ceoPay": 9000603,
+    "medianPay": 57211,
+    "payRatio": 157,
+    "method": "cross-checked",
+    "employees": 289000,
+    "statedYear": 2017,
+    "excerpt": "provided by the following independent directors, who comprise the committee: | | | | | John J. Brennan (Chairman) | | Andrea Jung | | Marijn E. Dekkers | | Rochelle B. Lazarus | | Edward P. Garden | | James E. Rohr | CEO Pay Ratio RATIO OF CEO PAY TO MEDIAN EMPLOYEE PAY . Our median employee earned $57,211 in total compensation for 2017. Based upon the total 2017 compensation reported for Mr. Flannery of $9,000,603, as reported under \"SEC Total\" in the Summary Compensation Table on page 37, our ratio of CEO to median employee pay was 157 to 1. Our median employee is employed in Germany in our Healthcare business. HOW WE IDENTIFIED THE MEDIAN EMPLOYEE. To identify the median GE employee, we identified our total employee population as of December 31, 2017, and, in accordance with SEC rules,"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 169964000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-12-000016"
+   },
+   "2008": {
+    "revenue": 179769000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-13-000036"
+   },
+   "2009": {
+    "revenue": 154396000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-13-000036"
+   },
+   "2010": {
+    "revenue": 148875000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-15-000030"
+   },
+   "2011": {
+    "revenue": 110062000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-16-000145"
+   },
+   "2012": {
+    "revenue": 112588000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-17-000010"
+   },
+   "2013": {
+    "revenue": 113245000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-17-000010"
+   },
+   "2014": {
+    "revenue": 117184000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-17-000010"
+   },
+   "2015": {
+    "revenue": 117386000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-18-000014"
+   },
+   "2016": {
+    "revenue": 119469000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-19-000014"
+   },
+   "2017": {
+    "revenue": 113192000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000040545-18-000014"
+   },
+   "2018": {
+    "revenue": 113543000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000040545-19-000014"
+   },
+   "2019": {
+    "revenue": 90221000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-22-000008"
+   },
+   "2020": {
+    "revenue": 75833000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-23-000023"
+   },
+   "2021": {
+    "revenue": 56469000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-24-000027"
+   },
+   "2022": {
+    "revenue": 29139000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-25-000015"
+   },
+   "2023": {
+    "revenue": 35348000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-26-000008"
+   },
+   "2024": {
+    "revenue": 38702000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-26-000008"
+   },
+   "2025": {
+    "revenue": 45855000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000040545-26-000008"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000040545-26-000008",
+    "filingDate": "2026-01-29",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054526000008/ge-20251231.htm"
+   },
+   {
+    "accession": "0000040545-25-000015",
+    "filingDate": "2025-02-03",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054525000015/ge-20241231.htm"
+   },
+   {
+    "accession": "0000040545-24-000027",
+    "filingDate": "2024-02-02",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054524000027/ge-20231231.htm"
+   },
+   {
+    "accession": "0000040545-23-000023",
+    "filingDate": "2023-02-10",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054523000023/ge-20221231.htm"
+   },
+   {
+    "accession": "0000040545-22-000008",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054522000008/ge-20211231.htm"
+   },
+   {
+    "accession": "0000040545-21-000011",
+    "filingDate": "2021-02-12",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054521000011/ge-20201231.htm"
+   },
+   {
+    "accession": "0000040545-20-000009",
+    "filingDate": "2020-02-24",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054520000009/ge10-k2019.htm"
+   },
+   {
+    "accession": "0000040545-19-000014",
+    "filingDate": "2019-02-26",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054519000014/ge10-k2018.htm"
+   },
+   {
+    "accession": "0000040545-18-000014",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054518000014/ge10-k2017.htm"
+   },
+   {
+    "accession": "0000040545-17-000010",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/40545/000004054517000010/ge10k2016.htm"
+   }
+  ]
+ }
+}

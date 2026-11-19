@@ -1,0 +1,340 @@
+{
+ "proxies": {
+  "0001609711-26-000030": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000030/gddy-20260423.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001609711-26-000010",
+   "result": {
+    "ceoPay": 23017010,
+    "medianPay": 111501,
+    "payRatio": 206,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "tween the total annual compensation of our CEO, Mr. Bhutani, and the median of total annual compensation of all employees (other than Mr. Bhutani). For our last completed year ended December 31, 2025: • The median total annual compensation of all employees (other than Mr. Bhutani) was identified as $111,501 using the methodology described below. • Mr. Bhutani's total annual compensation, as reported in the Summary Compensation Table included in this Proxy Statement, was $23,017,010. • Based on the above, for 2025, the ratio of Mr. Bhutani's total annual compensation to the median of the total annual compensation of all employees was 206 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K and is based upon our reasonable judgmen"
+   }
+  },
+  "0001609711-25-000070": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971125000070/gddy-20250424.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001609711-25-000023",
+   "result": {
+    "ceoPay": 19465233,
+    "medianPay": 114302,
+    "payRatio": 170,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "tween the total annual compensation of our CEO, Mr. Bhutani, and the median of total annual compensation of all employees (other than Mr. Bhutani). For our last completed year ended December 31, 2024: • The median total annual compensation of all employees (other than Mr. Bhutani) was identified as $114,302 using the methodology described below. • Mr. Bhutani's total annual compensation, as reported in the Summary Compensation Table included in this Proxy Statement, was $19,465,233. • Based on the above, for 2024, the ratio of Mr. Bhutani's total annual compensation to the median of the total annual compensation of all employees was 170 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K and is based upon our reasonable judgmen"
+   }
+  },
+  "0001609711-24-000063": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971124000063/gddy-20240425.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001609711-24-000022",
+   "result": {
+    "ceoPay": 15877217,
+    "medianPay": 106590,
+    "payRatio": 149,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "tween the total annual compensation of our CEO, Mr. Bhutani, and the median of total annual compensation of all employees (other than Mr. Bhutani). For our last completed year ended December 31, 2023: • The median total annual compensation of all employees (other than Mr. Bhutani) was identified as $106,590 using the methodology described below. • Mr. Bhutani's total annual compensation, as reported in the Summary Compensation Table included in this Proxy Statement, was $15,877,217. • Based on the above, for 2023, the ratio of Mr. Bhutani's total annual compensation to the median of the total annual compensation of all employees was 149 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K and is based upon our reasonable judgmen"
+   }
+  },
+  "0001609711-23-000068": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971123000068/gddydef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001609711-23-000031",
+   "result": {
+    "ceoPay": 18645890,
+    "medianPay": 83577,
+    "payRatio": 223,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "tween the total annual compensation of our CEO, Mr. Bhutani, and the median of total annual compensation of all employees (other than Mr. Bhutani). For our last completed year ended December 31, 2022: • The median total annual compensation of all employees (other than Mr. Bhutani) was identified as $83,577 using the methodology described below. • Mr. Bhutani's total annual compensation, as reported in the Summary Compensation Table included in this Proxy Statement, was $18,645,890. • Based on the above, for 2022, the ratio of Mr. Bhutani's total annual compensation to the median of the total annual compensation of all employees was 223 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Act of 1933, as amen"
+   }
+  },
+  "0001609711-22-000052": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971122000052/gddydefinitiveproxyapril20.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001609711-22-000024",
+   "result": {
+    "ceoPay": 15290590,
+    "medianPay": 82083,
+    "payRatio": 186,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "vide information regarding the relationship between the total annual compensation of our CEO, Mr. Bhutani, and the total annual compensation of our median employee (other than Mr. Bhutani). For our last completed year ended December 31, 2021: • The median total annual compensation was identified as $82,083 using the methodology described below. • Mr. Bhutani's total annual compensation, as reported in the Summary Compensation Table included in this Proxy Statement, was $15,290,590. • Based on the above, for 2021, the ratio of Mr. Bhutani's total annual compensation to the median of the total annual compensation of all employees was 186 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Act of 1933, as amen"
+   }
+  },
+  "0001609711-21-000047": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971121000047/gddy12312020def14aproxy.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001609711-21-000017",
+   "result": {
+    "ceoPay": 3670928,
+    "medianPay": 77603,
+    "payRatio": 47,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "utani, and the total annual compensation of our median employee (other than Mr. Bhutani). For our last completed fiscal year, which ended December 31, 2020: • The median of the total annual compensation of all of our employees (other than Mr. Bhutani and including our consolidated subsidiaries) was $77,603. • Mr. Bhutani's total annual compensation, as reported in the Summary Compensation Table included in this Proxy Statement, was $3,670,928. • Based on the above, for fiscal 2020, the ratio of Mr. Bhutani's total annual compensation to the median of the total annual compensation of all employees was 47 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Act of 1933, as amended, and is based upon our reason"
+   }
+  },
+  "0001609711-20-000050": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971120000050/gddy12312019def14aproxy.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001609711-20-000022",
+   "result": {
+    "ceoPay": 14310581,
+    "medianPay": 59369,
+    "payRatio": 241,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "utani, and the total annual compensation of our median employee (other than Mr. Bhutani). For our last completed fiscal year, which ended December 31, 2019: • The median of the total annual compensation of all of our employees (other than Mr. Bhutani and including our consolidated subsidiaries) was $59,369. • Mr. Bhutani's total annual compensation, as reported in the Summary Compensation Table included in this Proxy Statement, was $14,310,581. • Based on the above, for fiscal 2019, the ratio of Mr. Bhutani's total annual compensation to the median of the total annual compensation of all employees was 241 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Act of 1933, as amended, and is based upon our reas"
+   }
+  },
+  "0001609711-19-000079": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971119000079/gddy12312018def14aproxy.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001609711-19-000012",
+   "result": {
+    "ceoPay": 22520839,
+    "medianPay": 65078,
+    "payRatio": 346,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "e total annual compensation of our median employee (other than Mr. Wagner). For our last completed fiscal year, which ended December 31, 2018 : | | | | | • | | The median of the total annual compensation of all of our employees (other than Mr. Wagner and including our consolidated subsidiaries) was $65,078. | | | | | | • | | Mr. Wagner's total annual compensation, as reported in the Summary Compensation Table included in this Proxy Statement, was $22,520,839. | | | | | | • | | Based on the above, for fiscal 2018, the ratio of Mr. Wagner's total annual compensation to the median of the total annual compensation of all employees was 346 to 1. | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Act of 1933, as ame"
+   }
+  },
+  "0001609711-18-000114": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971118000114/gddy12312017def14aproxy.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001609711-18-000035",
+   "result": {
+    "ceoPay": 2005759,
+    "medianPay": 65391,
+    "payRatio": 31,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "he total annual compensation of our median employee (other than Mr. Irving). For our last completed fiscal year, which ended December 31, 2017 : | | | | | • | | The median of the total annual compensation of all employees (other than Mr. Irving) of ours (including our consolidated subsidiaries) was $65,391. | | | | | | • | | Mr. Irving's total annual compensation, as reported in the Summary Compensation Table included in this Proxy Statement, was $2,005,759. | | | | | | • | | Based on the above, for fiscal 2017, the ratio of Mr. Irving's total annual compensation to the median of the total annual compensation of all employees was 31 to 1. | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Act of 1933, as amend"
+   }
+  }
+ },
+ "tenKs": {
+  "0001609711-18-000035": {
+   "parserVersion": 1,
+   "employees": 5990
+  },
+  "0001609711-19-000012": {
+   "parserVersion": 1,
+   "employees": 6821
+  },
+  "0001609711-20-000022": {
+   "parserVersion": 1,
+   "employees": 7024
+  },
+  "0001609711-21-000017": {
+   "parserVersion": 1,
+   "employees": 6621
+  },
+  "0001609711-22-000024": {
+   "parserVersion": 1,
+   "employees": 6611
+  },
+  "0001609711-23-000031": {
+   "parserVersion": 1,
+   "employees": 6910
+  },
+  "0001609711-24-000022": {
+   "parserVersion": 1,
+   "employees": 6159
+  },
+  "0001609711-25-000023": {
+   "parserVersion": 1,
+   "employees": 5518
+  },
+  "0001609711-26-000010": {
+   "parserVersion": 1,
+   "employees": 5845
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2013": {
+    "revenue": 1130800000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001609711-16-000048"
+   },
+   "2014": {
+    "revenue": 1387300000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001609711-17-000042"
+   },
+   "2015": {
+    "revenue": 1607300000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueServicesNet",
+    "accession": "0001609711-18-000035"
+   },
+   "2016": {
+    "revenue": 1847900000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001609711-19-000012"
+   },
+   "2017": {
+    "revenue": 2231900000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001609711-20-000022"
+   },
+   "2018": {
+    "revenue": 2660100000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001609711-21-000017"
+   },
+   "2019": {
+    "revenue": 2988100000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001609711-22-000024"
+   },
+   "2020": {
+    "revenue": 3316700000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001609711-23-000031"
+   },
+   "2021": {
+    "revenue": 3815700000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001609711-24-000022"
+   },
+   "2022": {
+    "revenue": 4091300000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001609711-25-000023"
+   },
+   "2023": {
+    "revenue": 4254100000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001609711-26-000010"
+   },
+   "2024": {
+    "revenue": 4573200000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001609711-26-000010"
+   },
+   "2025": {
+    "revenue": 4951100000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001609711-26-000010"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 15290590,
+   "2022": 18645890,
+   "2023": 15877217,
+   "2024": 19465233,
+   "2025": 23017010
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001609711-26-000010",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000010/gddy-20251231.htm"
+   },
+   {
+    "accession": "0001609711-25-000023",
+    "filingDate": "2025-02-20",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971125000023/gddy-20241231.htm"
+   },
+   {
+    "accession": "0001609711-24-000022",
+    "filingDate": "2024-02-29",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971124000022/gddy-20231231.htm"
+   },
+   {
+    "accession": "0001609711-23-000031",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971123000031/gddy-20221231.htm"
+   },
+   {
+    "accession": "0001609711-22-000024",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971122000024/gddy-20211231.htm"
+   },
+   {
+    "accession": "0001609711-21-000017",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971121000017/gddy-20201231.htm"
+   },
+   {
+    "accession": "0001609711-20-000022",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971120000022/gddy-20191231.htm"
+   },
+   {
+    "accession": "0001609711-19-000012",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971119000012/a201810-kx10kdocument.htm"
+   },
+   {
+    "accession": "0001609711-18-000035",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971118000035/a12312017-10k.htm"
+   },
+   {
+    "accession": "0001609711-17-000042",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971117000042/gddy-12312016x10k.htm"
+   }
+  ]
+ }
+}

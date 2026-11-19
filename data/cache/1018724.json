@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001104659-26-041026": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465926041026/tm261382-1_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001018724-26-000004",
+   "result": {
+    "ceoPay": 2069861,
+    "medianPay": 40206,
+    "payRatio": 51,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "national). We will have technicians available to assist you. 68 TABLE OF CONTENTS OTHER INFORMATION Pay Ratio Disclosure The 2025 annual total compensation of our median compensated employee (identified from all full- and part-time permanent and temporary employees worldwide, excluding our CEO) was $40,206; Mr. Jassy's 2025 annual total compensation as reported under SEC rules was $2,069,861, resulting in a ratio of those amounts of 1-to-51. For 2025, the median annual total compensation for all U.S. full-time Amazon employees was $53,211, up from $47,990 as reported for 2024, reflecting average pay for U.S. fulfillment and transportation employees of more than $23 per hour, more than triple the federal minimum wage. In addition, our average total compensation for those roles is more than"
+   }
+  },
+  "0001104659-25-033442": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465925033442/tm252295-1_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001018724-25-000004",
+   "result": {
+    "ceoPay": 1596889,
+    "medianPay": 37181,
+    "payRatio": 43,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ve technicians available to assist you. 2025 Proxy Statement 87 TABLE OF CONTENTS OTHER INFORMATION Pay Ratio Disclosure The 2024 annual total compensation of our median compensated employee (identified from all full- and part-time permanent and temporary employees worldwide, excluding our CEO) was $37,181; Mr. Jassy's 2024 annual total compensation as reported under SEC rules was $1,596,889, resulting in a ratio of those amounts of 1-to-43. For 2024, the median annual total compensation for all U.S. full-time Amazon employees was $47,990, up from $45,613 as reported for 2023, reflecting average base wage for front-line employees across our customer fulfillment and transportation networks of more than $22 per hour, more than triple the federal minimum wage. In addition, our average total c"
+   }
+  },
+  "0001104659-24-045910": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465924045910/tm2329302d4_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001018724-24-000008",
+   "result": {
+    "ceoPay": 1357764,
+    "medianPay": 36274,
+    "payRatio": 37,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "e technicians available to assist you. 2024 Proxy Statement 109 TABLE OF CONTENTS OTHER INFORMATION Pay Ratio Disclosure The 2023 annual total compensation of our median compensated employee (identified from all full- and part-time permanent and temporary employees worldwide, excluding our CEO) was $36,274; Mr. Jassy's 2023 annual total compensation as reported under SEC rules was $1,357,764, resulting in a ratio of those amounts of 1-to-37. For 2023, the median annual total compensation for all U.S. full-time Amazon employees was $45,613, up from $41,762 as reported for 2022, reflecting average pay for employees in customer fulfillment and transportation of more than $20.50 per hour. In addition to competitive compensation, we provide numerous benefits to our employees, including comprehe"
+   }
+  },
+  "0001104659-23-044708": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465923044708/tm233694d2_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001018724-23-000004",
+   "result": {
+    "ceoPay": 1298723,
+    "medianPay": 34195,
+    "payRatio": 38,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ational). We will have technicians available to assist you. 114 TABLE OF CONTENTS OTHER INFORMATION Pay Ratio Disclosure The 2022 annual total compensation of our median compensated employee (identified from all full- and part-time permanent and temporary employees worldwide, excluding our CEO) was $34,195; Mr. Jassy's 2022 annual total compensation as reported under SEC rules was $1,298,723, resulting in a ratio of those amounts of 1-to-38. For 2022, the median annual total compensation for all U.S. full-time Amazon employees was $41,762, up from $39,677 as reported for 2021, reflecting average pay for front-line employees in customer fulfillment and transportation of more than $19 per hour. In addition to competitive compensation, we provide numerous benefits to our employees, including"
+   }
+  },
+  "0001104659-22-045572": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465922045572/tm223357-5_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001018724-22-000005",
+   "result": {
+    "ceoPay": 211933520,
+    "medianPay": 32855,
+    "payRatio": 6474,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "e technicians available to assist you. 2022 Proxy Statement 107 TABLE OF CONTENTS OTHER INFORMATION Pay Ratio Disclosure The 2021 annual total compensation of our median compensated employee (identified from all full- and part-time permanent and temporary employees worldwide, excluding our CEO) was $32,855; Mr. Jassy's 2021 annual total compensation as reported under SEC rules was $212,701,169-nearly all of which is a restricted stock unit award granted in connection with his promotion to President and CEO, which vests over 10 years and has a fair market value at grant of $211,933,520-resulting in a ratio of those amounts of 1-to-6,474. For 2021, the median annual total compensation for all U.S. full-time Amazon employees was $39,677, up from $37,930 as reported for 2020, reflecting an ave"
+   }
+  },
+  "0001104659-21-050333": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000110465921050333/tm2035374-1_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001018724-21-000004",
+   "result": {
+    "ceoPay": 1681840,
+    "medianPay": 29007,
+    "payRatio": 58,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "mon stock were reserved for issuance under the 1999 Plan. 2021 Proxy Statement 73 TABLE OF CONTENTS PAY RATIO DISCLOSURE The 2020 annual total compensation of our median compensated employee (identified from all full- and part-time permanent and temporary employees worldwide, excluding our CEO) was $29,007; Mr. Bezos' 2020 annual total compensation was $1,681,840, and the ratio of those amounts is 1-to-58. For 2020, the median annual total compensation for all U.S. full-time Amazon employees was $37,930, up from $36,640 as reported for 2019, reflecting Amazon's $15-an-hour starting pay as well as special bonuses and incentives awarded to our teams in 2020 in recognition of their role serving communities during the COVID-19 pandemic. In addition to leading compensation, we provide numerous"
+   }
+  },
+  "0001193125-20-108422": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312520108422/d897711ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001018724-20-000004",
+   "result": {
+    "ceoPay": 1681840,
+    "medianPay": 28848,
+    "payRatio": 58,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "of 40 million shares of common stock were reserved for issuance under the 1999 Plan. | | | | | | | | | | | | | | | | | | | | | 64 | | | | | | | | | | | | | Table of Contents PAY RATIO DISCLOSURE The 2019 annual total compensation of our median compensated employee globally other than Mr. Bezos was $28,848; Mr. Bezos 2019 annual total compensation was $1,681,840, and the ratio of those amounts is 1-to-58. For 2019, the median annual total compensation for all U.S. full-time Amazon employees was $36,640, up from $35,096 as reported for 2018, reflecting the effects of a full calendar year of our $15 per hour minimum wage in the U.S. that went into effect on November 1, 2018. We provide numerous benefits to our employees, including comprehensive medical benefits from day one, 401(k) matching"
+   }
+  },
+  "0001193125-19-102995": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312519102995/d667736ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001018724-19-000004",
+   "result": {
+    "ceoPay": 1681840,
+    "medianPay": 28836,
+    "payRatio": 58,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "certain officers, subject to specified limitations on the size and terms of such grants. A maximum of 40 million shares of common stock were reserved for issuance under the 1999 Plan. PAY RATIO DISCLOSURE The 2018 annual total compensation of our median compensated employee other than Mr. Bezos was $28,836; Mr. Bezos 2018 annual total compensation was $1,681,840, and the ratio of those amounts is 1-to-58. 50 For 2018, the median annual total compensation for all U.S. full-time Amazon employees was $35,096, which reflects two months of our $15 per hour minimum wage in the U.S. that went into effect on November 1, 2018. We provide numerous benefits to our employees, including comprehensive medical benefits from day one, 401(k) matching contributions, generous parental leave for both parents"
+   }
+  },
+  "0001193125-18-121077": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1018724/000119312518121077/d514607ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001018724-18-000005",
+   "result": {
+    "ceoPay": 1681840,
+    "medianPay": 28446,
+    "payRatio": 59,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "tain officers, subject to specified limitations on the size and terms of such grants. A maximum of 40 million shares of common stock were reserved for issuance under the 1999 Plan. 29 PAY RATIO DISCLOSURE The 2017 annual total compensation of our median compensated employee other than Mr. Bezos was $28,446; Mr. Bezos 2017 annual total compensation was $1,681,840, and the ratio of those amounts is 1-to-59. For purposes of identifying the median compensated employee, we took into account salary, bonus, and grant date fair value of RSUs granted during the year for all our employees as of December 31, 2017. We annualized this compensation for employees who did not work the entire year, except for employees designated as seasonal or temporary. CERTAIN RELATIONSHIPS AND RELATED PERSON TRANSACTI"
+   }
+  }
+ },
+ "tenKs": {
+  "0001018724-18-000005": {
+   "parserVersion": 1,
+   "employees": 566000
+  },
+  "0001018724-19-000004": {
+   "parserVersion": 1,
+   "employees": 647500
+  },
+  "0001018724-20-000004": {
+   "parserVersion": 1,
+   "employees": 798000
+  },
+  "0001018724-21-000004": {
+   "parserVersion": 1,
+   "employees": 1298000
+  },
+  "0001018724-22-000005": {
+   "parserVersion": 1,
+   "employees": 1608000
+  },
+  "0001018724-23-000004": {
+   "parserVersion": 1,
+   "employees": 1541000
+  },
+  "0001018724-24-000008": {
+   "parserVersion": 1,
+   "employees": 1525000
+  },
+  "0001018724-25-000004": {
+   "parserVersion": 1,
+   "employees": 1556000
+  },
+  "0001018724-26-000004": {
+   "parserVersion": 1,
+   "employees": 1576000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 14835000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-016098"
+   },
+   "2008": {
+    "revenue": 19166000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-016253"
+   },
+   "2009": {
+    "revenue": 24509000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-032846"
+   },
+   "2010": {
+    "revenue": 34204000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-028520"
+   },
+   "2011": {
+    "revenue": 48077000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001018724-14-000006"
+   },
+   "2012": {
+    "revenue": 61093000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001018724-15-000006"
+   },
+   "2013": {
+    "revenue": 74452000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001018724-16-000172"
+   },
+   "2014": {
+    "revenue": 88988000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001018724-17-000011"
+   },
+   "2015": {
+    "revenue": 107006000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001018724-18-000005"
+   },
+   "2016": {
+    "revenue": 135987000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001018724-19-000004"
+   },
+   "2017": {
+    "revenue": 177866000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001018724-20-000004"
+   },
+   "2018": {
+    "revenue": 232887000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001018724-21-000004"
+   },
+   "2019": {
+    "revenue": 280522000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001018724-22-000005"
+   },
+   "2020": {
+    "revenue": 386064000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001018724-23-000004"
+   },
+   "2021": {
+    "revenue": 469822000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001018724-24-000008"
+   },
+   "2022": {
+    "revenue": 513983000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001018724-25-000004"
+   },
+   "2023": {
+    "revenue": 574785000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001018724-26-000004"
+   },
+   "2024": {
+    "revenue": 637959000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001018724-26-000004"
+   },
+   "2025": {
+    "revenue": 716924000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001018724-26-000004"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001018724-26-000004",
+    "filingDate": "2026-02-06",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm"
+   },
+   {
+    "accession": "0001018724-25-000004",
+    "filingDate": "2025-02-07",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000004/amzn-20241231.htm"
+   },
+   {
+    "accession": "0001018724-24-000008",
+    "filingDate": "2024-02-02",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872424000008/amzn-20231231.htm"
+   },
+   {
+    "accession": "0001018724-23-000004",
+    "filingDate": "2023-02-03",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872423000004/amzn-20221231.htm"
+   },
+   {
+    "accession": "0001018724-22-000005",
+    "filingDate": "2022-02-04",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872422000005/amzn-20211231.htm"
+   },
+   {
+    "accession": "0001018724-21-000004",
+    "filingDate": "2021-02-03",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872421000004/amzn-20201231.htm"
+   },
+   {
+    "accession": "0001018724-20-000004",
+    "filingDate": "2020-01-31",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872420000004/amzn-20191231x10k.htm"
+   },
+   {
+    "accession": "0001018724-19-000004",
+    "filingDate": "2019-02-01",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872419000004/amzn-20181231x10k.htm"
+   },
+   {
+    "accession": "0001018724-18-000005",
+    "filingDate": "2018-02-02",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872418000005/amzn-20171231x10k.htm"
+   },
+   {
+    "accession": "0001018724-17-000011",
+    "filingDate": "2017-02-10",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872417000011/amzn-20161231x10k.htm"
+   }
+  ]
+ }
+}

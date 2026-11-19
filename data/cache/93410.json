@@ -1,0 +1,339 @@
+{
+ "proxies": {
+  "0001193125-26-145617": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312526145617/d77994ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000093410-26-000078",
+   "result": {
+    "ceoPay": 26828240,
+    "medianPay": 152970,
+    "payRatio": 175,
+    "method": "cross-checked",
+    "employees": 41171,
+    "statedYear": 2025,
+    "excerpt": "DCP in the last three years were 12,618 shares in 2025, 11,100 shares in 2024, and 10,936 shares in 2023. | Chevron Corporation 2026 Proxy Statement 85 Table of Contents CEO pay ratio The ratio of the annual total compensation for the CEO to the annual total compensation of our median employee was 175:1 for 2025, calculated by dividing our CEO 2025 annual total compensation of $26,828,240 by the 2025 annual total compensation of our median employee of $152,970. 1 The SEC's rules for identifying the median employee and calculating the pay ratio based on that employee's annual total compensation allow companies to choose from a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions that reflect their employee populations and compensation prac"
+   }
+  },
+  "0001193125-25-076803": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312525076803/d891532ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000093410-25-000009",
+   "result": {
+    "ceoPay": 32716940,
+    "medianPay": 163744,
+    "payRatio": 200,
+    "method": "cross-checked",
+    "employees": 42116,
+    "statedYear": 2024,
+    "excerpt": "DCP in the last three years were 11,100 shares in 2024, 10,936 shares in 2023, and 16,343 shares in 2022. | Chevron Corporation 2025 Proxy Statement 96 Table of Contents CEO pay ratio The ratio of the annual total compensation for the CEO to the annual total compensation of our median employee was 200:1 for 2024, calculated by dividing our CEO 2024 annual total compensation of $32,716,940 by the 2024 annual total compensation of our median employee of $163,744. 1 The SEC's rules for identifying the median employee and calculating the pay ratio based on that employee's annual total compensation allow companies to choose from a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions that reflect their employee populations and compensation prac"
+   }
+  },
+  "0001193125-24-091327": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312524091327/d557504ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000093410-24-000013",
+   "result": {
+    "ceoPay": 26489856,
+    "medianPay": 175673,
+    "payRatio": 151,
+    "method": "cross-checked",
+    "employees": 43421,
+    "statedYear": 2023,
+    "excerpt": "DCP in the last three years were 10,936 shares in 2023, 16,343 shares in 2022, and 28,874 shares in 2021. | Chevron Corporation 2024 Proxy Statement 96 Table of Contents CEO pay ratio The ratio of the annual total compensation for the CEO to the annual total compensation of our median employee was 151:1 for 2023, calculated by dividing our CEO 2023 annual total compensation of $26,489,856 by the 2023 annual total compensation of our median employee of $175,673. 1 The SEC's rules for identifying the median employee and calculating the pay ratio based on that employee's annual total compensation allow companies to choose from a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions that reflect their employee populations and compensation prac"
+   }
+  },
+  "0001193125-23-099292": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312523099292/d433226ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000093410-23-000009",
+   "result": {
+    "ceoPay": 23573925,
+    "medianPay": 161488,
+    "payRatio": 146,
+    "method": "cross-checked",
+    "employees": 40396,
+    "statedYear": 2022,
+    "excerpt": "DCP in the last three years were 16,343 shares in 2022, 28,874 shares in 2021, and 31,860 shares in 2020. | Chevron Corporation 2023 Proxy Statement 91 Table of Contents CEO pay ratio The ratio of the annual total compensation for the CEO to the annual total compensation of our median employee was 146:1 for 2022, calculated by dividing our CEO 2022 annual total compensation of $23,573,925 by the 2022 annual total compensation of our median employee of $161,488. 1 The SEC's rules for identifying the median employee and calculating the pay ratio based on that employee's annual total compensation allow companies to choose from a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions that reflect their employee populations and compensation prac"
+   }
+  },
+  "0001193125-22-098301": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312522098301/d292137ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000093410-22-000019",
+   "result": {
+    "ceoPay": 22610285,
+    "medianPay": 183531,
+    "payRatio": 123,
+    "method": "cross-checked",
+    "employees": 38744,
+    "statedYear": 2021,
+    "excerpt": "CP in the last three years were 28,874 shares in 2021, 31,860 shares in 2020, and 46,976 shares in 2019. | Chevron Corporation  2022 Proxy Statement 76 Table of Contents CEO pay ratio The ratio of the annual total compensation for the CEO to the annual total compensation of our median employee was 123:1 for 2021, calculated by dividing our CEO 2021 annual total compensation of $22,610,285 by the 2021 annual total compensation of our median employee of $183,531 1 . The SECs rules for identifying the median employee and calculating the pay ratio based on that employees annual total compensation allow companies to choose from a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions that reflect their employee populations and compensation pra"
+   }
+  },
+  "0001193125-21-109793": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312521109793/d74377ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000093410-21-000009",
+   "result": {
+    "ceoPay": 29016686,
+    "medianPay": 157572,
+    "payRatio": 184,
+    "method": "cross-checked",
+    "employees": 44134,
+    "statedYear": 2020,
+    "excerpt": "res in 2020, 46,976 shares in 2019, and 27,530 shares in 2018. | | | | | | | | 74 | | | | Chevron Corporation2021 Proxy Statement | Table of Contents | | | CEO pay ratio | The ratio of the annual total compensation for the CEO to the annual total compensation of our median compensated employee was 184:1 for 2020, calculated by dividing our CEO 2020 annual total compensation of $29,016,686 by the 2020 annual total compensation of our median compensated employee of $157,572. 1 The SECs rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation allow companies to choose from a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions that reflect their employee populatio"
+   }
+  },
+  "0001193125-20-100407": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312520100407/d838093ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000093410-20-000010",
+   "result": {
+    "ceoPay": 33070662,
+    "medianPay": 140063,
+    "payRatio": 236,
+    "method": "cross-checked",
+    "employees": 50789,
+    "statedYear": 2019,
+    "excerpt": ",976 shares in 2019, 27,530 shares in 2018, and 30,658 shares in 2017. | | | | | | | | Chevron Corporation2020 Proxy Statement | | | | 67 | Table of Contents CEO pay ratio The ratio of the annual total compensation for the CEO to the annual total compensation of our median compensated employee was 236:1 for 2019, calculated by dividing our CEO 2019 annual total compensation of $33,070,662 by the 2019 annual total compensation of our median compensated employee of $140,063. 1 The SECs rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation allow companies to choose from a variety of methodologies, to apply certain exclusions, and to make reasonable estimates and assumptions that reflect their employee populatio"
+   }
+  },
+  "0001193125-19-106207": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312519106207/d581752ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000093410-19-000008",
+   "result": {
+    "ceoPay": 21619229,
+    "medianPay": 142362,
+    "payRatio": 152,
+    "method": "cross-checked",
+    "employees": 50789,
+    "statedYear": 2018,
+    "excerpt": "7,530 shares in 2018, 30,658 shares in 2017 and 44,505 shares in 2016. | | | | | | | | Chevron Corporation2019 Proxy Statement | | | | 67 | Table of Contents CEO pay ratio The ratio of the annual total compensation for the CEO to the annual total compensation of our median compensated employee was 152:1 for 2018, calculated by dividing our CEO 2018 annual total compensation of $21,619,229 1 by the 2018 annual total compensation of our median compensated employee of $142,362 2 . The SECs rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation allow companies to choose from a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their employee populat"
+   }
+  },
+  "0001193125-18-112804": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/93410/000119312518112804/d475585ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000093410-18-000010",
+   "result": {
+    "ceoPay": 24781568,
+    "medianPay": 137849,
+    "payRatio": 180,
+    "method": "cross-checked",
+    "employees": 50789,
+    "statedYear": 2017,
+    "excerpt": "44,505 shares in 2016, and 32,745 shares in 2015. | | | | | | | | Chevron Corporation2018 Proxy Statement | | | | 61 | Table of Contents | | | CEO Pay Ratio | The ratio of the annual total compensation of our CEO (Mr. Watson) to the annual total compensation of our median compensated employee was 180:1 for 2017, calculated by dividing our CEOs 2017 annual total compensation of $24,781,568 1 by the 2017 annual total compensation of our median compensated employee of $137,849 2 . The SECs rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation allow companies to choose from a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their employee popul"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 220904000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-10-016846"
+   },
+   "2008": {
+    "revenue": 273005000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-017688"
+   },
+   "2009": {
+    "revenue": 171636000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-12-002976"
+   },
+   "2010": {
+    "revenue": 204928000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-13-000003"
+   },
+   "2011": {
+    "revenue": 253706000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-14-000011"
+   },
+   "2012": {
+    "revenue": 241909000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-15-000010"
+   },
+   "2013": {
+    "revenue": 228848000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-16-000049"
+   },
+   "2014": {
+    "revenue": 211970000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-17-000013"
+   },
+   "2015": {
+    "revenue": 138477000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-18-000010"
+   },
+   "2016": {
+    "revenue": 114472000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-19-000008"
+   },
+   "2017": {
+    "revenue": 141722000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-20-000010"
+   },
+   "2018": {
+    "revenue": 166339000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-21-000009"
+   },
+   "2019": {
+    "revenue": 146516000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-22-000019"
+   },
+   "2020": {
+    "revenue": 94692000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-23-000009"
+   },
+   "2021": {
+    "revenue": 162465000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-24-000013"
+   },
+   "2022": {
+    "revenue": 246252000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-25-000009"
+   },
+   "2023": {
+    "revenue": 200949000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-26-000078"
+   },
+   "2024": {
+    "revenue": 202792000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-26-000078"
+   },
+   "2025": {
+    "revenue": 189031000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093410-26-000078"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 22610285,
+   "2022": 24192742,
+   "2023": 27385655,
+   "2024": 32716940,
+   "2025": 26828240
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000093410-26-000078",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000078/cvx-20251231.htm"
+   },
+   {
+    "accession": "0000093410-25-000009",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341025000009/cvx-20241231.htm"
+   },
+   {
+    "accession": "0000093410-24-000013",
+    "filingDate": "2024-02-26",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341024000013/cvx-20231231.htm"
+   },
+   {
+    "accession": "0000093410-23-000009",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341023000009/cvx-20221231.htm"
+   },
+   {
+    "accession": "0000093410-22-000019",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341022000019/cvx-20211231.htm"
+   },
+   {
+    "accession": "0000093410-21-000009",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341021000009/cvx-20201231.htm"
+   },
+   {
+    "accession": "0000093410-20-000010",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341020000010/cvx12312019-10kdoc.htm"
+   },
+   {
+    "accession": "0000093410-19-000008",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341019000008/cvx12312018-10kdoc.htm"
+   },
+   {
+    "accession": "0000093410-18-000010",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341018000010/cvx12312017-10kdoc.htm"
+   },
+   {
+    "accession": "0000093410-17-000013",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93410/000009341017000013/cvx-123116x10kdoc.htm"
+   }
+  ]
+ }
+}

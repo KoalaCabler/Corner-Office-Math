@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001628280-26-019856": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090727/000162828026019856/ups-20260319.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-008432",
+   "result": {
+    "ceoPay": 22892052,
+    "medianPay": 66268,
+    "payRatio": 345,
+    "method": "cross-checked",
+    "employees": 485504,
+    "statedYear": null,
+    "excerpt": "-Frank Wall Street Reform and Consumer Protection Act, we are providing the following ratio of the annual total compensation of our CEO to the annual total compensation of our median employee. For purposes of this disclosure, the 2025 annual total compensation of the median compensated employee was $66,268; our CEO's 2025 annual total compensation was $22,892,052, and the ratio of these amounts was 345-to-one. Our CEO's 2025 annual total compensation was different from the amount included in the 2025 Summary Compensation Table \"Total\" column. Amounts related to healthcare benefits, which are available generally to all salaried employees of the Company, are included in the annual total compensation amounts above. The CEO's and median employee's Company-paid healthcare benefit amounts were $"
+   }
+  },
+  "0001090727-25-000038": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072725000038/ups-20250317.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001090727-25-000019",
+   "result": {
+    "ceoPay": 24076385,
+    "medianPay": 55200,
+    "payRatio": 436,
+    "method": "cross-checked",
+    "employees": 485504,
+    "statedYear": null,
+    "excerpt": "-Frank Wall Street Reform and Consumer Protection Act, we are providing the following ratio of the annual total compensation of our CEO to the annual total compensation of our median employee. For purposes of this disclosure, the 2024 annual total compensation of the median compensated employee was $55,200; our CEO's 2024 annual total compensation was $24,076,385, and the ratio of these amounts was 436-to-one. Our CEO's 2024 annual total compensation was different from the amount included in the 2024 Summary Compensation Table \"Total\" column. Amounts related to healthcare benefits, which are available generally to all salaried employees of the Company, are included in the annual total compensation amounts above. The CEO's and median employee's Company-paid healthcare benefit amounts were $"
+   }
+  },
+  "0001090727-24-000018": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072724000018/ups-20240318.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001090727-24-000008",
+   "result": {
+    "ceoPay": 23402885,
+    "medianPay": 53669,
+    "payRatio": 436,
+    "method": "cross-checked",
+    "employees": 485504,
+    "statedYear": null,
+    "excerpt": "-Frank Wall Street Reform and Consumer Protection Act, we are providing the following ratio of the annual total compensation of our CEO to the annual total compensation of our median employee. For purposes of this disclosure, the 2023 annual total compensation of the median compensated employee was $53,669; our CEO's 2023 annual total compensation was $23,402,885, and the ratio of these amounts was 436-to-one. Our CEO's 2023 annual total compensation was different from the amount included in the 2023 Summary Compensation Table \"Total\" column. Amounts related to healthcare benefits, which are available generally to all salaried employees of the Company, are included in the annual total compensation amounts above. The CEO's and median employee's Company-paid healthcare benefit amounts were $"
+   }
+  },
+  "0001090727-23-000015": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072723000015/ups-20230320.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001090727-23-000006",
+   "result": {
+    "ceoPay": 18977605,
+    "medianPay": 52144,
+    "payRatio": 364,
+    "method": "cross-checked",
+    "employees": 547857,
+    "statedYear": null,
+    "excerpt": "-Frank Wall Street Reform and Consumer Protection Act, we are providing the following ratio of the annual total compensation of our CEO to the annual total compensation of our median employee. For purposes of this disclosure, the 2022 annual total compensation of the median compensated employee was $52,144; our CEO's 2022 annual total compensation was $18,977,605, and the ratio of these amounts was 364-to-one. Our CEO's 2022 annual total compensation was different from the amount included in the 2022 Summary Compensation Table \"Total\" column. Amounts related to healthcare benefits, which are available generally to all salaried employees of the Company, are included in the annual total compensation amounts above. The CEO's and median employee's Company-paid healthcare benefit amounts were $"
+   }
+  },
+  "0001206774-22-000792": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090727/000120677422000792/ups3995501-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001090727-22-000007",
+   "result": {
+    "ceoPay": 15219669,
+    "medianPay": 50379,
+    "payRatio": 302,
+    "method": "cross-checked",
+    "employees": 547857,
+    "statedYear": null,
+    "excerpt": "ulation S-K, pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act, we are providing the following ratio of the annual total compensation of our CEO to the annual total compensation of our median employee. The 2021 annual total compensation of the median compensated employee was $50,379; our CEO's 2021 annual total compensation as required to be determined by GAAP and included in the 2021 Summary Compensation Table was $27,632,142. As required by GAAP, the CEO's 2021 annual total compensation included in the 2021 Summary Compensation Table includes both 100% of the target value of the 2021 LTIP award and 80% of the target value of the 2020 LTIP award. We believe a more representative CEO annual total compensation should exclude the 80% of the target value of the 2020 LT"
+   }
+  },
+  "0001206774-21-000883": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090727/000120677421000883/ups3861781-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001090727-21-000013",
+   "result": {
+    "ceoPay": 14276035,
+    "medianPay": 44254,
+    "payRatio": 323,
+    "method": "cross-checked",
+    "employees": 547857,
+    "statedYear": null,
+    "excerpt": "ulation S-K, pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act, we are providing the following ratio of the annual total compensation of our CEO to the annual total compensation of our median employee. The 2020 annual total compensation of the median compensated employee was $44,254; our CEO's 2020 annualized total compensation was $14,276,035, and the ratio of these amounts was 323-to-one. Our CEO's 2020 annualized total compensation was different from the amount included in the Summary Compensation Table. Items related to healthcare benefits, which are available generally to all salaried employees of the Company, are included in the annual total compensation numbers above. The CEO's and median employee's Company-paid healthcare benefit amounts were $5,331 and $5,1"
+   }
+  },
+  "0001206774-20-000863": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090727/000120677420000863/ups368803-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001090727-20-000005",
+   "result": {
+    "ceoPay": 18040841,
+    "medianPay": 74395,
+    "payRatio": 243,
+    "method": "cross-checked",
+    "employees": 466707,
+    "statedYear": null,
+    "excerpt": "Regulation S-K, pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act, we are providing the following ratio of the annual total compensation of our CEO to the annual total compensation of our median employee. The annual total compensation of the median compensated employee, was $74,395; our CEO's annual total compensation was $18,040,841, and the ratio of these amounts was 243-to-one. Items related to healthcare benefits, which are available generally to all salaried employees of the Company, are included in the annual total compensation numbers above. The CEO's and median employee's Company-paid healthcare benefit amounts were $9,917 and $4,842 respectively. For the CEO, this amount is not included in the Summary Compensation Table as permitted by SEC regulations. The"
+   }
+  },
+  "0001206774-19-000877": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090727/000120677419000877/ups3448911-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001090727-19-000006",
+   "result": {
+    "ceoPay": 15072127,
+    "medianPay": 55417,
+    "payRatio": 272,
+    "method": "cross-checked",
+    "employees": 466707,
+    "statedYear": null,
+    "excerpt": "suant to the Dodd-Frank Wall Street Reform and Consumer Protection Act, we are providing the following ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of our median employee. The annual total compensation of the median compensated employee, was $55,417; our CEO's annual total compensation was $15,072,127, and the ratio of these amounts was 272-to-1. Items related to healthcare benefits, which are available generally to all salaried employees of the company, are included in the annual total compensation numbers above. The CEO's and median employee's company-paid healthcare benefit amounts were $11,251 and $5,452 respectively. For the CEO, this amount is not included in the Summary Compensation Table as permitted by SEC regulations. The"
+   }
+  },
+  "0001206774-18-000849": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1090727/000120677418000849/ups3287141-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001090727-18-000009",
+   "result": {
+    "ceoPay": 6068748,
+    "medianPay": 31435,
+    "payRatio": 193,
+    "method": "cross-checked",
+    "employees": 466707,
+    "statedYear": 2018,
+    "excerpt": "478 employees), Taiwan (873 employees), Thailand (465 employees), Uganda (1 employee), Ukraine (90 employees), United Arab Emirates (379 employees), Uruguay (13 employees), Venezuela (6 employees), Vietnam (259 employees), Virgin Islands (12 employees). | * | | The CEO's taxable wages for 2017 were $6,068,748. The 2017 taxable wages of the median employee identified above were $31,435. The ratio between these amounts is 193-to-1. | Proposal 2 - Approve the 2018 Omnibus Incentive Compensation Plan | What am I voting on? Approval of the United Parcel Service, Inc. 2018 Omnibus Incentive Compensation Plan as disclosed in this Proxy Statement. | | | | Voting Recommendation: The Board of Directors recommends that shareowners vote FOR the proposal. | | | | Vote Required: An affirmative vote of t"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 49692000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-042908"
+   },
+   "2008": {
+    "revenue": 51486000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-049356"
+   },
+   "2009": {
+    "revenue": 45297000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-081067"
+   },
+   "2010": {
+    "revenue": 49545000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090727-13-000005"
+   },
+   "2011": {
+    "revenue": 53105000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090727-14-000009"
+   },
+   "2012": {
+    "revenue": 54127000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090727-15-000008"
+   },
+   "2013": {
+    "revenue": 55438000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090727-16-000053"
+   },
+   "2014": {
+    "revenue": 58232000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090727-17-000011"
+   },
+   "2015": {
+    "revenue": 58363000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001090727-18-000009"
+   },
+   "2016": {
+    "revenue": 61610000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090727-19-000006"
+   },
+   "2017": {
+    "revenue": 66585000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090727-20-000005"
+   },
+   "2018": {
+    "revenue": 71861000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090727-21-000013"
+   },
+   "2019": {
+    "revenue": 74094000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090727-22-000007"
+   },
+   "2020": {
+    "revenue": 84628000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090727-23-000006"
+   },
+   "2021": {
+    "revenue": 97287000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090727-24-000008"
+   },
+   "2022": {
+    "revenue": 100338000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001090727-25-000019"
+   },
+   "2023": {
+    "revenue": 90958000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008432"
+   },
+   "2024": {
+    "revenue": 91070000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008432"
+   },
+   "2025": {
+    "revenue": 88661000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008432"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-008432",
+    "filingDate": "2026-02-17",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090727/000162828026008432/ups-20251231.htm"
+   },
+   {
+    "accession": "0001090727-25-000019",
+    "filingDate": "2025-02-18",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072725000019/ups-20241231.htm"
+   },
+   {
+    "accession": "0001090727-24-000008",
+    "filingDate": "2024-02-20",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072724000008/ups-20231231.htm"
+   },
+   {
+    "accession": "0001090727-23-000006",
+    "filingDate": "2023-02-21",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072723000006/ups-20221231.htm"
+   },
+   {
+    "accession": "0001090727-22-000007",
+    "filingDate": "2022-02-22",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072722000007/ups-20211231.htm"
+   },
+   {
+    "accession": "0001090727-21-000013",
+    "filingDate": "2021-02-22",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072721000013/ups-20201231.htm"
+   },
+   {
+    "accession": "0001090727-20-000005",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072720000005/ups-12312019x10k.htm"
+   },
+   {
+    "accession": "0001090727-19-000006",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072719000006/ups-12312018x10k.htm"
+   },
+   {
+    "accession": "0001090727-18-000009",
+    "filingDate": "2018-02-21",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072718000009/ups-12312017x10k.htm"
+   },
+   {
+    "accession": "0001090727-17-000011",
+    "filingDate": "2017-02-21",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1090727/000109072717000011/ups-12312016x10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,358 @@
+{
+ "proxies": {
+  "0001104659-26-024393": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/49071/000110465926024393/tm2518709-2_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000049071-26-000009",
+   "result": null
+  },
+  "0001193125-25-048976": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/49071/000119312525048976/d852577ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000049071-25-000007",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 1250000,
+    "payRatio": 195,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "024, and was serving in the role as Chief Executive Officer on December 31, 2024, the determination date for identifying our median associate. We then annualized the compensation disclosed for Mr. Rechtin in the Summary Compensation Table by (i) assuming that Mr. Rechtin received Salary payments of $1,250,000 in 2024, his annual base salary as of December 31, 2024; (ii) assuming that Mr. Rechtin received Non-Equity Incentive Plan Compensation of $2,375,000, which represents the AIP payment that Mr. Rechtin would have received under the formula discussed within the \"Compensation Discussion and Analysis\" section of this proxy statement if Mr. Rechtin's base salary had been $1,250,000 for all of 2024; and (iii) holding all other elements of compensation constant, as they would not have been i"
+   }
+  },
+  "0001193125-24-062915": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/49071/000119312524062915/d52608ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000049071-24-000012",
+   "result": {
+    "ceoPay": 16327384,
+    "medianPay": 85122,
+    "payRatio": 192,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "| | 3,000,000 | | | | | | | Susan M. Diamond | | | | $ | | 2,400,000 | | | | | | | Sanjay K. Shetty, M.D. | | | | $ | | 2,025,000 | | | | | | | Joseph C. Ventura | | | | $ | | 2,070,000 | | | | | | | George Renaudin II | | | | $ | | 2,025,000 | | | CEO Pay Ratio | | | | | | | | | 2023 CEO Pay Ratio 192:1 | | | | As detailed further within the \"Human Capital Management\" section of this proxy statement, our associates' total compensation may include base pay, incentive pay, overtime and other supplemental pay. We regularly review associate compensation and conduct benchmarking of our pay to the external market where we compete for talent, along with internal reviews of associate pay compared to those doing similar work in similar capacities across the Company - all to ensure we are competiti"
+   }
+  },
+  "0001193125-23-063813": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/49071/000119312523063813/d458267ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000049071-23-000011",
+   "result": {
+    "ceoPay": 17198844,
+    "medianPay": 72391,
+    "payRatio": 238,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ll be bound by non-compete and non-solicit covenants during the applicable severance period. | | | | | | | | | | | | | | | | | | | | | Executive Compensation • 2023 Proxy Statement | Humana | | | | | | | | | | | | 71 | Table of Contents CEO Pay Ratio | | | | | | | | | | | | | | | 2022 CEO Pay Ratio 238:1 | | | | As detailed further within the \"Human Capital Management\" section of this proxy statement, our associates' total compensation may include base pay, incentive pay, overtime and other supplemental pay. We regularly review associate compensation and conduct benchmarking of our pay to the external market where we compete for talent, along with internal reviews of | associate pay compared to those doing similar work in similar capacities across the Company - all to ensure we are competi"
+   }
+  },
+  "0001193125-22-069894": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/49071/000119312522069894/d209426ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000049071-22-000017",
+   "result": {
+    "ceoPay": 16528036,
+    "medianPay": 64797,
+    "payRatio": 255,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "al deadhead hours. | | | | (c) | | Includes basic life insurance premiums, wellness incentives and physicals. Other compensation for Mr. Broussard also includes imputed income in the amount of $6,967 for personal executive support services. | CEO Pay Ratio | | | | | | | | | | | 2021 CEO Pay Ratio 255:1 | As detailed further within the Human Capital Management section of this proxy statement, our associates total compensation may include base pay, incentive pay, overtime and other supplemental pay. We regularly review associate compensation and conduct benchmarking of our pay to the external market where we compete for talent, as well as, internal reviews of associate pay compared to those doing similar work in similar capacities across the Company all to ensure we are competitive and"
+   }
+  },
+  "0001193125-21-075520": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/49071/000119312521075520/d58753ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000049071-21-000039",
+   "result": {
+    "ceoPay": 16489639,
+    "medianPay": 62872,
+    "payRatio": 262,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "sic life insurance premiums, wellness incentives and physicals. Other compensation for Mr. Broussard includes imputed income in the amount of $29,524 for a personal security system and $2,288 for personal executive support services. | CEO Pay Ratio | | | | | | | | | | | | | | | 2020 CEO Pay Ratio 262:1 | | | | As detailed further within the Human Capital Management section of this proxy statement, our associates total compensation may include base pay, incentive pay, overtime and other supplemental pay. We regularly review associate compensation and conduct benchmarking of our pay to the external market where we compete for talent, as well as, internal reviews of associate pay compared to those | | | | | | doing similar work in similar capacities across the Company  all to ensure we"
+   }
+  },
+  "0001193125-20-060900": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/49071/000119312520060900/d814950ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000049071-20-000032",
+   "result": {
+    "ceoPay": 16726455,
+    "medianPay": 73669,
+    "payRatio": 227,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "craft was based on the aggregate incremental costs to the Company, including the lost tax deduction to the Company and personal deadhead hours. | | | | (c) | | Includes basic life insurance premiums, wellness incentives and physicals. | CEO Pay Ratio | | | | | | | | | | | | | | | 2019 CEO Pay Ratio 227:1 | | | | We believe all of our associates have the right to receive a fair living wage and we are committed to maintaining a pay philosophy that is market-based, reflects the skills needed for a job, and recognizes an associates contributions. Our Companys pay structure is designed to motivate and reward our associates - at all levels of the organization - for their skill development, demonstration | | | | | | of our values and performance. Our associates total compensation may include b"
+   }
+  },
+  "0001193125-19-064676": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/49071/000119312519064676/d662496ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000049071-19-000023",
+   "result": {
+    "ceoPay": 16312517,
+    "medianPay": 70498,
+    "payRatio": 231,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "and Inclusion | | | |  | | | | Named by the Human Rights Campaign Foundation on its Best Places to Work for LGBTQ Equality | | | |  | | | | Forbes Best Employers for Women | | | |  | | | | DiversityInc, Top 18 Companies for Veterans | | | |  | | | | #7 of Healthiest 100 | 2018 CEO Pay Ratio : ~231:1 Calculation Approach | | |  | | | | Our CEO Pay Ratio was calculated in compliance with the requirements set forth in Item 402(u) of Regulation S-K; | | | |  | | | | We identified our median employee using our associate population as of December 31, 2018, which included 41,600 global full-time, part-time, temporary and seasonal associates employed on that date; | | | |  | | | | We consistently applied 2018 W-2 earnings as compensation measure for the median employee; | | | |  | | | | F"
+   }
+  },
+  "0001193125-18-072748": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/49071/000119312518072748/d523388ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000049071-18-000014",
+   "result": {
+    "ceoPay": 19768525,
+    "medianPay": 57385,
+    "payRatio": 344,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "on to calculate the median employee compensation. For our consistently applied compensation measure, we used W-2 earnings. We then calculated the median employees compensation in the same manner as the named executive officers in the Summary Compensation Table. Our median employee compensation was $57,385 . Our Chief Executive Officer compensation was $19,768,525 . Accordingly, our CEO to Employee Pay Ratio is 344:1 . 63 Table of Contents Grants of Plan-Based Awards The following table provides information about equity awards granted in 2017 under our 2011 Stock Incentive Plan, which we refer to as the 2011 Stock Plan, and the range of potential payments earned in 2017 under our short-term incentive compensation plan. A discussion of the features of each type of award is included in the f"
+   }
+  }
+ },
+ "tenKs": {
+  "0000049071-18-000014": {
+   "parserVersion": 1,
+   "employees": 45900
+  },
+  "0000049071-19-000023": {
+   "parserVersion": 1,
+   "employees": 41600
+  },
+  "0000049071-20-000032": {
+   "parserVersion": 1,
+   "employees": 46000
+  },
+  "0000049071-21-000039": {
+   "parserVersion": 1,
+   "employees": 48700
+  },
+  "0000049071-22-000017": {
+   "parserVersion": 1,
+   "employees": 95500
+  },
+  "0000049071-23-000011": {
+   "parserVersion": 1,
+   "employees": 67100
+  },
+  "0000049071-24-000012": {
+   "parserVersion": 1,
+   "employees": 67600
+  },
+  "0000049071-25-000007": {
+   "parserVersion": 1,
+   "employees": 65680
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 25289989000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-035019"
+   },
+   "2008": {
+    "revenue": 28946372000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-039288"
+   },
+   "2009": {
+    "revenue": 30743000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-076885"
+   },
+   "2010": {
+    "revenue": 33596000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-069911"
+   },
+   "2011": {
+    "revenue": 36832000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-058508"
+   },
+   "2012": {
+    "revenue": 39126000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-15-000019"
+   },
+   "2013": {
+    "revenue": 41313000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-16-000117"
+   },
+   "2014": {
+    "revenue": 48500000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-17-000019"
+   },
+   "2015": {
+    "revenue": 54289000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-18-000014"
+   },
+   "2016": {
+    "revenue": 54379000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-19-000023"
+   },
+   "2017": {
+    "revenue": 53767000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-20-000032"
+   },
+   "2018": {
+    "revenue": 56912000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-21-000039"
+   },
+   "2019": {
+    "revenue": 64888000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-22-000017"
+   },
+   "2020": {
+    "revenue": 77155000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-23-000011"
+   },
+   "2021": {
+    "revenue": 83064000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-24-000012"
+   },
+   "2022": {
+    "revenue": 92870000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-25-000007"
+   },
+   "2023": {
+    "revenue": 106374000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-26-000009"
+   },
+   "2024": {
+    "revenue": 117761000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-26-000009"
+   },
+   "2025": {
+    "revenue": 129664000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000049071-26-000009"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000049071-26-000009",
+    "filingDate": "2026-02-19",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907126000009/hum-20251231.htm"
+   },
+   {
+    "accession": "0000049071-25-000007",
+    "filingDate": "2025-02-20",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907125000007/hum-20241231.htm"
+   },
+   {
+    "accession": "0000049071-24-000012",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907124000012/hum-20231231.htm"
+   },
+   {
+    "accession": "0000049071-23-000011",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907123000011/hum-20221231.htm"
+   },
+   {
+    "accession": "0000049071-22-000017",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907122000017/hum-20211231.htm"
+   },
+   {
+    "accession": "0000049071-21-000039",
+    "filingDate": "2021-02-18",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907121000039/hum-20201231.htm"
+   },
+   {
+    "accession": "0000049071-20-000032",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907120000032/hum-20191231x10k.htm"
+   },
+   {
+    "accession": "0000049071-19-000023",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907119000023/hum-20181231x10k.htm"
+   },
+   {
+    "accession": "0000049071-18-000014",
+    "filingDate": "2018-02-16",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907118000014/hum-20171231x10k.htm"
+   },
+   {
+    "accession": "0000049071-17-000019",
+    "filingDate": "2017-02-17",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/49071/000004907117000019/hum-20161231x10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001308179-26-000210": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/732712/000130817926000210/vz014688_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000732712-26-000007",
+   "result": {
+    "ceoPay": 38264880,
+    "medianPay": 154605,
+    "payRatio": 248,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "osure Pursuant to SEC rules, we are required to disclose in this proxy statement the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees (excluding the CEO). We determined that the annualized total compensation of Mr. Schulman was $38,264,880, the median of the 2025 annual total compensation of all of our employees (excluding Mr. Schulman) was $154,605, and the ratio of these amounts was 248 to 1. Mr. Schulman was appointed CEO October 4, 2025, and as such his base salary of $1,500,000 and target short-term incentive award of $3,750,000 have been annualized for purposes of this calculation. The value of employer provided benefits under non-discriminatory health plans was included in the compensation of each of Mr. Schulma"
+   }
+  },
+  "0001308179-25-000404": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/732712/000130817925000404/vz4363511-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000732712-25-000006",
+   "result": {
+    "ceoPay": 24184162,
+    "medianPay": 132471,
+    "payRatio": 183,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "osure Pursuant to SEC rules, we are required to disclose in this proxy statement the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees (excluding the CEO). We determined that the annualized total compensation of Mr. Vestberg was $24,184,162, the median of the 2024 annual total compensation of all of our employees (excluding Mr. Vestberg) was $132,471, and the ratio of these amounts was 183 to 1. For purposes of calculating the ratio, the value of employer provided benefits under non-discriminatory health plans was included in the compensation of each of Mr. Vestberg and the median employee. To identify the \"median employee\" for purposes of the disclosure (i.e., the individual employee whose compensation was at the media"
+   }
+  },
+  "0001308179-24-000279": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/732712/000130817924000279/lvz2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000732712-24-000010",
+   "result": {
+    "ceoPay": 24152824,
+    "medianPay": 167334,
+    "payRatio": 144,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "osure Pursuant to SEC rules, we are required to disclose in this proxy statement the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees (excluding the CEO). We determined that the annualized total compensation of Mr. Vestberg was $24,152,824, the median of the 2023 annual total compensation of all of our employees (excluding Mr. Vestberg) was $167,334, and the ratio of these amounts was 144 to 1. For purposes of calculating the ratio, the value of employer provided benefits under non-discriminatory health plans was included in the compensation of each of Mr. Vestberg and the median employee. As required by SEC rules, the calculation of annual total compensation for both the CEO and the median employee includes a change i"
+   }
+  },
+  "0001193125-23-080439": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/732712/000119312523080439/d401667ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000732712-23-000012",
+   "result": {
+    "ceoPay": 19850750,
+    "medianPay": 152899,
+    "payRatio": 130,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "osure Pursuant to SEC rules, we are required to disclose in this proxy statement the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees (excluding the CEO). We determined that the annualized total compensation of Mr. Vestberg was $19,850,750, the median of the 2022 annual total compensation of all of our employees (excluding Mr. Vestberg) was $152,899, and the ratio of these amounts was 130 to 1. For purposes of calculating the ratio, the value of employer provided benefits under non-discriminatory health plans was included in the compensation of each of Mr. Vestberg and the median employee. The median employee that was used for purposes of calculating the ratio of the annualized total compensation of our CEO to the medi"
+   }
+  },
+  "0001193125-22-086627": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/732712/000119312522086627/d857568ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000732712-22-000008",
+   "result": {
+    "ceoPay": 20361824,
+    "medianPay": 122492,
+    "payRatio": 166,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "osure Pursuant to SEC rules, we are required to disclose in this proxy statement the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees (excluding the CEO). We determined that the annualized total compensation of Mr. Vestberg was $20,361,824, the median of the 2021 annual total compensation of all of our employees (excluding Mr. Vestberg) was $122,492, and the ratio of these amounts was 166 to 1. For purposes of calculating the ratio, the value of employer provided benefits under non-discriminatory health plans was included in the compensation of each of Mr. Vestberg and the median employee. To identify the median employee for purposes of this disclosure (i.e., the individual employee whose compensation was at the medi"
+   }
+  },
+  "0001193125-21-098265": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/732712/000119312521098265/d15375ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000732712-21-000012",
+   "result": {
+    "ceoPay": 19115084,
+    "medianPay": 170288,
+    "payRatio": 112,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "osure Pursuant to SEC rules, we are required to disclose in this proxy statement the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees (excluding the CEO). We determined that the annualized total compensation of Mr. Vestberg was $19,115,084, the median of the 2020 annual total compensation of all of our employees (excluding Mr. Vestberg) was $170,288, and the ratio of these amounts was 112 to 1. For purposes of calculating the ratio, the value of employer provided benefits under non-discriminatory health plans was included in the compensation of each of Mr. Vestberg and the median employee. As required by SEC rules, the calculation of annual total compensation for both the CEO and the median employee includes a change i"
+   }
+  },
+  "0001193125-20-082431": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/732712/000119312520082431/d781927ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000732712-20-000014",
+   "result": {
+    "ceoPay": 18111823,
+    "medianPay": 172971,
+    "payRatio": 105,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "osure Pursuant to SEC rules, we are required to disclose in this proxy statement the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees (excluding the CEO). We determined that the annualized total compensation of Mr. Vestberg was $18,111,823, the median of the 2019 annual total compensation of all of our employees (excluding Mr. Vestberg) was $172,971, and the ratio of these amounts was 105 to 1. For purposes of calculating the ratio, the value of employer provided benefits under non-discriminatory health plans was included in the compensation of each of Mr. Vestberg and the median employee. As required by SEC rules, the calculation of annual total compensation for both the CEO and the median employee includes a change i"
+   }
+  },
+  "0001193125-19-078250": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/732712/000119312519078250/d613466ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000732712-19-000012",
+   "result": {
+    "ceoPay": 23821477,
+    "medianPay": 120645,
+    "payRatio": 198,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "lose in this proxy statement the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees (excluding the CEO). We determined that the annualized total compensation of Mr. Vestberg, who was appointed CEO of Verizon on August 1, 2018 was $23,821,477, the median of the 2018 annual total compensation of all of our employees (excluding Mr. Vestberg) was $120,645, and the ratio of these amounts was 198 to 1. For purposes of calculating the ratio, the value of employer provided benefits under non-discriminatory health plans was included in the compensation of each of Mr. Vestberg and the median employee. 68 Verizon 2019 Proxy Statement Table of Contents Compensation Tables CEO pay ratio disclosure As described on page 46, in connecti"
+   }
+  },
+  "0001193125-18-087697": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/732712/000119312518087697/d444132ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000732712-18-000009",
+   "result": {
+    "ceoPay": 17947316,
+    "medianPay": 126623,
+    "payRatio": 142,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2016,
+    "excerpt": "ules, we are required to disclose in this proxy statement the ratio of the annual total compensation of Mr. McAdam, our Chairman and CEO, to the median of the annual total compensation of all of our employees (excluding Mr. McAdam). We determined that Mr. McAdams 2017 annual total compensation was $17,947,316, the median of the 2017 annual total compensation of all of our employees (excluding Mr. McAdam) was $126,623, and the ratio of these amounts was 142 to 1. To identify the median employee for purposes of this disclosure (i.e., the individual employee whose compensation was at the median level among our entire employee group), we used a determination date of October 1, 2017 and analyzed, for all of the individuals employed by us or any of our consolidated subsidiaries on that date,"
+   }
+  }
+ },
+ "tenKs": {
+  "0000732712-18-000009": {
+   "parserVersion": 1,
+   "employees": 155400
+  },
+  "0000732712-19-000012": {
+   "parserVersion": 1,
+   "employees": 144500
+  },
+  "0000732712-20-000014": {
+   "parserVersion": 1,
+   "employees": 135000
+  },
+  "0000732712-21-000012": {
+   "parserVersion": 1,
+   "employees": 132200
+  },
+  "0000732712-22-000008": {
+   "parserVersion": 1,
+   "employees": 118400
+  },
+  "0000732712-23-000012": {
+   "parserVersion": 1,
+   "employees": 117100
+  },
+  "0000732712-24-000010": {
+   "parserVersion": 1,
+   "employees": 105400
+  },
+  "0000732712-25-000006": {
+   "parserVersion": 1,
+   "employees": 99600
+  },
+  "0000732712-26-000007": {
+   "parserVersion": 1,
+   "employees": 89900
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 93469000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-041685"
+   },
+   "2008": {
+    "revenue": 97354000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-049476"
+   },
+   "2009": {
+    "revenue": 107808000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-077846"
+   },
+   "2010": {
+    "revenue": 106565000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-075713"
+   },
+   "2011": {
+    "revenue": 110875000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-073266"
+   },
+   "2012": {
+    "revenue": 115846000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-057710"
+   },
+   "2013": {
+    "revenue": 120550000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-473367"
+   },
+   "2014": {
+    "revenue": 127079000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-050292"
+   },
+   "2015": {
+    "revenue": 131620000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732712-18-000009"
+   },
+   "2016": {
+    "revenue": 125980000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732712-19-000012"
+   },
+   "2017": {
+    "revenue": 126034000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732712-20-000014"
+   },
+   "2018": {
+    "revenue": 130863000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732712-21-000012"
+   },
+   "2019": {
+    "revenue": 131868000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732712-22-000008"
+   },
+   "2020": {
+    "revenue": 128292000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732712-23-000012"
+   },
+   "2021": {
+    "revenue": 133613000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732712-24-000010"
+   },
+   "2022": {
+    "revenue": 136835000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732712-25-000006"
+   },
+   "2023": {
+    "revenue": 133974000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732712-26-000007"
+   },
+   "2024": {
+    "revenue": 134788000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732712-26-000007"
+   },
+   "2025": {
+    "revenue": 138191000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732712-26-000007"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000732712-26-000007",
+    "filingDate": "2026-02-17",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000007/vz-20251231.htm"
+   },
+   {
+    "accession": "0000732712-25-000006",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271225000006/vz-20241231.htm"
+   },
+   {
+    "accession": "0000732712-24-000010",
+    "filingDate": "2024-02-09",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271224000010/vz-20231231.htm"
+   },
+   {
+    "accession": "0000732712-23-000012",
+    "filingDate": "2023-02-10",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271223000012/vz-20221231.htm"
+   },
+   {
+    "accession": "0000732712-22-000008",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271222000008/vz-20211231.htm"
+   },
+   {
+    "accession": "0000732712-21-000012",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271221000012/vz-20201231.htm"
+   },
+   {
+    "accession": "0000732712-20-000014",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271220000014/a2019q410-k.htm"
+   },
+   {
+    "accession": "0000732712-19-000012",
+    "filingDate": "2019-02-15",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271219000012/a2018q410-k.htm"
+   },
+   {
+    "accession": "0000732712-18-000009",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732712/000073271218000009/a201710-k.htm"
+   },
+   {
+    "accession": "0001193125-17-050292",
+    "filingDate": "2017-02-21",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732712/000119312517050292/d296602d10k.htm"
+   }
+  ]
+ }
+}

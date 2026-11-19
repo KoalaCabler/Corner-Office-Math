@@ -1,0 +1,366 @@
+{
+ "proxies": {
+  "0001193125-26-119888": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312526119888/d919223ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000732717-26-000120",
+   "result": {
+    "ceoPay": 29906872,
+    "medianPay": 139026,
+    "payRatio": 215,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "5 compensation of the CEO as disclosed in the Summary Compensation Table by the total 2025 compensation of the median employee, using the same components of compensation and valuation methodology as used in the Summary Compensation Table for the CEO. The total compensation of our median employee is $139,026. The final pay ratio calculation is 215:1. | | | | | | | | | | | | Determination of CEO Pay Ratio | | | | | | | | | | | Step 1 | | | | Total compensation of the CEO 1 | | | | | | $29,906,872 | | | | | | | Step 2 | | | | Total compensation of the median employee 2 | | | | | | $139,026 | | | | | | | Step 3 | | | | Divide compensation of the CEO by the median employee | | | | | | 215.1 | | | | | | | Result | | | | CEO pay ratio | | | | | | 215:1 | | | | 1 | | Includes the value of Mr. Stan"
+   }
+  },
+  "0001193125-25-073402": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312525073402/d900144ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000732717-25-000013",
+   "result": {
+    "ceoPay": 26410845,
+    "medianPay": 122611,
+    "payRatio": 215,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "4 compensation of the CEO as disclosed in the Summary Compensation Table by the total 2024 compensation of the median employee, using the same components of compensation and valuation methodology as used in the Summary Compensation Table for the CEO. The total compensation of our median employee is $122,611. The final pay ratio calculation is 215:1. | | | | | | | | | | | | Determination of CEO Pay Ratio | | | | | | | | | | | Step 1 | | | | Total compensation of the CEO 1 | | | | | | $26,410,845 | | | | | | | Step 2 | | | | Total compensation of the median employee 2 | | | | | | $ 122,611 | | | | | | | Step 3 | | | | Divide compensation of the CEO by the median employee | | | | | | 215.4 | | | | | | | Result | | | | CEO pay ratio | | | | | | 215:1 | | | | 1 | | Includes the value of Mr. Sta"
+   }
+  },
+  "0001193125-24-087253": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312524087253/d502707ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000732717-24-000009",
+   "result": {
+    "ceoPay": 26450157,
+    "medianPay": 137176,
+    "payRatio": 193,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "3 compensation of the CEO as disclosed in the Summary Compensation Table by the total 2023 compensation of the median employee, using the same components of compensation and valuation methodology as used in the Summary Compensation Table for the CEO. The total compensation of our median employee is $137,176. The final pay ratio calculation is 193:1. | | | | | | | | | | | | Determination of CEO Pay Ratio | | | | | | | | | | | Step 1 | | | | Total compensation of the CEO 1 | | | | | | $26,450,157 | | | | | | | Step 2 | | | | Total compensation of the median employee 2 | | | | | | $ 137,176 | | | | | | | Step 3 | | | | Divide compensation of the CEO by the median employee | | | | | | 192.8 | | | | | | | Result | | | | CEO pay ratio | | | | | | 193:1 | | | | 1 | | Includes the value of Mr. Sta"
+   }
+  },
+  "0001193125-23-089578": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312523089578/d393251ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000732717-23-000011",
+   "result": {
+    "ceoPay": 22915526,
+    "medianPay": 104509,
+    "payRatio": 219,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "2 compensation of the CEO as disclosed in the Summary Compensation Table by the total 2022 compensation of the median employee, using the same components of compensation and valuation methodology as used in the Summary Compensation Table for the CEO. The total compensation of our median employee is $104,509. The final pay ratio calculation is 219:1. | | | | | | | | | | | | | | | | | | | Determination of CEO Pay Ratio | | | | | | | | | | | | | | Step 1 | | | | Total compensation of the CEO 1 | | | | | | $22,915,526 | | | | | | | | | | Step 2 | | | | Total compensation of the median employee 2 | | | | | | $ 104,509 | | | | | | | | | | Step 3 | | | | Divide compensation of the CEO by the median employee | | | | | | 219.0 | | | | | | | | | | Result | | | | CEO pay ratio | | | | | | 219:1 | | |"
+   }
+  },
+  "0001193125-22-081678": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312522081678/d219457ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000732717-22-000015",
+   "result": {
+    "ceoPay": 24820879,
+    "medianPay": 107570,
+    "payRatio": 231,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "1 compensation of the CEO as disclosed in the Summary Compensation Table by the total 2021 compensation of the median employee, using the same components of compensation and valuation methodology as used in the Summary Compensation Table for the CEO. The total compensation of our median employee is $107,570. The final pay ratio calculation is 231:1. | | | | | | | | | | | | | | | | | | | Determination of CEO Pay Ratio | | | | | | | | | | | | | | Step 1 | | | | Total compensation of the CEO 1 | | | | | | $24,820,879 | | | | | | | | | | Step 2 | | | | Total compensation of the median employee 2 | | | | | | $ 107,570 | | | | | | | | | | Step 3 | | | | Divide compensation of the CEO by the median employee | | | | | | 230.7 | | | | | | | | | | Result | | | | CEO pay ratio | | | | | | 231:1 | | |"
+   }
+  },
+  "0001193125-21-077769": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312521077769/d71655ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000732717-21-000012",
+   "result": {
+    "ceoPay": 20320917,
+    "medianPay": 89399,
+    "payRatio": 227,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "of his long-term incentive awards granted in 2020, which includes the additional grant he received at the time of promotion; Change in Pension and All Other Compensation : as reported in the Compensation of Executive OfficersSummary Compensation Table The total compensation of our median employee, $89,399. The final pay ratio calculation is 227:1. | | | | | | | | | | | | | | | | | | | Determination of CEO Pay Ratio | | | | | | | | | | | | | | Step 1 | | | | Total compensation of the CEO 1 | | | | $ | | 20,320,917 | | | | | | | | | | Step 2 | | | | Total compensation of the median employee 2 | | | | $ | | 89,399 | | | | | | | | | | Step 3 | | | | Divide compensation of the CEO by the median employee | | | | | | 227.3 | | | | | | | | | | Result | | | | CEO pay ratio | | | | | | 227:1 | | |"
+   }
+  },
+  "0001193125-20-070302": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312520070302/d867502ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001562762-20-000064",
+   "result": {
+    "ceoPay": 32032925,
+    "medianPay": 98630,
+    "payRatio": 325,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "mployees who were actively employed on October 1, 2019 (the Measurement Date ). We used their cash compensation for the first 3 quarters of the year to determine the median employee. Determination of Number of Employees for Selection of Median Employee The total compensation of our median employee, $98,630 was determined using the same methodology we use for Mr. Stephensons Summary Compensation Table compensation, and we included the cost of group health and welfare benefits. The total compensation of the CEO Randall L. Stephenson was $32,032,925, which includes the value of Mr. Stephensons health benefits. The final pay ratio calculation is 325:1. | | | | | | | | | | | 79 | Table of Contents ANNEX A The following tables reconcile our free cash flow (FCF), earnings per share (EPS), Net D"
+   }
+  },
+  "0001193125-19-070797": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312519070797/d679803ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001193125-19-045608",
+   "result": {
+    "ceoPay": 29118118,
+    "medianPay": 95814,
+    "payRatio": 304,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "zuela (1,097). | | | | | | | Number of Employees: | | | | (11,257) | | Result - After exclusions, we used 189,101 U.S. employees and 33,635 non-U.S. employees for the determination of the median employee. | | Total Number of Employees | | | | 222,736 | The total compensation of our median employee, $95,814, was determined using the same methodology we used for Mr. Stephenson in the Summary Compensation Table and we included the cost of group health and welfare benefits. The total compensation of the CEO Randall L. Stephenson was $29,118,118, which includes the value of Mr. Stephensons health benefits. The final pay ratio calculation is 304:1. | | | | | | | 78 | | | | | Table of Contents ANNEX A The following tables reconcile our free cash flow (FCF) and earnings per share (EPS) metrics, d"
+   }
+  },
+  "0001193125-18-079415": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312518079415/d471421ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000732717-18-000009",
+   "result": {
+    "ceoPay": 28720720,
+    "medianPay": 78437,
+    "payRatio": 366,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "- After exclusions, we used 214,034 U.S. employees and 30,214 non-U.S. employees for the determination of the median employee. | | | | | | 244,248 | | | The total compensation of our median employee, using the same methodology we use for Mr. Stephensons Summary Compensation Table compensation, is $78,437. The total compensation of the CEO Randall L. Stephenson is $28,720,720. The final pay ratio calculation is 366:1. | | | | | | | AT&T 2018 Proxy Statement | | | | | 93 | | Table of Contents | | | | | | | | | | | Annex A | Annex A AT&T INC. STOCK PURCHASE AND DEFERRAL PLAN Adopted November 19, 2004 As amended through April 27, 2018 Article 1Statement of Purpose The purpose of the Stock Purchase and Deferral Plan (Plan) is to increase stock ownership by, and to provide savings opportuni"
+   }
+  }
+ },
+ "tenKs": {
+  "0000732717-18-000009": {
+   "parserVersion": 1,
+   "employees": 23000
+  },
+  "0001562762-20-000064": {
+   "parserVersion": 1,
+   "employees": 20000
+  },
+  "0000732717-21-000012": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000732717-22-000015": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000732717-23-000011": {
+   "parserVersion": 1,
+   "employees": 400
+  },
+  "0000732717-24-000009": {
+   "parserVersion": 1,
+   "employees": 8500
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 118928000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-10-000013"
+   },
+   "2008": {
+    "revenue": 123443000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-11-000014"
+   },
+   "2009": {
+    "revenue": 122513000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-12-000025"
+   },
+   "2010": {
+    "revenue": 124280000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-13-000017"
+   },
+   "2011": {
+    "revenue": 126723000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-14-000010"
+   },
+   "2012": {
+    "revenue": 127434000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-15-000016"
+   },
+   "2013": {
+    "revenue": 128752000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-16-000147"
+   },
+   "2014": {
+    "revenue": 132447000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-17-000021"
+   },
+   "2015": {
+    "revenue": 146801000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-18-000009"
+   },
+   "2016": {
+    "revenue": 163786000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-19-045608"
+   },
+   "2017": {
+    "revenue": 160546000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001562762-20-000064"
+   },
+   "2018": {
+    "revenue": 170756000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-21-000012"
+   },
+   "2019": {
+    "revenue": 181193000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-22-000015"
+   },
+   "2020": {
+    "revenue": 143050000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-23-000011"
+   },
+   "2021": {
+    "revenue": 134038000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-24-000009"
+   },
+   "2022": {
+    "revenue": 120741000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-25-000013"
+   },
+   "2023": {
+    "revenue": 122428000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-26-000120"
+   },
+   "2024": {
+    "revenue": 122336000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-26-000120"
+   },
+   "2025": {
+    "revenue": 125648000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000732717-26-000120"
+   }
+  },
+  "employeesTagged": {
+   "0000732717-12-000025": 256000,
+   "0000732717-13-000017": 242000,
+   "0000732717-15-000016": 253000,
+   "0000732717-16-000147": 281000,
+   "0001193125-19-045608": 268000,
+   "0000732717-25-000013": 140990,
+   "0000732717-26-000120": 133030
+  },
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000732717-26-000120",
+    "filingDate": "2026-02-09",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000120/t-20251231.htm"
+   },
+   {
+    "accession": "0000732717-25-000013",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271725000013/t-20241231.htm"
+   },
+   {
+    "accession": "0000732717-24-000009",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/t-20231231.htm"
+   },
+   {
+    "accession": "0000732717-23-000011",
+    "filingDate": "2023-02-13",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271723000011/t-20221231.htm"
+   },
+   {
+    "accession": "0000732717-22-000015",
+    "filingDate": "2022-02-16",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271722000015/t-20211231.htm"
+   },
+   {
+    "accession": "0000732717-21-000012",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271721000012/t-20201231.htm"
+   },
+   {
+    "accession": "0001562762-20-000064",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000156276220000064/t-20191231.htm"
+   },
+   {
+    "accession": "0001193125-19-045608",
+    "filingDate": "2019-02-20",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000119312519045608/d705958d10k.htm"
+   },
+   {
+    "accession": "0000732717-18-000009",
+    "filingDate": "2018-02-20",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271718000009/ye17_10k.htm"
+   },
+   {
+    "accession": "0000732717-17-000021",
+    "filingDate": "2017-02-17",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/732717/000073271717000021/ye16_10k.htm"
+   }
+  ]
+ }
+}

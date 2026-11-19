@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001053507-26-000088": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000088/amt-20260406.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001053507-26-000035",
+   "result": {
+    "ceoPay": 14854505,
+    "medianPay": 90534,
+    "payRatio": 164,
+    "method": "cross-checked",
+    "employees": 4981,
+    "statedYear": 2025,
+    "excerpt": "llowing information about the relationship between the annual total compensation of our median employee and Steven O. Vondran, our CEO: For 2025, our last completed fiscal year: • The annual total compensation of the employee identified as the median employee of our Company (other than our CEO) was $90,534; and • The annual total compensation of our CEO was $14,854,505. Based on this information, for 2025 the ratio of the annual total compensation of Mr. Vondran, our CEO, to the median employee was estimated to be approximately 164 to 1. This pay ratio is a reasonable estimate, calculated in a manner consistent with SEC rules, based on our payroll and employment records using the methodology described below. The SEC rules for identifying the \"median employee\" allow companies to adopt a var"
+   }
+  },
+  "0001053507-25-000092": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350725000092/amt-20250401.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001053507-25-000025",
+   "result": {
+    "ceoPay": 13426944,
+    "medianPay": 85726,
+    "payRatio": 157,
+    "method": "cross-checked",
+    "employees": 4981,
+    "statedYear": 2024,
+    "excerpt": "llowing information about the relationship between the annual total compensation of our median employee and Steven O. Vondran, our CEO: For 2024, our last completed fiscal year: • The annual total compensation of the employee identified as the median employee of our Company (other than our CEO) was $85,726; and • The annual total compensation of our CEO was $13,426,944. Based on this information, for 2024 the ratio of the annual total compensation of Mr. Vondran, our CEO, to the median employee was estimated to be approximately 157 to 1. This pay ratio is a reasonable estimate, calculated in a manner consistent with SEC rules, based on our payroll and employment records using the methodology described below. The SEC rules for identifying the \"median employee\" allow companies to adopt a var"
+   }
+  },
+  "0001053507-24-000075": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350724000075/amt-20240408.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001053507-24-000011",
+   "result": {
+    "ceoPay": 19709245,
+    "medianPay": 59881,
+    "payRatio": 329,
+    "method": "cross-checked",
+    "employees": 6414,
+    "statedYear": 2023,
+    "excerpt": "lowing information about the relationship between the annual total compensation of our median employee and Thomas A. Bartlett, our CEO: For 2023, our last completed fiscal year: • The annual total compensation of the employee identified as the median employee of our Company (other than our CEO) was $59,881; and • The annual total compensation of our CEO was $19,709,245. Based on this information, for 2023 the ratio of the annual total compensation of Mr. Bartlett, our CEO, to the median employee was estimated to be approximately 329 to 1. This pay ratio is a reasonable estimate, calculated in a manner consistent with SEC rules, based on our payroll and employment records using the methodology described below. The SEC rules for identifying the \"median employee\" allow companies to adopt a va"
+   }
+  },
+  "0001053507-23-000107": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350723000107/amt-20230412.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001053507-23-000023",
+   "result": {
+    "ceoPay": 18306709,
+    "medianPay": 48998,
+    "payRatio": 374,
+    "method": "cross-checked",
+    "employees": 5730,
+    "statedYear": 2020,
+    "excerpt": "lowing information about the relationship between the annual total compensation of our median employee and Thomas A. Bartlett, our CEO: For 2022, our last completed fiscal year: • the annual total compensation of the employee identified as the median employee of our Company (other than our CEO) was $48,998; and • the annual total compensation of our CEO was $18,306,709. Based on this information, for 2022 the ratio of the annual total compensation of Mr. Bartlett, our CEO, to the median employee was estimated to be approximately 374 to 1. This pay ratio is a reasonable estimate, calculated in a manner consistent with SEC rules, based on our payroll and employment records using the methodology described below. The SEC rules for identifying the \"median employee\" allow companies to adopt a va"
+   }
+  },
+  "0001053507-22-000059": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350722000059/americantowercorporation20.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001053507-22-000017",
+   "result": {
+    "ceoPay": 16114574,
+    "medianPay": 37616,
+    "payRatio": 428,
+    "method": "cross-checked",
+    "employees": 5730,
+    "statedYear": 2021,
+    "excerpt": "lowing information about the relationship between the annual total compensation of our median employee and Thomas A. Bartlett, our CEO: For 2021, our last completed fiscal year: • the annual total compensation of the employee identified as the median employee of our Company (other than our CEO) was $37,616; and • the annual total compensation of our CEO was $16,114,574. Based on this information, for 2021 the ratio of the annual total compensation of Mr. Bartlett, our CEO, to the median employee was estimated to be approximately 428 to 1. This pay ratio is a reasonable estimate, calculated in a manner consistent with SEC rules, based on our payroll and employment records using the methodology described below. The SEC rules for identifying the \"median employee\" allow companies to adopt a va"
+   }
+  },
+  "0001053507-21-000075": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350721000075/americantowercorporation20.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001053507-21-000026",
+   "result": {
+    "ceoPay": 14701304,
+    "medianPay": 38108,
+    "payRatio": 386,
+    "method": "cross-checked",
+    "employees": 5730,
+    "statedYear": 2020,
+    "excerpt": "owing information about the relationship between the annual total compensation of our median employee and Thomas A. Bartlett, our CEO: For 2020, our last completed fiscal year: • the annual total compensation of the employee identified as the median employee of our Company (other than our CEO), was $38,108; and • the annual total compensation of our CEO was $14,701,304. Based on this information, for 2020 the ratio of the annual total compensation of Mr. Bartlett, our CEO, to the median employee was estimated to be approximately 386 to 1. This pay ratio is a reasonable estimate, calculated in a manner consistent with SEC rules, based on our payroll and employment records using the methodology described below. The SEC rules for identifying the \"median employee\" allow companies to adopt a va"
+   }
+  },
+  "0001053507-20-000081": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350720000081/americantowercorporation20.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001053507-20-000028",
+   "result": {
+    "ceoPay": 18095288,
+    "medianPay": 62745,
+    "payRatio": 288,
+    "method": "cross-checked",
+    "employees": 5037,
+    "statedYear": 2019,
+    "excerpt": "ation about the relationship between the annual total compensation of our median employee and James D. Taiclet, our former CEO: For 2019, our last completed fiscal year: • the annual total compensation of the employee identified as the median employee of our Company (other than our former CEO), was $62,745; and • the annual total compensation of our former CEO was $18,095,288. Based on this information, for 2019 the ratio of the annual total compensation of Mr. Taiclet, our former CEO, to the median employee was estimated to be approximately 288 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records using the methodology described below. The SEC rules for identifying the \"median employee\" allow companies to"
+   }
+  },
+  "0001193125-19-102393": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1053507/000119312519102393/d658937ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001053507-19-000012",
+   "result": {
+    "ceoPay": 14307936,
+    "medianPay": 50695,
+    "payRatio": 282,
+    "method": "cross-checked",
+    "employees": 5037,
+    "statedYear": 2018,
+    "excerpt": "ng information about the relationship between the annual total compensation of our median employee and James D. Taiclet, our CEO: For 2018, our last completed fiscal year: | | |  | | | | the annual total compensation of the employee identified at the median of our Company (other than our CEO), was $50,695; and | | | |  | | | | the annual total compensation of our CEO was $14,307,936. | Based on this information, for 2018 the ratio of the annual total compensation of Mr. Taiclet, our CEO, to the median employee was estimated to be approximately 282 to 1. AMERICAN TOWER CORPORATION 2019 PROXY STATEMENT 58 Table of Contents COMPENSATION AND OTHER INFORMATION CONCERNING DIRECTORS AND OFFICERS Employment and Severance Arrangements This pay ratio is a reasonable estimate calculated in a manner"
+   }
+  },
+  "0001193125-18-114920": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1053507/000119312518114920/d563232ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001053507-18-000006",
+   "result": {
+    "ceoPay": 13119417,
+    "medianPay": 50384,
+    "payRatio": 260,
+    "method": "cross-checked",
+    "employees": 5037,
+    "statedYear": 2017,
+    "excerpt": "formation about the relationship between the annual total compensation of our median employee and James D. Taiclet, Jr., our CEO: For 2017, our last completed fiscal year: | | |  | | | | the annual total compensation of the employee identified at the median of our Company (other than our CEO), was $50,384; and | | | |  | | | | the annual total compensation of our CEO was $13,119,417. | AMERICAN TOWER CORPORATION 2018 PROXY STATEMENT 59 Table of Contents COMPENSATION AND OTHER INFORMATION CONCERNING DIRECTORS AND OFFICERS Employment and Severance Arrangements Based on this information, for 2017 the ratio of the annual total compensation of Mr. Taiclet, our Chief Executive Officer, to the median employee was estimated to be approximately 260 to 1. This pay ratio is a reasonable estimate ca"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 1456594000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-044876"
+   },
+   "2008": {
+    "revenue": 1593504000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-050129"
+   },
+   "2009": {
+    "revenue": 1724114000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-086162"
+   },
+   "2010": {
+    "revenue": 1985335000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-077821"
+   },
+   "2011": {
+    "revenue": 2443532000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-068001"
+   },
+   "2012": {
+    "revenue": 2875960000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-15-059026"
+   },
+   "2013": {
+    "revenue": 3361407000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001053507-16-000018"
+   },
+   "2014": {
+    "revenue": 4100048000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001053507-17-000009"
+   },
+   "2015": {
+    "revenue": 4771500000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001053507-18-000006"
+   },
+   "2016": {
+    "revenue": 5785700000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001053507-19-000012"
+   },
+   "2017": {
+    "revenue": 6663900000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001053507-20-000028"
+   },
+   "2018": {
+    "revenue": 7440100000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001053507-21-000026"
+   },
+   "2019": {
+    "revenue": 7580300000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001053507-22-000017"
+   },
+   "2020": {
+    "revenue": 8041500000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001053507-23-000023"
+   },
+   "2021": {
+    "revenue": 9356900000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001053507-24-000011"
+   },
+   "2022": {
+    "revenue": 9645400000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001053507-25-000025"
+   },
+   "2023": {
+    "revenue": 10012200000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001053507-26-000035"
+   },
+   "2024": {
+    "revenue": 10127200000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001053507-26-000035"
+   },
+   "2025": {
+    "revenue": 10644600000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001053507-26-000035"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001053507-26-000035",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000035/amt-20251231.htm"
+   },
+   {
+    "accession": "0001053507-25-000025",
+    "filingDate": "2025-02-25",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350725000025/amt-20241231.htm"
+   },
+   {
+    "accession": "0001053507-24-000011",
+    "filingDate": "2024-02-27",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350724000011/amt-20231231.htm"
+   },
+   {
+    "accession": "0001053507-23-000023",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350723000023/amt-20221231.htm"
+   },
+   {
+    "accession": "0001053507-22-000017",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350722000017/amt-20211231.htm"
+   },
+   {
+    "accession": "0001053507-21-000026",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350721000026/amt-20201231.htm"
+   },
+   {
+    "accession": "0001053507-20-000028",
+    "filingDate": "2020-02-25",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350720000028/amt1231201910k.htm"
+   },
+   {
+    "accession": "0001053507-19-000012",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350719000012/amt1231201810k.htm"
+   },
+   {
+    "accession": "0001053507-18-000006",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350718000006/amt1231201710k.htm"
+   },
+   {
+    "accession": "0001053507-17-000009",
+    "filingDate": "2017-02-27",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350717000009/amt1231201610k.htm"
+   }
+  ]
+ }
+}

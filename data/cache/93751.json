@@ -1,0 +1,372 @@
+{
+ "proxies": {
+  "0001140361-26-013817": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/93751/000114036126013817/ny20058931x1_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000093751-26-000124",
+   "result": {
+    "ceoPay": 19529070,
+    "medianPay": 43491,
+    "payRatio": 449,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ology may differ from that applied by other companies, including other financial services companies, and so the information may not be comparable across companies. For 2025: | • | | the estimated median of the annual total compensation of all employees of State Street (other than Mr. O'Hanley), was $43,491; and | | • | | the annual total compensation of Mr. O'Hanley was $19,529,070. | Based on the foregoing, the ratio of the annual total compensation of Mr. O'Hanley to the median of the annual total compensation of all other employees is estimated to be 449 to 1. As permitted under SEC rules, we are using the same median employee for our 2025 CEO Pay Ratio calculation as was used for the 2024 pay ratio calculation since there has been no change in our employee population or employee compen"
+   }
+  },
+  "0001140361-25-012033": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/93751/000114036125012033/ny20039865x1_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000093751-25-000111",
+   "result": {
+    "ceoPay": 16715967,
+    "medianPay": 41630,
+    "payRatio": 402,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ology may differ from that applied by other companies, including other financial services companies, and so the information may not be comparable across companies. For 2024: | • | | the estimated median of the annual total compensation of all employees of State Street (other than Mr. O'Hanley), was $41,630; and | | • | | the annual total compensation of Mr. O'Hanley was $16,715,967. | Based on the foregoing, the ratio of the annual total compensation of Mr. O'Hanley to the median of the annual total compensation of all other employees is estimated to be 402 to 1. As described in more detail in our 2023 and 2024 Annual Reports on Form 10-K, as part of ongoing transformation and productivity initiatives, we assumed full ownership of our two operations joint ventures in India. The approximate"
+   }
+  },
+  "0001140361-24-017636": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/93751/000114036124017636/ny20020131x1_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000093751-24-000498",
+   "result": {
+    "ceoPay": 13449164,
+    "medianPay": 51581,
+    "payRatio": 261,
+    "method": "cross-checked",
+    "employees": 4000,
+    "statedYear": 2024,
+    "excerpt": "ology may differ from that applied by other companies, including other financial services companies, and so the information may not be comparable across companies. For 2023: | • | | the estimated median of the annual total compensation of all employees of State Street (other than Mr. O'Hanley), was $51,581; and | | • | | the annual total compensation of Mr. O'Hanley was $13,449,164 | Based on the foregoing, the ratio of the annual total compensation of Mr. O'Hanley to the median of the annual total compensation of all other employees is estimated to be 261 to 1. As permitted under SEC rules, we excluded from the above calculations a population of approximately 4,000 employees who joined State Street as part of a business combination in late 2023. As described in more detail in our 2023 Ann"
+   }
+  },
+  "0001140361-23-016724": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/93751/000114036123016724/ny20007238x1_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000093751-23-000489",
+   "result": {
+    "ceoPay": 18004619,
+    "medianPay": 48146,
+    "payRatio": 374,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "urrency translation caused a notable reduction in the estimated median of the annual total compensation of all employees of State Street for 2022 relative to 2021. For 2022: | • | | the estimated median of the annual total compensation of all employees of State Street (other than Mr. O'Hanley), was $48,146; and | | • | | the annual total compensation of Mr. O'Hanley was $18,004,619 | Based on the foregoing, the ratio of the annual total compensation of Mr. O'Hanley to the median of the annual total compensation of all other employees is estimated to be 374 to 1. We identified our median employee for 2022 based on our employee population as of October 1, 2022. We previously identified our median employee based on our employee population as of December 1, and made this change to align with o"
+   }
+  },
+  "0001140361-22-013372": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/93751/000114036122013372/ny20002049x1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000093751-22-000424",
+   "result": {
+    "ceoPay": 14113660,
+    "medianPay": 61463,
+    "payRatio": 230,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ncial services companies, under applicable SEC regulations. As a result, the information may not be comparable to similar information disclosed by other companies. For 2021: | • | | the estimated median of the annual total compensation of all employees of State Street (other than Mr. O'Hanley), was $61,463; and | | • | | the annual total compensation of Mr. O'Hanley was $14,113,660 | Based on the foregoing, the ratio of the annual total compensation of Mr. O'Hanley to the median of the annual total compensation of all other employees is estimated to be 230 to 1. As permitted under SEC rules, we are using the same median employee for our 2021 CEO Pay Ratio calculation as was used for the 2019 and 2020 pay ratio calculation since there has been no change in our employee population or employe"
+   }
+  },
+  "0001140361-21-011843": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/93751/000114036121011843/nc10018789x1_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000093751-21-000476",
+   "result": {
+    "ceoPay": 9309980,
+    "medianPay": 59199,
+    "payRatio": 157,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ncial services companies, under applicable SEC regulations. As a result, the information may not be comparable to similar information disclosed by other companies. For 2020: | • | | the estimated median of the annual total compensation of all employees of State Street (other than Mr. O'Hanley), was $59,199; and | | • | | the annual total compensation of Mr. O'Hanley was $9,309,980 | Based on the foregoing, the ratio of the annual total compensation of Mr. O'Hanley to the median of the annual total compensation of all other employees is estimated to be 157 to 1. As permitted under SEC rules, we are using the same median employee for our 2020 CEO Pay Ratio calculation as was used for the 2019 pay ratio calculation since there has been no change in our employee population or employee compensa"
+   }
+  },
+  "0001193125-20-101334": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/93751/000119312520101334/d858454ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000093751-20-000684",
+   "result": {
+    "ceoPay": 8699401,
+    "medianPay": 56610,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "f the median employee and Mr. OHanley. Accordingly, the methodology differs from the methodology we used for 2018, which included health and welfare benefits. For 2019: |  | | | | the estimated median of the annual total compensation of all employees of State Street (other than Mr. OHanley), was $56,610; and | |  | | | | the annual total compensation of Mr. OHanley was $8,699,401 | Based on the foregoing, the ratio of the annual total compensation of Mr. OHanley to the median of the annual total compensation of all other employees is estimated to be 154 to 1. We identified our median employee for 2019 based on our employee population as of December 1, 2019. State Street employees are generally eligible for base pay and incentive compensation. We therefore analyzed our employee popula"
+   }
+  },
+  "0001193125-19-099183": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/93751/000119312519099183/d686126ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000093751-19-000336",
+   "result": {
+    "ceoPay": 16119826,
+    "medianPay": 68527,
+    "payRatio": 235,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "otal compensation of the median employee for 2018. Accordingly, the information below may not be comparable to the information we disclosed for 2017. For 2018, we estimate that: | | |  | | | | the median of the annual total compensation of all employees of State Street (other than Mr. Hooley), was $68,527; and | | | |  | | | | the annual total compensation of Mr. Hooley was $16,119,826 | Based on the foregoing, the ratio of the annual total compensation of Mr. Hooley to the median of the annual total compensation of all other employees is estimated to be 235 to 1. Given changes to our employee population in 2018, we identified our median employeethe employee at the midpoint of our employee populationbased on our employee population as of December 1, 2018. State Street employees are gen"
+   }
+  },
+  "0001193125-18-108804": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/93751/000119312518108804/d532804ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000093751-18-000308",
+   "result": {
+    "ceoPay": 19497361,
+    "medianPay": 85322,
+    "payRatio": 229,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "nies, under applicable SEC regulations. As a result, the information below may not be comparable to similar information disclosed by other companies. For 2017, we estimate that: | | |  | | | | the median of the annual total compensation of all employees of State Street (other than Mr. Hooley), was $85,322; and | | | |  | | | | the annual total compensation of Mr. Hooley was $19,497,361 | Based on the foregoing, the ratio of the annual total compensation of Mr. Hooley to the median of the annual total compensation of all other employees is estimated to be 229 to 1. We identified our median employeethe employee at the midpoint of our employee populationbased on our employee population as of December 1, 2017. State Street employees are generally eligible for base pay and incentive pay. We"
+   }
+  }
+ },
+ "tenKs": {
+  "0000093751-18-000308": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000093751-19-000336": {
+   "parserVersion": 1,
+   "employees": 40000
+  },
+  "0000093751-20-000684": {
+   "parserVersion": 1,
+   "employees": 39000
+  },
+  "0000093751-21-000476": {
+   "parserVersion": 1,
+   "employees": 39000
+  },
+  "0000093751-22-000424": {
+   "parserVersion": 1,
+   "employees": 39000
+  },
+  "0000093751-23-000489": {
+   "parserVersion": 1,
+   "employees": 42000
+  },
+  "0000093751-25-000111": {
+   "parserVersion": 1,
+   "employees": 53000
+  },
+  "0000093751-26-000124": {
+   "parserVersion": 1,
+   "employees": 52000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 8336000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-036481"
+   },
+   "2008": {
+    "revenue": 10693000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-047982"
+   },
+   "2009": {
+    "revenue": 8640000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-079737"
+   },
+   "2010": {
+    "revenue": 8953000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-13-000040"
+   },
+   "2011": {
+    "revenue": 9594000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-14-000040"
+   },
+   "2012": {
+    "revenue": 9649000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-15-000042"
+   },
+   "2013": {
+    "revenue": 9864000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-16-000446"
+   },
+   "2014": {
+    "revenue": 10274000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-17-000249"
+   },
+   "2015": {
+    "revenue": 10360000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-18-000308"
+   },
+   "2016": {
+    "revenue": 10207000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-19-000336"
+   },
+   "2017": {
+    "revenue": 11266000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-20-000684"
+   },
+   "2018": {
+    "revenue": 12131000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-21-000476"
+   },
+   "2019": {
+    "revenue": 11756000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-22-000424"
+   },
+   "2020": {
+    "revenue": 11703000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-23-000489"
+   },
+   "2021": {
+    "revenue": 12027000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-24-000498"
+   },
+   "2022": {
+    "revenue": 12148000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-25-000111"
+   },
+   "2023": {
+    "revenue": 11945000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-26-000124"
+   },
+   "2024": {
+    "revenue": 13000000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-26-000124"
+   },
+   "2025": {
+    "revenue": 13944000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000093751-26-000124"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 14113660,
+   "2022": 18004619,
+   "2023": 13449164,
+   "2024": 16715967,
+   "2025": 19529070
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000093751-26-000124",
+    "filingDate": "2026-02-19",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375126000124/stt-20251231.htm"
+   },
+   {
+    "accession": "0000093751-25-000111",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375125000111/stt-20241231.htm"
+   },
+   {
+    "accession": "0000093751-24-000498",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375124000498/stt-20231231.htm"
+   },
+   {
+    "accession": "0000093751-23-000489",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375123000489/stt-20221231.htm"
+   },
+   {
+    "accession": "0000093751-22-000424",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375122000424/stt-20211231.htm"
+   },
+   {
+    "accession": "0000093751-21-000476",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375121000476/stt-20201231.htm"
+   },
+   {
+    "accession": "0000093751-20-000684",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375120000684/stt-2019123110xk.htm"
+   },
+   {
+    "accession": "0000093751-19-000336",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375119000336/stt-20181231_10k.htm"
+   },
+   {
+    "accession": "0000093751-18-000308",
+    "filingDate": "2018-02-26",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375118000308/stt-20171231_10k.htm"
+   },
+   {
+    "accession": "0000093751-17-000249",
+    "filingDate": "2017-02-17",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/93751/000009375117000249/stt-20161231_10k.htm"
+   }
+  ]
+ }
+}

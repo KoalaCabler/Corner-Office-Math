@@ -1,0 +1,328 @@
+{
+ "proxies": {
+  "0001628280-26-025521": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026025521/axon-20260416.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-011360",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 135696,
+    "payRatio": 0.3,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ts of the Summary Compensation Table above as if the median compensated employee was a named executive officer. Mr. Smith's annual total compensation, as reported in the Summary Compensation Table above, was $40,001 for 2025 , and the median 2025 annual total compensation of all other employees was $135,696 . Consequently, the applicable ratio of such amounts for 2025 was 0.3:1 . Our methodology for identifying our median compensated employee for 2025 was as follows: • We determined that, as of December 31, 2025 , Axon and all of our subsidiaries had 5,146 qualifying individuals (full-time, part-time, and temporary employees other than Mr. Smith), of which 20% were based outside of the United States and 14% were production-line employees. • We did not include in the population of qualifyin"
+   }
+  },
+  "0001069183-25-000055": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918325000055/axon-20250416.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001069183-25-000019",
+   "result": {
+    "ceoPay": 164525721,
+    "medianPay": 205322,
+    "payRatio": 801,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "CEO Performance Award\" and \"Executive Compensation-Compensation Discussion and Analysis-Components of Executiv e Compensation-Long-Term Performance-Based Equity Compensation-2024 CEO Performance Award\". Mr. Smith's annual total compensation, as reported in the Summary Compensation Table above, was $164,525,721 for 2024 , and the median 2024 annual total compensation of all other employees was $205,322 . Consequently, the applicable ratio of such amounts for 2024 was 801:1 . Our methodology for identifying the median of the 2024 annual total compensation for each of our employees other than Mr. Smith was as follows: • We determined that, as of December 31, 2024 , Axon and all of our subsidiaries had 4,440 qualifying individuals (full-time, part-time, and temporary employees other than Mr."
+   }
+  },
+  "0001558370-24-004374": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837024004374/axon-20240510xdef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001069183-24-000006",
+   "result": null
+  },
+  "0001069183-23-000019": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918323000019/axon-20230531xdef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001558370-23-002413",
+   "result": null
+  },
+  "0001558370-22-005230": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837022005230/tmb-20220520xdef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001558370-22-002006",
+   "result": null
+  },
+  "0001558370-21-004169": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837021004169/tmb-20210527xdef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001558370-21-001873",
+   "result": {
+    "ceoPay": 2559392,
+    "medianPay": 102499,
+    "payRatio": 25,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "actually realized as compensation in that year or over a period of time. See \"Executive Compensation - Compensation Discussion and Analysis - Our Compensation Programs - CEO Performance Award\" above. Mr. Smith's annual total compensation, as reported in the Summary Compensation Table, for 2020 was $2,559,392, and the median 2020 annual total compensation of all other employees was $102,499. Consequently, the applicable ratio of such amounts for 2020 was 25:1. Our methodology for identifying the median of the 2020 annual total compensation for each of our employees other than Mr. Smith was as follows: ● We determined that as of December 31, 2020, Axon and all of our subsidiaries had 1,716 qualifying individuals (full-time, part-time, and temporary employees other than Mr. Smith), of which"
+   }
+  },
+  "0001069183-20-000050": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918320000050/a2020definitiveproxystatem.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001069183-20-000016",
+   "result": null
+  },
+  "0001069183-19-000057": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918319000057/a2019definitiveproxystatem.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001069183-19-000023",
+   "result": {
+    "ceoPay": 246026710,
+    "medianPay": 95157,
+    "payRatio": 2585,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "sted. See \"Executive Compensation - Compensation Discussion and Analysis - Our Compensation Programs - CEO Performance Award\" above. Axon Enterprise, Inc. | 2019 Proxy Statement | 34 Table of Contents Mr. Smith's annual total compensation, as reported in the Summary Compensation Table, for 2018 was $246,026,710 , and the median 2018 annual total compensation of all other employees was $95,157. Consequently, the applicable ratio of such amounts for 2018 was 2,585:1. Our methodology for identifying the median of the 2018 annual total compensation for each of our employees other than Mr. Smith was as follows: | | | | | • | | We determined that as of December 31, 2018, Axon and all of our subsidiaries had 1,155 qualifying individuals (full-time, part-time and temporary employees other than Mr."
+   }
+  },
+  "0001069183-18-000143": {
+   "parserVersion": 1,
+   "filingDate": "2018-12-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918318000143/a2018definitivespecialprox.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001069183-18-000020",
+   "result": {
+    "ceoPay": 3765675,
+    "medianPay": 92730,
+    "payRatio": 41,
+    "method": "cross-checked",
+    "employees": 949,
+    "statedYear": 2017,
+    "excerpt": "joining the Company. | PAY RATIO OF CHIEF EXECUTIVE OFFICER COMPENSATION TO MEDIAN EMPLOYEE COMPENSATION The Company has determined that the 2017 annual total compensation of the estimated median compensated employee who was employed as of December 31, 2017, excluding the CEO, Patrick W. Smith, was $92,730. Mr. Smith's annual total compensation for 2017 was $3,765,675 . Mr. Smith's annual total compensation is forty-one times (or a ratio of 41 to 1) that of the estimated median compensated Axon employee. This pay ratio is a reasonable estimate calculated in accordance with SEC rules based on our payroll and employment records and the methodology described below. Historically, the Company's annual grant of stock awards was in February of each year, but it was shifted to the preceding Decemb"
+   }
+  },
+  "0001069183-18-000035": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918318000035/a2018defproxystatement.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001069183-18-000020",
+   "result": {
+    "ceoPay": 3765675,
+    "medianPay": 92730,
+    "payRatio": 41,
+    "method": "cross-checked",
+    "employees": 949,
+    "statedYear": 2017,
+    "excerpt": "joining the Company. | PAY RATIO OF CHIEF EXECUTIVE OFFICER COMPENSATION TO MEDIAN EMPLOYEE COMPENSATION The Company has determined that the 2017 annual total compensation of the estimated median compensated employee who was employed as of December 31, 2017, excluding the CEO, Patrick W. Smith, was $92,730. Mr. Smith's annual total compensation for 2017 was $3,765,675 . Mr. Smith's annual total compensation is forty-one times (or a ratio of 41 to 1) that of the estimated median compensated Axon employee. This pay ratio is a reasonable estimate calculated in accordance with SEC rules based on our payroll and employment records and the methodology described below. Historically, the Company's annual grant of stock awards was in February of each year, but it was shifted to the preceding Decemb"
+   }
+  }
+ },
+ "tenKs": {
+  "0001069183-19-000023": {
+   "parserVersion": 1,
+   "employees": 1155
+  },
+  "0001558370-21-001873": {
+   "parserVersion": 1,
+   "employees": 1710
+  },
+  "0001069183-25-000019": {
+   "parserVersion": 1,
+   "employees": 4100
+  },
+  "0001628280-26-011360": {
+   "parserVersion": 1,
+   "employees": 5100
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 104251560,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001193125-12-112320"
+   },
+   "2010": {
+    "revenue": 86930019,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-098571"
+   },
+   "2011": {
+    "revenue": 90028000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-091839"
+   },
+   "2012": {
+    "revenue": 114753000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001069183-15-000028"
+   },
+   "2013": {
+    "revenue": 137831000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001069183-16-000148"
+   },
+   "2014": {
+    "revenue": 164525000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001069183-17-000042"
+   },
+   "2015": {
+    "revenue": 197892000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001069183-18-000020"
+   },
+   "2016": {
+    "revenue": 268245000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001069183-19-000023"
+   },
+   "2017": {
+    "revenue": 343798000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001069183-20-000016"
+   },
+   "2018": {
+    "revenue": 420068000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-21-001873"
+   },
+   "2019": {
+    "revenue": 530860000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-22-002006"
+   },
+   "2020": {
+    "revenue": 681003000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001558370-23-002413"
+   },
+   "2021": {
+    "revenue": 863381000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001069183-24-000006"
+   },
+   "2022": {
+    "revenue": 1187143000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001069183-25-000075"
+   },
+   "2023": {
+    "revenue": 1560699000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-011360"
+   },
+   "2024": {
+    "revenue": 2082526000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-011360"
+   },
+   "2025": {
+    "revenue": 2779536000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-011360"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 33115,
+   "2022": 33203,
+   "2023": 40058,
+   "2024": 164525721,
+   "2025": 40001
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-011360",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026011360/axon-20251231.htm"
+   },
+   {
+    "accession": "0001069183-25-000019",
+    "filingDate": "2025-02-28",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918325000019/axon-20241231.htm"
+   },
+   {
+    "accession": "0001069183-24-000006",
+    "filingDate": "2024-02-27",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918324000006/axon-20231231x10k.htm"
+   },
+   {
+    "accession": "0001558370-23-002413",
+    "filingDate": "2023-02-28",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837023002413/axon-20221231x10k.htm"
+   },
+   {
+    "accession": "0001558370-22-002006",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837022002006/axon-20211231x10k.htm"
+   },
+   {
+    "accession": "0001558370-21-001873",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837021001873/axon-20201231x10k.htm"
+   },
+   {
+    "accession": "0001069183-20-000016",
+    "filingDate": "2020-02-28",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918320000016/a10kaaxn123119.htm"
+   },
+   {
+    "accession": "0001069183-19-000023",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918319000023/a10kaaxn123118.htm"
+   },
+   {
+    "accession": "0001069183-18-000020",
+    "filingDate": "2018-03-01",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918318000020/a10kaaxn123117.htm"
+   },
+   {
+    "accession": "0001069183-17-000042",
+    "filingDate": "2017-03-06",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918317000042/a10ktasr123116.htm"
+   }
+  ]
+ }
+}

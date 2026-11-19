@@ -1,0 +1,302 @@
+{
+ "proxies": {
+  "0001104659-26-020027": {
+   "parserVersion": 1,
+   "filingDate": "2026-02-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465926020027/tm261383-1_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000033213-26-000018",
+   "result": {
+    "ceoPay": 16087233,
+    "medianPay": 155823,
+    "payRatio": 103,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "the information provided by other companies in our peer group or otherwise. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Mr. Rice's annual total compensation for 2025, calculated pursuant to SEC rules, was $16,087,233. The annual total compensation of the median employee of the Company for 2025, calculated pursuant to SEC rules, was $155,823. Accordingly, the ratio of the annual total compensation of the CEO to that of the median employee of the Company was 103:1 for 2025. For the year ended December 31, 2025, we identified a new median employee. In identifying the median employee, we used total direct compensation as our compensation measure and a determination date of December 31, 2025 (the \"Det"
+   }
+  },
+  "0001104659-25-019408": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465925019408/tm252296d4_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000033213-25-000011",
+   "result": {
+    "ceoPay": 11254921,
+    "medianPay": 152502,
+    "payRatio": 74,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "the information provided by other companies in our peer group or otherwise. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Mr. Rice's annual total compensation for 2024, calculated pursuant to SEC rules, was $11,254,921. The annual total compensation of the median employee of the Company for 2024, calculated pursuant to SEC rules, was $152,502. Accordingly, the ratio of the annual total compensation of the CEO to that of the median employee of the Company was 74:1 for 2024. Effective July 22, 2024, the Company acquired the entirety of Equitrans Midstream Corporation and its subsidiaries. Pursuant to Part 2 of Instruction 7 to Item 402(u) of Regulation S-K, employees who joined the Company as a resul"
+   }
+  },
+  "0001104659-24-029592": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465924029592/tm2329632d3_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000033213-24-000008",
+   "result": {
+    "ceoPay": 10600926,
+    "medianPay": 135105,
+    "payRatio": 78,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "the information provided by other companies in our peer group or otherwise. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Mr. Rice's annual total compensation for 2023, calculated pursuant to SEC rules, was $10,600,926. The annual total compensation of the median employee of the Company for 2023, calculated pursuant to SEC rules, was $135,105. Accordingly, the ratio of the annual total compensation of the CEO to that of the median employee of the Company was 78:1 for 2023. For the year ended December 31, 2023, we used the same median employee as was used in the previous year. For the year ended December 31, 2022, we identified a new median employee, as the employee we had identified in 2021 was no"
+   }
+  },
+  "0001104659-23-027608": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465923027608/tm231740d3_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000033213-23-000008",
+   "result": {
+    "ceoPay": 11600737,
+    "medianPay": 121492,
+    "payRatio": 95,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "the information provided by other companies in our peer group or otherwise. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Mr. Rice's annual total compensation for 2022, calculated pursuant to SEC rules, was $11,600,737. The annual total compensation of the median employee of the Company for 2022, calculated pursuant to SEC rules, was $121,492. Accordingly, the ratio of the annual total compensation of the CEO to that of the median employee of the Company was 95:1 for 2022. For the year ended December 31, 2022, we identified a new median employee, as the employee we had identified in 2021 was no longer employed on the Determination Date (as defined below). In identifying the median employee, we used"
+   }
+  },
+  "0001104659-22-026318": {
+   "parserVersion": 1,
+   "filingDate": "2022-02-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465922026318/tm223361-1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000033213-22-000007",
+   "result": {
+    "ceoPay": 16919763,
+    "medianPay": 122460,
+    "payRatio": 138,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "the information provided by other companies in our peer group or otherwise. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Mr. Rice's annual total compensation for 2021, calculated pursuant to SEC rules, was $16,919,763. The annual total compensation of the median employee of the Company for 2021, calculated pursuant to SEC rules, was $122,460. Accordingly, the ratio of the annual total compensation of the CEO to that of the median employee of the Company was 138:1 for 2021. In light of the addition of 71 employees as a result of our acquisition of the upstream and midstream business of Alta Resources in July 2021, as well as the adoption of our \"equity for all\" program during 2021, we calculated a"
+   }
+  },
+  "0001104659-21-080127": {
+   "parserVersion": 1,
+   "filingDate": "2021-06-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465921080127/tm2117308-2_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000033213-21-000006",
+   "result": null
+  },
+  "0001104659-21-027539": {
+   "parserVersion": 1,
+   "filingDate": "2021-02-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465921027539/tm2039127-2_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000033213-21-000006",
+   "result": {
+    "ceoPay": 7526515,
+    "medianPay": 115690,
+    "payRatio": 65.05,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ther companies in our peer group or otherwise. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Our President and CEO, Mr. Toby Rice, had annual total compensation for 2020, calculated pursuant to SEC rules, of $7,526,515. The annual total compensation of the median employee of the Company for 2020, calculated pursuant to SEC rules, was $115,690. Accordingly, the ratio of the annual total compensation of the CEO to the annual total compensation of the median employee of the Company was 65.05:1 for 2020. During 2020, there were no changes to our employee population or our employee compensation arrangements that we believed would significantly impact our pay ratio disclosure. Accordingly, our median empl"
+   }
+  },
+  "0001104659-20-080062": {
+   "parserVersion": 1,
+   "filingDate": "2020-07-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465920080062/tm2021785-2_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000033213-20-000008",
+   "result": null
+  },
+  "0001104659-20-030961": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465920030961/tm192550d2_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000033213-20-000008",
+   "result": null
+  },
+  "0001104659-18-027302": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465918027302/a18-2933_1def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000033213-18-000003",
+   "result": {
+    "ceoPay": 8254140,
+    "medianPay": 102470,
+    "payRatio": 81,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "rules. In making this pay ratio disclosure, other companies may use assumptions, estimates and methodologies different than ours; as a result, the following information may not be comparable to the information provided by other companies. For 2017: · the annualized total compensation of our CEO was $8,254,140; and · the median of the annual total compensation of all employees of the Company (other than our CEO) was $102,470. Based on this information, the ratio of the annualized total compensation of Mr. Schlotterbeck to the median of the annual total compensation of all other employees was 81 to 1. The compensation identified above for both Mr. Schlotterbeck and the median employee was calculated using the same methodology we used for our named executive officers as set forth in the 2017"
+   }
+  }
+ },
+ "tenKs": {
+  "0000033213-18-000003": {
+   "parserVersion": 1,
+   "employees": 2067
+  },
+  "0000033213-21-000006": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000033213-22-000007": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000033213-23-000008": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000033213-24-000008": {
+   "parserVersion": 1,
+   "employees": 881
+  },
+  "0000033213-25-000011": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000033213-26-000018": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2016": {
+    "revenue": 1387054000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000033213-19-000006"
+   },
+   "2017": {
+    "revenue": 3091020000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000033213-20-000008"
+   },
+   "2018": {
+    "revenue": 4709384000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000033213-21-000006"
+   },
+   "2019": {
+    "revenue": 4416484000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000033213-22-000007"
+   },
+   "2020": {
+    "revenue": 3058843000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000033213-23-000008"
+   },
+   "2021": {
+    "revenue": 6804020000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000033213-24-000008"
+   },
+   "2022": {
+    "revenue": 12114168000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000033213-24-000008"
+   },
+   "2023": {
+    "revenue": 6908923000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000033213-26-000018"
+   },
+   "2024": {
+    "revenue": 5273309000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000033213-26-000018"
+   },
+   "2025": {
+    "revenue": 8644211000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000033213-26-000018"
+   }
+  },
+  "employeesTagged": {
+   "0001104659-13-012699": 1873
+  },
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000033213-26-000018",
+    "filingDate": "2026-02-18",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321326000018/eqt-20251231.htm"
+   },
+   {
+    "accession": "0000033213-25-000011",
+    "filingDate": "2025-02-19",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321325000011/eqt-20241231.htm"
+   },
+   {
+    "accession": "0000033213-24-000008",
+    "filingDate": "2024-02-14",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321324000008/eqt-20231231.htm"
+   },
+   {
+    "accession": "0000033213-23-000008",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321323000008/eqt-20221231.htm"
+   },
+   {
+    "accession": "0000033213-22-000007",
+    "filingDate": "2022-02-10",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321322000007/eqt-20211231.htm"
+   },
+   {
+    "accession": "0000033213-21-000006",
+    "filingDate": "2021-02-17",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321321000006/eqt-20201231.htm"
+   },
+   {
+    "accession": "0000033213-20-000008",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321320000008/a1231201910k.htm"
+   },
+   {
+    "accession": "0000033213-19-000006",
+    "filingDate": "2019-02-14",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321319000006/eqt1231201810k.htm"
+   },
+   {
+    "accession": "0000033213-18-000003",
+    "filingDate": "2018-02-15",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321318000003/eqt-12312017x10k.htm"
+   },
+   {
+    "accession": "0000033213-17-000003",
+    "filingDate": "2017-02-09",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/33213/000003321317000003/eqt-12312016x10k.htm"
+   }
+  ]
+ }
+}

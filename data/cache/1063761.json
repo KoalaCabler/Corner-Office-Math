@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001104659-26-038320": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1063761/000110465926038320/spg-20260513xdef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001104659-26-019419",
+   "result": {
+    "ceoPay": 11663678,
+    "medianPay": 78989,
+    "payRatio": 148,
+    "method": "cross-checked",
+    "employees": 2800,
+    "statedYear": 2025,
+    "excerpt": "completed fiscal year, the Company has made the following calculations in accordance with the rules of the SEC: | | ● | | The total annual compensation of our median employee, who is a Senior Analyst located at our corporate headquarters in Indianapolis, Indiana, other than our CEO during 2025, was $78,989. | | | ● | | The total annual compensation of our CEO during 2025, as reported in the \"Total\" column of the 2025 Summary Compensation Table, was $11,663,678. | Based on this information, the ratio of the total annual compensation of our CEO to the total annual compensation of our median employee is estimated to be 148 to 1. We believe that this pay ratio reflects a reasonable estimate consistent with SEC rules based on the methodology we described above. Because SEC rules for identifying"
+   }
+  },
+  "0001558370-25-004238": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1063761/000155837025004238/spg-20250514xdef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001558370-25-001271",
+   "result": {
+    "ceoPay": 61394770,
+    "medianPay": 78174,
+    "payRatio": 785,
+    "method": "cross-checked",
+    "employees": 2800,
+    "statedYear": 2024,
+    "excerpt": "st completed fiscal year, the Company has made the following calculations in accordance with the rules of the SEC: | | ● | | The total annual compensation of our median employee, who is a Senior Analyst employee located at our corporate headquarters in Indianapolis, Indiana, other than our CEO, was $78,174. | | | ● | | Our CEO's total annual compensation, as reported in the \"Total\" column of the 2024 Summary Compensation Table, was $61,394,770. This amount is inclusive of LTIP units granted in 2024 under the A&R OPI Program with a full grant date fair value of $46,451,216. This award vests in equal annual installments over a five-year period, subject to the CEO's continued service through each vesting date. See \"Compensation Discussion and Analysis- A&R OPI Program - 2024 OPI Award \" on pa"
+   }
+  },
+  "0001558370-24-004080": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1063761/000155837024004080/spg-20240508xdef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001558370-24-001532",
+   "result": {
+    "ceoPay": 15564307,
+    "medianPay": 52166.78,
+    "payRatio": 298,
+    "method": "cross-checked",
+    "employees": 3700,
+    "statedYear": 2023,
+    "excerpt": "For 2023, our last completed fiscal year, the Company has made the following calculations in accordance with the rules of the SEC: | | ● | | The total annual compensation of our median employee, who is a senior maintenance employee located at one of our U.S. mall properties, other than our CEO, was $52,166.78. | | | ● | | Our CEO's total annual compensation, as reported in the \"Total\" column of the 2023 Summary Compensation Table, was $15,564,307. | | | | | | | | | | 2024 PROXY STATEMENT | SIMON PROPERTY GROUP | | 72 | Table of Contents COMPENSATION DISCUSSION AND ANALYSIS Based on this information, the ratio of the total annual compensation of our CEO to the total annual compensation of our median employee is estimated to be 298 to 1. We believe that this pay ratio reflects a reasonable e"
+   }
+  },
+  "0001104659-23-036085": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1063761/000110465923036085/tm231787-2_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001558370-23-001840",
+   "result": {
+    "ceoPay": 35667783,
+    "medianPay": 66313,
+    "payRatio": 538,
+    "method": "cross-checked",
+    "employees": 3200,
+    "statedYear": 2022,
+    "excerpt": "atio For 2022, our last completed fiscal year, the Company has made the following calculations in accordance with the rules of the SEC: • The total annual compensation of our median employee, who is an administrative assistant located at our headquarters in Indianapolis, IN, other than our CEO, was $66,313. • Our CEO's total annual compensation, as reported in the \"Total\" column of the 2022 Summary Compensation Table, was $35,667,783. Based on this information, the ratio of the total annual compensation of our CEO to the total annual compensation of our median employee is estimated to be 538 to 1. We believe that this pay ratio reflects a reasonable estimate consistent with SEC rules based on the methodology we described above. Because SEC rules for identifying a median compensated employe"
+   }
+  },
+  "0001104659-22-039621": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1063761/000110465922039621/tm221339-1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001558370-22-001845",
+   "result": {
+    "ceoPay": 10475192,
+    "medianPay": 64069,
+    "payRatio": 163,
+    "method": "cross-checked",
+    "employees": 3200,
+    "statedYear": 2021,
+    "excerpt": "the Company's median employee. 2021 Pay Ratio The Company has made the following calculations in accordance with the rules of the SEC: • The annual total compensation of our median employee, who is an administrative assistant located at our headquarters in Indianapolis, IN, other than our CEO, was $64,069. • Our CEO's annual total compensation, as reported in the \"Total\" column of the 2021 Summary Compensation Table, was $10,475,192. Based on this information, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee is estimated to be 163 to 1. We believe that this pay ratio reflects a reasonable estimate consistent with SEC rules based on the methodology we described above. Because SEC rules for identifying a median compensated employe"
+   }
+  },
+  "0001047469-21-000754": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1063761/000104746921000754/a2243104zdef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001558370-21-001700",
+   "result": {
+    "ceoPay": 8966782,
+    "medianPay": 67421,
+    "payRatio": 133,
+    "method": "cross-checked",
+    "employees": 3200,
+    "statedYear": 2020,
+    "excerpt": "the Company's median employee. 2020 PAY RATIO The Company has made the following calculations in accordance with the rules of the SEC:  The annual total compensation of our median employee, who is an administrative assistant located at our headquarters in Indianapolis, IN, other than our CEO, was $67,421.  Our CEO's annual total compensation, as reported in the \"Total\" column of the 2020 Summary Compensation Table, was $8,966,782. Based on this information, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee is estimated to be 133 to 1. EQUITY COMPENSATION PLAN INFORMATION The following table provides information about our common stock that may be issued upon the exercise of options, warrants and rights under our existing equity"
+   }
+  },
+  "0001047469-20-002003": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1063761/000104746920002003/a2241143zdef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001558370-20-001135",
+   "result": {
+    "ceoPay": 10439378,
+    "medianPay": 62457,
+    "payRatio": 166,
+    "method": "cross-checked",
+    "employees": 3500,
+    "statedYear": 2019,
+    "excerpt": "pensation for purposes of the 2019 Summary Compensation Table with respect to each of the named executive officers. 2019 PAY RATIO The Company has made the following calculations in accordance with the rules of the SEC:  The annual total compensation of our median employee, other than our CEO, was $62,457.  Our CEO's annual total compensation, as reported in the \"Total\" column of the 2019 Summary Compensation Table, was $10,439,378. Based on this information, the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee is estimated to be 166 to 1. EQUITY COMPENSATION PLAN INFORMATION The following table gives information about our common stock that may be issued upon the exercise of options, warrants and rights under our existing equity co"
+   }
+  },
+  "0001047469-19-001687": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1063761/000104746919001687/a2238193zdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001558370-19-000875",
+   "result": {
+    "ceoPay": 11436918,
+    "medianPay": 66910,
+    "payRatio": 171,
+    "method": "cross-checked",
+    "employees": 3500,
+    "statedYear": 2019,
+    "excerpt": "urposes of the 2018 Summary Compensation Table with respect to each of the named executive officers. 2018 PAY RATIO The Company has made the following calculations in accordance with the rules of the SEC:  The median of the annual total compensation of all of our employees, other than our CEO, was $66,910.  Our CEO's annual total compensation, as reported in the \"Total\" column of the 2018 Summary Compensation Table, was $11,436,918.  Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees is estimated to be 171 to 1. SIMON PROPERTY GROUP 2019 PROXY STATEMENT 41 Table of Contents PROPOSAL 3: Ratification of Independent Registered Public Accounting Firm The Audit Committee has selected Ernst & Young L"
+   }
+  },
+  "0001047469-18-002243": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1063761/000104746918002243/a2235010zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001558370-18-000981",
+   "result": {
+    "ceoPay": 4765657,
+    "medianPay": 53872,
+    "payRatio": 88,
+    "method": "cross-checked",
+    "employees": 3500,
+    "statedYear": 2018,
+    "excerpt": "urposes of the 2017 Summary Compensation Table with respect to each of the named executive officers. 2017 PAY RATIO The Company has made the following calculations in accordance with the rules of the SEC:  The median of the annual total compensation of all of our employees, other than our CEO, was $53,872.  Our CEO's annual total compensation, as reported in the \"Total\" column of the 2017 Summary Compensation Table, was $4,765,657.  Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all employees is estimated to be 88 to 1. SIMON PROPERTY GROUP 2018 PROXY STATEMENT 43 Table of Contents PROPOSAL 3: Ratification of Independent Registered Public Accounting Firm The Audit Committee has selected Ernst & Young LLP"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 3650799000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-10-001324"
+   },
+   "2008": {
+    "revenue": 3783155000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-001321"
+   },
+   "2009": {
+    "revenue": 3775216000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-12-001667"
+   },
+   "2010": {
+    "revenue": 3957630000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-13-001862"
+   },
+   "2011": {
+    "revenue": 4306432000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-14-001416"
+   },
+   "2012": {
+    "revenue": 4256157000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-15-001339"
+   },
+   "2013": {
+    "revenue": 4543849000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-16-010465"
+   },
+   "2014": {
+    "revenue": 4870818000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-17-000934"
+   },
+   "2015": {
+    "revenue": 5266103000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-18-000981"
+   },
+   "2016": {
+    "revenue": 5435229000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-19-000875"
+   },
+   "2017": {
+    "revenue": 5527336000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-20-001135"
+   },
+   "2018": {
+    "revenue": 5645288000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-21-001700"
+   },
+   "2019": {
+    "revenue": 5755189000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-22-001845"
+   },
+   "2020": {
+    "revenue": 4607503000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-23-001840"
+   },
+   "2021": {
+    "revenue": 5116789000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-24-001532"
+   },
+   "2022": {
+    "revenue": 5291447000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-25-001271"
+   },
+   "2023": {
+    "revenue": 5658836000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-019419"
+   },
+   "2024": {
+    "revenue": 5963798000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-019419"
+   },
+   "2025": {
+    "revenue": 6364505000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-019419"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001104659-26-019419",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1063761/000110465926019419/spg-20251231x10k.htm"
+   },
+   {
+    "accession": "0001558370-25-001271",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1063761/000155837025001271/spg-20241231x10k.htm"
+   },
+   {
+    "accession": "0001558370-24-001532",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1063761/000155837024001532/spg-20231231x10k.htm"
+   },
+   {
+    "accession": "0001558370-23-001840",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1063761/000155837023001840/spg-20221231x10k.htm"
+   },
+   {
+    "accession": "0001558370-22-001845",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1063761/000155837022001845/spg-20211231x10k.htm"
+   },
+   {
+    "accession": "0001558370-21-001700",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1063761/000155837021001700/spg-20201231x10k.htm"
+   },
+   {
+    "accession": "0001558370-20-001135",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1063761/000155837020001135/spg-20191231x10k.htm"
+   },
+   {
+    "accession": "0001558370-19-000875",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1063761/000155837019000875/spg-20181231x10k.htm"
+   },
+   {
+    "accession": "0001558370-18-000981",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1063761/000155837018000981/spg-20171231x10k.htm"
+   },
+   {
+    "accession": "0001558370-17-000934",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1063761/000155837017000934/spg-20161231x10k.htm"
+   }
+  ]
+ }
+}

@@ -13,7 +13,7 @@
   "name": "A. O. Smith",
   "sector": "Industrials",
   "industry": "Building Products",
-  "headquarters": "Milwaukee, Wisconsin",
+  "headquarters": "Milwaukee , Wisconsin",
   "dateAdded": "2017-07-26",
   "cik": 91142
  },
@@ -40,7 +40,7 @@
   "name": "Accenture",
   "sector": "Information Technology",
   "industry": "IT Consulting & Other Services",
-  "headquarters": "Dublin, Ireland",
+  "headquarters": "Dublin , Ireland",
   "dateAdded": "2011-07-06",
   "cik": 1467373
  },
@@ -103,7 +103,7 @@
   "name": "Airbnb",
   "sector": "Consumer Discretionary",
   "industry": "Hotels, Resorts & Cruise Lines",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "2023-09-18",
   "cik": 1559720
  },
@@ -148,7 +148,7 @@
   "name": "Allegion",
   "sector": "Industrials",
   "industry": "Building Products",
-  "headquarters": "Dublin, Ireland",
+  "headquarters": "Dublin , Ireland",
   "dateAdded": "2013-12-02",
   "cik": 1579241
  },
@@ -202,7 +202,7 @@
   "name": "Amazon",
   "sector": "Consumer Discretionary",
   "industry": "Broadline Retail",
-  "headquarters": "Seattle, Washington",
+  "headquarters": "Seattle , Washington",
   "dateAdded": "2005-11-18",
   "cik": 1018724
  },
@@ -211,7 +211,7 @@
   "name": "Amcor",
   "sector": "Materials",
   "industry": "Paper & Plastic Packaging Products & Materials",
-  "headquarters": "Warmley, Bristol, United Kingdom",
+  "headquarters": "Warmley , Bristol , United Kingdom",
   "dateAdded": "2019-06-07",
   "cik": 1748790
  },
@@ -220,7 +220,7 @@
   "name": "Ameren",
   "sector": "Utilities",
   "industry": "Multi-Utilities",
-  "headquarters": "St. Louis, Missouri",
+  "headquarters": "St. Louis , Missouri",
   "dateAdded": "1991-09-19",
   "cik": 1002910
  },
@@ -238,7 +238,7 @@
   "name": "American Express",
   "sector": "Financials",
   "industry": "Consumer Finance",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1976-06-30",
   "cik": 4962
  },
@@ -247,7 +247,7 @@
   "name": "American International Group",
   "sector": "Financials",
   "industry": "Multi-line Insurance",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1980-03-31",
   "cik": 5272
  },
@@ -256,7 +256,7 @@
   "name": "American Tower",
   "sector": "Real Estate",
   "industry": "Telecom Tower REITs",
-  "headquarters": "Boston, Massachusetts",
+  "headquarters": "Boston , Massachusetts",
   "dateAdded": "2007-11-19",
   "cik": 1053507
  },
@@ -274,7 +274,7 @@
   "name": "Ameriprise Financial",
   "sector": "Financials",
   "industry": "Asset Management & Custody Banks",
-  "headquarters": "Minneapolis, Minnesota",
+  "headquarters": "Minneapolis , Minnesota",
   "dateAdded": "2005-10-03",
   "cik": 820027
  },
@@ -319,7 +319,7 @@
   "name": "Aon plc",
   "sector": "Financials",
   "industry": "Insurance Brokers",
-  "headquarters": "London, United Kingdom",
+  "headquarters": "London , United Kingdom",
   "dateAdded": "1996-04-23",
   "cik": 315293
  },
@@ -328,7 +328,7 @@
   "name": "APA Corporation",
   "sector": "Energy",
   "industry": "Oil & Gas Exploration & Production",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "1997-07-28",
   "cik": 1841666
  },
@@ -337,7 +337,7 @@
   "name": "Apollo Global Management",
   "sector": "Financials",
   "industry": "Asset Management & Custody Banks",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2024-12-23",
   "cik": 1858681
  },
@@ -373,7 +373,7 @@
   "name": "Aptiv",
   "sector": "Consumer Discretionary",
   "industry": "Automotive Parts & Equipment",
-  "headquarters": "Schaffhausen, Switzerland",
+  "headquarters": "Schaffhausen , Switzerland",
   "dateAdded": "2012-12-24",
   "cik": 1521332
  },
@@ -391,7 +391,7 @@
   "name": "Archer Daniels Midland",
   "sector": "Consumer Staples",
   "industry": "Agricultural Products & Services",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "1957-03-04",
   "cik": 7084
  },
@@ -400,7 +400,7 @@
   "name": "Ares Management",
   "sector": "Financials",
   "industry": "Asset Management & Custody Banks",
-  "headquarters": "Los Angeles, California",
+  "headquarters": "Los Angeles , California",
   "dateAdded": "2025-12-11",
   "cik": 1176948
  },
@@ -427,7 +427,7 @@
   "name": "Assurant",
   "sector": "Financials",
   "industry": "Multi-line Insurance",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "2007-04-10",
   "cik": 1267238
  },
@@ -436,7 +436,7 @@
   "name": "AT&T",
   "sector": "Communication Services",
   "industry": "Integrated Telecommunication Services",
-  "headquarters": "Dallas, Texas",
+  "headquarters": "Dallas , Texas",
   "dateAdded": "1983-11-30",
   "cik": 732717
  },
@@ -445,7 +445,7 @@
   "name": "Atmos Energy",
   "sector": "Utilities",
   "industry": "Gas Utilities",
-  "headquarters": "Dallas, Texas",
+  "headquarters": "Dallas , Texas",
   "dateAdded": "2019-02-15",
   "cik": 731802
  },
@@ -454,7 +454,7 @@
   "name": "Autodesk",
   "sector": "Information Technology",
   "industry": "Application Software",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "1989-12-01",
   "cik": 769397
  },
@@ -499,7 +499,7 @@
   "name": "Baker Hughes",
   "sector": "Energy",
   "industry": "Oil & Gas Equipment & Services",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "2017-07-07",
   "cik": 1701605
  },
@@ -562,7 +562,7 @@
   "name": "Bio-Techne",
   "sector": "Health Care",
   "industry": "Life Sciences Tools & Services",
-  "headquarters": "Minneapolis, Minnesota",
+  "headquarters": "Minneapolis , Minnesota",
   "dateAdded": "2021-08-30",
   "cik": 842023
  },
@@ -580,7 +580,7 @@
   "name": "BlackRock",
   "sector": "Financials",
   "industry": "Asset Management & Custody Banks",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2011-04-04",
   "cik": 2012383
  },
@@ -589,7 +589,7 @@
   "name": "Blackstone Inc.",
   "sector": "Financials",
   "industry": "Asset Management & Custody Banks",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2023-09-18",
   "cik": 1393818
  },
@@ -616,7 +616,7 @@
   "name": "BNY Mellon",
   "sector": "Financials",
   "industry": "Asset Management & Custody Banks",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1995-03-31",
   "cik": 1390777
  },
@@ -652,7 +652,7 @@
   "name": "Bristol Myers Squibb",
   "sector": "Health Care",
   "industry": "Pharmaceuticals",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1957-03-04",
   "cik": 14272
  },
@@ -685,7 +685,7 @@
  },
  {
   "ticker": "BF.B",
-  "name": "Brown\u2013Forman",
+  "name": "Brown–Forman",
   "sector": "Consumer Staples",
   "industry": "Distillers & Vintners",
   "headquarters": "Louisville, Kentucky",
@@ -706,7 +706,7 @@
   "name": "BXP, Inc.",
   "sector": "Real Estate",
   "industry": "Office REITs",
-  "headquarters": "Boston, Massachusetts",
+  "headquarters": "Boston , Massachusetts",
   "dateAdded": "2006-04-03",
   "cik": 1037540
  },
@@ -733,7 +733,7 @@
   "name": "Camden Property Trust",
   "sector": "Real Estate",
   "industry": "Multi-Family Residential REITs",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "2022-04-04",
   "cik": 906345
  },
@@ -760,7 +760,7 @@
   "name": "Carnival Corporation",
   "sector": "Consumer Discretionary",
   "industry": "Hotels, Resorts & Cruise Lines",
-  "headquarters": "Miami, Florida",
+  "headquarters": "Miami , Florida",
   "dateAdded": "1998-12-22",
   "cik": 815097
  },
@@ -805,7 +805,7 @@
   "name": "Cboe Global Markets",
   "sector": "Financials",
   "industry": "Financial Exchanges & Data",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "2017-03-01",
   "cik": 1374310
  },
@@ -814,7 +814,7 @@
   "name": "CBRE Group",
   "sector": "Real Estate",
   "industry": "Real Estate Services",
-  "headquarters": "Dallas, Texas",
+  "headquarters": "Dallas , Texas",
   "dateAdded": "2006-11-10",
   "cik": 1138118
  },
@@ -841,7 +841,7 @@
   "name": "Centene Corporation",
   "sector": "Health Care",
   "industry": "Managed Health Care",
-  "headquarters": "St. Louis, Missouri",
+  "headquarters": "St. Louis , Missouri",
   "dateAdded": "2016-03-30",
   "cik": 1071739
  },
@@ -850,7 +850,7 @@
   "name": "CenterPoint Energy",
   "sector": "Utilities",
   "industry": "Multi-Utilities",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "1985-07-31",
   "cik": 1130310
  },
@@ -895,7 +895,7 @@
   "name": "Chevron Corporation",
   "sector": "Energy",
   "industry": "Integrated Oil & Gas",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "1957-03-04",
   "cik": 93410
  },
@@ -976,7 +976,7 @@
   "name": "Citigroup",
   "sector": "Financials",
   "industry": "Diversified Banks",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1988-05-31",
   "cik": 831001
  },
@@ -1003,7 +1003,7 @@
   "name": "CME Group",
   "sector": "Financials",
   "industry": "Financial Exchanges & Data",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "2006-08-11",
   "cik": 1156375
  },
@@ -1021,7 +1021,7 @@
   "name": "Coca-Cola Company (The)",
   "sector": "Consumer Staples",
   "industry": "Soft Drinks & Non-alcoholic Beverages",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "1957-03-04",
   "cik": 21344
  },
@@ -1048,7 +1048,7 @@
   "name": "Coinbase",
   "sector": "Financials",
   "industry": "Financial Exchanges & Data",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2025-05-19",
   "cik": 1679788
  },
@@ -1057,7 +1057,7 @@
   "name": "Colgate-Palmolive",
   "sector": "Consumer Staples",
   "industry": "Household Products",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1957-03-04",
   "cik": 21665
  },
@@ -1066,7 +1066,7 @@
   "name": "Comcast",
   "sector": "Communication Services",
   "industry": "Cable & Satellite",
-  "headquarters": "Philadelphia, Pennsylvania",
+  "headquarters": "Philadelphia , Pennsylvania",
   "dateAdded": "2002-11-19",
   "cik": 1166691
  },
@@ -1075,7 +1075,7 @@
   "name": "Comfort Systems USA",
   "sector": "Industrials",
   "industry": "Construction & Engineering",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "2025-12-22",
   "cik": 1035983
  },
@@ -1084,7 +1084,7 @@
   "name": "ConocoPhillips",
   "sector": "Energy",
   "industry": "Oil & Gas Exploration & Production",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "1957-03-04",
   "cik": 1163165
  },
@@ -1093,7 +1093,7 @@
   "name": "Consolidated Edison",
   "sector": "Utilities",
   "industry": "Multi-Utilities",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1957-03-04",
   "cik": 1047862
  },
@@ -1111,7 +1111,7 @@
   "name": "Constellation Energy",
   "sector": "Utilities",
   "industry": "Electric Utilities",
-  "headquarters": "Baltimore, Maryland",
+  "headquarters": "Baltimore , Maryland",
   "dateAdded": "2022-02-02",
   "cik": 1868275
  },
@@ -1129,7 +1129,7 @@
   "name": "Copart",
   "sector": "Industrials",
   "industry": "Diversified Support Services",
-  "headquarters": "Dallas, Texas",
+  "headquarters": "Dallas , Texas",
   "dateAdded": "2018-07-02",
   "cik": 900075
  },
@@ -1147,7 +1147,7 @@
   "name": "Corpay",
   "sector": "Financials",
   "industry": "Transaction & Payment Processing Services",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "2018-06-20",
   "cik": 1175454
  },
@@ -1174,7 +1174,7 @@
   "name": "CRH plc",
   "sector": "Materials",
   "industry": "Construction Materials",
-  "headquarters": "Dublin, Ireland",
+  "headquarters": "Dublin , Ireland",
   "dateAdded": "2025-12-22",
   "cik": 849395
  },
@@ -1192,7 +1192,7 @@
   "name": "Crown Castle",
   "sector": "Real Estate",
   "industry": "Telecom Tower REITs",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "2012-03-14",
   "cik": 1051470
  },
@@ -1246,7 +1246,7 @@
   "name": "Datadog",
   "sector": "Information Technology",
   "industry": "Application Software",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2025-07-09",
   "cik": 1561550
  },
@@ -1255,7 +1255,7 @@
   "name": "DaVita",
   "sector": "Health Care",
   "industry": "Health Care Services",
-  "headquarters": "Denver, Colorado",
+  "headquarters": "Denver , Colorado",
   "dateAdded": "2008-07-31",
   "cik": 927066
  },
@@ -1291,7 +1291,7 @@
   "name": "Delta Air Lines",
   "sector": "Industrials",
   "industry": "Passenger Airlines",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "2013-09-11",
   "cik": 27904
  },
@@ -1300,7 +1300,7 @@
   "name": "Devon Energy",
   "sector": "Energy",
   "industry": "Oil & Gas Exploration & Production",
-  "headquarters": "Oklahoma City, Oklahoma",
+  "headquarters": "Oklahoma City , Oklahoma",
   "dateAdded": "2000-08-30",
   "cik": 1090012
  },
@@ -1309,7 +1309,7 @@
   "name": "Dexcom",
   "sector": "Health Care",
   "industry": "Health Care Equipment",
-  "headquarters": "San Diego, California",
+  "headquarters": "San Diego , California",
   "dateAdded": "2020-05-12",
   "cik": 1093557
  },
@@ -1372,7 +1372,7 @@
   "name": "DoorDash",
   "sector": "Consumer Discretionary",
   "industry": "Specialized Consumer Services",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "2025-03-24",
   "cik": 1792789
  },
@@ -1408,7 +1408,7 @@
   "name": "DTE Energy",
   "sector": "Utilities",
   "industry": "Multi-Utilities",
-  "headquarters": "Detroit, Michigan",
+  "headquarters": "Detroit , Michigan",
   "dateAdded": "1957-03-04",
   "cik": 936340
  },
@@ -1435,7 +1435,7 @@
   "name": "Eaton Corporation",
   "sector": "Industrials",
   "industry": "Electrical Components & Equipment",
-  "headquarters": "Dublin, Ireland",
+  "headquarters": "Dublin , Ireland",
   "dateAdded": "1957-03-04",
   "cik": 1551182
  },
@@ -1489,7 +1489,7 @@
   "name": "Elevance Health",
   "sector": "Health Care",
   "industry": "Managed Health Care",
-  "headquarters": "Indianapolis, Indiana",
+  "headquarters": "Indianapolis , Indiana",
   "dateAdded": "2002-07-25",
   "cik": 1156039
  },
@@ -1516,7 +1516,7 @@
   "name": "Entergy",
   "sector": "Utilities",
   "industry": "Electric Utilities",
-  "headquarters": "New Orleans, Louisiana",
+  "headquarters": "New Orleans , Louisiana",
   "dateAdded": "1957-03-04",
   "cik": 65984
  },
@@ -1525,7 +1525,7 @@
   "name": "EOG Resources",
   "sector": "Energy",
   "industry": "Oil & Gas Exploration & Production",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "2000-11-02",
   "cik": 821189
  },
@@ -1534,7 +1534,7 @@
   "name": "EQT Corporation",
   "sector": "Energy",
   "industry": "Oil & Gas Exploration & Production",
-  "headquarters": "Pittsburgh, Pennsylvania",
+  "headquarters": "Pittsburgh , Pennsylvania",
   "dateAdded": "2022-10-03",
   "cik": 33213
  },
@@ -1543,7 +1543,7 @@
   "name": "Equifax",
   "sector": "Industrials",
   "industry": "Research & Consulting Services",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "1997-06-19",
   "cik": 33185
  },
@@ -1576,10 +1576,10 @@
  },
  {
   "ticker": "EL",
-  "name": "Est\u00e9e Lauder Companies (The)",
+  "name": "Estée Lauder Companies (The)",
   "sector": "Consumer Staples",
   "industry": "Personal Care Products",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2006-01-05",
   "cik": 1001250
  },
@@ -1624,7 +1624,7 @@
   "name": "Exelon",
   "sector": "Utilities",
   "industry": "Electric Utilities",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "1957-03-04",
   "cik": 1109357
  },
@@ -1633,7 +1633,7 @@
   "name": "Expand Energy",
   "sector": "Energy",
   "industry": "Oil & Gas Exploration & Production",
-  "headquarters": "Oklahoma City, Oklahoma",
+  "headquarters": "Oklahoma City , Oklahoma",
   "dateAdded": "2025-03-24",
   "cik": 895126
  },
@@ -1642,7 +1642,7 @@
   "name": "Expedia Group",
   "sector": "Consumer Discretionary",
   "industry": "Hotels, Resorts & Cruise Lines",
-  "headquarters": "Seattle, Washington",
+  "headquarters": "Seattle , Washington",
   "dateAdded": "2007-10-02",
   "cik": 1324424
  },
@@ -1651,7 +1651,7 @@
   "name": "Expeditors International",
   "sector": "Industrials",
   "industry": "Air Freight & Logistics",
-  "headquarters": "Seattle, Washington",
+  "headquarters": "Seattle , Washington",
   "dateAdded": "2007-10-10",
   "cik": 746515
  },
@@ -1660,7 +1660,7 @@
   "name": "Extra Space Storage",
   "sector": "Real Estate",
   "industry": "Self-Storage REITs",
-  "headquarters": "Salt Lake City, Utah",
+  "headquarters": "Salt Lake City , Utah",
   "dateAdded": "2016-01-19",
   "cik": 1289490
  },
@@ -1678,7 +1678,7 @@
   "name": "F5, Inc.",
   "sector": "Information Technology",
   "industry": "Communications Equipment",
-  "headquarters": "Seattle, Washington",
+  "headquarters": "Seattle , Washington",
   "dateAdded": "2010-12-20",
   "cik": 1048695
  },
@@ -1759,7 +1759,7 @@
   "name": "Fifth Third Bancorp",
   "sector": "Financials",
   "industry": "Regional Banks",
-  "headquarters": "Cincinnati, Ohio",
+  "headquarters": "Cincinnati , Ohio",
   "dateAdded": "1996-03-29",
   "cik": 35527
  },
@@ -1831,7 +1831,7 @@
   "name": "Fox Corporation (Class A)",
   "sector": "Communication Services",
   "industry": "Broadcasting",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2019-03-19",
   "cik": 1754301
  },
@@ -1840,7 +1840,7 @@
   "name": "Fox Corporation (Class B)",
   "sector": "Communication Services",
   "industry": "Broadcasting",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2019-03-19",
   "cik": 1754301
  },
@@ -1867,7 +1867,7 @@
   "name": "Garmin",
   "sector": "Consumer Discretionary",
   "industry": "Consumer Electronics",
-  "headquarters": "Schaffhausen, Switzerland",
+  "headquarters": "Schaffhausen , Switzerland",
   "dateAdded": "2012-12-12",
   "cik": 1121788
  },
@@ -1894,7 +1894,7 @@
   "name": "GE HealthCare",
   "sector": "Health Care",
   "industry": "Health Care Equipment",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "2023-01-04",
   "cik": 1932393
  },
@@ -1948,7 +1948,7 @@
   "name": "General Motors",
   "sector": "Consumer Discretionary",
   "industry": "Automobile Manufacturers",
-  "headquarters": "Detroit, Michigan",
+  "headquarters": "Detroit , Michigan",
   "dateAdded": "2013-06-06",
   "cik": 1467858
  },
@@ -1957,7 +1957,7 @@
   "name": "Genuine Parts Company",
   "sector": "Consumer Discretionary",
   "industry": "Distributors",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "1973-12-31",
   "cik": 40987
  },
@@ -1975,7 +1975,7 @@
   "name": "Global Payments",
   "sector": "Financials",
   "industry": "Transaction & Payment Processing Services",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "2016-04-25",
   "cik": 1123360
  },
@@ -2002,7 +2002,7 @@
   "name": "Goldman Sachs",
   "sector": "Financials",
   "industry": "Investment Banking & Brokerage",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2002-07-22",
   "cik": 886982
  },
@@ -2011,7 +2011,7 @@
   "name": "Halliburton",
   "sector": "Energy",
   "industry": "Oil & Gas Equipment & Services",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "1957-03-04",
   "cik": 45012
  },
@@ -2047,7 +2047,7 @@
   "name": "Healthpeak Properties",
   "sector": "Real Estate",
   "industry": "Health Care REITs",
-  "headquarters": "Denver, Colorado",
+  "headquarters": "Denver , Colorado",
   "dateAdded": "2008-03-31",
   "cik": 765880
  },
@@ -2074,7 +2074,7 @@
   "name": "Hewlett Packard Enterprise",
   "sector": "Information Technology",
   "industry": "Technology Hardware, Storage & Peripherals",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "2015-11-02",
   "cik": 1645590
  },
@@ -2092,7 +2092,7 @@
   "name": "Home Depot (The)",
   "sector": "Consumer Discretionary",
   "industry": "Home Improvement Retail",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "1988-03-31",
   "cik": 354950
  },
@@ -2137,7 +2137,7 @@
   "name": "Howmet Aerospace",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
-  "headquarters": "Pittsburgh, Pennsylvania",
+  "headquarters": "Pittsburgh , Pennsylvania",
   "dateAdded": "2016-10-21",
   "cik": 4281
  },
@@ -2173,7 +2173,7 @@
   "name": "Huntington Bancshares",
   "sector": "Financials",
   "industry": "Regional Banks",
-  "headquarters": "Columbus, Ohio ; Detroit, Michigan",
+  "headquarters": "Columbus, Ohio ; Detroit , Michigan",
   "dateAdded": "1997-08-28",
   "cik": 49196
  },
@@ -2227,7 +2227,7 @@
   "name": "Illumina, Inc.",
   "sector": "Health Care",
   "industry": "Life Sciences Tools & Services",
-  "headquarters": "San Diego, California",
+  "headquarters": "San Diego , California",
   "dateAdded": "2026-09-21",
   "cik": 1110803
  },
@@ -2281,7 +2281,7 @@
   "name": "Intercontinental Exchange",
   "sector": "Financials",
   "industry": "Financial Exchanges & Data",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "2007-09-26",
   "cik": 1571949
  },
@@ -2290,7 +2290,7 @@
   "name": "International Flavors & Fragrances",
   "sector": "Materials",
   "industry": "Specialty Chemicals",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1976-03-31",
   "cik": 51253
  },
@@ -2326,7 +2326,7 @@
   "name": "Invesco",
   "sector": "Financials",
   "industry": "Asset Management & Custody Banks",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "2008-08-21",
   "cik": 914208
  },
@@ -2335,7 +2335,7 @@
   "name": "Invitation Homes",
   "sector": "Real Estate",
   "industry": "Single-Family Residential REITs",
-  "headquarters": "Dallas, Texas",
+  "headquarters": "Dallas , Texas",
   "dateAdded": "2022-09-19",
   "cik": 1687229
  },
@@ -2389,7 +2389,7 @@
   "name": "Jacobs Solutions",
   "sector": "Industrials",
   "industry": "Construction & Engineering",
-  "headquarters": "Dallas, Texas",
+  "headquarters": "Dallas , Texas",
   "dateAdded": "2007-10-26",
   "cik": 52988
  },
@@ -2416,7 +2416,7 @@
   "name": "JPMorgan Chase",
   "sector": "Financials",
   "industry": "Diversified Banks",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1975-06-30",
   "cik": 19617
  },
@@ -2434,7 +2434,7 @@
   "name": "KeyCorp",
   "sector": "Financials",
   "industry": "Regional Banks",
-  "headquarters": "Cleveland, Ohio",
+  "headquarters": "Cleveland , Ohio",
   "dateAdded": "1994-03-01",
   "cik": 91576
  },
@@ -2470,7 +2470,7 @@
   "name": "Kinder Morgan",
   "sector": "Energy",
   "industry": "Oil & Gas Storage & Transportation",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "2012-05-25",
   "cik": 1506307
  },
@@ -2479,7 +2479,7 @@
   "name": "KKR & Co.",
   "sector": "Financials",
   "industry": "Asset Management & Custody Banks",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2024-06-24",
   "cik": 1404912
  },
@@ -2497,7 +2497,7 @@
   "name": "Kraft Heinz",
   "sector": "Consumer Staples",
   "industry": "Packaged Foods & Meats",
-  "headquarters": "Chicago, Illinois; Pittsburgh, Pennsylvania",
+  "headquarters": "Chicago , Illinois; Pittsburgh , Pennsylvania",
   "dateAdded": "2015-07-06",
   "cik": 1637459
  },
@@ -2506,7 +2506,7 @@
   "name": "Kroger",
   "sector": "Consumer Staples",
   "industry": "Food Retail",
-  "headquarters": "Cincinnati, Ohio",
+  "headquarters": "Cincinnati , Ohio",
   "dateAdded": "1957-03-04",
   "cik": 56873
  },
@@ -2542,7 +2542,7 @@
   "name": "Las Vegas Sands",
   "sector": "Consumer Discretionary",
   "industry": "Casinos & Gaming",
-  "headquarters": "Las Vegas, Nevada",
+  "headquarters": "Las Vegas , Nevada",
   "dateAdded": "2019-10-03",
   "cik": 1300514
  },
@@ -2560,7 +2560,7 @@
   "name": "Lennar",
   "sector": "Consumer Discretionary",
   "industry": "Homebuilding",
-  "headquarters": "Miami, Florida",
+  "headquarters": "Miami , Florida",
   "dateAdded": "2005-10-04",
   "cik": 920760
  },
@@ -2578,7 +2578,7 @@
   "name": "Lilly (Eli)",
   "sector": "Health Care",
   "industry": "Pharmaceuticals",
-  "headquarters": "Indianapolis, Indiana",
+  "headquarters": "Indianapolis , Indiana",
   "dateAdded": "1970-12-31",
   "cik": 59478
  },
@@ -2614,7 +2614,7 @@
   "name": "Loews Corporation",
   "sector": "Financials",
   "industry": "Multi-line Insurance",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1995-05-31",
   "cik": 60086
  },
@@ -2686,7 +2686,7 @@
   "name": "Marsh McLennan",
   "sector": "Financials",
   "industry": "Insurance Brokers",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1987-08-31",
   "cik": 62709
  },
@@ -2740,7 +2740,7 @@
   "name": "McDonald's",
   "sector": "Consumer Discretionary",
   "industry": "Restaurants",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "1970-06-30",
   "cik": 63908
  },
@@ -2758,7 +2758,7 @@
   "name": "Medtronic",
   "sector": "Health Care",
   "industry": "Health Care Equipment",
-  "headquarters": "Galway, Ireland",
+  "headquarters": "Galway , Ireland",
   "dateAdded": "1986-10-31",
   "cik": 1613103
  },
@@ -2785,7 +2785,7 @@
   "name": "MetLife",
   "sector": "Financials",
   "industry": "Life & Health Insurance",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2000-12-11",
   "cik": 1099219
  },
@@ -2857,7 +2857,7 @@
   "name": "Mondelez International",
   "sector": "Consumer Staples",
   "industry": "Packaged Foods & Meats",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "2012-10-02",
   "cik": 1103982
  },
@@ -2884,7 +2884,7 @@
   "name": "Moody's Corporation",
   "sector": "Financials",
   "industry": "Financial Exchanges & Data",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1998-07-01",
   "cik": 1059556
  },
@@ -2893,7 +2893,7 @@
   "name": "Morgan Stanley",
   "sector": "Financials",
   "industry": "Investment Banking & Brokerage",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1993-07-29",
   "cik": 895421
  },
@@ -2911,7 +2911,7 @@
   "name": "Motorola Solutions",
   "sector": "Information Technology",
   "industry": "Communications Equipment",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "1957-03-04",
   "cik": 68505
  },
@@ -2920,7 +2920,7 @@
   "name": "MSCI",
   "sector": "Financials",
   "industry": "Financial Exchanges & Data",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2018-04-04",
   "cik": 1408198
  },
@@ -2929,7 +2929,7 @@
   "name": "Nasdaq, Inc.",
   "sector": "Financials",
   "industry": "Financial Exchanges & Data",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2008-10-22",
   "cik": 1120193
  },
@@ -2956,7 +2956,7 @@
   "name": "Newmont",
   "sector": "Materials",
   "industry": "Gold",
-  "headquarters": "Denver, Colorado",
+  "headquarters": "Denver , Colorado",
   "dateAdded": "1969-06-30",
   "cik": 1164727
  },
@@ -2965,7 +2965,7 @@
   "name": "News Corp (Class A)",
   "sector": "Communication Services",
   "industry": "Publishing",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2013-08-01",
   "cik": 1564708
  },
@@ -2974,7 +2974,7 @@
   "name": "News Corp (Class B)",
   "sector": "Communication Services",
   "industry": "Publishing",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2015-09-18",
   "cik": 1564708
  },
@@ -3019,7 +3019,7 @@
   "name": "Norfolk Southern",
   "sector": "Industrials",
   "industry": "Rail Transportation",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "1957-03-04",
   "cik": 702165
  },
@@ -3028,7 +3028,7 @@
   "name": "Northern Trust",
   "sector": "Financials",
   "industry": "Asset Management & Custody Banks",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "1998-01-30",
   "cik": 73124
  },
@@ -3046,7 +3046,7 @@
   "name": "Norwegian Cruise Line Holdings",
   "sector": "Consumer Discretionary",
   "industry": "Hotels, Resorts & Cruise Lines",
-  "headquarters": "Miami-Dade County, Florida [ 3 ]",
+  "headquarters": "Miami-Dade County , Florida [ 3 ]",
   "dateAdded": "2017-10-13",
   "cik": 1513761
  },
@@ -3055,7 +3055,7 @@
   "name": "NRG Energy",
   "sector": "Utilities",
   "industry": "Independent Power Producers & Energy Traders",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "2010-01-29",
   "cik": 1013871
  },
@@ -3109,7 +3109,7 @@
   "name": "Occidental Petroleum",
   "sector": "Energy",
   "industry": "Oil & Gas Exploration & Production",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "1957-03-04",
   "cik": 797468
  },
@@ -3118,7 +3118,7 @@
   "name": "Okta, Inc.",
   "sector": "Information Technology",
   "industry": "Application Software",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "2026-11-04",
   "cik": 1660134
  },
@@ -3136,7 +3136,7 @@
   "name": "Omnicom Group",
   "sector": "Communication Services",
   "industry": "Advertising",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1997-12-31",
   "cik": 29989
  },
@@ -3217,7 +3217,7 @@
   "name": "Parker Hannifin",
   "sector": "Industrials",
   "industry": "Industrial Machinery & Supplies & Components",
-  "headquarters": "Cleveland, Ohio",
+  "headquarters": "Cleveland , Ohio",
   "dateAdded": "1985-11-30",
   "cik": 76334
  },
@@ -3262,7 +3262,7 @@
   "name": "Pfizer",
   "sector": "Health Care",
   "industry": "Pharmaceuticals",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1957-03-04",
   "cik": 78003
  },
@@ -3280,7 +3280,7 @@
   "name": "Philip Morris International",
   "sector": "Consumer Staples",
   "industry": "Tobacco",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2008-03-31",
   "cik": 1413329
  },
@@ -3289,7 +3289,7 @@
   "name": "Phillips 66",
   "sector": "Energy",
   "industry": "Oil & Gas Refining & Marketing",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "2012-05-01",
   "cik": 1534701
  },
@@ -3307,7 +3307,7 @@
   "name": "PNC Financial Services",
   "sector": "Financials",
   "industry": "Diversified Banks",
-  "headquarters": "Pittsburgh, Pennsylvania",
+  "headquarters": "Pittsburgh , Pennsylvania",
   "dateAdded": "1988-04-30",
   "cik": 713676
  },
@@ -3316,7 +3316,7 @@
   "name": "PPG Industries",
   "sector": "Materials",
   "industry": "Specialty Chemicals",
-  "headquarters": "Pittsburgh, Pennsylvania",
+  "headquarters": "Pittsburgh , Pennsylvania",
   "dateAdded": "1957-03-04",
   "cik": 79879
  },
@@ -3343,7 +3343,7 @@
   "name": "Procter & Gamble",
   "sector": "Consumer Staples",
   "industry": "Personal Care Products",
-  "headquarters": "Cincinnati, Ohio",
+  "headquarters": "Cincinnati , Ohio",
   "dateAdded": "1957-03-04",
   "cik": 80424
  },
@@ -3361,7 +3361,7 @@
   "name": "Prologis",
   "sector": "Real Estate",
   "industry": "Industrial REITs",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "2003-07-17",
   "cik": 1045609
  },
@@ -3379,7 +3379,7 @@
   "name": "PTC Inc.",
   "sector": "Information Technology",
   "industry": "Application Software",
-  "headquarters": "Boston, Massachusetts",
+  "headquarters": "Boston , Massachusetts",
   "dateAdded": "2021-04-20",
   "cik": 857005
  },
@@ -3406,7 +3406,7 @@
   "name": "PulteGroup",
   "sector": "Consumer Discretionary",
   "industry": "Homebuilding",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "1984-04-30",
   "cik": 822416
  },
@@ -3424,7 +3424,7 @@
   "name": "Qualcomm",
   "sector": "Information Technology",
   "industry": "Semiconductors",
-  "headquarters": "San Diego, California",
+  "headquarters": "San Diego , California",
   "dateAdded": "1999-07-22",
   "cik": 804328
  },
@@ -3433,7 +3433,7 @@
   "name": "Quanta Services",
   "sector": "Industrials",
   "industry": "Construction & Engineering",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "2009-07-01",
   "cik": 1050915
  },
@@ -3451,7 +3451,7 @@
   "name": "Ralph Lauren Corporation",
   "sector": "Consumer Discretionary",
   "industry": "Apparel, Accessories & Luxury Goods",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2007-02-02",
   "cik": 1037038
  },
@@ -3469,7 +3469,7 @@
   "name": "Reddit",
   "sector": "Communication Services",
   "industry": "Interactive Media & Services",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "2026-08-18",
   "cik": 1713445
  },
@@ -3478,7 +3478,7 @@
   "name": "Realty Income",
   "sector": "Real Estate",
   "industry": "Retail REITs",
-  "headquarters": "San Diego, California",
+  "headquarters": "San Diego , California",
   "dateAdded": "2015-04-07",
   "cik": 726728
  },
@@ -3523,7 +3523,7 @@
   "name": "ResMed",
   "sector": "Health Care",
   "industry": "Health Care Equipment",
-  "headquarters": "San Diego, California",
+  "headquarters": "San Diego , California",
   "dateAdded": "2017-07-26",
   "cik": 943819
  },
@@ -3550,7 +3550,7 @@
   "name": "Rockwell Automation",
   "sector": "Industrials",
   "industry": "Electrical Components & Equipment",
-  "headquarters": "Milwaukee, Wisconsin",
+  "headquarters": "Milwaukee , Wisconsin",
   "dateAdded": "2000-03-12",
   "cik": 1024478
  },
@@ -3559,7 +3559,7 @@
   "name": "Rollins, Inc.",
   "sector": "Industrials",
   "industry": "Environmental & Facilities Services",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "2018-10-01",
   "cik": 84839
  },
@@ -3586,7 +3586,7 @@
   "name": "Royal Caribbean Group",
   "sector": "Consumer Discretionary",
   "industry": "Hotels, Resorts & Cruise Lines",
-  "headquarters": "Miami, Florida",
+  "headquarters": "Miami , Florida",
   "dateAdded": "2014-12-05",
   "cik": 884887
  },
@@ -3604,7 +3604,7 @@
   "name": "S&P Global",
   "sector": "Financials",
   "industry": "Financial Exchanges & Data",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1957-03-04",
   "cik": 64040
  },
@@ -3613,7 +3613,7 @@
   "name": "Salesforce",
   "sector": "Information Technology",
   "industry": "Application Software",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "2008-09-15",
   "cik": 1108524
  },
@@ -3640,7 +3640,7 @@
   "name": "Schlumberger",
   "sector": "Energy",
   "industry": "Oil & Gas Equipment & Services",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "1957-03-04",
   "cik": 87347
  },
@@ -3649,7 +3649,7 @@
   "name": "Seagate Technology",
   "sector": "Information Technology",
   "industry": "Technology Hardware, Storage & Peripherals",
-  "headquarters": "Dublin, Ireland",
+  "headquarters": "Dublin , Ireland",
   "dateAdded": "2012-07-02",
   "cik": 1137789
  },
@@ -3658,7 +3658,7 @@
   "name": "Sempra",
   "sector": "Utilities",
   "industry": "Multi-Utilities",
-  "headquarters": "San Diego, California",
+  "headquarters": "San Diego , California",
   "dateAdded": "2017-03-17",
   "cik": 1032208
  },
@@ -3676,7 +3676,7 @@
   "name": "Sherwin-Williams",
   "sector": "Materials",
   "industry": "Specialty Chemicals",
-  "headquarters": "Cleveland, Ohio",
+  "headquarters": "Cleveland , Ohio",
   "dateAdded": "1964-06-30",
   "cik": 89800
  },
@@ -3685,7 +3685,7 @@
   "name": "Simon Property Group",
   "sector": "Real Estate",
   "industry": "Retail REITs",
-  "headquarters": "Indianapolis, Indiana",
+  "headquarters": "Indianapolis , Indiana",
   "dateAdded": "2002-06-26",
   "cik": 1063761
  },
@@ -3694,7 +3694,7 @@
   "name": "Skydance",
   "sector": "Communication Services",
   "industry": "Movies & Entertainment",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1994-09-30",
   "cik": 2041610
  },
@@ -3721,7 +3721,7 @@
   "name": "Smurfit Westrock",
   "sector": "Materials",
   "industry": "Paper & Plastic Packaging Products & Materials",
-  "headquarters": "Dublin, Ireland",
+  "headquarters": "Dublin , Ireland",
   "dateAdded": "2024-07-08",
   "cik": 2005951
  },
@@ -3748,7 +3748,7 @@
   "name": "Southern Company",
   "sector": "Utilities",
   "industry": "Electric Utilities",
-  "headquarters": "Atlanta, Georgia",
+  "headquarters": "Atlanta , Georgia",
   "dateAdded": "1957-03-04",
   "cik": 92122
  },
@@ -3757,7 +3757,7 @@
   "name": "Southwest Airlines",
   "sector": "Industrials",
   "industry": "Passenger Airlines",
-  "headquarters": "Dallas, Texas",
+  "headquarters": "Dallas , Texas",
   "dateAdded": "1994-07-01",
   "cik": 92380
  },
@@ -3775,7 +3775,7 @@
   "name": "Starbucks",
   "sector": "Consumer Discretionary",
   "industry": "Restaurants",
-  "headquarters": "Seattle, Washington",
+  "headquarters": "Seattle , Washington",
   "dateAdded": "2000-06-07",
   "cik": 829224
  },
@@ -3784,7 +3784,7 @@
   "name": "State Street Corporation",
   "sector": "Financials",
   "industry": "Asset Management & Custody Banks",
-  "headquarters": "Boston, Massachusetts",
+  "headquarters": "Boston , Massachusetts",
   "dateAdded": "2003-03-14",
   "cik": 93751
  },
@@ -3802,7 +3802,7 @@
   "name": "Steris",
   "sector": "Health Care",
   "industry": "Health Care Equipment",
-  "headquarters": "Dublin, Ireland",
+  "headquarters": "Dublin , Ireland",
   "dateAdded": "2019-12-23",
   "cik": 1757898
  },
@@ -3847,7 +3847,7 @@
   "name": "Sysco",
   "sector": "Consumer Staples",
   "industry": "Food Distributors",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "1986-12-31",
   "cik": 96021
  },
@@ -3865,7 +3865,7 @@
   "name": "T. Rowe Price",
   "sector": "Financials",
   "industry": "Asset Management & Custody Banks",
-  "headquarters": "Baltimore, Maryland",
+  "headquarters": "Baltimore , Maryland",
   "dateAdded": "2019-07-29",
   "cik": 1113169
  },
@@ -3874,7 +3874,7 @@
   "name": "Take-Two Interactive",
   "sector": "Communication Services",
   "industry": "Interactive Home Entertainment",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2018-03-19",
   "cik": 946581
  },
@@ -3883,7 +3883,7 @@
   "name": "Tapestry, Inc.",
   "sector": "Consumer Discretionary",
   "industry": "Apparel, Accessories & Luxury Goods",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2004-09-01",
   "cik": 1116132
  },
@@ -3892,7 +3892,7 @@
   "name": "Targa Resources",
   "sector": "Energy",
   "industry": "Oil & Gas Storage & Transportation",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "2022-10-12",
   "cik": 1389170
  },
@@ -3901,7 +3901,7 @@
   "name": "Target Corporation",
   "sector": "Consumer Staples",
   "industry": "Consumer Staples Merchandise Retail",
-  "headquarters": "Minneapolis, Minnesota",
+  "headquarters": "Minneapolis , Minnesota",
   "dateAdded": "1976-12-31",
   "cik": 27419
  },
@@ -3910,7 +3910,7 @@
   "name": "TE Connectivity",
   "sector": "Information Technology",
   "industry": "Electronic Manufacturing Services",
-  "headquarters": "Galway, Ireland",
+  "headquarters": "Galway , Ireland",
   "dateAdded": "2011-10-17",
   "cik": 1385157
  },
@@ -3946,7 +3946,7 @@
   "name": "Texas Instruments",
   "sector": "Information Technology",
   "industry": "Semiconductors",
-  "headquarters": "Dallas, Texas",
+  "headquarters": "Dallas , Texas",
   "dateAdded": "2001-03-12",
   "cik": 97476
  },
@@ -3955,7 +3955,7 @@
   "name": "Texas Pacific Land Corporation",
   "sector": "Energy",
   "industry": "Oil & Gas Exploration & Production",
-  "headquarters": "Dallas, Texas",
+  "headquarters": "Dallas , Texas",
   "dateAdded": "2024-11-26",
   "cik": 1811074
  },
@@ -3991,7 +3991,7 @@
   "name": "TKO Group Holdings",
   "sector": "Communication Services",
   "industry": "Movies & Entertainment",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2025-03-24",
   "cik": 1973266
  },
@@ -4009,7 +4009,7 @@
   "name": "Trane Technologies",
   "sector": "Industrials",
   "industry": "Building Products",
-  "headquarters": "Dublin, Ireland",
+  "headquarters": "Dublin , Ireland",
   "dateAdded": "2010-11-17",
   "cik": 1466258
  },
@@ -4018,7 +4018,7 @@
   "name": "TransDigm Group",
   "sector": "Industrials",
   "industry": "Aerospace & Defense",
-  "headquarters": "Cleveland, Ohio",
+  "headquarters": "Cleveland , Ohio",
   "dateAdded": "2016-06-03",
   "cik": 1260221
  },
@@ -4027,7 +4027,7 @@
   "name": "Travelers Companies (The)",
   "sector": "Financials",
   "industry": "Property & Casualty Insurance",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2002-08-21",
   "cik": 86312
  },
@@ -4054,7 +4054,7 @@
   "name": "Twilio",
   "sector": "Information Technology",
   "industry": "Systems Software",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "2026-10-06",
   "cik": 1447669
  },
@@ -4081,7 +4081,7 @@
   "name": "U.S. Bancorp",
   "sector": "Financials",
   "industry": "Diversified Banks",
-  "headquarters": "Minneapolis, Minnesota",
+  "headquarters": "Minneapolis , Minnesota",
   "dateAdded": "1999-11-01",
   "cik": 36104
  },
@@ -4090,7 +4090,7 @@
   "name": "Uber",
   "sector": "Industrials",
   "industry": "Passenger Ground Transportation",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "2023-12-18",
   "cik": 1543151
  },
@@ -4126,7 +4126,7 @@
   "name": "United Airlines Holdings",
   "sector": "Industrials",
   "industry": "Passenger Airlines",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "2015-09-03",
   "cik": 100517
  },
@@ -4171,7 +4171,7 @@
   "name": "Valero Energy",
   "sector": "Energy",
   "industry": "Oil & Gas Refining & Marketing",
-  "headquarters": "San Antonio, Texas",
+  "headquarters": "San Antonio , Texas",
   "dateAdded": "2002-12-20",
   "cik": 1035002
  },
@@ -4189,7 +4189,7 @@
   "name": "Ventas",
   "sector": "Real Estate",
   "industry": "Health Care REITs",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "2009-03-04",
   "cik": 740260
  },
@@ -4225,7 +4225,7 @@
   "name": "Verizon",
   "sector": "Communication Services",
   "industry": "Integrated Telecommunication Services",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "1983-11-30",
   "cik": 732712
  },
@@ -4234,7 +4234,7 @@
   "name": "Vertex Pharmaceuticals",
   "sector": "Health Care",
   "industry": "Biotechnology",
-  "headquarters": "Boston, Massachusetts",
+  "headquarters": "Boston , Massachusetts",
   "dateAdded": "2013-09-23",
   "cik": 875320
  },
@@ -4252,7 +4252,7 @@
   "name": "Viatris",
   "sector": "Health Care",
   "industry": "Pharmaceuticals",
-  "headquarters": "Pittsburgh, Pennsylvania",
+  "headquarters": "Pittsburgh , Pennsylvania",
   "dateAdded": "2004-04-23",
   "cik": 1792044
  },
@@ -4261,7 +4261,7 @@
   "name": "Vici Properties",
   "sector": "Real Estate",
   "industry": "Hotel & Resort REITs",
-  "headquarters": "New York City, New York",
+  "headquarters": "New York City , New York",
   "dateAdded": "2022-06-08",
   "cik": 1705696
  },
@@ -4270,7 +4270,7 @@
   "name": "Visa Inc.",
   "sector": "Financials",
   "industry": "Transaction & Payment Processing Services",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "2009-12-21",
   "cik": 1403161
  },
@@ -4288,7 +4288,7 @@
   "name": "Vivmark Residential",
   "sector": "Real Estate",
   "industry": "Multi-Family Residential REITs",
-  "headquarters": "Chicago, Illinois",
+  "headquarters": "Chicago , Illinois",
   "dateAdded": "2001-12-03",
   "cik": 906107
  },
@@ -4333,7 +4333,7 @@
   "name": "Wabtec",
   "sector": "Industrials",
   "industry": "Construction Machinery & Heavy Transportation Equipment",
-  "headquarters": "Pittsburgh, Pennsylvania",
+  "headquarters": "Pittsburgh , Pennsylvania",
   "dateAdded": "2019-02-27",
   "cik": 943452
  },
@@ -4360,7 +4360,7 @@
   "name": "Waste Management",
   "sector": "Industrials",
   "industry": "Environmental & Facilities Services",
-  "headquarters": "Houston, Texas",
+  "headquarters": "Houston , Texas",
   "dateAdded": "1998-08-31",
   "cik": 823768
  },
@@ -4378,7 +4378,7 @@
   "name": "WEC Energy Group",
   "sector": "Utilities",
   "industry": "Electric Utilities",
-  "headquarters": "Milwaukee, Wisconsin",
+  "headquarters": "Milwaukee , Wisconsin",
   "dateAdded": "2008-10-31",
   "cik": 783325
  },
@@ -4387,7 +4387,7 @@
   "name": "Wells Fargo",
   "sector": "Financials",
   "industry": "Diversified Banks",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "1976-06-30",
   "cik": 72971
  },
@@ -4423,7 +4423,7 @@
   "name": "Weyerhaeuser",
   "sector": "Real Estate",
   "industry": "Timber REITs",
-  "headquarters": "Seattle, Washington",
+  "headquarters": "Seattle , Washington",
   "dateAdded": "1979-10-01",
   "cik": 106535
  },
@@ -4432,7 +4432,7 @@
   "name": "Williams-Sonoma, Inc.",
   "sector": "Consumer Discretionary",
   "industry": "Homefurnishing Retail",
-  "headquarters": "San Francisco, California",
+  "headquarters": "San Francisco , California",
   "dateAdded": "2025-03-24",
   "cik": 719955
  },
@@ -4450,7 +4450,7 @@
   "name": "Willis Towers Watson",
   "sector": "Financials",
   "industry": "Insurance Brokers",
-  "headquarters": "London, United Kingdom",
+  "headquarters": "London , United Kingdom",
   "dateAdded": "2016-01-05",
   "cik": 1140536
  },
@@ -4477,7 +4477,7 @@
   "name": "Xcel Energy",
   "sector": "Utilities",
   "industry": "Multi-Utilities",
-  "headquarters": "Minneapolis, Minnesota",
+  "headquarters": "Minneapolis , Minnesota",
   "dateAdded": "1957-03-04",
   "cik": 72903
  },

@@ -1,0 +1,316 @@
+{
+ "proxies": {
+  "0001140361-26-017294": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000114036126017294/ny20063214x1_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001058090-26-000009",
+   "result": {
+    "ceoPay": 15460000,
+    "medianPay": 17446,
+    "payRatio": 886,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ted in accordance with the Summary Compensation Table rules. The compensation of our median employee is not necessarily representative of the compensation of other restaurant employees or of our overall compensation practices. Based on an annual total compensation of our median employee for 2025 of $17,446, and the annual total compensation of $15.46 million for Scott Boatwright, our CEO, as reported in the 2025 Summary Compensation Table, the ratio of our CEO's annual total compensation to our median employee's annual total compensation is 886 to 1. One of the most significant factors that differentiates us from other restaurant companies is that we own all of our restaurants (except the franchised restaurants in the Middle East), so all of the approximately 126,000 persons working in our"
+   }
+  },
+  "0001140361-25-015614": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000114036125015614/ny20039347x771_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001058090-25-000014",
+   "result": {
+    "ceoPay": 19140000,
+    "medianPay": 16666,
+    "payRatio": 1148,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ted in accordance with the Summary Compensation Table rules. The compensation of our median employee is not necessarily representative of the compensation of other restaurant employees or of our overall compensation practices. Based on an annual total compensation of our median employee for 2024 of $16,666, and the annual total compensation of $19.14 million for Scott Boatwright, our CEO, as reported in the 2024 Summary Compensation Table, the ratio of our CEO's annual total compensation to our median employee's annual total compensation is 1,148 to 1. One of the most significant factors that differentiates us from other restaurant companies is that we own all of our restaurants (except the franchised restaurants in the Middle East), so all of the approximately 126,000 persons working in o"
+   }
+  },
+  "0001140361-24-021181": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000114036124021181/ny20015905x2_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001562762-24-000023",
+   "result": {
+    "ceoPay": 22470000,
+    "medianPay": 16595,
+    "payRatio": 1354,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ted in accordance with the Summary Compensation Table rules. The compensation of our median employee is not necessarily representative of the compensation of other restaurant employees or of our overall compensation practices. Based on an annual total compensation of our median employee for 2023 of $16,595, and the annual total compensation of $22.47 million for Brian Niccol, our CEO, as reported in the 2023 Summary Compensation Table, the ratio of our CEO's annual total compensation to our median employee's annual total compensation is 1,354 to 1. One of the most significant factors that differentiates us from other restaurant companies is that we own all our restaurants (i.e., none of our restaurants are franchised), so all the over 110,000 persons working in our U.S.-based restaurants a"
+   }
+  },
+  "0001193125-23-095757": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000119312523095757/d405643ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001058090-23-000010",
+   "result": {
+    "ceoPay": 17190000,
+    "medianPay": 16010,
+    "payRatio": 1073,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ted in accordance with the Summary Compensation Table rules. The compensation of our median employee is not necessarily representative of the compensation of other restaurant employees or of our overall compensation practices. Based on an annual total compensation of our median employee for 2022 of $16,010, and the annual total compensation of $17.19 million for Brian Niccol, our CEO, as reported in the 2022 Summary Compensation Table, the ratio of our CEO's annual total compensation to our median employee's annual total compensation is 1,073 to 1. One of the most significant factors that differentiates us from other restaurant companies is that we own all of our restaurants (i.e., none of our restaurants are franchised), so all of the over 98,000 persons working in our restaurants are emp"
+   }
+  },
+  "0001140361-22-012495": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000114036122012495/ny20002259x1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001058090-22-000011",
+   "result": {
+    "ceoPay": 17880000,
+    "medianPay": 15811,
+    "payRatio": 1131,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ted in accordance with the Summary Compensation Table rules. The compensation of our median employee is not necessarily representative of the compensation of other restaurant employees or of our overall compensation practices. Based on an annual total compensation of our median employee for 2021 of $15,811, and the annual total compensation of $17.88 million for Brian Niccol, our CEO, as reported in the 2021 Summary Compensation Table, the ratio of our CEO's annual total compensation to our median employee's annual total compensation is 1,131 to 1. One of the biggest factors that differentiates us from other restaurant companies is that we own all of our restaurants (i.e., none of our restaurants are franchised), so all of the over 91,000 persons working in our restaurants are employees in"
+   }
+  },
+  "0001140361-21-011501": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000114036121011501/nc10018909x1_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001058090-21-000010",
+   "result": {
+    "ceoPay": 38000000,
+    "medianPay": 13127,
+    "payRatio": 2898,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "r implement modified work hours. The compensation of our median employee is not necessarily representative of the compensation of other restaurant employees, our non-COVID compensation or of our overall compensation practices. Based on an annual total compensation of our median employee for 2020 of $13,127, and the annual total compensation for Brian Niccol, our CEO, for as reported in the 2020 Summary Compensation Table of $38.0 million, the ratio of our CEO's annual total compensation to our median employee's annual total compensation is 2,898 to 1. Excluding the COVID-related modifications described in \"Compensation Discussion and Analysis - COVID-19 Related Modifications to Incentive Compensation,\" the annual total compensation for Mr. Niccol is $14.8 million, and the ratio of our CEO'"
+   }
+  },
+  "0001193125-20-100511": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000119312520100511/d877905ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001058090-20-000010",
+   "result": {
+    "ceoPay": 16100000.000000002,
+    "medianPay": 14155,
+    "payRatio": 1136,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "resentative of the compensation of other restaurant employees or of our overall compensation practices. For our CEO, we used the total compensation for Brian Niccol, our CEO, as reported in the 2019 Summary Compensation Table. Based on an annual total compensation of our median employee for 2019 of $14,155, and the annual total compensation for our CEO in 2019 of $16.1 million, the ratio of our CEOs annual total compensation to our median employees annual total compensation is 1,136 to 1. Delinquent Section 16(a) Reports Section 16(a) of the Securities Exchange Act of 1934 requires our officers and directors and holders of greater than 10 percent of our outstanding common stock to file initial reports of their ownership of our equity securities and reports of changes in ownership with th"
+   }
+  },
+  "0001193125-19-092659": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000119312519092659/d597897ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001058090-19-000007",
+   "result": {
+    "ceoPay": 33600000,
+    "medianPay": 13779,
+    "payRatio": 2450,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "for Brian Niccol, our CEO, as reported in the 2018 Summary Compensation Table; however, since Mr. Niccol was appointed CEO in March 2018, we annualized Mr. Niccols base salary as if he had joined Chipotle on January 1, 2018. Based on an annual total compensation of our median employee for 2018 of $13,779, and the annualized total compensation for our CEO in 2018 of $33.6 million, the ratio of our CEOs annual total compensation to our median employees annual total compensation is 2,450 to 1. However, a significant majority of Mr. Niccols 2018 total compensation is attributable to several one-time equity awards granted to him when he joined the company. In connection with Mr. Niccol joining Chipotle in March 2018, the company granted him (i) a one-time award of stock appreciation rights"
+   }
+  },
+  "0001193125-18-103365": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058090/000119312518103365/d520577ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001058090-18-000018",
+   "result": {
+    "ceoPay": 11050000,
+    "medianPay": 13582,
+    "payRatio": 814,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "d compensation measure. This total compensation figure reflects employment on a part-time basis, and is not necessarily representative of the compensation of other restaurant employees or of our overall compensation practices. Based on an annual total compensation of our median employee for 2017 of $13,582, and annual total compensation for our CEO in 2017 as reported in the Summary Compensation Table above of $11.05 million (a large majority of which represents the grant date value of performance share awards that had no value as of December 31, 2017, and that will require the price of our common stock to more than double from the closing price on December 31, 2017, and our comparable restaurant sales to increase significantly, in order to deliver any value to the CEO), the ratio of our C"
+   }
+  }
+ },
+ "tenKs": {
+  "0001058090-18-000018": {
+   "parserVersion": 1,
+   "employees": 68890
+  },
+  "0001058090-19-000007": {
+   "parserVersion": 1,
+   "employees": 73000
+  },
+  "0001058090-20-000010": {
+   "parserVersion": 1,
+   "employees": 83000
+  },
+  "0001058090-21-000010": {
+   "parserVersion": 1,
+   "employees": 88000
+  },
+  "0001058090-22-000011": {
+   "parserVersion": 1,
+   "employees": 97660
+  },
+  "0001058090-23-000010": {
+   "parserVersion": 1,
+   "employees": 104958
+  },
+  "0001562762-24-000023": {
+   "parserVersion": 1,
+   "employees": 116068
+  },
+  "0001058090-25-000014": {
+   "parserVersion": 1,
+   "employees": 130504
+  },
+  "0001058090-26-000009": {
+   "parserVersion": 1,
+   "employees": 130301
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2016": {
+    "revenue": 3904384000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058090-19-000007"
+   },
+   "2017": {
+    "revenue": 4476412000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058090-20-000010"
+   },
+   "2018": {
+    "revenue": 4864985000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058090-21-000010"
+   },
+   "2019": {
+    "revenue": 5586369000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058090-22-000011"
+   },
+   "2020": {
+    "revenue": 5984634000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058090-23-000010"
+   },
+   "2021": {
+    "revenue": 7547061000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001562762-24-000023"
+   },
+   "2022": {
+    "revenue": 8634652000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058090-25-000014"
+   },
+   "2023": {
+    "revenue": 9871649000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058090-26-000009"
+   },
+   "2024": {
+    "revenue": 11313853000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058090-26-000009"
+   },
+   "2025": {
+    "revenue": 11925601000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001058090-26-000009"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001058090-26-000009",
+    "filingDate": "2026-02-04",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809026000009/cmg-20251231.htm"
+   },
+   {
+    "accession": "0001058090-25-000014",
+    "filingDate": "2025-02-05",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809025000014/cmg-20241231.htm"
+   },
+   {
+    "accession": "0001562762-24-000023",
+    "filingDate": "2024-02-08",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000156276224000023/cmg-20231231x10k.htm"
+   },
+   {
+    "accession": "0001058090-23-000010",
+    "filingDate": "2023-02-09",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809023000010/cmg-20221231x10k.htm"
+   },
+   {
+    "accession": "0001058090-22-000011",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809022000011/cmg-20211231x10k.htm"
+   },
+   {
+    "accession": "0001058090-21-000010",
+    "filingDate": "2021-02-10",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809021000010/cmg-20201231x10k.htm"
+   },
+   {
+    "accession": "0001058090-20-000010",
+    "filingDate": "2020-02-05",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809020000010/cmg-20191231x10k.htm"
+   },
+   {
+    "accession": "0001058090-19-000007",
+    "filingDate": "2019-02-08",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809019000007/cmg-20181231x10k.htm"
+   },
+   {
+    "accession": "0001058090-18-000018",
+    "filingDate": "2018-02-08",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809018000018/cmg-20171231x10k.htm"
+   },
+   {
+    "accession": "0001058090-17-000009",
+    "filingDate": "2017-02-07",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058090/000105809017000009/cmg-20161231x10k.htm"
+   }
+  ]
+ }
+}

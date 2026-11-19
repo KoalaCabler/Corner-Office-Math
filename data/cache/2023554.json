@@ -1,0 +1,78 @@
+{
+ "proxies": {
+  "0001308179-26-000423": {
+   "parserVersion": 1,
+   "filingDate": "2026-10-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000130817926000423/sndk-20261005.htm",
+   "periodEnd": "2026-07-03",
+   "tenK": "0001628280-26-057406",
+   "result": {
+    "ceoPay": 15181160,
+    "medianPay": 56823,
+    "payRatio": 267,
+    "method": "cross-checked",
+    "employees": 11195,
+    "statedYear": 2026,
+    "excerpt": "l compensation for our CEO for fiscal 2026, we used the amount reported for fiscal 2026 in the \"Total\" column in the \"Fiscal 2026 Summary Compensation Table\" above. Using the methodology described above, the fiscal 2026 annual total compensation for the Median Compensated Employee was calculated as $56,823, and our CEO's annual total compensation was $15,181,160 (as described further in footnotes to the \"Fiscal 2026 Summary Compensation Table\"). Based on this information, the ratio of annual total compensation of our CEO compared to the Median Compensated Employee for fiscal 2026 was 267 to 1. Pay Versus Performance As required by Section 953(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(v) of Regulation S-K under the Exchange Act, we are providing the f"
+   }
+  },
+  "0001628280-25-044481": {
+   "parserVersion": 1,
+   "filingDate": "2025-10-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm",
+   "periodEnd": "2025-06-27",
+   "tenK": "0002023554-25-000034",
+   "result": null
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2023": {
+    "revenue": 6086000000,
+    "periodEnd": "2023-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0002023554-25-000034"
+   },
+   "2024": {
+    "revenue": 6663000000,
+    "periodEnd": "2024-06-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-057406"
+   },
+   "2025": {
+    "revenue": 7355000000,
+    "periodEnd": "2025-06-27",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-057406"
+   },
+   "2026": {
+    "revenue": 20248000000,
+    "periodEnd": "2026-07-03",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-057406"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2025": 22919536,
+   "2026": 10456161
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-057406",
+    "filingDate": "2026-08-17",
+    "reportDate": "2026-07-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828026057406/sndk-20260703.htm"
+   },
+   {
+    "accession": "0002023554-25-000034",
+    "filingDate": "2025-08-21",
+    "reportDate": "2025-06-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/2023554/000202355425000034/sndk-20250627.htm"
+   }
+  ]
+ }
+}

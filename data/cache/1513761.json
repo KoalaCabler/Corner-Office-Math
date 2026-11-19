@@ -1,0 +1,346 @@
+{
+ "proxies": {
+  "0001104659-26-052146": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926052146/tm261503-1_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001104659-26-022067",
+   "result": {
+    "ceoPay": 13752560,
+    "medianPay": 25954,
+    "payRatio": 530,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "yee. For 2025, we selected an employee with the same role on the same ship as a substitute median employee as our original median employee was on leave during a significant portion of 2025. The median employee was a full-time employee located on one of our ships with an annual total compensation of $25,954 for the year ended December 31, 2025, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes fixed cash pay, overtime pay, gratuities, and shipboard pension. Mr. Sommer's annual total compensation for the year ended December 31, 2025 was $13,752,560. Based on this information, for 2025, the ratio of the compensation of Mr. Sommer to the annual total compensation of the median employee was estimated to be approximately 530 to 1. The Pay Ratio"
+   }
+  },
+  "0001104659-25-040634": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465925040634/tm252472-1_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001558370-25-001743",
+   "result": {
+    "ceoPay": 12811659,
+    "medianPay": 23312,
+    "payRatio": 550,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "payroll records as of December 31, 2024, as our consistently applied compensation measure. • We then selected the median employee from this representative sample of our shipboard employees. The median employee was a full-time employee located on one of our ships with an annual total compensation of $23,312 for the year ended December 31, 2024, 58 / TABLE OF CONTENTS EXECUTIVE COMPENSATION TABLES calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes fixed cash pay, overtime pay, gratuities, and shipboard pension. Mr. Sommer's annual total compensation for the year ended December 31, 2024 was $12,811,659. Based on this information, for 2024, the ratio of the compensation of Mr. Sommer to the annual total compensation of the median employee was"
+   }
+  },
+  "0001104659-24-053547": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465924053547/tm242856d2_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001558370-24-001935",
+   "result": {
+    "ceoPay": 8864592,
+    "medianPay": 23330,
+    "payRatio": 380,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "payroll records as of December 31, 2023, as our consistently applied compensation measure. • We then selected the median employee from this representative sample of our shipboard employees. The median employee was a full-time employee located on one of our ships with an annual total compensation of $23,330 for the year ended December 31, 2023, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes fixed cash pay, overtime pay, gratuities, and shipboard pension. Mr. Sommer's annual total compensation for the year ended December 31, 2023 was $8,864,592. Based on this information, for 2023, the ratio of the compensation of Mr. Sommer to the annual total compensation of the median employee was estimated to be approximately 380 to 1. The Pay Ratio"
+   }
+  },
+  "0001104659-23-052195": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465923052195/tm232119-2_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001558370-23-002361",
+   "result": {
+    "ceoPay": 21209333,
+    "medianPay": 24484,
+    "payRatio": 866,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "r each employee as of December 31, 2020, as our consistently applied compensation measure. • We then selected the median employee from this representative sample of our shipboard employees. The median employee was a full-time employee located on one of our ships with an annual total compensation of $24,484 for 2022, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes fixed cash pay, overtime pay, gratuities, and shipboard pension. Mr. Del Rio's annual total 2023 Proxy Statement / 65 TABLE OF CONTENTS EXECUTIVE COMPENSATION TABLES compensation for 2022 was $21,209,333. Based on this information, for 2022, the ratio of the compensation of Mr. Del Rio to the annual total compensation of the median employee was estimated to be approximately 866"
+   }
+  },
+  "0001104659-22-051725": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465922051725/tm2212190-1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001558370-22-002516",
+   "result": {
+    "ceoPay": 19668768,
+    "medianPay": 19319,
+    "payRatio": 1018,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ing through the end of 2021 and multiplying by an assumed number of days at sea, 278, which would be the typical number of days such an employee in that position would work in a given year. The median employee was a full-time employee located on one of our ships with an annual total compensation of $19,319 for 2021, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes fixed cash pay, overtime pay, gratuities, and shipboard pension. Mr. Del Rio's annual total 2022 Proxy Statement / 57 TABLE OF CONTENTS EXECUTIVE COMPENSATION TABLES compensation for 2021 was $19,668,768. Based on this information, for 2021, the ratio of the compensation of Mr. Del Rio to the annual total compensation of the median employee was estimated to be approximately 1,0"
+   }
+  },
+  "0001104659-21-047349": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465921047349/tm217574-4_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001558370-21-001998",
+   "result": {
+    "ceoPay": 36381255,
+    "medianPay": 30635,
+    "payRatio": 1188,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "umber of days in the period and multiplying by an assumed number of days at sea, 278, which would be the typical number of days such an employee in that position would work in a given year. The median employee was a full-time employee located on one of our ships with an annual total compensation of $30,635 for 2020, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes fixed cash pay, overtime pay, gratuities, and shipboard pension. Mr. Del Rio's annual total compensation for 2020 was $36,381,255. Based on this information, for 2020, the ratio of the compensation of Mr. Del Rio to the annual total compensation of the median employee was estimated to be 1,188 to 1. 58 / TABLE OF CONTENTS EXECUTIVE COMPENSATION TABLES The Pay Ratio Disclosure p"
+   }
+  },
+  "0001104659-20-051998": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465920051998/tm2016411-1_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001558370-20-001661",
+   "result": {
+    "ceoPay": 17808364,
+    "medianPay": 16925,
+    "payRatio": 1052,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "bstituting another employee, with substantially similar compensation and working in the same position as the median employee that was identified on December 31, 2018, for December 31, 2019. The median employee was a full-time employee located on one of our ships with an annual total compensation of $16,925 for 2019, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes fixed cash pay, overtime pay, gratuities, and shipboard pension. Mr. Del Rio's annual total compensation for 2019 was $17,808,364. Based on this information, for 2019, the ratio of the compensation of Mr. Del Rio to the annual total compensation of the median employee was estimated to be 1,052 to 1. The Pay Ratio Disclosure presented above is a reasonable estimate. Because the"
+   }
+  },
+  "0001144204-19-021415": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000114420419021415/tv518867-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001144204-19-010508",
+   "result": {
+    "ceoPay": 22593061,
+    "medianPay": 20101,
+    "payRatio": 1124,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ployee, with substantially similar compensation and working in the same position and on the same ship as the median employee that was identified on December 31, 2017, for December 31, 2018. The median employee was a full-time employee located on one of our ships with an annual total compensation of $20,101 for 2018, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes fixed cash pay, overtime pay, gratuities, and shipboard pension. Mr. Del Rio's annual total compensation for 2018 was $22,593,061. Based on this information, for 2018, the ratio of the compensation of Mr. Del Rio to the annual total compensation of the median employee was estimated to be 1,124 to 1. As discussed in \"Compensation Discussion and Analysis\", Mr. Del Rio's annual to"
+   }
+  },
+  "0001144204-18-023149": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1513761/000114420418023149/tv491698_def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001144204-18-011097",
+   "result": {
+    "ceoPay": 10494213,
+    "medianPay": 20428,
+    "payRatio": 514,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "our consistently applied compensation measure. • We then selected the median employee from this representative sample of our shipboard employees. Using this methodology, we determined that the median employee was a full-time employee located on one of our ships with an annual total compensation of $20,428 for 2017, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which includes fixed cash pay, overtime pay, gratuities, and shipboard pension. Mr. Del Rio's annual total compensation for 2017 was $10,494,213. Based on this information, for 2017, the ratio of the compensation of Mr. Del Rio to the annual total compensation of the median employee was estimated to be 514 to 1. The Pay Ratio Disclosure presented above is a reasonable estimate. Because the SE"
+   }
+  }
+ },
+ "tenKs": {
+  "0001144204-18-011097": {
+   "parserVersion": 1,
+   "employees": 3000
+  },
+  "0001144204-19-010508": {
+   "parserVersion": 1,
+   "employees": 3200
+  },
+  "0001558370-20-001661": {
+   "parserVersion": 1,
+   "employees": 4000
+  },
+  "0001558370-21-001998": {
+   "parserVersion": 1,
+   "employees": 3300
+  },
+  "0001558370-22-002516": {
+   "parserVersion": 1,
+   "employees": 3500
+  },
+  "0001558370-23-002361": {
+   "parserVersion": 1,
+   "employees": 5100
+  },
+  "0001558370-24-001935": {
+   "parserVersion": 1,
+   "employees": 5100
+  },
+  "0001558370-25-001743": {
+   "parserVersion": 1,
+   "employees": 5200
+  },
+  "0001104659-26-022067": {
+   "parserVersion": 1,
+   "employees": 5300
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2011": {
+    "revenue": 2219324000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-062855"
+   },
+   "2012": {
+    "revenue": 2276246000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001571049-15-001498"
+   },
+   "2013": {
+    "revenue": 2570294000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001571049-16-012414"
+   },
+   "2014": {
+    "revenue": 3125881000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001571049-17-001650"
+   },
+   "2015": {
+    "revenue": 4345048000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001144204-18-011097"
+   },
+   "2016": {
+    "revenue": 4874340000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001144204-18-011097"
+   },
+   "2017": {
+    "revenue": 5396175000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001144204-18-011097"
+   },
+   "2018": {
+    "revenue": 6055126000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001558370-21-001998"
+   },
+   "2019": {
+    "revenue": 6462376000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001558370-22-002516"
+   },
+   "2020": {
+    "revenue": 1279908000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001558370-23-002361"
+   },
+   "2021": {
+    "revenue": 647986000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001558370-24-001935"
+   },
+   "2022": {
+    "revenue": 4843760000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001558370-25-001743"
+   },
+   "2023": {
+    "revenue": 8549924000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001104659-26-022067"
+   },
+   "2024": {
+    "revenue": 9479651000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001104659-26-022067"
+   },
+   "2025": {
+    "revenue": 9827592000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001104659-26-022067"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001104659-26-022067",
+    "filingDate": "2026-03-02",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000110465926022067/nclh-20251231x10k.htm"
+   },
+   {
+    "accession": "0001558370-25-001743",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837025001743/nclh-20241231x10k.htm"
+   },
+   {
+    "accession": "0001558370-24-001935",
+    "filingDate": "2024-02-28",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837024001935/nclh-20231231x10k.htm"
+   },
+   {
+    "accession": "0001558370-23-002361",
+    "filingDate": "2023-02-28",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837023002361/nclh-20221231x10k.htm"
+   },
+   {
+    "accession": "0001558370-22-002516",
+    "filingDate": "2022-03-01",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837022002516/nclh-20211231x10k.htm"
+   },
+   {
+    "accession": "0001558370-21-001998",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837021001998/nclh-20201231x10k.htm"
+   },
+   {
+    "accession": "0001558370-20-001661",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000155837020001661/nclh-20191231x10kc19a9c.htm"
+   },
+   {
+    "accession": "0001144204-19-010508",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000114420419010508/tv513897_10k.htm"
+   },
+   {
+    "accession": "0001144204-18-011097",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000114420418011097/tv486495_10k.htm"
+   },
+   {
+    "accession": "0001571049-17-001650",
+    "filingDate": "2017-02-27",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1513761/000157104917001650/t1700165_10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,354 @@
+{
+ "proxies": {
+  "0001104659-26-027655": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/827052/000110465926027655/eix-20260423xdef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000827052-26-000012",
+   "result": {
+    "ceoPay": 16544559,
+    "medianPay": 220100,
+    "payRatio": 75,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "nsation of all employees of EIX and its consolidated subsidiaries other than our CEO (collectively, \"EIX Employees\"). Based on SEC rules for this disclosure and applying the median employee identification process described below, EIX has determined that the EIX CEO's total compensation for 2025 was $16,544,559, and the total 2025 compensation of the median EIX Employee was $220,100. Accordingly, EIX estimates the ratio of the EIX CEO's total compensation for 2025 to the total 2025 compensation of the median EIX Employee to be 75 to 1. EIX identified the median EIX Employee for the pay-ratio disclosure in EIX's 2024 Proxy Statement and described the methodology used to identify the median EIX Employee in such proxy statement. EIX believes that it did not experience changes from 2023 to 2025"
+   }
+  },
+  "0001558370-25-003002": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/827052/000155837025003002/eix-20250424xdef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000827052-25-000022",
+   "result": {
+    "ceoPay": 13809571,
+    "medianPay": 183066,
+    "payRatio": 75,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "nsation of all employees of EIX and its consolidated subsidiaries other than our CEO (collectively, \"EIX Employees\"). Based on SEC rules for this disclosure and applying the median employee identification process described below, EIX has determined that the EIX CEO's total compensation for 2024 was $13,809,571, and the total 2024 compensation of the median EIX Employee was $183,066. Accordingly, EIX estimates the ratio of the EIX CEO's total compensation for 2024 to the total 2024 compensation of the median EIX Employee to be 75 to 1. EIX identified the median EIX Employee for the pay-ratio disclosure in EIX's 2024 Proxy Statement, along with the methodology used to identify the median EIX Employee. EIX believes that it did not experience changes from 2023 to 2024 with respect to its emplo"
+   }
+  },
+  "0001558370-24-003398": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/827052/000155837024003398/eix-20240425xdef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000827052-24-000013",
+   "result": {
+    "ceoPay": 14881111,
+    "medianPay": 182831,
+    "payRatio": 81,
+    "method": "cross-checked",
+    "employees": 14552,
+    "statedYear": 2023,
+    "excerpt": "nsation of all employees of EIX and its consolidated subsidiaries other than our CEO (collectively, \"EIX Employees\"). Based on SEC rules for this disclosure and applying the median employee identification process described below, EIX has determined that the EIX CEO's total compensation for 2023 was $14,881,111, and the total 2023 compensation of the median EIX Employee was $182,831. Accordingly, EIX estimates the ratio of the EIX CEO's total compensation for 2023 to the total 2023 compensation of the median EIX Employee to be 81 to 1. As of December 31, 2023, EIX and its consolidated subsidiaries had approximately 14,552 employees globally, with approximately 14,266 employees based in the U.S. and approximately 286 employees located across eight jurisdictions outside of the U.S. The pay ra"
+   }
+  },
+  "0001558370-23-004096": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/827052/000155837023004096/eix-20230427xdef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000827052-23-000010",
+   "result": {
+    "ceoPay": 12240194,
+    "medianPay": 155160,
+    "payRatio": 79,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ompensation of all employees of EIX and its consolidated subsidiaries other than our CEO (collectively, \"EIX Employees\"). Based on SEC rules for this disclosure and applying the median employee identification process described below, EIX has determined that our CEO's total compensation for 2022 was $12,240,194, and the median of the total 2022 compensation of EIX Employees was $155,160. Accordingly, EIX estimates the ratio of our CEO's total compensation for 2022 to the median of the total 2022 compensation of EIX Employees to be 79 to 1. EIX identified the median EIX Employee for the pay-ratio disclosure in EIX's 2021 Proxy Statement, along with the methodology used to identify the median EIX Employee. EIX believes that it did not experience changes from 2020 to 2022 with respect to its e"
+   }
+  },
+  "0001206774-22-000780": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/827052/000120677422000780/eix3970771-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000827052-22-000006",
+   "result": {
+    "ceoPay": 14408862,
+    "medianPay": 175717,
+    "payRatio": 82,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "ompensation of all employees of EIX and its consolidated subsidiaries other than our CEO (collectively, \"EIX Employees\"). Based on SEC rules for this disclosure and applying the median employee identification process described below, EIX has determined that our CEO's total compensation for 2021 was $14,408,862, and the median of the total 2021 compensation of EIX Employees was $175,717. Accordingly, EIX estimates the ratio of our CEO's total compensation for 2021 to the median of the total 2021 compensation of EIX Employees to be 82 to 1. As explained in footnote (5) to the Summary Compensation Table , we believe that \"Adjusted Total\" compensation provides important supplemental information. The \"Adjusted Total\" column in the Summary Compensation Table shows \"SEC Total\" compensation minus"
+   }
+  },
+  "0001206774-21-000696": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/827052/000120677421000696/eix3851521-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000827052-21-000019",
+   "result": {
+    "ceoPay": 15827387,
+    "medianPay": 183148,
+    "payRatio": 86,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ompensation of all employees of EIX and its consolidated subsidiaries other than our CEO (collectively, \"EIX Employees\"). Based on SEC rules for this disclosure and applying the median employee identification process described below, EIX has determined that our CEO's total compensation for 2020 was $15,827,387, and the median of the total 2020 compensation of EIX Employees was $183,148. Accordingly, EIX estimates the ratio of our CEO's total compensation for 2020 to the median of the total 2020 compensation of EIX Employees to be 86 to 1. As explained in footnote (5) to the Summary Compensation Table, we believe that Adjusted Total compensation provides important supplemental information. The Adjusted Total column in the Summary Compensation Table shows SEC Total compensation minus the cha"
+   }
+  },
+  "0001206774-20-000812": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/827052/000120677420000812/eix3661521-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000827052-20-000026",
+   "result": {
+    "ceoPay": 11806662,
+    "medianPay": 190935,
+    "payRatio": 62,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ion of all employees of SCE and its consolidated subsidiaries other than the SCE CEO (collectively, SCE Employees). Based on SEC rules for this disclosure and applying the median employee identification process described below, EIX has determined that the EIX CEOs total compensation for 2019 was $11,806,662, and the median of the total 2019 compensation of EIX Employees was $190,935, and SCE has determined that the SCE CEOs total compensation for 2019 was $3,667,257, and the median of the total 2019 compensation of SCE Employees was $164,038. Accordingly, EIX estimates the ratio of the EIX CEOs total compensation for 2019 to the median of the total 2019 compensation of EIX Employees to be 62 to 1, and SCE estimates the ratio of the SCE CEOs total compensation for 2019 to the median o"
+   }
+  },
+  "0001206774-19-000873": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/827052/000120677419000873/edison3497151-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000827052-19-000034",
+   "result": {
+    "ceoPay": 3124248,
+    "medianPay": 148404,
+    "payRatio": 21,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "plying the median employee identification process described below, EIX has determined that the EIX CEO's total compensation for 2018 was $9,824,871, and the median of the total 2018 compensation of EIX Employees was $166,888, and SCE has determined that the SCE CEO's total compensation for 2018 was $3,124,248, and the median of the total 2018 compensation of SCE Employees was $148,404. Accordingly, EIX estimates the ratio of the EIX CEO's total compensation for 2018 to the median of the total 2018 compensation of EIX Employees to be 59 to 1, and SCE estimates the ratio of the SCE CEO's total compensation for 2018 to the median of the total 2018 compensation of SCE Employees to be 21 to 1. EIX and SCE identified the median EIX Employee and the median SCE Employee, respectively, for the pay-"
+   }
+  },
+  "0001206774-18-000854": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/827052/000120677418000854/edison3328951-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000827052-18-000046",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0000827052-19-000034": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000827052-20-000026": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000827052-21-000019": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000827052-22-000006": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000827052-23-000010": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000827052-25-000022": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000827052-26-000012": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 12868000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-10-001604"
+   },
+   "2008": {
+    "revenue": 14112000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-001484"
+   },
+   "2009": {
+    "revenue": 12361000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-12-000013"
+   },
+   "2010": {
+    "revenue": 9996000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-13-000024"
+   },
+   "2011": {
+    "revenue": 10588000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-14-000030"
+   },
+   "2012": {
+    "revenue": 11862000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-15-000035"
+   },
+   "2013": {
+    "revenue": 12581000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-16-000222"
+   },
+   "2014": {
+    "revenue": 13413000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-17-000033"
+   },
+   "2015": {
+    "revenue": 11524000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-18-000046"
+   },
+   "2016": {
+    "revenue": 11869000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-19-000034"
+   },
+   "2017": {
+    "revenue": 12320000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-20-000026"
+   },
+   "2018": {
+    "revenue": 12657000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-21-000019"
+   },
+   "2019": {
+    "revenue": 12347000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-22-000006"
+   },
+   "2020": {
+    "revenue": 13578000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-23-000010"
+   },
+   "2021": {
+    "revenue": 14905000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-24-000013"
+   },
+   "2022": {
+    "revenue": 17220000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-25-000022"
+   },
+   "2023": {
+    "revenue": 16338000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-26-000012"
+   },
+   "2024": {
+    "revenue": 17599000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-26-000012"
+   },
+   "2025": {
+    "revenue": 19317000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000827052-26-000012"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000827052-26-000012",
+    "filingDate": "2026-02-18",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705226000012/eix-20251231.htm"
+   },
+   {
+    "accession": "0000827052-25-000022",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705225000022/eix-20241231.htm"
+   },
+   {
+    "accession": "0000827052-24-000013",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705224000013/eix-20231231x10k.htm"
+   },
+   {
+    "accession": "0000827052-23-000010",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705223000010/eix-20221231x10k.htm"
+   },
+   {
+    "accession": "0000827052-22-000006",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705222000006/eix-20211231x10k.htm"
+   },
+   {
+    "accession": "0000827052-21-000019",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705221000019/eix-20201231.htm"
+   },
+   {
+    "accession": "0000827052-20-000026",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705220000026/eix-sceq4201910k.htm"
+   },
+   {
+    "accession": "0000827052-19-000034",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705219000034/eix-sceq4201810k.htm"
+   },
+   {
+    "accession": "0000827052-18-000046",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705218000046/eix-sce201710k.htm"
+   },
+   {
+    "accession": "0000827052-17-000033",
+    "filingDate": "2017-02-21",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/827052/000082705217000033/eix-sce201610k.htm"
+   }
+  ]
+ }
+}

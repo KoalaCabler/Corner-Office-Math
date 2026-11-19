@@ -1,0 +1,360 @@
+{
+ "proxies": {
+  "0001097864-26-000010": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097864/000109786426000010/on-20260401.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001097864-26-000006",
+   "result": {
+    "ceoPay": 17678866,
+    "medianPay": 14060,
+    "payRatio": 1257,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "y ratio disclosure includes both our median employee as determined under SEC rules and a second, supplemental ratio comparing CEO pay to that of our median U.S.-based non-manufacturing employee. For 2025: • the annual total compensation of our median employee (other than Mr. El-Khoury, our CEO) was $14,060; • the annual total compensation of our median U.S.-based non-manufacturing employee (other than Mr. El-Khoury) was $195,164; and • the annual total compensation of Mr. El-Khoury, as reported in our SCT, was $17,678,866. Based on this information, for 2025, the ratios of the annual total compensation of Mr. El-Khoury to the annual total compensation of our median employee and to the annual total compensation of our median U.S.-based non-manufacturing employee were 1,257 to 1 and 91 to 1,"
+   }
+  },
+  "0001097864-25-000008": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097864/000109786425000008/on-20250403.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-004557",
+   "result": {
+    "ceoPay": 31131178,
+    "medianPay": 136130,
+    "payRatio": 229,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "permitted outplacement assistance. | onsemi 2024 Pay Ratio Disclosure For 2024: • the annual total compensation of our median employee (other than Mr. El-Khoury, our CEO) was $15,580; • the annual total compensation of our median U.S.-based non-manufacturing employee (other than Mr. El-Khoury) was $136,130; and • the annual total compensation of Mr. El-Khoury, as reported in our SCT, was $31,131,178. Based on this information, for 2024, the ratios of the annual total compensation of Mr. El-Khoury to the annual total compensation of our median employee and to the annual total compensation of our median U.S.-based non-manufacturing employee were 1,998 to 1 and 229 to 1, respectively. We calculated these pay ratios using the following assumptions and principles: Methodology for Determining o"
+   }
+  },
+  "0001097864-24-000001": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097864/000109786424000001/on-20240403.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001628280-24-003201",
+   "result": {
+    "ceoPay": 19965513,
+    "medianPay": 141397,
+    "payRatio": 141,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "permitted outplacement assistance. | onsemi 2023 Pay Ratio Disclosure For 2023: • the annual total compensation of our median employee (other than Mr. El-Khoury, our CEO) was $15,746; • the annual total compensation of our median U.S.-based non-manufacturing employee (other than Mr. El-Khoury) was $141,397; and • the annual total compensation of Mr. El-Khoury, as reported in our SCT, was $19,965,513. Based on this information, for 2023, the ratios of the annual total compensation of Mr. El-Khoury to the annual total compensation of our median employee and to the annual total compensation of our median U.S.-based non-manufacturing employee were 1,268 to 1 and 141 to 1, respectively. onsemi 2024 Proxy Statement 51 | | | | | | | | | | Compensation of Executive Officers | | | We calculated th"
+   }
+  },
+  "0001097864-23-000006": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097864/000109786423000006/on-20230406.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001628280-23-002350",
+   "result": {
+    "ceoPay": 16519702,
+    "medianPay": 16050,
+    "payRatio": 1029,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "retirement, and, in the event of a Change in Control after the retirement date, any unvested RSUs would immediately vest as of the date of the Change in Control. onsemi 2022 Pay Ratio Disclosure For 2022: • the annual total compensation of our median employee (other than Mr. El-Khoury, our CEO) was $16,050; • the annual total compensation of our median U.S.-based non-manufacturing employee (other than Mr. El-Khoury) was $163,001; and • the annual total compensation of Mr. El-Khoury, as reported in our SCT, was $16,519,702. Based on this information, for 2022, the ratios of the annual total compensation of Mr. El-Khoury to the annual total compensation of our median employee and to the annual total compensation of our median U.S.-based non-manufacturing employee were 1,029 to 1 and 101 to 1"
+   }
+  },
+  "0001193125-22-096931": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312522096931/d424856ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001628280-22-002416",
+   "result": {
+    "ceoPay": 15932340,
+    "medianPay": 185424,
+    "payRatio": 86,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "|  | | | | the median of the annual total compensation of all employees of our Company (other than Mr. El-Khoury, our CEO) was $17,475; | | | |  | | | | the median of the annual total compensation of all U.S.-based non-manufacturing employees of our Company (other than Mr. El-Khoury, our CEO) was $185,424; and | | | |  | | | | the annual total compensation of Mr. El-Khoury was $15,932,340. | Based on this information, for 2021, the ratios of the annual total compensation of Mr. El-Khoury to each of the median of the annual total compensation of all employees and the median of the annual total compensation of all U.S.-based non-manufacturing employees were 912 to 1 and 86 to 1, respectively. The pay ratios included in this information are reasonable estimates calculated in a manner consi"
+   }
+  },
+  "0001193125-21-107089": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312521107089/d848112ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001628280-21-002219",
+   "result": {
+    "ceoPay": 10295646,
+    "medianPay": 15044,
+    "payRatio": 684,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "2019 and 2020 RSU award agreements. | ON SEMICONDUCTOR 2020 PAY RATIO DISCLOSURE For 2020, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all employees of our Company (other than Mr. El-Khoury and Mr. Jackson, our CEO and former CEO, respectively) was $15,044; and | | | |  | | | | the annual total compensation of Mr. Jackson, who was our CEO on the Measuring Date (as defined below), was $10,295,646. | We calculated the 2020 annual total compensation for Mr. Jackson by annualizing his total compensation as of October 31, 2020 (the Measuring Date). Based on this information, for 2020, the ratio of the annual total compensation of Mr. Jackson to the median of the annual total compensation of all employees was 684 to 1. The pay ratio included"
+   }
+  },
+  "0001193125-20-099544": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312520099544/d862549ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001193125-20-041751",
+   "result": {
+    "ceoPay": 8894933,
+    "medianPay": 16069,
+    "payRatio": 554,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "otnote (4). | 88 ON Semiconductor Corporation 2020 Proxy Statement Table of Contents ON SEMICONDUCTOR 2019 PAY RATIO DISCLOSURE For 2019, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all employees of our Company (other than Mr. Jackson, our CEO) was $16,069; and | | | |  | | | | the annual total compensation of our CEO was $8,894,933. | Based on this information, for 2019, the ratio of the annual total compensation of Mr. Jackson to the median of the annual total compensation of all employees was 554 to 1. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. We describe the methodology and the material assumptions, adjustments, and estimates that we used t"
+   }
+  },
+  "0001193125-19-092228": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312519092228/d664243ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001193125-19-045025",
+   "result": {
+    "ceoPay": 11893401,
+    "medianPay": 14356,
+    "payRatio": 828,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "otnote (4). | ON Semiconductor Corporation 2019 Proxy Statement 85 Table of Contents ON SEMICONDUCTOR 2018 PAY RATIO DISCLOSURE For 2018, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all employees of our Company (other than Mr. Jackson, our CEO) was $14,356; and | | | |  | | | | the annual total compensation of our CEO was $11,893,401. | Based on this information, for 2018, the ratio of the annual total compensation of Mr. Jackson to the median of the annual total compensation of all employees was 828 to 1. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. We describe the methodology and the material assumptions, adjustments, and estimates that we used"
+   }
+  },
+  "0001193125-18-114330": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312518114330/d516899ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001193125-18-051397",
+   "result": {
+    "ceoPay": 10733131,
+    "medianPay": 11035,
+    "payRatio": 972,
+    "method": "cross-checked",
+    "employees": 33713,
+    "statedYear": 2017,
+    "excerpt": "otnote (3). | ON Semiconductor Corporation 2018 Proxy Statement 83 Table of Contents ON SEMICONDUCTOR 2017 PAY RATIO DISCLOSURE For 2017, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all employees of our Company (other than Mr. Jackson, our CEO) was $11,035; and | | | |  | | | | the annual total compensation of our CEO was $10,733,131. | Based on this information, for 2017, the ratio of the annual total compensation of Mr. Jackson to the median of the annual total compensation of all employees was 972 to 1. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. We describe the methodology and the material assumptions, adjustments, and estimates that we used"
+   }
+  }
+ },
+ "tenKs": {
+  "0001193125-19-045025": {
+   "parserVersion": 1,
+   "employees": 35700
+  },
+  "0001193125-20-041751": {
+   "parserVersion": 1,
+   "employees": 34800
+  },
+  "0001628280-21-002219": {
+   "parserVersion": 1,
+   "employees": 31000
+  },
+  "0001628280-22-002416": {
+   "parserVersion": 1,
+   "employees": 960
+  },
+  "0001628280-23-002350": {
+   "parserVersion": 1,
+   "employees": 31000
+  },
+  "0001628280-24-003201": {
+   "parserVersion": 1,
+   "employees": 1900
+  },
+  "0001628280-25-004557": {
+   "parserVersion": 1,
+   "employees": 1200
+  },
+  "0001097864-26-000006": {
+   "parserVersion": 1,
+   "employees": 2400
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 2054800000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-045204"
+   },
+   "2009": {
+    "revenue": 1768900000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-072371"
+   },
+   "2010": {
+    "revenue": 2313400000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-076823"
+   },
+   "2011": {
+    "revenue": 3442300000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-062363"
+   },
+   "2012": {
+    "revenue": 2894900000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-069358"
+   },
+   "2013": {
+    "revenue": 2782700000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-475009"
+   },
+   "2014": {
+    "revenue": 3161800000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-062207"
+   },
+   "2015": {
+    "revenue": 3495800000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-18-051397"
+   },
+   "2016": {
+    "revenue": 3906900000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-19-045025"
+   },
+   "2017": {
+    "revenue": 5543100000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-19-045025"
+   },
+   "2018": {
+    "revenue": 5878300000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-19-045025"
+   },
+   "2019": {
+    "revenue": 5517900000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-22-002416"
+   },
+   "2020": {
+    "revenue": 5255000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-23-002350"
+   },
+   "2021": {
+    "revenue": 6739800000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-24-003201"
+   },
+   "2022": {
+    "revenue": 8326200000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-25-004557"
+   },
+   "2023": {
+    "revenue": 8253000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097864-26-000006"
+   },
+   "2024": {
+    "revenue": 7082300000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097864-26-000006"
+   },
+   "2025": {
+    "revenue": 5995400000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001097864-26-000006"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001097864-26-000006",
+    "filingDate": "2026-02-09",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097864/000109786426000006/on-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-004557",
+    "filingDate": "2025-02-10",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097864/000162828025004557/on-20241231.htm"
+   },
+   {
+    "accession": "0001628280-24-003201",
+    "filingDate": "2024-02-05",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097864/000162828024003201/on-20231231.htm"
+   },
+   {
+    "accession": "0001628280-23-002350",
+    "filingDate": "2023-02-06",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097864/000162828023002350/on-20221231.htm"
+   },
+   {
+    "accession": "0001628280-22-002416",
+    "filingDate": "2022-02-14",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097864/000162828022002416/on-20211231.htm"
+   },
+   {
+    "accession": "0001628280-21-002219",
+    "filingDate": "2021-02-16",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097864/000162828021002219/on-20201231.htm"
+   },
+   {
+    "accession": "0001193125-20-041751",
+    "filingDate": "2020-02-19",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312520041751/d864442d10k.htm"
+   },
+   {
+    "accession": "0001193125-19-045025",
+    "filingDate": "2019-02-20",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312519045025/d664850d10k.htm"
+   },
+   {
+    "accession": "0001193125-18-051397",
+    "filingDate": "2018-02-21",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312518051397/d508456d10k.htm"
+   },
+   {
+    "accession": "0001193125-17-062207",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1097864/000119312517062207/d332046d10k.htm"
+   }
+  ]
+ }
+}

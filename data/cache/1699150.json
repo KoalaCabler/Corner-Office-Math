@@ -1,0 +1,277 @@
+{
+ "proxies": {
+  "0001140361-26-016726": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036126016726/ny20063676x1_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-008617",
+   "result": {
+    "ceoPay": 16197391,
+    "medianPay": 75422,
+    "payRatio": 215,
+    "method": "cross-checked",
+    "employees": 21500,
+    "statedYear": 2025,
+    "excerpt": "cente Reynal, our Chief Executive Officer (\"CEO\") to the median all of our employees (except Mr. Reynal), calculated in a manner consistent with Item 402(u). For 2025, our last completed fiscal year: | • | | The median of the annual total compensation of all of our employees, excluding our CEO, was $75,422. | | • | | The annual total compensation of our CEO was $16,197,391. | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees except our CEO was 215:1. If the impact of the 100,000 performance-based stock options that were part of the terms of the 2022 CEO's Performance-Based Award were removed from the calculations: | • | | The annual total compensation of the CEO would have been $12,398,391"
+   }
+  },
+  "0001140361-25-015748": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036125015748/ny20042323x1_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-006391",
+   "result": {
+    "ceoPay": 16720080,
+    "medianPay": 69342,
+    "payRatio": 241,
+    "method": "cross-checked",
+    "employees": 21000,
+    "statedYear": 2024,
+    "excerpt": "cente Reynal, our Chief Executive Officer (\"CEO\") to the median all of our employees (except Mr. Reynal), calculated in a manner consistent with Item 402(u). For 2024, our last completed fiscal year: | • | | The median of the annual total compensation of all of our employees, excluding our CEO, was $69,342. | | • | | The annual total compensation of our CEO was $16,720,080. | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees except our CEO was 241:1. If the impact of the 100,000 performance-based stock options that were part of the terms of the 2022 CEO's Performance-Based Award were removed from the calculations: | • | | The annual total compensation of the CEO would have been $12,500,080"
+   }
+  },
+  "0001140361-24-022494": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036124022494/ny20018738x1_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001628280-24-006642",
+   "result": {
+    "ceoPay": 15523750,
+    "medianPay": 55400,
+    "payRatio": 280,
+    "method": "cross-checked",
+    "employees": 18521,
+    "statedYear": 2023,
+    "excerpt": "cente Reynal, our Chief Executive Officer (\"CEO\") to the median all of our employees (except Mr. Reynal), calculated in a manner consistent with Item 402(u). For 2023, our last completed fiscal year: | • | | The median of the annual total compensation of all of our employees, excluding our CEO, was $55,400. | | • | | The annual total compensation of our CEO was $15,523,750. | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees except our CEO was 280:1. If the impact of the 100,000 performance-based stock options that were part of the terms of the 2022 CEO's Performance-Based Award were removed from the calculations: | • | | The annual total compensation of the CEO would have been $12,806,750"
+   }
+  },
+  "0001140361-23-021647": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036123021647/ny20006863x1_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001628280-23-004287",
+   "result": {
+    "ceoPay": 54505957,
+    "medianPay": 65098,
+    "payRatio": 837,
+    "method": "cross-checked",
+    "employees": 15454,
+    "statedYear": 2022,
+    "excerpt": "cente Reynal, our Chief Executive Officer (\"CEO\") to the median all of our employees (except Mr. Reynal), calculated in a manner consistent with Item 402(u). For 2022, our last completed fiscal year: | • | | The median of the annual total compensation of all of our employees, excluding our CEO, was $65,098. | | • | | The annual total compensation of our CEO was $54,505,957. | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees except our CEO was 837:1. If the significant one-time impact of the CEO's Performance-Based Award were removed from the calculations: | • | | The annual total compensation of the CEO would have been $10,886,957. | | • | | The ratio of the annual total compensation of o"
+   }
+  },
+  "0001140361-22-017014": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036122017014/ny20002698x1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001628280-22-003991",
+   "result": {
+    "ceoPay": 10613486,
+    "medianPay": 51757,
+    "payRatio": 205,
+    "method": "cross-checked",
+    "employees": 15454,
+    "statedYear": 2021,
+    "excerpt": "cente Reynal, our Chief Executive Officer (\"CEO\") to the median all of our employees (except Mr. Reynal), calculated in a manner consistent with Item 402(u). For 2021, our last completed fiscal year: | • | | The median of the annual total compensation of all of our employees, excluding our CEO, was $51,757. | | • | | The annual total compensation of our CEO was $10,613,486. | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees except our CEO was 205:1. We determined that, as of December 31, 2021, our employee population consisted of 15,454 individuals, including full time, part time, and temporary employees. To identify our \"median employee\" from this employee population, we obtained annual"
+   }
+  },
+  "0001140361-21-014953": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036121014953/nc10022773x2_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001628280-21-003454",
+   "result": {
+    "ceoPay": 12141175,
+    "medianPay": 53770,
+    "payRatio": 226,
+    "method": "cross-checked",
+    "employees": 15677,
+    "statedYear": 2020,
+    "excerpt": "cente Reynal, our Chief Executive Officer (\"CEO\") to the median all of our employees (except Mr. Reynal), calculated in a manner consistent with Item 402(u). For 2020, our last completed fiscal year: | • | | The median of the annual total compensation of all of our employees, excluding our CEO, was $53,770. | | • | | The annual total compensation of our CEO was $12,141,175. | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees except our CEO was 226:1. As noted earlier under \"Compensation Discussion & Analysis - Certain Merger-Related and One-Time Compensation Elements in 2020\", Mr. Reynal's 2020 compensation total included several one-time Merger-related items. If we considered Mr. Reynal's"
+   }
+  },
+  "0001140361-20-010017": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036120010017/nc10011313x1_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001140361-20-004146",
+   "result": {
+    "ceoPay": 5535511,
+    "medianPay": 61496,
+    "payRatio": 90,
+    "method": "cross-checked",
+    "employees": 6656,
+    "statedYear": 2019,
+    "excerpt": "cente Reynal, our Chief Executive Officer (\"CEO\") to the median all of our employees (except Mr. Reynal), calculated in a manner consistent with Item 402(u). For 2019, our last completed fiscal year: | • | | The median of the annual total compensation of all of our employees, excluding our CEO, was $61,496. | | • | | The annual total compensation of our CEO was $5,535,511. | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees except our CEO was 90:1. We determined that, as of December 31, 2019, our employee population consisted of 6,656 individuals, including full time, part time, and temporary employees. While we used November 30, 2018 to determine our median employee in 2018, we chose to d"
+   }
+  },
+  "0001140361-19-005649": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036119005649/s002732x1_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001140361-19-004014",
+   "result": {
+    "ceoPay": 5705349,
+    "medianPay": 61278,
+    "payRatio": 93,
+    "method": "cross-checked",
+    "employees": 6656,
+    "statedYear": 2018,
+    "excerpt": "Vicente Reynal, our Chief Executive Officer (CEO)), to the annual total compensation of Mr. Reynal, calculated in a manner consistent with Item 402(u). For 2018, our last completed fiscal year: | | | • | | The median of the annual total compensation of all of our employees, excluding our CEO, was $61,278. | | | | • | | The annual total compensation of our CEO was $5,705,349. | Based on this information, the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our employees except our CEO was 93:1. We determined that, as of November 30, 2018, our employee population consisted of 6,656 individuals, including full time, part time, and temporary employees. To identify our median employee from this employee population, we obtained annual"
+   }
+  },
+  "0001140361-18-015236": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036118015236/s002120x1_def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001140361-18-008833",
+   "result": null
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2015": {
+    "revenue": 2126900000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001140361-18-008833"
+   },
+   "2016": {
+    "revenue": 1939400000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001140361-18-008833"
+   },
+   "2017": {
+    "revenue": 2375400000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001140361-18-008833"
+   },
+   "2018": {
+    "revenue": 2689800000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-21-003454"
+   },
+   "2019": {
+    "revenue": 2017500000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-22-003991"
+   },
+   "2020": {
+    "revenue": 3973200000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-23-004287"
+   },
+   "2021": {
+    "revenue": 5152400000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-24-006642"
+   },
+   "2022": {
+    "revenue": 5916300000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-25-006391"
+   },
+   "2023": {
+    "revenue": 6876100000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008617"
+   },
+   "2024": {
+    "revenue": 7235000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008617"
+   },
+   "2025": {
+    "revenue": 7650900000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008617"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 11367565,
+   "2022": 54521777,
+   "2023": 15523750,
+   "2024": 16720080,
+   "2025": 16197391
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-008617",
+    "filingDate": "2026-02-17",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699150/000162828026008617/iri-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-006391",
+    "filingDate": "2025-02-19",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699150/000162828025006391/iri-20241231.htm"
+   },
+   {
+    "accession": "0001628280-24-006642",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699150/000162828024006642/iri-20231231.htm"
+   },
+   {
+    "accession": "0001628280-23-004287",
+    "filingDate": "2023-02-21",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699150/000162828023004287/gdi-20221231.htm"
+   },
+   {
+    "accession": "0001628280-22-003991",
+    "filingDate": "2022-02-25",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699150/000162828022003991/gdi-20211231.htm"
+   },
+   {
+    "accession": "0001628280-21-003454",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699150/000162828021003454/gdi-20201231.htm"
+   },
+   {
+    "accession": "0001140361-20-004146",
+    "filingDate": "2020-02-26",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036120004146/form10k.htm"
+   },
+   {
+    "accession": "0001140361-19-004014",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036119004014/h10061123x1_10k.htm"
+   },
+   {
+    "accession": "0001140361-18-008833",
+    "filingDate": "2018-02-16",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1699150/000114036118008833/form10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,340 @@
+{
+ "proxies": {
+  "0001474432-26-000041": {
+   "parserVersion": 1,
+   "filingDate": "2026-05-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1474432/000147443226000041/pstg-20260430.htm",
+   "periodEnd": "2026-02-01",
+   "tenK": "0001474432-26-000027",
+   "result": {
+    "ceoPay": 18434966,
+    "medianPay": 204326,
+    "payRatio": 90,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "is employee using the same methodology used to calculate annual total compensation for our CEO as set forth in the \"Summary Compensation Table.\" For fiscal 2026, the median of the annual total compensation of all employees of Everpure (other than our CEO), based on the selected median employee, was $204,326, and based on the annual total compensation for our CEO of $18,434,966, our ratio of CEO pay to the median employee pay was 90 to 1. The amounts included in the above pay ratio calculation reflect the grant date fair value of equity awards granted during fiscal 2026. The pay ratio above represents Everpure's reasonable estimate calculated in a manner consistent with the SEC rules, which allow for significant flexibility in how companies identify the median employee, and each company may"
+   }
+  },
+  "0001628280-25-021843": {
+   "parserVersion": 1,
+   "filingDate": "2025-05-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828025021843/pstg-20250428.htm",
+   "periodEnd": "2025-02-02",
+   "tenK": "0001628280-25-015044",
+   "result": {
+    "ceoPay": 14054606,
+    "medianPay": 167057,
+    "payRatio": 84,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "r this employee using the same methodology used to calculate annual total compensation for our CEO as set forth in the \"Summary Compensation Table.\" For fiscal 2025, the median of the annual total compensation of all employees of Pure (other than our CEO), based on the selected median employee, was $167,057, and based on the annual total compensation for our CEO of $14,054,606, our ratio of CEO pay to the median employee pay was 84 to 1. The amounts included in the above pay ratio calculation reflect the grant date fair value of equity awards granted during fiscal 2025. The pay ratio above represents Pure's reasonable estimate calculated in a manner consistent with the SEC rules, which allow for significant flexibility in how companies identify the median employee, and each company may use"
+   }
+  },
+  "0001628280-24-020300": {
+   "parserVersion": 1,
+   "filingDate": "2024-05-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828024020300/pstg-20240501.htm",
+   "periodEnd": "2024-02-04",
+   "tenK": "0001628280-24-013860",
+   "result": {
+    "ceoPay": 36650048,
+    "medianPay": 175434,
+    "payRatio": 209,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "r this employee using the same methodology used to calculate annual total compensation for our CEO as set forth in the \"Summary Compensation Table.\" For fiscal 2024, the median of the annual total compensation of all employees of Pure (other than our CEO), based on the selected median employee, was $175,434, and based on the annual total compensation for our CEO of $36,650,048, our ratio of CEO pay to the median employee pay was 209 to 1. The amounts included in the above pay ratio calculation reflect the grant date fair value of equity awards granted during fiscal 2024. As described in footnote 1 of the Summary Compensation Table, our CEO's fiscal 2024 total compensation includes the incremental fair value of the modification of our CEO's PSU award that occurred in March 2024. That amount"
+   }
+  },
+  "0001628280-23-016129": {
+   "parserVersion": 1,
+   "filingDate": "2023-05-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828023016129/pstg-20230503.htm",
+   "periodEnd": "2023-02-05",
+   "tenK": "0001628280-23-010275",
+   "result": {
+    "ceoPay": 11284123,
+    "medianPay": 186143,
+    "payRatio": 61,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "r this employee using the same methodology used to calculate annual total compensation for our CEO as set forth in the \"Summary Compensation Table.\" For fiscal 2023, the median of the annual total compensation of all employees of Pure (other than our CEO), based on the selected median employee, was $186,143, and based on the annual total compensation for our CEO of $11,284,123, our ratio of CEO pay to the median employee pay was 61 to 1. The amounts included in the above pay ratio calculation reflect the grant date fair value of equity awards granted during fiscal 2023. The pay ratio above represents Pure's reasonable estimate calculated in a manner consistent with the SEC rules, which allow for significant flexibility in how companies identify the median employee, and each company may use"
+   }
+  },
+  "0001628280-22-012667": {
+   "parserVersion": 1,
+   "filingDate": "2022-05-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828022012667/purestorageproxy2022.htm",
+   "periodEnd": "2022-02-06",
+   "tenK": "0001628280-22-008643",
+   "result": {
+    "ceoPay": 9794382,
+    "medianPay": 204641,
+    "payRatio": 48,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "cal 2020 (the substitute median employee ) who had substantially similar compensation to that of our original median employee. For fiscal 2022, the median of the annual total compensation of all employees of Pure (other than our Chief Executive Officer), based on the substitute median employee, was $204,641, and based on the annual total compensation for our Chief Executive Officer of $9,794,382, our ratio of Chief Executive Officer pay to the substitute median employee pay was 48 to 1. The amounts included in the above pay ratio calculation reflect the grant date fair value of equity awards granted during fiscal 2022. The pay ratio above represents Pure's reasonable estimate calculated in a manner consistent with the SEC rules, which allow for significant flexibility in how companies iden"
+   }
+  },
+  "0001628280-21-009085": {
+   "parserVersion": 1,
+   "filingDate": "2021-05-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828021009085/purestorageproxy2021.htm",
+   "periodEnd": "2021-01-31",
+   "tenK": "0001628280-21-005538",
+   "result": {
+    "ceoPay": 8081741,
+    "medianPay": 204017,
+    "payRatio": 40,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "orth in the \"Summary Compensation Table\" above, and we selected the employee with a more representative set of compensation components. For fiscal 2021, the median of the annual total compensation of all employees of Pure (other than our Chief Executive Officer), based on the selected employee, was $204,017, and based on the annual total compensation for our Chief Executive Officer of $8,081,741, our ratio of Chief Executive Officer pay to median employee pay was 40 to 1. The amounts included in the above pay ratio calculation reflect the grant date fair value of equity awards granted during fiscal 2021. The pay ratio above represents Pure's reasonable estimate calculated in a manner consistent with the SEC rules, which allow for significant flexibility in how companies identify the median"
+   }
+  },
+  "0001628280-20-007449": {
+   "parserVersion": 1,
+   "filingDate": "2020-05-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828020007449/purestorageproxy2020.htm",
+   "periodEnd": "2020-02-02",
+   "tenK": "0001628280-20-004133",
+   "result": {
+    "ceoPay": 8725180,
+    "medianPay": 198409,
+    "payRatio": 44,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "orth in the \"Summary Compensation Table\" above, and we selected the employee with a more representative set of compensation components. For fiscal 2020, the median of the annual total compensation of all employees of Pure (other than our Chief Executive Officer), based on the selected employee, was $198,409, and based on the annual total compensation for our Chief Executive Officer of $8,725,180, our ratio of Chief Executive Officer pay to median employee pay was 44 to 1. The amounts included in the above pay ratio calculation reflect the grant date fair value of equity awards granted during fiscal 2020. The pay ratio above represents Pure's reasonable estimate calculated in a manner consistent with the SEC rules, which allow for significant flexibility in how companies identify the median"
+   }
+  },
+  "0001628280-19-006302": {
+   "parserVersion": 1,
+   "filingDate": "2019-05-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828019006302/purestorageproxy2019.htm",
+   "periodEnd": "2019-01-31",
+   "tenK": "0001628280-19-003437",
+   "result": {
+    "ceoPay": 8383230,
+    "medianPay": 223393,
+    "payRatio": 38,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "employee using the same methodology used to calculate annual total compensation for our CEO as set forth in the \"Summary Compensation Table\" above. For fiscal 2019, the median of the annual total compensation of all employees of Pure Storage (other than our CEO), based on the selected employee, was $223,393, and based on the annual total compensation for our CEO of $8,383,230, our ratio of CEO pay to median employee pay was 38 to 1. The amounts included in the above pay ratio calculation take into account the grant date value of equity awards granted during fiscal 2019. The pay ratio above represents Pure Storage's reasonable estimate calculated in a manner consistent with the SEC rules, which allow for significant flexibility in how companies identify the median employee, and each company"
+   }
+  },
+  "0001193125-18-156087": {
+   "parserVersion": 1,
+   "filingDate": "2018-05-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1474432/000119312518156087/d573819ddef14a.htm",
+   "periodEnd": "2018-01-31",
+   "tenK": "0001628280-18-003579",
+   "result": {
+    "ceoPay": 18514639,
+    "medianPay": 217207,
+    "payRatio": 85,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "nual total compensation for this employee using the same methodology used to calculate annual total compensation for our CEO as set forth in the Summary Compensation Table above. For fiscal 2018, the median of the annual total compensation of all employees of Pure Storage (other than our CEO) was $217,207, and based on the annual total compensation for our CEO of $18,514,639, our ratio of CEO pay to median employee pay was 85 to 1. The amounts included in the above pay ratio calculation take into account the grant date value of equity awards granted during fiscal 2018. Our CEO received new-hire equity grants during fiscal 2018 and did not have any vesting events or option exercises in fiscal 2018. For informational purposes, if we spread the value of Mr. Giancarlos new-hire equity award"
+   }
+  }
+ },
+ "tenKs": {
+  "0001628280-18-003579": {
+   "parserVersion": 1,
+   "employees": 2100
+  },
+  "0001628280-19-003437": {
+   "parserVersion": 1,
+   "employees": 2800
+  },
+  "0001628280-20-004133": {
+   "parserVersion": 1,
+   "employees": 3400
+  },
+  "0001628280-21-005538": {
+   "parserVersion": 1,
+   "employees": 3400
+  },
+  "0001628280-22-008643": {
+   "parserVersion": 1,
+   "employees": 4200
+  },
+  "0001628280-23-010275": {
+   "parserVersion": 1,
+   "employees": 5100
+  },
+  "0001628280-24-013860": {
+   "parserVersion": 1,
+   "employees": 5600
+  },
+  "0001628280-25-015044": {
+   "parserVersion": 1,
+   "employees": 6000
+  },
+  "0001474432-26-000027": {
+   "parserVersion": 1,
+   "employees": 6400
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2014": {
+    "revenue": 42733000,
+    "periodEnd": "2014-01-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-16-015322"
+   },
+   "2015": {
+    "revenue": 174451000,
+    "periodEnd": "2015-01-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001628280-17-003034"
+   },
+   "2016": {
+    "revenue": 440333000,
+    "periodEnd": "2016-01-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001628280-18-003579"
+   },
+   "2017": {
+    "revenue": 739171000,
+    "periodEnd": "2017-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-19-003437"
+   },
+   "2018": {
+    "revenue": 1024762000,
+    "periodEnd": "2018-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-20-004133"
+   },
+   "2019": {
+    "revenue": 1359824000,
+    "periodEnd": "2019-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-21-005538"
+   },
+   "2020": {
+    "revenue": 1643440000,
+    "periodEnd": "2020-02-02",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-22-008643"
+   },
+   "2021": {
+    "revenue": 1684179000,
+    "periodEnd": "2021-01-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-23-010275"
+   },
+   "2022": {
+    "revenue": 2180848000,
+    "periodEnd": "2022-02-06",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-24-013860"
+   },
+   "2023": {
+    "revenue": 2753434000,
+    "periodEnd": "2023-02-05",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-25-015044"
+   },
+   "2024": {
+    "revenue": 2830621000,
+    "periodEnd": "2024-02-04",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001474432-26-000027"
+   },
+   "2025": {
+    "revenue": 3168164000,
+    "periodEnd": "2025-02-02",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001474432-26-000027"
+   },
+   "2026": {
+    "revenue": 3662843000,
+    "periodEnd": "2026-02-01",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001474432-26-000027"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 9794382,
+   "2023": 11284123,
+   "2024": 36650048,
+   "2025": 14054606,
+   "2026": 18434966
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001474432-26-000027",
+    "filingDate": "2026-03-25",
+    "reportDate": "2026-02-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000147443226000027/pstg-20260201.htm"
+   },
+   {
+    "accession": "0001628280-25-015044",
+    "filingDate": "2025-03-27",
+    "reportDate": "2025-02-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828025015044/pstg-20250202.htm"
+   },
+   {
+    "accession": "0001628280-24-013860",
+    "filingDate": "2024-04-01",
+    "reportDate": "2024-02-04",
+    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828024013860/pstg-20240204.htm"
+   },
+   {
+    "accession": "0001628280-23-010275",
+    "filingDate": "2023-04-03",
+    "reportDate": "2023-02-05",
+    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828023010275/pstg-20230205.htm"
+   },
+   {
+    "accession": "0001628280-22-008643",
+    "filingDate": "2022-04-07",
+    "reportDate": "2022-02-06",
+    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828022008643/pstg-20220206.htm"
+   },
+   {
+    "accession": "0001628280-21-005538",
+    "filingDate": "2021-03-25",
+    "reportDate": "2021-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828021005538/pstg-20210131.htm"
+   },
+   {
+    "accession": "0001628280-20-004133",
+    "filingDate": "2020-03-27",
+    "reportDate": "2020-02-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828020004133/pstg-20200202.htm"
+   },
+   {
+    "accession": "0001628280-19-003437",
+    "filingDate": "2019-03-26",
+    "reportDate": "2019-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828019003437/a10k2019.htm"
+   },
+   {
+    "accession": "0001628280-18-003579",
+    "filingDate": "2018-03-26",
+    "reportDate": "2018-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828018003579/a10k2018.htm"
+   },
+   {
+    "accession": "0001628280-17-003034",
+    "filingDate": "2017-03-29",
+    "reportDate": "2017-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828017003034/a10k2017.htm"
+   }
+  ]
+ }
+}

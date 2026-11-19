@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001104659-26-035826": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926035826/stld-20260506xdef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001104659-26-021395",
+   "result": {
+    "ceoPay": 12059908,
+    "medianPay": 104530,
+    "payRatio": 115,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "e annual total compensation of our median employee, as of December 31, 2025. This ratio is a reasonable estimate, calculated in a manner consistent with SEC rules. Our principal executive officer is Mr. Mark Millett, Chairman and Chief Executive Officer. Mr. Millett had annual total compensation of $12,059,908 in 2025, as reported in the 2025 Summary Compensation Table. Our median employee's annual total compensation in 2025 was $104,530. Therefore, we estimate that Mr. Millett's annual total compensation for 2025 was 115 times that of our median employee. For purposes of calculating the pay ratio for 2025, we used the same individual that we originally identified as our median employee for 2024 because there was no change to our employee population, mix between full-time and part-time emp"
+   }
+  },
+  "0001558370-25-002901": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837025002901/stld-20250425xdef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001558370-25-001886",
+   "result": {
+    "ceoPay": 11782886,
+    "medianPay": 107859,
+    "payRatio": 109,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "e annual total compensation of our median employee, as of December 31, 2024. This ratio is a reasonable estimate, calculated in a manner consistent with SEC rules. Our principal executive officer is Mr. Mark Millett, Chairman and Chief Executive Officer. Mr. Millett had annual total compensation of $11,782,886 in 2024, as reported in the 2024 Summary Compensation Table. Our median employee's annual total compensation in 2024 was $107,859. Therefore, we estimate that Mr. Millett's annual total compensation for 2024 was 109 times that of our median employee. For purposes of calculating the pay ratio for 2024, we have identified a new median employee compared to 2023 as generally required once every three years. To identify our median compensated individual, we analyzed the compensation of al"
+   }
+  },
+  "0001104659-24-040422": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465924040422/tm242683d2_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001558370-24-002152",
+   "result": {
+    "ceoPay": 11823662,
+    "medianPay": 119460,
+    "payRatio": 99,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "e annual total compensation of our median employee, as of December 31, 2023. This ratio is a reasonable estimate, calculated in a manner consistent with SEC rules. Our principal executive officer is Mr. Mark Millett, Chairman and Chief Executive Officer. Mr. Millett had annual total compensation of $11,823,662 in 2023, as reported in the 2023 Summary Compensation Table. Our median employee's annual total compensation in 2023 was $119,460. Therefore, we estimate that Mr. Millett's annual total compensation for 2023 was 99 times that of our median employee. For purposes of calculating the pay ratio for 2023, we used the same individual that we originally identified as our median employee for 2021 because there was no change to our employee population, mix between full-time and part-time empl"
+   }
+  },
+  "0001104659-23-039039": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465923039039/tm231847d2_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001558370-23-002303",
+   "result": {
+    "ceoPay": 11234457,
+    "medianPay": 140649,
+    "payRatio": 80,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "tal compensation of our median employee, as of December 31, 2022. This ratio is a reasonable estimate, calculated in a manner consistent with SEC rules. Our principal executive officer is Mr. Mark Millett, Chairman, President and Chief Executive Officer. Mr. Millett had annual total compensation of $11,234,457 in 2022, as reported in the 2022 Summary Compensation Table. Our median employee's annual total compensation in 2022 was $140,649. Therefore, we estimate that Mr. Millett's annual total compensation for 2022 was 80 times that of our median employee. For purposes of calculating the pay ratio for 2022, we used the same individual that we originally identified as our median employee for 2021 in 2022 as well because there was no change to our employee population mix between full-time and"
+   }
+  },
+  "0001104659-22-036180": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465922036180/tm223421-1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001558370-22-002377",
+   "result": {
+    "ceoPay": 10999918,
+    "medianPay": 126721,
+    "payRatio": 87,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "tal compensation of our median employee, as of December 31, 2021. This ratio is a reasonable estimate, calculated in a manner consistent with SEC rules. Our principal executive officer is Mr. Mark Millett, Chairman, President and Chief Executive Officer. Mr. Millett had annual total compensation of $10,999,918 in 2021, as reported in the 2021 Summary Compensation Table. Our median employee's annual total compensation in 2021 was $126,721. Therefore, we estimate that Mr. Millett's annual total compensation for 2021 was 87 times that of our median employee. To identify our median compensated individual, we analyzed the compensation of all part time and full time employees of the Company and its consolidated subsidiaries, which amounted to 10,729 individuals, as of December 31, 2021. The comp"
+   }
+  },
+  "0001104659-21-043020": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465921043020/tm212385-1_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001558370-21-002129",
+   "result": {
+    "ceoPay": 10976625,
+    "medianPay": 98622,
+    "payRatio": 111,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "annual total compensation of our median employee, as of December 31, 2020. This ratio is a reasonable estimate, calculated in a manner consistent with SEC rules. Our principal executive officer is Mr. Mark Millett, President and Chief Executive Officer. Mr. Millett had annual total compensation of $10,976,625 in 2020, as reported in the 2020 Summary Compensation Table. Our median employee's annual total compensation in 2020 was $98,622. Therefore, we estimate that Mr. Millett's annual total compensation for 2020 was 111 times that of our median employee. For purposes of calculating the pay ratio for 2020, we have selected a new median employee compared to 2019. We have calculated the preceding information using total compensation applied on a consistent basis to all employees as of Decemb"
+   }
+  },
+  "0001047469-20-001731": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000104746920001731/a2241075zdef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001558370-20-001641",
+   "result": {
+    "ceoPay": 10615111,
+    "medianPay": 127630,
+    "payRatio": 83,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "annual total compensation of our median employee, as of December 31, 2019. This ratio is a reasonable estimate, calculated in a manner consistent with SEC rules. Our principal executive officer is Mr. Mark Millett, President and Chief Executive Officer. Mr. Millett had annual total compensation of $10,615,111 in 2019, as reported in the 2019 Summary Compensation Table. Our median employee's annual total compensation in 2019 was $127,630. Therefore, we estimate that Mr. Millett's annual total compensation for 2019 was 83 times that of our median employee. For purposes of calculating the pay ratio for 2018, we used as our median employee the same individual that we originally identified as our median employee for 2017 because there was no change to our employee population or compensation ar"
+   }
+  },
+  "0001047469-19-001673": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000104746919001673/a2238222zdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001144204-19-010579",
+   "result": {
+    "ceoPay": 10116690,
+    "medianPay": 110233,
+    "payRatio": 92,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "l compensation of our median employee, as of December 31, 2018. This ratio is our reasonable estimate, calculated in a manner consistent with the foregoing rules. Our principal executive officer is Mr. Mark Millett, President and Chief Executive Officer. Mr. Millett had annual total compensation of $10,116,690 in 2018, as reflected in the Summary Compensation Table. Our median employee's annual total compensation in 2018 was $110,233. Therefore, we estimate that Mr. Millett's annual total compensation for 2018 was 92 times that of our median employee. For purposes of calculating the applicable pay ratio for 2018, we have used the same median employee whom we identified for purposes of our disclosure last year, the first applicable year of the required pay-ratio disclosure. We believe that"
+   }
+  },
+  "0001047469-18-002209": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1022671/000104746918002209/a2235065zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001144204-18-011155",
+   "result": {
+    "ceoPay": 8838057,
+    "medianPay": 93695,
+    "payRatio": 94,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "December 31, 2017. This ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934. Our principal executive officer is Mr. Millett, President and Chief Executive Officer. Mr. Millett had annual total compensation of $8,838,057 in 2017, as reflected in the Summary Compensation Table. Our median employee's (excluding the CEO) annual total compensation in 2017 was $93,695. Therefore, we estimate that Mr. Millett's annual total compensation for 2017 was 94 times that of our median employee. We have calculated the preceding information using total compensation applied on a consistent basis to all employees as of December 31, 2017. The Company has included all of its United States employees (while excluding 127 e"
+   }
+  }
+ },
+ "tenKs": {
+  "0001144204-18-011155": {
+   "parserVersion": 1,
+   "employees": 7635
+  },
+  "0001144204-19-010579": {
+   "parserVersion": 1,
+   "employees": 8200
+  },
+  "0001558370-20-001641": {
+   "parserVersion": 1,
+   "employees": 8385
+  },
+  "0001558370-21-002129": {
+   "parserVersion": 1,
+   "employees": 9625
+  },
+  "0001558370-22-002377": {
+   "parserVersion": 1,
+   "employees": 10640
+  },
+  "0001558370-23-002303": {
+   "parserVersion": 1,
+   "employees": 12060
+  },
+  "0001558370-24-002152": {
+   "parserVersion": 1,
+   "employees": 12600
+  },
+  "0001558370-25-001886": {
+   "parserVersion": 1,
+   "employees": 13000
+  },
+  "0001104659-26-021395": {
+   "parserVersion": 1,
+   "employees": 14400
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 4384549000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-10-001104"
+   },
+   "2008": {
+    "revenue": 8080521000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-11-001181"
+   },
+   "2009": {
+    "revenue": 3958806000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-12-001586"
+   },
+   "2010": {
+    "revenue": 6300887000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-13-001827"
+   },
+   "2011": {
+    "revenue": 7997500000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-14-001662"
+   },
+   "2012": {
+    "revenue": 7290234000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-15-001486"
+   },
+   "2013": {
+    "revenue": 7372924000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001047469-16-010496"
+   },
+   "2014": {
+    "revenue": 8755952000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001144204-17-011732"
+   },
+   "2015": {
+    "revenue": 7594411000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001144204-18-011155"
+   },
+   "2016": {
+    "revenue": 7777109000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001144204-19-010579"
+   },
+   "2017": {
+    "revenue": 9538797000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-20-001641"
+   },
+   "2018": {
+    "revenue": 11821839000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-21-002129"
+   },
+   "2019": {
+    "revenue": 10464991000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-22-002377"
+   },
+   "2020": {
+    "revenue": 9601482000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-23-002303"
+   },
+   "2021": {
+    "revenue": 18408850000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-23-002303"
+   },
+   "2022": {
+    "revenue": 22260774000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-23-002303"
+   },
+   "2023": {
+    "revenue": 18795316000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-26-021395"
+   },
+   "2024": {
+    "revenue": 17540390000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-26-021395"
+   },
+   "2025": {
+    "revenue": 18176581000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-26-021395"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001104659-26-021395",
+    "filingDate": "2026-02-27",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000110465926021395/stld-20251231x10k.htm"
+   },
+   {
+    "accession": "0001558370-25-001886",
+    "filingDate": "2025-02-28",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837025001886/stld-20241231x10k.htm"
+   },
+   {
+    "accession": "0001558370-24-002152",
+    "filingDate": "2024-02-29",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837024002152/stld-20231231x10k.htm"
+   },
+   {
+    "accession": "0001558370-23-002303",
+    "filingDate": "2023-02-28",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837023002303/stld-20221231x10k.htm"
+   },
+   {
+    "accession": "0001558370-22-002377",
+    "filingDate": "2022-02-28",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837022002377/stld-20211231x10k.htm"
+   },
+   {
+    "accession": "0001558370-21-002129",
+    "filingDate": "2021-03-01",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837021002129/stld-20201231x10k.htm"
+   },
+   {
+    "accession": "0001558370-20-001641",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000155837020001641/stld-20191231x10kf63a8c.htm"
+   },
+   {
+    "accession": "0001144204-19-010579",
+    "filingDate": "2019-02-27",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000114420419010579/stld-20181231x10k.htm"
+   },
+   {
+    "accession": "0001144204-18-011155",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000114420418011155/stld-20171231x10k.htm"
+   },
+   {
+    "accession": "0001144204-17-011732",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1022671/000114420417011732/stld-20161231x10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,323 @@
+{
+ "proxies": {
+  "0001628280-26-012892": {
+   "parserVersion": 1,
+   "filingDate": "2026-02-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026012892/iqv-20260227.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-008322",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 102424,
+    "payRatio": 275,
+    "method": "ratio-and-median",
+    "employees": 19849,
+    "statedYear": 2025,
+    "excerpt": "fied and reported in 2023 for purposes of calculating the pay ratio disclosure with respect to 2025, and that using this median employee will not significantly affect our pay ratio disclosure. For 2025, the annual total compensation of our median employee, calculated under applicable SEC rules, was $102,424. For 2025, the annual total compensation for our Chief Executive Officer is reported in the \"2025 Summary Compensation Table\" above. On this basis, the ratio of our Chief Executive Officer's annual total compensation to our median employee's annual total compensation is estimated at 275:1. | | | | | | | 100 | | IQVIA HOLDINGS INC. | 2026 Proxy Statement | COMPENSATION OF NAMED EXECUTIVE OFFICERS Pay versus Performance Pay versus Performance The following table reports the compensation o"
+   }
+  },
+  "0001478242-25-000060": {
+   "parserVersion": 1,
+   "filingDate": "2025-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1478242/000147824225000060/iqv-20250228.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001478242-25-000045",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 77918,
+    "payRatio": 343,
+    "method": "ratio-and-median",
+    "employees": 19849,
+    "statedYear": 2024,
+    "excerpt": "fied and reported in 2023 for purposes of calculating the pay ratio disclosure with respect to 2024, and that using this median employee will not significantly affect our pay ratio disclosure. For 2024, the annual total compensation of our median employee, calculated under applicable SEC rules, was $77,918. For 2024, the annual total compensation for our Chief Executive Officer is reported in the \"2024 Summary Compensation Table\" above. On this basis, the ratio of our Chief Executive Officer's annual total compensation to our median employee's annual total compensation is estimated at 343:1. Additionally, our Company is uniquely diverse geographically, having a presence in over 100 countries with material differences in elements of pay. When calculating our pay ratio using only our U.S. po"
+   }
+  },
+  "0001308179-24-000042": {
+   "parserVersion": 1,
+   "filingDate": "2024-02-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1478242/000130817924000042/liqv2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001478242-24-000038",
+   "result": {
+    "ceoPay": 29151752,
+    "medianPay": 91601,
+    "payRatio": 318,
+    "method": "cross-checked",
+    "employees": 19849,
+    "statedYear": 2023,
+    "excerpt": "eria, 38; Norway, 47; Pakistan, 72; Panama, 6; Paraguay, 4; Peru, 82; Rwanda, 2; Sierra Leone, 1; Slovenia, 16; Sri Lanka, 38; Tunisia, 28; Ukraine, 228; Uruguay, 6; Venezuela, 6; Vietnam, 89. For 2023, the annual total compensation of our median employee, calculated under applicable SEC rules, was $91,601. For 2023, the annual total compensation for our Chief Executive Officer is reported in the \"2023 Summary Compensation Table\" above. On this basis, the ratio of our Chief Executive Officer's annual total compensation to our median employee's annual total compensation is estimated at 318:1. Additionally, our Company is uniquely diverse geographically, having a presence in over 100 countries with material differences in elements of pay. When calculating our pay ratio using only our U.S. po"
+   }
+  },
+  "0001308179-23-000071": {
+   "parserVersion": 1,
+   "filingDate": "2023-02-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1478242/000130817923000071/iqv-20221231.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001478242-23-000044",
+   "result": {
+    "ceoPay": 30135029,
+    "medianPay": 102805,
+    "payRatio": 293,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "fied and reported in 2020 for purposes of calculating the pay ratio disclosure with respect to 2022, and that using this median employee will not significantly affect our pay ratio disclosure. For 2022, the annual total compensation of our median employee, calculated under applicable SEC rules, was $102,805. For 2022, the annual total compensation for our Chief Executive Officer is reported in the \"2022 Summary Compensation Table\" above. On this basis, the ratio of our Chief Executive Officer's annual total compensation to our median employee's annual total compensation is estimated at 293:1. | | | | | IQVIA HOLDINGS INC. 2023 Proxy Statement | | 116 | Back to Contents Pay versus Performance The following table reports the compensation of our Principal Executive Officer (PEO) and the avera"
+   }
+  },
+  "0001308179-22-000027": {
+   "parserVersion": 1,
+   "filingDate": "2022-02-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1478242/000130817922000027/liqv2022_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001478242-22-000041",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 139803,
+    "payRatio": 205,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "fied and reported in 2020 for purposes of calculating the pay ratio disclosure with respect to 2021, and that using this median employee will not significantly affect our pay ratio disclosure. For 2021, the annual total compensation of our median employee, calculated under applicable SEC rules, was $139,803. For 2021, the annual total compensation for our Chief Executive Officer is reported in the \"Summary Compensation Table\" above. On this basis, the ratio of our Chief Executive Officer's annual total compensation to our median employee's annual total compensation is estimated at 205:1. | | | | | IQVIA HOLDINGS INC. 2022 Proxy Statement | | 97 | Back to Contents | PROPOSAL NO. 4 Stockholder Proposal: Majority Voting in Uncontested Director Elections | | | In accordance with SEC rules, we"
+   }
+  },
+  "0001193125-21-061016": {
+   "parserVersion": 1,
+   "filingDate": "2021-02-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1478242/000119312521061016/d106248ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001478242-21-000020",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 96128,
+    "payRatio": 266,
+    "method": "ratio-and-median",
+    "employees": 17959,
+    "statedYear": 2020,
+    "excerpt": "uant to the permitted de minimis exemption, the following countries were excluded from the ratio calculation: Bolivia, 3; Ecuador, 55; Egypt, 149; Kazakhstan, 3; Pakistan, 53; and Vietnam, 82. For 2020, the annual total compensation of our median employee, calculated under applicable SEC rules, was $96,128. For 2020, the annual total compensation for our Chief Executive Officer is reported in the Summary Compensation Table above. On this basis, the ratio of our Chief Executive Officers annual total compensation to our median employees annual total compensation is estimated at 266:1. Table of Contents | | | | | | | | | | | 116 | | | | | | | | | IQVIA 2021 PROXY STATEMENT | Proposal No. 3: Amendments to Certificate of Incorporation to Remove Supermajority Voting Standards After careful c"
+   }
+  },
+  "0001193125-20-040645": {
+   "parserVersion": 1,
+   "filingDate": "2020-02-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1478242/000119312520040645/d857901ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-004901",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 118891,
+    "payRatio": 186,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "fied and reported in 2017 for purposes of calculating the pay ratio disclosure with respect to 2019 and that using this median employee would not significantly affect our pay ratio disclosure. For 2019, the annual total compensation of our median employee, calculated under applicable SEC rules, was $118,891. The annual total compensation for our Chief Executive Officer in 2019 is reported in the Summary Compensation Table above. On this basis, the ratio of our Chief Executive Officers annual total compensation to our median employees annual total compensation is estimated at 186:1. Table of Contents | | | | | | | 82 | | | | | IQVIA 2020 PROXY STATEMENT | Proposal No. 3: Ratification of the Appointment of the Independent Registered Public Accounting Firm The Audit Committee has appointe"
+   }
+  },
+  "0001193125-19-047135": {
+   "parserVersion": 1,
+   "filingDate": "2019-02-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1478242/000119312519047135/d692227ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001564590-19-003180",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 90097,
+    "payRatio": 182,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "yed by us on December 1, 2017 (annualized in the case of part-time employees and employees who joined the Company during 2017), after applying an exclusion for certain of our non-US employees. For 2018, the annual total compensation of our median employee, calculated under applicable SEC rules, was $90,097. The annual total compensation for our Chief Executive Officer in 2018 is reported in the Summary Compensation Table. On this basis, the ratio of our Chief Executive Officers annual total compensation to our median employees annual total compensation is estimated at 182:1. 47 Table of Contents PROPOSAL NO. 2: RATIFICATION OF THE APPOINTMENT OF THE INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM The Audit Committee has selected PricewaterhouseCoopers LLP (PricewaterhouseCoopers) as our"
+   }
+  },
+  "0001193125-18-064494": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1478242/000119312518064494/d512199ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001564590-18-002340",
+   "result": {
+    "ceoPay": 38000000,
+    "medianPay": 97997,
+    "payRatio": 388,
+    "method": "cross-checked",
+    "employees": 14684,
+    "statedYear": 2017,
+    "excerpt": "Section 162(m) of the Code and is reported in the Summary Compensation Table at the maximum opportunity (this award has a value in the Summary Compensation Table of $6.5 million). The value of this award at target is $3.2 million. | For 2017, the annual total compensation of our median employee was $97,997. The annual total compensation for our Chief Executive Officer in 2017 reported in the Summary Compensation Table above included a special retention equity award and a performance award at the maximum opportunity and was $38.0 million. On this basis, the ratio of our Chief Executive Officers annual total compensation to our median employees annual total compensation would be estimated at 388:1. When including total compensation for our Chief Executive Officer using the target equity aw"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2011": {
+    "revenue": 4327748000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-050071"
+   },
+   "2012": {
+    "revenue": 4865513000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-045845"
+   },
+   "2013": {
+    "revenue": 5099545000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-16-012629"
+   },
+   "2014": {
+    "revenue": 5460000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-046709"
+   },
+   "2015": {
+    "revenue": 5737000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-002340"
+   },
+   "2016": {
+    "revenue": 6878000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-002340"
+   },
+   "2017": {
+    "revenue": 9739000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-002340"
+   },
+   "2018": {
+    "revenue": 10412000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001478242-21-000020"
+   },
+   "2019": {
+    "revenue": 11088000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001478242-22-000041"
+   },
+   "2020": {
+    "revenue": 11359000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001478242-23-000044"
+   },
+   "2021": {
+    "revenue": 13874000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001478242-24-000038"
+   },
+   "2022": {
+    "revenue": 14410000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001478242-25-000045"
+   },
+   "2023": {
+    "revenue": 14984000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008322"
+   },
+   "2024": {
+    "revenue": 15405000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008322"
+   },
+   "2025": {
+    "revenue": 16310000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-008322"
+   }
+  },
+  "employeesTagged": {
+   "0001193125-14-050071": 28200,
+   "0001193125-15-045845": 32600,
+   "0001564590-16-012629": 36100,
+   "0001193125-17-046709": 50000,
+   "0001564590-18-002340": 55000,
+   "0001564590-19-003180": 58000,
+   "0001564590-20-004901": 67000,
+   "0001478242-21-000020": 70000,
+   "0001478242-22-000041": 79000,
+   "0001478242-23-000044": 86000,
+   "0001478242-24-000038": 87000,
+   "0001478242-25-000045": 88000,
+   "0001628280-26-008322": 93000
+  },
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-008322",
+    "filingDate": "2026-02-17",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1478242/000162828026008322/iqv-20251231.htm"
+   },
+   {
+    "accession": "0001478242-25-000045",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1478242/000147824225000045/iqv-20241231.htm"
+   },
+   {
+    "accession": "0001478242-24-000038",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1478242/000147824224000038/iqv-20231231.htm"
+   },
+   {
+    "accession": "0001478242-23-000044",
+    "filingDate": "2023-02-15",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1478242/000147824223000044/iqv-20221231.htm"
+   },
+   {
+    "accession": "0001478242-22-000041",
+    "filingDate": "2022-02-16",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1478242/000147824222000041/iqv-20211231.htm"
+   },
+   {
+    "accession": "0001478242-21-000020",
+    "filingDate": "2021-02-12",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1478242/000147824221000020/iqv-20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-004901",
+    "filingDate": "2020-02-18",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1478242/000156459020004901/iqv-10k_20191231.htm"
+   },
+   {
+    "accession": "0001564590-19-003180",
+    "filingDate": "2019-02-19",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1478242/000156459019003180/iqv-10k_20181231.htm"
+   },
+   {
+    "accession": "0001564590-18-002340",
+    "filingDate": "2018-02-16",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1478242/000156459018002340/iqv-10k_20171231.htm"
+   },
+   {
+    "accession": "0001193125-17-046709",
+    "filingDate": "2017-02-16",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1478242/000119312517046709/d321341d10k.htm"
+   }
+  ]
+ }
+}

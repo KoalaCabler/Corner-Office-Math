@@ -1,0 +1,354 @@
+{
+ "proxies": {
+  "0001628280-26-020330": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/10456/000162828026020330/bax-20260320.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-007733",
+   "result": {
+    "ceoPay": 32199341,
+    "medianPay": 72402,
+    "payRatio": 445,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "total compensation of Mr. Hider, President and CEO. For the year ended December 31, 2025: • the annual total compensation of the median Baxter employee (identified in accordance with the procedures described below) calculated in the same manner as the NEOs in the 2025 Summary Compensation Table was $72,402; and • Mr. Hider's annual total compensation was $32,199,341, which differs from the amount reported in the Total column of the 2025 Summary Compensation Table due to the annualization of Mr. Hider's compensation to reflect his mid-year commencement of employment with Baxter, as discussed further below. Based on this information, the estimated ratio of Mr. Hider's annual total compensation for 2025 to the annual total compensation of the median Baxter employee in 2025 is 445 to 1. Since"
+   }
+  },
+  "0001628280-25-014747": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/10456/000162828025014747/bax-20250325.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-007201",
+   "result": {
+    "ceoPay": 18071015,
+    "medianPay": 70331,
+    "payRatio": 257,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "n of Mr. Almeida, Former Chair, President and CEO. For the year ended December 31, 2024: • the annual total compensation of the median Baxter employee (identified in accordance with the procedures described below) calculated in the same manner as the NEOs in the Summary Compensation Table above was $70,331; and • the annual total compensation of Mr. Almeida as reported in the \"Total\" column of the Summary Compensation Table above was $18,071,015. Based on this information, the estimated ratio of Mr. Almeida's annual total compensation for 2024 to the annual total compensation of the median Baxter employee in 2024 is 257 to 1. The company believes this ratio is a reasonable estimate based on Baxter-specific employee demographics and compensation. The company's ratio may not be comparable to"
+   }
+  },
+  "0001193125-24-075975": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/10456/000119312524075975/d546571ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001628280-24-003932",
+   "result": {
+    "ceoPay": 13786671,
+    "medianPay": 48566,
+    "payRatio": 284,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": ". Almeida, Chair, President and CEO. For the year ended December 31, 2023: | | | • | | | | the annual total compensation of the median Baxter employee (identified in accordance with the procedures described below) calculated in the same manner as the NEOs in the Summary Compensation Table above was $48,566; and | | | | • | | | | the annual total compensation of Mr. Almeida as reported in the \"Total\" column of the Summary Compensation Table above was $13,786,671. | Based on this information, the estimated ratio of Mr. Almeida's annual total compensation for 2023 to the annual total compensation of the median Baxter employee in 2023 is 284 to 1. The company believes this ratio is a reasonable estimate based on Baxter-specific employee demographics and compensation. The company's ratio may no"
+   }
+  },
+  "0001193125-23-077304": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/10456/000119312523077304/d424476ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001628280-23-002864",
+   "result": {
+    "ceoPay": 13588236,
+    "medianPay": 46830,
+    "payRatio": 290,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": ". Almeida, Chair, President and CEO. For the year ended December 31, 2022: | | | • | | | | the annual total compensation of the median Baxter employee (identified in accordance with the procedures described below) calculated in the same manner as the NEOs in the Summary Compensation Table above was $46,830; and | | | | • | | | | the annual total compensation of Mr. Almeida as reported in the \"Total\" column of the Summary Compensation Table above was $13,588,236. | Based on this information, the estimated ratio of Mr. Almeida's annual total compensation for 2022 to the annual total compensation of the median Baxter employee in 2022 is 290 to 1. The company believes this ratio is a reasonable estimate based on Baxter-specific employee demographics and compensation. The company's ratio may no"
+   }
+  },
+  "0001193125-22-080632": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/10456/000119312522080632/d255169ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001628280-22-003432",
+   "result": {
+    "ceoPay": 15634734,
+    "medianPay": 46351,
+    "payRatio": 337,
+    "method": "cross-checked",
+    "employees": 10000,
+    "statedYear": 2021,
+    "excerpt": "lmeida, Chairman, President and CEO. For the year ended December 31, 2021: | | |  | | | | the annual total compensation of the median Baxter employee (identified in accordance with the procedures described below) calculated in the same manner as the NEOs in the Summary Compensation Table above was $46,351; and | | | |  | | | | the annual total compensation of Mr. Almeida as reported in the Total column of the Summary Compensation Table above was $15,634,734. | Based on this information, the estimated ratio of Mr. Almeidas annual total compensation for 2021 to the annual total compensation of the median Baxter employee in 2021 is 337 to 1. The company believes this ratio is a reasonable estimate based on Baxter-specific employee demographics and compensation. The companys ratio may no"
+   }
+  },
+  "0001193125-21-089604": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/10456/000119312521089604/d30485ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001628280-21-001867",
+   "result": {
+    "ceoPay": 15865396,
+    "medianPay": 46986,
+    "payRatio": 338,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "lmeida, Chairman, President and CEO. For the year ended December 31, 2020: | | |  | | | | the annual total compensation of the median Baxter employee (identified in accordance with the procedures described below) calculated in the same manner as the NEOs in the Summary Compensation Table above was $46,986; and | | | |  | | | | the annual total compensation of Mr. Almeida as reported in the Total column of the Summary Compensation Table above was $15,865,396. | Based on this information, the estimated ratio of Mr. Almeidas annual total compensation for 2020 to the annual total compensation of the median Baxter employee in 2020 is 338 to 1. The company believes this ratio is a reasonable estimate based on Baxter-specific employee demographics and compensation. The companys ratio may no"
+   }
+  },
+  "0001193125-20-075453": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/10456/000119312520075453/d874562ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001628280-20-003693",
+   "result": {
+    "ceoPay": 13913821,
+    "medianPay": 43131,
+    "payRatio": 323,
+    "method": "cross-checked",
+    "employees": 50000,
+    "statedYear": 2019,
+    "excerpt": "bal employees and the annual total compensation of Mr. Almeida, Chairman, President and Chief Executive Officer (CEO). For the year ended December 31, 2019: | | |  | | | | the annual total compensation of the median Baxter employee (identified in accordance with the procedures described below) was $43,131; and | | | |  | | | | the annual total compensation of Mr. Almeida as reported in the Total column of the Summary Compensation Table above was $13,913,821. | Based on this information, the ratio of Mr. Almeidas annual total compensation for 2019 to the annual total compensation of the median Baxter employee (as defined in applicable rules of the SEC) in 2019 is 323 to 1. The company believes this ratio is a reasonable estimate based on Baxter-specific employee demographics and compen"
+   }
+  },
+  "0001193125-19-086724": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/10456/000119312519086724/d657741ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001564590-19-003727",
+   "result": {
+    "ceoPay": 15645125,
+    "medianPay": 45226,
+    "payRatio": 346,
+    "method": "cross-checked",
+    "employees": 49000,
+    "statedYear": 2018,
+    "excerpt": "bal employees and the annual total compensation of Mr. Almeida, Chairman, President and Chief Executive Officer (CEO). For the year ended December 31, 2018: | | |  | | | | the annual total compensation of the median Baxter employee (identified in accordance with the procedures described below) was $45,226; and | | | |  | | | | the annual total compensation of Mr. Almeida as reported in the Total column of the Summary Compensation Table above was $15,645,125. | Based on this information, the ratio of Mr. Almeidas annual total compensation for 2018 to the annual total compensation of the median Baxter employee (as defined in applicable rules of the SEC) in 2018 is 346 to 1. The company believes this ratio is a reasonable estimate based on Baxter-specific employee demographics and compen"
+   }
+  },
+  "0001193125-18-094261": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/10456/000119312518094261/d479285ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001564590-18-002954",
+   "result": {
+    "ceoPay": 14933664,
+    "medianPay": 42008,
+    "payRatio": 355,
+    "method": "cross-checked",
+    "employees": 47000,
+    "statedYear": 2017,
+    "excerpt": "oyees and the annual total compensation of Mr. Almeida, Chairman, President and Chief Executive Officer (CEO). For the year ended December 31, 2017: | | |  | | | | the median of the annual total compensation of all Baxter employees (other than Mr. Almeida and excluding former Claris employees) was $42,008; and | | | |  | | | | the annual total compensation of Mr. Almeida as reported in the Total column of the Summary Compensation Table in this Proxy Statement was $14,933,664. | Based on this information, the ratio of Mr. Almeidas annual total compensation for 2017 to the median of the annual total compensation of all Baxter employees is 355 to 1. The company believes this ratio is a reasonable estimate based on Baxter specific employee demographics and compensation and was calculated"
+   }
+  }
+ },
+ "tenKs": {
+  "0001628280-21-001867": {
+   "parserVersion": 1,
+   "employees": 50000
+  },
+  "0001628280-23-002864": {
+   "parserVersion": 1,
+   "employees": 60000
+  },
+  "0001628280-24-003932": {
+   "parserVersion": 1,
+   "employees": 60000
+  },
+  "0001628280-25-007201": {
+   "parserVersion": 1,
+   "employees": 38000
+  },
+  "0001628280-26-007733": {
+   "parserVersion": 1,
+   "employees": 37500
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 11263000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-10-015380"
+   },
+   "2008": {
+    "revenue": 12348000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000950123-11-017190"
+   },
+   "2009": {
+    "revenue": 12562000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-075661"
+   },
+   "2010": {
+    "revenue": 12843000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-069609"
+   },
+   "2011": {
+    "revenue": 13893000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-061654"
+   },
+   "2012": {
+    "revenue": 13936000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-15-065871"
+   },
+   "2013": {
+    "revenue": 9413000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-16-479471"
+   },
+   "2014": {
+    "revenue": 10719000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-17-002240"
+   },
+   "2015": {
+    "revenue": 9968000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-18-002954"
+   },
+   "2016": {
+    "revenue": 10163000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-19-003727"
+   },
+   "2017": {
+    "revenue": 10584000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-20-003693"
+   },
+   "2018": {
+    "revenue": 11099000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-21-001867"
+   },
+   "2019": {
+    "revenue": 11362000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-22-003432"
+   },
+   "2020": {
+    "revenue": 11673000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-23-002864"
+   },
+   "2021": {
+    "revenue": 12146000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-24-003932"
+   },
+   "2022": {
+    "revenue": 10057000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-25-007201"
+   },
+   "2023": {
+    "revenue": 10360000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-007733"
+   },
+   "2024": {
+    "revenue": 10636000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-007733"
+   },
+   "2025": {
+    "revenue": 11244000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-007733"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-007733",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/10456/000162828026007733/bax-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-007201",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/10456/000162828025007201/bax-20241231.htm"
+   },
+   {
+    "accession": "0001628280-24-003932",
+    "filingDate": "2024-02-08",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/10456/000162828024003932/bax-20231231.htm"
+   },
+   {
+    "accession": "0001628280-23-002864",
+    "filingDate": "2023-02-09",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/10456/000162828023002864/bax-20221231.htm"
+   },
+   {
+    "accession": "0001628280-22-003432",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/10456/000162828022003432/bax-20211231.htm"
+   },
+   {
+    "accession": "0001628280-21-001867",
+    "filingDate": "2021-02-11",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/10456/000162828021001867/bax-20201231.htm"
+   },
+   {
+    "accession": "0001628280-20-003693",
+    "filingDate": "2020-03-17",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/10456/000162828020003693/bax-20191231.htm"
+   },
+   {
+    "accession": "0001564590-19-003727",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/10456/000156459019003727/bax-10k_20181231.htm"
+   },
+   {
+    "accession": "0001564590-18-002954",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/10456/000156459018002954/bax-10k_20171231.htm"
+   },
+   {
+    "accession": "0001564590-17-002240",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/10456/000156459017002240/bax-10k_20161231.htm"
+   }
+  ]
+ }
+}

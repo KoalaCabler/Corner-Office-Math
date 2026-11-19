@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001104659-26-027086": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/765880/000110465926027086/doc-20260430xdef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-005044",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 124450,
+    "payRatio": 88,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "er than our President and CEO, as required by Section 953(b) of the Dodd-Frank Act. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2025, our last completed fiscal year: | ● | | The annual total compensation of our median employee was $124,450; and | | ● | | The annual total compensation of our President and CEO, as reported in the Summary Compensation Table, was $10,072,994. | | ● | | Based on the foregoing, the estimated ratio of the annual total compensation of our President and CEO to the annual total compensation of our median employee was approximately 88:1. To determine the pay ratio, we took the steps outlined below. | | ● | | We determined that as of December 31, 2025, our employee population (excluding our President"
+   }
+  },
+  "0001308179-25-000098": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/765880/000130817925000098/doc013291-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001628280-25-003748",
+   "result": {
+    "ceoPay": 8465882,
+    "medianPay": 128353,
+    "payRatio": 66,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "er than our President and CEO, as required by Section 953(b) of the Dodd-Frank Act. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2024, our last completed fiscal year: | • | | The annual total compensation of our median employee was $128,353; and | | • | | The annual total compensation of our President and CEO, as reported in the Summary Compensation Table, was $8,465,882. | | • | | Based on the foregoing, the estimated ratio of the annual total compensation of our President and CEO to the annual total compensation of our median employee was approximately 66:1. To determine the pay ratio, we took the steps outlined below. | | • | | We determined that as of December 31, 2024, our employee population (excluding our President"
+   }
+  },
+  "0001308179-24-000116": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/765880/000130817924000116/lpeak2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001628280-24-004094",
+   "result": {
+    "ceoPay": 7692510,
+    "medianPay": 238548,
+    "payRatio": 32,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "er than our President and CEO, as required by Section 953(b) of the Dodd-Frank Act. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2023, our last completed fiscal year: | • | | The annual total compensation of our median employee was $238,548; and | | • | | The annual total compensation of our President and CEO, as reported in the Summary Compensation Table, was $7,692,510. | | • | | Based on the foregoing, the estimated ratio of the annual total compensation of our President and CEO to the annual total compensation of our median employee was approximately 32:1. To determine the pay ratio, we took the steps outlined below. | | • | | We determined that as of December 31, 2023, our employee population (excluding our President"
+   }
+  },
+  "0001308179-23-000243": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/765880/000130817923000243/peak4130911-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001628280-23-002794",
+   "result": {
+    "ceoPay": 5557084,
+    "medianPay": 195572,
+    "payRatio": 28,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "er than our President and CEO, as required by Section 953(b) of the Dodd-Frank Act. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2022, our last completed fiscal year: | ● | | The annual total compensation of our median employee was $195,572; and | | | | | | ● | | The annual total compensation of our President and CEO, as reported in the Summary Compensation Table, was $5,557,084. | Based on the foregoing, the estimated ratio of the annual total compensation of our President and CEO to the annual total compensation of our median employee was approximately 28:1. To determine the pay ratio, we took the steps outlined below. | ● | | We determined that as of December 31, 2022, our employee population (excluding our President an"
+   }
+  },
+  "0001206774-22-000765": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/765880/000120677422000765/peak3966611-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001628280-22-002117",
+   "result": {
+    "ceoPay": 11713883,
+    "medianPay": 177521,
+    "payRatio": 66,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "employees other than our CEO, as required by Section 953(b) of the Dodd-Frank Act. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2021, our last completed fiscal year: | ● | | The annual total compensation of our median employee was $177,521; and | | | | | | ● | | The annual total compensation of our CEO, as reported in the Summary Compensation Table, was $11,713,883. | Based on the foregoing, the estimated ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was approximately 66:1. To determine the pay ratio, we took the steps outlined below. | ● | | We determined that as of December 31, 2021, our employee population (excluding our CEO) consisted of 218 individuals, all"
+   }
+  },
+  "0001206774-21-000749": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/765880/000120677421000749/peak3837521-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001628280-21-001804",
+   "result": {
+    "ceoPay": 11374615,
+    "medianPay": 167700,
+    "payRatio": 68,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "employees other than our CEO, as required by Section 953(b) of the Dodd-Frank Act. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2020, our last completed fiscal year: | • | | The annual total compensation of our median employee was $167,700; and | | | | | | • | | The annual total compensation of our CEO, as reported in the Summary Compensation Table, was $11,374,615. | Based on the foregoing, the estimated ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was approximately 68:1. To determine the pay ratio, we took the steps outlined below. We determined that as of December 31, 2020, our employee population (excluding our CEO) consisted of 237 individuals, all of whom"
+   }
+  },
+  "0001206774-20-000799": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/765880/000120677420000799/peak3662921-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001628280-20-001456",
+   "result": {
+    "ceoPay": 9907966,
+    "medianPay": 145000,
+    "payRatio": 68,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "employees other than our CEO, as required by Section 953(b) of the Dodd-Frank Act. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2019, our last completed fiscal year: | ● | | The annual total compensation of our median employee was $145,000; and | | ● | | The annual total compensation of our CEO, as reported in the Summary Compensation Table, was $9,907,966. | Based on the foregoing, the estimated ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was approximately 68:1. To determine the pay ratio, we took the steps outlined below. We determined that as of December 31, 2019, our employee population (excluding our CEO) consisted of 245 individuals, all of whom were loca"
+   }
+  },
+  "0001206774-19-000835": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/765880/000120677419000835/hcp3512041-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001628280-19-001407",
+   "result": {
+    "ceoPay": 8619819,
+    "medianPay": 156921,
+    "payRatio": 55,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "employees other than our CEO, as required by Section 953(b) of the Dodd-Frank Act. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2018, our last completed fiscal year: | ■ | | The annual total compensation of our median employee was $156,921; and | | ■ | | The annual total compensation of our CEO, as reported in the Summary Compensation Table, was $8,619,819. | Based on the foregoing, the estimated ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was approximately 55 :1. To determine the pay ratio, we took the steps outlined below. We determined that as of December 31, 2018, our employee population (excluding our CEO) consisted of 212 individuals, all of whom were loc"
+   }
+  },
+  "0001206774-18-000821": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/765880/000120677418000821/hcp3326241-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001628280-18-001552",
+   "result": {
+    "ceoPay": 7311000,
+    "medianPay": 181076,
+    "payRatio": 40,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "employees other than our CEO, as required by Section 953(b) of the Dodd-Frank Act. The pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2017, our last completed fiscal year: | ● | | The annual total compensation of our median employee was $181,076; and | | ● | | The annual total compensation of our CEO, as reported in the Summary Compensation Table, was $7,311,000. | Based on the foregoing, the estimated ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was approximately 40:1. To determine the pay ratio, we took the steps outlined below. We determined that as of December 31, 2017, our employee population (excluding our CEO) consisted of 200 individuals, all of whom were loca"
+   }
+  }
+ },
+ "tenKs": {
+  "0001628280-18-001552": {
+   "parserVersion": 1,
+   "employees": 190
+  },
+  "0001628280-19-001407": {
+   "parserVersion": 1,
+   "employees": 201
+  },
+  "0001628280-20-001456": {
+   "parserVersion": 1,
+   "employees": 204
+  },
+  "0001628280-21-001804": {
+   "parserVersion": 1,
+   "employees": 217
+  },
+  "0001628280-22-002117": {
+   "parserVersion": 1,
+   "employees": 196
+  },
+  "0001628280-23-002794": {
+   "parserVersion": 1,
+   "employees": 199
+  },
+  "0001628280-24-004094": {
+   "parserVersion": 1,
+   "employees": 193
+  },
+  "0001628280-25-003748": {
+   "parserVersion": 1,
+   "employees": 387
+  },
+  "0001628280-26-005044": {
+   "parserVersion": 1,
+   "employees": 411
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 953743000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-10-000766"
+   },
+   "2008": {
+    "revenue": 1144996000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-000945"
+   },
+   "2009": {
+    "revenue": 1146749000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-12-000940"
+   },
+   "2010": {
+    "revenue": 1240206000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-13-000878"
+   },
+   "2011": {
+    "revenue": 1694418000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-14-000766"
+   },
+   "2012": {
+    "revenue": 1879970000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-15-000067"
+   },
+   "2013": {
+    "revenue": 2099878000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-16-003110"
+   },
+   "2014": {
+    "revenue": 1636833000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-17-000535"
+   },
+   "2015": {
+    "revenue": 1940489000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-18-001552"
+   },
+   "2016": {
+    "revenue": 2129294000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-19-001407"
+   },
+   "2017": {
+    "revenue": 1848378000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-20-001456"
+   },
+   "2018": {
+    "revenue": 1191320000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-21-001804"
+   },
+   "2019": {
+    "revenue": 1240339000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-22-002117"
+   },
+   "2020": {
+    "revenue": 1644875000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-23-002794"
+   },
+   "2021": {
+    "revenue": 1896184000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-24-004094"
+   },
+   "2022": {
+    "revenue": 2061178000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-25-003748"
+   },
+   "2023": {
+    "revenue": 2181003000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-005044"
+   },
+   "2024": {
+    "revenue": 2700449000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-005044"
+   },
+   "2025": {
+    "revenue": 2822512000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-005044"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-005044",
+    "filingDate": "2026-02-03",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/765880/000162828026005044/peak-20251231.htm"
+   },
+   {
+    "accession": "0001628280-25-003748",
+    "filingDate": "2025-02-04",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/765880/000162828025003748/peak-20241231.htm"
+   },
+   {
+    "accession": "0001628280-24-004094",
+    "filingDate": "2024-02-09",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/765880/000162828024004094/peak-20231231.htm"
+   },
+   {
+    "accession": "0001628280-23-002794",
+    "filingDate": "2023-02-08",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/765880/000162828023002794/peak-20221231.htm"
+   },
+   {
+    "accession": "0001628280-22-002117",
+    "filingDate": "2022-02-09",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/765880/000162828022002117/peak-20211231.htm"
+   },
+   {
+    "accession": "0001628280-21-001804",
+    "filingDate": "2021-02-10",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/765880/000162828021001804/peak-20201231.htm"
+   },
+   {
+    "accession": "0001628280-20-001456",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/765880/000162828020001456/healthpeak10-k12312019.htm"
+   },
+   {
+    "accession": "0001628280-19-001407",
+    "filingDate": "2019-02-14",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/765880/000162828019001407/hcp10-k12312018.htm"
+   },
+   {
+    "accession": "0001628280-18-001552",
+    "filingDate": "2018-02-13",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/765880/000162828018001552/hcp10-k12312017.htm"
+   },
+   {
+    "accession": "0001558370-17-000535",
+    "filingDate": "2017-02-13",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/765880/000155837017000535/hcp-20161231x10k.htm"
+   }
+  ]
+ }
+}

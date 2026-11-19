@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0000014272-26-000006": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000006/bmy-20260325.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000014272-26-000004",
+   "result": {
+    "ceoPay": 21879919,
+    "medianPay": 167191,
+    "payRatio": 131,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ny material changes in our employee population or compensation arrangements that would require us to change our methodology for 2025. We calculated that the median employee's 2025 total compensation, as determined in the same manner as \"Total Compensation\" in the 2025 Summary Compensation Table, as $167,191. Dr. Boerner had an annual total compensation equal to the amount included in the \"Total Compensation\" column of the 2025 Summary Compensation Table, which results in an annual total compensation for 2025 of $21,879,919. Based on this information, for 2025, the ratio of the annual total compensation of the CEO to the median of the annual total compensation of all other employees of the Company was 131 to 1. Bristol Myers Squibb | 2026 Proxy Statement 97 | | | | | Pay Versus Performance"
+   }
+  },
+  "0000014272-25-000075": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000075/bmy-20250326.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000014272-25-000039",
+   "result": {
+    "ceoPay": 18787618,
+    "medianPay": 160144,
+    "payRatio": 117,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "y material changes in our employee population or compensation arrangements that would require us to change our methodology for 2024. We calculated that the median employee's 2024 total compensation, as determined in the same manner as \"Total Compensation\" in the 2024 Summary Compensation Table, was $160,144. Dr. Boerner had an annual total compensation equal to the amount included in the \"Total Compensation\" column of the 2024 Summary Compensation Table, which results in an annual total compensation for 2024 of $18,787,618. Based on this information, for 2024, the ratio of the annual total compensation of the CEO to the median of the annual total compensation of all other employees of the Company was 117 to 1. 95 Bristol Myers Squibb | 2025 Proxy Statement | | | | | Pay Versus Performance"
+   }
+  },
+  "0001140361-24-016251": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000114036124016251/ny20016133x2_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000014272-24-000044",
+   "result": {
+    "ceoPay": 19661434,
+    "medianPay": 151172,
+    "payRatio": 130,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "y material changes in our employee population or compensation arrangements that would require us to change our methodology for 2023. We calculated that the median employee's 2023 total compensation, as determined in the same manner as \"Total Compensation\" in the 2023 Summary Compensation Table, was $151,172. Dr. Caforio who was CEO at the time we identified our median employee, had an annual total compensation equal to the amount included in the \"Total Compensation\" column of the 2023 Summary Compensation Table, which results in an annual total compensation for 2023 of $19,661,434. Based on this information, for 2023, the ratio of the annual total compensation of the CEO to the median of the annual total compensation of all other employees of the Company was 130 to 1. | Bristol Myers Squib"
+   }
+  },
+  "0001140361-23-013442": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000114036123013442/ny20006581x1_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000014272-23-000046",
+   "result": {
+    "ceoPay": 20053032,
+    "medianPay": 149162,
+    "payRatio": 134,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "y material changes in our employee population or compensation arrangements that would require us to change our methodology for 2022. We calculated that the median employee's 2022 total compensation, as determined in the same manner as \"Total Compensation\" in the 2022 Summary Compensation Table, was $149,162. Dr. Caforio's 2022 total compensation was $20,053,032. Based on this information, for 2022, the ratio of the annual total compensation of the CEO to the median of the annual total compensation of all other employees of the Company was 134 to 1. Pay Versus Performance The disclosure included in this section is prescribed by SEC rules and does not necessarily align with how the Company or the CMDC views the link between the Company's performance and its NEOs' pay. For a discussion of how"
+   }
+  },
+  "0001140361-22-010987": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000114036122010987/ny20002084x1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000014272-22-000051",
+   "result": {
+    "ceoPay": 19784806,
+    "medianPay": 148649,
+    "payRatio": 133,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "ian employee based on the compensation measure used to select the original median employee (i.e., salary plus 2020 target incentive award). We estimate that the median employee's 2021 total compensation, as determined in the same manner as \"Total Compensation\" in the Summary Compensation Table, was $148,649. Dr. Caforio's 2021 total compensation was $19,784,806, which was 133:1 times that of the median of the annual total compensation of all employees. Item 2-Advisory Vote to Approve the Compensation of Our Named Executive Officers We are providing shareholders the opportunity to advise the Compensation and Management Development Committee and the Board of Directors regarding the compensation of our Named Executive Officers, as such compensation is described in the \"Compensation Discussion"
+   }
+  },
+  "0001140361-21-010010": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000114036121010010/nc10020324x2_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000014272-21-000066",
+   "result": {
+    "ceoPay": 20150902,
+    "medianPay": 147003,
+    "payRatio": 137,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "nual compensation of our employee population, which also includes legacy Celgene employees, and was consistently applied for all employees. We estimate that the median employee's 2020 total compensation, as determined in the same manner as \"Total Compensation\" in The Summary Compensation Table, was $147,003. Dr. Caforio's 2020 total compensation was $20,150,902, which was 137:1 times that of the median of the annual total compensation of all employees. Item 2-Advisory Vote to Approve the Compensation of Our Named Executive Officers As required by Section 14A of the Securities Exchange Act of 1934, as amended, we are providing shareholders the opportunity to advise the Compensation and Management Development Committee and the Board of Directors regarding the compensation of our Named Execut"
+   }
+  },
+  "0001140361-20-006834": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000114036120006834/nc10007007x1_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000014272-20-000082",
+   "result": {
+    "ceoPay": 18767253,
+    "medianPay": 123365,
+    "payRatio": 152,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "measure most reasonably reflects the typical annual compensation of our employee population and was consistently applied for all employees. We estimate that the median employee's 2019 total compensation, as determined in the same manner as \"Total Compensation\" in The Summary Compensation Table, was $123,365. Dr. Caforio's 2019 total compensation was $18,767,253, which was 152:1 times that of the median of the annual total compensation of all employees. Item 2-Advisory Vote to Approve the Compensation of Our Named Executive Officers As required by Section 14A of the Securities Exchange Act of 1934, as amended, we are providing shareholders the opportunity to advise the Compensation and Management Development Committee and the Board of Directors regarding the compensation of our Named Execut"
+   }
+  },
+  "0001047469-19-002763": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000104746919002763/a2238565zdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000014272-19-000047",
+   "result": {
+    "ceoPay": 19379755,
+    "medianPay": 112174,
+    "payRatio": 173,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "measure most reasonably reflects the typical annual compensation of our employee population and was consistently applied for all employees. We estimate that the median employee's 2018 total compensation, as determined in the same manner as \"Total Compensation\" in The Summary Compensation Table, was $112,174. Dr. Caforio's 2018 total compensation was $19,379,755, which was 173:1 times that of the median of the annual total compensation of all employees. 66 Table of Contents ITEM 2ADVISORY VOTE TO APPROVE THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS As required by Section 14A of the Securities Exchange Act of 1934, as amended, we are providing shareholders the opportunity to advise the Compensation and Management Development Committee and the Board of Directors regarding the compensatio"
+   }
+  },
+  "0001047469-18-002011": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/14272/000104746918002011/a2234920zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000014272-18-000055",
+   "result": {
+    "ceoPay": 18687123,
+    "medianPay": 110280,
+    "payRatio": 169,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2016,
+    "excerpt": "get total cash compensation (i.e., salary plus 2017 target incentive award). We believe this measure most reasonably reflects the typical annual compensation of our employee population and was consistently applied for all employees. We estimate that the median employee's 2017 total compensation was $110,280, as determined in the same manner as \"Total Compensation\" in The Summary Compensation Table. Dr. Caforio's 2017 total compensation was $18,687,123, which was 169 times that of the median of the annual total compensation of all employees. 66 Table of Contents ITEM 2ADVISORY VOTE TO APPROVE THE COMPENSATION OF OUR NAMED EXECUTIVE OFFICERS As required by Section 14A of the Securities Exchange Act of 1934, as amended, we are providing shareholders the opportunity to advise the Compensation"
+   }
+  }
+ },
+ "tenKs": {
+  "0000014272-18-000055": {
+   "parserVersion": 1,
+   "employees": 7700
+  },
+  "0000014272-19-000047": {
+   "parserVersion": 1,
+   "employees": 7700
+  },
+  "0000014272-20-000082": {
+   "parserVersion": 1,
+   "employees": 12000
+  },
+  "0000014272-21-000066": {
+   "parserVersion": 1,
+   "employees": 30250
+  },
+  "0000014272-22-000051": {
+   "parserVersion": 1,
+   "employees": 32200
+  },
+  "0000014272-23-000046": {
+   "parserVersion": 1,
+   "employees": 34300
+  },
+  "0000014272-24-000044": {
+   "parserVersion": 1,
+   "employees": 34100
+  },
+  "0000014272-25-000039": {
+   "parserVersion": 1,
+   "employees": 34100
+  },
+  "0000014272-26-000004": {
+   "parserVersion": 1,
+   "employees": 32500
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 15617000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-035167"
+   },
+   "2008": {
+    "revenue": 17715000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-040120"
+   },
+   "2009": {
+    "revenue": 18808000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-066416"
+   },
+   "2010": {
+    "revenue": 19484000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-061678"
+   },
+   "2011": {
+    "revenue": 21244000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000014272-14-000054"
+   },
+   "2012": {
+    "revenue": 17621000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000014272-15-000055"
+   },
+   "2013": {
+    "revenue": 16385000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000014272-16-000288"
+   },
+   "2014": {
+    "revenue": 15879000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000014272-17-000047"
+   },
+   "2015": {
+    "revenue": 16560000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000014272-18-000055"
+   },
+   "2016": {
+    "revenue": 19427000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000014272-19-000047"
+   },
+   "2017": {
+    "revenue": 20776000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000014272-20-000082"
+   },
+   "2018": {
+    "revenue": 22561000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000014272-21-000066"
+   },
+   "2019": {
+    "revenue": 26145000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000014272-22-000051"
+   },
+   "2020": {
+    "revenue": 42518000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000014272-23-000046"
+   },
+   "2021": {
+    "revenue": 46385000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000014272-24-000044"
+   },
+   "2022": {
+    "revenue": 46159000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000014272-25-000039"
+   },
+   "2023": {
+    "revenue": 45006000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000014272-26-000004"
+   },
+   "2024": {
+    "revenue": 48300000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000014272-26-000004"
+   },
+   "2025": {
+    "revenue": 48194000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000014272-26-000004"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000014272-26-000004",
+    "filingDate": "2026-02-11",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000004/bmy-20251231.htm"
+   },
+   {
+    "accession": "0000014272-25-000039",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427225000039/bmy-20241231.htm"
+   },
+   {
+    "accession": "0000014272-24-000044",
+    "filingDate": "2024-02-13",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427224000044/bmy-20231231.htm"
+   },
+   {
+    "accession": "0000014272-23-000046",
+    "filingDate": "2023-02-14",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427223000046/bmy-20221231.htm"
+   },
+   {
+    "accession": "0000014272-22-000051",
+    "filingDate": "2022-02-09",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427222000051/bmy-20211231.htm"
+   },
+   {
+    "accession": "0000014272-21-000066",
+    "filingDate": "2021-02-10",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427221000066/bmy-20201231.htm"
+   },
+   {
+    "accession": "0000014272-20-000082",
+    "filingDate": "2020-02-24",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427220000082/bmy-20191231x10xk.htm"
+   },
+   {
+    "accession": "0000014272-19-000047",
+    "filingDate": "2019-02-25",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427219000047/bmy-20181231x10xk.htm"
+   },
+   {
+    "accession": "0000014272-18-000055",
+    "filingDate": "2018-02-13",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427218000055/bmy-20171231x10xk.htm"
+   },
+   {
+    "accession": "0000014272-17-000047",
+    "filingDate": "2017-02-21",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/14272/000001427217000047/bmy-20161231x10xk.htm"
+   }
+  ]
+ }
+}

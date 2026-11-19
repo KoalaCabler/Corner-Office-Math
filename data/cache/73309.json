@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001193125-26-127739": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312526127739/d21430ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001193125-26-071575",
+   "result": {
+    "ceoPay": 14945471,
+    "medianPay": 133886,
+    "payRatio": 112,
+    "method": "cross-checked",
+    "employees": 32912,
+    "statedYear": 2025,
+    "excerpt": ". For purposes of providing the comparison in accordance with the SEC rules, we identified a \"median employee\" and compared Mr. Topalian's annual total compensation to that of the median employee. For 2025, our last completed fiscal year: | | | • | | | | Mr. Topalian's annual total compensation was $14,945,471. | | | | • | | | | Our median employee's annual total compensation was $133,886. | | | | • | | | | The ratio of Mr. Topalian's annual total compensation to our median employee's annual total compensation was 112 to 1. | The methodology that we used to identify the median employee is described below. Annual total compensation is calculated in the same manner as the amount set forth in the \"Total\" column in the Summary Compensation Table. We believe the pay ratio information set forth"
+   }
+  },
+  "0001193125-25-060939": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312525060939/d840599ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-028427",
+   "result": {
+    "ceoPay": 19024088,
+    "medianPay": 98334,
+    "payRatio": 193,
+    "method": "cross-checked",
+    "employees": 29758,
+    "statedYear": 2024,
+    "excerpt": ". For purposes of providing the comparison in accordance with the SEC rules, we identified a \"median employee\" and compared Mr. Topalian's annual total compensation to that of the median employee. For 2024, our last completed fiscal year: | | | • | | | | Mr. Topalian's annual total compensation was $19,024,088. | | | | • | | | | Our median employee's annual total compensation was $98,334. | | | | • | | | | The ratio of Mr. Topalian's annual total compensation to our median employee's annual total compensation was 193 to 1. | The methodology that we used to identify the median employee is described below. Annual total compensation is calculated in the same manner as the amount set forth in the \"Total\" column in the Summary Compensation Table. While the methodology involves several assumptio"
+   }
+  },
+  "0001193125-24-074670": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312524074670/d563355ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-021195",
+   "result": {
+    "ceoPay": 22500626,
+    "medianPay": 105755,
+    "payRatio": 213,
+    "method": "cross-checked",
+    "employees": 29758,
+    "statedYear": 2023,
+    "excerpt": ". For purposes of providing the comparison in accordance with the SEC rules, we identified a \"median employee\" and compared Mr. Topalian's annual total compensation to that of the median employee. For 2023, our last completed fiscal year: | | | • | | | | Mr. Topalian's annual total compensation was $22,500,626. | | | | • | | | | Our median employee's annual total compensation was $105,755. | | | | • | | | | The ratio of Mr. Topalian's annual total compensation to our median employee's annual total compensation was 213 to 1. | The methodology that we used to identify the median employee is described below. Annual total compensation is calculated in the same manner as the amount set forth in the \"Total\" column in the Summary Compensation Table. While the methodology involves several assumpti"
+   }
+  },
+  "0001193125-23-078647": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312523078647/d389977ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001564590-23-002793",
+   "result": {
+    "ceoPay": 23073171,
+    "medianPay": 124199,
+    "payRatio": 186,
+    "method": "cross-checked",
+    "employees": 29758,
+    "statedYear": 2022,
+    "excerpt": ". For purposes of providing the comparison in accordance with the SEC rules, we identified a \"median employee\" and compared Mr. Topalian's annual total compensation to that of the median employee. For 2022, our last completed fiscal year: | | | • | | | | Mr. Topalian's annual total compensation was $23,073,171. | | | | • | | | | Our median employee's annual total compensation was $124,199. | | | | • | | | | The ratio of Mr. Topalian's annual total compensation to our median employee's annual total compensation was 186 to 1. | The methodology that we used to identify the median employee is described below. Annual total compensation is calculated in the same manner as the amount set forth in the \"Total\" column in the Summary Compensation Table. While the methodology involves several assumpti"
+   }
+  },
+  "0001193125-22-084683": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312522084683/d133417ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001564590-22-007679",
+   "result": {
+    "ceoPay": 11618019,
+    "medianPay": 142635,
+    "payRatio": 81,
+    "method": "cross-checked",
+    "employees": 26120,
+    "statedYear": 2021,
+    "excerpt": ". For purposes of providing the comparison in accordance with the SEC rules, we identified a median employee and compared Mr. Topalians annual total compensation to that of the median employee. For 2021, our last completed fiscal year: | | |  | | | | Mr. Topalians annual total compensation was $11,618,019. | | | |  | | | | Our median employees annual total compensation was $142,635. | | | |  | | | | The ratio of Mr. Topalians annual total compensation to our median employees annual total compensation was 81 to 1. | The methodology that we used to identify the median employee is described below. Annual total compensation is calculated in the same manner as the amount set forth in the Total column in the Summary Compensation Table. While the methodology involves several assumptio"
+   }
+  },
+  "0001193125-21-095511": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312521095511/d53280ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-009503",
+   "result": {
+    "ceoPay": 11265538,
+    "medianPay": 94131,
+    "payRatio": 120,
+    "method": "cross-checked",
+    "employees": 26120,
+    "statedYear": 2020,
+    "excerpt": ". For purposes of providing the comparison in accordance with the SEC rules, we identified a median employee and compared Mr. Topalians annual total compensation to that of the median employee. For 2020, our last completed fiscal year: | | |  | | | | Mr. Topalians annual total compensation was $11,265,538. | | | |  | | | | Our median employees annual total compensation was $94,131. | | | |  | | | | The ratio of Mr. Topalians annual total compensation to our median employees annual total compensation was 120 to 1. | 2021 Proxy Statement 47 Table of Contents C OMPENSATION D ISCUSSION AND A NALYSIS The methodology that we used to identify the median employee is described below. Annual total compensation is calculated in the same manner as the amount set forth in the Total column i"
+   }
+  },
+  "0001193125-20-087744": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312520087744/d827479ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-007794",
+   "result": {
+    "ceoPay": 19099582,
+    "medianPay": 87573,
+    "payRatio": 218,
+    "method": "cross-checked",
+    "employees": 25322,
+    "statedYear": 2017,
+    "excerpt": ". For purposes of providing the comparison in accordance with the SEC rules, we identified a median employee and compared Mr. Ferriolas annual total compensation to that of the median employee. For 2019, our last completed fiscal year: | | |  | | | | Mr. Ferriolas annual total compensation was $19,099,582. | | | |  | | | | Our median employees annual total compensation was $87,573. | | | |  | | | | The ratio of Mr. Ferriolas annual total compensation to our median employees annual total compensation was 218 to 1. | The methodology that we used to identify the median employee is described below. Annual total compensation is calculated in the same manner as the amount set forth in the Total column in the Summary Compensation Table. While, as explained below, the methodology invol"
+   }
+  },
+  "0001193125-19-082856": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312519082856/d700333ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001193125-19-057744",
+   "result": {
+    "ceoPay": 15559469,
+    "medianPay": 106097,
+    "payRatio": 147,
+    "method": "cross-checked",
+    "employees": 25322,
+    "statedYear": 2018,
+    "excerpt": "oyee. For purposes of providing the comparison in accordance with SEC rules, we identified a median employee and compared Mr. Ferriolas annual total compensation to that of the median employee. For 2018, our last completed fiscal year: | | |  | | | | Mr. Ferriolas annual total compensation was $15,559,469. | | | |  | | | | Our median employees annual total compensation was $106,097. | | | |  | | | | The ratio of Mr. Ferriolas annual total compensation to our median employees annual total compensation was 147 to 1. | The methodology that we used to identify the median employee is described below. Annual total compensation is calculated in the same manner as the amount set forth in the Total column in the Summary Compensation Table. While, as explained below, the methodology invo"
+   }
+  },
+  "0001193125-18-093105": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312518093105/d703005ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001193125-18-064018",
+   "result": {
+    "ceoPay": 12090472,
+    "medianPay": 90635,
+    "payRatio": 133,
+    "method": "cross-checked",
+    "employees": 25322,
+    "statedYear": 2017,
+    "excerpt": "iola. For purposes of providing the comparison in accordance with SEC rules, we identified a median employee and compared Mr. Ferriolas annual total compensation to that of the median employee. For 2017, our last completed fiscal year: | | |  | | | | Mr. Ferriolas annual total compensation was $12,090,472. | | | |  | | | | Our median employees annual total compensation was $90,635. | | | |  | | | | The ratio of Mr. Ferriolas annual total compensation to our median employees annual total compensation was 133 to 1. | The methodology that we used to identify the median employee is described below. Annual total compensation is calculated in the same manner as the amount set forth in the Total column in the Summary Compensation Table. While, as explained below, the methodology invol"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 16592976000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-040686"
+   },
+   "2008": {
+    "revenue": 23663324000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-049351"
+   },
+   "2009": {
+    "revenue": 11190296000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-083972"
+   },
+   "2010": {
+    "revenue": 15844627000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-084517"
+   },
+   "2011": {
+    "revenue": 20023564000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-077349"
+   },
+   "2012": {
+    "revenue": 19429273000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-15-068895"
+   },
+   "2013": {
+    "revenue": 19052046000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-16-481119"
+   },
+   "2014": {
+    "revenue": 21105141000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-17-062124"
+   },
+   "2015": {
+    "revenue": 16439276000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-18-064018"
+   },
+   "2016": {
+    "revenue": 16208122000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001193125-19-057744"
+   },
+   "2017": {
+    "revenue": 20252393000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-20-007794"
+   },
+   "2018": {
+    "revenue": 25067279000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-19-057744"
+   },
+   "2019": {
+    "revenue": 22588858000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-22-007679"
+   },
+   "2020": {
+    "revenue": 20139658000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-23-002793"
+   },
+   "2021": {
+    "revenue": 36483939000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-24-021195"
+   },
+   "2022": {
+    "revenue": 41512000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-25-028427"
+   },
+   "2023": {
+    "revenue": 34714000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-071575"
+   },
+   "2024": {
+    "revenue": 30734000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-071575"
+   },
+   "2025": {
+    "revenue": 32494000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-071575"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-071575",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312526071575/nue-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-028427",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/73309/000095017025028427/nue-20241231.htm"
+   },
+   {
+    "accession": "0000950170-24-021195",
+    "filingDate": "2024-02-27",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/73309/000095017024021195/nue-20231231.htm"
+   },
+   {
+    "accession": "0001564590-23-002793",
+    "filingDate": "2023-03-01",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/73309/000156459023002793/nue-10k_20221231.htm"
+   },
+   {
+    "accession": "0001564590-22-007679",
+    "filingDate": "2022-02-28",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/73309/000156459022007679/nue-10k_20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-009503",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/73309/000156459021009503/nue-10k_20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-007794",
+    "filingDate": "2020-02-28",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/73309/000156459020007794/nue-10k_20191231.htm"
+   },
+   {
+    "accession": "0001193125-19-057744",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312519057744/d691427d10k.htm"
+   },
+   {
+    "accession": "0001193125-18-064018",
+    "filingDate": "2018-02-28",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312518064018/d441208d10k.htm"
+   },
+   {
+    "accession": "0001193125-17-062124",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/73309/000119312517062124/d298801d10k.htm"
+   }
+  ]
+ }
+}

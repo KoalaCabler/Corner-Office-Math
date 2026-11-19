@@ -1,0 +1,358 @@
+{
+ "proxies": {
+  "0001628280-26-021581": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/906345/000162828026021581/cpt-20260325.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-007697",
+   "result": {
+    "ceoPay": 8317514,
+    "medianPay": 67842,
+    "payRatio": 122,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "se the ratio of the total annual compensation of Camden's CEO to the median of the total annual compensation of all of our employees (excluding our CEO). Based on SEC rules for this disclosure and applying the methodology described below, we have determined our CEO's total compensation for 2025 was $8,317,514, and the median of the total 2025 compensation of all of our employees (excluding our CEO) was $67,842. Accordingly, we estimate the ratio of our CEO's total compensation for 2025 to the median of the total 2025 compensation of all of our employees (excluding our CEO) to be 122 to 1. We identified the median employee by taking into account the total cash compensation paid for 2025 for all individuals, excluding our CEO, who were employed by us or one of our affiliates on December 1, 2"
+   }
+  },
+  "0000906345-25-000014": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634525000014/cpt-20250325.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000906345-25-000008",
+   "result": {
+    "ceoPay": 7224768,
+    "medianPay": 66298,
+    "payRatio": 109,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "e ratio of the total annual compensation of Camden's CEO to the median of the total annual compensation of all of our employees (excluding our CEO). Based on SEC rules for this disclosure and applying the methodology described below, we have determined that our CEO's total compensation for 2024 was $7,224,768, and the median of the total 2024 compensation of all of our employees (excluding our CEO) was $66,298. Accordingly, we estimate the ratio of our CEO's total compensation for 2024 to the median of the total 2024 compensation of all of our employees (excluding our CEO) to be 109 to 1. We identified the median employee by taking into account the total cash compensation paid for 2024 for all individuals, excluding our CEO, who were employed by us or one of our affiliates on December 1, 2"
+   }
+  },
+  "0000906345-24-000010": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634524000010/cpt-20240320.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000906345-24-000007",
+   "result": {
+    "ceoPay": 6911304,
+    "medianPay": 66122,
+    "payRatio": 105,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "e ratio of the total annual compensation of Camden's CEO to the median of the total annual compensation of all of our employees (excluding our CEO). Based on SEC rules for this disclosure and applying the methodology described below, we have determined that our CEO's total compensation for 2023 was $6,911,304, and the median of the total 2023 compensation of all of our employees (excluding our CEO) was $66,122. Accordingly, we estimate the ratio of our CEO's total compensation for 2023 to the median of the total 2023 compensation of all of our employees (excluding our CEO) to be 105 to 1. We identified the median employee by taking into account the total cash compensation paid for 2023 for all individuals, excluding our CEO, who were employed by us or one of our affiliates on December 1, 2"
+   }
+  },
+  "0000906345-23-000014": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634523000014/cpt-20230321.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000906345-23-000008",
+   "result": {
+    "ceoPay": 6176567,
+    "medianPay": 63698,
+    "payRatio": 97,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "e ratio of the total annual compensation of Camden's CEO to the median of the total annual compensation of all of our employees (excluding our CEO). Based on SEC rules for this disclosure and applying the methodology described below, we have determined that our CEO's total compensation for 2022 was $6,176,567, and the median of the total 2022 compensation of all of our employees (excluding our CEO) was $63,698. Accordingly, we estimate the ratio of our CEO's total compensation for 2022 to the median of the total 2022 compensation of all of our employees (excluding our CEO) to be 97 to 1. We identified the median employee by taking into account the total cash compensation paid for 2022 for all individuals, excluding our CEO, who were employed by us or one of our affiliates on December 1, 20"
+   }
+  },
+  "0000906345-22-000016": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634522000016/a2022proxy.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000906345-22-000009",
+   "result": {
+    "ceoPay": 4285423,
+    "medianPay": 58767,
+    "payRatio": 73,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "e ratio of the total annual compensation of Camden's CEO to the median of the total annual compensation of all of our employees (excluding our CEO). Based on SEC rules for this disclosure and applying the methodology described below, we have determined that our CEO's total compensation for 2021 was $4,285,423, and the median of the total 2021 compensation of all of our employees (excluding our CEO) was $58,767. Accordingly, we estimate the ratio of our CEO's total compensation for 2021 to the median of the total 2021 compensation of all of our employees (excluding our CEO) to be 73 to 1. We identified the median employee by taking into account the total cash compensation paid for 2021 for all individuals, excluding our CEO, who were employed by us or one of our affiliates on December 1, 20"
+   }
+  },
+  "0000906345-21-000020": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634521000020/a2021proxy.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000906345-21-000010",
+   "result": {
+    "ceoPay": 3867431,
+    "medianPay": 62162,
+    "payRatio": 62,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "nt the ratio of the total annual compensation of our CEO to the median of the total annual compensation of all of our employees (excluding our CEO). Based on SEC rules for this disclosure and applying the methodology described below, we have determined that our CEO's total compensation for 2020 was $3,867,431, and the median of the total 2020 compensation of all of our employees (excluding our CEO) was $62,162. Accordingly, we estimate the ratio of our CEO's total compensation for 2020 to the median of the total 2020 compensation of all of our employees (excluding our CEO) to be 62 to 1. We identified the median employee by taking into account the total cash compensation paid for 2020 for all individuals, excluding our CEO, who were employed by us or one of our affiliates on December 1, 20"
+   }
+  },
+  "0000906345-20-000019": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634520000019/a2020proxy.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000906345-20-000008",
+   "result": {
+    "ceoPay": 4053465,
+    "medianPay": 54107,
+    "payRatio": 75,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ation of all of our employees (excluding our CEO). Based on SEC rules for this disclosure and applying the methodology described below, we have | | | | | | | | | | | | | 2020 Proxy Statement 46 | | | | | | | | | | Table of Contents | | | | | determined that our CEO's total compensation for 2019 was $4,053,465 , and the median of the total 2019 compensation of all of our employees (excluding our CEO) was $54,107. Accordingly, we estimate the ratio of our CEO's total compensation for 2019 to the median of the total 2019 compensation of all of our employees (excluding our CEO) to be 75 to 1. We identified the median employee by taking into account the total cash compensation paid for 2019 for all individuals, excluding our CEO, who were employed by us or one of our affiliates on December 1, 2"
+   }
+  },
+  "0000906345-19-000015": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634519000015/a2019proxy.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000906345-19-000006",
+   "result": {
+    "ceoPay": 4009587,
+    "medianPay": 52451,
+    "payRatio": 76,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "nt the ratio of the total annual compensation of our CEO to the median of the total annual compensation of all of our employees (excluding our CEO). Based on SEC rules for this disclosure and applying the methodology described below, we have determined that our CEO's total compensation for 2018 was $4,009,587 , and the median of the total 2018 compensation of all of our employees (excluding our CEO) was $52,451. Accordingly, we estimate the ratio of our CEO's total compensation for 2018 to the median of the total 2018 compensation of all of our employees (excluding our CEO) to be 76 to 1. We identified the median employee by taking into account the total cash compensation paid for 2018 for all individuals, excluding our CEO, who were employed by us or one of our affiliates on December 1, 2"
+   }
+  },
+  "0000906345-18-000010": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634518000010/a2018proxy.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000906345-18-000007",
+   "result": {
+    "ceoPay": 3844792,
+    "medianPay": 49588,
+    "payRatio": 78,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "nt the ratio of the total annual compensation of our CEO to the median of the total annual compensation of all of our employees (excluding our CEO). Based on SEC rules for this disclosure and applying the methodology described below, we have determined that our CEO's total compensation for 2017 was $3,844,792 , and the median of the total 2017 compensation of all of our employees (excluding our CEO) was $49,588. Accordingly, we estimate the ratio of our CEO's total compensation for 2017 to the median of the total 2017 compensation of all of our employees (excluding our CEO) to be 78 to 1. | | | | | | | | | | | | | 2018 Proxy Statement 48 | | | | | | | | | | Table of Contents | | | | | We identified the median employee by taking into account the total cash compensation paid for 2017 for all"
+   }
+  }
+ },
+ "tenKs": {
+  "0000906345-18-000007": {
+   "parserVersion": 1,
+   "employees": 1600
+  },
+  "0000906345-19-000006": {
+   "parserVersion": 1,
+   "employees": 1600
+  },
+  "0000906345-20-000008": {
+   "parserVersion": 1,
+   "employees": 1650
+  },
+  "0000906345-21-000010": {
+   "parserVersion": 1,
+   "employees": 1700
+  },
+  "0000906345-22-000009": {
+   "parserVersion": 1,
+   "employees": 1700
+  },
+  "0000906345-23-000008": {
+   "parserVersion": 1,
+   "employees": 1650
+  },
+  "0000906345-24-000007": {
+   "parserVersion": 1,
+   "employees": 1640
+  },
+  "0000906345-25-000008": {
+   "parserVersion": 1,
+   "employees": 1660
+  },
+  "0001628280-26-007697": {
+   "parserVersion": 1,
+   "employees": 1640
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 602648000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0001193125-12-067347"
+   },
+   "2010": {
+    "revenue": 568072000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0000906345-13-000003"
+   },
+   "2011": {
+    "revenue": 599401000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0000906345-14-000005"
+   },
+   "2012": {
+    "revenue": 698318000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0000906345-15-000007"
+   },
+   "2013": {
+    "revenue": 788851000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0000906345-16-000044"
+   },
+   "2014": {
+    "revenue": 790263000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0000906345-17-000009"
+   },
+   "2015": {
+    "revenue": 835618000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0000906345-18-000007"
+   },
+   "2016": {
+    "revenue": 876447000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000906345-19-000006"
+   },
+   "2017": {
+    "revenue": 900896000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RealEstateRevenueNet",
+    "accession": "0000906345-18-000007"
+   },
+   "2018": {
+    "revenue": 7231000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000906345-21-000010"
+   },
+   "2019": {
+    "revenue": 8696000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000906345-22-000009"
+   },
+   "2020": {
+    "revenue": 10800000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000906345-23-000008"
+   },
+   "2021": {
+    "revenue": 10532000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000906345-24-000007"
+   },
+   "2022": {
+    "revenue": 5188000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000906345-25-000008"
+   },
+   "2023": {
+    "revenue": 3451000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-007697"
+   },
+   "2024": {
+    "revenue": 7137000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-007697"
+   },
+   "2025": {
+    "revenue": 12967000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-007697"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-007697",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906345/000162828026007697/cpt-20251231.htm"
+   },
+   {
+    "accession": "0000906345-25-000008",
+    "filingDate": "2025-02-20",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634525000008/cpt-20241231.htm"
+   },
+   {
+    "accession": "0000906345-24-000007",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634524000007/cpt-20231231.htm"
+   },
+   {
+    "accession": "0000906345-23-000008",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634523000008/cpt-20221231.htm"
+   },
+   {
+    "accession": "0000906345-22-000009",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634522000009/cpt-20211231.htm"
+   },
+   {
+    "accession": "0000906345-21-000010",
+    "filingDate": "2021-02-18",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634521000010/cpt-20201231.htm"
+   },
+   {
+    "accession": "0000906345-20-000008",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634520000008/cpt1231201910k.htm"
+   },
+   {
+    "accession": "0000906345-19-000006",
+    "filingDate": "2019-02-15",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634519000006/cpt1231201810k.htm"
+   },
+   {
+    "accession": "0000906345-18-000007",
+    "filingDate": "2018-02-16",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634518000007/cpt1231201710k.htm"
+   },
+   {
+    "accession": "0000906345-17-000009",
+    "filingDate": "2017-02-13",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/906345/000090634517000009/cpt12312016-10k.htm"
+   }
+  ]
+ }
+}

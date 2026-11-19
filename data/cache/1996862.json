@@ -1,0 +1,130 @@
+{
+ "proxies": {
+  "0001628280-26-024588": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996862/000162828026024588/bg-20260410.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-009842",
+   "result": {
+    "ceoPay": 18945479,
+    "medianPay": 75124,
+    "payRatio": 252,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": ". Median Employee to CEO Pay Ratio For 2025, we calculated annual total compensation for the median employee using the same methodology as for our NEOs as described in the 2025 Summary Compensation Table on page 68 of this proxy statement. The annual total compensation for Mr. Heckman, our CEO, was $18,945,479 (the same amount as reported under the 2025 Summary Compensation Table above) and the median annual total compensation of all of our employees (other than our CEO), was $75,124, adjusted for cost of living. For the cost-of-living adjustment, we used the World Bank's Purchasing Power Parity conversion factor for GDP. This adjustment takes into account the local cost of an equivalent basket of goods, which embeds the exchange rate and inflation into the comparison such that the basket"
+   }
+  },
+  "0001996862-25-000078": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996862/000199686225000078/bg-20250404.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001996862-25-000008",
+   "result": {
+    "ceoPay": 16812348,
+    "medianPay": 61474,
+    "payRatio": 273,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": ". Median Employee to CEO Pay Ratio For 2024, we calculated annual total compensation for the median employee using the same methodology as for our NEOs as described in the 2024 Summary Compensation Table on page 67 of this proxy statement. The annual total compensation for Mr. Heckman, our CEO, was $16,812,348 (the same amount as reported under the 2024 Summary Compensation Table above) and the median annual total compensation of all of our employees (other than our CEO), was $61,474, adjusted for cost of living. For the cost-of-living adjustment, we used the World Bank's Purchasing Power Parity conversion factor for GDP. This adjustment takes into account the local cost of an equivalent basket of goods, which embeds the exchange rate and inflation into the comparison such that the basket"
+   }
+  },
+  "0001996862-24-000087": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1996862/000199686224000087/bg-20240405.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001996862-24-000007",
+   "result": {
+    "ceoPay": 17587870,
+    "medianPay": 85513,
+    "payRatio": 206,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": ". Median Employee to CEO Pay Ratio For 2023, we calculated annual total compensation for the median employee using the same methodology as for our NEOs as described in the 2023 Summary Compensation Table on page 78 of this proxy statement. The annual total compensation for Mr. Heckman, our CEO, was $17,587,870 (the same amount as reported under the 2023 Summary Compensation Table above) and the median annual total compensation of all of our employees (other than our CEO), was $85,513 adjusted for cost of living. For the cost-of-living adjustment, we used the World Bank's Purchasing Power Parity conversion factor for GDP. This adjustment takes into account the local cost of an equivalent basket of goods, which embeds the exchange rate and inflation into the comparison such that the basket o"
+   }
+  }
+ },
+ "tenKs": {
+  "0001996862-24-000007": {
+   "parserVersion": 1,
+   "employees": 23000
+  },
+  "0001996862-25-000008": {
+   "parserVersion": 1,
+   "employees": 23000
+  },
+  "0001628280-26-009842": {
+   "parserVersion": 1,
+   "employees": 34000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2021": {
+    "revenue": 59152000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001996862-24-000007"
+   },
+   "2022": {
+    "revenue": 67232000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001996862-25-000008"
+   },
+   "2023": {
+    "revenue": 59540000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-009842"
+   },
+   "2024": {
+    "revenue": 53108000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-009842"
+   },
+   "2025": {
+    "revenue": 70329000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-009842"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 16148227,
+   "2022": 17899691,
+   "2023": 17587870,
+   "2024": 16812348,
+   "2025": 18945479
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-009842",
+    "filingDate": "2026-02-19",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1996862/000162828026009842/bg-20251231.htm"
+   },
+   {
+    "accession": "0001996862-25-000008",
+    "filingDate": "2025-02-20",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1996862/000199686225000008/bg-20241231.htm"
+   },
+   {
+    "accession": "0001996862-24-000007",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1996862/000199686224000007/bg-20231231.htm"
+   }
+  ]
+ }
+}

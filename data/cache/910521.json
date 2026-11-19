@@ -1,0 +1,337 @@
+{
+ "proxies": {
+  "0000910521-26-000018": {
+   "parserVersion": 1,
+   "filingDate": "2026-07-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052126000018/deck-20260724.htm",
+   "periodEnd": "2026-03-31",
+   "tenK": "0001628280-26-037664",
+   "result": {
+    "ceoPay": 11904992,
+    "medianPay": 51638,
+    "payRatio": 231,
+    "method": "cross-checked",
+    "employees": 3517,
+    "statedYear": 2026,
+    "excerpt": "cluding our principal executive officer), or our median employee. For fiscal year 2026, our principal executive officer was Stefano Caroti, our Chief Executive Officer and President. Annual Total Compensation For fiscal year 2026, the annual total compensation of our principal executive officer was $11,904,992, and the annual total compensation of our median employee was $51,638. The annual total compensation for our principal executive officer is consistent with the amount reflected in the Summary Compensation Table. Pay Ratio Based on this information, the fiscal year 2026 ratio of the annual total compensation of our principal executive officer to the annual total compensation of our median employee was approximately 231:1. Determination of Median Employee; Applicable Exemptions Consist"
+   }
+  },
+  "0000910521-25-000030": {
+   "parserVersion": 1,
+   "filingDate": "2025-07-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052125000030/deck-20250725.htm",
+   "periodEnd": "2025-03-31",
+   "tenK": "0000910521-25-000017",
+   "result": {
+    "ceoPay": 10051429,
+    "medianPay": 50714,
+    "payRatio": 198,
+    "method": "cross-checked",
+    "employees": 3385,
+    "statedYear": 2025,
+    "excerpt": "xecutive officer), or our median employee. As of the end of fiscal year 2025, our principal executive officer was Stefano Caroti, our Chief Executive Officer and President. Annual Total Compensation For fiscal year 2025, the annual total compensation of our Chief Executive Officer and President was $10,051,429, and the annual total compensation of our median employee was $50,714. The annual total compensation for Mr. Caroti is consistent with the amount reflected in the Summary Compensation Table. Although we had two different principal executive officers during fiscal year 2025, we believe using the annual total compensation for Mr. Caroti is the appropriate amount to use for this purpose since it reflects compensation for serving as an executive officer for the full fiscal year. Pay Rati"
+   }
+  },
+  "0000910521-24-000031": {
+   "parserVersion": 1,
+   "filingDate": "2024-07-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052124000031/deck-20240723.htm",
+   "periodEnd": "2024-03-31",
+   "tenK": "0000910521-24-000017",
+   "result": {
+    "ceoPay": 14258412,
+    "medianPay": 54496,
+    "payRatio": 262,
+    "method": "cross-checked",
+    "employees": 2881,
+    "statedYear": 2024,
+    "excerpt": "r principal executive officer), or our median employee. During fiscal year 2024, our principal executive officer was Dave Powers, our Chief Executive Officer and President. Annual Total Compensation For fiscal year 2024, the annual total compensation of our Chief Executive Officer and President was $14,258,412, and the annual total compensation of our median employee was $54,496, each as calculated in a manner consistent with Item 402(u) of Regulation S-K. The annual total compensation for our Chief Executive Officer and President is consistent with the amount reflected in the Summary Compensation Table. Pay Ratio Based on this information, the fiscal year 2024 ratio of the annual total compensation of our principal executive officer to the annual total compensation of our median employee"
+   }
+  },
+  "0000910521-23-000025": {
+   "parserVersion": 1,
+   "filingDate": "2023-07-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052123000025/deck-20230724.htm",
+   "periodEnd": "2023-03-31",
+   "tenK": "0000910521-23-000016",
+   "result": {
+    "ceoPay": 11391476,
+    "medianPay": 51320,
+    "payRatio": 222,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ur employees (excluding our principal executive officer), or our median employee. During fiscal year 2023, our principal executive officer was Dave Powers, our Chief Executive Officer and President. For fiscal year 2023, the annual total compensation of our Chief Executive Officer and President was $11,391,476, and the annual total compensation of our median employee was $51,320, each as calculated in a manner consistent with Item 402(u) of Regulation S-K. Based on this information, the fiscal year 2023 ratio of the annual total compensation of our principal executive officer to the annual total compensation of our median employee was approximately 222:1. We most recently calculated the median employee for purposes of providing such pay ratio disclosure in fiscal year 2022. In calculating"
+   }
+  },
+  "0000910521-22-000024": {
+   "parserVersion": 1,
+   "filingDate": "2022-07-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052122000024/deck-def14ax2022.htm",
+   "periodEnd": "2022-03-31",
+   "tenK": "0000910521-22-000017",
+   "result": {
+    "ceoPay": 10854934,
+    "medianPay": 43501,
+    "payRatio": 250,
+    "method": "cross-checked",
+    "employees": 2325,
+    "statedYear": 2022,
+    "excerpt": "ur employees (excluding our principal executive officer), or our median employee. During fiscal year 2022, our principal executive officer was Dave Powers, our President and Chief Executive Officer. For fiscal year 2022, the annual total compensation of our President and Chief Executive Officer was $10,854,934, and the annual total compensation of our median employee was $43,501, each as calculated in a manner consistent with Item 402(u) of Regulation S-K. Based on this information, the fiscal year 2022 ratio of the annual total compensation of our principal executive officer to the annual total compensation of our median employee was approximately 250:1. Consistent with Item 402(u) of Regulation S-K, we identified our median employee as of March 1, 2022 by (i) aggregating for each applica"
+   }
+  },
+  "0000910521-21-000020": {
+   "parserVersion": 1,
+   "filingDate": "2021-07-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052121000020/deck-def14ax2021.htm",
+   "periodEnd": "2021-03-31",
+   "tenK": "0000910521-21-000017",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 57968,
+    "payRatio": 180,
+    "method": "ratio-and-median",
+    "employees": 1981,
+    "statedYear": 2021,
+    "excerpt": "nsation of all of our employees (excluding our principal executive officer), or our median employee. During fiscal year 2021, our principal executive officer was Dave Powers, our President and Chief Executive Officer. 49 For fiscal year 2021, the annual total compensation of our median employee was $57,968. The annual total compensation of our President and Chief Executive Officer was $6,778,608 as calculated in a manner consistent with the SEC's disclosure requirements under Item 402(u) of Regulation S-K. Based on this information, the fiscal year 2021 ratio of the annual total compensation of our principal executive officer to the annual total compensation of our median employee was approximately 180:1. Consistent with Item 402(u) of Regulation S-K, we identified our median employee as o"
+   }
+  },
+  "0000910521-20-000021": {
+   "parserVersion": 1,
+   "filingDate": "2020-07-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052120000021/deck-def14ax2020.htm",
+   "periodEnd": "2020-03-31",
+   "tenK": "0000910521-20-000016",
+   "result": {
+    "ceoPay": 6748144,
+    "medianPay": 37407,
+    "payRatio": 180,
+    "method": "cross-checked",
+    "employees": 2051,
+    "statedYear": 2020,
+    "excerpt": "mpensation of all of our employees (excluding our principal executive officer), or our median employee. During fiscal year 2019, our principal executive officer was Dave Powers, our President and Chief Executive Officer. For fiscal year 2020, the annual total compensation of our median employee was $37,407. The annual total compensation of our President and Chief Executive Officer was $6,748,144, as reported in the Summary Compensation Table below. 48 Table of Contents Based on this information, the fiscal year 2020 ratio of the annual total compensation of our principal executive officer to the annual total compensation of our median employee was approximately 180:1. Consistent with Item 402(u) of Regulation S-K, we identified our median employee as of March 1, 2020 by (i) aggregating for"
+   }
+  },
+  "0000910521-19-000017": {
+   "parserVersion": 1,
+   "filingDate": "2019-07-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052119000017/deck-def14ax2019.htm",
+   "periodEnd": "2019-03-31",
+   "tenK": "0000910521-19-000011",
+   "result": {
+    "ceoPay": 6466472,
+    "medianPay": 37799,
+    "payRatio": 171,
+    "method": "cross-checked",
+    "employees": 1982,
+    "statedYear": 2019,
+    "excerpt": "our employees (excluding our principal executive officer), or our median employee. During fiscal year 2019, our principal executive officer was Dave Powers, our President and Chief Executive Officer. 47 Table of Contents For fiscal year 2019, the annual total compensation of our median employee was $37,799. The annual total compensation of our President and Chief Executive Officer was $6,466,472, as reported in the Summary Compensation Table below. Based on this information, the fiscal year 2019 ratio of the annual total compensation of our principal executive officer to the annual total compensation of our median employee was approximately 171:1. Consistent with Item 402(u) of Regulation S-K, we identified our median employee as of March 1, 2019 by (i) aggregating for each applicable empl"
+   }
+  },
+  "0000910521-18-000025": {
+   "parserVersion": 1,
+   "filingDate": "2018-07-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052118000025/deck-def14ax2018.htm",
+   "periodEnd": "2018-03-31",
+   "tenK": "0000910521-18-000015",
+   "result": {
+    "ceoPay": 6069497,
+    "medianPay": 37825,
+    "payRatio": 160,
+    "method": "cross-checked",
+    "employees": 1948,
+    "statedYear": 2018,
+    "excerpt": "ur employees (excluding our principal executive officer), or our median employee. During fiscal year 2018, our principal executive officer was David Powers, our President and Chief Executive Officer. 46 Table of Contents For fiscal year 2018, the annual total compensation of our median employee was $37,825. After identifying our median employee as described below, we calculated that individual's 2018 total annual compensation in accordance with the requirements of the Summary Compensation Table. The annual total compensation of our President and Chief Executive Officer was $6,069,497, as reported in the Summary Compensation Table above. Based on this information, the fiscal year 2018 ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of o"
+   }
+  }
+ },
+ "tenKs": {
+  "0000910521-23-000016": {
+   "parserVersion": 1,
+   "employees": 4200
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 689445000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001047469-11-001618"
+   },
+   "2009": {
+    "revenue": 813177000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001047469-12-001917"
+   },
+   "2010": {
+    "revenue": 1000989000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001047469-13-002068"
+   },
+   "2011": {
+    "revenue": 1377283000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001445305-14-000820"
+   },
+   "2012": {
+    "revenue": 1414398000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000910521-15-000018"
+   },
+   "2013": {
+    "revenue": 1556618000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000910521-16-000058"
+   },
+   "2015": {
+    "revenue": 1817057000,
+    "periodEnd": "2015-03-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000910521-17-000008"
+   },
+   "2016": {
+    "revenue": 1875197000,
+    "periodEnd": "2016-03-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0000910521-18-000015"
+   },
+   "2017": {
+    "revenue": 1790147000,
+    "periodEnd": "2017-03-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000910521-19-000011"
+   },
+   "2018": {
+    "revenue": 1903339000,
+    "periodEnd": "2018-03-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000910521-20-000016"
+   },
+   "2019": {
+    "revenue": 2020437000,
+    "periodEnd": "2019-03-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000910521-21-000017"
+   },
+   "2020": {
+    "revenue": 2132689000,
+    "periodEnd": "2020-03-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000910521-22-000017"
+   },
+   "2021": {
+    "revenue": 2545641000,
+    "periodEnd": "2021-03-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000910521-23-000016"
+   },
+   "2022": {
+    "revenue": 3150339000,
+    "periodEnd": "2022-03-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000910521-24-000017"
+   },
+   "2023": {
+    "revenue": 3627286000,
+    "periodEnd": "2023-03-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000910521-25-000017"
+   },
+   "2024": {
+    "revenue": 4287763000,
+    "periodEnd": "2024-03-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-037664"
+   },
+   "2025": {
+    "revenue": 4985612000,
+    "periodEnd": "2025-03-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-037664"
+   },
+   "2026": {
+    "revenue": 5472296000,
+    "periodEnd": "2026-03-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-037664"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 10854934,
+   "2023": 11391476,
+   "2024": 14258412,
+   "2026": 11904992
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-037664",
+    "filingDate": "2026-05-22",
+    "reportDate": "2026-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000162828026037664/deck-20260331.htm"
+   },
+   {
+    "accession": "0000910521-25-000017",
+    "filingDate": "2025-05-23",
+    "reportDate": "2025-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052125000017/deck-20250331.htm"
+   },
+   {
+    "accession": "0000910521-24-000017",
+    "filingDate": "2024-05-24",
+    "reportDate": "2024-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052124000017/deck-20240331.htm"
+   },
+   {
+    "accession": "0000910521-23-000016",
+    "filingDate": "2023-05-26",
+    "reportDate": "2023-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052123000016/deck-20230331.htm"
+   },
+   {
+    "accession": "0000910521-22-000017",
+    "filingDate": "2022-05-27",
+    "reportDate": "2022-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052122000017/deck-20220331.htm"
+   },
+   {
+    "accession": "0000910521-21-000017",
+    "filingDate": "2021-05-28",
+    "reportDate": "2021-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052121000017/deck-20210331.htm"
+   },
+   {
+    "accession": "0000910521-20-000016",
+    "filingDate": "2020-06-01",
+    "reportDate": "2020-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052120000016/deck331202010-k.htm"
+   },
+   {
+    "accession": "0000910521-19-000011",
+    "filingDate": "2019-05-30",
+    "reportDate": "2019-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052119000011/deck331201910-kdocument.htm"
+   },
+   {
+    "accession": "0000910521-18-000015",
+    "filingDate": "2018-05-30",
+    "reportDate": "2018-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052118000015/deck331201810-k.htm"
+   },
+   {
+    "accession": "0000910521-17-000008",
+    "filingDate": "2017-05-30",
+    "reportDate": "2017-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/910521/000091052117000008/deckfy2017331201710-kdocum.htm"
+   }
+  ]
+ }
+}

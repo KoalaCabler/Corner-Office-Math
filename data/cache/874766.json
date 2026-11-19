@@ -1,0 +1,376 @@
+{
+ "proxies": {
+  "0000874766-26-000025": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476626000025/hig-20260409.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000874766-26-000012",
+   "result": {
+    "ceoPay": 22114212,
+    "medianPay": 113040,
+    "payRatio": 196,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "Senior Executive Officer Plan by a successor; or • A termination asserted by the Company to be for cause that is subsequently determined not to constitute a termination for Cause. CEO Pay Ratio For 2025, Mr. Swift had total compensation, as reported in the Summary Compensation Table on page 58 , of $22,114,212, while our median employee (excluding the CEO) had total compensation of $113,040, yielding a CEO pay ratio of 196 times the median. Annual base salary at year-end 2025 was used to determine the median employee; no statistical sampling was used. The median employee's total compensation was calculated in the same manner as for the CEO in the Summary Compensation Table . All non-U.S. employees were excluded using the 5% de minimis rule (225 employees were based in the U.K., 39 in India"
+   }
+  },
+  "0000874766-25-000040": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476625000040/hig-20250410.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000874766-25-000023",
+   "result": {
+    "ceoPay": 19343348,
+    "medianPay": 101161,
+    "payRatio": 191,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "Senior Executive Officer Plan by a successor; or • A termination asserted by the Company to be for cause that is subsequently determined not to constitute a termination for Cause. CEO PAY RATIO For 2024, Mr. Swift had total compensation, as reported in the Summary Compensation Table on page 53 , of $19,343,348, while our median employee (excluding the CEO) had total compensation of $101,161, yielding a CEO pay ratio of 191 times the median. Annual base salary at year-end 2024 was used to determine the median employee; no statistical sampling was used. The median employee's total compensation was calculated in the same manner as for the CEO in the Summary Compensation Table . All non-U.S. employees were excluded using the 5% de minimis rule (200 employees were based in the U.K., 8 in Canada"
+   }
+  },
+  "0000874766-24-000049": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476624000049/hig-20240405.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000874766-24-000016",
+   "result": {
+    "ceoPay": 16408250,
+    "medianPay": 101119,
+    "payRatio": 162,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "Senior Executive Officer Plan by a successor; or • A termination asserted by the Company to be for cause that is subsequently determined not to constitute a termination for Cause. CEO PAY RATIO For 2023, Mr. Swift had total compensation, as reported in the Summary Compensation Table on page 60 , of $16,408,250, while our median employee (excluding the CEO) had total compensation of $101,119, yielding a CEO pay ratio of 162 times the median. Annual base salary at year-end 2023 was used to determine the median employee; no statistical sampling was used. The median employee's total compensation was calculated in the same manner as for the CEO in the Summary Compensation Table . All non-U.S. employees were excluded using the 5% de minimis rule (182 employees were based in the U.K., 8 in Canada"
+   }
+  },
+  "0000874766-23-000037": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476623000037/hig-20230406.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000874766-23-000023",
+   "result": {
+    "ceoPay": 16086469,
+    "medianPay": 117472,
+    "payRatio": 137,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "Senior Executive Officer Plan by a successor; or • A termination asserted by the Company to be for cause that is subsequently determined not to constitute a termination for Cause. CEO PAY RATIO For 2022, Mr. Swift had total compensation, as reported in the Summary Compensation Table on page 56 , of $16,086,469, while our median employee (excluding the CEO) had total compensation of $117,472, yielding a CEO pay ratio of 137 times the median. Annual base salary at year-end 2022 was used to determine the median employee; no statistical sampling was used. The median employee's total compensation was calculated in the same manner as for the CEO in the Summary Compensation Table . All non-U.S. employees were excluded using the 5% de minimis rule (172 employees were based in the U.K., 6 in Hong K"
+   }
+  },
+  "0000874766-22-000028": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476622000028/hartfordproxy2022.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000874766-22-000019",
+   "result": {
+    "ceoPay": 15824348,
+    "medianPay": 106940,
+    "payRatio": 148,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "to constitute a termination for Cause. | | | | | | | | | | | | | | | | | | | | | 2022 Proxy Statement | | 67 | | | | | | | | | | | | | | | | | | | | COMPENSATION MATTERS | | | | | CEO Pay Ratio For 2021, Mr. Swift had total compensation, as reported in the Summary Compensation Table on page 54, of $15,824,348, while our median employee had total compensation of $106,940, yielding a CEO pay ratio of 148 times the median. Annual base salary at year-end 2021 was used to determine the median employee; no statistical sampling was used. The median employee's total compensation was calculated in the same manner as for the CEO in the Summary Compensation Table . All non-U.S. employees were excluded using the 5% de minimis rule (163 employees were based in the U.K., 8 in Hong Kong, 7 in Canada, an"
+   }
+  },
+  "0000874766-21-000024": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476621000024/hartfordproxy2021.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000874766-21-000022",
+   "result": {
+    "ceoPay": 11806195,
+    "medianPay": 92639,
+    "payRatio": 127,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "to constitute a termination for Cause. | | | | | | | | | | | | | | | | | | | | | 2021 Proxy Statement | | 67 | | | | | | | | | | | | | | | | | | | | COMPENSATION MATTERS | | | | | CEO Pay Ratio For 2020, Mr. Swift had total compensation, as reported in the Summary Compensation Table on page 55, of $11,806,195, while our median employee had total compensation of $92,639, yielding a CEO pay ratio of 127 times the median. Annual base salary at year-end 2020 was used to determine the median employee; no statistical sampling was used. The median employee's total compensation was calculated in the same manner as for the CEO in the Summary Compensation Table . All non-U.S. employees were excluded using the 5% de minimis rule (159 employees were based in the U.K., 59 in Belgium, 7 in Canada, 6 in"
+   }
+  },
+  "0000874766-20-000022": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476620000022/hartfordproxy2020.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000874766-20-000020",
+   "result": {
+    "ceoPay": 14560748,
+    "medianPay": 96867,
+    "payRatio": 150,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ecutive Plan by a successor; or | | | | | | • | | A termination asserted by the company to be for cause that is subsequently determined not to constitute a termination for Cause. | CEO Pay Ratio For 2019, Mr. Swift had total compensation, as reported in the Summary Compensation Table on page 57, of $14,560,748, while our median employee had total compensation of $96,867, yielding a CEO pay ratio of 150 times the median. Annual base salary at year-end 2019 was used to determine the median employee; no statistical sampling was used. The median employee's total compensation was calculated in the same manner as for the CEO in the Summary Compensation Table . Employees who joined The Hartford with the Navigator's acquisition on May 23, 2019 were excluded (536 U.S. employees and 235 non-U.S. emp"
+   }
+  },
+  "0000874766-19-000020": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476619000020/hartfordproxy2019.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000874766-19-000018",
+   "result": {
+    "ceoPay": 13883615,
+    "medianPay": 104925,
+    "payRatio": 132,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ecutive Plan by a successor; or | | | | | | • | | A termination asserted by the company to be for cause that is subsequently determined not to constitute a termination for Cause. | CEO Pay Ratio For 2018, Mr. Swift had total compensation, as reported in the Summary Compensation Table on page 52, of $13,883,615, while our median employee had total compensation of $104,925, yielding a CEO pay ratio of 132 times the median. Annual base salary at year-end 2018 was used to determine the median employee. The median employee's total compensation was calculated in the same manner as for the CEO in the Summary Compensation Table . No statistical sampling was used and all non-U.S. employees were excluded using the 5% de minimis rule (4 employees were based in Canada at year-end). | | | | | | | 64 |"
+   }
+  },
+  "0000874766-18-000014": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476618000014/hartfordproxy2018.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000874766-18-000011",
+   "result": {
+    "ceoPay": 13115285,
+    "medianPay": 91865,
+    "payRatio": 143,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ecutive Plan by a successor; or | | | | | | • | | a termination asserted by the company to be for cause that is subsequently determined not to constitute a termination for Cause. | CEO Pay Ratio For 2017, Mr. Swift had total compensation, as reported in the Summary Compensation Table on page 50, of $13,115,285, while our median employee had total compensation of $91,865, yielding a CEO pay ratio of 143 times the median. Annual base salary at year-end 2017 was used to determine the median employee. The median employee's total compensation was calculated in the same manner as for the CEO in the Summary Compensation Table . No statistical sampling was used and non-U.S. employees were excluded using the 5% de minimis rule (4 employees were based in Canada at year-end). | | | | | | | 62 | | www"
+   }
+  }
+ },
+ "tenKs": {
+  "0000874766-18-000011": {
+   "parserVersion": 1,
+   "employees": 16400
+  },
+  "0000874766-19-000018": {
+   "parserVersion": 1,
+   "employees": 18500
+  },
+  "0000874766-20-000020": {
+   "parserVersion": 1,
+   "employees": 19500
+  },
+  "0000874766-21-000022": {
+   "parserVersion": 1,
+   "employees": 18500
+  },
+  "0000874766-22-000019": {
+   "parserVersion": 1,
+   "employees": 18100
+  },
+  "0000874766-23-000023": {
+   "parserVersion": 1,
+   "employees": 18800
+  },
+  "0000874766-24-000016": {
+   "parserVersion": 1,
+   "employees": 18700
+  },
+  "0000874766-25-000023": {
+   "parserVersion": 1,
+   "employees": 19100
+  },
+  "0000874766-26-000012": {
+   "parserVersion": 1,
+   "employees": 19200
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 25916000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-10-015756"
+   },
+   "2008": {
+    "revenue": 9219000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-024759"
+   },
+   "2009": {
+    "revenue": 24433000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-12-003120"
+   },
+   "2010": {
+    "revenue": 22049000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-13-000021"
+   },
+   "2011": {
+    "revenue": 21733000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-14-000007"
+   },
+   "2012": {
+    "revenue": 22086000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-15-000013"
+   },
+   "2013": {
+    "revenue": 20673000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-16-000046"
+   },
+   "2014": {
+    "revenue": 18614000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-17-000010"
+   },
+   "2015": {
+    "revenue": 15997000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-18-000011"
+   },
+   "2016": {
+    "revenue": 16291000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-19-000018"
+   },
+   "2017": {
+    "revenue": 17162000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-20-000020"
+   },
+   "2018": {
+    "revenue": 18955000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-21-000022"
+   },
+   "2019": {
+    "revenue": 20740000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-22-000019"
+   },
+   "2020": {
+    "revenue": 20523000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-23-000023"
+   },
+   "2021": {
+    "revenue": 22390000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-24-000016"
+   },
+   "2022": {
+    "revenue": 22362000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-25-000023"
+   },
+   "2023": {
+    "revenue": 24527000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-26-000012"
+   },
+   "2024": {
+    "revenue": 26535000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-26-000012"
+   },
+   "2025": {
+    "revenue": 28368000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000874766-26-000012"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2021": 15824348,
+   "2022": 16086469,
+   "2023": 16408250,
+   "2024": 19343348,
+   "2025": 22114212
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000874766-26-000012",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476626000012/hig-20251231.htm"
+   },
+   {
+    "accession": "0000874766-25-000023",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476625000023/hig-20241231.htm"
+   },
+   {
+    "accession": "0000874766-24-000016",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476624000016/hig-20231231.htm"
+   },
+   {
+    "accession": "0000874766-23-000023",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476623000023/hig-20221231.htm"
+   },
+   {
+    "accession": "0000874766-22-000019",
+    "filingDate": "2022-02-18",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476622000019/hig-20211231.htm"
+   },
+   {
+    "accession": "0000874766-21-000022",
+    "filingDate": "2021-02-19",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476621000022/hig-20201231.htm"
+   },
+   {
+    "accession": "0000874766-20-000020",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476620000020/hig1231201910-kdocument.htm"
+   },
+   {
+    "accession": "0000874766-19-000018",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476619000018/hig1231201810-kdocument.htm"
+   },
+   {
+    "accession": "0000874766-18-000011",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476618000011/hig1231201710-kdocument.htm"
+   },
+   {
+    "accession": "0000874766-17-000010",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476617000010/hig1231201610-kdocument.htm"
+   }
+  ]
+ }
+}

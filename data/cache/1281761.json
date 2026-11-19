@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001281761-26-000027": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176126000027/rf-20260323.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001281761-26-000019",
+   "result": {
+    "ceoPay": 10071648,
+    "medianPay": 85529,
+    "payRatio": 118,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "ble; and participates in our 401(k) Plan and in the medical, life, disability insurance programs provided by the Company. Our median employee's base compensation is $60,237. All elements of the median employee's 2025 compensation, including the Company-paid cost of benefits mentioned above, totaled $85,529. PAY RATIO Using Mr. J. Turner's income disclosed in the Summary Compensation Table , and including an additional $34,220 in Company-paid benefit costs associated with medical, dental, life, disability insurance, we calculate our CEO's total compensation for purposes of the pay ratio to be $10,071,648. As a result, the ratio of our CEO's annual total compensation to that of our median employee is 118 to 1. We believe that the pay ratio is a reasonable estimate calculated in a manner cons"
+   }
+  },
+  "0001281761-25-000024": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176125000024/rf-20250303.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001281761-25-000010",
+   "result": {
+    "ceoPay": 10578533,
+    "medianPay": 81589,
+    "payRatio": 130,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ble; and participates in our 401(k) Plan and in the medical, life, disability insurance programs provided by the Company. Our median employee's base compensation is $58,895. All elements of the median employee's 2024 compensation, including the Company-paid cost of benefits mentioned above, totaled $81,589. PAY RATIO Using Mr. J. Turner's income disclosed in the Summary Compensation Table , and including an additional $52,521 in Company-paid benefit costs associated with medical, dental, life, disability insurance, we calculate our CEO's total compensation for purposes of the pay ratio to be $10,578,533. As a result, the ratio of our CEO's annual total compensation to that of our median employee is 130 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consist"
+   }
+  },
+  "0001281761-24-000016": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176124000016/rf-20240304.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001281761-24-000010",
+   "result": {
+    "ceoPay": 9265077,
+    "medianPay": 66724,
+    "payRatio": 139,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "he medical, dental, life, disability insurance programs provided by the Company; and participates in the Retirement Plan. Our median employee's base compensation is $56,577. All elements of the median employee's 2023 compensation, including the Company-paid cost of benefits mentioned above, totaled $66,724. PAY RATIO Using Mr. J. Turner's income disclosed in the Summary Compensation Table , and including an additional $47,358 in Company-paid benefit costs associated with medical, dental, life, disability insurance, we calculate our CEO's total compensation for purposes of the pay ratio to be $9,265,077. As a result, the ratio of our CEO's annual total compensation to that of our median employee is 139 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consiste"
+   }
+  },
+  "0001281761-23-000018": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176123000018/rf-20230306.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001281761-23-000012",
+   "result": {
+    "ceoPay": 14589252,
+    "medianPay": 93080,
+    "payRatio": 157,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "n our 401(k) Plan and in the medical, dental, life, disability insurance programs provided by the Company. Our median employee's base compensation is $51,584. All elements of the median employee's 2022 compensation, including incentives and the Company-paid cost of benefits mentioned above, totaled $93,080. Pay Ratio. Using Mr. J. Turner's income disclosed in the Summary Compensation Table , and including an additional $36,887 in Company-paid benefit costs associated with medical, dental, life, disability insurance, and the value of new parental leave benefits, we calculate our CEO's total compensation for purposes of the pay ratio to be $14,589,252. As a result, the ratio of our CEO's annual total compensation to that of our median employee is 157 to 1. We believe that this ratio is a rea"
+   }
+  },
+  "0001281761-22-000019": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176122000019/a2022rfcproxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001281761-22-000016",
+   "result": {
+    "ceoPay": 13457541,
+    "medianPay": 79540,
+    "payRatio": 169,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "r 401(k) Plan and in the medical, dental, life, and disability insurance programs provided by the Company. Our median employee's base compensation is $50,066. All elements of the median employee's 2021 compensation, including incentives and the Company-paid cost of benefits mentioned above, totaled $79,540. Pay Ratio. Using Mr. J. Turner's income disclosed in the Summary Compensation Table, and including an additional $12,964 in Company-paid benefit costs associated with medical, dental, life, and disability insurance, we calculate our CEO's total compensation for purposes of the pay ratio to be $13,457,541. As a result, the ratio of our CEO's annual total compensation to that of our median employee is 169 to 1. We believe that this ratio is a reasonable estimate calculated in a manner con"
+   }
+  },
+  "0001281761-21-000017": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176121000017/a2021rfcproxystatement.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001281761-21-000012",
+   "result": {
+    "ceoPay": 13847734,
+    "medianPay": 70496,
+    "payRatio": 196,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "r 401(k) Plan and in the medical, dental, life, and disability insurance programs provided by the Company. Our median employee's base compensation is $49,504. All elements of the median employee's 2020 compensation, including incentives and the Company-paid cost of benefits mentioned above, totaled $70,496. Pay Ratio. Using Mr. J. Turner's income disclosed in the Summary Compensation Table, and including an additional $15,218 in Company-paid benefit costs associated with medical, dental, life, and disability insurance, we calculate our CEO's total compensation for purposes of the pay ratio to be $13,847,734. As a result, the ratio of our CEO's annual total compensation to that of our median employee is 196 to 1. We believe that this ratio is a reasonable estimate calculated in a manner con"
+   }
+  },
+  "0001281761-20-000018": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176120000018/a2020rfcproxystatement.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001281761-20-000010",
+   "result": {
+    "ceoPay": 13128415,
+    "medianPay": 60621,
+    "payRatio": 217,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "r 401(k) Plan and in the medical, dental, life, and disability insurance programs provided by the Company. Our median employee's base compensation is $47,195. All elements of the median employee's 2019 compensation, including incentives and the Company-paid cost of benefits mentioned above, totaled $60,621. Pay Ratio. Using Mr. J. Turner's income disclosed in the Summary Compensation Table, and including an additional $13,148 in Company-paid benefit costs associated with medical, dental, life, and disability insurance, we calculate our CEO's total compensation for purposes of the pay ratio to be $13,128,415. As a result, the ratio of our CEO's annual total compensation to that of our median employee is 217 to 1. We believe that this ratio is a reasonable estimate calculated in a manner con"
+   }
+  },
+  "0001281761-19-000034": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176119000034/a2019rfcproxystatement.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001281761-19-000019",
+   "result": {
+    "ceoPay": 9919304,
+    "medianPay": 64629,
+    "payRatio": 153,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "n the medical, dental, life, and disability insurance programs provided by the Company. Our median employee's base compensation increased modestly to $45,302. All elements of the median employee's 2018 compensation, including incentives and the Company-paid cost of benefits mentioned above, totaled $64,629. Pay Ratio. The compensation elements for our CEO disclosed in the Summary Compensation Table represents compensation that is reflective of Mr. J. Turner's time as President and time as CEO. As a result, we have annualized the CEO compensation targets set by the CHR Committee to determine what would have been CEO pay had Mr. J. Turner served as CEO for the entire year. The differences in compensation utilized for the pay ratio calculation and the Summary Compensation Table are as follows"
+   }
+  },
+  "0001281761-18-000022": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176118000022/a2018regionsfinancialcorpo.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001281761-18-000016",
+   "result": {
+    "ceoPay": 12733913,
+    "medianPay": 63174,
+    "payRatio": 202,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "ble; participates in our 401(k) Plan; and participates in the medical, dental, life, and disability insurance programs provided by the Company. With base pay of $43,160, all elements of the median employee's 2017 compensation, including the Company-paid cost of the benefits mentioned above, totaled $63,174. Pay Ratio. Using the compensation elements for our CEO that are disclosed in the Summary Compensation Table and adding $12,554 in Company-paid cost associated with his medical, dental, life, and disability insurance, we calculate our CEO's total compensation for purposes of this ratio as $12,733,913. As a result, the ratio of our CEO's annual total compensation to that of our median employee is 202 to 1. We believe that this ratio is a reasonable estimate calculated in a manner consiste"
+   }
+  }
+ },
+ "tenKs": {
+  "0001281761-18-000016": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001281761-19-000019": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001281761-20-000010": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001281761-21-000012": {
+   "parserVersion": 1,
+   "employees": 450
+  },
+  "0001281761-22-000016": {
+   "parserVersion": 1,
+   "employees": 620
+  },
+  "0001281761-23-000012": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001281761-24-000010": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001281761-25-000010": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001281761-26-000019": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 8074000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001193125-10-036446"
+   },
+   "2008": {
+    "revenue": 6563000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001193125-11-070898"
+   },
+   "2009": {
+    "revenue": 5277000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001193125-12-078199"
+   },
+   "2010": {
+    "revenue": 4637000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001193125-13-069212"
+   },
+   "2011": {
+    "revenue": 4252000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001281761-14-000009"
+   },
+   "2012": {
+    "revenue": 3903000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001281761-15-000022"
+   },
+   "2013": {
+    "revenue": 0,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0001281761-16-000108"
+   },
+   "2014": {
+    "revenue": 0,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0001281761-17-000026"
+   },
+   "2015": {
+    "revenue": 33000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0001281761-18-000016"
+   },
+   "2016": {
+    "revenue": 125000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0001281761-19-000019"
+   },
+   "2017": {
+    "revenue": 94000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
+    "accession": "0001281761-20-000010"
+   },
+   "2018": {
+    "revenue": 71000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001281761-21-000012"
+   },
+   "2019": {
+    "revenue": 79000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001281761-22-000016"
+   },
+   "2020": {
+    "revenue": 84000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001281761-22-000016"
+   },
+   "2021": {
+    "revenue": 104000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001281761-22-000016"
+   },
+   "2022": {
+    "revenue": 5102000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001281761-25-000010"
+   },
+   "2023": {
+    "revenue": 6897000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001281761-26-000019"
+   },
+   "2024": {
+    "revenue": 7108000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001281761-26-000019"
+   },
+   "2025": {
+    "revenue": 7073000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "InterestAndDividendIncomeOperating",
+    "accession": "0001281761-26-000019"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001281761-26-000019",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176126000019/rf-20251231.htm"
+   },
+   {
+    "accession": "0001281761-25-000010",
+    "filingDate": "2025-02-21",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176125000010/rf-20241231.htm"
+   },
+   {
+    "accession": "0001281761-24-000010",
+    "filingDate": "2024-02-23",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176124000010/rf-20231231.htm"
+   },
+   {
+    "accession": "0001281761-23-000012",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176123000012/rf-20221231.htm"
+   },
+   {
+    "accession": "0001281761-22-000016",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176122000016/rf-20211231.htm"
+   },
+   {
+    "accession": "0001281761-21-000012",
+    "filingDate": "2021-02-24",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176121000012/rf-20201231.htm"
+   },
+   {
+    "accession": "0001281761-20-000010",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176120000010/rf-20191231x10k.htm"
+   },
+   {
+    "accession": "0001281761-19-000019",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176119000019/rf-20181231x10k.htm"
+   },
+   {
+    "accession": "0001281761-18-000016",
+    "filingDate": "2018-02-26",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176118000016/rf-20171231x10k.htm"
+   },
+   {
+    "accession": "0001281761-17-000026",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176117000026/rf-20161231x10k.htm"
+   }
+  ]
+ }
+}

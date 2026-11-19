@@ -1,0 +1,348 @@
+{
+ "proxies": {
+  "0001104659-26-035990": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926035990/tm261427d1_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001104659-26-020831",
+   "result": {
+    "ceoPay": 19282630,
+    "medianPay": 88521,
+    "payRatio": 218,
+    "method": "cross-checked",
+    "employees": 6891,
+    "statedYear": 2025,
+    "excerpt": "dance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which is the same manner in which Mr. Schlosberg's annual total compensation was calculated in the Summary Compensation Table. | As reported in the Summary Compensation Table, Mr. Schlosberg's annual total compensation for 2025 was $19,282,630, and the median annual total compensation of all employees of the Company and its subsidiaries (other than Mr. Schlosberg) was $88,521. Based on this information, for 2025, the ratio of the compensation of Mr. Schlosberg to the median annual total compensation of all other employees (other than Mr. Schlosberg) was estimated to be 218:1. Because the SEC rules for identifying the median employee and calculating the pay ratio allow companies to use different methodologies, exemptions, e"
+   }
+  },
+  "0001104659-25-039455": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465925039455/tm252366d3_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001410578-25-000248",
+   "result": {
+    "ceoPay": 16868040,
+    "medianPay": 102247,
+    "payRatio": 165,
+    "method": "cross-checked",
+    "employees": 6558,
+    "statedYear": 2024,
+    "excerpt": "of Regulation S-K, which is the same manner in which Mr. Sacks's and Mr. Schlosberg's annual total compensation was calculated in the Summary Compensation Table. | As reported in the Summary Compensation Table, Mr. Sacks's and Mr. Schlosberg's annual total compensation for 2024 was $17,709,651 and $16,868,040, respectively, and the median annual total compensation of all employees of the Company and its subsidiaries (other than Mr. Sacks and Mr. Schlosberg) was $102,247. Based on this information, for 2024, the ratio of the compensation of Mr. Sacks and Mr. Schlosberg to the median annual total compensation of all other employees (other than Mr. Sacks and Mr. Schlosberg) was estimated to be 173:1 and 165:1, respectively. Because the SEC rules for identifying the median employee and calcul"
+   }
+  },
+  "0001104659-24-053090": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465924053090/tm242702d2_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001104659-24-029425",
+   "result": {
+    "ceoPay": 17875482,
+    "medianPay": 98177,
+    "payRatio": 182,
+    "method": "cross-checked",
+    "employees": 6003,
+    "statedYear": 2023,
+    "excerpt": "tem 402(c)(2)(x) of Regulation S-K, which is the same manner in which Mr. Sacks's and Mr. Schlosberg's annual total compensation was calculated in the Summary Compensation Table. | As reported in the Summary Compensation Table, Mr. Sacks's and Mr. Schlosberg's annual total compensation for 2023 was $17,875,482 and $17,805,908, respectively, and the median annual total compensation of all employees of the Company and its subsidiaries (other than Mr. Sacks and Mr. Schlosberg) was $98,177. Based on this information, for 2023, the ratio of the compensation of Mr. Sacks and Mr. Schlosberg to the median annual total compensation of all other employees (other than Mr. Sacks and Mr. Schlosberg) was estimated to be 182:1 and 181:1, respectively. Because the SEC rules for identifying the median empl"
+   }
+  },
+  "0001104659-23-053065": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465923053065/tm231870d9_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001104659-23-027245",
+   "result": {
+    "ceoPay": 15417084,
+    "medianPay": 73523,
+    "payRatio": 210,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "n of Mr. Sacks and Mr. Schlosberg, who served as the Company's Co-Chief Executive Officers in 2022, to the annual total compensation of the median employee of the Company for 2022. As reported in the Summary Compensation Table, Mr. Sacks's and Mr. Schlosberg's annual total compensation for 2022 was $15,417,084 and $15,394,400, respectively. In accordance with Item 402(u) of Regulation-SK, we are using the same \"median employee\" identified in our pay ratio calculations in our 2021 proxy statement, as we believe that there has been no change in our employee population or 53 employee compensation arrangements that we believe would result in a significant change to our pay ratio disclosure. See our 2021 proxy statement for information regarding the process we utilized to identify our \"median e"
+   }
+  },
+  "0001104659-22-051252": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465922051252/tm223452d1_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001104659-22-028182",
+   "result": {
+    "ceoPay": 16707577,
+    "medianPay": 69417,
+    "payRatio": 241,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "of Mr. Sacks and Mr. Schlosberg, who served as the Company's Co-Chief Executive Officers in 2021, to the annual total compensation of the median employee of the Company for 2021. 53 As reported in the Summary Compensation Table, Mr. Sacks' and Mr. Schlosberg's annual total compensation for 2021 was $16,707,577 and $16,686,528, respectively. In accordance with Item 402(u) of Regulation-SK, we are using the same \"median employee\" identified in our pay ratio calculations in our 2021 proxy statement, as we believe that there has been no change in our employee population or employee compensation arrangements that we believe would result in a significant change to our pay ratio disclosure. See our 2021 proxy statement for information regarding the process we utilized to identify our \"median empl"
+   }
+  },
+  "0001104659-21-056640": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465921056640/tm212434d1_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001104659-21-029943",
+   "result": {
+    "ceoPay": 15563685,
+    "medianPay": 63885,
+    "payRatio": 244,
+    "method": "cross-checked",
+    "employees": 3600,
+    "statedYear": 2020,
+    "excerpt": "ted in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, which is the same manner in which Mr. Sacks' annual total compensation was calculated in the Summary Compensation Table. | As reported in the Summary Compensation Table, Mr. Sacks' annual total compensation for 2020 was $15,563,685, and the median annual total compensation of all employees of the Company and its subsidiaries (other than Mr. Sacks) was $63,885. Based on this information, for 2020, the ratio of the compensation of Mr. Sacks to the median annual total compensation of all other employees (other than Mr. Sacks) was estimated to be 244:1. Because the SEC rules for identifying the median employee and calculating the pay ratio allow companies to use different methodologies, exemptions, estimates and as"
+   }
+  },
+  "0001104659-20-049271": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465920049271/tm202064-1_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001104659-20-027209",
+   "result": {
+    "ceoPay": 13982434,
+    "medianPay": 55169,
+    "payRatio": 253,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ratio of the annual total compensation of Mr. Sacks, who has served as the Company's Chief Executive Officer since November 1990, to the annual total compensation of the median employee of the Company. As reported in the Summary Compensation Table, Mr. Sacks' annual total compensation for 2019 was $13,982,434. In accordance with Item 402(u), we are using the same \"median employee\" identified in our 2019 and 2018 pay ratio calculations, as we believe that there has been no change in our employee population or employee compensation arrangements that we believe would result in a significant change to our pay ratio disclosure. See our 2019 and 2018 proxy statements for information regarding the process we utilized to identify our \"median employee.\" We then identified and calculated the elemen"
+   }
+  },
+  "0001104659-19-022807": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465919022807/a19-2642_1def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001104659-19-011581",
+   "result": {
+    "ceoPay": 13914931,
+    "medianPay": 55370,
+    "payRatio": 251,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "ratio of the annual total compensation of Mr. Sacks, who has served as the Companys Chief Executive Officer since November 1990, to the annual total compensation of the median employee of the Company. As reported in the Summary Compensation Table, Mr. Sacks annual total compensation for 2018 was $13,914,931. In accordance with Item 402(u), we are using the same median employee identified in our 2018 pay ratio calculation, as we believe that there has been no change in our employee population or employee compensation arrangements that we believe would result in a significant change to our pay ratio disclosure. See our 2018 proxy statement for information regarding the process we utilized to identify our median employee. We then identified and calculated the elements of this employee"
+   }
+  },
+  "0001104659-18-025529": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465918025529/a18-3076_1def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001104659-18-014057",
+   "result": {
+    "ceoPay": 12505080,
+    "medianPay": 48773,
+    "payRatio": 256,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "ratio of the annual total compensation of Mr. Sacks, who has served as the Companys Chief Executive Officer since November 1990, to the annual total compensation of the median employee of the Company. As reported in the Summary Compensation Table, Mr. Sacks annual total compensation for 2017 was $12,505,080, and the median annual total compensation of all employees of the Company and its subsidiaries (other than the Chief Executive Officer) was $48,773. Based on this information, for 2017, the ratio of the compensation of the Chief Executive Officer to the median annual total compensation of all other employees (other than the Chief Executive Officer) was estimated to be 256:1. To identify, and to determine the annual total compensation of, the median employee, we used the following met"
+   }
+  }
+ },
+ "tenKs": {
+  "0001104659-18-014057": {
+   "parserVersion": 1,
+   "employees": 2991
+  },
+  "0001104659-19-011581": {
+   "parserVersion": 1,
+   "employees": 3142
+  },
+  "0001104659-20-027209": {
+   "parserVersion": 1,
+   "employees": 3529
+  },
+  "0001104659-22-028182": {
+   "parserVersion": 1,
+   "employees": 4092
+  },
+  "0001104659-23-027245": {
+   "parserVersion": 1,
+   "employees": 5296
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 1033780000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-11-011438"
+   },
+   "2009": {
+    "revenue": 1143299000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-12-014573"
+   },
+   "2010": {
+    "revenue": 1303942000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-13-016713"
+   },
+   "2011": {
+    "revenue": 1703230000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-14-015320"
+   },
+   "2012": {
+    "revenue": 2060702000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-15-015731"
+   },
+   "2013": {
+    "revenue": 2246428000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-16-100960"
+   },
+   "2014": {
+    "revenue": 2464867000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-17-013048"
+   },
+   "2015": {
+    "revenue": 2722564000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001104659-18-014057"
+   },
+   "2016": {
+    "revenue": 3049393000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-19-011581"
+   },
+   "2017": {
+    "revenue": 3369045000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-20-027209"
+   },
+   "2018": {
+    "revenue": 3807183000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-21-029943"
+   },
+   "2019": {
+    "revenue": 4200819000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-22-028182"
+   },
+   "2020": {
+    "revenue": 4598638000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-23-027245"
+   },
+   "2021": {
+    "revenue": 5541352000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-24-029425"
+   },
+   "2022": {
+    "revenue": 6311050000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001410578-25-000248"
+   },
+   "2023": {
+    "revenue": 7140027000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-26-020831"
+   },
+   "2024": {
+    "revenue": 7492709000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-26-020831"
+   },
+   "2025": {
+    "revenue": 8294343000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-26-020831"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001104659-26-020831",
+    "filingDate": "2026-02-27",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465926020831/mnst-20251231x10k.htm"
+   },
+   {
+    "accession": "0001410578-25-000248",
+    "filingDate": "2025-02-28",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/865752/000141057825000248/mnst-20241231x10k.htm"
+   },
+   {
+    "accession": "0001104659-24-029425",
+    "filingDate": "2024-02-29",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465924029425/mnst-20231231x10k.htm"
+   },
+   {
+    "accession": "0001104659-23-027245",
+    "filingDate": "2023-03-01",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465923027245/mnst-20221231x10k.htm"
+   },
+   {
+    "accession": "0001104659-22-028182",
+    "filingDate": "2022-02-28",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465922028182/mnst-20211231x10k.htm"
+   },
+   {
+    "accession": "0001104659-21-029943",
+    "filingDate": "2021-03-01",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465921029943/mnst-20201231x10k.htm"
+   },
+   {
+    "accession": "0001104659-20-027209",
+    "filingDate": "2020-02-28",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465920027209/mnst-20191231x10kb9432b.htm"
+   },
+   {
+    "accession": "0001104659-19-011581",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465919011581/a19-30117_110k.htm"
+   },
+   {
+    "accession": "0001104659-18-014057",
+    "filingDate": "2018-03-01",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465918014057/a18-1123_110k.htm"
+   },
+   {
+    "accession": "0001104659-17-013048",
+    "filingDate": "2017-03-01",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/865752/000110465917013048/a17-4132_110k.htm"
+   }
+  ]
+ }
+}

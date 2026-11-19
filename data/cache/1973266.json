@@ -1,0 +1,116 @@
+{
+ "proxies": {
+  "0001193125-26-173833": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526173833/d913980ddef14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001193125-26-071651",
+   "result": {
+    "ceoPay": 67361782,
+    "medianPay": 82428,
+    "payRatio": 813,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "me methodology we used for our named executive officers (including our CEO) as set forth in the 2025 Summary Compensation Table. For 2025: | | | • | | | | The annual total compensation of our Median Employee, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, was $82,428 and the annual total compensation of our CEO, as reported in the Summary Compensation Table included above, was $67,361,782. | | | | • | | | | Therefore, the ratio of our CEO's annual total compensation to the Median Employee's annual total compensation was 813 to 1. | 53 Table of Contents Pay Versus Performance Table The following table sets forth information concerning the compensation provided to our NEOs and certain measures of Company performance in the years ended December 31, 2025"
+   }
+  },
+  "0001193125-25-096950": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312525096950/d827768ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-027778",
+   "result": {
+    "ceoPay": 18129271,
+    "medianPay": 105026,
+    "payRatio": 173,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "me methodology we used for our named executive officers (including our CEO) as set forth in the 2024 Summary Compensation Table. For 2024: | | | • | | | | The annual total compensation of our Median Employee, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K, was $105,026 and the annual total compensation of our CEO, as reported in the Summary Compensation Table included above, was $18,129,271. | | | | • | | | | Therefore, the ratio of our CEO's annual total compensation to the Median Employee's annual total compensation was 173 to 1. | 52 Table of Contents Pay Versus Performance Table The following table sets forth information concerning the compensation provided to our NEOs and certain measures of Company performance in the years ended December 31, 202"
+   }
+  },
+  "0001193125-24-110189": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312524110189/d763058ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001562762-24-000038",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0000950170-25-027778": {
+   "parserVersion": 1,
+   "employees": 1300
+  },
+  "0001193125-26-071651": {
+   "parserVersion": 1,
+   "employees": 4000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2021": {
+    "revenue": 1031944000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001562762-24-000038"
+   },
+   "2022": {
+    "revenue": 1140147000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-25-027778"
+   },
+   "2023": {
+    "revenue": 3224796000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-071651"
+   },
+   "2024": {
+    "revenue": 4884241000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-071651"
+   },
+   "2025": {
+    "revenue": 4735151000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-071651"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2023": 64912560,
+   "2024": 18129271,
+   "2025": 67361782
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-071651",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1973266/000119312526071651/tko-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-027778",
+    "filingDate": "2025-02-26",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1973266/000095017025027778/tko-20241231.htm"
+   },
+   {
+    "accession": "0001562762-24-000038",
+    "filingDate": "2024-02-27",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1973266/000156276224000038/tko-20231231x10k.htm"
+   }
+  ]
+ }
+}

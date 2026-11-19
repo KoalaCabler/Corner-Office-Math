@@ -1,0 +1,182 @@
+{
+ "proxies": {},
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 2651000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-11-017950"
+   },
+   "2009": {
+    "revenue": 4255000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-12-013263"
+   },
+   "2010": {
+    "revenue": 4890000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001445305-13-000346"
+   },
+   "2011": {
+    "revenue": 4824000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922621-14-000008"
+   },
+   "2012": {
+    "revenue": 5512000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922621-15-000008"
+   },
+   "2013": {
+    "revenue": 1297331000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922621-16-000067"
+   },
+   "2014": {
+    "revenue": 1407119000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922621-17-000008"
+   },
+   "2015": {
+    "revenue": 1505508000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922621-18-000016"
+   },
+   "2016": {
+    "revenue": 1596631000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922621-18-000016"
+   },
+   "2017": {
+    "revenue": 1691774000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922621-18-000016"
+   },
+   "2018": {
+    "revenue": 2382212000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000922621-21-000010"
+   },
+   "2019": {
+    "revenue": 2477298000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000922621-22-000013"
+   },
+   "2020": {
+    "revenue": 2536489000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000922621-23-000007"
+   },
+   "2021": {
+    "revenue": 2633977000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000922621-24-000006"
+   },
+   "2022": {
+    "revenue": 2840124000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000922621-25-000004"
+   },
+   "2023": {
+    "revenue": 3268940000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-010666"
+   },
+   "2024": {
+    "revenue": 3795115000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-010666"
+   },
+   "2025": {
+    "revenue": 4067258000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-010666"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-010666",
+    "filingDate": "2026-02-23",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922621/000162828026010666/erie-20251231.htm"
+   },
+   {
+    "accession": "0000922621-25-000004",
+    "filingDate": "2025-02-27",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922621/000092262125000004/erie-20241231.htm"
+   },
+   {
+    "accession": "0000922621-24-000006",
+    "filingDate": "2024-02-26",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922621/000092262124000006/erie-20231231.htm"
+   },
+   {
+    "accession": "0000922621-23-000007",
+    "filingDate": "2023-03-01",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922621/000092262123000007/erie-20221231.htm"
+   },
+   {
+    "accession": "0000922621-22-000013",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922621/000092262122000013/erie-20211231.htm"
+   },
+   {
+    "accession": "0000922621-21-000010",
+    "filingDate": "2021-02-25",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922621/000092262121000010/erie-20201231.htm"
+   },
+   {
+    "accession": "0000922621-20-000009",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922621/000092262120000009/erie10-k12312019.htm"
+   },
+   {
+    "accession": "0000922621-19-000008",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922621/000092262119000008/erie10-k12312018.htm"
+   },
+   {
+    "accession": "0000922621-18-000016",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922621/000092262118000016/erie10-k12312017.htm"
+   },
+   {
+    "accession": "0000922621-17-000008",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922621/000092262117000008/erie10-k12312016.htm"
+   }
+  ]
+ }
+}

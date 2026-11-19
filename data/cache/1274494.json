@@ -1,0 +1,342 @@
+{
+ "proxies": {
+  "0001274494-26-000096": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000096/fslr-20260401.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001274494-26-000021",
+   "result": {
+    "ceoPay": 8138605,
+    "medianPay": 42006,
+    "payRatio": 194,
+    "method": "cross-checked",
+    "employees": 7900,
+    "statedYear": 2025,
+    "excerpt": "ion practices and may utilize different methodologies, exclusions, assumptions, adjustments or estimates in calculating their own pay ratios. For 2025, our last completed fiscal year: • the median annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $42,006; • the annual total compensation of our Chief Executive Officer was $ 8,138,605 ; and • our Chief Executive Officer's annual total compensation was 194 times that of the median annual total compensation of all employees. To identify the median of the annual total compensation of all our employees (or \"median employee\"), as well as to determine the annual total compensation of the median employee, we made assumptions: 1. Population Date. We selected December 31, 2025 as the date upon whic"
+   }
+  },
+  "0001274494-25-000023": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449425000023/fslr-20250404.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001274494-25-000010",
+   "result": {
+    "ceoPay": 6386641,
+    "medianPay": 37440,
+    "payRatio": 171,
+    "method": "cross-checked",
+    "employees": 8100,
+    "statedYear": 2024,
+    "excerpt": "ion practices and may utilize different methodologies, exclusions, assumptions, adjustments or estimates in calculating their own pay ratios. For 2024, our last completed fiscal year: • the median annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $37,440; • the annual total compensation of our Chief Executive Officer was $ 6,386,641 ; and • our Chief Executive Officer's annual total compensation was 171 times that of the median annual total compensation of all employees. To identify the median of the annual total compensation of all our employees (or \"median employee\"), as well as to determine the annual total compensation of the median employee, we made assumptions: 1. Population Date. We selected December 31, 2024 as the date upon whic"
+   }
+  },
+  "0001274494-24-000018": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449424000018/fslr-20240327.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001274494-24-000004",
+   "result": {
+    "ceoPay": 7725497,
+    "medianPay": 87024,
+    "payRatio": 89,
+    "method": "cross-checked",
+    "employees": 6700,
+    "statedYear": 2023,
+    "excerpt": "pay ratio included in this information represents a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2023, our last completed fiscal year: • the median annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $87,024 (without applying cost-of-living adjustments, the median annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $23,560); • the annual total compensation of our Chief Executive Officer was $ 7,725,497 ; and • our Chief Executive Officer's annual total compensation was 89 times that of the median annual total compensation of all employees (without applying cost-of-living adjustments, our Chief Executive Officer's annual total compensation wa"
+   }
+  },
+  "0001274494-23-000004": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449423000004/fslr-20230330.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001274494-23-000002",
+   "result": {
+    "ceoPay": 7207833,
+    "medianPay": 86434,
+    "payRatio": 83,
+    "method": "cross-checked",
+    "employees": 5500,
+    "statedYear": 2022,
+    "excerpt": "pay ratio included in this information represents a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2022, our last completed fiscal year: • the median annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $86,434 (without applying cost-of-living adjustments, the median annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $24,118); • the annual total compensation of our Chief Executive Officer was $ 7,207,833 ; and • our Chief Executive Officer's annual total compensation was 83 times that of the median annual total compensation of all employees (without applying cost-of-living adjustments, our Chief Executive Officer's annual total compensation wa"
+   }
+  },
+  "0001274494-22-000014": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449422000014/april2022proxy2021results.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001274494-22-000009",
+   "result": {
+    "ceoPay": 6542454,
+    "medianPay": 139587,
+    "payRatio": 47,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "pay ratio included in this information represents a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2021, our last completed fiscal year: • the median annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $139,587; • the annual total compensation of our Chief Executive Officer was $6,542,454; and • our Chief Executive Officer's annual total compensation was 47 times that of the median annual total compensation of all employees. To identify the median of the annual total compensation of all our employees (or \"median employee\"), as well as to determine the annual total compensation of the median employee, we made assumptions consistent with our prior-year evaluation, as described in our 2020 proxy"
+   }
+  },
+  "0001628280-21-006363": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000162828021006363/april2021proxy2020results.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001628280-21-003343",
+   "result": {
+    "ceoPay": 8317673,
+    "medianPay": 136250,
+    "payRatio": 61,
+    "method": "cross-checked",
+    "employees": 5100,
+    "statedYear": 2020,
+    "excerpt": "pay ratio included in this information represents a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2020, our last completed fiscal year: • the median annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $136,250; • the annual total compensation of our Chief Executive Officer was $8,317,673; and • our Chief Executive Officer's annual total compensation was 61 times that of the median annual total compensation of all employees. To identify the median of the annual total compensation of all our employees (or \"median employee\"), as well as to determine the annual total compensation of the median employee, we made the following assumptions: 1. Population Date. We selected December 31, 2020 as the da"
+   }
+  },
+  "0001628280-20-004463": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000162828020004463/april2020proxy.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001274494-20-000011",
+   "result": {
+    "ceoPay": 8524240,
+    "medianPay": 83313,
+    "payRatio": 102,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ded in this information represents a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2019 , our last completed fiscal year: | | | | | • | | the median annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $83,313; | | | | | | • | | the annual total compensation of our Chief Executive Officer was $8,524,240; and | | | | | | • | | our Chief Executive Officer's annual total compensation was 102 times that of the median of the annual total compensation of all employees. | For 2019 , in accordance with Item 402(u) of Regulations S-K, we used the same median employee identified for purposes of our 2018 Pay Ratio disclosure. During 2019, there were no material changes in our employee population or emplo"
+   }
+  },
+  "0001274494-19-000008": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449419000008/a2018proxy.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001274494-19-000004",
+   "result": {
+    "ceoPay": 7032617,
+    "medianPay": 79481,
+    "payRatio": 88,
+    "method": "cross-checked",
+    "employees": 6400,
+    "statedYear": 2018,
+    "excerpt": "uded in this information represents a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2018, our last completed fiscal year: | | | | | • | | the median annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $79,481; | | | | | | • | | the annual total compensation of our Chief Executive Officer was $7,032,617; and | | | | | | • | | our Chief Executive Officer's annual total compensation was 88 times that of the median of the annual total compensation of all employees. | To identify the median of the annual total compensation of all our employees (or \"median employee\"), as well as to determine the annual total compensation of the median employee, we used the following methodology, assumptions, adjust"
+   }
+  },
+  "0001274494-18-000016": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449418000016/a2017proxy.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001274494-18-000011",
+   "result": {
+    "ceoPay": 10699783,
+    "medianPay": 116396,
+    "payRatio": 92,
+    "method": "cross-checked",
+    "employees": 4100,
+    "statedYear": 2017,
+    "excerpt": "uded in this information represents a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. For 2017, our last completed fiscal year: | | | | | • | | the median annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $116,396. | | | | | | • | | the annual total compensation of our Chief Executive Officer was $10,699,783. | | | | | | • | | our Chief Executive Officer's annual total compensation was 92 times that of the median of the annual total compensation of all employees. | To identify the median of the annual total compensation of all our employees (or \"median employee\"), as well as to determine the annual total compensation of the median employee, we used the following methodology, material assumptions,"
+   }
+  }
+ },
+ "tenKs": {
+  "0001274494-20-000011": {
+   "parserVersion": 1,
+   "employees": 6600
+  },
+  "0001274494-22-000009": {
+   "parserVersion": 1,
+   "employees": 4800
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 503976000,
+    "periodEnd": "2007-12-29",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001274494-10-000007"
+   },
+   "2008": {
+    "revenue": 1246301000,
+    "periodEnd": "2008-12-27",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001274494-11-000007"
+   },
+   "2009": {
+    "revenue": 2066200000,
+    "periodEnd": "2009-12-26",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001274494-12-000015"
+   },
+   "2010": {
+    "revenue": 2563515000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001274494-13-000006"
+   },
+   "2011": {
+    "revenue": 2766207000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001274494-14-000011"
+   },
+   "2012": {
+    "revenue": 3368545000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001274494-15-000006"
+   },
+   "2013": {
+    "revenue": 3309616000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001274494-16-000067"
+   },
+   "2014": {
+    "revenue": 3391187000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001274494-17-000006"
+   },
+   "2015": {
+    "revenue": 4112650000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001274494-18-000011"
+   },
+   "2016": {
+    "revenue": 2904563000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001274494-19-000004"
+   },
+   "2017": {
+    "revenue": 2941324000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001274494-20-000011"
+   },
+   "2018": {
+    "revenue": 2244044000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-21-003343"
+   },
+   "2019": {
+    "revenue": 3063117000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001274494-22-000009"
+   },
+   "2020": {
+    "revenue": 2711332000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001274494-23-000002"
+   },
+   "2021": {
+    "revenue": 2923377000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001274494-24-000004"
+   },
+   "2022": {
+    "revenue": 2619319000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001274494-25-000010"
+   },
+   "2023": {
+    "revenue": 3318602000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001274494-26-000021"
+   },
+   "2024": {
+    "revenue": 4206289000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001274494-26-000021"
+   },
+   "2025": {
+    "revenue": 5219376000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001274494-26-000021"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001274494-26-000021",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449426000021/fslr-20251231.htm"
+   },
+   {
+    "accession": "0001274494-25-000010",
+    "filingDate": "2025-02-25",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449425000010/fslr-20241231.htm"
+   },
+   {
+    "accession": "0001274494-24-000004",
+    "filingDate": "2024-02-27",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449424000004/fslr-20231231.htm"
+   },
+   {
+    "accession": "0001274494-23-000002",
+    "filingDate": "2023-02-28",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449423000002/fslr-20221231.htm"
+   },
+   {
+    "accession": "0001274494-22-000009",
+    "filingDate": "2022-03-01",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449422000009/fslr-20211231.htm"
+   },
+   {
+    "accession": "0001628280-21-003343",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1274494/000162828021003343/fslr-20201231.htm"
+   },
+   {
+    "accession": "0001274494-20-000011",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449420000011/fslr10-k12x31x2019.htm"
+   },
+   {
+    "accession": "0001274494-19-000004",
+    "filingDate": "2019-02-22",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449419000004/fslr10-k12x31x2018.htm"
+   },
+   {
+    "accession": "0001274494-18-000011",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449418000011/fslr10-k12x31x2017.htm"
+   },
+   {
+    "accession": "0001274494-17-000006",
+    "filingDate": "2017-02-22",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1274494/000127449417000006/fslr10-k12x31x2016.htm"
+   }
+  ]
+ }
+}

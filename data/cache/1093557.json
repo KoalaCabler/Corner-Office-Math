@@ -1,0 +1,318 @@
+{
+ "proxies": {
+  "0001093557-26-000061": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000061/dxcm-20260415.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001093557-26-000027",
+   "result": {
+    "ceoPay": 7985960,
+    "medianPay": 58663,
+    "payRatio": 136,
+    "method": "cross-checked",
+    "employees": 11100,
+    "statedYear": 2025,
+    "excerpt": "ut the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Sayer and Mr. Leach, our principal executive officers during fiscal 2025. For 2025, the median of the annual total compensation of all our employees (excluding Mr. Sayer and Mr. Leach) was $58,663 (ii) the annual total compensation for Mr. Sayer and Mr. Leach was $16,282,598 and $7,985,960, respectively; and (iii) the ratio of the annual total compensation of Mr. Sayer and Mr. Leach to the median of the annual total compensation of all our employees (excluding Mr. Sayer and Mr. Leach) for 2025 was 278:1 and 136:1, respectively. We believe this ratio, which was calculated in a manner consistent with Item 402(u) of Regulation S-K, to be a reasonable estimate, based upon the assumpti"
+   }
+  },
+  "0001093557-25-000100": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355725000100/dxcm-20250327.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001093557-25-000036",
+   "result": {
+    "ceoPay": 15828797,
+    "medianPay": 114213,
+    "payRatio": 139,
+    "method": "cross-checked",
+    "employees": 10300,
+    "statedYear": 2024,
+    "excerpt": "m 402(u) of Regulation S-K, we are providing the following information about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Sayer. For 2024, the median of the annual total compensation of all our employees (excluding our CEO) was $114,213 (ii) the annual total compensation for our CEO was $15,828,797; and (iii) the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (excluding our CEO) for 2024 was 139:1. We believe this ratio, which was calculated in a manner consistent with Item 402(u) of Regulation S-K, to be a reasonable estimate, based upon the assumptions described below. 80 Table of Content s Calculation Methodology We identified the employee with c"
+   }
+  },
+  "0001093557-24-000070": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355724000070/dxcm-20240422.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001093557-24-000021",
+   "result": {
+    "ceoPay": 15712244,
+    "medianPay": 85574,
+    "payRatio": 184,
+    "method": "cross-checked",
+    "employees": 9600,
+    "statedYear": 2023,
+    "excerpt": "m 402(u) of Regulation S-K, we are providing the following information about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Sayer. For 2023, the median of the annual total compensation of all our employees (excluding our CEO) was $85,574 (ii) the annual total compensation for our CEO was $15,712,244; and (iii) the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (excluding our CEO) for 2023 was 184:1. We believe this ratio, which was calculated in a manner consistent with Item 402(u) of Regulation S-K, to be a reasonable estimate, based upon the assumptions described below. Calculation Methodology We identified the employee with compensation at the medi"
+   }
+  },
+  "0001093557-23-000099": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355723000099/dxcm-20230406.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001093557-23-000024",
+   "result": {
+    "ceoPay": 15435652,
+    "medianPay": 65706,
+    "payRatio": 235,
+    "method": "cross-checked",
+    "employees": 7600,
+    "statedYear": 2022,
+    "excerpt": "m 402(u) of Regulation S-K, we are providing the following information about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Sayer. For 2022, the median of the annual total compensation of all our employees (excluding our CEO) was $65,706 (ii) the annual total compensation for our CEO was $15,435,652; and (iii) the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (excluding our CEO) for 2022 is 235:1. We believe this ratio, which was calculated in a manner consistent with Item 402(u) of Regulation S-K, to be a reasonable estimate, based upon the assumptions described below. Calculation Methodology We identified the employee with compensation at the media"
+   }
+  },
+  "0001093557-22-000085": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355722000085/dxcm-2022xdef14aproxy_apri.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001093557-22-000014",
+   "result": {
+    "ceoPay": 11985324,
+    "medianPay": 63500,
+    "payRatio": 189,
+    "method": "cross-checked",
+    "employees": 6100,
+    "statedYear": 2021,
+    "excerpt": "m 402(u) of Regulation S-K, we are providing the following information about the relationship of the annual total compensation of our employees and the annual total compensation of our CEO, Mr. Sayer. For 2021, the median of the annual total compensation of all our employees (excluding our CEO) was $63,500 (ii) the annual total compensation for our CEO was $11,985,324; and (iii) the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (excluding our CEO) for 2021 is 189:1. We believe this ratio, which was calculated in a manner consistent with Item 402(u) of Regulation S-K, to be a reasonable estimate, based upon the assumptions described below. Calculation Methodology We identified the employee with compensation at the media"
+   }
+  },
+  "0001093557-21-000112": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355721000112/dxcm-2021xdef14aproxy_acti.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001093557-21-000024",
+   "result": {
+    "ceoPay": 13804156,
+    "medianPay": 70072,
+    "payRatio": 197,
+    "method": "cross-checked",
+    "employees": 5500,
+    "statedYear": 2020,
+    "excerpt": "on S-K, we are providing the following information about the relationship of the annual total compensation of our employees and the annual total compensation of our Chief Executive Officer, Mr. Sayer. For 2020, the median of the annual total compensation of all our employees (excluding our CEO) was $70,072, (ii) the annual total compensation for our CEO was $13,804,156; and (iii) the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (excluding our CEO) for 2020 is 197:1. We believe this ratio, which was calculated in a manner consistent with Item 402(u) of Regulation S-K, to be a reasonable estimate, based upon the assumptions described below. Calculation Methodology We identified the employee with compensation at the medi"
+   }
+  },
+  "0001093557-20-000122": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355720000122/dxcm-2020xdef14aproxy_acti.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001093557-20-000029",
+   "result": {
+    "ceoPay": 10279373,
+    "medianPay": 94523,
+    "payRatio": 109,
+    "method": "cross-checked",
+    "employees": 3826,
+    "statedYear": 2019,
+    "excerpt": "on S-K, we are providing the following information about the relationship of the annual total compensation of our employees and the annual total compensation of our Chief Executive Officer, Mr. Sayer. For 2019, the median of the annual total compensation of all our employees (excluding our CEO) was $94,523, (ii) the annual total compensation for our CEO was $10,279,373; and (iii) the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (excluding our CEO) for 2019 is 109:1. We believe this ratio, which was calculated in a manner consistent with Item 402(u) of Regulation S-K, to be a reasonable estimate, based upon the assumptions described below. Calculation Methodology We identified the employee with compensation at the medi"
+   }
+  },
+  "0001093557-19-000103": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355719000103/dxcm-2019xdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001093557-19-000041",
+   "result": {
+    "ceoPay": 9554123,
+    "medianPay": 80723,
+    "payRatio": 118,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "viding the following information about the relationship of the annual total compensation of our employees and the annual total compensation of our Chief Executive Officer, Mr. Kevin Sayer (our \"CEO\"). For 2018, the median of the annual total compensation of all our employees (excluding our CEO) was $80,723, (ii) the annual total compensation for our CEO was $9,554,123; and (iii) the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all our employees (excluding our CEO) for 2018 is 118:1. We believe this ratio, which was calculated in a manner consistent with Item 402(u) of Regulation S-K, to be a reasonable estimate, based upon the assumptions described below. Calculation Methodology We identified the employee with compensation at the media"
+   }
+  },
+  "0001193125-18-124845": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093557/000119312518124845/d498510ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001093557-18-000018",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001093557-19-000041": {
+   "parserVersion": 1,
+   "employees": 2800
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 29693000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-075640"
+   },
+   "2010": {
+    "revenue": 48600000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-069590"
+   },
+   "2011": {
+    "revenue": 76300000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001093557-14-000028"
+   },
+   "2012": {
+    "revenue": 99900000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001093557-14-000028"
+   },
+   "2013": {
+    "revenue": 160000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001093557-14-000028"
+   },
+   "2014": {
+    "revenue": 259200000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001093557-17-000048"
+   },
+   "2015": {
+    "revenue": 402000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001093557-18-000018"
+   },
+   "2016": {
+    "revenue": 573300000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001093557-19-000041"
+   },
+   "2017": {
+    "revenue": 718500000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001093557-20-000029"
+   },
+   "2018": {
+    "revenue": 1031600000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001093557-21-000024"
+   },
+   "2019": {
+    "revenue": 1476000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001093557-22-000014"
+   },
+   "2020": {
+    "revenue": 1926700000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001093557-23-000024"
+   },
+   "2021": {
+    "revenue": 2448500000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001093557-24-000021"
+   },
+   "2022": {
+    "revenue": 2909800000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001093557-25-000036"
+   },
+   "2023": {
+    "revenue": 3622300000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001093557-26-000027"
+   },
+   "2024": {
+    "revenue": 4033000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001093557-26-000027"
+   },
+   "2025": {
+    "revenue": 4662000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001093557-26-000027"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001093557-26-000027",
+    "filingDate": "2026-02-12",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000027/dxcm-20251231.htm"
+   },
+   {
+    "accession": "0001093557-25-000036",
+    "filingDate": "2025-02-18",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355725000036/dxcm-20241231.htm"
+   },
+   {
+    "accession": "0001093557-24-000021",
+    "filingDate": "2024-02-08",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355724000021/dxcm-20231231.htm"
+   },
+   {
+    "accession": "0001093557-23-000024",
+    "filingDate": "2023-02-09",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355723000024/dxcm-20221231.htm"
+   },
+   {
+    "accession": "0001093557-22-000014",
+    "filingDate": "2022-02-14",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355722000014/dxcm-20211231.htm"
+   },
+   {
+    "accession": "0001093557-21-000024",
+    "filingDate": "2021-02-11",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355721000024/dxcm-20201231.htm"
+   },
+   {
+    "accession": "0001093557-20-000029",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355720000029/dxcm-12312019x10kasof1.htm"
+   },
+   {
+    "accession": "0001093557-19-000041",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355719000041/dxcm-12312018x10k.htm"
+   },
+   {
+    "accession": "0001093557-18-000018",
+    "filingDate": "2018-02-27",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355718000018/dxcm-12312017x10k.htm"
+   },
+   {
+    "accession": "0001093557-17-000048",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355717000048/dxcm-12312016x10k.htm"
+   }
+  ]
+ }
+}

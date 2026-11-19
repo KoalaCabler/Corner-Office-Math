@@ -1,0 +1,327 @@
+{
+ "proxies": {
+  "0001104659-26-112176": {
+   "parserVersion": 1,
+   "filingDate": "2026-09-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000110465926112176/tm2623505-1_def14a.htm",
+   "periodEnd": "2026-06-30",
+   "tenK": "0001001250-26-000041",
+   "result": {
+    "ceoPay": 20585784,
+    "medianPay": 34255,
+    "payRatio": 601,
+    "method": "cross-checked",
+    "employees": 53600,
+    "statedYear": 2026,
+    "excerpt": "we are disclosing the ratio of the annual total compensation of our CEO Stéphane de La Faverie to that of our median employee, with April 1, 2026, serving as the date for identifying our median employee: • The median of the total compensation of our employees for fiscal 2026 other than our CEO was $34,255; • the total compensation of our CEO was $20,585,784 for fiscal 2026, as reported in the \"Total\" column of our 2026 Summary Compensation Table; and • based on this information, for fiscal 2026, the total compensation of our CEO to the median of the annual total compensation of all employees resulted in a ratio of 601:1. In addition, in order to provide context for the disclosure above, the Company notes that, approximately 75% of our employees who are within the scope of these rules are"
+   }
+  },
+  "0001104659-25-093184": {
+   "parserVersion": 1,
+   "filingDate": "2025-09-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000110465925093184/tm2523020-3_def14a.htm",
+   "periodEnd": "2025-06-30",
+   "tenK": "0001001250-25-000099",
+   "result": {
+    "ceoPay": 13422486,
+    "medianPay": 38149,
+    "payRatio": 352,
+    "method": "cross-checked",
+    "employees": 56300,
+    "statedYear": 2025,
+    "excerpt": "n compensation, and equity compensation were annualized for the calculation, which is why the amount below is greater than the amount reported in the \"Total\" column of our 2025 Summary Compensation Table: • The median of the total compensation of our employees for fiscal 2025 other than our CEO was $38,149; • the total compensation of our CEO was $13,422,486 for fiscal 2025 annualized; and • based on this information, for fiscal 2025, the total compensation of our CEO to the median of the annual total compensation of all employees resulted in a ratio of 352:1. In addition, in order to provide context for the disclosure above, the Company notes that, approximately 75% of our employees who are within the scope of these rules are outside the United States. The compensation elements and pay le"
+   }
+  },
+  "0001104659-24-101259": {
+   "parserVersion": 1,
+   "filingDate": "2024-09-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000110465924101259/tm2421000-2_def14a.htm",
+   "periodEnd": "2024-06-30",
+   "tenK": "0001001250-24-000116",
+   "result": {
+    "ceoPay": 17851573,
+    "medianPay": 34711,
+    "payRatio": 514,
+    "method": "cross-checked",
+    "employees": 60000,
+    "statedYear": 2024,
+    "excerpt": "e As required by SEC rules, we are providing the following information about the ratio of the annual total compensation of Fabrizio Freda, our CEO, to the annual total compensation of our median employee: • The median of the total compensation of our employees for fiscal 2024 other than our CEO was $34,711; • the total compensation of our CEO was $17,851,573 for fiscal 2024, as reported in the \"Total\" column of our 2024 Summary Compensation Table; and • based on this information, for fiscal 2024, the total compensation of our CEO to the median of the annual total compensation of all employees resulted in a ratio of 514:1. In addition, in order to provide a helpful context for the disclosure above, the Company notes that, over 70% of our employees who are within the scope of these rules are"
+   }
+  },
+  "0001104659-23-104591": {
+   "parserVersion": 1,
+   "filingDate": "2023-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000110465923104591/tm2323170d2_def14a.htm",
+   "periodEnd": "2023-06-30",
+   "tenK": "0001001250-23-000112",
+   "result": {
+    "ceoPay": 21811244,
+    "medianPay": 33819,
+    "payRatio": 645,
+    "method": "cross-checked",
+    "employees": 60000,
+    "statedYear": 2023,
+    "excerpt": "e As required by SEC rules, we are providing the following information about the ratio of the annual total compensation of Fabrizio Freda, our CEO, to the annual total compensation of our median employee: • The median of the total compensation of our employees for fiscal 2023 other than our CEO was $33,819; • the total compensation of our CEO was $21,811,244 for fiscal 2023, as reported in the \"Total\" column of our 2023 Summary Compensation Table; and • based on this information, for fiscal 2023, the total compensation of our CEO to the median of the annual total compensation of all employees resulted in a ratio of 645:1. In addition, in order to provide a helpful context for the disclosure above, the Company notes that, over 70% of our employees who are within the scope of these rules are"
+   }
+  },
+  "0001104659-22-103951": {
+   "parserVersion": 1,
+   "filingDate": "2022-09-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000110465922103951/tm2222590-1_def14a.htm",
+   "periodEnd": "2022-06-30",
+   "tenK": "0001001250-22-000122",
+   "result": {
+    "ceoPay": 25480055,
+    "medianPay": 29236,
+    "payRatio": 872,
+    "method": "cross-checked",
+    "employees": 56000,
+    "statedYear": 2022,
+    "excerpt": "e As required by SEC rules, we are providing the following information about the ratio of the annual total compensation of Fabrizio Freda, our CEO, to the annual total compensation of our median employee: • The median of the total compensation of our employees for fiscal 2022 other than our CEO was $29,236; • the total compensation of our CEO was $25,480,055 for fiscal 2022, as reported in the \"Total\" column of our 2022 Summary Compensation Table; and • based on this information, for fiscal 2022, the total compensation of our CEO to the median of the annual total compensation of all employees resulted in a ratio of 872:1. In addition, in order to provide a helpful context for the disclosure above, the Company notes that the nature of retail operations in prestige beauty relies significantl"
+   }
+  },
+  "0001104659-21-119079": {
+   "parserVersion": 1,
+   "filingDate": "2021-09-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000110465921119079/tm2120704-1_def14a.htm",
+   "periodEnd": "2021-06-30",
+   "tenK": "0001001250-21-000127",
+   "result": {
+    "ceoPay": 65996984,
+    "medianPay": 33586,
+    "payRatio": 1965,
+    "method": "cross-checked",
+    "employees": 56000,
+    "statedYear": 2021,
+    "excerpt": "e As required by SEC rules, we are providing the following information about the ratio of the annual total compensation of Fabrizio Freda, our CEO, to the annual total compensation of our median employee: • The median of the total compensation of our employees for fiscal 2021 other than our CEO was $33,586; • the total compensation of our CEO was $65,996,984 for fiscal 2021, which included two long-term equity awards with a combined aggregate grant date fair value of $40.0 million granted to the CEO on March 11, 2021, as reported in the \"Total\" column of our 2021 Summary Compensation Table; and • based on this information, for fiscal 2021, the total compensation of our CEO to the median of the annual total compensation of all employees resulted in a ratio of 1,965:1. Without the March 2021"
+   }
+  },
+  "0001047469-20-004978": {
+   "parserVersion": 1,
+   "filingDate": "2020-09-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000104746920004978/a2242277zdef14a.htm",
+   "periodEnd": "2020-06-30",
+   "tenK": "0001001250-20-000065",
+   "result": {
+    "ceoPay": 18423928,
+    "medianPay": 28879,
+    "payRatio": 638,
+    "method": "cross-checked",
+    "employees": 72000,
+    "statedYear": 2020,
+    "excerpt": "e As required by SEC rules, we are providing the following information about the ratio of the annual total compensation of Fabrizio Freda, our CEO, to the annual total compensation of our median employee:  The median of the total compensation of our employees for fiscal 2020 other than our CEO was $28,879;  the total compensation of our CEO was $18,423,928 for fiscal 2020, as reported in the \"Total\" column of our 2020 Summary Compensation Table; and  based on this information, for fiscal 2020, the total compensation of our CEO to the median of the annual total compensation of all employees resulted in a ratio of 638:1. In order to provide a helpful context for the disclosure above, the Company notes that the nature of retail operations in prestige beauty relies significantly on part-tim"
+   }
+  },
+  "0001047469-19-005493": {
+   "parserVersion": 1,
+   "filingDate": "2019-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000104746919005493/a2239512zdef14a.htm",
+   "periodEnd": "2019-06-30",
+   "tenK": "0001104659-19-047085",
+   "result": {
+    "ceoPay": 21435428,
+    "medianPay": 30733,
+    "payRatio": 697,
+    "method": "cross-checked",
+    "employees": 77600,
+    "statedYear": 2019,
+    "excerpt": "e As required by SEC rules, we are providing the following information about the ratio of the annual total compensation of Fabrizio Freda, our CEO, to the annual total compensation of our median employee:  The median of the total compensation of our employees for fiscal 2019 other than our CEO was $30,733;  the total compensation of our CEO was $21,435,428 for fiscal 2019, as reported in the \"Total\" column of our 2019 Summary Compensation Table; and  based on this information, for fiscal 2019, the total compensation of our CEO to the median of the annual total compensation of all employees resulted in a ratio of 697:1. In order to provide a helpful context for the disclosure above, the Company notes that the nature of retail operations in prestige beauty relies significantly on part-tim"
+   }
+  },
+  "0001047469-18-006462": {
+   "parserVersion": 1,
+   "filingDate": "2018-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1001250/000104746918006462/a2236523zdef14a.htm",
+   "periodEnd": "2018-06-30",
+   "tenK": "0001104659-18-053494",
+   "result": {
+    "ceoPay": 48753819,
+    "medianPay": 28845,
+    "payRatio": 1690,
+    "method": "cross-checked",
+    "employees": 77600,
+    "statedYear": 2018,
+    "excerpt": "e As required by SEC rules, we are providing the following information about the ratio of the annual total compensation of Fabrizio Freda, our CEO, to the annual total compensation of our median employee:  The median of the total compensation of our employees for fiscal 2018 other than our CEO was $28,845;  the total compensation of our CEO was $48,753,819 for fiscal 2018, which included an additional (non-annual) PSU award granted to the CEO on February 14, 2018 with a grant date value of approximately $27.4 million; and  based on this information, for fiscal 2018, the total compensation of our CEO to the median of the annual total compensation of all employees resulted in a ratio of 1,690:1. Without the February 2018 PSU grant referenced above, the CEO's total compensation for fiscal"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 7323800000,
+    "periodEnd": "2009-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-11-048120"
+   },
+   "2010": {
+    "revenue": 7795800000,
+    "periodEnd": "2010-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-12-058698"
+   },
+   "2011": {
+    "revenue": 8810000000,
+    "periodEnd": "2011-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-13-065820"
+   },
+   "2012": {
+    "revenue": 9713600000,
+    "periodEnd": "2012-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-14-062259"
+   },
+   "2013": {
+    "revenue": 10181700000,
+    "periodEnd": "2013-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-15-061122"
+   },
+   "2014": {
+    "revenue": 10968800000,
+    "periodEnd": "2014-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-16-141179"
+   },
+   "2015": {
+    "revenue": 10780000000,
+    "periodEnd": "2015-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-17-053604"
+   },
+   "2016": {
+    "revenue": 11262000000,
+    "periodEnd": "2016-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001104659-18-053494"
+   },
+   "2017": {
+    "revenue": 11824000000,
+    "periodEnd": "2017-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001104659-19-047085"
+   },
+   "2018": {
+    "revenue": 13683000000,
+    "periodEnd": "2018-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001001250-20-000065"
+   },
+   "2019": {
+    "revenue": 14863000000,
+    "periodEnd": "2019-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001001250-21-000127"
+   },
+   "2020": {
+    "revenue": 14294000000,
+    "periodEnd": "2020-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001001250-22-000122"
+   },
+   "2021": {
+    "revenue": 16215000000,
+    "periodEnd": "2021-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001001250-23-000112"
+   },
+   "2022": {
+    "revenue": 17737000000,
+    "periodEnd": "2022-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001001250-24-000116"
+   },
+   "2023": {
+    "revenue": 15910000000,
+    "periodEnd": "2023-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001001250-25-000099"
+   },
+   "2024": {
+    "revenue": 15608000000,
+    "periodEnd": "2024-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001001250-26-000041"
+   },
+   "2025": {
+    "revenue": 14326000000,
+    "periodEnd": "2025-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001001250-26-000041"
+   },
+   "2026": {
+    "revenue": 15049000000,
+    "periodEnd": "2026-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001001250-26-000041"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001001250-26-000041",
+    "filingDate": "2026-08-19",
+    "reportDate": "2026-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1001250/000100125026000041/el-20260630.htm"
+   },
+   {
+    "accession": "0001001250-25-000099",
+    "filingDate": "2025-08-20",
+    "reportDate": "2025-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1001250/000100125025000099/el-20250630.htm"
+   },
+   {
+    "accession": "0001001250-24-000116",
+    "filingDate": "2024-08-19",
+    "reportDate": "2024-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1001250/000100125024000116/el-20240630.htm"
+   },
+   {
+    "accession": "0001001250-23-000112",
+    "filingDate": "2023-08-18",
+    "reportDate": "2023-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1001250/000100125023000112/el-20230630.htm"
+   },
+   {
+    "accession": "0001001250-22-000122",
+    "filingDate": "2022-08-24",
+    "reportDate": "2022-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1001250/000100125022000122/el-20220630.htm"
+   },
+   {
+    "accession": "0001001250-21-000127",
+    "filingDate": "2021-08-27",
+    "reportDate": "2021-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1001250/000100125021000127/el-20210630.htm"
+   },
+   {
+    "accession": "0001001250-20-000065",
+    "filingDate": "2020-08-28",
+    "reportDate": "2020-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1001250/000100125020000065/el-20200630.htm"
+   },
+   {
+    "accession": "0001104659-19-047085",
+    "filingDate": "2019-08-23",
+    "reportDate": "2019-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1001250/000110465919047085/a19-11548_110k.htm"
+   },
+   {
+    "accession": "0001104659-18-053494",
+    "filingDate": "2018-08-24",
+    "reportDate": "2018-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1001250/000110465918053494/a18-14745_110k.htm"
+   },
+   {
+    "accession": "0001104659-17-053604",
+    "filingDate": "2017-08-25",
+    "reportDate": "2017-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1001250/000110465917053604/a17-15494_110k.htm"
+   }
+  ]
+ }
+}

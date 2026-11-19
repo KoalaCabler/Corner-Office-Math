@@ -1,0 +1,268 @@
+{
+ "proxies": {
+  "0001193125-26-113876": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312526113876/pcar-20260318.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001193125-26-057025",
+   "result": null
+  },
+  "0001193125-25-057811": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312525057811/d867692ddef14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000950170-25-023145",
+   "result": null
+  },
+  "0001193125-24-072684": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312524072684/d48036ddef14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000950170-24-017900",
+   "result": null
+  },
+  "0001193125-23-071313": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312523071313/d402196ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001564590-23-002203",
+   "result": {
+    "ceoPay": 5222256,
+    "medianPay": 31216,
+    "payRatio": 168,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "lculated in accordance with the requirements of the Summary Compensation Table. The CEO's cash award earned for the 2020-2022 LTIP cycle will not be determined until April 24, 2023. The CEO pay ratio for 2022 will be disclosed on Form 8-K following such determination. The CEO pay ratio for 2021 was 168 to 1. 34 Table of Contents PAY VERSUS PERFORMANCE DISCLOSURE The following table provides information on compensation for the principal executive officer (\"PEO\"), the average compensation for the other Named Executive Officers (\"Non-PEO NEOs\") and certain measures of the Company's financial performance for the last three fiscal years ended December 31, 2022: | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | Y"
+   }
+  },
+  "0001193125-22-076024": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312522076024/d272859ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001564590-22-006237",
+   "result": null
+  },
+  "0001193125-21-082803": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312521082803/d38332ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001564590-21-006370",
+   "result": null
+  },
+  "0001193125-20-070330": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312520070330/d879657ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001564590-20-005276",
+   "result": null
+  },
+  "0001193125-19-079326": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312519079326/d684113ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001564590-19-003670",
+   "result": null
+  },
+  "0001193125-18-090395": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312518090395/d554664ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001564590-18-002675",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001564590-23-002203": {
+   "parserVersion": 1,
+   "employees": 31100
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 14972500000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-051678"
+   },
+   "2009": {
+    "revenue": 8086500000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-086978"
+   },
+   "2010": {
+    "revenue": 10292900000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-080215"
+   },
+   "2011": {
+    "revenue": 16355200000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-073103"
+   },
+   "2012": {
+    "revenue": 17050500000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-065702"
+   },
+   "2013": {
+    "revenue": 17123800000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-465258"
+   },
+   "2014": {
+    "revenue": 18997000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-17-050405"
+   },
+   "2015": {
+    "revenue": 19115100000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-18-002675"
+   },
+   "2016": {
+    "revenue": 17033300000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-19-003670"
+   },
+   "2017": {
+    "revenue": 19456400000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-20-005276"
+   },
+   "2018": {
+    "revenue": 23495700000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-21-006370"
+   },
+   "2019": {
+    "revenue": 25599700000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-22-006237"
+   },
+   "2020": {
+    "revenue": 18728500000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001564590-23-002203"
+   },
+   "2021": {
+    "revenue": 23522300000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-24-017900"
+   },
+   "2022": {
+    "revenue": 28819700000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950170-25-023145"
+   },
+   "2023": {
+    "revenue": 35127400000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-057025"
+   },
+   "2024": {
+    "revenue": 33663800000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-057025"
+   },
+   "2025": {
+    "revenue": 28444800000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-26-057025"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-057025",
+    "filingDate": "2026-02-18",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312526057025/pcar-20251231.htm"
+   },
+   {
+    "accession": "0000950170-25-023145",
+    "filingDate": "2025-02-19",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/75362/000095017025023145/pcar-20241231.htm"
+   },
+   {
+    "accession": "0000950170-24-017900",
+    "filingDate": "2024-02-21",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/75362/000095017024017900/pcar-20231231.htm"
+   },
+   {
+    "accession": "0001564590-23-002203",
+    "filingDate": "2023-02-22",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/75362/000156459023002203/pcar-10k_20221231.htm"
+   },
+   {
+    "accession": "0001564590-22-006237",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/75362/000156459022006237/pcar-10k_20211231.htm"
+   },
+   {
+    "accession": "0001564590-21-006370",
+    "filingDate": "2021-02-17",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/75362/000156459021006370/pcar-10k_20201231.htm"
+   },
+   {
+    "accession": "0001564590-20-005276",
+    "filingDate": "2020-02-19",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/75362/000156459020005276/pcar-10k_20191231.htm"
+   },
+   {
+    "accession": "0001564590-19-003670",
+    "filingDate": "2019-02-21",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/75362/000156459019003670/pcar-10k_20181231.htm"
+   },
+   {
+    "accession": "0001564590-18-002675",
+    "filingDate": "2018-02-21",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/75362/000156459018002675/pcar-10k_20171231.htm"
+   },
+   {
+    "accession": "0001193125-17-050405",
+    "filingDate": "2017-02-21",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/75362/000119312517050405/d283100d10k.htm"
+   }
+  ]
+ }
+}

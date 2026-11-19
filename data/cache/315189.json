@@ -1,0 +1,319 @@
+{
+ "proxies": {
+  "0001104659-26-003618": {
+   "parserVersion": 1,
+   "filingDate": "2026-01-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/315189/000110465926003618/de-20260225xdef14a.htm",
+   "periodEnd": "2025-11-02",
+   "tenK": "0001104659-25-122321",
+   "result": {
+    "ceoPay": 27925424,
+    "medianPay": 147019,
+    "payRatio": 190,
+    "method": "cross-checked",
+    "employees": 71423,
+    "statedYear": 2025,
+    "excerpt": "loyee to be a full-time, hourly employee located in the U.S. The annual total compensation was calculated in accordance with the SEC rules applicable to the Summary Compensation Table. The annual total compensation of our employee identified at median using the above methodology for fiscal 2025 was $147,019. Mr. May's annual total compensation as presented in the Fiscal 2025 Summary Compensation Table was $27,925,424. Calculated in this manner, the ratio of the CEO's total compensation to our median employee's total compensation for fiscal 2025 was about 190 to 1. | (1) | | The countries and approximate number of employees excluded from the calculation are as follows: Australia (362), Austria (251), Belgium (32), Bulgaria (18), Denmark (32), Estonia (11), Georgia (7), Hungary (21), Ireland"
+   }
+  },
+  "0001558370-25-000112": {
+   "parserVersion": 1,
+   "filingDate": "2025-01-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/315189/000155837025000112/de-20250226xdef14a.htm",
+   "periodEnd": "2024-10-27",
+   "tenK": "0001558370-24-016169",
+   "result": {
+    "ceoPay": 27801672,
+    "medianPay": 146175,
+    "payRatio": 190,
+    "method": "cross-checked",
+    "employees": 71423,
+    "statedYear": 2024,
+    "excerpt": "loyee to be a full-time, hourly employee located in the U.S. The annual total compensation was calculated in accordance with the SEC rules applicable to the Summary Compensation Table. The annual total compensation of our employee identified at median using the above methodology for fiscal 2024 was $146,175. Mr. May's annual total compensation as presented in the Fiscal 2024 Summary Compensation Table was $27,801,672. Calculated in this manner, the ratio of the CEO's total compensation to our median employee's total compensation for fiscal 2024 was about 190 to 1. | (1) | | The countries and approximate number of employees excluded from the calculation are as follows: Australia (362), Austria (251), Belgium (32), Bulgaria (18), Denmark (32), Estonia (11), Georgia (7), Hungary (21), Ireland"
+   }
+  },
+  "0001558370-24-000170": {
+   "parserVersion": 1,
+   "filingDate": "2024-01-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/315189/000155837024000170/de-20240228xdef14a.htm",
+   "periodEnd": "2023-10-29",
+   "tenK": "0001558370-23-019812",
+   "result": {
+    "ceoPay": 26722519,
+    "medianPay": 94247,
+    "payRatio": 284,
+    "method": "cross-checked",
+    "employees": 74309,
+    "statedYear": 2023,
+    "excerpt": "loyee to be a full-time, hourly employee located in the U.S. The annual total compensation was calculated in accordance with the SEC rules applicable to the Summary Compensation Table. The annual total compensation of our employee identified at median using the above methodology for fiscal 2023 was $94,247. Mr. May's annual total compensation as presented in the Fiscal 2023 Summary Compensation Table was $26,722,519. Calculated in this manner, the ratio of the CEO's total compensation to our median employee's total compensation for fiscal 2023 was about 284 to 1. | (1) | | The countries and approximate number of employees excluded from the calculation are as follows: Australia (365), Austria (26), Belarus (36), Bonaire, Sint Eustatius and Saba (3), Bulgaria (16), Denmark (28), Estonia (11)"
+   }
+  },
+  "0001558370-23-000200": {
+   "parserVersion": 1,
+   "filingDate": "2023-01-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/315189/000155837023000200/tmb-20230222xdef14a.htm",
+   "periodEnd": "2022-10-30",
+   "tenK": "0001558370-22-018703",
+   "result": {
+    "ceoPay": 20300151,
+    "medianPay": 124321,
+    "payRatio": 163,
+    "method": "cross-checked",
+    "employees": 74309,
+    "statedYear": 2022,
+    "excerpt": "methodology, we identified our median employee to be a full-time, hourly employee located in the U.S. The annual total compensation was calculated in accordance with the SEC rules applicable to the Summary Compensation Table. The annual total compensation of our median employee for fiscal 2022 was $124,321. Mr. May's annual total compensation as presented in the Fiscal 2022 Summary Compensation Table was $20,300,151. Calculated in this manner, the ratio of the CEO's total compensation to our median employee's total compensation for fiscal 2022 was about 163 to 1. | (1) | | The countries and approximate number of employees excluded from the calculation are as follows: Australia (365), Austria (26), Belarus (36), Bonaire, Sint Eustatius and Saba (3), Bulgaria (16), Denmark (28), Estonia (11"
+   }
+  },
+  "0001206774-22-000016": {
+   "parserVersion": 1,
+   "filingDate": "2022-01-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/315189/000120677422000016/de3958541-def14a.htm",
+   "periodEnd": "2021-10-31",
+   "tenK": "0001558370-21-016864",
+   "result": {
+    "ceoPay": 19912826,
+    "medianPay": 82240,
+    "payRatio": 242,
+    "method": "cross-checked",
+    "employees": 74309,
+    "statedYear": 2021,
+    "excerpt": "methodology, we identified our median employee to be a full-time, hourly employee located in the U.S. The annual total compensation was calculated in accordance with the SEC rules applicable to the Summary Compensation Table. The annual total compensation of our median employee for fiscal 2021 was $82,240. Mr. May's annual total compensation as presented in the Fiscal 2021 Summary Compensation Table was $19,912,826. Calculated in this manner, the ratio of the CEO's total compensation to our median employee's total compensation for fiscal 2021 was about 242 to 1. | (1) | | The countries and approximate number of employees excluded from the calculation are as follows: Australia (365), Austria (26), Belarus (36), Bonaire, Sint Eustatius and Saba (3), Bulgaria (16), Denmark (28), Estonia (11)"
+   }
+  },
+  "0001206774-21-000055": {
+   "parserVersion": 1,
+   "filingDate": "2021-01-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/315189/000120677421000055/de3809451-def14a.htm",
+   "periodEnd": "2020-11-01",
+   "tenK": "0001558370-20-014436",
+   "result": {
+    "ceoPay": 15588384,
+    "medianPay": 70743,
+    "payRatio": 220,
+    "method": "cross-checked",
+    "employees": 73361,
+    "statedYear": 2020,
+    "excerpt": "methodology, we identified our median employee to be a full-time, hourly employee located in the U.S. The annual total compensation was calculated in accordance with the SEC rules applicable to the Summary Compensation Table. The annual total compensation of our median employee for fiscal 2020 was $70,743. Mr. May's annual total compensation as presented in the Fiscal 2020 Summary Compensation Table was $15,588,384. Calculated in this manner, the ratio of the CEO's total compensation to our median employee's total compensation for fiscal 2020 was about 220 to 1. | (1) | | The countries and approximate number of employees excluded from the calculation are as follows: Austria (29), Belgium (35), Bulgaria (14), Czech Republic (20), Denmark (31), Estonia (10), Georgia (7), Hungary (19), Irela"
+   }
+  },
+  "0001206774-20-000044": {
+   "parserVersion": 1,
+   "filingDate": "2020-01-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/315189/000120677420000044/de3653751-def14a.htm",
+   "periodEnd": "2019-11-03",
+   "tenK": "0001558370-19-011614",
+   "result": {
+    "ceoPay": 21697885,
+    "medianPay": 80267,
+    "payRatio": 270,
+    "method": "cross-checked",
+    "employees": 73361,
+    "statedYear": 2019,
+    "excerpt": "methodology, we identified our median employee to be a full-time, hourly employee located in the U.S. The annual total compensation was calculated in accordance with the SEC rules applicable to the Summary Compensation Table. The annual total compensation of our median employee for fiscal 2019 was $80,267. Mr. Allen's annual total compensation as presented in the Fiscal 2019 Summary Compensation Table was $21,697,885. Calculated in this manner, the ratio of the CEO's total compensation to our median employee's total compensation for fiscal 2019 was about 270 to 1. | (1) | | The countries and approximate number of employees excluded from the calculation are as follows: Austria (29), Belgium (35), Bulgaria (14), Czech Republic (20), Denmark (31), Estonia (10), Georgia (7), Hungary (19), Ire"
+   }
+  },
+  "0001206774-19-000056": {
+   "parserVersion": 1,
+   "filingDate": "2019-01-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/315189/000120677419000056/de3476111-def14a.htm",
+   "periodEnd": "2018-10-28",
+   "tenK": "0001047469-18-007694",
+   "result": {
+    "ceoPay": 18525667,
+    "medianPay": 76083,
+    "payRatio": 243,
+    "method": "cross-checked",
+    "employees": 73361,
+    "statedYear": 2018,
+    "excerpt": "rate. Using this methodology, we identified our median employee to be a full-time, hourly employee located in the U.S. The annual total compensation was calculated in accordance with the SEC rules applicable to the Summary Compensation Table. The annual total compensation of our median employee was $76,083. Mr. Allen's annual total compensation as presented in the Fiscal 2018 Summary Compensation Table was $18,525,667. Calculated in this manner, the ratio of the CEO's total compensation to our median employee's total compensation for fiscal 2018 was about 243 to 1. | 70 | | DEERE & COMPANY | | 2019 PROXY STATEMENT | Table of Contents Advisory Vote on Executive Compensation Equity Compensation Plan Information | Equity Compensation Plan Information | The following table shows the total numb"
+   }
+  },
+  "0001206774-18-000081": {
+   "parserVersion": 1,
+   "filingDate": "2018-01-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/315189/000120677418000081/deere3307111-def14a.htm",
+   "periodEnd": "2017-10-29",
+   "tenK": "0001047469-17-007719",
+   "result": null
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 24082200000,
+    "periodEnd": "2007-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-09-070344"
+   },
+   "2008": {
+    "revenue": 28437600000,
+    "periodEnd": "2008-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-10-063219"
+   },
+   "2009": {
+    "revenue": 23112400000,
+    "periodEnd": "2009-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-11-070023"
+   },
+   "2010": {
+    "revenue": 26004600000,
+    "periodEnd": "2010-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-12-084558"
+   },
+   "2011": {
+    "revenue": 32012500000,
+    "periodEnd": "2011-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-13-090354"
+   },
+   "2012": {
+    "revenue": 36157100000,
+    "periodEnd": "2012-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-14-087794"
+   },
+   "2013": {
+    "revenue": 37795400000,
+    "periodEnd": "2013-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-16-009947"
+   },
+   "2014": {
+    "revenue": 36066900000,
+    "periodEnd": "2014-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-16-017244"
+   },
+   "2015": {
+    "revenue": 28862800000,
+    "periodEnd": "2015-11-01",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-17-007719"
+   },
+   "2016": {
+    "revenue": 26644000000,
+    "periodEnd": "2016-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-16-017244"
+   },
+   "2017": {
+    "revenue": 29738000000,
+    "periodEnd": "2017-10-29",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-19-011614"
+   },
+   "2018": {
+    "revenue": 37358000000,
+    "periodEnd": "2018-10-28",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-20-014436"
+   },
+   "2019": {
+    "revenue": 39258000000,
+    "periodEnd": "2019-11-03",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-21-016864"
+   },
+   "2020": {
+    "revenue": 35540000000,
+    "periodEnd": "2020-11-01",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-22-018703"
+   },
+   "2021": {
+    "revenue": 44024000000,
+    "periodEnd": "2021-10-31",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-23-019812"
+   },
+   "2022": {
+    "revenue": 52577000000,
+    "periodEnd": "2022-10-30",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-24-016169"
+   },
+   "2023": {
+    "revenue": 61251000000,
+    "periodEnd": "2023-10-29",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-25-122321"
+   },
+   "2024": {
+    "revenue": 51716000000,
+    "periodEnd": "2024-10-27",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-25-122321"
+   },
+   "2025": {
+    "revenue": 45684000000,
+    "periodEnd": "2025-11-02",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-25-122321"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001104659-25-122321",
+    "filingDate": "2025-12-18",
+    "reportDate": "2025-11-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/315189/000110465925122321/de-20251102x10k.htm"
+   },
+   {
+    "accession": "0001558370-24-016169",
+    "filingDate": "2024-12-12",
+    "reportDate": "2024-10-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/315189/000155837024016169/de-20241027x10k.htm"
+   },
+   {
+    "accession": "0001558370-23-019812",
+    "filingDate": "2023-12-15",
+    "reportDate": "2023-10-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/315189/000155837023019812/de-20231029x10k.htm"
+   },
+   {
+    "accession": "0001558370-22-018703",
+    "filingDate": "2022-12-15",
+    "reportDate": "2022-10-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/315189/000155837022018703/de-20221030x10k.htm"
+   },
+   {
+    "accession": "0001558370-21-016864",
+    "filingDate": "2021-12-16",
+    "reportDate": "2021-10-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/315189/000155837021016864/de-20211031x10k.htm"
+   },
+   {
+    "accession": "0001558370-20-014436",
+    "filingDate": "2020-12-17",
+    "reportDate": "2020-11-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/315189/000155837020014436/de-20201101x10k.htm"
+   },
+   {
+    "accession": "0001558370-19-011614",
+    "filingDate": "2019-12-19",
+    "reportDate": "2019-11-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/315189/000155837019011614/de-20191103x10k.htm"
+   },
+   {
+    "accession": "0001047469-18-007694",
+    "filingDate": "2018-12-17",
+    "reportDate": "2018-10-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/315189/000104746918007694/a2236950z10-k.htm"
+   },
+   {
+    "accession": "0001047469-17-007719",
+    "filingDate": "2017-12-18",
+    "reportDate": "2017-10-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/315189/000104746917007719/a2233505z10-k.htm"
+   }
+  ]
+ }
+}

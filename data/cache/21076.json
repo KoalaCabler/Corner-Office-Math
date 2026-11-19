@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001552781-26-000516": {
+   "parserVersion": 1,
+   "filingDate": "2026-10-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000155278126000516/e26316_clx-def14a.htm",
+   "periodEnd": "2026-06-30",
+   "tenK": "0000021076-26-000034",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 83267,
+    "payRatio": 168,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "total compensation of our median compensated employee. We calculated annual total compensation for that employee using the same methodology we use for our NEOs as set forth in the Summary Compensation Table in this proxy statement. | • | | Total compensation for our median compensated employee was $83,267. | | • | | Our PEO to median compensated employee pay ratio is 168:1. | The pay ratio reported here is a reasonable estimate calculated in a manner consistent with SEC rules. As permitted under SEC rules, we are using the same median employee as disclosed in fiscal year 2025 to calculate our fiscal year 2026 PEO pay ratio. Omitting approximately 1,700 employees added to our total population due to the GOJO acquisition effective in the last quarter of fiscal year 2026, we believe there ha"
+   }
+  },
+  "0001552781-25-000311": {
+   "parserVersion": 1,
+   "filingDate": "2025-10-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000155278125000311/e25287_clx-def14a.htm",
+   "periodEnd": "2025-06-30",
+   "tenK": "0000021076-25-000039",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 79721,
+    "payRatio": 167,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "total compensation of our median compensated employee. We calculated annual total compensation for that employee using the same methodology we use for our NEOs as set forth in the Summary Compensation Table in this proxy statement. | • | | Total compensation for our median compensated employee was $79,721. | | • | | Our PEO to median compensated employee pay ratio is 167:1. | The pay ratio reported here is a reasonable estimate calculated in a manner consistent with SEC rules. To identify our median compensated employee for purposes of this disclosure, we first determined the pool of all individuals employed by us, other than the PEO, on June 30, 2025. Subsequently, we reviewed the total cash compensation earned by each such individual during fiscal year 2025. All employees (full-time, pa"
+   }
+  },
+  "0001552781-24-000563": {
+   "parserVersion": 1,
+   "filingDate": "2024-10-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000155278124000563/e24323_clx-def14a.htm",
+   "periodEnd": "2024-06-30",
+   "tenK": "0000021076-24-000030",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 71787,
+    "payRatio": 177,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "total compensation of our median compensated employee. We calculated annual total compensation for that employee using the same methodology we use for our NEOs as set forth in the Summary Compensation Table in this proxy statement. | • | | Total compensation for our median compensated employee was $71,787. | | • | | Our PEO to median compensated employee pay ratio is 177:1. | The pay ratio reported here is a reasonable estimate calculated in a manner consistent with SEC rules. We believe there has been no change to our employee population and compensation arrangements, or the circumstances of the median compensated employee used in both fiscal year 2022 and fiscal year 2023, that would result in a significant change to our pay ratio disclosure. Accordingly, as permitted under SEC rules, w"
+   }
+  },
+  "0001206774-23-001178": {
+   "parserVersion": 1,
+   "filingDate": "2023-10-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677423001178/clx4223771-def14a.htm",
+   "periodEnd": "2023-06-30",
+   "tenK": "0000021076-23-000037",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 72682,
+    "payRatio": 160,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "al compensation of our median compensated employee. We calculated annual total compensation for that employee using the same methodology we use for our NEOs as set forth in the Summary Compensation Table in this proxy statement. | | | • | | Total compensation for our median compensated employee was $72,682. | | | | • | | Our PEO to median compensated employee pay ratio is 160:1. | The pay ratio reported here is a reasonable estimate calculated in a manner consistent with SEC rules. We believe there has been no change to our employee population and compensation arrangements, or the circumstances of the median compensated employee used in fiscal year 2022, that would result in a significant change to our pay ratio disclosure. Accordingly, as permitted under SEC rules, we are using the same m"
+   }
+  },
+  "0001206774-22-002489": {
+   "parserVersion": 1,
+   "filingDate": "2022-10-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677422002489/clorox4080221-def14a.htm",
+   "periodEnd": "2022-06-30",
+   "tenK": "0000021076-22-000026",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 63866,
+    "payRatio": 134,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "total compensation of our median compensated employee. We calculated annual total compensation for that employee using the same methodology we use for our NEOs as set forth in the Summary Compensation Table in this proxy statement. | ● | | Total compensation for our median compensated employee was $63,866. | | ● | | Our CEO to median compensated employee pay ratio is 134:1. | The pay ratio reported here is a reasonable estimate calculated in a manner consistent with SEC rules. To identify our median compensated employee for purposes of this disclosure, we first determined the pool of all individuals employed by us, other than the CEO, on June 30 , 2022. Subsequently, we reviewed the total cash compensation earned by each such individual during fiscal year 2022. All employees (full-time, p"
+   }
+  },
+  "0001206774-21-002562": {
+   "parserVersion": 1,
+   "filingDate": "2021-10-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677421002562/clorox3957551-def14a.htm",
+   "periodEnd": "2021-06-30",
+   "tenK": "0000021076-21-000016",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 69365,
+    "payRatio": 114,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "o the annual total compensation of our median compensated employee. We calculated annual total compensation for that employee using the same methodology we use for our NEOs as set forth in the Summary Compensation Table in this proxy statement. | ● | | Total compensation for our median employee was $69,365. | | ● | | Our CEO to median employee pay ratio is 114:1. | The pay ratio reported here is a reasonable estimate calculated in a manner consistent with SEC rules. To identify our median employee for purposes of this disclosure, we first determined the pool of all individuals employed by us, other than the CEO, on June 20, 2019, and reviewed total cash compensation earned by each such individual during fiscal year 2019. We did not make any assumptions, adjustments, or estimates with respe"
+   }
+  },
+  "0001206774-20-002845": {
+   "parserVersion": 1,
+   "filingDate": "2020-10-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677420002845/clorox3806961-def14a.htm",
+   "periodEnd": "2020-06-30",
+   "tenK": "0000021076-20-000016",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 75157,
+    "payRatio": 165,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "compensation utilizing data as of June 30, 2020. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table in this proxy statement. | ● | | Total compensation for our median employee is $75,157. | | ● | | Our CEO to median employee pay ratio is 165:1. | The pay ratio reported here is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. The SEC's rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable"
+   }
+  },
+  "0001206774-19-003343": {
+   "parserVersion": 1,
+   "filingDate": "2019-10-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677419003343/clorox3644521-def14a.htm",
+   "periodEnd": "2019-06-30",
+   "tenK": "0000021076-19-000012",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 68441,
+    "payRatio": 137,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "edian employee based on total cash compensation, we calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table in this proxy statement. | ● | | Total compensation for our median employee is $68,441. | | ● | | Our CEO to median employee pay ratio is 137:1. | The pay ratio reported here is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. The SEC's rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable"
+   }
+  },
+  "0001206774-18-002874": {
+   "parserVersion": 1,
+   "filingDate": "2018-10-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677418002874/clorox3458181-def14a.htm",
+   "periodEnd": "2018-06-30",
+   "tenK": "0000021076-18-000011",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 61372,
+    "payRatio": 133,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "he median employee based on total cash compensation, we calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the Summary Compensation Table in this proxy statement. The total compensation for our median employee is $61,372. Our CEO to median employee pay ratio is 133:1. The pay ratio reported here is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described above. The SEC's rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates a"
+   }
+  }
+ },
+ "tenKs": {
+  "0000021076-18-000011": {
+   "parserVersion": 1,
+   "employees": 8700
+  },
+  "0000021076-19-000012": {
+   "parserVersion": 1,
+   "employees": 8800
+  },
+  "0000021076-20-000016": {
+   "parserVersion": 1,
+   "employees": 8800
+  },
+  "0000021076-21-000016": {
+   "parserVersion": 1,
+   "employees": 9000
+  },
+  "0000021076-22-000026": {
+   "parserVersion": 1,
+   "employees": 9000
+  },
+  "0000021076-23-000037": {
+   "parserVersion": 1,
+   "employees": 8700
+  },
+  "0000021076-24-000030": {
+   "parserVersion": 1,
+   "employees": 8000
+  },
+  "0000021076-25-000039": {
+   "parserVersion": 1,
+   "employees": 7600
+  },
+  "0000021076-26-000034": {
+   "parserVersion": 1,
+   "employees": 9200
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 5273000000,
+    "periodEnd": "2008-06-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001206774-10-001891"
+   },
+   "2009": {
+    "revenue": 5158000000,
+    "periodEnd": "2009-06-30",
+    "revenueTag": "SalesRevenueGoodsNet",
+    "accession": "0001206774-11-001954"
+   },
+   "2010": {
+    "revenue": 5234000000,
+    "periodEnd": "2010-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001206774-12-003688"
+   },
+   "2011": {
+    "revenue": 5231000000,
+    "periodEnd": "2011-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001206774-13-003034"
+   },
+   "2012": {
+    "revenue": 5468000000,
+    "periodEnd": "2012-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001206774-13-003034"
+   },
+   "2013": {
+    "revenue": 5623000000,
+    "periodEnd": "2013-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001206774-13-003034"
+   },
+   "2014": {
+    "revenue": 5514000000,
+    "periodEnd": "2014-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000021076-18-000011"
+   },
+   "2015": {
+    "revenue": 5655000000,
+    "periodEnd": "2015-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000021076-19-000012"
+   },
+   "2016": {
+    "revenue": 5761000000,
+    "periodEnd": "2016-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000021076-20-000016"
+   },
+   "2017": {
+    "revenue": 5973000000,
+    "periodEnd": "2017-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000021076-21-000016"
+   },
+   "2018": {
+    "revenue": 6124000000,
+    "periodEnd": "2018-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000021076-21-000016"
+   },
+   "2019": {
+    "revenue": 6214000000,
+    "periodEnd": "2019-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000021076-21-000016"
+   },
+   "2020": {
+    "revenue": 6721000000,
+    "periodEnd": "2020-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000021076-22-000026"
+   },
+   "2021": {
+    "revenue": 7341000000,
+    "periodEnd": "2021-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000021076-23-000037"
+   },
+   "2022": {
+    "revenue": 7107000000,
+    "periodEnd": "2022-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000021076-24-000030"
+   },
+   "2023": {
+    "revenue": 7389000000,
+    "periodEnd": "2023-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000021076-25-000039"
+   },
+   "2024": {
+    "revenue": 7093000000,
+    "periodEnd": "2024-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000021076-25-000039"
+   },
+   "2025": {
+    "revenue": 7104000000,
+    "periodEnd": "2025-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000021076-25-000039"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 8534808,
+   "2023": 11649650,
+   "2024": 12685308,
+   "2025": 13333032,
+   "2026": 14000460
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000021076-26-000034",
+    "filingDate": "2026-08-07",
+    "reportDate": "2026-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107626000034/clx-20260630.htm"
+   },
+   {
+    "accession": "0000021076-25-000039",
+    "filingDate": "2025-08-08",
+    "reportDate": "2025-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107625000039/clx-20250630.htm"
+   },
+   {
+    "accession": "0000021076-24-000030",
+    "filingDate": "2024-08-08",
+    "reportDate": "2024-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107624000030/clx-20240630.htm"
+   },
+   {
+    "accession": "0000021076-23-000037",
+    "filingDate": "2023-08-10",
+    "reportDate": "2023-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107623000037/clx-20230630.htm"
+   },
+   {
+    "accession": "0000021076-22-000026",
+    "filingDate": "2022-08-10",
+    "reportDate": "2022-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107622000026/clx-20220630.htm"
+   },
+   {
+    "accession": "0000021076-21-000016",
+    "filingDate": "2021-08-10",
+    "reportDate": "2021-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107621000016/clx-20210630.htm"
+   },
+   {
+    "accession": "0000021076-20-000016",
+    "filingDate": "2020-08-13",
+    "reportDate": "2020-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107620000016/clx-20200630.htm"
+   },
+   {
+    "accession": "0000021076-19-000012",
+    "filingDate": "2019-08-14",
+    "reportDate": "2019-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107619000012/fy19clx10k.htm"
+   },
+   {
+    "accession": "0000021076-18-000011",
+    "filingDate": "2018-08-14",
+    "reportDate": "2018-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/21076/000002107618000011/fy18clx10k.htm"
+   },
+   {
+    "accession": "0001628280-17-008700",
+    "filingDate": "2017-08-15",
+    "reportDate": "2017-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/21076/000162828017008700/fy17clx10k.htm"
+   }
+  ]
+ }
+}

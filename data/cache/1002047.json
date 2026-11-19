@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001193125-26-321210": {
+   "parserVersion": 1,
+   "filingDate": "2026-07-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526321210/ntap-20260727.htm",
+   "periodEnd": "2026-04-24",
+   "tenK": "0001193125-26-259683",
+   "result": {
+    "ceoPay": 22157635,
+    "medianPay": 136143,
+    "payRatio": 163,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "up to a maximum of six months of annual base salary. For purposes of this table, it is assumed that Mr. Cernuda has signed the release of claims. 68 Pay R atio We determined, based on reasonable estimates, that the median of the annual total compensation of all of our employees, except our CEO, was $136,143 for fiscal 2026. Our CEO's annual total compensation was $22,157,635 as shown in the Summary Compensation Table. Accordingly, for fiscal 2026, our reasonable estimate of the ratio of the annual total compensation of our CEO to the median of the annual total compensation of all of our other employees is 163:1. We determined our median employee from the global Company employee population (except the CEO) as of April 24, 2026 using earned annual base salary and earned base wages as well as"
+   }
+  },
+  "0000950170-25-098850": {
+   "parserVersion": 1,
+   "filingDate": "2025-07-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017025098850/ntap-20250725.htm",
+   "periodEnd": "2025-04-25",
+   "tenK": "0000950170-25-083705",
+   "result": {
+    "ceoPay": 23127224,
+    "medianPay": 160622,
+    "payRatio": 144,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "living adjustments. The median employee's annual total compensation for fiscal 2025 as of April 25, 2025 is calculated in the same manner that we calculate our CEO's total compensation as shown in the Summary Compensation Table. We determined that the median employee's annual total compensation was $160,622. In fiscal 2025, our CEO's annual total compensation was $23,127,224 as shown in the Summary Compensation Table. The fiscal 2025 ratio of our CEO's annual total compensation to that of our median employee is 144 : 1. NetApp believes that its methodology, which is consistent with the requirements of the SEC, yielded a reasonable estimate of the pay ratio. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total comp"
+   }
+  },
+  "0000950170-24-086897": {
+   "parserVersion": 1,
+   "filingDate": "2024-07-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017024086897/ntap-20240726.htm",
+   "periodEnd": "2024-04-26",
+   "tenK": "0000950170-24-071327",
+   "result": {
+    "ceoPay": 17741459,
+    "medianPay": 140410,
+    "payRatio": 126,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "living adjustments. The median employee's annual total compensation for fiscal 2024 as of April 26, 2024 is calculated in the same manner that we calculate our CEO's total compensation as shown in the Summary Compensation Table. We determined that the median employee's annual total compensation was $140,410. In fiscal 2024, our CEO's annual total compensation was $17,741,459 as shown in the Summary Compensation Table. The fiscal 2024 ratio of our CEO's annual total compensation to that of our median employee is 126 : 1. NetApp believes that its methodology, which is consistent with the requirements of the SEC, yielded a reasonable estimate of the pay ratio. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total comp"
+   }
+  },
+  "0001308179-23-000928": {
+   "parserVersion": 1,
+   "filingDate": "2023-07-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000130817923000928/ntap4201481-def14a.htm",
+   "periodEnd": "2023-04-28",
+   "tenK": "0000950170-23-027948",
+   "result": {
+    "ceoPay": 11370423,
+    "medianPay": 154521,
+    "payRatio": 74,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "living adjustments. The median employee's annual total compensation for fiscal 2023 as of April 26, 2023 is calculated in the same manner that we calculate our CEO's total compensation as shown in the Summary Compensation Table. We determined that the median employee's annual total compensation was $154,521. In fiscal 2023, our CEO's annual total compensation was $11,370,423 as shown in the Summary Compensation Table. The fiscal 2023 ratio of our CEO's annual total compensation to that of our median employee is 74:1. NetApp believes that its methodology, which is consistent with the requirements of the SEC, yielded a reasonable estimate of the pay ratio. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compens"
+   }
+  },
+  "0001206774-22-001845": {
+   "parserVersion": 1,
+   "filingDate": "2022-07-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000120677422001845/ntap3995021-def14a.htm",
+   "periodEnd": "2022-04-29",
+   "tenK": "0000950170-22-011708",
+   "result": {
+    "ceoPay": 18883551,
+    "medianPay": 206477,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ur 2022 disclosure. The median employee's annual total compensation for fiscal 2022 as of April 30, 2022 is calculated in the same manner that we calculate our CEO's total compensation as shown in the Summary Compensation Table. We determined that the median employee's annual total compensation was $206,477. In fiscal 2022, our CEO's annual total compensation was $18,883,551 as shown in the Summary Compensation Table. The fiscal 2022 ratio of our CEO's annual total compensation to that of our median employee is 91:1. NetApp believes that its methodology, which is consistent with the requirements of the SEC, yielded a reasonable estimate of the pay ratio. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compens"
+   }
+  },
+  "0001206774-21-001923": {
+   "parserVersion": 1,
+   "filingDate": "2021-07-30",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000120677421001923/ntap3895321-def14a.htm",
+   "periodEnd": "2021-04-30",
+   "tenK": "0001564590-21-033645",
+   "result": {
+    "ceoPay": 14358852,
+    "medianPay": 188438,
+    "payRatio": 76,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "he median employee and calculated the median employee's annual total compensation for fiscal 2021 as of April 30, 2021 in the same manner that we calculate our CEO's total compensation as shown in the Summary Compensation Table. We determined that the median employee's annual total compensation was $188,438. In fiscal 2021, our CEO's annual total compensation was $14,358,852 as shown in the Summary Compensation Table. The fiscal 2021 ratio of our CEO's annual total compensation to that of our median employee is 76:1. | 2021 Proxy Statement | | 63 | Table of Contents | Executive Compensation | NetApp believes that its methodology, which is consistent with the requirements of the SEC, yielded a reasonable estimate of the pay ratio. The SEC rules for identifying the median compensated employe"
+   }
+  },
+  "0001564590-20-035170": {
+   "parserVersion": 1,
+   "filingDate": "2020-07-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000156459020035170/ntap-def14a_20200910.htm",
+   "periodEnd": "2020-04-24",
+   "tenK": "0001564590-20-029349",
+   "result": {
+    "ceoPay": 9491209,
+    "medianPay": 185046,
+    "payRatio": 52,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "y ratio disclosure, we calculated the median employee's annual total compensation for fiscal 2020 as of April 24, 2020 in the same manner that we calculate our CEO's total compensation as shown in the Summary Compensation Table. We determined that the median employee's annual total compensation was $185,046. In fiscal 2020, our CEO's annual total compensation was $9,491,209 as shown in the Summary Compensation Table. The fiscal 2020 ratio of our CEO's annual total compensation to that of our median employee is 52:1. NetApp believes that its methodology, which is consistent with the requirements of the SEC, yielded a reasonable estimate of the pay ratio. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensa"
+   }
+  },
+  "0001564590-19-028427": {
+   "parserVersion": 1,
+   "filingDate": "2019-08-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000156459019028427/ntap-def14a_20190912.htm",
+   "periodEnd": "2019-04-26",
+   "tenK": "0001564590-19-022779",
+   "result": {
+    "ceoPay": 13164969,
+    "medianPay": 198620,
+    "payRatio": 67,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "y ratio disclosure, we calculated the median employee's annual total compensation for fiscal 2019 as of April 26, 2019 in the same manner that we calculate our CEO's total compensation as shown in the Summary Compensation Table. We determined that the median employee's annual total compensation was $198,620. Our CEO's annual total compensation was $13,164,969 as shown in the Summary Compensation Table. The fiscal 2019 ratio of our CEO's annual total compensation to that of our median employee is 67:1. NetApp believes that its methodology, which is consistent with the requirements of the SEC, yielded a reasonable estimate of the pay ratio. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow comp"
+   }
+  },
+  "0001193125-18-234919": {
+   "parserVersion": 1,
+   "filingDate": "2018-08-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312518234919/d502295ddef14a.htm",
+   "periodEnd": "2018-04-27",
+   "tenK": "0001564590-18-015820",
+   "result": {
+    "ceoPay": 12859367,
+    "medianPay": 157467,
+    "payRatio": 82,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "median employee, we calculated the median employees annual total compensation for fiscal 2018 as of April 27,2018 in the same manner that we calculate our CEOs total compensation as shown 60 in the Summary Compensation Table. We determined that the median employees annual total compensation was $157,467. Our CEOs annual total compensation was $12,859,367 as shown in the Summary Compensation Table. The fiscal 2018 ratio of our CEOs annual total compensation to that of our median employee is 82:1. NetApp believes that its methodology, which is consistent with the requirements of the SEC, yielded a reasonable estimate of the pay ratio. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation allow comp"
+   }
+  }
+ },
+ "tenKs": {
+  "0001564590-18-015820": {
+   "parserVersion": 1,
+   "employees": 10300
+  },
+  "0001564590-19-022779": {
+   "parserVersion": 1,
+   "employees": 10500
+  },
+  "0001564590-20-029349": {
+   "parserVersion": 1,
+   "employees": 10800
+  },
+  "0001564590-21-033645": {
+   "parserVersion": 1,
+   "employees": 11000
+  },
+  "0000950170-22-011708": {
+   "parserVersion": 1,
+   "employees": 12000
+  },
+  "0000950170-23-027948": {
+   "parserVersion": 1,
+   "employees": 12000
+  },
+  "0000950170-24-071327": {
+   "parserVersion": 1,
+   "employees": 11800
+  },
+  "0000950170-25-083705": {
+   "parserVersion": 1,
+   "employees": 11700
+  },
+  "0001193125-26-259683": {
+   "parserVersion": 1,
+   "employees": 11700
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 3406400000,
+    "periodEnd": "2009-04-24",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-171858"
+   },
+   "2010": {
+    "revenue": 3931400000,
+    "periodEnd": "2010-04-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-275547"
+   },
+   "2011": {
+    "revenue": 5122600000,
+    "periodEnd": "2011-04-29",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-275547"
+   },
+   "2012": {
+    "revenue": 6233200000,
+    "periodEnd": "2012-04-27",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-275547"
+   },
+   "2013": {
+    "revenue": 6332400000,
+    "periodEnd": "2013-04-26",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-15-005051"
+   },
+   "2014": {
+    "revenue": 6325000000,
+    "periodEnd": "2014-04-25",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-16-020754"
+   },
+   "2015": {
+    "revenue": 6123000000,
+    "periodEnd": "2015-04-24",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-17-012758"
+   },
+   "2016": {
+    "revenue": 5546000000,
+    "periodEnd": "2016-04-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-18-015820"
+   },
+   "2017": {
+    "revenue": 5519000000,
+    "periodEnd": "2017-04-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001564590-18-015820"
+   },
+   "2018": {
+    "revenue": 5919000000,
+    "periodEnd": "2018-04-27",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-20-029349"
+   },
+   "2019": {
+    "revenue": 6146000000,
+    "periodEnd": "2019-04-26",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001564590-21-033645"
+   },
+   "2020": {
+    "revenue": 5412000000,
+    "periodEnd": "2020-04-24",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-22-011708"
+   },
+   "2021": {
+    "revenue": 5744000000,
+    "periodEnd": "2021-04-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-23-027948"
+   },
+   "2022": {
+    "revenue": 6318000000,
+    "periodEnd": "2022-04-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-24-071327"
+   },
+   "2023": {
+    "revenue": 6362000000,
+    "periodEnd": "2023-04-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000950170-25-083705"
+   },
+   "2024": {
+    "revenue": 6268000000,
+    "periodEnd": "2024-04-26",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-259683"
+   },
+   "2025": {
+    "revenue": 6572000000,
+    "periodEnd": "2025-04-25",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-259683"
+   },
+   "2026": {
+    "revenue": 6925000000,
+    "periodEnd": "2026-04-24",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001193125-26-259683"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 18883551,
+   "2023": 11364543,
+   "2024": 17735436,
+   "2025": 23127224,
+   "2026": 22157635
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001193125-26-259683",
+    "filingDate": "2026-06-05",
+    "reportDate": "2026-04-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526259683/ntap-20260424.htm"
+   },
+   {
+    "accession": "0000950170-25-083705",
+    "filingDate": "2025-06-09",
+    "reportDate": "2025-04-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017025083705/ntap-20250425.htm"
+   },
+   {
+    "accession": "0000950170-24-071327",
+    "filingDate": "2024-06-10",
+    "reportDate": "2024-04-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017024071327/ntap-20240426.htm"
+   },
+   {
+    "accession": "0000950170-23-027948",
+    "filingDate": "2023-06-14",
+    "reportDate": "2023-04-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017023027948/ntap-20230428.htm"
+   },
+   {
+    "accession": "0000950170-22-011708",
+    "filingDate": "2022-06-16",
+    "reportDate": "2022-04-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017022011708/ntap-20220429.htm"
+   },
+   {
+    "accession": "0001564590-21-033645",
+    "filingDate": "2021-06-21",
+    "reportDate": "2021-04-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000156459021033645/ntap-10k_20210430.htm"
+   },
+   {
+    "accession": "0001564590-20-029349",
+    "filingDate": "2020-06-15",
+    "reportDate": "2020-04-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000156459020029349/ntap-10k_20200424.htm"
+   },
+   {
+    "accession": "0001564590-19-022779",
+    "filingDate": "2019-06-18",
+    "reportDate": "2019-04-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000156459019022779/ntap-10k_20190426.htm"
+   },
+   {
+    "accession": "0001564590-18-015820",
+    "filingDate": "2018-06-19",
+    "reportDate": "2018-04-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000156459018015820/ntap-10k_20180427.htm"
+   },
+   {
+    "accession": "0001564590-17-012758",
+    "filingDate": "2017-06-20",
+    "reportDate": "2017-04-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000156459017012758/ntap-10k_20170428.htm"
+   }
+  ]
+ }
+}

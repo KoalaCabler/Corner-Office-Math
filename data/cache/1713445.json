@@ -1,0 +1,83 @@
+{
+ "proxies": {
+  "0001713445-26-000060": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713445/000171344526000060/rddt-20260423.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001713445-26-000022",
+   "result": {
+    "ceoPay": 3101009,
+    "medianPay": 274953,
+    "payRatio": 11.3,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "the same industry, but rather to allow stockholders to better understand and assess each particular company's compensation practices and pay ratio disclosures. For 2025, our Chief Executive Officer was Mr. Huffman. His total compensation for 2025, as reported in the Summary Compensation Table, was $3,101,009. The 2025 total compensation for our median employee was $274,953. Based on these amounts, our resulting CEO pay ratio for 2025 was approximately 11.3:1. | | | | | | | | | | Reddit, Inc. | | 42 | | 2026 Proxy Statement | | | | | | | | | | | Table of Contents | | | E xecutive Compensation | To identify our median employee, we considered all individuals employed by the Company worldwide (including our consolidated subsidiaries) as of December 31, 2025 (the \"Determination Date\"), excludi"
+   }
+  },
+  "0001713445-25-000092": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1713445/000171344525000092/rddt-20250428.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001713445-25-000018",
+   "result": null
+  }
+ },
+ "tenKs": {
+  "0001713445-26-000022": {
+   "parserVersion": 1,
+   "employees": 2555
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2022": {
+    "revenue": 666701000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001713445-25-000018"
+   },
+   "2023": {
+    "revenue": 804029000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001713445-26-000022"
+   },
+   "2024": {
+    "revenue": 1300205000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001713445-26-000022"
+   },
+   "2025": {
+    "revenue": 2202506000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001713445-26-000022"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2024": 2613869,
+   "2025": 3101009
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001713445-26-000022",
+    "filingDate": "2026-02-06",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1713445/000171344526000022/rddt-20251231.htm"
+   },
+   {
+    "accession": "0001713445-25-000018",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1713445/000171344525000018/rddt-20241231.htm"
+   }
+  ]
+ }
+}

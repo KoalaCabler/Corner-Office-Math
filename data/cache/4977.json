@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001628280-26-019621": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026019621/afl-20260319.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-011402",
+   "result": {
+    "ceoPay": 25033687,
+    "medianPay": 63153,
+    "payRatio": 396,
+    "method": "cross-checked",
+    "employees": 12856,
+    "statedYear": 2025,
+    "excerpt": "ion of the individual we have identified as the median employee for this purpose. As determined in accordance with applicable SEC rules, for 2025, the last completed fiscal year: • The annual total compensation of the CEO, as reported in the 2025 Summary Compensation Table included on page 59 , was $25,033,687; and • The annual total compensation of the median employee determined on this same basis was $63,153. | | | | | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all employees is 396 to 1. | | To identify the annual total compensation of the median employee, the Company first determined the compensation for all the Company's employees other than the CEO as of December 31, 2025, takin"
+   }
+  },
+  "0000004977-25-000059": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497725000059/afl-20250319.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000004977-25-000047",
+   "result": {
+    "ceoPay": 19268254,
+    "medianPay": 70367,
+    "payRatio": 274,
+    "method": "cross-checked",
+    "employees": 12735,
+    "statedYear": 2024,
+    "excerpt": "ion of the individual we have identified as the median employee for this purpose. As determined in accordance with applicable SEC rules, for 2024, the last completed fiscal year: • The annual total compensation of the CEO, as reported in the 2024 Summary Compensation Table included on page 60 , was $19,268,254; and • The annual total compensation of the median employee determined on this same basis was $70,367. | | | | | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all employees is 274 to 1. | | SEC rules permit us to identify our median employee once every three years so long as there has not been a change in our employee population or employee compensation arrangements during the 202"
+   }
+  },
+  "0000004977-24-000068": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497724000068/afl-20240320.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000004977-24-000053",
+   "result": {
+    "ceoPay": 20703253,
+    "medianPay": 63898,
+    "payRatio": 324,
+    "method": "cross-checked",
+    "employees": 12735,
+    "statedYear": 2023,
+    "excerpt": "ion of the individual we have identified as the median employee for this purpose. As determined in accordance with applicable SEC rules, for 2023, the last completed fiscal year: • The annual total compensation of the CEO, as reported in the 2023 Summary Compensation Table included on page 61 , was $20,703,253; and • The annual total compensation of the median employee determined on this same basis was $63,898. | | | | | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all employees is 324 to 1. | | SEC rules permit us to identify our median employee once every three years so long as there has not been a change in our employee population or employee compensation arrangements during the 202"
+   }
+  },
+  "0000004977-23-000079": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497723000079/afl-20230314.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000004977-23-000055",
+   "result": {
+    "ceoPay": 15776291,
+    "medianPay": 57212,
+    "payRatio": 276,
+    "method": "cross-checked",
+    "employees": 12735,
+    "statedYear": 2022,
+    "excerpt": "ion of the individual we have identified as the median employee for this purpose. As determined in accordance with applicable SEC rules, for 2022, the last completed fiscal year: • The annual total compensation of the CEO, as reported in the 2022 Summary Compensation Table included on page 59 , was $15,776,291; and • The annual total compensation of the median employee determined on this same basis was $57,212. | | | | | | | | | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all employees is 276 to 1. | | | To identify the annual total compensation of the median employee, the Company first determined the compensation for all the Company's employees other than the CEO as of December 31, 2"
+   }
+  },
+  "0001206774-22-000746": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/4977/000120677422000746/afl3963471-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000004977-22-000058",
+   "result": {
+    "ceoPay": 15728233,
+    "medianPay": 65458,
+    "payRatio": 240,
+    "method": "cross-checked",
+    "employees": 12311,
+    "statedYear": 2021,
+    "excerpt": "f the individual we have identified as the median employee for this purpose. As determined in accordance with applicable SEC rules, for 2021, the last completed fiscal year: | ● | | The annual total compensation of the CEO, as reported in the 2021 Summary Compensation Table included on page 58, was $15,728,233; and | | ● | | The annual total compensation of the median employee determined on this same basis was $65,458. | | | | | | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all employees is 240 to 1. | SEC rules permit us to identify our median employee once every three years so long as there has not been a change in our employee population or employee compensation arrangements during"
+   }
+  },
+  "0001206774-21-000738": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/4977/000120677421000738/afl3753891-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000004977-21-000047",
+   "result": {
+    "ceoPay": 22613727,
+    "medianPay": 63740,
+    "payRatio": 355,
+    "method": "cross-checked",
+    "employees": 12311,
+    "statedYear": 2020,
+    "excerpt": "of the individual we have identified as the median employee for this purpose. As determined in accordance with applicable SEC rules, for 2020, the last completed fiscal year: | | | The annual total compensation of the CEO, as reported in the 2020 Summary Compensation Table included on page 50, was $22,613,727; and | | | | The annual total compensation of the median employee determined on this same basis was $63,740. | | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all employees is 355 to 1. | | 60 | | Aflac Incorporated | | | | | Table of Contents Executive Compensation SEC rules permit us to identify our median employee once every three years so long as there has not been a change in"
+   }
+  },
+  "0001206774-20-000847": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/4977/000120677420000847/afl3622711-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000004977-20-000044",
+   "result": {
+    "ceoPay": 14108852,
+    "medianPay": 56371,
+    "payRatio": 250,
+    "method": "cross-checked",
+    "employees": 12311,
+    "statedYear": 2019,
+    "excerpt": "f the individual we have identified as the median employee for this purpose. As determined in accordance with applicable SEC rules, for 2019, the last completed fiscal year: | ● | | The annual total compensation of the CEO, as reported in the 2019 Summary Compensation Table included on page 46, was $14,108,852; and | | ● | | The annual total compensation of the median employee determined on this same basis was $56,371. | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all employees is 250 to 1. 56 Aflac Incorporated Table of Contents Executive Compensation To identify the annual total compensation of the median employee, the Company first determined the compensation for all the Company's"
+   }
+  },
+  "0001206774-19-000982": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/4977/000120677419000982/aflac3532291-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000004977-19-000049",
+   "result": {
+    "ceoPay": 17535398,
+    "medianPay": 52756,
+    "payRatio": 332,
+    "method": "cross-checked",
+    "employees": 12372,
+    "statedYear": 2018,
+    "excerpt": "of the individual we have identified as the median employee for this purpose. As determined in accordance with applicable SEC rules, for 2018, the last completed fiscal year: | | | The annual total compensation of the CEO, as reported in the 2018 Summary Compensation Table included on page 50, was $17,535,398; and | | | | The annual total compensation of the median employee determined on this same basis was $52,756. | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all employees is 332 to 1. SEC rules permit us to identify our median employee once every three years so long as there has not been a change in our employee population or employee compensation arrangements during the 2018 fisc"
+   }
+  },
+  "0001206774-18-000917": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/4977/000120677418000917/aflac3393031-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000004977-18-000054",
+   "result": {
+    "ceoPay": 22830984,
+    "medianPay": 76089,
+    "payRatio": 300,
+    "method": "cross-checked",
+    "employees": 12372,
+    "statedYear": 2017,
+    "excerpt": "f the individual we have identified as the median employee for this purpose. As determined in accordance with applicable SEC rules, for 2017, the last completed fiscal year: | ● | | The annual total compensation of the CEO, as reported in the 2017 Summary Compensation Table included on page 47, was $22,830,984; and | | | | | | ● | | The annual total compensation of the median employee determined on this same basis was $76,089. | | Based on this information, the ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all employees is 300 to 1. | To identify the annual total compensation of the median employee, the Company first determined the compensation for all the Company's employees other than the CEO as of December 31, 201"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 15393000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-043173"
+   },
+   "2008": {
+    "revenue": 16554000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-047639"
+   },
+   "2009": {
+    "revenue": 18254000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-081967"
+   },
+   "2010": {
+    "revenue": 20732000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-13-000030"
+   },
+   "2011": {
+    "revenue": 22171000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-14-000052"
+   },
+   "2012": {
+    "revenue": 25364000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-15-000071"
+   },
+   "2013": {
+    "revenue": 23939000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-16-000259"
+   },
+   "2014": {
+    "revenue": 22728000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-17-000064"
+   },
+   "2015": {
+    "revenue": 20872000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-18-000054"
+   },
+   "2016": {
+    "revenue": 22559000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-19-000049"
+   },
+   "2017": {
+    "revenue": 21667000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-20-000044"
+   },
+   "2018": {
+    "revenue": 21758000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-21-000047"
+   },
+   "2019": {
+    "revenue": 22307000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-22-000058"
+   },
+   "2020": {
+    "revenue": 22147000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-23-000055"
+   },
+   "2021": {
+    "revenue": 21554000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-24-000053"
+   },
+   "2022": {
+    "revenue": 19140000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000004977-25-000047"
+   },
+   "2023": {
+    "revenue": 18701000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-011402"
+   },
+   "2024": {
+    "revenue": 18927000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-011402"
+   },
+   "2025": {
+    "revenue": 17164000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-26-011402"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-011402",
+    "filingDate": "2026-02-25",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026011402/afl-20251231.htm"
+   },
+   {
+    "accession": "0000004977-25-000047",
+    "filingDate": "2025-02-26",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497725000047/afl-20241231.htm"
+   },
+   {
+    "accession": "0000004977-24-000053",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497724000053/afl-20231231.htm"
+   },
+   {
+    "accession": "0000004977-23-000055",
+    "filingDate": "2023-02-24",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497723000055/afl-20221231.htm"
+   },
+   {
+    "accession": "0000004977-22-000058",
+    "filingDate": "2022-02-23",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497722000058/afl-20211231.htm"
+   },
+   {
+    "accession": "0000004977-21-000047",
+    "filingDate": "2021-02-23",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497721000047/afl-20201231.htm"
+   },
+   {
+    "accession": "0000004977-20-000044",
+    "filingDate": "2020-02-21",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497720000044/afl12311910k.htm"
+   },
+   {
+    "accession": "0000004977-19-000049",
+    "filingDate": "2019-02-25",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497719000049/afl12311810k.htm"
+   },
+   {
+    "accession": "0000004977-18-000054",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497718000054/afl12311710k.htm"
+   },
+   {
+    "accession": "0000004977-17-000064",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497717000064/afl12311610k.htm"
+   }
+  ]
+ }
+}

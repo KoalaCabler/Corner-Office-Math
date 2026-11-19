@@ -1,0 +1,288 @@
+{
+ "proxies": {
+  "0001375365-26-000008": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000008/smci-20260303.htm",
+   "periodEnd": "2025-06-30",
+   "tenK": "0001375365-25-000027",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 13518,
+    "payRatio": 0.16,
+    "method": "ratio-and-median",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "Pay Ratio For fiscal year 2025, the ratio of the annual total compensation of Mr. Liang, our CEO (\"2025 CEO Compensation\"), to the median of the annual total compensation of all of our employees and those of our consolidated subsidiaries other than Mr. Liang (\"2025 Median Annual Compensation\"), was 0.16 to 1. For purposes of this pay ratio disclosure, 2025 CEO Compensation was determined to be $13,518, which represents the total compensation reported for Mr. Liang under the \"Fiscal Year 2025 Summary Compensation Table,\" plus our contribution to certain non-discriminatory group health and welfare benefits provided to Mr. Liang. 2025 Median Annual Compensation for the identified median employee was determined to be $86,832 which also includes our contribution to the same non-discriminatory g"
+   }
+  },
+  "0001375365-25-000009": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000009/smci-20250424.htm",
+   "periodEnd": "2024-06-30",
+   "tenK": "0001375365-25-000004",
+   "result": {
+    "ceoPay": 28103937,
+    "medianPay": 142498,
+    "payRatio": 197,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "Pay Ratio For fiscal year 2024, the ratio of the annual total compensation of Mr. Liang, our CEO (\"2024 CEO Compensation\"), to the median of the annual total compensation of all of our employees and those of our consolidated subsidiaries other than Mr. Liang (\"2024 Median Annual Compensation\"), was 197 to 1. For purposes of this pay ratio disclosure, 2024 CEO Compensation was determined to be $28,103,937, which represents the total compensation reported for Mr. Liang under the \"Fiscal Year 2024 Summary Compensation Table,\" plus the Company's contribution to group health and welfare benefits provided to Mr. Liang. 2024 Median Annual Compensation for the identified median employee was determined to be $142,498, which includes the Company's contribution to group health and welfare benefits pr"
+   }
+  },
+  "0001375365-23-000046": {
+   "parserVersion": 1,
+   "filingDate": "2023-12-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536523000046/smci-20231207.htm",
+   "periodEnd": "2023-06-30",
+   "tenK": "0001375365-23-000036",
+   "result": null
+  },
+  "0001375365-23-000024": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536523000024/proxystatement2022.htm",
+   "periodEnd": "2022-06-30",
+   "tenK": "0001375365-22-000103",
+   "result": null
+  },
+  "0001375365-22-000043": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536522000043/proxystatement2021.htm",
+   "periodEnd": "2021-06-30",
+   "tenK": "0001375365-21-000060",
+   "result": {
+    "ceoPay": 18108737,
+    "medianPay": 75171,
+    "payRatio": 241,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "year 2021, the ratio of the annual total compensation of Mr. Liang, our Chief Executive Officer (\"2021 CEO Compensation\"), to the median of the annual total compensation of all of our employees and those of our consolidated subsidiaries other than Mr. Liang (\"2021 Median Annual Compensation\"), was 241 to 1. For purposes of this pay ratio disclosure, 2021 CEO Compensation was determined to be $18,108,737, which represents the total compensation reported for Mr. Liang under the \"Fiscal Year 2021 Summary Compensation Table,\" plus the Company's contribution to certain non-discriminatory group health and welfare benefits provided to Mr. Liang. 2021 Median Annual Compensation for the identified 39 median employee was determined to be $75,171, also including the Company's contribution to the sam"
+   }
+  },
+  "0001375365-21-000026": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536521000026/proxystatement2020.htm",
+   "periodEnd": "2020-06-30",
+   "tenK": "0001375365-20-000064",
+   "result": {
+    "ceoPay": 1308646,
+    "medianPay": 92135,
+    "payRatio": 14.2,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "year 2020, the ratio of the annual total compensation of Mr. Liang, our Chief Executive Officer (\"2020 CEO Compensation\"), to the median of the annual total compensation of all of our employees and those of our consolidated subsidiaries other than Mr. Liang (\"2020 Median Annual Compensation\"), was 14.20 to 1. For purposes of this pay ratio 37 disclosure, 2020 CEO Compensation was determined to be $1,308,646, which represents the total compensation reported for Mr. Liang under the \"Fiscal Year 2020 Summary Compensation Table,\" plus the Company's contribution to group health and welfare benefits provided to Mr. Liang. 2020 Median Annual Compensation for the identified median employee was determined to be $92,135, also including the Company's contribution to group health and welfare benefits"
+   }
+  },
+  "0001375365-20-000024": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536520000024/proxystatementfy2019.htm",
+   "periodEnd": "2019-06-30",
+   "tenK": "0001375365-19-000079",
+   "result": {
+    "ceoPay": 5290701,
+    "medianPay": 69796,
+    "payRatio": 75.8,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "year 2018, the ratio of the annual total compensation of Mr. Liang, our Chief Executive Officer (\"2018 CEO Compensation\"), to the median of the annual total compensation of all of our employees and those of our consolidated subsidiaries other than Mr. Liang (\"2018 Median Annual Compensation\"), was 75.8 to 1. For purposes of this pay ratio disclosure, 2018 CEO Compensation was determined to be $5,290,701, which represents the total compensation reported for Mr. Liang under the \"Fiscal Year 2018 Summary Compensation Table\", plus the Company's contribution to group health and welfare benefits provided to Mr. Liang. 2018 Median Annual Compensation for the identified median employee was determined to be $69,796, also including the Company's contribution to group health and welfare benefits pro"
+   }
+  }
+ },
+ "tenKs": {
+  "0001375365-19-000079": {
+   "parserVersion": 1,
+   "employees": 3670
+  },
+  "0001375365-20-000064": {
+   "parserVersion": 1,
+   "employees": 3987
+  },
+  "0001375365-21-000060": {
+   "parserVersion": 1,
+   "employees": 4155
+  },
+  "0001375365-25-000004": {
+   "parserVersion": 1,
+   "employees": 5684
+  },
+  "0001375365-25-000027": {
+   "parserVersion": 1,
+   "employees": 6238
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2010": {
+    "revenue": 721438000,
+    "periodEnd": "2010-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001445305-12-002860"
+   },
+   "2011": {
+    "revenue": 942582000,
+    "periodEnd": "2011-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001445305-13-002262"
+   },
+   "2012": {
+    "revenue": 1013874000,
+    "periodEnd": "2012-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001445305-14-003958"
+   },
+   "2013": {
+    "revenue": 1162561000,
+    "periodEnd": "2013-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001628280-15-008827"
+   },
+   "2014": {
+    "revenue": 1467202000,
+    "periodEnd": "2014-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001628280-16-019274"
+   },
+   "2015": {
+    "revenue": 1991155000,
+    "periodEnd": "2015-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001628280-16-019274"
+   },
+   "2016": {
+    "revenue": 2225022000,
+    "periodEnd": "2016-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001375365-19-000039"
+   },
+   "2017": {
+    "revenue": 2484929000,
+    "periodEnd": "2017-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001375365-19-000039"
+   },
+   "2018": {
+    "revenue": 3360492000,
+    "periodEnd": "2018-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001375365-20-000064"
+   },
+   "2019": {
+    "revenue": 3500360000,
+    "periodEnd": "2019-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001375365-21-000060"
+   },
+   "2020": {
+    "revenue": 3339281000,
+    "periodEnd": "2020-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001375365-22-000103"
+   },
+   "2021": {
+    "revenue": 3557422000,
+    "periodEnd": "2021-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001375365-23-000036"
+   },
+   "2022": {
+    "revenue": 5196099000,
+    "periodEnd": "2022-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001375365-25-000004"
+   },
+   "2023": {
+    "revenue": 7123482000,
+    "periodEnd": "2023-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001375365-25-000027"
+   },
+   "2024": {
+    "revenue": 14989251000,
+    "periodEnd": "2024-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001375365-26-000022"
+   },
+   "2025": {
+    "revenue": 21972042000,
+    "periodEnd": "2025-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001375365-26-000022"
+   },
+   "2026": {
+    "revenue": 39063072000,
+    "periodEnd": "2026-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001375365-26-000022"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001375365-26-000022",
+    "filingDate": "2026-08-31",
+    "reportDate": "2026-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000022/smci-20260630.htm"
+   },
+   {
+    "accession": "0001375365-25-000027",
+    "filingDate": "2025-08-28",
+    "reportDate": "2025-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000027/smci-20250630.htm"
+   },
+   {
+    "accession": "0001375365-25-000004",
+    "filingDate": "2025-02-25",
+    "reportDate": "2024-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000004/smci-20240630.htm"
+   },
+   {
+    "accession": "0001375365-23-000036",
+    "filingDate": "2023-08-28",
+    "reportDate": "2023-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536523000036/smci-20230630.htm"
+   },
+   {
+    "accession": "0001375365-22-000103",
+    "filingDate": "2022-08-29",
+    "reportDate": "2022-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536522000103/smci-20220630.htm"
+   },
+   {
+    "accession": "0001375365-21-000060",
+    "filingDate": "2021-08-27",
+    "reportDate": "2021-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536521000060/smci-20210630.htm"
+   },
+   {
+    "accession": "0001375365-20-000064",
+    "filingDate": "2020-08-31",
+    "reportDate": "2020-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536520000064/smci-2020630x10k.htm"
+   },
+   {
+    "accession": "0001375365-19-000079",
+    "filingDate": "2019-12-19",
+    "reportDate": "2019-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536519000079/smci-2019630x10k.htm"
+   },
+   {
+    "accession": "0001375365-19-000039",
+    "filingDate": "2019-05-17",
+    "reportDate": "2017-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536519000039/smci-2017630x10kxa.htm"
+   }
+  ]
+ }
+}

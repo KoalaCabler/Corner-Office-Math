@@ -1,0 +1,354 @@
+{
+ "proxies": {
+  "0001104659-26-046308": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000110465926046308/tmb-20260609xdef14a.htm",
+   "periodEnd": "2026-01-31",
+   "tenK": "0001104659-26-035243",
+   "result": {
+    "ceoPay": 15403663,
+    "medianPay": 11883,
+    "payRatio": 1296,
+    "method": "cross-checked",
+    "employees": 61223,
+    "statedYear": 2025,
+    "excerpt": "he median associate's total annual compensation for fiscal 2025 according to the same methodology we used to calculate Ms. Steelman's total annual compensation as reported in the Summary Compensation Table. Using this methodology for fiscal 2025, our median associate's total annual compensation was $11,883 and our CEO's total annual compensation was $15,403,663. The resulting ratio of our CEO's total annual compensation to the total annual compensation of our median associate was approximately 1,296:1. | | | | | | | | | 55 | Table of Contents | | | Compensation Discussion and Analysis | | | | | | | PROPOSAL FIVE ADVISORY RESOLUTION ON EXECUTIVE COMPENSATION | | | | | | | | | | What are you voting on? An advisory resolution to approve the compensation of the Company's NEOs as disclosed in t"
+   }
+  },
+  "0001558370-25-005260": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837025005260/tmb-20250611xdef14a.htm",
+   "periodEnd": "2025-02-01",
+   "tenK": "0001558370-25-003810",
+   "result": {
+    "ceoPay": 12518429,
+    "medianPay": 11078,
+    "payRatio": 1130,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "r of fiscal year 2024, the annual total compensation for purposes of computing our pay ratio disclosure is the same as his total compensation for fiscal year 2024 reported in the Summary Compensation Table. Using this methodology for fiscal 2024, our median associate's total annual compensation was $11,078 and our CEO's total annual compensation was $12,518,429. The resulting ratio of our CEO's total annual compensation to the total annual compensation of our median associate was approximately 1,130:1. PAY VERSUS PERFORMANCE In accordance with rules adopted by the Securities and Exchange Commission pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, we provide the following disclosure regarding executive compensation for our principal executive officers (\"PEO"
+   }
+  },
+  "0001558370-24-005588": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837024005588/tmb-20240611xdef14a.htm",
+   "periodEnd": "2024-02-03",
+   "tenK": "0001558370-24-003941",
+   "result": {
+    "ceoPay": 12663880,
+    "medianPay": 13193,
+    "payRatio": 960,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "Kimbell's total annual compensation as reported in the Summary Compensation Table on page 40, to determine both our median associate's total annual compensation and Mr. Kimbell's for purposes of the ratio. Using this methodology for fiscal 2023, our median associate's total annual compensation was $13,193 and our CEO's total annual compensation was $12,663,880. The resulting ratio of our CEO's total annual compensation to the total annual compensation of our median associate was approximately 960:1. PAY VERSUS PERFORMANCE In accordance with rules adopted by the Securities and Exchange Commission pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, we provide the following disclosure regarding executive compensation for our principal executive officers (\"PEOs\""
+   }
+  },
+  "0001558370-23-006272": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837023006272/tmb-20230601xdef14a.htm",
+   "periodEnd": "2023-01-28",
+   "tenK": "0001558370-23-004581",
+   "result": {
+    "ceoPay": 13512384,
+    "medianPay": 14998,
+    "payRatio": 901,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "Kimbell's total annual compensation as reported in the Summary Compensation Table on page 45, to determine both our median associate's total annual compensation and Mr. Kimbell's for purposes of the ratio. Using this methodology for fiscal 2022, our median associate's total annual compensation was $14,998 and our CEO's total annual compensation was $13,512,384. The resulting ratio of our CEO's total annual compensation to the total annual compensation of our median associate was approximately 901:1. PAY VERSUS PERFORMANCE In accordance with rules adopted by the Securities and Exchange Commission pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, we provide the following disclosure regarding executive compensation for our principal executive officers (\"PEOs\""
+   }
+  },
+  "0001558370-22-005644": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837022005644/tmb-20220601xdef14a.htm",
+   "periodEnd": "2022-01-29",
+   "tenK": "0001558370-22-004330",
+   "result": {
+    "ceoPay": 8826126,
+    "medianPay": 13403,
+    "payRatio": 659,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "Kimbell's total annual compensation as reported in the Summary Compensation Table on page 39, to determine both our median associate's total annual compensation and Mr. Kimbell's for purposes of the ratio. Using this methodology for fiscal 2021, our median associate's total annual compensation was $13,403 and our CEO's total annual compensation was $8,826,126. The annual total compensation for our CEO used for purposes of computing our pay ratio disclosure differs from the annual total compensation amount reflected in the Summary Compensation Table. Specifically, our CEO on the determination date, November 6, 2021, was David Kimbell, who has served the company in that capacity since June 2021. Because Mr. Kimbell served as CEO for less than the full year, we annualized his annual total co"
+   }
+  },
+  "0001558370-21-004554": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837021004554/tmb-20210602xdef14a.htm",
+   "periodEnd": "2021-01-30",
+   "tenK": "0001558370-21-003523",
+   "result": {
+    "ceoPay": 8100164,
+    "medianPay": 12476,
+    "payRatio": 649,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "s. Dillon's total annual compensation as reported in the Summary Compensation Table on page 42, to determine both our median associate's total annual compensation and Ms. Dillon's for purposes of the ratio. Using this methodology for fiscal 2020, our median associate's total annual compensation was $12,476 and our CEO's total annual compensation was $8,100,164. The resulting ratio of our CEO's total annual compensation to the total annual compensation of our median associate was approximately 649:1. 51 Table of Contents | | | | | | | S | | | | tock | Security Ownership of Certain Beneficial Owners and Management The following table presents information concerning the beneficial ownership of the shares of our common stock as of April 5, 2021 by: | | | ● | | each person we know to be the ben"
+   }
+  },
+  "0001558370-20-004152": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-22",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837020004152/tmb-20200603xdef14a.htm",
+   "periodEnd": "2020-02-01",
+   "tenK": "0001558370-20-003272",
+   "result": {
+    "ceoPay": 7064799,
+    "medianPay": 16857,
+    "payRatio": 419,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "Ms. Dillon's total annual compensation as reported in the Summary Compensation Table on page 34, to determine both our median employee's total annual compensation and Ms. Dillon's for purposes of the ratio. Using this methodology for fiscal 2019, our median employee's total annual compensation was $16,857 and our CEO's total annual compensation was $7,064,799. The resulting ratio of our CEO's total annual compensation to the total annual compensation of our median employee was approximately 419:1. The SEC's rules require us to identify our median employee for this purpose using our employee population on a date that occurs during the three-month period ending on the last day of our fiscal year. As such, our median employee always includes seasonal and temporary employees we hire to assist"
+   }
+  },
+  "0001558370-19-003247": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837019003247/def14a.htm",
+   "periodEnd": "2019-02-02",
+   "tenK": "0001558370-19-002739",
+   "result": {
+    "ceoPay": 14257713,
+    "medianPay": 25666,
+    "payRatio": 556,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "compensation and Ms. Dillon's for purposes of the ratio. We decided to add in the value of the health care benefits because we consider those benefits to be a meaningful part of our employees' compensation. Using this methodology for fiscal 2018, our median employee's total annual compensation was $25,666 and our CEO's total annual compensation was $14,257,713. The resulting ratio of our CEO's total annual compensation to the total annual compensation of our median employee was approximately 556:1. The compensation reported for 2018 in the Summary Compensation Table for our CEO includes the value of the 2018 CEO Award. Excluding the value of this award, our CEO's 2018 compensation was $8,011,269. We believe this is a more accurate way to compare 2018 CEO pay with the pay provided in 2018"
+   }
+  },
+  "0001047469-18-003171": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1403568/000104746918003171/a2235318zdef14a.htm",
+   "periodEnd": "2018-02-03",
+   "tenK": "0001558370-18-002733",
+   "result": {
+    "ceoPay": 7503296,
+    "medianPay": 27235,
+    "payRatio": 275,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "compensation and Ms. Dillon's for purposes of the ratio. We decided to add in the value of the health care benefits because we consider those benefits to be a meaningful part of our employees' compensation. Using this methodology for fiscal 2017, our median employee's total annual compensation was $27,235 and our CEO's total annual compensation was $7,503,296. The resulting ratio of our CEO's total annual compensation to the total annual compensation of our median employee was approximately 275:1. 48 Table of Contents STOCK SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT The following table presents information concerning the beneficial ownership of the shares of our common stock as of April 9, 2018 by:  each person we know to be the beneficial owner of 5% or more of our o"
+   }
+  }
+ },
+ "tenKs": {
+  "0001558370-18-002733": {
+   "parserVersion": 1,
+   "employees": 13700
+  },
+  "0001558370-19-002739": {
+   "parserVersion": 1,
+   "employees": 16000
+  },
+  "0001558370-20-003272": {
+   "parserVersion": 1,
+   "employees": 18000
+  },
+  "0001558370-21-003523": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-22-004330": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-23-004581": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-24-003941": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0001558370-25-003810": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2010": {
+    "revenue": 1222771000,
+    "periodEnd": "2010-01-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-136579"
+   },
+   "2011": {
+    "revenue": 1454838000,
+    "periodEnd": "2011-01-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-140116"
+   },
+   "2012": {
+    "revenue": 1776151000,
+    "periodEnd": "2012-01-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-127781"
+   },
+   "2013": {
+    "revenue": 2220256000,
+    "periodEnd": "2013-02-02",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-15-115602"
+   },
+   "2014": {
+    "revenue": 2670573000,
+    "periodEnd": "2014-02-01",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-16-523101"
+   },
+   "2015": {
+    "revenue": 3241369000,
+    "periodEnd": "2015-01-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-17-099261"
+   },
+   "2016": {
+    "revenue": 3924116000,
+    "periodEnd": "2016-01-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001558370-18-002733"
+   },
+   "2017": {
+    "revenue": 4854737000,
+    "periodEnd": "2017-01-28",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-19-002739"
+   },
+   "2018": {
+    "revenue": 5884506000,
+    "periodEnd": "2018-02-03",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-20-003272"
+   },
+   "2019": {
+    "revenue": 6716615000,
+    "periodEnd": "2019-02-02",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-21-003523"
+   },
+   "2020": {
+    "revenue": 7398068000,
+    "periodEnd": "2020-02-01",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-22-004330"
+   },
+   "2021": {
+    "revenue": 6151953000,
+    "periodEnd": "2021-01-30",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-23-004581"
+   },
+   "2022": {
+    "revenue": 8630889000,
+    "periodEnd": "2022-01-29",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-24-003941"
+   },
+   "2023": {
+    "revenue": 10208580000,
+    "periodEnd": "2023-01-28",
+    "revenueTag": "Revenues",
+    "accession": "0001558370-25-003810"
+   },
+   "2024": {
+    "revenue": 11207303000,
+    "periodEnd": "2024-02-03",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-035243"
+   },
+   "2025": {
+    "revenue": 11295654000,
+    "periodEnd": "2025-02-01",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-035243"
+   },
+   "2026": {
+    "revenue": 12392820000,
+    "periodEnd": "2026-01-31",
+    "revenueTag": "Revenues",
+    "accession": "0001104659-26-035243"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001104659-26-035243",
+    "filingDate": "2026-03-26",
+    "reportDate": "2026-01-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403568/000110465926035243/ulta-20260131x10k.htm"
+   },
+   {
+    "accession": "0001558370-25-003810",
+    "filingDate": "2025-03-27",
+    "reportDate": "2025-02-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837025003810/ulta-20250201x10k.htm"
+   },
+   {
+    "accession": "0001558370-24-003941",
+    "filingDate": "2024-03-26",
+    "reportDate": "2024-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837024003941/ulta-20240203x10k.htm"
+   },
+   {
+    "accession": "0001558370-23-004581",
+    "filingDate": "2023-03-24",
+    "reportDate": "2023-01-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837023004581/ulta-20230128x10k.htm"
+   },
+   {
+    "accession": "0001558370-22-004330",
+    "filingDate": "2022-03-25",
+    "reportDate": "2022-01-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837022004330/ulta-20220129x10k.htm"
+   },
+   {
+    "accession": "0001558370-21-003523",
+    "filingDate": "2021-03-26",
+    "reportDate": "2021-01-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837021003523/ulta-20210130x10k.htm"
+   },
+   {
+    "accession": "0001558370-20-003272",
+    "filingDate": "2020-03-27",
+    "reportDate": "2020-02-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837020003272/ulta-20200201x10k11b4b7.htm"
+   },
+   {
+    "accession": "0001558370-19-002739",
+    "filingDate": "2019-04-02",
+    "reportDate": "2019-02-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837019002739/ulta-20190202x10k.htm"
+   },
+   {
+    "accession": "0001558370-18-002733",
+    "filingDate": "2018-04-03",
+    "reportDate": "2018-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403568/000155837018002733/ulta-20180203x10k.htm"
+   },
+   {
+    "accession": "0001193125-17-099261",
+    "filingDate": "2017-03-28",
+    "reportDate": "2017-01-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1403568/000119312517099261/d329810d10k.htm"
+   }
+  ]
+ }
+}

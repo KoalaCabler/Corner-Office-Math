@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0000045012-26-000033": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-31",
+   "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501226000033/hal-20260330.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000045012-26-000015",
+   "result": {
+    "ceoPay": 16539020,
+    "medianPay": 88698,
+    "payRatio": 186,
+    "method": "cross-checked",
+    "employees": 2289,
+    "statedYear": 2025,
+    "excerpt": "ant Financial Performance Measures | | Return on Capital Employed | | Net Operating Profit After Taxes | | Asset Turns | | Relative Total Shareholder Return | | | | | | | | | HALLIBURTON | | | | 2026 Proxy Statement | | 87 | | | | CEO Pay Ratio For 2025, the annual total compensation of our CEO was 186 times the median of the annual total compensation of all employees, based on annual total compensation of $16,539,020 for the CEO and $88,698 for the median employee. This disclosure is based on an October 1, 2023, employee population of 47,429, of which 15,222 were U.S. employees and 32,207 were non-U.S. employees, and remains representative of current employee population . We excluded from this employee population 2,289 non-U.S. employees from 43 countries as the total number of employees"
+   }
+  },
+  "0000045012-25-000025": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501225000025/hal-20250328.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000045012-25-000010",
+   "result": {
+    "ceoPay": 18326343,
+    "medianPay": 83367,
+    "payRatio": 220,
+    "method": "cross-checked",
+    "employees": 2289,
+    "statedYear": 2024,
+    "excerpt": "ant Financial Performance Measures | | Return on Capital Employed | | Net Operating Profit After Taxes | | Asset Turns | | Relative Total Shareholder Return | | | | | | | | | HALLIBURTON | | | | 2025 Proxy Statement | | 81 | | | | CEO Pay Ratio For 2024, the annual total compensation of our CEO was 220 times the median of the annual total compensation of all employees, based on annual total compensation of $18,326,343 for the CEO and $83,367 for the median employee. This disclosure is based on an October 1, 2023 , employee population of 47,429, of which 15,222 were U.S. employees and 32,207 were non-U.S. employees. We excluded from this employee population 2,289 non-U.S. employees from 43 countries as the total number of employees from these non-U.S. jurisdictions was less than 5% of our t"
+   }
+  },
+  "0001308179-24-000414": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/45012/000130817924000414/lhal2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000045012-24-000007",
+   "result": {
+    "ceoPay": 19928185,
+    "medianPay": 87310,
+    "payRatio": 228,
+    "method": "cross-checked",
+    "employees": 2289,
+    "statedYear": 2023,
+    "excerpt": "inancial Performance Measures | | Return on Capital Employed | | Net Operating Profit After Taxes | | Asset Turns | | Relative Total Shareholder Return | | | | HALLIBURTON | 2024 Proxy Statement | | 79 | | | | Back to Contents | | CEO Pay Ratio For 2023, the annual total compensation of our CEO was 228 times the median of the annual total compensation of all employees, based on annual total compensation of $19,928,185 for the CEO and $87,310 for the median employee. This disclosure is based on an October 1, 2023, employee population of 47,429, of which 15,222 were U.S. employees and 32,207 were non-U.S. employees. We excluded from this employee population 2,289 non-U.S. employees from 43 countries as the total number of employees from these non-U.S. jurisdictions was less than 5% of our to"
+   }
+  },
+  "0001308179-23-000504": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/45012/000130817923000504/hal-20221231.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000045012-23-000011",
+   "result": {
+    "ceoPay": 23419311,
+    "medianPay": 80638,
+    "payRatio": 290,
+    "method": "cross-checked",
+    "employees": 2020,
+    "statedYear": 2022,
+    "excerpt": "cial Performance Measures | | Return on Capital Employed | | Net Operating Profit After Taxes | | Asset Turns | | Relative Total Shareholder Return | | | | HALLIBURTON | 2023 Proxy Statement | | 79 | | | | Back to contents | | | | CEO Pay Ratio For 2022, the annual total compensation of our CEO was 290 times the median of the annual total compensation of all employees, based on annual total compensation of $23,419,311 for the CEO and $80,638 for the median employee. There was no material change in our employee demographics and compensation structure; therefore, the median employee identified for 2022 was based on the methodology used from 2020. What follows is a description of the methodology used from 2020. This disclosure is based on an October 1, 2020, employee population of 40,853, of"
+   }
+  },
+  "0001308179-22-000182": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/45012/000130817922000182/lhal2022-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000045012-22-000013",
+   "result": {
+    "ceoPay": 23607166,
+    "medianPay": 81076,
+    "payRatio": 291,
+    "method": "cross-checked",
+    "employees": 2020,
+    "statedYear": 2021,
+    "excerpt": "| | | | 63,657,436 | | | | Equity compensation plans not approved by security holders | | | | | | - | | | | | | | | - | | | | | | | | - | | | | TOTAL | | | | | | 24,173,808 | | | | | | $ | | 40.42 | | | | | | | | 63,657,436 | | | CEO Pay Ratio For 2021, the annual total compensation of our CEO was 291 times the median of the annual total compensation of all employees, based on annual total compensation of $23,607,166 for the CEO and $81,076 for the median employee. There was no material change in our employee demographics and compensation structure; therefore, the median employee identified in 2020 was utilized in our 2021 analysis. What follows is a description of the methodology used from 2020. This disclosure is based on an October 1, 2020, employee population of 40,853, of which 11,22"
+   }
+  },
+  "0001308179-21-000173": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/45012/000130817921000173/lhal2021_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000045012-21-000009",
+   "result": {
+    "ceoPay": 22336238,
+    "medianPay": 76266,
+    "payRatio": 293,
+    "method": "cross-checked",
+    "employees": 2020,
+    "statedYear": 2020,
+    "excerpt": "| | | | 33,806,364 | | | | Equity compensation plans not approved by security holders | | | | | | - | | | | | | | | - | | | | | | | | - | | | | TOTAL | | | | | | 25,930,679 | | | | | | $ | | 40.36 | | | | | | | | 33,806,364 | | | CEO Pay Ratio For 2020, the annual total compensation of our CEO was 293 times the median of the annual total compensation of all employees, based on annual total compensation of $22,336,238 for the CEO and $76,266 for the median employee. In the Supplemental Summary Compensation Table Information for CEO, we describe two key factors impacting our CEO's compensation in 2020. If the amount of $17,322,992 presented in that table was used, our CEO would have earned 227 times the median of the annual total compensation of all employees. What follows is a description"
+   }
+  },
+  "0001308179-20-000154": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/45012/000130817920000154/lhal2020_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000045012-20-000031",
+   "result": {
+    "ceoPay": 12770467,
+    "medianPay": 87289,
+    "payRatio": 146,
+    "method": "cross-checked",
+    "employees": 2637,
+    "statedYear": 2019,
+    "excerpt": "y holders | | | | 25,320,569 | | | | $ | | 41.58 | | | | 37,442,196 | | Equity compensation plans not approved by security holders | | | | - | | | | - | | | | - | | TOTAL | | | | 25,320,569 | | | | $ | | 41.58 | | | | 37,442,196 | CEO Pay Ratio For 2019, the annual total compensation of our CEO was 146 times the median of the annual total compensation of all employees, based on annual total compensation of $12,770,467 for the CEO and $87,289 for the median employee. There was no material change in our employee demographics and compensation structure; therefore, the median employee identified in 2017 was utilized in our 2019 analysis. What follows is a description of the methodology used from 2017. This disclosure is based on an October 1, 2017, employee population of 52,833, of which 21,86"
+   }
+  },
+  "0001308179-19-000086": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/45012/000130817919000086/lhal2019_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000045012-19-000044",
+   "result": {
+    "ceoPay": 17016991,
+    "medianPay": 88244,
+    "payRatio": 193,
+    "method": "cross-checked",
+    "employees": 2637,
+    "statedYear": 2018,
+    "excerpt": "| | $ | | 45.44 | | | | | | 36,385,477 | | Equity compensation plans not approved by security holders | | | | | | - | | | | | | | | - | | | | | | - | | TOTAL | | | | | | 21,221,321 | | | | | | $ | | 45.44 | | | | | | 36,385,477 | CEO Pay Ratio For 2018, the annual total compensation of our CEO was 193 times the median of the annual total compensation of all employees, based on annual total compensation of $17,016,991 for the CEO and $88,244 for the median employee. There was no material change in our employee demographics and compensation structure; therefore, the median employee identified in 2017 was utilized in our 2018 analysis. What follows is a description of the methodology used from 2017. This disclosure is based on an October 1, 2017, employee population of 52,833, of which 21,86"
+   }
+  },
+  "0001308179-18-000119": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/45012/000130817918000119/lhal2018_def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000045012-18-000059",
+   "result": {
+    "ceoPay": 23091346,
+    "medianPay": 79636,
+    "payRatio": 290,
+    "method": "cross-checked",
+    "employees": 2637,
+    "statedYear": 2017,
+    "excerpt": "| | | | 47,566,921 | | | | Equity compensation plans not approved by security holders | | | | | | - | | | | | | | | - | | | | | | | | - | | | | TOTAL | | | | | | 20,984,065 | | | | | | $ | | 44.92 | | | | | | | | 47,566,921 | | | CEO Pay Ratio For 2017, the annual total compensation of our CEO was 290 times the median of the annual total compensation of all employees, based on annual total compensation of $23,091,346 for the CEO and $79,636 for the median employee. This disclosure is based on an October 1, 2017, employee population of 52,833, of which 21,862 were U.S. employees and 30,971 were non-U.S. employees. We excluded from this employee population 2,637 non-U.S. employees from 47 countries as the total number of employees from these non-U.S. jurisdictions was less than 5% of our to"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 15264000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000045012-10-000085"
+   },
+   "2008": {
+    "revenue": 18279000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000045012-11-000087"
+   },
+   "2009": {
+    "revenue": 14675000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000045012-11-000087"
+   },
+   "2010": {
+    "revenue": 17973000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000045012-11-000087"
+   },
+   "2011": {
+    "revenue": 24829000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000045012-14-000069"
+   },
+   "2012": {
+    "revenue": 28503000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000045012-15-000040"
+   },
+   "2013": {
+    "revenue": 29402000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000045012-16-000272"
+   },
+   "2014": {
+    "revenue": 32870000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000045012-17-000047"
+   },
+   "2015": {
+    "revenue": 23633000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000045012-18-000059"
+   },
+   "2016": {
+    "revenue": 15887000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000045012-19-000044"
+   },
+   "2017": {
+    "revenue": 20620000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000045012-20-000031"
+   },
+   "2018": {
+    "revenue": 23995000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000045012-21-000009"
+   },
+   "2019": {
+    "revenue": 22408000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000045012-22-000013"
+   },
+   "2020": {
+    "revenue": 14445000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000045012-23-000011"
+   },
+   "2021": {
+    "revenue": 15295000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000045012-24-000007"
+   },
+   "2022": {
+    "revenue": 20297000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000045012-25-000010"
+   },
+   "2023": {
+    "revenue": 23018000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000045012-26-000015"
+   },
+   "2024": {
+    "revenue": 22944000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000045012-26-000015"
+   },
+   "2025": {
+    "revenue": 22184000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000045012-26-000015"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000045012-26-000015",
+    "filingDate": "2026-02-06",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501226000015/hal-20251231.htm"
+   },
+   {
+    "accession": "0000045012-25-000010",
+    "filingDate": "2025-02-12",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501225000010/hal-20241231.htm"
+   },
+   {
+    "accession": "0000045012-24-000007",
+    "filingDate": "2024-02-06",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501224000007/hal-20231231.htm"
+   },
+   {
+    "accession": "0000045012-23-000011",
+    "filingDate": "2023-02-07",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501223000011/hal-20221231.htm"
+   },
+   {
+    "accession": "0000045012-22-000013",
+    "filingDate": "2022-02-04",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501222000013/hal-20211231.htm"
+   },
+   {
+    "accession": "0000045012-21-000009",
+    "filingDate": "2021-02-05",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501221000009/hal-20201231.htm"
+   },
+   {
+    "accession": "0000045012-20-000031",
+    "filingDate": "2020-02-11",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501220000031/hal12312019-10k.htm"
+   },
+   {
+    "accession": "0000045012-19-000044",
+    "filingDate": "2019-02-13",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501219000044/hal12312018-10k.htm"
+   },
+   {
+    "accession": "0000045012-18-000059",
+    "filingDate": "2018-02-09",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501218000059/hal_12312017-10k.htm"
+   },
+   {
+    "accession": "0000045012-17-000047",
+    "filingDate": "2017-02-07",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/45012/000004501217000047/hal_12312016-10k.htm"
+   }
+  ]
+ }
+}

@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001308179-26-000402": {
+   "parserVersion": 1,
+   "filingDate": "2026-09-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817926000402/cah-20260921.htm",
+   "periodEnd": "2026-06-30",
+   "tenK": "0000721371-26-000038",
+   "result": {
+    "ceoPay": 22591085,
+    "medianPay": 78316,
+    "payRatio": 288,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "Pay Ratio Disclosure The Dodd-Frank Act and SEC rules require us to provide the ratio of the annual total compensation of Mr. Hollar, our CEO, to the annual total compensation of our median employee. For fiscal 2026, the median annual total compensation of all our employees (other than the CEO) was $78,316. Mr. Hollar's annual total compensation for fiscal 2026 for purposes of the pay ratio disclosure was $22,591,085. Based on this information, for fiscal 2026, the ratio of the compensation of the CEO to the median annual total compensation of all other employees was estimated to be 288 to 1. To identify and determine the annual total compensation of the median employee, we collected the payroll data of all employees globally as of June 30, 2026 and used total annual base pay as of June 30"
+   }
+  },
+  "0000721371-25-000114": {
+   "parserVersion": 1,
+   "filingDate": "2025-09-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137125000114/cah-20250916.htm",
+   "periodEnd": "2025-06-30",
+   "tenK": "0000721371-25-000079",
+   "result": {
+    "ceoPay": 18990992,
+    "medianPay": 72657,
+    "payRatio": 261,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "Pay Ratio Disclosure The Dodd-Frank Act and SEC rules require us to provide the ratio of the annual total compensation of Mr. Hollar, our CEO, to the annual total compensation of our median employee. For fiscal 2025, the median annual total compensation of all our employees (other than the CEO) was $72,657. Mr. Hollar's annual total compensation for fiscal 2025 for purposes of the pay ratio disclosure was $18,990,992. Based on this information, for fiscal 2025, the ratio of the compensation of the CEO to the median annual total compensation of all other employees was estimated to be 261 to 1. To identify and determine the annual total compensation of the median employee, we collected the payroll data of all employees globally as of June 30, 2025 and used total annual base pay as of June 30"
+   }
+  },
+  "0000721371-24-000103": {
+   "parserVersion": 1,
+   "filingDate": "2024-09-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137124000103/cah-20240913.htm",
+   "periodEnd": "2024-06-30",
+   "tenK": "0000721371-24-000056",
+   "result": {
+    "ceoPay": 25665055,
+    "medianPay": 56119,
+    "payRatio": 457,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "annual total compensation of Mr. Hollar, our CEO, to the annual total compensation of our median employee. We identified our median employee using our global employee population as of June 30, 2024. For fiscal 2024, the median annual total compensation of all our employees (other than the CEO) was $56,119. Mr. Hollar's annual total compensation for fiscal 2024 for purposes of the pay ratio disclosure was $25,665,055. Based on this information, for fiscal 2024, the ratio of the compensation of the CEO to the median annual total compensation of all other employees was estimated to be 457 to 1. This ratio would have been 309 to 1 if the incremental accounting expense for stock awards that were considered modified for accounting purposes was excluded from Mr. Hollar's annual total compensatio"
+   }
+  },
+  "0001308179-23-001007": {
+   "parserVersion": 1,
+   "filingDate": "2023-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817923001007/lcah2023_def14a.htm",
+   "periodEnd": "2023-06-30",
+   "tenK": "0000721371-23-000060",
+   "result": {
+    "ceoPay": 18536924,
+    "medianPay": 69024,
+    "payRatio": 269,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "compensation arrangements that we believe would result in a significant impact to the pay ratio. We identified our median employee using our global employee population identified as of June 30, 2021. For fiscal 2023, the median annual total compensation of all our employees (other than the CEO) was $69,024. Mr. Hollar's annual total compensation for fiscal 2023 for purposes of the pay ratio disclosure was $18,536,924. Based on this information, for fiscal 2023, the ratio of the compensation of the CEO to the median annual total compensation of all other employees was estimated to be 269 to 1. The median employee was a non-exempt, full-time employee located in the United States. The annual total compensation was calculated for both Mr. Hollar and the median employee in accordance with the S"
+   }
+  },
+  "0001308179-22-000365": {
+   "parserVersion": 1,
+   "filingDate": "2022-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817922000365/lcah2022_def14a.htm",
+   "periodEnd": "2022-06-30",
+   "tenK": "0000721371-22-000058",
+   "result": {
+    "ceoPay": 13478493,
+    "medianPay": 63906,
+    "payRatio": 211,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "mer Protection Act and SEC rules require us to provide the ratio of the annual total compensation of Mr. Kaufmann, our CEO during fiscal 2022, to the annual total compensation of our median employee. For fiscal 2022, the median annual total compensation of all our employees (other than the CEO) was $63,906. Mr. Kaufmann's annual total compensation for fiscal 2022 for purposes of the pay ratio disclosure was $13,478,493. Based on this information, for fiscal 2022, the ratio of the compensation of the CEO to the median annual total compensation of all other employees was estimated to be 211 to 1. The median employee was a non-exempt, full-time employee located in the United States. The annual total compensation was calculated for both Mr. Kaufmann and the median employee in accordance with t"
+   }
+  },
+  "0001308179-21-000318": {
+   "parserVersion": 1,
+   "filingDate": "2021-09-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817921000318/lcah2021_def14a.htm",
+   "periodEnd": "2021-06-30",
+   "tenK": "0000721371-21-000080",
+   "result": {
+    "ceoPay": 12497007,
+    "medianPay": 48291,
+    "payRatio": 259,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "et Reform and Consumer Protection Act and SEC rules require us to provide the ratio of the annual total compensation of Mr. Kaufmann, our CEO, to the annual total compensation of our median employee. For fiscal 2021, the median annual total compensation of all our employees (other than the CEO) was $48,291. Mr. Kaufmann's annual total compensation for fiscal 2021 for purposes of the pay ratio disclosure was $12,497,007. Based on this information, for fiscal 2021, the ratio of the compensation of the CEO to the median annual total compensation of all other employees was estimated to be 259 to 1. The median employee was a non-exempt, full-time employee located in the United States. The annual total compensation was calculated for both Mr. Kaufmann and the median employee in accordance with t"
+   }
+  },
+  "0001308179-20-000273": {
+   "parserVersion": 1,
+   "filingDate": "2020-09-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817920000273/lcah2020_def14a.htm",
+   "periodEnd": "2020-06-30",
+   "tenK": "0000721371-20-000089",
+   "result": {
+    "ceoPay": 14231109,
+    "medianPay": 54619,
+    "payRatio": 261,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "d SEC rules require us to provide the ratio of the annual total compensation of Mr. Kaufmann, our Chief Executive Officer, to the annual total compensation of our median employee. For fiscal 2020, the median annual total compensation of all our employees (other than the Chief Executive Officer) was $54,619. Mr. Kaufmann's annual total compensation for fiscal 2020 for purposes of the pay ratio disclosure was $14,231,109. Based on this information, for fiscal 2020, the ratio of the compensation of the Chief Executive Officer to the median annual total compensation of all other employees was estimated to be 261 to 1. We used the same median employee in our pay ratio calculation for fiscal 2020 as we used for fiscal 2018 and 2019 because there was no change in our employee population or employ"
+   }
+  },
+  "0001308179-19-000231": {
+   "parserVersion": 1,
+   "filingDate": "2019-09-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817919000231/lcah2019_def14a.htm",
+   "periodEnd": "2019-06-30",
+   "tenK": "0000721371-19-000090",
+   "result": {
+    "ceoPay": 15584454,
+    "medianPay": 57261,
+    "payRatio": 272,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "d SEC rules require us to provide the ratio of the annual total compensation of Mr. Kaufmann, our Chief Executive Officer, to the annual total compensation of our median employee. For fiscal 2019, the median annual total compensation of all our employees (other than the Chief Executive Officer) was $57,261. Mr. Kaufmann's annual total compensation for fiscal 2019 for purposes of the pay ratio disclosure was $15,584,454. Based on this information, for fiscal 2019, the ratio of the compensation of the Chief Executive Officer to the median annual total compensation of all other employees was estimated to be 272 to 1. We used the same median employee in our pay ratio calculation for fiscal 2019 as we used for fiscal 2018 because there was no change in our employee population or employee compen"
+   }
+  },
+  "0001308179-18-000266": {
+   "parserVersion": 1,
+   "filingDate": "2018-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817918000266/lcah2018_def14a.htm",
+   "periodEnd": "2018-06-30",
+   "tenK": "0000721371-18-000077",
+   "result": {
+    "ceoPay": 11356917,
+    "medianPay": 51434,
+    "payRatio": 221,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "the ratio of the annual total compensation of Mr. Kaufmann, our Chief Executive Officer since January 1, 2018, to the annual total compensation of our median employee. For fiscal 2018, the median annual total compensation of all employees of the company (other than the Chief Executive Officer) was $51,434. Mr. Kaufmann's annual total compensation for fiscal 2018 for purposes of the pay ratio disclosure was $11,356,917. Based on this information, for fiscal 2018, the ratio of the compensation of the Chief Executive Officer to the median annual total compensation of all other employees was estimated to be 221 to 1. To identify and determine the annual total compensation of the median employee, we collected the payroll data of all employees globally as of April 1, 2018 and used total base pa"
+   }
+  }
+ },
+ "tenKs": {
+  "0000721371-18-000077": {
+   "parserVersion": 1,
+   "employees": 32300
+  },
+  "0000721371-19-000090": {
+   "parserVersion": 1,
+   "employees": 31000
+  },
+  "0000721371-20-000089": {
+   "parserVersion": 1,
+   "employees": 30000
+  },
+  "0000721371-21-000080": {
+   "parserVersion": 1,
+   "employees": 47300
+  },
+  "0000721371-22-000058": {
+   "parserVersion": 1,
+   "employees": 46500
+  },
+  "0000721371-23-000060": {
+   "parserVersion": 1,
+   "employees": 48000
+  },
+  "0000721371-24-000056": {
+   "parserVersion": 1,
+   "employees": 48900
+  },
+  "0000721371-25-000079": {
+   "parserVersion": 1,
+   "employees": 57700
+  },
+  "0000721371-26-000038": {
+   "parserVersion": 1,
+   "employees": 63900
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 87408200000,
+    "periodEnd": "2008-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-203886"
+   },
+   "2009": {
+    "revenue": 95991500000,
+    "periodEnd": "2009-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-233322"
+   },
+   "2010": {
+    "revenue": 98503000000,
+    "periodEnd": "2010-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-12-000069"
+   },
+   "2011": {
+    "revenue": 102644000000,
+    "periodEnd": "2011-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-13-000154"
+   },
+   "2012": {
+    "revenue": 107552000000,
+    "periodEnd": "2012-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-14-000181"
+   },
+   "2013": {
+    "revenue": 101093000000,
+    "periodEnd": "2013-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-15-000107"
+   },
+   "2014": {
+    "revenue": 91084000000,
+    "periodEnd": "2014-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-16-000277"
+   },
+   "2015": {
+    "revenue": 102531000000,
+    "periodEnd": "2015-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-17-000083"
+   },
+   "2016": {
+    "revenue": 121546000000,
+    "periodEnd": "2016-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-18-000077"
+   },
+   "2017": {
+    "revenue": 129976000000,
+    "periodEnd": "2017-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-19-000090"
+   },
+   "2018": {
+    "revenue": 136809000000,
+    "periodEnd": "2018-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-20-000089"
+   },
+   "2019": {
+    "revenue": 145534000000,
+    "periodEnd": "2019-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-21-000080"
+   },
+   "2020": {
+    "revenue": 152922000000,
+    "periodEnd": "2020-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-22-000058"
+   },
+   "2021": {
+    "revenue": 162467000000,
+    "periodEnd": "2021-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-23-000060"
+   },
+   "2022": {
+    "revenue": 181326000000,
+    "periodEnd": "2022-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-24-000056"
+   },
+   "2023": {
+    "revenue": 204979000000,
+    "periodEnd": "2023-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-25-000079"
+   },
+   "2024": {
+    "revenue": 226827000000,
+    "periodEnd": "2024-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-26-000038"
+   },
+   "2025": {
+    "revenue": 222578000000,
+    "periodEnd": "2025-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-26-000038"
+   },
+   "2026": {
+    "revenue": 254248000000,
+    "periodEnd": "2026-06-30",
+    "revenueTag": "Revenues",
+    "accession": "0000721371-26-000038"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000721371-26-000038",
+    "filingDate": "2026-08-11",
+    "reportDate": "2026-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137126000038/cah-20260630.htm"
+   },
+   {
+    "accession": "0000721371-25-000079",
+    "filingDate": "2025-08-12",
+    "reportDate": "2025-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137125000079/cah-20250630.htm"
+   },
+   {
+    "accession": "0000721371-24-000056",
+    "filingDate": "2024-08-14",
+    "reportDate": "2024-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137124000056/cah-20240630.htm"
+   },
+   {
+    "accession": "0000721371-23-000060",
+    "filingDate": "2023-08-15",
+    "reportDate": "2023-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137123000060/cah-20230630.htm"
+   },
+   {
+    "accession": "0000721371-22-000058",
+    "filingDate": "2022-08-11",
+    "reportDate": "2022-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137122000058/cah-20220630.htm"
+   },
+   {
+    "accession": "0000721371-21-000080",
+    "filingDate": "2021-08-16",
+    "reportDate": "2021-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137121000080/cah-20210630.htm"
+   },
+   {
+    "accession": "0000721371-20-000089",
+    "filingDate": "2020-08-13",
+    "reportDate": "2020-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137120000089/a20q410k063020form10-k.htm"
+   },
+   {
+    "accession": "0000721371-19-000090",
+    "filingDate": "2019-08-20",
+    "reportDate": "2019-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137119000090/a19q4_10kx063019xform10-k.htm"
+   },
+   {
+    "accession": "0000721371-18-000077",
+    "filingDate": "2018-08-22",
+    "reportDate": "2018-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137118000077/a18q4_10kx063018xform10-k.htm"
+   },
+   {
+    "accession": "0000721371-17-000083",
+    "filingDate": "2017-08-10",
+    "reportDate": "2017-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137117000083/a17q4_10kx63017xform10-k.htm"
+   }
+  ]
+ }
+}

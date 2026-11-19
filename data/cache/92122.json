@@ -1,0 +1,338 @@
+{
+ "proxies": {
+  "0000092122-26-000028": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212226000028/so-20260402.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000092122-26-000006",
+   "result": {
+    "ceoPay": 28242734,
+    "medianPay": 173100,
+    "payRatio": 163,
+    "method": "cross-checked",
+    "employees": 29800,
+    "statedYear": 2025,
+    "excerpt": "e Outside Directors Stock Plan for The Southern Company; however, the Company intends to issue future director equity compensation awards under the Omnibus Plan and does not intend to issue any further awards under this plan. Pay Ratio Disclosure For 2025, we have calculated the CEO pay ratio to be 163 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records as of December 31, 2025 and the methodology described below. We determined our median employee based on an analysis of all employees as of December 31, 2025. We used total cash compensation as reported in Form W-2 for 2025 as our consistently applied compensation measure. We then applied a statistical sampling approach to identify employees who we expected we"
+   }
+  },
+  "0000092122-25-000036": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212225000036/so-20250410.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000092122-25-000018",
+   "result": {
+    "ceoPay": 23903473,
+    "medianPay": 155611,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": 28600,
+    "statedYear": 2024,
+    "excerpt": "uture director equity compensation awards under the 2021 Omnibus Plan and does not intend to issue any further awards under this plan. | | | | | | | Southern Company 2025 Proxy Statement | | 75 | Executive Compensation Tables Pay Ratio Disclosure For 2024, we have calculated the CEO pay ratio to be 154 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records as of December 31, 2024 and the methodology described below. 4 The change in pension value as shown in the Summary Compensation Table is not due to any changes or modifications to the existing program or plan formula. 4 Traditional pension plans are extremely sensitive to interest rate changes and changes to macroeconomic factors such as interest rates are ou"
+   }
+  },
+  "0001308179-24-000515": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/92122/000130817924000515/so4274141-def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000092122-24-000009",
+   "result": {
+    "ceoPay": 23539400,
+    "medianPay": 164300,
+    "payRatio": 143,
+    "method": "cross-checked",
+    "employees": 28100,
+    "statedYear": 2023,
+    "excerpt": "de Directors Stock Plan for The Southern Company; however, the Company intends to issue future director equity compensation awards under the 2021 Omnibus Plan and does not intend to issue any further awards under this plan. | Pay Ratio Disclosure For 2023, we have calculated the CEO pay ratio to be 143 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records as of December 31, 2023 and the methodology described below. | ► | | The change in pension value as shown in the Summary Compensation Table is not due to any changes or modifications to the existing program or plan formula. | | ► | | Traditional pension plans are extremely sensitive to interest rate changes, and changes to macroeconomic factors such as intere"
+   }
+  },
+  "0001308179-23-000671": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/92122/000130817923000671/so4109301-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000092122-23-000012",
+   "result": {
+    "ceoPay": 24028770,
+    "medianPay": 143500,
+    "payRatio": 167,
+    "method": "cross-checked",
+    "employees": 27000,
+    "statedYear": 2022,
+    "excerpt": "ck Plan for The Southern Company; however, the Company intends to issue future director equity compensation awards under the 2021 Omnibus Plan and does not intend to issue any further awards under this plan after June 2021. | Pay Ratio Disclosure For 2022, we have calculated the CEO pay ratio to be 167 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records as of December 31, 2022 and the methodology described below. | ► | | The change in pension value as shown in the Summary Compensation Table is not due to any changes or modifications to the existing program or plan formula. | | | | | | ► | | Traditional pension plans are extremely sensitive to interest rate changes, and changes to macroeconomic factors such a"
+   }
+  },
+  "0001206774-22-001105": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/92122/000120677422001105/so3978871_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000092122-22-000003",
+   "result": {
+    "ceoPay": 21265259,
+    "medianPay": 132450,
+    "payRatio": 161,
+    "method": "cross-checked",
+    "employees": 27000,
+    "statedYear": 2021,
+    "excerpt": "any Intends to issue future director equity compensation awards under the 2021 Omnibus Plan and does not intend to issue any further awards under this plan after June 2021. | 95 Table of Contents Executive Compensation Tables Pay Ratio Disclosure For 2021, we have calculated the CEO pay ratio to be 161 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records as of December 31, 2021 and the methodology described below. | ► | | The change in pension value as shown in the Summary Compensation Table is not due to any changes or modifications to the existing program or plan formula. | | ► | | Traditional pension plans are extremely sensitive to interest rate changes, and changes to macroeconomic factors such as intere"
+   }
+  },
+  "0001206774-21-001083": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/92122/000120677421001083/so3828771-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000092122-21-000006",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 122763,
+    "payRatio": 134,
+    "method": "ratio-and-median",
+    "employees": 27000,
+    "statedYear": 2020,
+    "excerpt": "n control. | | | | | Severance Amount ($) | | Tom Fanning | | | | 12,375,000 | | Andrew Evans | | | | 3,092,544 | | Paul Bowers | | | | 3,814,724 | | Mark Crosswhite | | | | 3,085,780 | | Stephen Kuczynski | | | | 2,853,694 | Pay Ratio Disclosure For 2020, we have calculated the CEO pay ratio to be 134 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records as of December 31, 2020 and the methodology described below. | ► | | The change in pension value as shown in the Summary Compensation Table is not due to any changes or modifications to the existing program or plan formula. | | ► | | Traditional pension plans are extremely sensitive to interest rate changes, and changes to macroeconomic factors such as intere"
+   }
+  },
+  "0001206774-20-001156": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/92122/000120677420001156/so3664831-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000092122-20-000017",
+   "result": {
+    "ceoPay": 27865185,
+    "medianPay": 167872,
+    "payRatio": 166,
+    "method": "cross-checked",
+    "employees": 27000,
+    "statedYear": 2019,
+    "excerpt": "| | | 8,625,439 | | (1) | | Equity compensation plans not approved by security holders | | | | n/a | | | | n/a | | | | n/a | | | | (1) | | Represents shares available for future issuance under the Omnibus Plan. | | | | | | Pay Ratio Disclosure | For 2019, we have calculated the CEO pay ratio to be 166 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records as of December 31, 2019 and the methodology described below. Excluding the change in pension value, we calculated the pay ratio to be 136 to 1. Given the large change in pension value for the CEO in 2019, we believe excluding the amount for the change in pension value is an appropriate measure. | ► | | The change in pension value as shown in the Summary Compe"
+   }
+  },
+  "0001206774-19-001244": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/92122/000120677419001244/so3463381-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000092122-19-000006",
+   "result": {
+    "ceoPay": 13097691,
+    "medianPay": 113035,
+    "payRatio": 116,
+    "method": "cross-checked",
+    "employees": 31000,
+    "statedYear": 2011,
+    "excerpt": "approved by security holders | | | | n/a | | | | n/a | | | | n/a | | | | (1) | | Represents shares available for future issuance under the Omnibus Plan. | 80 Southern Company 2019 Proxy Statement Table of Contents Executive Compensation Tables Pay Ratio Disclosure We calculated a 2018 pay ratio of 116 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records as of December 31, 2018 and the methodology described below. After identifying the median employee, as described below, we calculated the median employee's annual total compensation. | ► | | The annual total compensation of the median employee, calculated in accordance with the Summary Compensation Table requirements, was $113,035. The median employee's annua"
+   }
+  },
+  "0001206774-18-001121": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/92122/000120677418001121/so3345001-def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000092122-18-000012",
+   "result": {
+    "ceoPay": 15702228,
+    "medianPay": 138000,
+    "payRatio": 114,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "| 18,577,448 | | | | $ 41.68 | | | | 12,604,222 | | (1) | | Equity compensation plans not approved by security holders | | | | n/a | | | | n/a | | | | n/a | | | | (1) | | Represents shares available for future issuance under the Omnibus Plan. | Pay Ratio Disclosure We calculated a 2017 pay ratio of 114 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records as of December 31, 2017 and the methodology described below. The Southern Company system has over 31,000 employees across 34 states. We determined our median employee based on an analysis of all employees as of December 31, 2017. We used total cash compensation as reported in Form W-2 for 2017 as our consistently applied compensation measure. We then applied"
+   }
+  }
+ },
+ "tenKs": {
+  "0000092122-18-000012": {
+   "parserVersion": 1,
+   "employees": 31344
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 15353000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-10-000009"
+   },
+   "2008": {
+    "revenue": 17127000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-11-000013"
+   },
+   "2009": {
+    "revenue": 15743000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-12-000016"
+   },
+   "2010": {
+    "revenue": 17456000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-13-000014"
+   },
+   "2011": {
+    "revenue": 17657000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-14-000012"
+   },
+   "2012": {
+    "revenue": 16537000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-15-000015"
+   },
+   "2013": {
+    "revenue": 17087000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-16-000126"
+   },
+   "2014": {
+    "revenue": 18467000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-17-000007"
+   },
+   "2015": {
+    "revenue": 17489000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-18-000012"
+   },
+   "2016": {
+    "revenue": 19896000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-18-000012"
+   },
+   "2017": {
+    "revenue": 23031000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-18-000012"
+   },
+   "2018": {
+    "revenue": 25241000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000092122-21-000006"
+   },
+   "2019": {
+    "revenue": 22596000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000092122-22-000003"
+   },
+   "2020": {
+    "revenue": 21097000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000092122-23-000012"
+   },
+   "2021": {
+    "revenue": 23463000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000092122-24-000009"
+   },
+   "2022": {
+    "revenue": 29279000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-25-000018"
+   },
+   "2023": {
+    "revenue": 25253000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-26-000006"
+   },
+   "2024": {
+    "revenue": 26764000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0000092122-26-000006"
+   },
+   "2025": {
+    "revenue": 29553000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000092122-26-000006"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000092122-26-000006",
+    "filingDate": "2026-02-19",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212226000006/so-20251231.htm"
+   },
+   {
+    "accession": "0000092122-25-000018",
+    "filingDate": "2025-02-20",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212225000018/so-20241231.htm"
+   },
+   {
+    "accession": "0000092122-24-000009",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212224000009/so-20231231.htm"
+   },
+   {
+    "accession": "0000092122-23-000012",
+    "filingDate": "2023-02-16",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212223000012/so-20221231.htm"
+   },
+   {
+    "accession": "0000092122-22-000003",
+    "filingDate": "2022-02-17",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212222000003/so-20211231.htm"
+   },
+   {
+    "accession": "0000092122-21-000006",
+    "filingDate": "2021-02-18",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212221000006/so-20201231.htm"
+   },
+   {
+    "accession": "0000092122-20-000017",
+    "filingDate": "2020-02-20",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212220000017/so10-k12312019.htm"
+   },
+   {
+    "accession": "0000092122-19-000006",
+    "filingDate": "2019-02-20",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212219000006/so10-k12312018.htm"
+   },
+   {
+    "accession": "0000092122-18-000012",
+    "filingDate": "2018-02-21",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212218000012/so_10-kx12312017.htm"
+   },
+   {
+    "accession": "0000092122-17-000007",
+    "filingDate": "2017-02-22",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212217000007/so_10-kx12312016.htm"
+   }
+  ]
+ }
+}

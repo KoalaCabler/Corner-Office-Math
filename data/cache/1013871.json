@@ -1,0 +1,338 @@
+{
+ "proxies": {
+  "0001104659-26-030844": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465926030844/tm261406-2_def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001013871-26-000004",
+   "result": {
+    "ceoPay": 21788422,
+    "medianPay": 93161,
+    "payRatio": 234,
+    "method": "cross-checked",
+    "employees": 12253,
+    "statedYear": 2025,
+    "excerpt": "be internally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2025, the ratio of the total compensation of Dr. Coben, our CEO, of $21,788,422, as shown in the Summary Compensation Table (CEO Compensation), as compared to the total compensation of our median employee of $ 93,161 , calculated in the same manner, was 234:1. We calculated the ratio of the pay of our CEO to that of our median employee as permitted under SEC rules. We selected October 31, 2025 as the determination date for identifying the median employee for purposes of this pay ratio disclosure. As of October 31, 2025, we and our consolidated subsidiaries had 1"
+   }
+  },
+  "0001104659-25-025550": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465925025550/tm252336-8_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001013871-25-000006",
+   "result": {
+    "ceoPay": 5463154,
+    "medianPay": 88545,
+    "payRatio": 62,
+    "method": "cross-checked",
+    "employees": 11247,
+    "statedYear": 2024,
+    "excerpt": "be internally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2024, the ratio of the total compensation of Dr. Coben, our CEO, of $5,463,154, as shown in the Summary Compensation Table (CEO Compensation), as compared to the total compensation of our median employee of $88,545, calculated in the same manner, was 62:1. We calculated the ratio of the pay of our CEO to that of our median employee as permitted under SEC rules. We selected October 31, 2024 as the determination date for identifying the median employee for purposes of this pay ratio disclosure. As of October 31, 2024, we and our consolidated subsidiaries had 11,24"
+   }
+  },
+  "0001104659-24-034809": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465924034809/tm242662d2_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001013871-24-000005",
+   "result": {
+    "ceoPay": 13128160,
+    "medianPay": 74050,
+    "payRatio": 177,
+    "method": "cross-checked",
+    "employees": 11287,
+    "statedYear": 2023,
+    "excerpt": "onsistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2023, the ratio of the total compensation of Mauricio Gutierrez, our former CEO, of $13,128,160, as shown in the Summary Compensation Table (CEO Compensation), as compared to the total compensation of our median employee of $74,050, calculated in the same manner, was 177:1. The year-over-year increase in the CEO pay ratio is attributable to the change in NRG's workforce as a result of the acquisition of Vivint. We calculated the ratio of the pay of our Chief Executive Officer to that of our median employee as permitted under SEC rules. We selected October 31, 2023 as the determ"
+   }
+  },
+  "0001104659-23-032997": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465923032997/tm231822d2_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001013871-23-000004",
+   "result": {
+    "ceoPay": 10151847,
+    "medianPay": 121958,
+    "payRatio": 83,
+    "method": "cross-checked",
+    "employees": 6551,
+    "statedYear": 2022,
+    "excerpt": "nt and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2022, the ratio of the total compensation of Mauricio Gutierrez, our President and CEO, of $10,151,847, as shown in the Summary Compensation Table (CEO Compensation), as compared to the total compensation of our median employee of $121,958, calculated in the same manner, was 83:1. We calculated the ratio of the pay of our CEO to that of our median employee as permitted under SEC rules. We selected October 31, 2022 as the determination date for identifying the median employee for purposes of this pay ratio disclosure. As of October 31, 2022, we and our consolidated subsidiaries had 6,5"
+   }
+  },
+  "0001104659-22-033958": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465922033958/tm223391d3_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001013871-22-000010",
+   "result": {
+    "ceoPay": 10854224,
+    "medianPay": 126289,
+    "payRatio": 86,
+    "method": "cross-checked",
+    "employees": 6811,
+    "statedYear": 2021,
+    "excerpt": "ally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2021, the total compensation of Mauricio Gutierrez, our President and CEO, of $10,854,224, as shown in the Summary Compensation Table (CEO Compensation), was approximately 86 times the total compensation of a median employee, calculated in the same manner, of $126,289. We calculated the ratio of the pay of our CEO to that of our median employee as permitted under SEC rules. We selected October 31, 2021 as the determination date for identifying the median employee for purposes of this pay ratio disclosure. As of October 31, 2021, we and our consolidated subsidiaries had 6,"
+   }
+  },
+  "0001104659-21-036350": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465921036350/a21-2335_1def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001013871-21-000005",
+   "result": {
+    "ceoPay": 9879276,
+    "medianPay": 113749,
+    "payRatio": 87,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2020, the total compensation of Mauricio Gutierrez, our President and CEO, of $9,879,276, as shown in the Summary Compensation Table (CEO Compensation), was approximately 87 times the total compensation of a median employee, calculated in the same manner, of $113,749. We calculated the ratio of the pay of our CEO to that of our median employee as permitted under SEC rules. As of December 31, 2020, we and our consolidated subsidiaries had 4,283, employees in the United States and 214 employees located in Australia. As allowed under Item 402 of Regulation S-K, we excluded t"
+   }
+  },
+  "0001104659-20-034146": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013871/000110465920034146/a20-1930_5def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001013871-20-000013",
+   "result": {
+    "ceoPay": 9146053,
+    "medianPay": 114883,
+    "payRatio": 80,
+    "method": "cross-checked",
+    "employees": 4613,
+    "statedYear": 2019,
+    "excerpt": "ally consistent and equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2019, the total compensation of Mauricio Gutierrez, our President and CEO, of $ 9,146,053 , as shown in the Summary Compensation Table (CEO Compensation), was approximately 80 times the total compensation of a median employee, calculated in the same manner, of $ 114,883 . We calculated the ratio of the pay of our CEO to that of our median employee as permitted under SEC rules. As of December 31, 2019, we and our consolidated subsidiaries had 4,613 employees in the United States and 213 employees located in Australia. As allowed under Item 402 of Regulation S-K, we exclude"
+   }
+  },
+  "0001047469-19-001180": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013871/000104746919001180/a2237960zdef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001013871-19-000007",
+   "result": {
+    "ceoPay": 8914948,
+    "medianPay": 115122,
+    "payRatio": 77,
+    "method": "cross-checked",
+    "employees": 4863,
+    "statedYear": 2018,
+    "excerpt": "equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2018, the total compensation of Mauricio Gutierrez, our President and Chief Executive Officer, of $8,914,948, as shown in the Summary Compensation Table (CEO Compensation), was approximately 77 times the total compensation of a median employee, calculated in the same manner, of $115,122. We calculated the ratio of the pay of our Chief Executive Officer to that of our median employee as permitted under SEC rules. As of December 31, 2018, we and our consolidated subsidiaries had 4,863 employees in the United States and 218 employees located in Australia. As allowed under Item 402 of Regulation"
+   }
+  },
+  "0001047469-18-001697": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/1013871/000104746918001697/a2234806zdef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001013871-18-000011",
+   "result": {
+    "ceoPay": 9049662,
+    "medianPay": 112446,
+    "payRatio": 80,
+    "method": "cross-checked",
+    "employees": 5940,
+    "statedYear": 2017,
+    "excerpt": "equitable to motivate our employees to create stockholder value. We monitor the relationship between the compensation of our executive officers and the compensation of our non-managerial employees. For 2017, the total compensation of Mauricio Gutierrez, our President and Chief Executive Officer of $9,049,662, as shown in the Summary Compensation Table (CEO Compensation), was approximately 80 times the total compensation of a median employee, calculated in the same manner, of $112,446. We calculated the ratio of the pay of our Chief Executive Officer to that of our median employee as permitted under SEC rules. As of December 31, 2017, we and our consolidated subsidiaries had 5,940 employees in the United States and 190 employees located in Australia. As allowed under Item 402 of Regulation"
+   }
+  }
+ },
+ "tenKs": {
+  "0001013871-21-000005": {
+   "parserVersion": 1,
+   "employees": 4104
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 5989000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000950123-10-015824"
+   },
+   "2008": {
+    "revenue": 6885000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-001125"
+   },
+   "2009": {
+    "revenue": 8952000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001445305-12-000493"
+   },
+   "2010": {
+    "revenue": 8849000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-13-000003"
+   },
+   "2011": {
+    "revenue": 9079000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-14-000019"
+   },
+   "2012": {
+    "revenue": 8422000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-15-000004"
+   },
+   "2013": {
+    "revenue": 11295000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-16-000022"
+   },
+   "2014": {
+    "revenue": 15868000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-17-000007"
+   },
+   "2015": {
+    "revenue": 12328000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-18-000011"
+   },
+   "2016": {
+    "revenue": 8915000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-19-000007"
+   },
+   "2017": {
+    "revenue": 9074000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-20-000013"
+   },
+   "2018": {
+    "revenue": 9478000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-21-000005"
+   },
+   "2019": {
+    "revenue": 9821000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-22-000010"
+   },
+   "2020": {
+    "revenue": 9093000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-23-000004"
+   },
+   "2021": {
+    "revenue": 26989000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-24-000005"
+   },
+   "2022": {
+    "revenue": 31543000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-25-000006"
+   },
+   "2023": {
+    "revenue": 28823000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-26-000004"
+   },
+   "2024": {
+    "revenue": 28130000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-26-000004"
+   },
+   "2025": {
+    "revenue": 30713000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001013871-26-000004"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001013871-26-000004",
+    "filingDate": "2026-02-24",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387126000004/nrg-20251231.htm"
+   },
+   {
+    "accession": "0001013871-25-000006",
+    "filingDate": "2025-02-26",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387125000006/nrg-20241231.htm"
+   },
+   {
+    "accession": "0001013871-24-000005",
+    "filingDate": "2024-02-28",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387124000005/nrg-20231231.htm"
+   },
+   {
+    "accession": "0001013871-23-000004",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387123000004/nrg-20221231.htm"
+   },
+   {
+    "accession": "0001013871-22-000010",
+    "filingDate": "2022-02-24",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387122000010/nrg-20211231.htm"
+   },
+   {
+    "accession": "0001013871-21-000005",
+    "filingDate": "2021-03-01",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387121000005/nrg-20201231.htm"
+   },
+   {
+    "accession": "0001013871-20-000013",
+    "filingDate": "2020-02-27",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387120000013/nrg-20191231.htm"
+   },
+   {
+    "accession": "0001013871-19-000007",
+    "filingDate": "2019-02-28",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387119000007/nrg201810-k.htm"
+   },
+   {
+    "accession": "0001013871-18-000011",
+    "filingDate": "2018-03-01",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387118000011/nrg201710-k.htm"
+   },
+   {
+    "accession": "0001013871-17-000007",
+    "filingDate": "2017-02-28",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1013871/000101387117000007/nrg201610-k.htm"
+   }
+  ]
+ }
+}

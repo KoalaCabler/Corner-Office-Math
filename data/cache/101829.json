@@ -1,0 +1,338 @@
+{
+ "proxies": {
+  "0001308179-26-000036": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000130817926000036/rtx014050-def14a.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000101829-26-000006",
+   "result": {
+    "ceoPay": 24846826,
+    "medianPay": 120092,
+    "payRatio": 207,
+    "method": "cross-checked",
+    "employees": 124562,
+    "statedYear": 2025,
+    "excerpt": "methodology outlined by the SEC for reporting in the Summary Compensation Table (see page 64). Under this methodology, compensation includes employee fringe benefits, such as Company contributions to healthcare and retirement plans. RESULTS The 2025 total annual compensation value for Mr. Calio was $24,846,826 and for RTX's global median employee (as of October 1, 2025), it was $120,092, resulting in a ratio of 207:1. With approximately 31% of our employees located outside the U.S., RTX has operations around the world. We believe paying competitive wages applicable for the local labor markets within our industry is essential to ensuring a productive, engaged workforce and a sustainable business. Consequently, a global ratio may not be particularly informative without any context for foreig"
+   }
+  },
+  "0001308179-25-000067": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-10",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000130817925000067/rtx4383903-def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000101829-25-000005",
+   "result": {
+    "ceoPay": 18421398,
+    "medianPay": 113094,
+    "payRatio": 163,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "mpany contributions to defined contribution plans are annualized for Mr. Calio's base salary in effect on May 2, 2024. All other elements reported in All Other Compensation are not annualized. | | Total | | | | $18,421,398 | | | | | RESULTS The 2024 total annual compensation value for Mr. Calio was $18,421,398 and for RTX's global median employee (as of October 1, 2024), it was $113,094, resulting in a ratio of 163:1. With approximately 31% of our employees located outside the U.S., RTX has operations around the world. We believe paying competitive wages targeted at the median of local labor markets within our industry is essential to ensuring a productive, engaged workforce and a sustainable business. Consequently, a global ratio may not be particularly informative without any context for"
+   }
+  },
+  "0001308179-24-000096": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-11",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000130817924000096/rtx4243711_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000101829-24-000008",
+   "result": {
+    "ceoPay": 21929459,
+    "medianPay": 117236,
+    "payRatio": 187,
+    "method": "cross-checked",
+    "employees": 128947,
+    "statedYear": 2023,
+    "excerpt": "methodology outlined by the SEC for reporting in the Summary Compensation Table (see page 68). Under this methodology, compensation includes employee fringe benefits, such as Company contributions to healthcare and retirement plans. RESULTS The 2023 total annual compensation value for Mr. Hayes was $21,929,459 and for RTX's global median employee was $117,236, resulting in a ratio of 187:1. With approximately 30% of our employees located outside the United States, RTX has operations around the world. We believe paying competitive wages targeted at the median of local labor markets within our industry is essential to ensuring a productive, engaged workforce and a sustainable business. Consequently, a global ratio may not be particularly informative without any context for foreign labor mark"
+   }
+  },
+  "0001308179-23-000143": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000130817923000143/rtx4101921-def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000101829-23-000009",
+   "result": {
+    "ceoPay": 22609036,
+    "medianPay": 116540,
+    "payRatio": 194,
+    "method": "cross-checked",
+    "employees": 128250,
+    "statedYear": 2022,
+    "excerpt": "methodology outlined by the SEC for reporting in the Summary Compensation Table (see page 67). Under this methodology, compensation includes employee fringe benefits, such as Company contributions to healthcare and retirement plans. RESULTS The 2022 total annual compensation value for Mr. Hayes was $22,609,036 and for RTX's global median employee was $116,540, resulting in a ratio of 194:1. With approximately 33% of our employees located outside the United States, RTX has operations around the world. We believe paying competitive wages targeted at the median of local labor markets within our industry is essential to ensuring a productive, engaged workforce and a sustainable business. Consequently, a global ratio may not be particularly informative without any context for foreign labor mark"
+   }
+  },
+  "0001206774-22-000689": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-14",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000120677422000689/rtx3925001-def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000101829-22-000005",
+   "result": {
+    "ceoPay": 23316063,
+    "medianPay": 112078,
+    "payRatio": 208,
+    "method": "cross-checked",
+    "employees": 124519,
+    "statedYear": 2021,
+    "excerpt": "methodology outlined by the SEC for reporting in the Summary Compensation Table (see page 66). Under this methodology, compensation includes employee fringe benefits, such as Company contributions to healthcare and retirement plans. RESULTS The 2021 total annual compensation value for Mr. Hayes was $23,316,063 and for RTX's global median employee was $112,078, resulting in a ratio of 208:1. With approximately 29% of our employees located outside the United States, RTX has operations in almost a third of the countries in the world. We believe paying competitive wages targeted at the median of local labor markets within our industry is essential to ensuring a productive, engaged workforce and a sustainable business. Consequently, a global ratio may not be particularly informative without any"
+   }
+  },
+  "0001206774-21-000675": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000120677421000675/rtx3815711-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000101829-21-000008",
+   "result": {
+    "ceoPay": 20970890,
+    "medianPay": 108914,
+    "payRatio": 193,
+    "method": "cross-checked",
+    "employees": 128887,
+    "statedYear": null,
+    "excerpt": "methodology required by the SEC for reporting in the Summary Compensation Table (see page 71). Under this methodology, compensation includes employee fringe benefits such as Company contributions to healthcare and retirement plans. RESULTS The 2020 total annual compensation value for Mr. Hayes was $20,970,890 and for RTX's global median employee was $108,914, resulting in a ratio of 193:1. With approximately 30% of our employees located outside the United States, RTX has operations in almost half of the countries in the world. We believe paying competitive wages targeted at the median of local labor markets within our industry is essential to ensuring a productive, engaged workforce and a sustainable business. Consequently, a global ratio may not be particularly informative without any co"
+   }
+  },
+  "0001206774-20-000806": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000120677420000806/utx3646311-def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000101829-20-000013",
+   "result": {
+    "ceoPay": 21538847,
+    "medianPay": 76417,
+    "payRatio": 282,
+    "method": "cross-checked",
+    "employees": 90838,
+    "statedYear": 2019,
+    "excerpt": "eporting in the Summary Compensation Table (see page 65). For the CEO and the median employee, the Summary Compensation Table values include employee fringe benefits, such as Company contributions to healthcare and retirement plans. Results The 2019 total annual compensation value for Mr. Hayes was $21,538,847 and for UTC's global median employee was $76,417, resulting in a ratio of 282:1. With approximately 63% of our employees located outside the United States, UTC has operations in nearly every country in the world. We believe paying competitive wages targeted at the median of local labor markets within our diverse industry segments is essential to ensuring a productive, engaged workforce and a sustainable business. Consequently, a global ratio may not be particularly informative withou"
+   }
+  },
+  "0001206774-19-000888": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-18",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000120677419000888/utc3495271-def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000101829-19-000007",
+   "result": {
+    "ceoPay": 18418315,
+    "medianPay": 71799,
+    "payRatio": 257,
+    "method": "cross-checked",
+    "employees": 69410,
+    "statedYear": 2018,
+    "excerpt": "ensation Table (see page 58 of this Proxy Statement). For the CEO and the median employee, the Summary Compensation Table values include employee fringe benefits, such as company contributions to healthcare and retirement plans. | Results | The 2018 total annual compensation value for Mr. Hayes was $18,418,315 and for UTC's global median employee was $71,799, resulting in a ratio of 257:1. With approximately 67% of our employees located outside the United States, UTC has operations in nearly every country in the world. We believe paying competitive wages targeted at the median of local labor markets within our diverse industry segments is essential to ensuring a productive, engaged workforce and a sustainable business. Consequently, a global ratio may not be particularly informative withou"
+   }
+  },
+  "0000930413-18-000987": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/101829/000093041318000987/c90207_def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000101829-18-000005",
+   "result": {
+    "ceoPay": 17027493,
+    "medianPay": 72433,
+    "payRatio": 235,
+    "method": "cross-checked",
+    "employees": 67586,
+    "statedYear": 2017,
+    "excerpt": "Compensation Table (see page 54 of this Proxy Statement). For the CEO and the median employee, the Summary Compensation Table values include employee fringe benefits, such as company contributions to healthcare and retirement plans. Results The 2017 total annual compensation value for Mr. Hayes was $17,027,493 and for UTC's global median employee was $72,433, resulting in a ratio of 235:1. With approximately 67% of our employees located outside the United States, UTC has operations in nearly every country in the world. We believe paying competitive wages targeted at the median of local labor markets within our diverse industry segments is essential to ensuring a productive, engaged workforce and a sustainable business. Consequently, a global ratio may not be particularly informative withou"
+   }
+  }
+ },
+ "tenKs": {
+  "0000101829-25-000005": {
+   "parserVersion": 1,
+   "employees": 186000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 55716000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-027861"
+   },
+   "2008": {
+    "revenue": 59757000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-027861"
+   },
+   "2009": {
+    "revenue": 52920000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-027861"
+   },
+   "2010": {
+    "revenue": 52275000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-13-042195"
+   },
+   "2011": {
+    "revenue": 55754000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000101829-14-000006"
+   },
+   "2012": {
+    "revenue": 57708000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000101829-15-000005"
+   },
+   "2013": {
+    "revenue": 56600000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000101829-16-000050"
+   },
+   "2014": {
+    "revenue": 57900000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000101829-17-000007"
+   },
+   "2015": {
+    "revenue": 56098000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000101829-18-000005"
+   },
+   "2016": {
+    "revenue": 57244000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000101829-19-000007"
+   },
+   "2017": {
+    "revenue": 59837000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000101829-20-000013"
+   },
+   "2018": {
+    "revenue": 34701000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000101829-21-000008"
+   },
+   "2019": {
+    "revenue": 45349000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000101829-22-000005"
+   },
+   "2020": {
+    "revenue": 56587000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000101829-23-000009"
+   },
+   "2021": {
+    "revenue": 64388000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000101829-24-000008"
+   },
+   "2022": {
+    "revenue": 67074000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000101829-25-000005"
+   },
+   "2023": {
+    "revenue": 68920000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000101829-25-000005"
+   },
+   "2024": {
+    "revenue": 80738000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000101829-25-000005"
+   },
+   "2025": {
+    "revenue": 88603000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000101829-26-000006"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000101829-26-000006",
+    "filingDate": "2026-02-06",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000006/rtx-20251231.htm"
+   },
+   {
+    "accession": "0000101829-25-000005",
+    "filingDate": "2025-02-03",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182925000005/rtx-20241231.htm"
+   },
+   {
+    "accession": "0000101829-24-000008",
+    "filingDate": "2024-02-05",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182924000008/rtx-20231231.htm"
+   },
+   {
+    "accession": "0000101829-23-000009",
+    "filingDate": "2023-02-07",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182923000009/rtx-20221231.htm"
+   },
+   {
+    "accession": "0000101829-22-000005",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182922000005/rtx-20211231.htm"
+   },
+   {
+    "accession": "0000101829-21-000008",
+    "filingDate": "2021-02-08",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182921000008/rtx-20201231.htm"
+   },
+   {
+    "accession": "0000101829-20-000013",
+    "filingDate": "2020-02-06",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182920000013/utx-20191231_d2.htm"
+   },
+   {
+    "accession": "0000101829-19-000007",
+    "filingDate": "2019-02-07",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182919000007/a2018-12x31form10xk.htm"
+   },
+   {
+    "accession": "0000101829-18-000005",
+    "filingDate": "2018-02-09",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182918000005/a2017-12x31form10xk.htm"
+   },
+   {
+    "accession": "0000101829-17-000007",
+    "filingDate": "2017-02-09",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/101829/000010182917000007/a2016-12x31form10xk.htm"
+   }
+  ]
+ }
+}

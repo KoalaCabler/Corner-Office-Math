@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0000707549-26-000047": {
+   "parserVersion": 1,
+   "filingDate": "2026-09-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000047/lrcx-20260924.htm",
+   "periodEnd": "2026-06-28",
+   "tenK": "0000707549-26-000037",
+   "result": {
+    "ceoPay": 40354475,
+    "medianPay": 80764,
+    "payRatio": 500,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "ms of the plan. | | | | CEO Pay Ratio In accordance with SEC rules, we are providing the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees (other than our CEO). The fiscal year 2026 annual total compensation of our CEO, Mr. Archer, was $40,354,475, the fiscal year 2026 annual total compensation of our median compensated employee (other than our CEO) was $80,764, and the ratio of these amounts was 500 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our human resources system of record and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation all"
+   }
+  },
+  "0001140361-25-036012": {
+   "parserVersion": 1,
+   "filingDate": "2025-09-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000114036125036012/ny20050572x2_def14a.htm",
+   "periodEnd": "2025-06-29",
+   "tenK": "0000707549-25-000075",
+   "result": {
+    "ceoPay": 28298161,
+    "medianPay": 91230,
+    "payRatio": 310,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "the terms of the plan. CEO Pay Ratio In accordance with SEC rules, we are providing the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees (other than our CEO). The fiscal year 2025 annual total compensation of our CEO, Mr. Archer, was $28,298,161, the fiscal year 2025 annual total compensation of our median compensated employee (other than our CEO) was $91,230, and the ratio of these amounts was 310 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our human resources system of record and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation all"
+   }
+  },
+  "0001140361-24-041891": {
+   "parserVersion": 1,
+   "filingDate": "2024-09-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000114036124041891/ny20031746x1_def14a.htm",
+   "periodEnd": "2024-06-30",
+   "tenK": "0000707549-24-000106",
+   "result": {
+    "ceoPay": 30135041,
+    "medianPay": 83462,
+    "payRatio": 361,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "the terms of the plan. CEO Pay Ratio In accordance with SEC rules, we are providing the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees (other than our CEO). The fiscal year 2024 annual total compensation of our CEO, Mr. Archer, was $30,135,041, the fiscal year 2024 annual total compensation of our median compensated employee (other than our CEO) was $83,462, and the ratio of these amounts was 361 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our human resources system of record and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation all"
+   }
+  },
+  "0001140361-23-045527": {
+   "parserVersion": 1,
+   "filingDate": "2023-09-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000114036123045527/ny20009821x500_def14a.htm",
+   "periodEnd": "2023-06-25",
+   "tenK": "0000707549-23-000102",
+   "result": {
+    "ceoPay": 18310099,
+    "medianPay": 81126,
+    "payRatio": 226,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "the terms of the plan. CEO Pay Ratio In accordance with SEC rules, we are providing the ratio of the annual total compensation of our CEO, to the median of the annual total compensation of our employees (other than our CEO). The fiscal year 2023 annual total compensation of our CEO, Mr. Archer, was $18,310,099, the fiscal year 2023 annual total compensation of our median compensated employee (other than our CEO) was $81,126, and the ratio of these amounts was 226 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our human resources system of record and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation all"
+   }
+  },
+  "0001104659-22-103703": {
+   "parserVersion": 1,
+   "filingDate": "2022-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000110465922103703/tm2219406-1_def14a.htm",
+   "periodEnd": "2022-06-26",
+   "tenK": "0000707549-22-000107",
+   "result": {
+    "ceoPay": 16941156,
+    "medianPay": 119322,
+    "payRatio": 142,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "the terms of the plan. CEO Pay Ratio In accordance with SEC rules, we are providing the ratio of the annual total compensation of our CEO, to the median of the annual total compensation of our employees (other than our CEO). The fiscal year 2022 annual total compensation of our CEO, Mr. Archer, was $16,941,156, the fiscal year 2022 annual total compensation of our median compensated employee (other than our CEO) was $119,322, and the ratio of these amounts was 142 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our human resources system of record and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation al"
+   }
+  },
+  "0001104659-21-120221": {
+   "parserVersion": 1,
+   "filingDate": "2021-09-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000110465921120221/tm2120121-1_def14a.htm",
+   "periodEnd": "2021-06-27",
+   "tenK": "0000707549-21-000136",
+   "result": {
+    "ceoPay": 15495736,
+    "medianPay": 129535,
+    "payRatio": 120,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "t 51 TABLE OF CONTENTS CEO Pay Ratio In accordance with SEC rules, we are providing the ratio of the annual total compensation of our CEO, to the median of the annual total compensation of our employees (other than our CEO). The fiscal year 2021 annual total compensation of our CEO, Mr. Archer, was $15,495,736, the fiscal year 2021 annual total compensation of our median compensated employee (other than our CEO) was $129,535, and the ratio of these amounts was 120 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our human resources system of record and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation al"
+   }
+  },
+  "0001193125-20-252302": {
+   "parserVersion": 1,
+   "filingDate": "2020-09-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000119312520252302/d96552ddef14a.htm",
+   "periodEnd": "2020-06-28",
+   "tenK": "0000707549-20-000138",
+   "result": {
+    "ceoPay": 11753004,
+    "medianPay": 104541,
+    "payRatio": 112,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "atio In accordance with SEC rules, we are providing the ratio of the annual total compensation of our Chief Executive Officer, or the CEO, to the median of the annual total compensation of our employees (other than the CEO). The fiscal year 2020 annual total compensation of our CEO, Mr. Archer, was $11,753,004, the fiscal year 2020 annual total compensation of our median compensated employee (other than the CEO) was $104,541, and the ratio of these amounts was 112 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our human resources system of record and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation al"
+   }
+  },
+  "0001193125-19-254747": {
+   "parserVersion": 1,
+   "filingDate": "2019-09-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000119312519254747/d800072ddef14a.htm",
+   "periodEnd": "2019-06-30",
+   "tenK": "0000707549-19-000124",
+   "result": {
+    "ceoPay": 13745109,
+    "medianPay": 95689,
+    "payRatio": 144,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "atio In accordance with SEC rules, we are providing the ratio of the annual total compensation of our Chief Executive Officer, or the CEO, to the median of the annual total compensation of our employees (other than the CEO). The fiscal year 2019 annual total compensation of our CEO, Mr. Archer, was $13,745,109, the fiscal year 2019 annual total compensation of our median compensated employee (other than the CEO) was $95,689, and the ratio of these amounts was 144 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our human resources system of record and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation all"
+   }
+  },
+  "0001193125-18-284078": {
+   "parserVersion": 1,
+   "filingDate": "2018-09-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/707549/000119312518284078/d618470ddef14a.htm",
+   "periodEnd": "2018-06-24",
+   "tenK": "0000707549-18-000115",
+   "result": {
+    "ceoPay": 12848645,
+    "medianPay": 95770,
+    "payRatio": 134,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "tio In accordance with SEC rules, we are providing the ratio of the annual total compensation of our Chief Executive Officer, or the CEO, to the median of the annual total compensation of our employees (other than the CEO). The fiscal year 2018 annual total compensation of our CEO, Mr. Anstice, was $12,848,645, the fiscal year 2018 annual total compensation of our median compensated employee (other than the CEO) was $95,770, and the ratio of these amounts was 134 to 1. This pay ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our human resources system of record and the methodology described below. Because the SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation all"
+   }
+  }
+ },
+ "tenKs": {
+  "0000707549-18-000115": {
+   "parserVersion": 1,
+   "employees": 10900
+  },
+  "0000707549-19-000124": {
+   "parserVersion": 1,
+   "employees": 10700
+  },
+  "0000707549-20-000138": {
+   "parserVersion": 1,
+   "employees": 11300
+  },
+  "0000707549-21-000136": {
+   "parserVersion": 1,
+   "employees": 14100
+  },
+  "0000707549-22-000107": {
+   "parserVersion": 1,
+   "employees": 17700
+  },
+  "0000707549-23-000102": {
+   "parserVersion": 1,
+   "employees": 17200
+  },
+  "0000707549-24-000106": {
+   "parserVersion": 1,
+   "employees": 17450
+  },
+  "0000707549-25-000075": {
+   "parserVersion": 1,
+   "employees": 19000
+  },
+  "0000707549-26-000037": {
+   "parserVersion": 1,
+   "employees": 23300
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 1115946000,
+    "periodEnd": "2009-06-28",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-227691"
+   },
+   "2010": {
+    "revenue": 2133776000,
+    "periodEnd": "2010-06-27",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-227691"
+   },
+   "2011": {
+    "revenue": 3237693000,
+    "periodEnd": "2011-06-26",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-227691"
+   },
+   "2012": {
+    "revenue": 2665192000,
+    "periodEnd": "2012-06-24",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-14-321759"
+   },
+   "2013": {
+    "revenue": 3598916000,
+    "periodEnd": "2013-06-30",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-15-290023"
+   },
+   "2014": {
+    "revenue": 4607309000,
+    "periodEnd": "2014-06-29",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000707549-16-000050"
+   },
+   "2015": {
+    "revenue": 5259312000,
+    "periodEnd": "2015-06-28",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000707549-17-000100"
+   },
+   "2016": {
+    "revenue": 5885893000,
+    "periodEnd": "2016-06-26",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0000707549-18-000115"
+   },
+   "2017": {
+    "revenue": 8013620000,
+    "periodEnd": "2017-06-25",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000707549-19-000124"
+   },
+   "2018": {
+    "revenue": 11076998000,
+    "periodEnd": "2018-06-24",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000707549-20-000138"
+   },
+   "2019": {
+    "revenue": 9653559000,
+    "periodEnd": "2019-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000707549-21-000136"
+   },
+   "2020": {
+    "revenue": 10044736000,
+    "periodEnd": "2020-06-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000707549-22-000107"
+   },
+   "2021": {
+    "revenue": 14626150000,
+    "periodEnd": "2021-06-27",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000707549-23-000102"
+   },
+   "2022": {
+    "revenue": 17227039000,
+    "periodEnd": "2022-06-26",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000707549-24-000106"
+   },
+   "2023": {
+    "revenue": 17428516000,
+    "periodEnd": "2023-06-25",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000707549-25-000075"
+   },
+   "2024": {
+    "revenue": 14905386000,
+    "periodEnd": "2024-06-30",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000707549-26-000037"
+   },
+   "2025": {
+    "revenue": 18435591000,
+    "periodEnd": "2025-06-29",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000707549-26-000037"
+   },
+   "2026": {
+    "revenue": 23232690000,
+    "periodEnd": "2026-06-28",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000707549-26-000037"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 16941156,
+   "2023": 18310099,
+   "2024": 30135041,
+   "2025": 28298161,
+   "2026": 40354475
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000707549-26-000037",
+    "filingDate": "2026-08-07",
+    "reportDate": "2026-06-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754926000037/lrcx-20260628.htm"
+   },
+   {
+    "accession": "0000707549-25-000075",
+    "filingDate": "2025-08-11",
+    "reportDate": "2025-06-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754925000075/lrcx-20250629.htm"
+   },
+   {
+    "accession": "0000707549-24-000106",
+    "filingDate": "2024-08-29",
+    "reportDate": "2024-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754924000106/lrcx-20240630.htm"
+   },
+   {
+    "accession": "0000707549-23-000102",
+    "filingDate": "2023-08-15",
+    "reportDate": "2023-06-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754923000102/lrcx-20230625.htm"
+   },
+   {
+    "accession": "0000707549-22-000107",
+    "filingDate": "2022-08-24",
+    "reportDate": "2022-06-26",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754922000107/lrcx-20220626.htm"
+   },
+   {
+    "accession": "0000707549-21-000136",
+    "filingDate": "2021-08-17",
+    "reportDate": "2021-06-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754921000136/lrcx-20210627.htm"
+   },
+   {
+    "accession": "0000707549-20-000138",
+    "filingDate": "2020-08-18",
+    "reportDate": "2020-06-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754920000138/lrcx10k2020document.htm"
+   },
+   {
+    "accession": "0000707549-19-000124",
+    "filingDate": "2019-08-20",
+    "reportDate": "2019-06-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754919000124/lrcx10k2019document.htm"
+   },
+   {
+    "accession": "0000707549-18-000115",
+    "filingDate": "2018-08-14",
+    "reportDate": "2018-06-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754918000115/lrcx_10kx2018xdocument.htm"
+   },
+   {
+    "accession": "0000707549-17-000100",
+    "filingDate": "2017-08-15",
+    "reportDate": "2017-06-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000070754917000100/lrcx_10kx2017xdocument.htm"
+   }
+  ]
+ }
+}

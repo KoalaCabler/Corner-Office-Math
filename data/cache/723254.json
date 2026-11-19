@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0000723254-26-000040": {
+   "parserVersion": 1,
+   "filingDate": "2026-09-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000040/ctas-20260915.htm",
+   "periodEnd": "2026-05-31",
+   "tenK": "0000723254-26-000028",
+   "result": {
+    "ceoPay": 12158605,
+    "medianPay": 75766,
+    "payRatio": 160,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "ployee-partner who received the Median Annual Compensation as the \"Median Employee-Partner.\" For purposes of this pay ratio disclosure, the date used to identify the Median Employee-Partner was May 30, 2025 (the Determination Date). The CEO Compensation for purposes of this pay ratio disclosure was $12,158,605 for fiscal 2026, which is the amount reported for Mr. Schneider in the \"Total\" column of the Fiscal 2026 Summary Compensation Table, plus employer-paid healthcare and employer-offered insurance. Additionally, for purposes of this pay ratio disclosure, the Median Annual Compensation for fiscal 2026 was $75,766 and was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K, plus employer-paid healthcare and employer-offered insurance. The ratio of the CEO Compensation to the"
+   }
+  },
+  "0000723254-25-000025": {
+   "parserVersion": 1,
+   "filingDate": "2025-09-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325425000025/ctas-20250915.htm",
+   "periodEnd": "2025-05-31",
+   "tenK": "0000723254-25-000017",
+   "result": {
+    "ceoPay": 9267498,
+    "medianPay": 73899,
+    "payRatio": 125,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "isclosure in last year's proxy statement was May 31, 2024, the last Friday in May 2024. For fiscal 2025, we changed the date to May 30, 2025 to continue to use the last Friday of the month for purposes of administrative convenience. The CEO Compensation for purposes of this pay ratio disclosure was $9,267,498 for fiscal 2025, which is the amount reported for Mr. Schneider in the \"Total\" column of the Fiscal 2025 Summary Compensation Table, plus employer-paid healthcare and employer-offered insurance. Additionally, for purposes of this pay ratio disclosure, the Median Annual Compensation for fiscal 2025 was $73,899 and was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K, plus employer-paid healthcare and employer-offered insurance. The ratio of the CEO Compensation to the"
+   }
+  },
+  "0000723254-24-000047": {
+   "parserVersion": 1,
+   "filingDate": "2024-09-19",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325424000047/ctas-20240919.htm",
+   "periodEnd": "2024-05-31",
+   "tenK": "0000723254-24-000036",
+   "result": {
+    "ceoPay": 8797474,
+    "medianPay": 57299,
+    "payRatio": 154,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "isclosure in last year's proxy statement was May 28, 2021, the last Friday in May 2021. For fiscal 2024, we changed the date to May 31, 2024 to continue to use the last Friday of the month for purposes of administrative convenience. The CEO Compensation for purposes of this pay ratio disclosure was $8,797,474 for fiscal 2024, which is the amount reported for Mr. Schneider in the \"Total\" column of the Fiscal 2024 Summary Compensation Table. Additionally, for purposes of this pay ratio disclosure, the Median Annual Compensation for fiscal 2024 was $57,299 and was calculated in accordance with Item 402(c)(2)(x) of Regulation S-K. The ratio of the CEO Compensation to the Median Annual Compensation for fiscal 2024 was approximately 154 to 1. To identify the Median Employee-Partner from our tota"
+   }
+  },
+  "0000723254-23-000030": {
+   "parserVersion": 1,
+   "filingDate": "2023-09-12",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325423000030/ctas-20230912.htm",
+   "periodEnd": "2023-05-31",
+   "tenK": "0000723254-23-000025",
+   "result": {
+    "ceoPay": 7570256,
+    "medianPay": 62513,
+    "payRatio": 121,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "PAY RATIO For fiscal 2023, the ratio of the annual total compensation of Mr. Schneider, our CEO (CEO Compensation), to the median of the annual total compensation of all employee-partners of Cintas and its consolidated subsidiaries, other than the CEO (Median Annual Compensation), was approximately 121 to 1. We note that, due to our permitted use of reasonable estimates and assumptions in preparing this pay ratio disclosure, the disclosure may involve a degree of imprecision, and thus this ratio disclosure is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K using the data and assumptions described below. Our calculation of the pay ratio may be different than the pay ratios of other public companies as a result of different methodologies used to det"
+   }
+  },
+  "0000723254-22-000025": {
+   "parserVersion": 1,
+   "filingDate": "2022-09-13",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325422000025/proxyfy22.htm",
+   "periodEnd": "2022-05-31",
+   "tenK": "0000723254-22-000019",
+   "result": {
+    "ceoPay": 7777100,
+    "medianPay": 53321,
+    "payRatio": 146,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "PAY RATIO For fiscal 2022, the ratio of the annual total compensation of Mr. Schneider, our CEO (CEO Compensation), to the median of the annual total compensation of all employee-partners of Cintas and its consolidated subsidiaries, other than the CEO (Median Annual Compensation), was approximately 146 to 1. We note that, due to our permitted use of reasonable estimates and assumptions in preparing this pay ratio disclosure, the disclosure may involve a degree of imprecision, and thus this ratio disclosure is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K using the data and assumptions described below. Our calculation of the pay ratio may be different than the pay ratios of other public companies as a result of different methodologies used to det"
+   }
+  },
+  "0000723254-21-000026": {
+   "parserVersion": 1,
+   "filingDate": "2021-09-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325421000026/proxyfy21.htm",
+   "periodEnd": "2021-05-31",
+   "tenK": "0000723254-21-000021",
+   "result": {
+    "ceoPay": 9035393,
+    "medianPay": 48274,
+    "payRatio": 187,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "r, our former CEO (CEO Compensation) who was serving in such role on the Determination Date (defined below), to the median of the annual total compensation of all employee-partners of Cintas and its consolidated subsidiaries, other than the former CEO (Median Annual Compensation), was approximately 187 to 1. We note that, due to our permitted use of reasonable estimates and assumptions in preparing this pay ratio disclosure, the disclosure may involve a degree of imprecision, and thus this ratio disclosure is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K using the data and assumptions described below. Our calculation of the pay ratio may be different than the pay ratios of other public companies as a result of different methodologies used to det"
+   }
+  },
+  "0000723254-20-000033": {
+   "parserVersion": 1,
+   "filingDate": "2020-09-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325420000033/proxyfy20.htm",
+   "periodEnd": "2020-05-31",
+   "tenK": "0000723254-20-000025",
+   "result": {
+    "ceoPay": 6698520,
+    "medianPay": 55712,
+    "payRatio": 120,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "EO PAY RATIO For fiscal 2020, the ratio of the annual total compensation of Mr. Farmer, our CEO (CEO Compensation), to the median of the annual total compensation of all employee-partners of Cintas and its consolidated subsidiaries, other than the CEO (Median Annual Compensation), was approximately 120 to 1. We note that, due to our permitted use of reasonable estimates and assumptions in preparing this pay ratio disclosure, the disclosure may involve a degree of imprecision, and thus this ratio disclosure is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K using the data and assumptions described below. Our calculation of the pay ratio may be different than the pay ratios of other public companies as a result of different methodologies used to det"
+   }
+  },
+  "0000723254-19-000024": {
+   "parserVersion": 1,
+   "filingDate": "2019-09-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325419000024/proxyfy19.htm",
+   "periodEnd": "2019-05-31",
+   "tenK": "0000723254-19-000021",
+   "result": {
+    "ceoPay": 8621245,
+    "medianPay": 52302,
+    "payRatio": 165,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "EO PAY RATIO For fiscal 2019, the ratio of the annual total compensation of Mr. Farmer, our CEO (CEO Compensation), to the median of the annual total compensation of all employee-partners of Cintas and its consolidated subsidiaries, other than the CEO (Median Annual Compensation), was approximately 165 to 1. We note that, due to our permitted use of reasonable estimates and assumptions in preparing this pay ratio disclosure, the disclosure may involve a degree of imprecision, and thus this ratio disclosure is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K using the data and assumptions described below. Our calculation of the pay ratio may be different than the pay ratios of other public companies as a result of different methodologies used to det"
+   }
+  },
+  "0000723254-18-000023": {
+   "parserVersion": 1,
+   "filingDate": "2018-09-20",
+   "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325418000023/proxyfy18.htm",
+   "periodEnd": "2018-05-31",
+   "tenK": "0000723254-18-000015",
+   "result": {
+    "ceoPay": 9778369,
+    "medianPay": 50234,
+    "payRatio": 195,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "RATIO For fiscal 2018, the ratio of the annual total compensation of Mr. S. D. Farmer, our CEO (CEO Compensation), to the median of the annual total compensation of all employee-partners of Cintas and its consolidated subsidiaries, other than the CEO (Median Annual Compensation), was approximately 195 to 1. We note that, due to our permitted use of reasonable estimates and assumptions in preparing this pay ratio disclosure, the disclosure may involve a degree of imprecision, and thus this ratio disclosure is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K using the data and assumptions described below. Our calculation of the pay ratio may be different than the pay ratios of other public companies as a result of different methodologies used to det"
+   }
+  }
+ },
+ "tenKs": {
+  "0000723254-18-000015": {
+   "parserVersion": 1,
+   "employees": 41000
+  },
+  "0000723254-19-000021": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000723254-20-000025": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000723254-21-000021": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000723254-22-000019": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000723254-23-000025": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000723254-24-000036": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000723254-25-000017": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000723254-26-000028": {
+   "parserVersion": 1,
+   "employees": null
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2009": {
+    "revenue": 3774685000,
+    "periodEnd": "2009-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-006745"
+   },
+   "2010": {
+    "revenue": 3547339000,
+    "periodEnd": "2010-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000723254-12-000004"
+   },
+   "2011": {
+    "revenue": 3810384000,
+    "periodEnd": "2011-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000723254-13-000011"
+   },
+   "2012": {
+    "revenue": 4102000000,
+    "periodEnd": "2012-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000723254-14-000020"
+   },
+   "2013": {
+    "revenue": 4245964000,
+    "periodEnd": "2013-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000723254-15-000017"
+   },
+   "2014": {
+    "revenue": 4193844000,
+    "periodEnd": "2014-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000723254-16-000050"
+   },
+   "2015": {
+    "revenue": 4369677000,
+    "periodEnd": "2015-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000723254-17-000020"
+   },
+   "2016": {
+    "revenue": 4795772000,
+    "periodEnd": "2016-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000723254-18-000015"
+   },
+   "2017": {
+    "revenue": 5323381000,
+    "periodEnd": "2017-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000723254-19-000021"
+   },
+   "2018": {
+    "revenue": 6476632000,
+    "periodEnd": "2018-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000723254-19-000021"
+   },
+   "2019": {
+    "revenue": 6892303000,
+    "periodEnd": "2019-05-31",
+    "revenueTag": "Revenues",
+    "accession": "0000723254-19-000021"
+   },
+   "2020": {
+    "revenue": 7085120000,
+    "periodEnd": "2020-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723254-22-000019"
+   },
+   "2021": {
+    "revenue": 7116340000,
+    "periodEnd": "2021-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723254-23-000025"
+   },
+   "2022": {
+    "revenue": 7854459000,
+    "periodEnd": "2022-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723254-24-000036"
+   },
+   "2023": {
+    "revenue": 8815769000,
+    "periodEnd": "2023-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723254-25-000017"
+   },
+   "2024": {
+    "revenue": 9596615000,
+    "periodEnd": "2024-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723254-26-000028"
+   },
+   "2025": {
+    "revenue": 10340181000,
+    "periodEnd": "2025-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723254-26-000028"
+   },
+   "2026": {
+    "revenue": 11264761000,
+    "periodEnd": "2026-05-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000723254-26-000028"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {
+   "2022": 7777100,
+   "2023": 7570256,
+   "2024": 8797474,
+   "2025": 9249676,
+   "2026": 12158605
+  }
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000723254-26-000028",
+    "filingDate": "2026-07-29",
+    "reportDate": "2026-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000028/ctas-20260531.htm"
+   },
+   {
+    "accession": "0000723254-25-000017",
+    "filingDate": "2025-07-28",
+    "reportDate": "2025-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325425000017/ctas-20250531.htm"
+   },
+   {
+    "accession": "0000723254-24-000036",
+    "filingDate": "2024-07-25",
+    "reportDate": "2024-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325424000036/ctas-20240531.htm"
+   },
+   {
+    "accession": "0000723254-23-000025",
+    "filingDate": "2023-07-27",
+    "reportDate": "2023-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325423000025/ctas-20230531.htm"
+   },
+   {
+    "accession": "0000723254-22-000019",
+    "filingDate": "2022-07-27",
+    "reportDate": "2022-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325422000019/ctas-20220531.htm"
+   },
+   {
+    "accession": "0000723254-21-000021",
+    "filingDate": "2021-07-28",
+    "reportDate": "2021-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325421000021/ctas-20210531.htm"
+   },
+   {
+    "accession": "0000723254-20-000025",
+    "filingDate": "2020-07-29",
+    "reportDate": "2020-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325420000025/ctas-20200531.htm"
+   },
+   {
+    "accession": "0000723254-19-000021",
+    "filingDate": "2019-07-26",
+    "reportDate": "2019-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325419000021/ctas531201910k.htm"
+   },
+   {
+    "accession": "0000723254-18-000015",
+    "filingDate": "2018-07-27",
+    "reportDate": "2018-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325418000015/ctas531201810k.htm"
+   },
+   {
+    "accession": "0000723254-17-000020",
+    "filingDate": "2017-07-31",
+    "reportDate": "2017-05-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325417000020/ctas531201710k.htm"
+   }
+  ]
+ }
+}

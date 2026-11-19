@@ -1,0 +1,356 @@
+{
+ "proxies": {
+  "0000875320-26-000153": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000153/vrtx-20260402.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000875320-26-000056",
+   "result": {
+    "ceoPay": 21144261,
+    "medianPay": 264487,
+    "payRatio": 80,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "Under the Dodd-Frank Wall Street Reform and Consumer Protection Act, the SEC requires annual disclosure of the ratio of the annual total compensation of our CEO to that of our median employee. In 2025 , Dr. Kewalramani's annual total compensation, as reported in the Summary Compensation Table, was $21,144,261 and the median of the annual total compensation of all employees of the company (other than our Chief Executive Officer) was $264,487 . The ratio of annual total compensation for Dr. Kewalramani to that of our median employee's annual total compensation was approximately 80 :1. We identified the median employee as of October 1, 2024, using target total annual compensation in 2024, which included: • Base salary • Target cash bonus • Target long-term equity awards Our measure of compen"
+   }
+  },
+  "0000875320-25-000160": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532025000160/vrtx-20250403.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000875320-25-000053",
+   "result": {
+    "ceoPay": 21538668,
+    "medianPay": 245708,
+    "payRatio": 88,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "O Under the Dodd-Frank Wall Street Reform and Consumer Protection Act, the SEC requires annual disclosure of the ratio of the annual total compensation of our CEO to that of our median employee. In 2024, Dr. Kewalramani's annual total compensation, as reported in the Summary Compensation Table, was $21,538,668 and the median of the annual total compensation of all employees of the company (other than our Chief Executive Officer) was $245,708. The ratio of annual total compensation for Dr. Kewalramani to that of our median employee's annual total compensation was approximately 88:1. Due to growth in our employee population, we identified a new median employee as of October 1, 2024 using target total annual compensation in 2024. Our measure of compensation for identifying the median employee"
+   }
+  },
+  "0001308179-24-000452": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/875320/000130817924000452/lvrtx2024_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000875320-24-000062",
+   "result": {
+    "ceoPay": 20594441,
+    "medianPay": 247549,
+    "payRatio": 83,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "O Under the Dodd-Frank Wall Street Reform and Consumer Protection Act, the SEC requires annual disclosure of the ratio of the annual total compensation of our CEO to that of our median employee. In 2023, Dr. Kewalramani's annual total compensation, as reported in the Summary Compensation Table, was $20,594,441 and the median of the annual total compensation of all employees of the company (other than our Chief Executive Officer) was $247,549. The ratio of annual total compensation for Dr. Kewalramani to that of our median employee's annual total compensation was approximately 83:1. Due to growth in our employee population, we identified a new median employee using target total annual compensation in 2023. Our measure of compensation for identifying the median employee was consistently appl"
+   }
+  },
+  "0001308179-23-000591": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/875320/000130817923000591/lvrtx2023_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000875320-23-000007",
+   "result": {
+    "ceoPay": 15864497,
+    "medianPay": 238818,
+    "payRatio": 66,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "O Under the Dodd-Frank Wall Street Reform and Consumer Protection Act, the SEC requires annual disclosure of the ratio of the annual total compensation of our CEO to that of our median employee. In 2022, Dr. Kewalramani's annual total compensation, as reported in the Summary Compensation Table, was $15,864,497 and the median of the annual total compensation of all employees of the Company (other than our Chief Executive Officer) was $238,818. The ratio of annual total compensation for Dr. Kewalramani to that of our median employee's annual total compensation was approximately 66:1. Due to growth in our employee population, we identified a new median employee using target total annual compensation in 2022. Our measure of compensation for identifying the median employee was consistently appl"
+   }
+  },
+  "0001308179-22-000210": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/875320/000130817922000210/lvrtx2022_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000875320-22-000007",
+   "result": {
+    "ceoPay": 15198856,
+    "medianPay": 234107,
+    "payRatio": 65,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": ", and included employees in 21 countries. We calculated the median employee's annual total compensation using the same methodology used to calculate Dr. Kewalramani's annual total compensation for the Summary Compensation Table. In 2021, the total annual compensation for the Median Employee equaled $234,107. In 2021, Dr. Kewalramani's total annual compensation was $15,198,856. The ratio of total annual compensation for Dr. Kewalramani to our median employee's total annual compensation was 65:1. VERTEX PHARMACEUTICALS INCORPORATED - 2022 Proxy Statement 78 | | | Back to Contents | | | SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT The following table sets forth information regarding beneficial ownership of our common stock as of March 24, 2022, by: | | | | | each shareholder"
+   }
+  },
+  "0001308179-21-000196": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/875320/000130817921000196/lvrtx2021_def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000875320-21-000006",
+   "result": {
+    "ceoPay": 9164051,
+    "medianPay": 215509,
+    "payRatio": 43,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "identifying the median employee, we calculated the median employee's annual total compensation using the same methodology used to calculate CEO's annual total compensation for the Summary Compensation Table. In 2020, the total annual compensation for our median employee, other than the CEO, equaled $215,509. In 2020, Dr. Kewalramani's total annualized compensation as CEO equaled $9,164,051. The ratio of total annual compensation for Dr. Kewalramani to our median employee's total annual compensation was 43:1. If we adjusted Dr. Kewalramani's base salary as if she had served as CEO for the full year and adjusted her long-term equity award to reflect an award as if she were CEO for the full year, Dr. Kewalramani's adjusted annual total compensation for 2020, with no additional changes to othe"
+   }
+  },
+  "0001308179-20-000229": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/875320/000130817920000229/lvrtx2020_def14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000875320-20-000007",
+   "result": {
+    "ceoPay": 18800000,
+    "medianPay": 227653,
+    "payRatio": 83,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "including a broad-based equity program pursuant to which all full-time employees receive equity, with differences reflecting the level of responsibility of the employees. In 2019: | | | The ratio of total compensation for Dr. Leiden, our CEO in 2019, to our median employee's total compensation was 83:1. | | | | Dr. Leiden's total compensation equaled $18.8 million. | | | | The total annual compensation for Vertex's median employee, other than the CEO, equaled $227,653. | Methodology In 2019, we changed our methodology used to identify our median employee. Our practice for granting equity awards to employees recently changed from a share-based approach to a value-based approach. Given this change, we changed our methodology to identify our median employee using target total direct compensa"
+   }
+  },
+  "0001308179-19-000189": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/875320/000130817919000189/lvrt2019_def14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000875320-19-000006",
+   "result": {
+    "ceoPay": 18800000,
+    "medianPay": 232178,
+    "payRatio": 81,
+    "method": "cross-checked",
+    "employees": 1882,
+    "statedYear": 2018,
+    "excerpt": "anization, including a broad-based equity program pursuant to which all full-time employees receive equity, with differences reflecting the level of responsibility of the employees. In 2018: | | | The ratio of our CEO total compensation for Dr. Leiden to our median employee's total compensation was 81:1. | | | | Dr. Leiden's total compensation equaled $18.8 million | | | | The total annual compensation for Vertex's median employee equaled $232,178 | Our population and compensation structure in 2018 were not modified in a way in which we believe would be reasonably likely to significantly impact our pay ratio disclosure. As such, we are using the same methodology used to identify our median employee that we used in 2017, as described below. However, the median employee identified in 2017 wa"
+   }
+  },
+  "0001308179-18-000188": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/875320/000130817918000188/lvrt2018_def14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000875320-18-000009",
+   "result": {
+    "ceoPay": 17200000,
+    "medianPay": 211511,
+    "payRatio": 81,
+    "method": "cross-checked",
+    "employees": 1882,
+    "statedYear": 2017,
+    "excerpt": "anization, including a broad-based equity program pursuant to which all full-time employees receive equity, with differences reflecting the level of responsibility of the employees. In 2017: | | | The ratio of our CEO total compensation for Dr. Leiden to our median employee's total compensation was 81:1 | | | | | | | | Dr. Leiden's total compensation equaled $17.2 million | | | | | | | | The total compensation for Vertex's median employee equaled $211,511 | The 2017 compensation for our CEO and median employee were calculated using the same methodology required by the SEC for reporting named executive officer compensation in the Summary Compensation Table. Methodology Our measure of compensation for the median employee was consistently applied and includes: | | | Base salary (including any"
+   }
+  }
+ },
+ "tenKs": {
+  "0000875320-20-000007": {
+   "parserVersion": 1,
+   "employees": 75000
+  },
+  "0000875320-21-000006": {
+   "parserVersion": 1,
+   "employees": 83000
+  },
+  "0000875320-22-000007": {
+   "parserVersion": 1,
+   "employees": 3900
+  },
+  "0000875320-23-000007": {
+   "parserVersion": 1,
+   "employees": 4800
+  },
+  "0000875320-24-000062": {
+   "parserVersion": 1,
+   "employees": 5400
+  },
+  "0000875320-25-000053": {
+   "parserVersion": 1,
+   "employees": 6100
+  },
+  "0000875320-26-000056": {
+   "parserVersion": 1,
+   "employees": 97000
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2008": {
+    "revenue": 175504000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-11-001025"
+   },
+   "2009": {
+    "revenue": 101889000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001047469-12-001298"
+   },
+   "2010": {
+    "revenue": 143370000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000875320-13-000009"
+   },
+   "2011": {
+    "revenue": 1410626000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000875320-14-000015"
+   },
+   "2012": {
+    "revenue": 1527042000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000875320-15-000012"
+   },
+   "2013": {
+    "revenue": 1211975000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000875320-16-000067"
+   },
+   "2014": {
+    "revenue": 580415000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000875320-17-000017"
+   },
+   "2015": {
+    "revenue": 1032336000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000875320-18-000009"
+   },
+   "2016": {
+    "revenue": 1702177000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000875320-18-000009"
+   },
+   "2017": {
+    "revenue": 2488652000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000875320-18-000009"
+   },
+   "2018": {
+    "revenue": 3047597000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000875320-21-000006"
+   },
+   "2019": {
+    "revenue": 4162800000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000875320-22-000007"
+   },
+   "2020": {
+    "revenue": 6205700000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000875320-23-000007"
+   },
+   "2021": {
+    "revenue": 7574400000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000875320-24-000062"
+   },
+   "2022": {
+    "revenue": 8930700000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000875320-25-000053"
+   },
+   "2023": {
+    "revenue": 9869200000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000875320-26-000056"
+   },
+   "2024": {
+    "revenue": 11020100000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000875320-26-000056"
+   },
+   "2025": {
+    "revenue": 12001300000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000875320-26-000056"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000875320-26-000056",
+    "filingDate": "2026-02-13",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000056/vrtx-20251231.htm"
+   },
+   {
+    "accession": "0000875320-25-000053",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532025000053/vrtx-20241231.htm"
+   },
+   {
+    "accession": "0000875320-24-000062",
+    "filingDate": "2024-02-15",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532024000062/vrtx-20231231.htm"
+   },
+   {
+    "accession": "0000875320-23-000007",
+    "filingDate": "2023-02-10",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532023000007/vrtx-20221231.htm"
+   },
+   {
+    "accession": "0000875320-22-000007",
+    "filingDate": "2022-02-09",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532022000007/vrtx-20211231.htm"
+   },
+   {
+    "accession": "0000875320-21-000006",
+    "filingDate": "2021-02-11",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532021000006/vrtx-20201231.htm"
+   },
+   {
+    "accession": "0000875320-20-000007",
+    "filingDate": "2020-02-13",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532020000007/a201910k-main.htm"
+   },
+   {
+    "accession": "0000875320-19-000006",
+    "filingDate": "2019-02-13",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532019000006/a201810k-main.htm"
+   },
+   {
+    "accession": "0000875320-18-000009",
+    "filingDate": "2018-02-15",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532018000009/a201710k-main.htm"
+   },
+   {
+    "accession": "0000875320-17-000017",
+    "filingDate": "2017-02-23",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532017000017/a201610k-main.htm"
+   }
+  ]
+ }
+}

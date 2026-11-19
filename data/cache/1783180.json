@@ -1,0 +1,195 @@
+{
+ "proxies": {
+  "0001783180-26-000016": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318026000016/carr-20260303.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001783180-26-000008",
+   "result": {
+    "ceoPay": 14962913,
+    "medianPay": 46976,
+    "payRatio": 319,
+    "method": "cross-checked",
+    "employees": 45600,
+    "statedYear": null,
+    "excerpt": "orting in the Summary Compensation Table (see page 46 ). For the CEO and the median employee, the Summary Compensation Table values include employee fringe benefits, such as company contributions to healthcare and retirement plans. Results The 2025 total annual compensation value for Mr. Gitlin was $14,962,913 and for Carrier's global median employee was $46,976, resulting in a ratio of 319:1 . Comparing Carrier's Ratio to Other Companies This ratio is a reasonable estimate calculated using a methodology consistent with the SEC rules, as described above. Because applicable SEC rules permit various methodologies, assumptions and exclusions, our CEO pay ratio may not be comparable to ratios calculated and disclosed by other companies. . 2026 Proxy Statement Proposal 2: NEO Compensation 56 |"
+   }
+  },
+  "0001783180-25-000014": {
+   "parserVersion": 1,
+   "filingDate": "2025-02-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318025000014/carr-20250225.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001783180-25-000008",
+   "result": {
+    "ceoPay": 65734245,
+    "medianPay": 51001,
+    "payRatio": 1289,
+    "method": "cross-checked",
+    "employees": 58000,
+    "statedYear": null,
+    "excerpt": "orting in the Summary Compensation Table (see page 52 ). For the CEO and the median employee, the Summary Compensation Table values include employee fringe benefits, such as company contributions to healthcare and retirement plans. Results The 2024 total annual compensation value for Mr. Gitlin was $65,734,245 and for Carrier's global median employee was $51,001, resulting in a ratio of 1,289:1. If the significant one-time impact of the CEO's Supplemental Award were removed from the calculations, the total annual compensation value for Mr. Gitlin would have been $16,768,860 and the resulting ratio would have been 329:1. Comparing Carrier's Ratio to Other Companies This ratio is a reasonable estimate calculated using a methodology consistent with the SEC rules, as described above. Because a"
+   }
+  },
+  "0001783180-24-000027": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-05",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318024000027/carr-20240304.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001783180-24-000009",
+   "result": {
+    "ceoPay": 17695200,
+    "medianPay": 51614,
+    "payRatio": 343,
+    "method": "cross-checked",
+    "employees": 54000,
+    "statedYear": null,
+    "excerpt": "orting in the Summary Compensation Table (see page 49 ). For the CEO and the median employee, the Summary Compensation Table values include employee fringe benefits, such as company contributions to healthcare and retirement plans. Results The 2023 total annual compensation value for Mr. Gitlin was $17,695,200 and for Carrier's global median employee was $51,614, resulting in a ratio of 343:1. Comparing Carrier's Ratio to Other Companies This ratio is a reasonable estimate calculated using a methodology consistent with the SEC rules, as described above. Because applicable SEC rules permit various methodologies, assumptions and exclusions, our CEO pay ratio may not be comparable to ratios calculated and disclosed by other companies. 2 The countries and approximate number of Carrier employee"
+   }
+  },
+  "0001783180-23-000024": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318023000024/carr-20230306.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001783180-23-000012",
+   "result": {
+    "ceoPay": 13222247,
+    "medianPay": 43209,
+    "payRatio": 306,
+    "method": "cross-checked",
+    "employees": 54000,
+    "statedYear": 2022,
+    "excerpt": "orting in the Summary Compensation Table (see page 46 ). For the CEO and the median employee, the Summary Compensation Table values include employee fringe benefits, such as company contributions to healthcare and retirement plans. Results The 2022 total annual compensation value for Mr. Gitlin was $13,222,247 and for Carrier's global median employee was $43,209, resulting in a ratio of 306:1. Comparing Carrier's Ratio to Other Companies This ratio is a reasonable estimate calculated using a methodology consistent with the SEC rules, as described above. Because applicable SEC rules permit various methodologies, assumptions and exclusions, our CEO pay ratio may not be comparable to ratios calculated and disclosed by other companies. 1 In some countries, due to differences in payroll systems"
+   }
+  },
+  "0001783180-22-000021": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318022000021/a2022proxystatement.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001783180-22-000010",
+   "result": {
+    "ceoPay": 14892815,
+    "medianPay": 66377,
+    "payRatio": 224,
+    "method": "cross-checked",
+    "employees": 56000,
+    "statedYear": null,
+    "excerpt": "porting in the Summary Compensation Table (see page 44). For the CEO and the median employee, the Summary Compensation Table values include employee fringe benefits, such as company contributions to healthcare and retirement plans. Results The 2021 total annual compensation value for Mr. Gitlin was $14,892,815 and for Carrier's global median employee was $66,377, resulting in a ratio of 224:1. Comparing Carrier's Ratio to Other Companies This ratio is a reasonable estimate calculated using a methodology consistent with the SEC rules, as described above. Because applicable SEC rules permit various methodologies, assumptions and exclusions, our CEO pay ratio may not be comparable to ratios calculated and disclosed by other companies. | | | | | | | | | | | | | 2022 Proxy Statement | | 51 | AU"
+   }
+  },
+  "0001206774-21-000621": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-08",
+   "url": "https://www.sec.gov/Archives/edgar/data/1783180/000120677421000621/carr3816401-def14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001783180-21-000011",
+   "result": {
+    "ceoPay": 15440951,
+    "medianPay": 63371,
+    "payRatio": 244,
+    "method": "cross-checked",
+    "employees": 56000,
+    "statedYear": null,
+    "excerpt": "porting in the Summary Compensation Table (see page 50). For the CEO and the median employee, the Summary Compensation Table values include employee fringe benefits, such as Company contributions to healthcare and retirement plans. Results The 2020 total annual compensation value for Mr. Gitlin was $15,440,951 and for Carrier's global median employee was $63,371, resulting in a ratio of 244:1. Comparing Carrier's Ratio to Other Companies This ratio is a reasonable estimate calculated using a methodology consistent with the SEC rules, as described above. Because applicable SEC rules permit various methodologies, assumptions and exclusions, our CEO pay ratio may not be comparable to ratios calculated and disclosed by other companies. | 2021 Proxy Statement | | 61 | | | | | Table of Contents"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2018": {
+    "revenue": 18914000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001783180-21-000011"
+   },
+   "2019": {
+    "revenue": 18608000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001783180-22-000010"
+   },
+   "2020": {
+    "revenue": 17456000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001783180-23-000012"
+   },
+   "2021": {
+    "revenue": 20613000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001783180-24-000009"
+   },
+   "2022": {
+    "revenue": 17288000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001783180-25-000008"
+   },
+   "2023": {
+    "revenue": 18951000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001783180-26-000008"
+   },
+   "2024": {
+    "revenue": 22486000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001783180-26-000008"
+   },
+   "2025": {
+    "revenue": 21747000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001783180-26-000008"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001783180-26-000008",
+    "filingDate": "2026-02-05",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318026000008/carr-20251231.htm"
+   },
+   {
+    "accession": "0001783180-25-000008",
+    "filingDate": "2025-02-11",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318025000008/carr-20241231.htm"
+   },
+   {
+    "accession": "0001783180-24-000009",
+    "filingDate": "2024-02-06",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318024000009/carr-20231231.htm"
+   },
+   {
+    "accession": "0001783180-23-000012",
+    "filingDate": "2023-02-07",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318023000012/carr-20221231.htm"
+   },
+   {
+    "accession": "0001783180-22-000010",
+    "filingDate": "2022-02-08",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318022000010/carr-20211231.htm"
+   },
+   {
+    "accession": "0001783180-21-000011",
+    "filingDate": "2021-02-09",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318021000011/carr-20201231.htm"
+   }
+  ]
+ }
+}

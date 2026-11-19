@@ -1,0 +1,370 @@
+{
+ "proxies": {
+  "0001193125-26-135991": {
+   "parserVersion": 1,
+   "filingDate": "2026-04-01",
+   "url": "https://www.sec.gov/Archives/edgar/data/922224/000119312526135991/ppl-20260331.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0000922224-26-000008",
+   "result": {
+    "ceoPay": 13221331,
+    "medianPay": 178625,
+    "payRatio": 74,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "ordance with the requirements of the Summary Compensation Table (SCT) on page 61 , which includes salary and overtime pay, as well as cash incentive payments, change in pension value and company matching contributions to the applicable 401(k) savings plan. For 2025, our CEO's total compensation was $13,221,331, while our median employee's total compensation was $178,625. Accordingly, our CEO Pay Ratio was 74 to 1. | | 78 PPL CORPORATION 2026 Proxy Statement | Table of Contents EXECUTIVE COMPENSATION PAY VERSUS PE RFORMANCE As required by Item 402(v) of Regulation S-K, we are providing the following information on the relationship between Compensation Actually Paid (CAP) and PPL's performance for our NEOs, including our principal executive officer. CAP is defined by the SEC and is not used"
+   }
+  },
+  "0000950170-25-048978": {
+   "parserVersion": 1,
+   "filingDate": "2025-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/922224/000095017025048978/ppl-20250402.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0000922224-25-000009",
+   "result": {
+    "ceoPay": 11355743,
+    "medianPay": 166915,
+    "payRatio": 68,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "ordance with the requirements of the Summary Compensation Table (SCT) on page 61 , which includes salary and overtime pay, as well as cash incentive payments, change in pension value and company matching contributions to the applicable 401(k) savings plan. For 2024, our CEO's total compensation was $11,355,743, while our median employee's total compensation was $166,915. Accordingly, our CEO Pay Ratio was 68 to 1. | | 78 PPL CORPORATION 2025 Proxy Statement | Table of Contents EXECUTIVE COMPENSATION PAY VERSUS PE RFORMANCE As required by Item 402(v) of Regulation S-K, we are providing the following information on the relationship between Compensation Actually Paid (CAP) and PPL's performance for our NEOs, including our principal executive officer. CAP is defined by the SEC and is not used"
+   }
+  },
+  "0000950170-24-040720": {
+   "parserVersion": 1,
+   "filingDate": "2024-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/922224/000095017024040720/ppl-20240403.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0000922224-24-000008",
+   "result": {
+    "ceoPay": 11969556,
+    "medianPay": 173259,
+    "payRatio": 69,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "ordance with the requirements of the Summary Compensation Table (SCT) on page 63 , which includes salary and overtime pay, as well as cash incentive payments, change in pension value and company matching contributions to the applicable 401(k) savings plan. For 2023, our CEO's total compensation was $11,969,556, while our median employee's total compensation was $173,259. Accordingly, our CEO Pay Ratio was 69 to 1. | | 82 PPL CORPORATION 2024 Proxy Statement | Table of Contents EXECUTIVE COMPENSATION PAY VERSUS PE RFORMANCE As required by Item 402(v) of Regulation S-K, we are providing the following information on the relationship between Compensation Actually Paid (CAP) and PPL's performance for our NEOs, including our principal executive officer. CAP is defined by the SEC and is not used"
+   }
+  },
+  "0001193125-23-090601": {
+   "parserVersion": 1,
+   "filingDate": "2023-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/922224/000119312523090601/d385698ddef14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0000922224-23-000010",
+   "result": {
+    "ceoPay": 9146575,
+    "medianPay": 126546,
+    "payRatio": 72,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ns, there was a large decrease in the present value of the accumulated benefit for most participants. The volatility in the discount rate affects the Change in Pension Value reported in the SCT each year, which in turn affects the CEO Pay Ratio. For 2022, our CEO's annualized total compensation was $9,146,575, while our median employee's total compensation was $126,546. Accordingly, our CEO Pay Ratio was 72 to 1. | | | | | 86 PPL CORPORATION 2023 Proxy Statement | Table of Contents EXECUTIVE COMPENSATION PAY VERSUS PERFORMANCE As required by Item 402(v) of Regulation S-K, we are providing the following information on the relationship between Compensation Actually Paid (CAP) and PPL's performance for our NEOs, including our principal executive officer. CAP is defined by the SEC and is not u"
+   }
+  },
+  "0001193125-22-097159": {
+   "parserVersion": 1,
+   "filingDate": "2022-04-06",
+   "url": "https://www.sec.gov/Archives/edgar/data/922224/000119312522097159/d233196ddef14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0000922224-22-000005",
+   "result": {
+    "ceoPay": 11356481,
+    "medianPay": 147670,
+    "payRatio": 77,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "nce with the requirements of the Summary Compensation Table on page 58, which includes salary and overtime pay, as well as cash incentive payments, change in pension value and company matching contributions to the applicable 401(k) savings plan. For 2021, our CEOs annualized total compensation was $11,356,481, while our median employees total compensation was $147,670. Accordingly, our CEO Pay Ratio was 77 to 1. | | | | | PPL CORPORATION 2022 Proxy Statement 79 | Table of Contents | | | PROPOSAL 3: RATIFICATION OF THE APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM | | | | | | | | What are you voting on? | | | | The Board of Directors has determined that it would be desirable to request an expression of opinion from the shareowners on the appointment of Deloitte & Touche LLP"
+   }
+  },
+  "0001193125-21-108586": {
+   "parserVersion": 1,
+   "filingDate": "2021-04-07",
+   "url": "https://www.sec.gov/Archives/edgar/data/922224/000119312521108586/d26143ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0000922224-21-000006",
+   "result": {
+    "ceoPay": 9190004,
+    "medianPay": 144648,
+    "payRatio": 64,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "award, long-term equity incentive awards, and company matching contributions to the 401(k) employee savings plan and PPL EDCP, to best reflect what Mr. Sorgis total pay would have been in the SCT had he served in the CEO role for the full year. For 2020, our CEOs annualized total compensation was $9,190,004, while our median employees total compensation was $144,648. Accordingly, our CEO Pay Ratio was 64 to 1. | | | | | PPL CORPORATION 2021 Proxy Statement 73 | Table of Contents | | | PROPOSAL 3: RATIFICATION OF THE APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM | | | | | | | | What are you voting on? | | | | The Board of Directors has determined that it would be desirable to request an expression of opinion from the shareowners on the appointment of Deloitte & Touche LLP,"
+   }
+  },
+  "0001193125-20-095982": {
+   "parserVersion": 1,
+   "filingDate": "2020-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/922224/000119312520095982/d853945ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0000922224-20-000005",
+   "result": {
+    "ceoPay": 14142567,
+    "medianPay": 147463,
+    "payRatio": 96,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "ere was a large increase in the present value of the accumulated benefit for most participants. The volatility in the discount rate affects the Change in Pension Value reported in the SCT each year, which in turn affects the CEO Pay Ratio. Based on such calculation, our CEOs total compensation was $14,142,567, while our median employees total compensation was $147,463. Accordingly, our CEO Pay Ratio was 96 to 1. | | | | | PPL CORPORATION 2020 Proxy Statement 77 | Table of Contents | | | PROPOSAL 3: RATIFICATION OF THE APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM | | | | | | | | What are you voting on? | | | | The Board of Directors has determined that it would be desirable to request an expression of opinion from the shareowners on the appointment of Deloitte & Touche LLP"
+   }
+  },
+  "0001193125-19-095246": {
+   "parserVersion": 1,
+   "filingDate": "2019-04-02",
+   "url": "https://www.sec.gov/Archives/edgar/data/922224/000119312519095246/d687580ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0000922224-19-000015",
+   "result": {
+    "ceoPay": 11338785,
+    "medianPay": 81211,
+    "payRatio": 140,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "nce with the requirements of the Summary Compensation Table on page 55, which includes salary and overtime pay, as well as cash bonus payments, change in pension value and company matching contributions to the 401(k) employee savings plan. Based on such calculation, our CEOs total compensation was $11,338,785, while our median employees total compensation was $81,211. Accordingly, our CEO Pay Ratio was 140 to 1. | | | | | 78 PPL CORPORATION 2019 Proxy Statement | Table of Contents | | | PROPOSAL 3: RATIFICATION OF THE APPOINTMENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM | | | | | | | | What are you voting on? | | | | The Board of Directors has determined that it would be desirable to request an expression of opinion from the shareowners on the appointment of Deloitte & Touche LLP"
+   }
+  },
+  "0001193125-18-107532": {
+   "parserVersion": 1,
+   "filingDate": "2018-04-04",
+   "url": "https://www.sec.gov/Archives/edgar/data/922224/000119312518107532/d490137ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0000922224-18-000023",
+   "result": {
+    "ceoPay": 13540331,
+    "medianPay": 104520,
+    "payRatio": 130,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "nce with the requirements of the Summary Compensation Table on page 47, which includes salary and overtime pay, as well as cash bonus payments, change in pension value and company matching contributions to the 401(k) employee savings plan. Based on such calculation, our CEOs total compensation was $13,540,331, while our median employees total compensation was $104,520. Accordingly, our CEO Pay Ratio was 130 to 1. As described in footnote 3 to the Summary Compensation Table, in January 2017, the CGNC transitioned from performance-contingent restricted stock units to a combination of time-vested restricted stock units and ROE-based performance units. The Stock Awards column in the Summary Compensation Table reflects the last grant of performance-contingent restricted stock units for the ba"
+   }
+  }
+ },
+ "tenKs": {
+  "0000922224-18-000023": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000922224-19-000015": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000922224-20-000005": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000922224-21-000006": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000922224-22-000005": {
+   "parserVersion": 1,
+   "employees": null
+  },
+  "0000922224-23-000010": {
+   "parserVersion": 1,
+   "employees": 900
+  },
+  "0000922224-24-000008": {
+   "parserVersion": 1,
+   "employees": 530
+  },
+  "0000922224-25-000009": {
+   "parserVersion": 1,
+   "employees": 530
+  },
+  "0000922224-26-000008": {
+   "parserVersion": 1,
+   "employees": 300
+  }
+ },
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 6462000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0000922224-10-000012"
+   },
+   "2008": {
+    "revenue": 7857000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0000922224-11-000029"
+   },
+   "2009": {
+    "revenue": 7449000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-12-000023"
+   },
+   "2010": {
+    "revenue": 8521000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-13-000025"
+   },
+   "2011": {
+    "revenue": 12737000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-14-000024"
+   },
+   "2012": {
+    "revenue": 12132000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-15-000016"
+   },
+   "2013": {
+    "revenue": 11721000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0000922224-15-000016"
+   },
+   "2014": {
+    "revenue": 11499000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "RegulatedAndUnregulatedOperatingRevenue",
+    "accession": "0000922224-15-000016"
+   },
+   "2015": {
+    "revenue": 7669000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-18-000023"
+   },
+   "2016": {
+    "revenue": 7517000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-19-000015"
+   },
+   "2017": {
+    "revenue": 7447000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-20-000005"
+   },
+   "2018": {
+    "revenue": 7785000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-21-000006"
+   },
+   "2019": {
+    "revenue": 5602000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-22-000005"
+   },
+   "2020": {
+    "revenue": 5474000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-23-000010"
+   },
+   "2021": {
+    "revenue": 5838000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000922224-24-000008"
+   },
+   "2022": {
+    "revenue": 7902000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-25-000009"
+   },
+   "2023": {
+    "revenue": 8312000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-26-000008"
+   },
+   "2024": {
+    "revenue": 8462000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0000922224-26-000008"
+   },
+   "2025": {
+    "revenue": 9170000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0000922224-26-000008"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0000922224-26-000008",
+    "filingDate": "2026-02-20",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222426000008/ppl-20251231.htm"
+   },
+   {
+    "accession": "0000922224-25-000009",
+    "filingDate": "2025-02-13",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222425000009/ppl-20241231.htm"
+   },
+   {
+    "accession": "0000922224-24-000008",
+    "filingDate": "2024-02-16",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222424000008/ppl-20231231.htm"
+   },
+   {
+    "accession": "0000922224-23-000010",
+    "filingDate": "2023-02-17",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222423000010/ppl-20221231.htm"
+   },
+   {
+    "accession": "0000922224-22-000005",
+    "filingDate": "2022-02-18",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222422000005/ppl-20211231.htm"
+   },
+   {
+    "accession": "0000922224-21-000006",
+    "filingDate": "2021-02-18",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222421000006/ppl-20201231.htm"
+   },
+   {
+    "accession": "0000922224-20-000005",
+    "filingDate": "2020-02-14",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222420000005/ppl-1231201910k.htm"
+   },
+   {
+    "accession": "0000922224-19-000015",
+    "filingDate": "2019-02-14",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222419000015/ppl-1231201810k.htm"
+   },
+   {
+    "accession": "0000922224-18-000023",
+    "filingDate": "2018-02-22",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222418000023/ppl-1231201710k.htm"
+   },
+   {
+    "accession": "0000922224-17-000010",
+    "filingDate": "2017-02-17",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/922224/000092222417000010/ppl-1231201610k.htm"
+   }
+  ]
+ }
+}

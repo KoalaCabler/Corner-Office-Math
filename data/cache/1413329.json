@@ -1,0 +1,333 @@
+{
+ "proxies": {
+  "0001628280-26-021169": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0001628280-26-005939",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 43244,
+    "payRatio": 375,
+    "method": "ratio-and-median",
+    "employees": 84900,
+    "statedYear": 2025,
+    "excerpt": "witzerland, where our Group CEO PMI resides. The total PPP- adjusted compensation for our median employee residing in Poland is approximately CHF 67,111. 3 Comparing this employee's total PPP-adjusted compensation to the 2025 total compensation of our Group CEO PMI in CHF, our adjusted pay ratio is 375:1. 4 Had we not used the PPP adjustment, our median employee's total 2025 compensation would have been approximately $43,244 5 . Comparing this employee's total compensation to the total compensation of our Group CEO PMI as set forth in the Summary Compensation Table on page 54, the ratio would be 672:1. The ratio of our Group CEO PMI's total compensation to the average total compensation of our other NEOs for 2025, was 2.2:1. Because the SEC rules for identifying the median employee and cal"
+   }
+  },
+  "0001104659-25-028420": {
+   "parserVersion": 1,
+   "filingDate": "2025-03-27",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413329/000110465925028420/tm252327-2_def14a.htm",
+   "periodEnd": "2024-12-31",
+   "tenK": "0001413329-25-000013",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 47109,
+    "payRatio": 304,
+    "method": "ratio-and-median",
+    "employees": 83100,
+    "statedYear": 2024,
+    "excerpt": "1 CHF would buy in Switzerland, where our CEO resides. The total PPP- adjusted compensation for our median employee residing in Poland is approximately CHF 58,786. 3 Comparing this employee's total PPP-adjusted compensation to the 2024 total compensation of our CEO in CHF, our adjusted pay ratio is 304:1. 4 Had we not used the PPP adjustment, our median employee's total 2024 compensation would have been approximately $47,109. Comparing this employee's total compensation to the total compensation of our CEO as set forth in the Summary Compensation Table on page 57, the ratio would be 430:1. The ratio of our CEO's total compensation to the average total compensation of our other NEOs for 2024, was 2.7:1. Because the SEC rules for identifying the median employee and calculating the pay ratio"
+   }
+  },
+  "0001104659-24-039955": {
+   "parserVersion": 1,
+   "filingDate": "2024-03-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413329/000110465924039955/tm242649-d2_def14a.htm",
+   "periodEnd": "2023-12-31",
+   "tenK": "0001413329-24-000013",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 39663,
+    "payRatio": 369,
+    "method": "ratio-and-median",
+    "employees": 82700,
+    "statedYear": 2023,
+    "excerpt": "1 CHF would buy in Switzerland, where our CEO resides. The total PPP-adjusted compensation for our median employee residing in Poland is approximately CHF 60,974. 3 Comparing this employee's total PPP-adjusted compensation to the 2023 total compensation of our CEO in CHF, our adjusted pay ratio is 369:1. 4 Had we not used the PPP adjustment, our median employee's total 2023 compensation would have been approximately $39,663. Comparing this employee's total compensation to the total compensation of our CEO as set forth in the Summary Compensation Table on page 58, the ratio would be 642:1. The ratio of our CEO's total compensation to the average total compensation of our other NEOs for 2023, was 3:1. Because the SEC rules for identifying the median employee and calculating the pay ratio ba"
+   }
+  },
+  "0001104659-23-036062": {
+   "parserVersion": 1,
+   "filingDate": "2023-03-23",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413329/000110465923036062/tm231786d2_def14a.htm",
+   "periodEnd": "2022-12-31",
+   "tenK": "0001413329-23-000025",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 19411,
+    "payRatio": 158,
+    "method": "ratio-and-median",
+    "employees": 79800,
+    "statedYear": 2022,
+    "excerpt": "1 CHF would buy in Switzerland, where our CEO resides. The total PPP- adjusted compensation for our median employee residing in Turkey is approximately CHF 92,262. 4 Comparing this employee's total PPP-adjusted compensation to the 2022 total compensation of our CEO in CHF, our adjusted pay ratio is 158:1. 5 Had we not used the PPP adjustment, our median employee's total 2022 compensation would have been approximately $19,411. Comparing this employee's total compensation to the total compensation of our CEO as set forth in the Summary Compensation Table on page 55 , the ratio would be 813:1. For reference, the ratio of the CEO's total compensation to that of our median employee in Switzerland is 80:1. As of December 31, 2022, we employed approximately 3,310 people in Switzerland, including"
+   }
+  },
+  "0001104659-22-037508": {
+   "parserVersion": 1,
+   "filingDate": "2022-03-24",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413329/000110465922037508/tm2136562-3_def14a.htm",
+   "periodEnd": "2021-12-31",
+   "tenK": "0001413329-22-000011",
+   "result": {
+    "ceoPay": 19190191,
+    "medianPay": 18196,
+    "payRatio": 1055,
+    "method": "cross-checked",
+    "employees": 69600,
+    "statedYear": 2021,
+    "excerpt": "f 2021 salary, annual bonus and all other compensation by the portion of the year in which they served as CEO. Mr. Calantzopoulos' 2021 equity award was included in full, as he was in the role of CEO on the annual grant date. Based upon this calculation method, the CEO's 2021 total compensation was $19,190,191. Given our global footprint, and in accordance with regulatory guidance, we have determined that the cost-of-living adjusted ratio based on the purchasing power parity index (or \"PPP\") reflects the differences in the living and economic conditions of approximately 90 countries where our employees reside. 2 The PPP conversion factor represents the number of units of local currency that can buy a basket of goods that 1 CHF would buy in Switzerland, where our CEO resides. The total PPP-"
+   }
+  },
+  "0001193125-21-093264": {
+   "parserVersion": 1,
+   "filingDate": "2021-03-25",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413329/000119312521093264/d94090ddef14a.htm",
+   "periodEnd": "2020-12-31",
+   "tenK": "0001413329-21-000007",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 18007,
+    "payRatio": 355,
+    "method": "ratio-and-median",
+    "employees": 71000,
+    "statedYear": 2020,
+    "excerpt": "at 1 CHF would buy in Switzerland, where our CEO resides. The total PPP-adjusted compensation for our median employee residing in Turkey is approximately CHF 49,726. (3) Comparing this employees total PPP-adjusted compensation to the total compensation of our CEO in 2020, our adjusted pay ratio is 355:1. (4) Had we not used the PPP adjustment, our median employees total 2020 compensation would have been approximately $18,007. Comparing this employees total compensation to the total compensation of our CEO set forth in the Summary Compensation Table on page 46, the ratio would be 1,218:1. For reference, the ratio of the CEOs total compensation to that of our median employee in Switzerland is 50:1. At December 31, 2020, we employed approximately 3,400 people in Switzerland, including app"
+   }
+  },
+  "0001193125-20-085906": {
+   "parserVersion": 1,
+   "filingDate": "2020-03-26",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413329/000119312520085906/d832372ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001413329-20-000007",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 19134,
+    "payRatio": 396,
+    "method": "ratio-and-median",
+    "employees": 73500,
+    "statedYear": 2019,
+    "excerpt": "1 CHF would buy in Switzerland, where our CEO resides. The total PPP-adjusted compensation for our median employee residing in Indonesia is approximately CHF 53,756. (3) Comparing this employees total PPP-adjusted compensation to the total compensation of our CEO in 2019, our adjusted pay ratio is 396:1. (4) Had we not used the PPP adjustment, our median employees total 2019 compensation would have been approximately $19,134. Comparing this employees total compensation to the total compensation of our CEO set forth in the Summary Compensation Table on page 43, the ratio would be 1,156:1. For reference, the ratio of the CEOs total compensation to that of our median employee in Switzerland is 61:1. At December 31, 2019, we employed approximately 3,500 people in Switzerland, including app"
+   }
+  },
+  "0001193125-19-081395": {
+   "parserVersion": 1,
+   "filingDate": "2019-03-21",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413329/000119312519081395/d686733ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001413329-19-000007",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 18890,
+    "payRatio": 308,
+    "method": "ratio-and-median",
+    "employees": 77400,
+    "statedYear": 2018,
+    "excerpt": "1 CHF would buy in Switzerland, where our CEO resides. The total PPP-adjusted compensation for our median employee residing in Indonesia is approximately CHF 49,875. (3) Comparing this employees total PPP-adjusted compensation to the total compensation of our CEO in 2018, our adjusted pay ratio is 308:1. (4) Had we not used the PPP adjustment, our median employees total 2018 compensation would have been approximately $18,890. Comparing this employees total compensation to the total compensation of our CEO set forth in the Summary Compensation Table on page 41, the ratio would be 843:1. For reference, the ratio of the CEOs total compensation to that of our median employee in Switzerland is 83:1. At December 31, 2018, we employed approximately 3,235 people in Switzerland, including appro"
+   }
+  },
+  "0001193125-18-100434": {
+   "parserVersion": 1,
+   "filingDate": "2018-03-29",
+   "url": "https://www.sec.gov/Archives/edgar/data/1413329/000119312518100434/d449353ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001413329-18-000007",
+   "result": {
+    "ceoPay": null,
+    "medianPay": 19170,
+    "payRatio": 325,
+    "method": "ratio-and-median",
+    "employees": 80400,
+    "statedYear": 2017,
+    "excerpt": "es. Based on this calculation, our median employee on October 1, 2017, was located in Indonesia, with a total PPP-adjusted 2017 compensation of approximately CHF 54,070. Comparing this employees total PPP-adjusted compensation to the total compensation of our CEO in 2017, our adjusted pay ratio is 325:1. Had we not used the PPP adjustment, our median employees total 2017 compensation would have been approximately $19,170. Comparing this employees total compensation to the total compensation of our CEO set forth in the Summary Compensation Table on page 42, the ratio would be 990:1. For reference, the ratio of the CEOs total compensation to that of our median employee in Switzerland is 86:1. (3 ) At October 1, 2017, we employed approximately 3,160 people in Switzerland, including approx"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2007": {
+    "revenue": 55243000000,
+    "periodEnd": "2007-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-10-041735"
+   },
+   "2008": {
+    "revenue": 63640000000,
+    "periodEnd": "2008-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-11-046772"
+   },
+   "2009": {
+    "revenue": 62080000000,
+    "periodEnd": "2009-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001193125-12-076983"
+   },
+   "2010": {
+    "revenue": 67713000000,
+    "periodEnd": "2010-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001413329-13-000019"
+   },
+   "2011": {
+    "revenue": 76346000000,
+    "periodEnd": "2011-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001413329-14-000012"
+   },
+   "2012": {
+    "revenue": 77393000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001413329-15-000016"
+   },
+   "2013": {
+    "revenue": 80029000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001413329-16-000076"
+   },
+   "2014": {
+    "revenue": 80106000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001413329-17-000014"
+   },
+   "2015": {
+    "revenue": 73908000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "SalesRevenueNet",
+    "accession": "0001413329-18-000007"
+   },
+   "2016": {
+    "revenue": 74953000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001413329-19-000007"
+   },
+   "2017": {
+    "revenue": 78098000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001413329-20-000007"
+   },
+   "2018": {
+    "revenue": 79823000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001413329-21-000007"
+   },
+   "2019": {
+    "revenue": 77921000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001413329-22-000011"
+   },
+   "2020": {
+    "revenue": 76047000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001413329-23-000025"
+   },
+   "2021": {
+    "revenue": 82223000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001413329-23-000025"
+   },
+   "2022": {
+    "revenue": 80669000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001413329-23-000025"
+   },
+   "2023": {
+    "revenue": 35174000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-005939"
+   },
+   "2024": {
+    "revenue": 37878000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-005939"
+   },
+   "2025": {
+    "revenue": 40648000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001628280-26-005939"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0001628280-26-005939",
+    "filingDate": "2026-02-06",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026005939/pm-20251231.htm"
+   },
+   {
+    "accession": "0001413329-25-000013",
+    "filingDate": "2025-02-06",
+    "reportDate": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000141332925000013/pm-20241231.htm"
+   },
+   {
+    "accession": "0001413329-24-000013",
+    "filingDate": "2024-02-08",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000141332924000013/pm-20231231.htm"
+   },
+   {
+    "accession": "0001413329-23-000025",
+    "filingDate": "2023-02-10",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000141332923000025/pm-20221231.htm"
+   },
+   {
+    "accession": "0001413329-22-000011",
+    "filingDate": "2022-02-11",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000141332922000011/pm-20211231.htm"
+   },
+   {
+    "accession": "0001413329-21-000007",
+    "filingDate": "2021-02-09",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000141332921000007/pm-20201231.htm"
+   },
+   {
+    "accession": "0001413329-20-000007",
+    "filingDate": "2020-02-07",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000141332920000007/pm123119form10kwrapinc.htm"
+   },
+   {
+    "accession": "0001413329-19-000007",
+    "filingDate": "2019-02-07",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000141332919000007/pm123118form10kwrapinclfsm.htm"
+   },
+   {
+    "accession": "0001413329-18-000007",
+    "filingDate": "2018-02-13",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000141332918000007/pm123117form10kwrapinclfsm.htm"
+   },
+   {
+    "accession": "0001413329-17-000014",
+    "filingDate": "2017-02-14",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000141332917000014/pm123116form10kwrapinclfsm.htm"
+   }
+  ]
+ }
+}

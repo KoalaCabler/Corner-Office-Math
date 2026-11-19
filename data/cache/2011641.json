@@ -1,0 +1,105 @@
+{
+ "proxies": {
+  "0002011641-26-000016": {
+   "parserVersion": 1,
+   "filingDate": "2026-03-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000016/ferg-20260315.htm",
+   "periodEnd": "2025-12-31",
+   "tenK": "0002011641-26-000006",
+   "result": {
+    "ceoPay": 7660469,
+    "medianPay": 32046,
+    "payRatio": 239,
+    "method": "cross-checked",
+    "employees": 35245,
+    "statedYear": null,
+    "excerpt": "on Estimated Compensation, we calculated Transition Period Total Compensation (as defined below) for that associate using the same methodology we used for our NEOs as set forth in the Transition Period Summary Compensation Table on page 56 . • The Transition Period Total Compensation of our CEO was $7,660,469 and the Transition Period Total Compensation of our median associate, other than our CEO, was $32,046. For the transition period, the ratio of our CEO's Transition Period Total Compensation to the median associate's Transition Period Total Compensation was 239.0 to 1. The SEC's rules for identifying the median compensated associate and calculating the pay ratio based on that associate's Transition Period Total Compensation allow companies to adopt a variety of methodologies, to apply"
+   }
+  },
+  "0002011641-25-000045": {
+   "parserVersion": 1,
+   "filingDate": "2025-10-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164125000045/ferg-20251014.htm",
+   "periodEnd": "2025-07-31",
+   "tenK": "0002011641-25-000027",
+   "result": {
+    "ceoPay": 14137493,
+    "medianPay": 66365,
+    "payRatio": 213,
+    "method": "cross-checked",
+    "employees": 35245,
+    "statedYear": 2025,
+    "excerpt": "tifying the median associate based on Estimated Compensation, we calculated Annual Total Compensation (as defined below) for that associate using the same methodology we used for our NEOs as set forth in the 2025 Summary Compensation Table on page 64 . • The Annual Total Compensation of our CEO was $14,137,493 and the Annual Total Compensation of our median associate, other than our CEO, was $66,365. For fiscal 2025, the ratio of our CEO's Annual Total Compensation to the median associate's Annual Total Compensation was 213.0 to 1. The SEC's rules for identifying the median compensated associate and calculating the pay ratio based on that associate's Annual Total Compensation allow companies to adopt a variety of methodologies, to apply certain exclusions, and to make reasonable estimates"
+   }
+  },
+  "0001193125-24-237140": {
+   "parserVersion": 1,
+   "filingDate": "2024-10-15",
+   "url": "https://www.sec.gov/Archives/edgar/data/2011641/000119312524237140/d834558ddef14a.htm",
+   "periodEnd": "2024-07-31",
+   "tenK": "0002011641-24-000005",
+   "result": {
+    "ceoPay": 9052716,
+    "medianPay": 68722,
+    "payRatio": 131.7,
+    "method": "cross-checked",
+    "employees": 35245,
+    "statedYear": 2024,
+    "excerpt": "ance awards in shares, but in the event payment in shares is prohibited by law, the excess portion will be paid in cash. | | | | | | | | | | | | | | | | | | | | | 2024 PROXY STATEMENT FERGUSON ENTERPRISES INC. | | | | 73 | Table of Contents Executive Compensation CEO Pay Ratio | | | | | | | | | | | 131.7 to 1 | | For fiscal 2024, the ratio of our CEO's Annual Total Compensation to the median associate's Annual Total Compensation was | | | To identify our median associate, we used the following methodology, material assumptions, adjustments and estimates: | • | | | | As of May 1, 2024 (the \"Determination Date\"), we employed approximately 35,245 associates worldwide, including those employed on a full-time, part-time, seasonal or temporary basis, which includes 31,561 associates in the Unite"
+   }
+  }
+ },
+ "tenKs": {},
+ "facts": {
+  "revenue": {
+   "2022": {
+    "revenue": 28566000000,
+    "periodEnd": "2022-07-31",
+    "revenueTag": "Revenues",
+    "accession": "0002011641-24-000005"
+   },
+   "2023": {
+    "revenue": 29734000000,
+    "periodEnd": "2023-07-31",
+    "revenueTag": "Revenues",
+    "accession": "0002011641-26-000006"
+   },
+   "2024": {
+    "revenue": 29635000000,
+    "periodEnd": "2024-07-31",
+    "revenueTag": "Revenues",
+    "accession": "0002011641-26-000006"
+   },
+   "2025": {
+    "revenue": 30762000000,
+    "periodEnd": "2025-07-31",
+    "revenueTag": "Revenues",
+    "accession": "0002011641-26-000006"
+   }
+  },
+  "employeesTagged": {},
+  "ceoPayPvp": {}
+ },
+ "filings": {
+  "tenKs": [
+   {
+    "accession": "0002011641-26-000006",
+    "filingDate": "2026-02-27",
+    "reportDate": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000006/ferg-20251231.htm"
+   },
+   {
+    "accession": "0002011641-25-000027",
+    "filingDate": "2025-09-26",
+    "reportDate": "2025-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164125000027/ferg-20250731.htm"
+   },
+   {
+    "accession": "0002011641-24-000005",
+    "filingDate": "2024-09-25",
+    "reportDate": "2024-07-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164124000005/ferg-20240731.htm"
+   }
+  ]
+ }
+}
