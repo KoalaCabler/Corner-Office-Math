@@ -103,6 +103,11 @@ function parsePayRatio(text) {
         for (const c of ceos) {
           if (c.index === md.index) continue;
           if (c.value < 50000 && r.value >= 1) continue;
+          // A ratio near 1 (CEO paid about the same as the median employee)
+          // essentially never happens; such matches are two unrelated
+          // amounts that happen to be close, like two executives' benefits.
+          if (r.value >= 0.5 && r.value < 2) continue;
+          if (c.value === md.value) continue;
           const implied = c.value / md.value;
           // Ratios are rounded, so allow rounding slack.
           const err = r.value < 0.01 ? (implied < 0.01 ? 0 : 1) : Math.abs(implied - r.value) / r.value;

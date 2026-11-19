@@ -28,7 +28,7 @@ const { loadSp500 } = require('./lib/sp500');
 const { buildCompany, buildIndex } = require('./lib/build');
 
 // Bump when a parser changes, so cached results get re-parsed.
-const PARSER_VERSION = 2;
+const PARSER_VERSION = 3;
 const FIRST_YEAR = 2018;
 const SINCE = '2018-01-01'; // first proxies with a pay ratio were filed in early 2018 (fiscal 2017)
 

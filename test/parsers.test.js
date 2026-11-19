@@ -124,3 +124,9 @@ test('revenue: bank with no revenue tag uses net interest income + noninterest i
   } } };
   assert.strictEqual(revenueByYear(facts)[2025].revenue, 18986e6);
 });
+
+test('two similar unrelated amounts do not make a 1:1 ratio (A. O. Smith / Universal Health style)', () => {
+  const t = 'The death benefits payable are: $456,000 for Mr. Petrarca; and $451,000 for Mr. Ding. CEO pay ratio. We determined the median employee total compensation was $45,454. The ratio of CEO pay to median worker pay is 309:1.';
+  const r = parsePayRatio(t);
+  assert.deepStrictEqual([r.medianPay, r.payRatio, r.method], [45454, 309, 'ratio-and-median']);
+});
