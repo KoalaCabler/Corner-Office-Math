@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-149669": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000119312526149669/d13789ddef14a.htm",
    "periodEnd": "2025-12-28",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-076900": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000119312525076900/d910798ddef14a.htm",
    "periodEnd": "2024-12-29",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-087264": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000119312524087264/d534824ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-22-105644": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000119312522105644/d246458ddef14a.htm",
    "periodEnd": "2022-01-02",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-21-119349": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000119312521119349/d107148ddef14a.htm",
    "periodEnd": "2021-01-03",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-20-108575": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000119312520108575/d877312ddef14a.htm",
    "periodEnd": "2019-12-29",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-19-107277": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000119312519107277/d639047ddef14a.htm",
    "periodEnd": "2018-12-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-18-109968": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1110803/000119312518109968/d545922ddef14a.htm",
    "periodEnd": "2017-12-31",

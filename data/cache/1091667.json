@@ -1,39 +1,39 @@
 {
  "proxies": {
   "0001140361-26-009220": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000114036126009220/ny20062718x1_def14a.htm",
    "periodEnd": "2025-12-31",
    "tenK": "0001091667-26-000017",
    "result": {
-    "ceoPay": 79159,
+    "ceoPay": 6466193,
     "medianPay": 79159,
-    "payRatio": 1,
+    "payRatio": 81.7,
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2025,
-    "excerpt": "l annual compensation for the CEO to that of the Median Employee. In 2025, a new Median Employee was identified for purposes of calculating our CEO Pay Ratio. The Median Employee for 2025 was identified using the same methodology as in prior years and based on an analysis of the median 2025 W-2 Box 1 income among the approximately 92,000 full and part-time U.S. employees, other than the CEO, who were actively employed by Charter as of December 31, 2025 (Charter has no employees outside of the U.S.). No adjustments were applied to W-2 Box 1 income for purposes of determining the Median Employee, such as for employees who were employed for only part of the year or on unpaid leave of absence at some point during the year. Charter's CEO Pay Ratio is a reasonable estimate calculated in a manner"
+    "excerpt": "n the measure of total annual compensation used to calculate the pay ratio. The ratio of the CEO's total annual compensation as disclosed in the Summary Compensation Table relative to that of the Median Employee was as follows: | | | | | | | | | | | | | | | CEO Total Annual Compensation | | | | | | $6,466,193 | | | | | | Median Employee Total Annual Compensation | | | | | | $ 79,159 | | | | | | Ratio of CEO to Median Employee Total Annual Compensation | | | | | | 81.7 | | | | | | | | | | | | | | | Charter Communications | 84 | 2026 Proxy Statement TABLE OF CONTENTS Code of Ethics We have adopted a Financial Code of Ethics within the meaning of federal securities regulations for our employees, including all executive officers and directors. We also established a hotline and website for repo"
    }
   },
   "0001140361-25-008627": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000114036125008627/ny20042259x1_def14a.htm",
    "periodEnd": "2024-12-31",
    "tenK": "0001091667-25-000034",
    "result": {
-    "ceoPay": 69829,
+    "ceoPay": 5752660,
     "medianPay": 69829,
-    "payRatio": 1,
+    "payRatio": 82.4,
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2022,
-    "excerpt": "l annual compensation for the CEO to that of the Median Employee. In 2022, a new Median Employee was identified for purposes of calculating our CEO Pay Ratio. The Median Employee for 2022 was identified using the same methodology as in prior years and based on an analysis of the median 2022 W-2 Box 1 income among the 101,700 full and part-time U.S. employees, other than the CEO, who were actively employed by Charter as of December 31, 2022 (Charter has no employees outside of the U.S.). No adjustments were applied to W-2 Box 1 income for purposes of determining the Median Employee, such as for employees who were employed for only part of the year or on unpaid leave of absence at some point during the year. As of December 31, 2024, Charter had 94,500 full and part-time active U.S. employees"
+    "excerpt": "n the measure of total annual compensation used to calculate the pay ratio. The ratio of the CEO's total annual compensation as disclosed in the Summary Compensation Table relative to that of the Median Employee was as follows: | | | | | | | | | | | | | | | CEO Total Annual Compensation | | | | | | $5,752,660 | | | | | | Median Employee Total Annual Compensation | | | | | | $ 69,829 | | | | | | Ratio of CEO to Median Employee Total Annual Compensation | | | | | | 82.4 | | | | | | | | | | | | | | | Charter Communications | 78 | 2025 Proxy Statement TABLE OF CONTENTS Code of Ethics We have adopted a Financial Code of Ethics within the meaning of federal securities regulations for our employees, including all executive officers and directors. We also established a hotline and website for repo"
    }
   },
   "0001193125-24-067965": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312524067965/d534477ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-072624": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312523072624/d460546ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-078350": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312522078350/d243396ddef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-21-085916": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312521085916/d102224ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-20-078940": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312520078940/d859544ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,61 +113,61 @@
    }
   },
   "0001193125-19-074765": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312519074765/d717086ddef14a.htm",
    "periodEnd": "2018-12-31",
    "tenK": "0001091667-19-000029",
    "result": {
-    "ceoPay": 55560,
+    "ceoPay": 8156151,
     "medianPay": 55560,
-    "payRatio": 1,
+    "payRatio": 146.8,
     "method": "cross-checked",
     "employees": 95064,
-    "statedYear": 2018,
-    "excerpt": "Employee pay ratio for 2018 was calculated pursuant to Item 402(u) of Regulation S-K, comparing total annual compensation for the CEO to that of the Median Employee. In 2017, for purposes of calculating the pay ratio, the Median Employee was selected based on an analysis of the median 2017 W-2 Box 1 income among all full and part-time U.S. employees, other than the CEO, who were actively employed by Charter as of December 31, 2017. No adjustments were applied to W-2 Box 1 income for purposes of determining the Median Employee, such as for employees who were employed for only part of the year or on unpaid leave of absence at some point during the year. Charters employees outside of the U.S. were excluded from this analysis on the basis that they collectively represented less than 5% of Ch"
+    "statedYear": 2017,
+    "excerpt": "s, which provide significant additional value but are not included in the measure of total annual compensation used to calculate the pay ratio. The ratio of the CEOs total annual compensation to that of the Median Employee was as follows: | | | | | | | | | | | CEO Total Annual Compensation | | | | $ | | 8,156,151 | | | | Median Employee Total Annual Compensation | | | | $ | | 55,560 | | | | Ratio of CEO to Median Employee Total Annual Compensation | | | | | | 146.8 | | | 71 Section 16(a) Beneficial Ownership Reporting Requirement Section 16 of the Exchange Act requires our directors and certain of our officers, and persons who own more than 10% of our common stock, to file initial reports of ownership and reports of changes in ownership of our common stock and other of our equity securiti"
    }
   },
   "0001193125-18-084077": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312518084077/d544693ddef14a.htm",
    "periodEnd": "2017-12-31",
    "tenK": "0001091667-18-000025",
    "result": {
-    "ceoPay": 52722,
+    "ceoPay": 7813316,
     "medianPay": 52722,
-    "payRatio": 1,
+    "payRatio": 148,
     "method": "cross-checked",
     "employees": 95064,
     "statedYear": 2017,
-    "excerpt": "to Median Employee pay ratio for 2017 was calculated pursuant to Item 402(u) of Regulation S-K, comparing total annual compensation for the CEO to that of the Median Employee. For purposes of calculating the pay ratio, the Median Employee was selected based on an analysis of the median 2017 W-2 Box 1 income among all full and part-time U.S. employees, other than the CEO, who were actively employed by Charter as of December 31, 2017. No adjustments were applied to W-2 Box 1 income for purposes of determining the Median Employee, such as for employees who were employed for only part of the year or on unpaid leave of absence at some point during the year. Charters employees outside of the U.S. were excluded from this analysis on the basis that they collectively represented less than 5% of Ch"
+    "excerpt": "s, which provide significant additional value but are not included in the measure of total annual compensation used to calculate the pay ratio. The ratio of the CEOs total annual compensation to that of the Median Employee was as follows: | | | | | | | | | | | CEO Total Annual Compensation | | | | $ | | 7,813,316 | | | | Median Employee Total Annual Compensation | | | | $ | | 52,722 | | | | Ratio of CEO to Median Employee Total Annual Compensation | | | | | | 148 : 1 | | | 63 Section 16(a) Beneficial Ownership Reporting Requirement Section 16 of the Exchange Act requires our directors and certain of our officers, and persons who own more than 10% of our common stock, to file initial reports of ownership and reports of changes in ownership of our common stock and other of our equity securi"
    }
   }
  },
  "tenKs": {
   "0001091667-21-000022": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001091667-22-000024": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001091667-23-000024": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001091667-24-000028": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001091667-25-000034": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001091667-26-000017": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   }
  },

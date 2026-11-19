@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001609711-26-000030": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971126000030/gddy-20260423.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001609711-25-000070": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971125000070/gddy-20250424.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001609711-24-000063": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971124000063/gddy-20240425.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001609711-23-000068": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971123000068/gddydef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001609711-22-000052": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971122000052/gddydefinitiveproxyapril20.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001609711-21-000047": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971121000047/gddy12312020def14aproxy.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001609711-20-000050": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971120000050/gddy12312019def14aproxy.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001609711-19-000079": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971119000079/gddy12312018def14aproxy.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001609711-18-000114": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1609711/000160971118000114/gddy12312017def14aproxy.htm",
    "periodEnd": "2017-12-31",

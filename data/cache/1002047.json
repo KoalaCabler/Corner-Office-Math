@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-321210": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-07-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312526321210/ntap-20260727.htm",
    "periodEnd": "2026-04-24",
@@ -17,7 +17,7 @@
    }
   },
   "0000950170-25-098850": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-07-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017025098850/ntap-20250725.htm",
    "periodEnd": "2025-04-25",
@@ -33,7 +33,7 @@
    }
   },
   "0000950170-24-086897": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-07-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000095017024086897/ntap-20240726.htm",
    "periodEnd": "2024-04-26",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-000928": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-07-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000130817923000928/ntap4201481-def14a.htm",
    "periodEnd": "2023-04-28",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-22-001845": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-07-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000120677422001845/ntap3995021-def14a.htm",
    "periodEnd": "2022-04-29",
@@ -81,7 +81,7 @@
    }
   },
   "0001206774-21-001923": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-07-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000120677421001923/ntap3895321-def14a.htm",
    "periodEnd": "2021-04-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001564590-20-035170": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-07-31",
    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000156459020035170/ntap-def14a_20200910.htm",
    "periodEnd": "2020-04-24",
@@ -113,7 +113,7 @@
    }
   },
   "0001564590-19-028427": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-08-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000156459019028427/ntap-def14a_20190912.htm",
    "periodEnd": "2019-04-26",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-234919": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-08-01",
    "url": "https://www.sec.gov/Archives/edgar/data/1002047/000119312518234919/d502295ddef14a.htm",
    "periodEnd": "2018-04-27",

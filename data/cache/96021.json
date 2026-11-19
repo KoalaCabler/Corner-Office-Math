@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000096021-26-000037": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-10-01",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000009602126000037/syy-20261001.htm",
    "periodEnd": "2026-06-27",
@@ -17,7 +17,7 @@
    }
   },
   "0000096021-25-000147": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-10-02",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000009602125000147/syy-20251001.htm",
    "periodEnd": "2025-06-28",
@@ -33,7 +33,7 @@
    }
   },
   "0000096021-24-000175": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-10-03",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000009602124000175/syy-20241003.htm",
    "periodEnd": "2024-06-29",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-001019": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-10-05",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817923001019/lsyy2023_def14a.htm",
    "periodEnd": "2023-07-01",
@@ -65,7 +65,7 @@
    }
   },
   "0001308179-22-000374": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-10-06",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817922000374/lsysco2022_def14a.htm",
    "periodEnd": "2022-07-02",
@@ -81,7 +81,7 @@
    }
   },
   "0001308179-21-000326": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-10-06",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817921000326/lsysco2021_def14a.htm",
    "periodEnd": "2021-07-03",
@@ -97,7 +97,7 @@
    }
   },
   "0001308179-20-000279": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-10-07",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817920000279/lsyy2020_def14a.htm",
    "periodEnd": "2020-06-27",
@@ -113,7 +113,7 @@
    }
   },
   "0001308179-19-000241": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-10-02",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817919000241/lsyy_2019def14a.htm",
    "periodEnd": "2019-06-29",
@@ -129,7 +129,7 @@
    }
   },
   "0001308179-18-000271": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-10-05",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817918000271/lsyy2018_def14a.htm",
    "periodEnd": "2018-06-30",

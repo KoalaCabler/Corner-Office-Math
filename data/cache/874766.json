@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000874766-26-000025": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476626000025/hig-20260409.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000874766-25-000040": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476625000040/hig-20250410.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000874766-24-000049": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476624000049/hig-20240405.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000874766-23-000037": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476623000037/hig-20230406.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0000874766-22-000028": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476622000028/hartfordproxy2022.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000874766-21-000024": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476621000024/hartfordproxy2021.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0000874766-20-000022": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476620000022/hartfordproxy2020.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0000874766-19-000020": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476619000020/hartfordproxy2019.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0000874766-18-000014": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/874766/000087476618000014/hartfordproxy2018.htm",
    "periodEnd": "2017-12-31",

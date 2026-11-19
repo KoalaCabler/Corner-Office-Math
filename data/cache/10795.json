@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001628280-25-057846": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-12-18",
    "url": "https://www.sec.gov/Archives/edgar/data/10795/000162828025057846/bdx-20251217.htm",
    "periodEnd": "2025-09-30",
@@ -17,7 +17,7 @@
    }
   },
   "0000010795-24-000096": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-12-19",
    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079524000096/bdx-20241219.htm",
    "periodEnd": "2024-09-30",
@@ -33,7 +33,7 @@
    }
   },
   "0000010795-23-000118": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-12-14",
    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079523000118/bdx-20231214.htm",
    "periodEnd": "2023-09-30",
@@ -49,7 +49,7 @@
    }
   },
   "0000010795-22-000084": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-12-15",
    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079522000084/a2023proxystatementoldprox.htm",
    "periodEnd": "2022-09-30",
@@ -65,7 +65,7 @@
    }
   },
   "0000010795-21-000097": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-12-16",
    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079521000097/a2022proxystatement.htm",
    "periodEnd": "2021-09-30",
@@ -81,7 +81,7 @@
    }
   },
   "0000010795-20-000064": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-12-17",
    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079520000064/bd2021proxystatement.htm",
    "periodEnd": "2020-09-30",
@@ -97,7 +97,7 @@
    }
   },
   "0000010795-18-000039": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-12-03",
    "url": "https://www.sec.gov/Archives/edgar/data/10795/000001079518000039/bd2019proxystatement.htm",
    "periodEnd": "2018-09-30",

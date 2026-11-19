@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001474432-26-000041": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-05-01",
    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000147443226000041/pstg-20260430.htm",
    "periodEnd": "2026-02-01",
@@ -17,7 +17,7 @@
    }
   },
   "0001628280-25-021843": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-05-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828025021843/pstg-20250428.htm",
    "periodEnd": "2025-02-02",
@@ -33,7 +33,7 @@
    }
   },
   "0001628280-24-020300": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-05-03",
    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828024020300/pstg-20240501.htm",
    "periodEnd": "2024-02-04",
@@ -49,7 +49,7 @@
    }
   },
   "0001628280-23-016129": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-05-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828023016129/pstg-20230503.htm",
    "periodEnd": "2023-02-05",
@@ -65,7 +65,7 @@
    }
   },
   "0001628280-22-012667": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-05-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828022012667/purestorageproxy2022.htm",
    "periodEnd": "2022-02-06",
@@ -81,7 +81,7 @@
    }
   },
   "0001628280-21-009085": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-05-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828021009085/purestorageproxy2021.htm",
    "periodEnd": "2021-01-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001628280-20-007449": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-05-11",
    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828020007449/purestorageproxy2020.htm",
    "periodEnd": "2020-02-02",
@@ -113,7 +113,7 @@
    }
   },
   "0001628280-19-006302": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-05-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000162828019006302/purestorageproxy2019.htm",
    "periodEnd": "2019-01-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-156087": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-05-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1474432/000119312518156087/d573819ddef14a.htm",
    "periodEnd": "2018-01-31",

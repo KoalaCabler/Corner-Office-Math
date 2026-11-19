@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000909832-25-000159": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-12-04",
    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983225000159/cost-20251204.htm",
    "periodEnd": "2025-08-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000909832-24-000072": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-12-11",
    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983224000072/cost-20241209.htm",
    "periodEnd": "2024-09-01",
@@ -33,7 +33,7 @@
    }
   },
   "0000909832-23-000058": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-12-07",
    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983223000058/cost-20231206.htm",
    "periodEnd": "2023-09-03",
@@ -49,7 +49,7 @@
    }
   },
   "0000909832-22-000023": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-12-06",
    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983222000023/costproxy2022.htm",
    "periodEnd": "2022-08-28",
@@ -65,7 +65,7 @@
    }
   },
   "0000909832-21-000017": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-12-10",
    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983221000017/costproxy2021.htm",
    "periodEnd": "2021-08-29",
@@ -81,7 +81,7 @@
    }
   },
   "0000909832-20-000021": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-12-10",
    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983220000021/costproxy2020.htm",
    "periodEnd": "2020-08-30",
@@ -97,7 +97,7 @@
    }
   },
   "0000909832-19-000027": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-12-10",
    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983219000027/costproxy2019.htm",
    "periodEnd": "2019-09-01",
@@ -113,7 +113,7 @@
    }
   },
   "0000909832-18-000018": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-12-17",
    "url": "https://www.sec.gov/Archives/edgar/data/909832/000090983218000018/costproxy2018.htm",
    "periodEnd": "2018-09-02",

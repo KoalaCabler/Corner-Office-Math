@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001141391-26-000021": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000021/ma-20260427.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001141391-25-000078": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139125000078/ma-20250428.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001141391-24-000078": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139124000078/ma-20240426.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001141391-23-000070": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139123000070/ma-20230428.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001141391-22-000099": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139122000099/mastercard2022proxystateme.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001141391-21-000098": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139121000098/mastercard2021proxystateme.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001141391-20-000096": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139120000096/mastercard2020proxystateme.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001141391-19-000067": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139119000067/mastercard2019proxystateme.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001141391-18-000045": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1141391/000114139118000045/mastercard2018proxydef14a.htm",
    "periodEnd": "2017-12-31",
@@ -147,39 +147,39 @@
  },
  "tenKs": {
   "0001141391-18-000009": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001141391-19-000013": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001141391-20-000032": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001141391-21-000018": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001141391-22-000023": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001141391-23-000020": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001141391-24-000022": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001141391-25-000011": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001141391-26-000013": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   }
  },

@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000720005-26-000019": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-01-07",
    "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000526000019/rjf-20260106.htm",
    "periodEnd": "2025-09-30",
@@ -17,7 +17,7 @@
    }
   },
   "0000720005-25-000008": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-01-08",
    "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000525000008/rjf-20250108.htm",
    "periodEnd": "2024-09-30",
@@ -33,7 +33,7 @@
    }
   },
   "0000720005-24-000007": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-01-08",
    "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000524000007/rjf-20240108.htm",
    "periodEnd": "2023-09-30",
@@ -49,7 +49,7 @@
    }
   },
   "0000720005-23-000011": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-01-11",
    "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000523000011/a2023raymondjamesnps.htm",
    "periodEnd": "2022-09-30",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-007401": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-01-12",
    "url": "https://www.sec.gov/Archives/edgar/data/720005/000119312522007401/d271677ddef14a.htm",
    "periodEnd": "2021-09-30",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-21-004623": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-01-08",
    "url": "https://www.sec.gov/Archives/edgar/data/720005/000119312521004623/d98472ddef14a.htm",
    "periodEnd": "2020-09-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-20-004913": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-01-10",
    "url": "https://www.sec.gov/Archives/edgar/data/720005/000119312520004913/d833138ddef14a.htm",
    "periodEnd": "2019-09-30",
@@ -113,7 +113,7 @@
    }
   },
   "0000720005-19-000004": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-01-17",
    "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000519000004/rjf_proxystmtx9302018.htm",
    "periodEnd": "2018-09-30",
@@ -129,7 +129,7 @@
    }
   },
   "0000720005-18-000002": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-01-08",
    "url": "https://www.sec.gov/Archives/edgar/data/720005/000072000518000002/rjf_proxystmtx9302017.htm",
    "periodEnd": "2017-09-30",

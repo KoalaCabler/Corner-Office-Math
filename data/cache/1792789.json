@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001792789-26-000018": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000179278926000018/dash-20260420.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001628280-25-020666": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828025020666/dash-20250429.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001628280-24-018671": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828024018671/dash-20240426.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001628280-23-014196": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828023014196/dash-20230428.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001628280-22-011600": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-05-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828022011600/doordashdef14a2022fy21proxy.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001628280-21-008245": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828021008245/doordashinc-def14a.htm",
    "periodEnd": "2020-12-31",

@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001628280-26-019621": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/4977/000162828026019621/afl-20260319.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000004977-25-000059": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497725000059/afl-20250319.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000004977-24-000068": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497724000068/afl-20240320.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000004977-23-000079": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/4977/000000497723000079/afl-20230314.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-22-000746": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/4977/000120677422000746/afl3963471-def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001206774-21-000738": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/4977/000120677421000738/afl3753891-def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001206774-20-000847": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/4977/000120677420000847/afl3622711-def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-19-000982": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/4977/000120677419000982/aflac3532291-def14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001206774-18-000917": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/4977/000120677418000917/aflac3393031-def14a.htm",
    "periodEnd": "2017-12-31",

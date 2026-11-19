@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-099298": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-10",
    "url": "https://www.sec.gov/Archives/edgar/data/36270/000119312526099298/d74790ddef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-044781": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-04",
    "url": "https://www.sec.gov/Archives/edgar/data/36270/000119312525044781/d842171ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-058283": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-05",
    "url": "https://www.sec.gov/Archives/edgar/data/36270/000119312524058283/d743133ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-062138": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-07",
    "url": "https://www.sec.gov/Archives/edgar/data/36270/000119312523062138/d437251ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001564590-22-010523": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/36270/000156459022010523/mtb-def14a_20220425.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001564590-21-011350": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-08",
    "url": "https://www.sec.gov/Archives/edgar/data/36270/000156459021011350/mtb-def14a_20210421.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001564590-20-009253": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-09",
    "url": "https://www.sec.gov/Archives/edgar/data/36270/000156459020009253/mtb-def14a_20200416.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001564590-19-006629": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-07",
    "url": "https://www.sec.gov/Archives/edgar/data/36270/000156459019006629/mtb-def14a_20190417.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001564590-18-004624": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-07",
    "url": "https://www.sec.gov/Archives/edgar/data/36270/000156459018004624/mtb-def14a_20180417.htm",
    "periodEnd": "2017-12-31",
@@ -147,15 +147,15 @@
  },
  "tenKs": {
   "0001564590-18-002855": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001564590-19-003467": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001564590-20-005365": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001564590-21-007188": {
@@ -175,11 +175,11 @@
    "employees": 22223
   },
   "0001628280-25-006267": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000036270-26-000010": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   }
  },

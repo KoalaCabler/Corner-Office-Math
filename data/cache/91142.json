@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-089938": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-04",
    "url": "https://www.sec.gov/Archives/edgar/data/91142/000119312526089938/d79196ddef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-037641": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-02-27",
    "url": "https://www.sec.gov/Archives/edgar/data/91142/000119312525037641/d897404ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-051896": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-02-29",
    "url": "https://www.sec.gov/Archives/edgar/data/91142/000119312524051896/d361759ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-057398": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-02",
    "url": "https://www.sec.gov/Archives/edgar/data/91142/000119312523057398/d414670ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-063660": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-03",
    "url": "https://www.sec.gov/Archives/edgar/data/91142/000119312522063660/d252146ddef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-21-068434": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-04",
    "url": "https://www.sec.gov/Archives/edgar/data/91142/000119312521068434/d80191ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-20-063749": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-06",
    "url": "https://www.sec.gov/Archives/edgar/data/91142/000119312520063749/d845660ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,23 +113,23 @@
    }
   },
   "0001193125-19-055645": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-02-28",
    "url": "https://www.sec.gov/Archives/edgar/data/91142/000119312519055645/d685928ddef14a.htm",
    "periodEnd": "2018-12-31",
    "tenK": "0001193125-19-042339",
    "result": {
-    "ceoPay": 451000,
-    "medianPay": 456000,
-    "payRatio": 1,
-    "method": "cross-checked",
+    "ceoPay": null,
+    "medianPay": 19316.81,
+    "payRatio": 200,
+    "method": "ratio-and-median",
     "employees": null,
     "statedYear": 2018,
-    "excerpt": "Mr. Wheeler; $2,700,000 for Mr. Rajendra; $1,698,000 for Mr. Kita; $1,581,000 for Mr. Stern; $1,368,000 for Mr. Petrarca; and $1,353,000 for Mr. Ding. The death benefits payable after retirement are: $900,000 for Mr. Wheeler; $900,000 for Mr. Rajendra; $566,000 for Mr. Kita; $527,000 for Mr. Stern; $456,000 for Mr. Petrarca; and $451,000 for Mr. Ding. 45 Table of Contents REPORT OF THE PERSONNEL AND COMPENSATION COMMITTEE The Committee has reviewed and discussed the foregoing Compensation Discussion and Analysis with management. Based on the Committees review and discussion with management, the Committee has recommended to the Board of Directors that the Compensation Discussion and Analysis be included in this Proxy Statement and incorporated by reference in our Annual Report on Form"
+    "excerpt": "about the ratio of the annual total compensation of our chief executive officer to the median annual total compensation of our employees. For the year ended December 31, 2018: | | |  | | | | the median of the annual total compensation of all employees of our company was reasonably estimated to be $19,316.81; | | | |  | | | | the annual total compensation of our chief executive officer was 3,872,974; and | | | |  | | | | based on this information, the ratio of the annual total compensation is estimated to be 200:1. | Mr. Wheeler was appointed president and chief executive officer on September 1, 2018. To calculate the total compensation of our chief executive officer for the pay ratio calculation above, we annualized Mr. Wheelers compensation relative to the period that he was chief ex"
    }
   },
   "0001193125-18-062086": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-02-28",
    "url": "https://www.sec.gov/Archives/edgar/data/91142/000119312518062086/d519766ddef14a.htm",
    "periodEnd": "2017-12-31",

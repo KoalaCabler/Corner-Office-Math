@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001628280-26-020500": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000162828026020500/cme-20260323.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001156375-25-000077": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637525000077/cmegroupinc2025proxystatem.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001156375-24-000018": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637524000018/cme-20240318.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001156375-23-000027": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637523000027/cme-20230316.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001156375-23-000009": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-02-03",
    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637523000009/a2023letterannouncingclass.htm",
    "periodEnd": "2021-12-31",
@@ -73,7 +73,7 @@
    "result": null
   },
   "0001156375-22-000113": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000115637522000113/cmegroupinc2022proxystatem.htm",
    "periodEnd": "2021-12-31",
@@ -89,7 +89,7 @@
    }
   },
   "0001193125-21-086057": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000119312521086057/d117030ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -105,7 +105,7 @@
    }
   },
   "0001193125-20-076774": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000119312520076774/d861119ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -121,7 +121,7 @@
    }
   },
   "0001193125-19-080759": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000119312519080759/d650537ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -137,7 +137,7 @@
    }
   },
   "0001193125-18-270505": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-09-11",
    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000119312518270505/d589155ddef14a.htm",
    "periodEnd": "2017-12-31",
@@ -145,7 +145,7 @@
    "result": null
   },
   "0001193125-18-089293": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1156375/000119312518089293/d520878ddef14a.htm",
    "periodEnd": "2017-12-31",

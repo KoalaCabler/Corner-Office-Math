@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-25-000599": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-09-19",
    "url": "https://www.sec.gov/Archives/edgar/data/842023/000130817925000599/tech014339-def14a.htm",
    "periodEnd": "2025-06-30",
@@ -17,7 +17,7 @@
    }
   },
   "0001308179-24-000703": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-09-12",
    "url": "https://www.sec.gov/Archives/edgar/data/842023/000130817924000703/ltech2024_def14a.htm",
    "periodEnd": "2024-06-30",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-23-000977": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-09-13",
    "url": "https://www.sec.gov/Archives/edgar/data/842023/000130817923000977/ltech2023_def14a.htm",
    "periodEnd": "2023-06-30",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-22-000356": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-09-14",
    "url": "https://www.sec.gov/Archives/edgar/data/842023/000130817922000356/ltech2022_def14a.htm",
    "periodEnd": "2022-06-30",
@@ -65,7 +65,7 @@
    }
   },
   "0001140361-21-031213": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-09-14",
    "url": "https://www.sec.gov/Archives/edgar/data/842023/000114036121031213/ny20000506x1_def14a.htm",
    "periodEnd": "2021-06-30",
@@ -81,7 +81,7 @@
    }
   },
   "0001437749-20-019750": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-09-15",
    "url": "https://www.sec.gov/Archives/edgar/data/842023/000143774920019750/tech20200912_def14a.htm",
    "periodEnd": "2020-06-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001437749-19-018072": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-09-09",
    "url": "https://www.sec.gov/Archives/edgar/data/842023/000143774919018072/tech20190906_def14a.htm",
    "periodEnd": "2019-06-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001437749-18-016854": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-09-11",
    "url": "https://www.sec.gov/Archives/edgar/data/842023/000143774918016854/tech20180906_def14a.htm",
    "periodEnd": "2018-06-30",
@@ -131,7 +131,7 @@
  },
  "tenKs": {
   "0001437749-19-017565": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001437749-20-018754": {

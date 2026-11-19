@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001267238-26-000018": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000018/aiz-20260406.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001267238-25-000018": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723825000018/aiz-20250404.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001267238-24-000019": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723824000019/aiz-20240404.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001267238-23-000020": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723823000020/aiz-20230323.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001267238-22-000010": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723822000010/aiz2021proxy.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001628280-21-005278": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000162828021005278/aizfy2020proxy.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001267238-20-000008": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723820000008/aizfy2019proxy1.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001628280-19-003334": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000162828019003334/aiz2018def14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001628280-18-003600": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000162828018003600/aiz2017def14a.htm",
    "periodEnd": "2017-12-31",

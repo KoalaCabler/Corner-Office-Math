@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001045810-26-000036": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-05-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000036/nvda-20260512.htm",
    "periodEnd": "2026-01-25",
@@ -17,7 +17,7 @@
    }
   },
   "0001045810-25-000095": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-05-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000095/nvda-20250512.htm",
    "periodEnd": "2025-01-26",
@@ -33,7 +33,7 @@
    }
   },
   "0001045810-24-000104": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-05-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581024000104/nvda-20240514.htm",
    "periodEnd": "2024-01-28",
@@ -49,7 +49,7 @@
    }
   },
   "0001045810-23-000080": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-05-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000080/nvda-20230508.htm",
    "periodEnd": "2023-01-29",
@@ -65,7 +65,7 @@
    }
   },
   "0001045810-22-000068": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000068/noticeof2022annualmeeting.htm",
    "periodEnd": "2022-01-30",
@@ -73,7 +73,7 @@
    "result": null
   },
   "0001045810-22-000067": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581022000067/nvda2022definitiveproxysta.htm",
    "periodEnd": "2022-01-30",
@@ -89,7 +89,7 @@
    }
   },
   "0001045810-21-000052": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581021000052/nvda2021definitiveproxysta.htm",
    "periodEnd": "2021-01-31",
@@ -105,7 +105,7 @@
    }
   },
   "0001045810-20-000055": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000055/nvda2020definitiveproxysta.htm",
    "periodEnd": "2020-01-26",
@@ -121,7 +121,7 @@
    }
   },
   "0001045810-19-000070": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581019000070/nvda2019definitiveproxysta.htm",
    "periodEnd": "2019-01-27",
@@ -137,7 +137,7 @@
    }
   },
   "0001045810-18-000047": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581018000047/nvda2018proxystatementsecf.htm",
    "periodEnd": "2018-01-28",

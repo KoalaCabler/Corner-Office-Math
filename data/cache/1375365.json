@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001375365-26-000008": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-03",
    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536526000008/smci-20260303.htm",
    "periodEnd": "2025-06-30",
@@ -17,7 +17,7 @@
    }
   },
   "0001375365-25-000009": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536525000009/smci-20250424.htm",
    "periodEnd": "2024-06-30",
@@ -33,7 +33,7 @@
    }
   },
   "0001375365-23-000046": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-12-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536523000046/smci-20231207.htm",
    "periodEnd": "2023-06-30",
@@ -41,7 +41,7 @@
    "result": null
   },
   "0001375365-23-000024": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536523000024/proxystatement2022.htm",
    "periodEnd": "2022-06-30",
@@ -57,7 +57,7 @@
    }
   },
   "0001375365-22-000043": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536522000043/proxystatement2021.htm",
    "periodEnd": "2021-06-30",
@@ -73,7 +73,7 @@
    }
   },
   "0001375365-21-000026": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536521000026/proxystatement2020.htm",
    "periodEnd": "2020-06-30",
@@ -89,7 +89,7 @@
    }
   },
   "0001375365-20-000024": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000137536520000024/proxystatementfy2019.htm",
    "periodEnd": "2019-06-30",
@@ -131,7 +131,7 @@
    "employees": 2996
   },
   "0001375365-22-000103": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": 4607
   },
   "0001375365-23-000036": {

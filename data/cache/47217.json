@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000047217-26-000015": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-02-25",
    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000015/hpq-20260225.htm",
    "periodEnd": "2025-10-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000047217-25-000014": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-02-24",
    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721725000014/hpq-20250223.htm",
    "periodEnd": "2024-10-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000047217-24-000013": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-02-26",
    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721724000013/hpq-20240226.htm",
    "periodEnd": "2023-10-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000047217-23-000009": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-02-24",
    "url": "https://www.sec.gov/Archives/edgar/data/47217/000004721723000009/hpq2023proxy.htm",
    "periodEnd": "2022-10-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-22-000540": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-02-23",
    "url": "https://www.sec.gov/Archives/edgar/data/47217/000120677422000540/hpq3981831-def14a.htm",
    "periodEnd": "2021-10-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001206774-21-000494": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-02-22",
    "url": "https://www.sec.gov/Archives/edgar/data/47217/000120677421000494/hpq3871831-def14a.htm",
    "periodEnd": "2020-10-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001206774-19-000588": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-02-26",
    "url": "https://www.sec.gov/Archives/edgar/data/47217/000120677419000588/hpq3459341-def14a.htm",
    "periodEnd": "2018-10-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-18-000563": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-02-26",
    "url": "https://www.sec.gov/Archives/edgar/data/47217/000120677418000563/hp3289181-def14a.htm",
    "periodEnd": "2017-10-31",

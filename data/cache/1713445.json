@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001713445-26-000060": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1713445/000171344526000060/rddt-20260423.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001713445-25-000092": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1713445/000171344525000092/rddt-20250428.htm",
    "periodEnd": "2024-12-31",

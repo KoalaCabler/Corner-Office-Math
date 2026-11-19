@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001281761-26-000027": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176126000027/rf-20260323.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001281761-25-000024": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-03",
    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176125000024/rf-20250303.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001281761-24-000016": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176124000016/rf-20240304.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001281761-23-000018": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176123000018/rf-20230306.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001281761-22-000019": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176122000019/a2022rfcproxystatement.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001281761-21-000017": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176121000017/a2021rfcproxystatement.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001281761-20-000018": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176120000018/a2020rfcproxystatement.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001281761-19-000034": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176119000034/a2019rfcproxystatement.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001281761-18-000022": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1281761/000128176118000022/a2018regionsfinancialcorpo.htm",
    "periodEnd": "2017-12-31",
@@ -147,15 +147,15 @@
  },
  "tenKs": {
   "0001281761-18-000016": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001281761-19-000019": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001281761-20-000010": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001281761-21-000012": {
@@ -167,19 +167,19 @@
    "employees": 620
   },
   "0001281761-23-000012": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001281761-24-000010": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001281761-25-000010": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001281761-26-000019": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   }
  },

@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-160426": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-17",
    "url": "https://www.sec.gov/Archives/edgar/data/46080/000119312526160426/d36474ddef14a.htm",
    "periodEnd": "2025-12-28",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-072854": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/46080/000119312525072854/d913591ddef14a.htm",
    "periodEnd": "2024-12-29",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-085438": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-03",
    "url": "https://www.sec.gov/Archives/edgar/data/46080/000119312524085438/d814749ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-088813": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-03",
    "url": "https://www.sec.gov/Archives/edgar/data/46080/000119312523088813/d443850ddef14a.htm",
    "periodEnd": "2022-12-25",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-21-103394": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/46080/000119312521103394/d682184ddef14a.htm",
    "periodEnd": "2020-12-27",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-20-093312": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/46080/000119312520093312/d891356ddef14a.htm",
    "periodEnd": "2019-12-29",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-19-095217": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-02",
    "url": "https://www.sec.gov/Archives/edgar/data/46080/000119312519095217/d684854ddef14a.htm",
    "periodEnd": "2018-12-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-18-104068": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-02",
    "url": "https://www.sec.gov/Archives/edgar/data/46080/000119312518104068/d499055ddef14a.htm",
    "periodEnd": "2017-12-31",
@@ -131,11 +131,11 @@
  },
  "tenKs": {
   "0001193125-19-052025": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000046080-20-000028": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000046080-21-000035": {

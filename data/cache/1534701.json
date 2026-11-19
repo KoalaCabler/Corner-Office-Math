@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001534701-26-000010": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000010/psx-20260401.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001534701-24-000095": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-03",
    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470124000095/psx-20240402.htm",
    "periodEnd": "2023-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001534701-23-000064": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470123000064/psx-20230329.htm",
    "periodEnd": "2022-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001206774-22-000928": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-31",
    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000120677422000928/psx3965551_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001140361-21-010999": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-31",
    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000114036121010999/nc10021503x3_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-20-085402": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000119312520085402/d873892ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-19-092869": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000119312519092869/d691086ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001571049-18-000199": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1534701/000157104918000199/tv488480_phillips66-2018pxy.htm",
    "periodEnd": "2017-12-31",

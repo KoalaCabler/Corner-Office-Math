@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-26-000024": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-02-26",
    "url": "https://www.sec.gov/Archives/edgar/data/87347/000130817926000024/slb2026-def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001308179-25-000591": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-09-08",
    "url": "https://www.sec.gov/Archives/edgar/data/87347/000130817925000591/slb014528-def14a.htm",
    "periodEnd": "2024-12-31",
@@ -25,7 +25,7 @@
    "result": null
   },
   "0001308179-25-000029": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-02-20",
    "url": "https://www.sec.gov/Archives/edgar/data/87347/000130817925000029/slb012574-def14a.htm",
    "periodEnd": "2024-12-31",
@@ -41,7 +41,7 @@
    }
   },
   "0001308179-24-000033": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-02-22",
    "url": "https://www.sec.gov/Archives/edgar/data/87347/000130817924000033/lslb2024_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -57,7 +57,7 @@
    }
   },
   "0001308179-23-000057": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-02-23",
    "url": "https://www.sec.gov/Archives/edgar/data/87347/000130817923000057/slb-20221231.htm",
    "periodEnd": "2022-12-31",
@@ -73,7 +73,7 @@
    }
   },
   "0001308179-22-000016": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-02-24",
    "url": "https://www.sec.gov/Archives/edgar/data/87347/000130817922000016/lslb2022_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -89,7 +89,7 @@
    }
   },
   "0001308179-21-000014": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-02-25",
    "url": "https://www.sec.gov/Archives/edgar/data/87347/000130817921000014/lslb2021_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -105,7 +105,7 @@
    }
   },
   "0001308179-20-000009": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-02-21",
    "url": "https://www.sec.gov/Archives/edgar/data/87347/000130817920000009/lslb2020_def14a.htm",
    "periodEnd": "2019-12-31",
@@ -121,7 +121,7 @@
    }
   },
   "0001308179-19-000005": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-02-21",
    "url": "https://www.sec.gov/Archives/edgar/data/87347/000130817919000005/lslb2019_def14a.htm",
    "periodEnd": "2018-12-31",
@@ -137,7 +137,7 @@
    }
   },
   "0001308179-18-000016": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-02",
    "url": "https://www.sec.gov/Archives/edgar/data/87347/000130817918000016/lslb2018_def14a.htm",
    "periodEnd": "2017-12-31",

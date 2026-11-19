@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000723125-25-000038": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-11-25",
    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312525000038/mu-20251125.htm",
    "periodEnd": "2025-08-28",
@@ -17,7 +17,7 @@
    }
   },
   "0000723125-24-000039": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-11-26",
    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312524000039/mu-20241126.htm",
    "periodEnd": "2024-08-29",
@@ -33,7 +33,7 @@
    }
   },
   "0000723125-23-000065": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-11-29",
    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312523000065/mu-20231129.htm",
    "periodEnd": "2023-08-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000723125-22-000063": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-12-02",
    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312522000063/a2022definitiveproxy.htm",
    "periodEnd": "2022-09-01",
@@ -65,7 +65,7 @@
    }
   },
   "0000723125-21-000082": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-12-02",
    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312521000082/a2021definitiveproxy.htm",
    "periodEnd": "2021-09-02",
@@ -81,7 +81,7 @@
    }
   },
   "0000723125-20-000091": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-12-01",
    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312520000091/a2020definitiveproxy.htm",
    "periodEnd": "2020-09-03",
@@ -97,7 +97,7 @@
    }
   },
   "0001047469-19-006745": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-12-09",
    "url": "https://www.sec.gov/Archives/edgar/data/723125/000104746919006745/a2240268zdef14a.htm",
    "periodEnd": "2019-08-29",
@@ -113,7 +113,7 @@
    }
   },
   "0000723125-18-000142": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-12-06",
    "url": "https://www.sec.gov/Archives/edgar/data/723125/000072312518000142/a2018definitiveproxy.htm",
    "periodEnd": "2018-08-30",

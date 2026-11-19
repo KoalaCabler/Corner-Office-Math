@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000860731-26-000022": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073126000022/tyl-20260323.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000860731-25-000015": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073125000015/tyl-20250326.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000860731-24-000015": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073124000015/tyl-20240329.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001140361-23-015230": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-31",
    "url": "https://www.sec.gov/Archives/edgar/data/860731/000114036123015230/ny20006877x1_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001140361-22-013576": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/860731/000114036122013576/ny20002701x2_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001140361-21-011209": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/860731/000114036121011209/nc10018162x1_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001140361-20-007708": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/860731/000114036120007708/nc10009785x1_def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0000860731-19-000011": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073119000011/tylproxy2019.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0000860731-18-000016": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/860731/000086073118000016/tylproxy2018.htm",
    "periodEnd": "2017-12-31",

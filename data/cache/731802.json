@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000731802-25-000076": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-12-19",
    "url": "https://www.sec.gov/Archives/edgar/data/731802/000073180225000076/ato-20251218.htm",
    "periodEnd": "2025-09-30",
@@ -17,7 +17,7 @@
    }
   },
   "0000731802-24-000035": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-12-20",
    "url": "https://www.sec.gov/Archives/edgar/data/731802/000073180224000035/ato-20241218.htm",
    "periodEnd": "2024-09-30",
@@ -33,7 +33,7 @@
    }
   },
   "0000731802-23-000036": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-12-29",
    "url": "https://www.sec.gov/Archives/edgar/data/731802/000073180223000036/ato-20231228.htm",
    "periodEnd": "2023-09-30",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-22-306348": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-12-16",
    "url": "https://www.sec.gov/Archives/edgar/data/731802/000119312522306348/d400285ddef14a.htm",
    "periodEnd": "2022-09-30",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-21-359868": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-12-17",
    "url": "https://www.sec.gov/Archives/edgar/data/731802/000119312521359868/d201674ddef14a.htm",
    "periodEnd": "2021-09-30",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-20-320702": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-12-18",
    "url": "https://www.sec.gov/Archives/edgar/data/731802/000119312520320702/d18693ddef14a.htm",
    "periodEnd": "2020-09-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-19-319625": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-12-20",
    "url": "https://www.sec.gov/Archives/edgar/data/731802/000119312519319625/d788859ddef14a.htm",
    "periodEnd": "2019-09-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-18-355319": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-12-21",
    "url": "https://www.sec.gov/Archives/edgar/data/731802/000119312518355319/d607947ddef14a.htm",
    "periodEnd": "2018-09-30",

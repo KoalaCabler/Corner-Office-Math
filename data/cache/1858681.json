@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-177321": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312526177321/d948913ddef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-096971": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312525096971/d920046ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,51 +33,51 @@
    }
   },
   "0001193125-24-118090": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312524118090/d802194ddef14a.htm",
    "periodEnd": "2023-12-31",
    "tenK": "0001858681-24-000031",
    "result": {
-    "ceoPay": 320760,
+    "ceoPay": null,
     "medianPay": 171311,
     "payRatio": 1.87,
-    "method": "cross-checked",
+    "method": "ratio-and-median",
     "employees": null,
     "statedYear": 2023,
-    "excerpt": "Pay Ratio SEC rules require companies to disclose the ratio of the total annual compensation of the principal executive officer (\"PEO\") to the total annual compensation of the median employee (calculated excluding the PEO), and our ratio is as follows: Mr. Rowan's total annual compensation as PEO: $320,760 61 Table of Contents Median employee total annual compensation: $171,311 Ratio of PEO to median employee total annual compensation: 1.87:1 In determining the median employee, we prepared a list of all employees as of December 31, 2023. Consistent with applicable rules, we used reasonable estimates in the methodology used to identify the median employee. We determined the median employee by reviewing the annualized base salary for 2023 and the annual cash bonus paid in 2023 by employees"
+    "excerpt": "annual compensation of the principal executive officer (\"PEO\") to the total annual compensation of the median employee (calculated excluding the PEO), and our ratio is as follows: Mr. Rowan's total annual compensation as PEO: $320,760 61 Table of Contents Median employee total annual compensation: $171,311 Ratio of PEO to median employee total annual compensation: 1.87:1 In determining the median employee, we prepared a list of all employees as of December 31, 2023. Consistent with applicable rules, we used reasonable estimates in the methodology used to identify the median employee. We determined the median employee by reviewing the annualized base salary for 2023 and the annual cash bonus paid in 2023 by employees other than the PEO. After we determined the median employee, we calculate"
    }
   },
   "0001193125-23-215946": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-08-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312523215946/d543681ddef14a.htm",
    "periodEnd": "2022-12-31",
    "tenK": "0001858681-23-000007",
    "result": {
-    "ceoPay": 310011,
+    "ceoPay": null,
     "medianPay": 170035,
     "payRatio": 1.8,
-    "method": "cross-checked",
+    "method": "ratio-and-median",
     "employees": null,
     "statedYear": 2022,
-    "excerpt": "Pay Ratio SEC rules require companies to disclose the ratio of the total annual compensation of the principal executive officer (\"PEO\") to the total annual compensation of the median employee (calculated excluding the PEO), and our ratio is as follows: Mr. Rowan's total annual compensation as PEO: $310,011 Median employee total annual compensation: $170,035 Ratio of PEO to median employee total annual compensation: 1.8:1 In determining the median employee, we prepared a list of all employees as of December 31, 2022. Consistent with applicable rules, we used reasonable estimates in the methodology used to identify the median employee. We determined the median employee by reviewing the annualized base salary for 2022 and the annual cash bonus paid in 2022 by employees other than the PEO. Af"
+    "excerpt": "he ratio of the total annual compensation of the principal executive officer (\"PEO\") to the total annual compensation of the median employee (calculated excluding the PEO), and our ratio is as follows: Mr. Rowan's total annual compensation as PEO: $310,011 Median employee total annual compensation: $170,035 Ratio of PEO to median employee total annual compensation: 1.8:1 In determining the median employee, we prepared a list of all employees as of December 31, 2022. Consistent with applicable rules, we used reasonable estimates in the methodology used to identify the median employee. We determined the median employee by reviewing the annualized base salary for 2022 and the annual cash bonus paid in 2022 by employees other than the PEO. After we determined the median employee, we calculated"
    }
   },
   "0001193125-22-225440": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-08-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312522225440/d339343ddef14a.htm",
    "periodEnd": null,
    "tenK": null,
    "result": {
-    "ceoPay": 302310,
-    "medianPay": 215817,
-    "payRatio": 1.4,
+    "ceoPay": 750000,
+    "medianPay": 25000,
+    "payRatio": 31,
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2021,
-    "excerpt": "calculated excluding the PEO), and permit the registrant to annualize the compensation of the person who was the PEO on the date selected for identifying the median employee, which in our case was Mr. Rowan, and our ratio is as follows: Mr. Rowans total compensation as PEO, on an annualized basis: $302,310 Median employee total annual compensation: $215,817 52 Table of Contents Ratio of PEO to median employee total annual compensation: 1.4 In determining the median employee, we prepared a list of all AAM employees as of December 31, 2021. Consistent with applicable rules, we used reasonable estimates in the methodology used to identify the median employee. We determined the median employee by reviewing the base salary paid in 2021, the annual cash bonus paid in 2021 and the value of the e"
+    "excerpt": "Mr. Rowans total compensation as PEO, on an annualized basis: $302,310 Median employee total annual compensation: $215,817 52 Table of Contents Ratio of PEO to median employee total annual compensation: 1.4 In determining the median employee, we prepared a list of all AAM employees as of December 31, 2021. Consistent with applicable rules, we used reasonable estimates in the methodology used to identify the median employee. We determined the median employee by reviewing the base salary paid in 2021, the annual cash bonus paid in 2021 and the value of the equity awards received in 2021 by employees other than the PEO. After we determined the median employee, we calculated the median employees total annual compensation in the same manner in which we calculated the total annual compensatio"
    }
   }
  },

@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-26-000125": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000130817926000125/uber014597-def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001308179-25-000210": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000130817925000210/uber013353-def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001552781-24-000177": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278124000177/e24048_uber-def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001552781-23-000193": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278123000193/e23076_uber-def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001552781-22-000289": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278122000289/e22079_uber-def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001552781-21-000157": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278121000157/e21146_uber-def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001552781-20-000238": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1543151/000155278120000238/e20161_uber-def14a.htm",
    "periodEnd": "2019-12-31",

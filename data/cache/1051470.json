@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001051470-26-000039": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147026000039/cci-20260406.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001051470-25-000115": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147025000115/cci-20250407.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001051470-23-000082": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-03",
    "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147023000082/cci-20230403.htm",
    "periodEnd": "2022-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001051470-22-000103": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147022000103/a2022proxystatement.htm",
    "periodEnd": "2021-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001051470-21-000115": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147021000115/a2021proxystatement.htm",
    "periodEnd": "2020-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001051470-20-000082": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147020000082/a2020proxystatement.htm",
    "periodEnd": "2019-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001051470-19-000099": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147019000099/a2019proxystatement.htm",
    "periodEnd": "2018-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001051470-18-000098": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1051470/000105147018000098/a2018proxystatement.htm",
    "periodEnd": "2017-12-31",

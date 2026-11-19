@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-145548": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/63908/000119312526145548/mcd-20260407.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001558370-25-004544": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/63908/000155837025004544/mcd-20250520xdef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001558370-24-004818": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/63908/000155837024004818/mcd-20240522xdef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001558370-23-005957": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-14",
    "url": "https://www.sec.gov/Archives/edgar/data/63908/000155837023005957/mcd-20230525xdef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-21-001039": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/63908/000120677421001039/mcd3798221-def14a.htm",
    "periodEnd": "2020-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001206774-20-001117": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/63908/000120677420001117/mcd3631831-def14a.htm",
    "periodEnd": "2019-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001206774-19-001299": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-11",
    "url": "https://www.sec.gov/Archives/edgar/data/63908/000120677419001299/mcd3477431-def14a.htm",
    "periodEnd": "2018-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-18-001176": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/63908/000120677418001176/mcd3291681-def14a.htm",
    "periodEnd": "2017-12-31",
@@ -131,27 +131,27 @@
  },
  "tenKs": {
   "0000063908-18-000010": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000063908-19-000010": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000063908-20-000022": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000063908-21-000013": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000063908-23-000012": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000063908-24-000072": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000063908-25-000012": {
@@ -163,7 +163,7 @@
    "employees": 150000
   },
   "0000063908-22-000011": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   }
  },

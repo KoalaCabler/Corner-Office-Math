@@ -1,87 +1,63 @@
 {
  "proxies": {
   "0001193125-26-175062": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526175062/d936646ddef14a.htm",
    "periodEnd": "2025-12-31",
    "tenK": "0001559720-26-000004",
-   "result": {
-    "ceoPay": 235416,
-    "medianPay": 242122,
-    "payRatio": 0.97,
-    "method": "cross-checked",
-    "employees": null,
-    "statedYear": 2025,
-    "excerpt": "f Executive Officer. The following table sets forth the ratio of our Chief Executive Officer Brian Chesky's total compensation to that of the Company's median employee for the year ended December 31, 2025. | | | | | | | | | | Chief Executive Officer total annual compensation | | | | | | | | | | | | $ | | 242,122 | | | | Median Employee total annual compensation | | | | | | | | | $ | | 235,416 | | | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | | | | | | | | | | | 1 to 0.97 | | | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The Company chose December 31, 2025 as the date for establishing the employee population used in identifying the median employee and 2025 as the measurement period."
-   }
+   "result": null
   },
   "0001193125-25-096938": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312525096938/d842295ddef14a.htm",
    "periodEnd": "2024-12-31",
    "tenK": "0001559720-25-000010",
-   "result": {
-    "ceoPay": 271657,
-    "medianPay": 186326,
-    "payRatio": 1.5,
-    "method": "cross-checked",
-    "employees": null,
-    "statedYear": 2024,
-    "excerpt": "f Executive Officer. The following table sets forth the ratio of our Chief Executive Officer Brian Chesky's total compensation to that of the Company's median employee for the year ended December 31, 2024. | | | | | | | | | | Chief Executive Officer total annual compensation | | | | | | | | | | | | $ | | 186,326 | | | | Median Employee total annual compensation | | | | | | | | | $ | | 271,657 | | | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | | | | | | | | | | | 1 to 1.5 | | | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The Company chose December 31, 2024 as the date for establishing the employee population used in identifying the median employee and 2024 as the measurement period."
-   }
+   "result": null
   },
   "0001193125-24-102960": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312524102960/d636281ddef14a.htm",
    "periodEnd": "2023-12-31",
    "tenK": "0001559720-24-000006",
    "result": {
-    "ceoPay": 295125,
+    "ceoPay": null,
     "medianPay": 243757,
     "payRatio": 1.2,
-    "method": "cross-checked",
+    "method": "ratio-and-median",
     "employees": null,
     "statedYear": 2023,
-    "excerpt": "tion of our Chief Executive Officer. The following table sets forth the ratio of our Chief Executive Officer Brian Chesky's total compensation to that of the Company's median employee for the year ended December 31, 2023. | | | | | | | | | | Chief Executive Officer total annual compensation | | | | $ | | 295,125 | | | | | | | | | | | | Median Employee total annual compensation | | | | $ | | 243,757 | | | | | | | | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | | | 1.2 to 1 | | | | | | | | | | | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The Company chose December 31, 2021 as the date for establishing the employee population used in identifying the median employee and 2021 as the meas"
+    "excerpt": "ef Executive Officer Brian Chesky's total compensation to that of the Company's median employee for the year ended December 31, 2023. | | | | | | | | | | Chief Executive Officer total annual compensation | | | | $ | | 295,125 | | | | | | | | | | | | Median Employee total annual compensation | | | | $ | | 243,757 | | | | | | | | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | | | 1.2 to 1 | | | | | | | | | | | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The Company chose December 31, 2021 as the date for establishing the employee population used in identifying the median employee and 2021 as the measurement period. We captured all full time, part-time and temporary employees globally as"
    }
   },
   "0001193125-23-109099": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312523109099/d406835ddef14a.htm",
    "periodEnd": "2022-12-31",
    "tenK": "0001559720-23-000003",
-   "result": {
-    "ceoPay": 236240,
-    "medianPay": 311233,
-    "payRatio": 0.759,
-    "method": "cross-checked",
-    "employees": null,
-    "statedYear": 2022,
-    "excerpt": "Executive Officer. The following table sets forth the ratio of our Chief Executive Officer Brian Chesky's total compensation to that of the Company's median employee for the year ended December 31, 2022. | | | | | | | | | | | | | | | | | | | Chief Executive Officer total annual compensation | | | | $ | | 311,233 | | | | | | | | | | | | Median Employee total annual compensation | | | | $ | | 236,240 | | | | | | | | | | | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | | | 1 to 0.759 | | | | | | | | | | | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The Company chose December 31, 2021 as the date for establishing the employee population used in identifying the median employee and 2021 as"
-   }
+   "result": null
   },
   "0001193125-22-115317": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312522115317/d278253ddef14a.htm",
    "periodEnd": "2021-12-31",
    "tenK": "0001559720-22-000006",
    "result": {
-    "ceoPay": 132152,
+    "ceoPay": 166.49,
     "medianPay": 202541,
-    "payRatio": 0.65,
+    "payRatio": 0,
     "method": "cross-checked",
     "employees": null,
-    "statedYear": 2021,
-    "excerpt": "Executive Officer. The following table sets forth the ratio of our Chief Executive Officer Brian Cheskys total compensation to that of the Companys median employee for the year ended December 31, 2021. | | | | | | | | | | | | | | | | | | | Chief Executive Officer total annual compensation | | | | $ | | 132,152 | | | | | | | | | | | | Median Employee total annual compensation | | | | $ | | 202,541 | | | | | | | | | | | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | | | 0.65 to 1 | | | | | | | | | | | This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. The Company chose December 31, 2021 as the date for establishing the employee population used in identifying the median employee and 2021 as t"
+    "statedYear": null,
+    "excerpt": "multiplying (i) the number of shares accelerated by (ii) any positive excess of $166.49, the closing price per share of our Class A common stock on December 31, 2021, over the applicable exercise price, and the value of accelerated RSUs is calculated by multiplying the number of RSUs accelerated by $166.49, the closing price per share of our Class A common stock on December 31, 2021. The value of accelerated equity awards covering Class B common stock held by Mr. Blecharczyk was also calculated using the foregoing methodology because the Class B common stock is not publicly traded. The amounts set forth in this column also represent the value of the acceleration of equity awards in the event of a change in control of the Company where outstanding awards are not assumed or substituted, wher"
    }
   },
   "0001193125-21-145242": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312521145242/d44566ddef14a.htm",
    "periodEnd": "2020-12-31",

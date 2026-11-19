@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001104659-26-005781": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-01-22",
    "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465926005781/tm2528704-1_def14a.htm",
    "periodEnd": "2025-09-28",
@@ -17,7 +17,7 @@
    }
   },
   "0001104659-25-005602": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-01-23",
    "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465925005602/tm2430012d3_def14a.htm",
    "periodEnd": "2024-09-29",
@@ -33,7 +33,7 @@
    }
   },
   "0001104659-24-004813": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-01-18",
    "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465924004813/tm2326070d13_def14a.htm",
    "periodEnd": "2023-09-24",
@@ -49,7 +49,7 @@
    }
   },
   "0001104659-23-005003": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-01-19",
    "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465923005003/tm2229835-1_def14a.htm",
    "periodEnd": "2022-09-25",
@@ -65,7 +65,7 @@
    }
   },
   "0001104659-22-005926": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-01-20",
    "url": "https://www.sec.gov/Archives/edgar/data/804328/000110465922005926/tm2127665-1_def14a.htm",
    "periodEnd": "2021-09-26",
@@ -81,7 +81,7 @@
    }
   },
   "0001047469-21-000158": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-01-21",
    "url": "https://www.sec.gov/Archives/edgar/data/804328/000104746921000158/a2242741zdef14a.htm",
    "periodEnd": "2020-09-27",
@@ -97,7 +97,7 @@
    }
   },
   "0001047469-20-000446": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-01-23",
    "url": "https://www.sec.gov/Archives/edgar/data/804328/000104746920000446/a2240412zdef14a.htm",
    "periodEnd": "2019-09-29",
@@ -113,7 +113,7 @@
    }
   },
   "0001205233-19-000009": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-01-24",
    "url": "https://www.sec.gov/Archives/edgar/data/804328/000120523319000009/proxy2019.htm",
    "periodEnd": "2018-09-30",
@@ -131,11 +131,11 @@
  },
  "tenKs": {
   "0001234452-17-000190": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000804328-26-000128": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   }
  },

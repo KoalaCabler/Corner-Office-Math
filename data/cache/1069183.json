@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001628280-26-025521": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000162828026025521/axon-20260416.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001069183-25-000055": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918325000055/axon-20250416.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001558370-24-004374": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837024004374/axon-20240510xdef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001069183-23-000019": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918323000019/axon-20230531xdef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001558370-22-005230": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837022005230/tmb-20220520xdef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001558370-21-004169": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000155837021004169/tmb-20210527xdef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001069183-20-000050": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918320000050/a2020definitiveproxystatem.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001069183-19-000057": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918319000057/a2019definitiveproxystatem.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001069183-18-000143": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-12-31",
    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918318000143/a2018definitivespecialprox.htm",
    "periodEnd": "2017-12-31",
@@ -145,7 +145,7 @@
    }
   },
   "0001069183-18-000035": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1069183/000106918318000035/a2018defproxystatement.htm",
    "periodEnd": "2017-12-31",

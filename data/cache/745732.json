@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000745732-26-000013": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573226000013/rost-20260406.htm",
    "periodEnd": "2026-01-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000745732-25-000015": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573225000015/rost-20250407.htm",
    "periodEnd": "2025-02-01",
@@ -33,7 +33,7 @@
    }
   },
   "0000745732-24-000015": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573224000015/rost-20240408.htm",
    "periodEnd": "2024-02-03",
@@ -49,7 +49,7 @@
    }
   },
   "0000745732-23-000023": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573223000023/rost-20230403.htm",
    "periodEnd": "2023-01-28",
@@ -65,7 +65,7 @@
    }
   },
   "0000745732-22-000021": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573222000021/fy2022proxy1.htm",
    "periodEnd": "2022-01-29",
@@ -81,7 +81,7 @@
    }
   },
   "0000745732-21-000021": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573221000021/fy2021proxy.htm",
    "periodEnd": "2021-01-30",
@@ -97,7 +97,7 @@
    }
   },
   "0000745732-20-000039": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573220000039/fy2020proxy.htm",
    "periodEnd": "2020-02-01",
@@ -113,7 +113,7 @@
    }
   },
   "0000745732-19-000012": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573219000012/fy2019proxy.htm",
    "periodEnd": "2019-02-02",
@@ -129,7 +129,7 @@
    }
   },
   "0000745732-18-000008": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/745732/000074573218000008/fy2018proxy.htm",
    "periodEnd": "2018-02-03",
@@ -167,19 +167,19 @@
    "employees": 100000
   },
   "0000745732-23-000013": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000745732-24-000009": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000745732-25-000010": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000745732-26-000006": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000745732-17-000009": {

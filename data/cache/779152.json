@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000779152-26-000088": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-10-02",
    "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915226000088/jkhy-20261001.htm",
    "periodEnd": "2026-06-30",
@@ -17,7 +17,7 @@
    }
   },
   "0000779152-25-000079": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-10-02",
    "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915225000079/jkhy-20251001.htm",
    "periodEnd": "2025-06-30",
@@ -33,7 +33,7 @@
    }
   },
   "0000779152-24-000102": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-10-03",
    "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915224000102/jkhy-20241003.htm",
    "periodEnd": "2024-06-30",
@@ -49,7 +49,7 @@
    }
   },
   "0000779152-23-000087": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-10-05",
    "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915223000087/jkhy-20231004.htm",
    "periodEnd": "2023-06-30",
@@ -65,7 +65,7 @@
    }
   },
   "0000779152-22-000087": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-10-06",
    "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915222000087/jkhy-2022xdef14axproxystat.htm",
    "periodEnd": "2022-06-30",
@@ -81,7 +81,7 @@
    }
   },
   "0000779152-21-000078": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-10-04",
    "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915221000078/jkhy-20211004xdef14axproxy.htm",
    "periodEnd": "2021-06-30",
@@ -97,7 +97,7 @@
    }
   },
   "0000779152-20-000086": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-10-05",
    "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915220000086/jkhy-20201005xdef14axproxy.htm",
    "periodEnd": "2020-06-30",
@@ -113,7 +113,7 @@
    }
   },
   "0000779152-19-000072": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-10-04",
    "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915219000072/jkhy-20191004xdef14axproxy.htm",
    "periodEnd": "2019-06-30",
@@ -129,7 +129,7 @@
    }
   },
   "0000779152-18-000091": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-10-05",
    "url": "https://www.sec.gov/Archives/edgar/data/779152/000077915218000091/jkhy-20181005xdef14axproxy.htm",
    "periodEnd": "2018-06-30",

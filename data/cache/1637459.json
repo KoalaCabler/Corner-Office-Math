@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-141397": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-03",
    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000119312526141397/khc-20260402.htm",
    "periodEnd": "2025-12-27",
@@ -9,7 +9,7 @@
    "result": null
   },
   "0001308179-25-000266": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000130817925000266/khc4368711-def14a.htm",
    "periodEnd": "2024-12-28",
@@ -17,7 +17,7 @@
    "result": null
   },
   "0001308179-24-000234": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000130817924000234/lkhc2024_def14a.htm",
    "periodEnd": "2023-12-30",
@@ -25,7 +25,7 @@
    "result": null
   },
   "0001104659-23-036287": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465923036287/tm2230899d2_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -33,7 +33,7 @@
    "result": null
   },
   "0001104659-22-037838": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465922037838/tm2134352-1_def14a.htm",
    "periodEnd": "2021-12-25",
@@ -41,7 +41,7 @@
    "result": null
   },
   "0001104659-21-042002": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000110465921042002/tm213761-2_def14a.htm",
    "periodEnd": "2020-12-26",
@@ -49,7 +49,7 @@
    "result": null
   },
   "0001637459-20-000046": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745920000046/kraft-heinzproxy2020.htm",
    "periodEnd": "2019-12-28",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-19-211214": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-08-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000119312519211214/d711101ddef14a.htm",
    "periodEnd": "2018-12-29",
@@ -81,7 +81,7 @@
    }
   },
   "0001637459-18-000028": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1637459/000163745918000028/kraft-heinzproxy2018.htm",
    "periodEnd": "2017-12-30",

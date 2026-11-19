@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001037868-26-000062": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-11",
    "url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786826000062/ame-20260311.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001037868-25-000022": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786825000022/ame-20250312.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001037868-24-000022": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786824000022/ame-20240312.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001037868-23-000023": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786823000023/ame-20230313.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001037868-22-000015": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1037868/000103786822000015/a2022ametekinc-def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001564590-21-013035": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1037868/000156459021013035/ame-def14a_20210506.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001564590-20-012514": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1037868/000156459020012514/ame-def14a_20200506.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001564590-19-007402": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1037868/000156459019007402/ame-def14a_20190509.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001564590-18-006759": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1037868/000156459018006759/ame-def14a_20180508.htm",
    "periodEnd": "2017-12-31",

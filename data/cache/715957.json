@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-115180": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312526115180/d-20260319.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000950170-25-046340": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/715957/000095017025046340/d-20250328.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-075247": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312524075247/d608313ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-000385": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/715957/000130817923000385/d4088221-def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-22-000855": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/715957/000120677422000855/d3985601-def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,23 +81,23 @@
    }
   },
   "0001193125-21-092591": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312521092591/d106702ddef14a.htm",
    "periodEnd": "2020-12-31",
    "tenK": "0001564590-21-008442",
    "result": {
-    "ceoPay": 157500,
+    "ceoPay": null,
     "medianPay": 153466,
-    "payRatio": 1,
-    "method": "cross-checked",
+    "payRatio": 73,
+    "method": "ratio-and-median",
     "employees": 17400,
     "statedYear": 2020,
     "excerpt": "lated by our benefits consultant, Willis Towers Watson, based on a full-year of CEO salary and Mr. Blues 2020 annual incentive award paid in 2021) of $1,649,066, and All Other Compensation as reported in the Summary Compensation Table. Our median employees annual total compensation for 2020 was $153,466. As a result, we estimate that the ratio of the annual total compensation of our CEO to the estimated median of the annual compensation of our employees was 73:1. | | | | | | | 68 DOMINION ENERGY 2021 PROXY STATEMENT | | | | | Table of Contents EXECUTIVE COMPENSATION We identified our median employee from our employee population as of December 31, 2020. On that date we had approximately 17,400 employees, all of whom were employed in the United States. To determine our median employee, w"
    }
   },
   "0001193125-20-085080": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312520085080/d867708ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-19-085276": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312519085276/d693331ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-094099": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/715957/000119312518094099/d538022ddef14a.htm",
    "periodEnd": "2017-12-31",

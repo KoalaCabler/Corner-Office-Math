@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-147614": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312526147614/d16317ddef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-073986": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312525073986/d895092ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-092545": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-11",
    "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312524092545/d784249ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-100079": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-13",
    "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312523100079/d429320ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-098314": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312522098314/d280259ddef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-20-102226": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312520102226/d869473ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-19-103474": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-11",
    "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312519103474/d686227ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-18-115091": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/34088/000119312518115091/d527562ddef14a.htm",
    "periodEnd": "2017-12-31",
@@ -131,11 +131,11 @@
  },
  "tenKs": {
   "0000034088-18-000015": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000034088-21-000012": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   }
  },

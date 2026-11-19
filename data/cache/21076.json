@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001552781-26-000516": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-10-07",
    "url": "https://www.sec.gov/Archives/edgar/data/21076/000155278126000516/e26316_clx-def14a.htm",
    "periodEnd": "2026-06-30",
@@ -17,7 +17,7 @@
    }
   },
   "0001552781-25-000311": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-10-07",
    "url": "https://www.sec.gov/Archives/edgar/data/21076/000155278125000311/e25287_clx-def14a.htm",
    "periodEnd": "2025-06-30",
@@ -33,7 +33,7 @@
    }
   },
   "0001552781-24-000563": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-10-04",
    "url": "https://www.sec.gov/Archives/edgar/data/21076/000155278124000563/e24323_clx-def14a.htm",
    "periodEnd": "2024-06-30",
@@ -49,7 +49,7 @@
    }
   },
   "0001206774-23-001178": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-10-05",
    "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677423001178/clx4223771-def14a.htm",
    "periodEnd": "2023-06-30",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-22-002489": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-10-05",
    "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677422002489/clorox4080221-def14a.htm",
    "periodEnd": "2022-06-30",
@@ -81,7 +81,7 @@
    }
   },
   "0001206774-21-002562": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-10-06",
    "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677421002562/clorox3957551-def14a.htm",
    "periodEnd": "2021-06-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001206774-20-002845": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-10-06",
    "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677420002845/clorox3806961-def14a.htm",
    "periodEnd": "2020-06-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-19-003343": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-10-02",
    "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677419003343/clorox3644521-def14a.htm",
    "periodEnd": "2019-06-30",
@@ -129,7 +129,7 @@
    }
   },
   "0001206774-18-002874": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-10-01",
    "url": "https://www.sec.gov/Archives/edgar/data/21076/000120677418002874/clorox3458181-def14a.htm",
    "periodEnd": "2018-06-30",

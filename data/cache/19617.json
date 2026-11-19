@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000019617-26-000096": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961726000096/jpm-20260402.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000019617-25-000321": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961725000321/jpm-20250405.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000019617-24-000273": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961724000273/jpm-20240406.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000019617-23-000281": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961723000281/jpm-20230403.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0000019617-22-000303": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961722000303/a2022proxystatement.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000019617-21-000275": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961721000275/a2021proxystatement.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-20-098865": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/19617/000119312520098865/d822689ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-19-098338": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/19617/000119312519098338/d695908ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0000019617-18-000077": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/19617/000001961718000077/jpmc2018definitiveproxy.htm",
    "periodEnd": "2017-12-31",
@@ -147,7 +147,7 @@
  },
  "tenKs": {
   "0000019617-18-000057": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000019617-19-000054": {

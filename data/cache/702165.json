@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-127620": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/702165/000119312526127620/nsc-20260327.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-066914": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/702165/000119312525066914/d892357ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001552781-23-000213": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-31",
    "url": "https://www.sec.gov/Archives/edgar/data/702165/000155278123000213/e23052_nsc-def14a.htm",
    "periodEnd": "2022-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001552781-22-000298": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-31",
    "url": "https://www.sec.gov/Archives/edgar/data/702165/000155278122000298/e22129_nsc-def14a.htm",
    "periodEnd": "2021-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001552781-21-000163": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-31",
    "url": "https://www.sec.gov/Archives/edgar/data/702165/000155278121000163/e21086_nsc-def14a.htm",
    "periodEnd": "2020-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001552781-20-000226": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/702165/000155278120000226/e20158_nsc-def14a.htm",
    "periodEnd": "2019-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001206774-19-001116": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/702165/000120677419001116/nsc3509281-def14a.htm",
    "periodEnd": "2018-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-18-000883": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/702165/000120677418000883/norfolk3300981-def14a.htm",
    "periodEnd": "2017-12-31",
@@ -131,31 +131,31 @@
  },
  "tenKs": {
   "0000702165-19-000012": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000702165-20-000011": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000702165-22-000007": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000702165-23-000010": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000702165-25-000008": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": 350
   },
   "0001628280-26-006268": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": 350
   },
   "0000702165-24-000005": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   }
  },

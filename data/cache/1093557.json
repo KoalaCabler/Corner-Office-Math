@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001093557-26-000061": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-04-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355726000061/dxcm-20260415.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001093557-25-000100": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355725000100/dxcm-20250327.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001093557-24-000070": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-04-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355724000070/dxcm-20240422.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001093557-23-000099": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355723000099/dxcm-20230406.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001093557-22-000085": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355722000085/dxcm-2022xdef14aproxy_apri.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001093557-21-000112": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355721000112/dxcm-2021xdef14aproxy_acti.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001093557-20-000122": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355720000122/dxcm-2020xdef14aproxy_acti.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001093557-19-000103": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-04-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000109355719000103/dxcm-2019xdef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,20 +129,12 @@
    }
   },
   "0001193125-18-124845": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-04-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1093557/000119312518124845/d498510ddef14a.htm",
    "periodEnd": "2017-12-31",
    "tenK": "0001093557-18-000018",
-   "result": {
-    "ceoPay": 116727,
-    "medianPay": 120000,
-    "payRatio": 1,
-    "method": "cross-checked",
-    "employees": null,
-    "statedYear": 2017,
-    "excerpt": "he median of the annual total compensation of our employees was $94,472.64; (ii) the annual total compensation of our CEO was $7,924,868.32; and (iii) the ratio of the annual total compensation of our CEO to the median of the annual total compensation of our employees was 86 to 49 Table of Contents 1. We believe this ratio, which was calculated in a manner consistent with Item 402(u) of Regulation S-K, to be a reasonable estimate, based upon the assumptions and adjustments described below. Calculation Methodology We identified the employee with compensation at the median of the compensation of all of our employees (the median employee) by considering our employee population as of December 1, 2017 (the employee population determination date). We considered all individuals, excluding our"
-   }
+   "result": null
   }
  },
  "tenKs": {

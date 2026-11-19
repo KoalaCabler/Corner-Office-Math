@@ -2,7 +2,7 @@
  "proxies": {},
  "tenKs": {
   "0000922621-18-000016": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000922621-19-000008": {
@@ -14,27 +14,27 @@
    "employees": 5700
   },
   "0000922621-21-000010": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000922621-22-000013": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000922621-23-000007": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000922621-24-000006": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000922621-25-000004": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0001628280-26-010666": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   }
  },

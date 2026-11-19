@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000906163-26-000029": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616326000029/nvr-20260316.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000906163-25-000042": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616325000042/nvr-20250318.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000906163-24-000062": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616324000062/nvr-20240319.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000906163-23-000035": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616323000035/nvr-20230310.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0000906163-22-000021": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616322000021/nvrdef14a_2022.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000906163-21-000049": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616321000049/nvrdef14a_2021.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0000906163-20-000046": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616320000046/nvrdef14a_2020.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0000906163-19-000053": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616319000053/nvrdef14a_2019.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0000906163-18-000017": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/906163/000090616318000017/nvrdef14a.htm",
    "periodEnd": "2017-12-31",
@@ -147,15 +147,15 @@
  },
  "tenKs": {
   "0000906163-18-000007": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000906163-19-000029": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000906163-20-000026": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "employees": null
   },
   "0000906163-21-000017": {

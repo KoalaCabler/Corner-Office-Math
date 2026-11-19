@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000020286-26-000015": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2026-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028626000015/cinf-20260316.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000020286-25-000019": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2025-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028625000019/cinf-20250317.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000020286-24-000021": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2024-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028624000021/cinf-20240319.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000020286-23-000023": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2023-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028623000023/cinf-20230321.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0000020286-22-000019": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2022-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028622000019/proxystatement-2022.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000020286-21-000022": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2021-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028621000022/proxystatement-2021.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0000020286-20-000022": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2020-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028620000022/proxystatement-2020.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0000020286-19-000020": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2019-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028619000020/proxystatement-2019.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0000020286-18-000021": {
-   "parserVersion": 2,
+   "parserVersion": 3,
    "filingDate": "2018-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/20286/000002028618000021/proxystatement-2018.htm",
    "periodEnd": "2017-12-31",
