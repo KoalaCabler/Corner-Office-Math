@@ -1,0 +1,11 @@
+# Render Blueprint: Dashboard > New > Blueprint, then pick this repository.
+# (Or create a Web Service by hand with the same build and start commands.)
+services:
+  - type: web
+    name: corner-office-math
+    runtime: node
+    plan: free
+    buildCommand: "true"
+    startCommand: node server.js
+    healthCheckPath: /healthz
+    autoDeploy: true

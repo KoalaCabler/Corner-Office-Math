@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Corner Office Math</title>
+  <meta name="description" content="CEO pay, median employee pay and revenue for S&amp;P 500 companies, year by year, from SEC filings.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="/" data-link>
+      <span class="logo" aria-hidden="true">÷</span>
+      <span class="brand-name">Corner Office Math</span>
+    </a>
+    <nav class="nav">
+      <a href="/" data-link>Companies</a>
+      <a href="/about" data-link>About</a>
+    </nav>
+  </header>
+
+  <main id="app" class="page" aria-live="polite">
+    <p class="loading">Loading…</p>
+  </main>
+
+  <footer class="footer">
+    <p>Figures come from company filings with the U.S. Securities and Exchange Commission (EDGAR): revenue from annual reports (10-K), CEO and median employee pay from proxy statements (DEF 14A). Every number links to its source filing.</p>
+    <p id="updated"></p>
+  </footer>
+
+  <div class="tooltip" id="tooltip" role="status" hidden></div>
+  <script src="/charts.js"></script>
+  <script src="/app.js"></script>
+</body>
+</html>

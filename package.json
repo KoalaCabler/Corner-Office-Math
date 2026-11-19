@@ -1,0 +1,13 @@
+{
+  "name": "corner-office-math",
+  "version": "0.1.0",
+  "private": true,
+  "description": "CEO pay, median employee pay and revenue for S&P 500 companies, year by year, from SEC EDGAR filings.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "update-data": "node scripts/update-data.js",
+    "test": "node --test test/*.test.js"
+  },
+  "engines": { "node": ">=18" }
+}
