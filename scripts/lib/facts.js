@@ -15,6 +15,8 @@ const REVENUE_TAGS = [
   'ElectricUtilityRevenue',
   'RealEstateRevenueNet',
   'OperatingLeasesIncomeStatementLeaseRevenue',
+  'OperatingLeaseLeaseIncome', // REITs after 2019 (lease standard ASC 842)
+  'RevenuesExcludingInterestAndDividends',
   'HealthCareOrganizationRevenue',
   'TotalRevenuesAndOtherIncome',
 ];
@@ -66,7 +68,23 @@ function revenueByYear(facts) {
     }
     return byYear;
   };
-  return { ...pick(FALLBACK_TAGS), ...pick(REVENUE_TAGS), ...pick([BANK_TAG]) };
+  return { ...pick(FALLBACK_TAGS), ...bankRevenue(gaap), ...pick(REVENUE_TAGS), ...pick([BANK_TAG]) };
+}
+
+// Banks that tag no revenue total: net interest income + noninterest income,
+// which is how banks themselves define total net revenue.
+function bankRevenue(gaap) {
+  const nii = Object.fromEntries(latestByPeriod(gaap, 'InterestIncomeExpenseNet').map(f => [f.end, f]));
+  const out = {};
+  for (const f of latestByPeriod(gaap, 'NoninterestIncome')) {
+    const n = nii[f.end];
+    if (!n) continue;
+    const y = yearOf(f.end);
+    if (!out[y] || f.end > out[y].periodEnd) {
+      out[y] = { revenue: n.val + f.val, periodEnd: f.end, revenueTag: 'InterestIncomeExpenseNet+NoninterestIncome', accession: f.accn };
+    }
+  }
+  return out;
 }
 
 // Few companies tag their head count, and the tag is dated at the cover page,

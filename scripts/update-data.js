@@ -28,7 +28,7 @@ const { loadSp500 } = require('./lib/sp500');
 const { buildCompany, buildIndex } = require('./lib/build');
 
 // Bump when a parser changes, so cached results get re-parsed.
-const PARSER_VERSION = 1;
+const PARSER_VERSION = 2;
 const FIRST_YEAR = 2018;
 const SINCE = '2018-01-01'; // first proxies with a pay ratio were filed in early 2018 (fiscal 2017)
 
@@ -48,6 +48,9 @@ const BUDGET_MS = (Number(opt('budget-minutes')) || 24 * 60) * 60000;
 const REFETCH = !!opt('refetch');
 const REBUILD_ONLY = !!opt('rebuild');
 const CONCURRENCY = 4;
+const PREDECESSORS = (() => {
+  try { return JSON.parse(fs.readFileSync(path.join(DATA, 'predecessors.json'), 'utf8')).companies || {}; } catch { return {}; }
+})();
 
 const started = Date.now();
 const fileSafe = t => t.replace(/[^A-Z0-9-]/gi, '-');
@@ -77,21 +80,31 @@ async function processCompany(co) {
   const cache = readCache(co.cik);
 
   if (!REBUILD_ONLY) {
-    const [filings, facts] = await Promise.all([edgar.filings(co.cik, '2017-01-01'), edgar.companyFacts(co.cik)]);
+    // A company that moved to a new holding company (a new CIK) keeps its
+    // earlier filings under the old one; data/predecessors.json links them.
+    const ciks = [co.cik, ...(PREDECESSORS[co.ticker] || [])];
+    let filings = [];
+    const factsList = [];
+    for (const cik of ciks) {
+      const [f, facts] = await Promise.all([edgar.filings(cik, '2017-01-01'), edgar.companyFacts(cik)]);
+      filings = filings.concat(f.map(x => ({ ...x, cik })));
+      factsList.push(facts);
+    }
+    filings.sort((a, b) => b.filingDate.localeCompare(a.filingDate));
     const proxies = filings.filter(f => f.form === 'DEF 14A' && f.filingDate >= SINCE);
     const tenKs = filings.filter(f => /^10-K(T)?$/.test(f.form));
 
     for (const p of proxies) {
       const hit = cache.proxies[p.accession];
       if (hit && hit.parserVersion === PARSER_VERSION && !REFETCH) continue;
-      let url = edgar.documentUrl(co.cik, p);
+      let url = edgar.documentUrl(p.cik, p);
       let parsed = null;
       try {
         const html = await edgar.getText(url);
         parsed = html ? parsePayRatio(htmlToText(html)) : null;
         if (!parsed) {
           // Try the filing's other documents (up to three, largest first).
-          for (const other of (await edgar.otherDocuments(co.cik, p)).slice(0, 3)) {
+          for (const other of (await edgar.otherDocuments(p.cik, p)).slice(0, 3)) {
             const h = await edgar.getText(other);
             parsed = h ? parsePayRatio(htmlToText(h)) : null;
             if (parsed) { url = other; break; }
@@ -113,17 +126,20 @@ async function processCompany(co) {
     }
 
     // Compact copies of what we need from the (large) facts file.
-    cache.facts = {
-      revenue: revenueByYear(facts),
-      employeesTagged: employeesByAccession(facts),
-      ceoPayPvp: ceoPayByYear(facts),
-    };
-    cache.filings = { tenKs: tenKs.map(k => ({ accession: k.accession, filingDate: k.filingDate, reportDate: k.reportDate, url: edgar.documentUrl(co.cik, k) })) };
+    // (Oldest CIK first, so the current company's figures win on overlap.)
+    const merged = { revenue: {}, employeesTagged: {}, ceoPayPvp: {} };
+    for (const facts of [...factsList].reverse()) {
+      Object.assign(merged.revenue, revenueByYear(facts));
+      Object.assign(merged.employeesTagged, employeesByAccession(facts));
+      Object.assign(merged.ceoPayPvp, ceoPayByYear(facts));
+    }
+    cache.facts = merged;
+    cache.filings = { tenKs: tenKs.map(k => ({ accession: k.accession, filingDate: k.filingDate, reportDate: k.reportDate, url: edgar.documentUrl(k.cik, k) })) };
 
     // Head counts: the proxy, then tagged XBRL, then the 10-K text.
     const years = assembleYears(co, cache);
     for (const y of years) {
-      if (y.employees || !y.tenK || !y.medianPay) continue;
+      if (y.employees || !y.tenK || !y.revenue) continue;
       const k = cache.filings.tenKs.find(t => t.accession === y.tenK);
       if (!k || (cache.tenKs[k.accession] && cache.tenKs[k.accession].parserVersion === PARSER_VERSION && !REFETCH)) continue;
       try {
@@ -140,6 +156,19 @@ async function processCompany(co) {
   const company = buildCompany(co, assembleYears(co, cache));
   fs.writeFileSync(path.join(OUT, `${fileSafe(co.ticker)}.json`), JSON.stringify(company));
   return company;
+}
+
+// Regex-found head counts are sometimes a subgroup ("250 employees in
+// Ireland"). Reject counts that would make revenue per employee absurd
+// compared with what the median employee is paid.
+function plausibleEmployees(n, revenue, medianPay) {
+  if (!n || n < 100) return false;
+  if (revenue && n < 1000 && revenue > 5e9) return false;
+  if (revenue && medianPay) {
+    const x = revenue / n / medianPay;
+    if (x > 150 || x < 0.3) return false;
+  }
+  return true;
 }
 
 // Merge revenue, pay ratio and head count into one row per fiscal year.
@@ -176,7 +205,7 @@ function assembleYears(co, cache) {
       tenK: p.tenK,
     });
     if (!r.periodEnd && p.periodEnd) r.periodEnd = p.periodEnd;
-    if (p.result.employees) Object.assign(r, { employees: p.result.employees, employeesSource: 'proxy' });
+    r.proxyEmployees = p.result.employees;
   }
 
   for (const r of Object.values(rows)) {
@@ -186,12 +215,15 @@ function assembleYears(co, cache) {
       if (!r.ceoPay) { r.ceoPay = pvp; r.ceoPaySource = 'pay-versus-performance'; }
     }
     if (!r.tenK && r.periodEnd && tenKByPeriod[r.periodEnd]) r.tenK = tenKByPeriod[r.periodEnd].accession;
-    if (!r.employees && r.tenK) {
-      const tagged = cache.facts.employeesTagged && cache.facts.employeesTagged[r.tenK];
-      const parsed = cache.tenKs[r.tenK] && cache.tenKs[r.tenK].employees;
-      if (tagged) Object.assign(r, { employees: tagged, employeesSource: 'xbrl' });
-      else if (parsed) Object.assign(r, { employees: parsed, employeesSource: '10-K' });
-    }
+    // Head count: first plausible figure from the proxy, tagged XBRL, then 10-K text.
+    const candidates = [
+      [r.proxyEmployees, 'proxy'],
+      [r.tenK && cache.facts.employeesTagged && cache.facts.employeesTagged[r.tenK], 'xbrl'],
+      [r.tenK && cache.tenKs[r.tenK] && cache.tenKs[r.tenK].employees, '10-K'],
+    ];
+    const pick = candidates.find(([n]) => plausibleEmployees(n, r.revenue, r.medianPay));
+    if (pick) Object.assign(r, { employees: pick[0], employeesSource: pick[1] });
+    delete r.proxyEmployees;
     if (r.tenK) {
       const k = ((cache.filings && cache.filings.tenKs) || []).find(t => t.accession === r.tenK);
       if (k) r.tenKUrl = k.url;

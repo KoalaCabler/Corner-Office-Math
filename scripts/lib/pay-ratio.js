@@ -16,6 +16,7 @@ const DOLLAR = /\$[\s|]*(\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+(?:\.\d+)?)(?:\s*(milli
 const RATIO = /(\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+(?:\.\d+)?)\s*(?:to|-to-|:)\s*(?:1|one)(?![\d,.]*\d)/gi;
 // A few companies write it the other way round: "a ratio of 1-to-43".
 const RATIO_INVERTED = /\b(?:1|one)\s*(?:to|-to-|:)\s*(\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+(?:\.\d+)?)(?![\d,]*\d)(?!\s*(?:to|-to-|:)\s*1\b)/gi;
+const BARE_NUMBER = /(?<![\d,.$])(\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+(?:\.\d+)?)(?![\d,]*\d)(?!\s*(?:%|percent|to\b|-to-|:))/g;
 const RATIO_TIMES = /(\d{1,3}(?:,\d{3})+|\d+(?:\.\d+)?)\s*times\b/gi;
 const MEDIAN_WORD = /median\s+(?:compensated\s+)?(?:employee|associate|team\s*member|worker|colleague|partner|individual|of\s+(?:the\s+)?annual)|median\s+of\s+the\s+annual|median\s+annual/gi;
 const CEO_WORD = /\b(?:ceo|chief executive|pe0|principal executive|president and ceo|our chairman)/gi;
@@ -77,24 +78,40 @@ function parsePayRatio(text) {
     let ratios = allMatches(RATIO, chunk).map(({ m, index }) => ({ value: toNumber(m[1]), index, kind: 'to1' }));
     ratios = ratios.concat(allMatches(RATIO_INVERTED, chunk).map(({ m, index }) => ({ value: toNumber(m[1]), index, kind: 'inverted' })));
     ratios = ratios.concat(allMatches(RATIO_TIMES, chunk).map(({ m, index }) => ({ value: toNumber(m[1]), index, kind: 'times' })));
+    // Some companies state the ratio as a bare number: "for 2025 is 330." or
+    // a table cell "Ratio of CEO to Median Employee ... | 81.7". Only
+    // numbers shortly after the word "ratio" count, and the cross-check
+    // below must still hold.
+    for (const { index } of allMatches(/ratio/gi, chunk)) {
+      const after = chunk.slice(index, index + 220);
+      for (const { m, index: j } of allMatches(BARE_NUMBER, after)) {
+        const v = toNumber(m[1]);
+        if (v == null || (Number.isInteger(v) && v >= 1990 && v <= 2040)) continue;
+        if (/\$[\s|]*$/.test(after.slice(0, j))) continue;
+        ratios.push({ value: v, index: index + j, kind: 'bare' });
+      }
+    }
     ratios = ratios.filter(r => r.value != null && r.value <= 100000);
 
-    const medians = dollars.filter(d => d.value >= 3000 && d.value <= 2e6);
-    // A CEO who took no pay ($0, ratio 0:1) is a real case (Tesla, 2021-2023).
-    const ceos = dollars.filter(d => (d.value >= 50000 && d.value <= 5e9) || d.value === 0);
+    const medians = dollars.filter(d => d.value >= 3000 && d.value <= 700000);
+    // A CEO who took no pay ($0 at Tesla, 2021-2023) or a token amount
+    // ($2.75 at Block) is real; small figures only pair with a ratio under 1.
+    const ceos = dollars.filter(d => d.value <= 5e9);
 
     for (const r of ratios) {
       for (const md of medians) {
         for (const c of ceos) {
           if (c.index === md.index) continue;
+          if (c.value < 50000 && r.value >= 1) continue;
           const implied = c.value / md.value;
-          // Ratios are rounded to whole numbers, so allow rounding slack.
-          const err = r.value === 0 ? (implied < 0.005 ? 0 : 1) : Math.abs(implied - r.value) / r.value;
+          // Ratios are rounded, so allow rounding slack.
+          const err = r.value < 0.01 ? (implied < 0.01 ? 0 : 1) : Math.abs(implied - r.value) / r.value;
           if (err > 0.03 && (r.value < 5 || Math.abs(implied - r.value) > 1.01)) continue;
           const spread = Math.abs(r.index - md.index) + Math.abs(r.index - c.index);
           let score = err * 100 + spread / 400;
           if (r.kind === 'times') score += 2;
           if (r.kind === 'inverted') score += 1;
+          if (r.kind === 'bare') score += 2;
           // Supplemental ratios ("using realized pay, the ratio was ...") come second.
           if (/realized|supplemental|alternative|additional ratio/i.test(chunk.slice(Math.max(0, r.index - 200), r.index))) score += 3;
           if (distanceToWord(MEDIAN_WORD, chunk, md.index, 400) > 400) score += 3;
@@ -168,9 +185,11 @@ function parseEmployees10K(text) {
   const hc = text.search(/human capital|\bemployees\s*\n|\bour (?:employees|people|workforce)\s*\n/i);
   const zones = hc >= 0 ? [text.slice(hc, hc + 6000), text] : [text];
   const re = /(?:had|employed|employ|employs|workforce of|total of|consisted of|comprised|approximately|about|over|more than)\s+(?:approximately|about|over|more than|nearly|roughly|around|a total of)?\s*(\d{1,3}(?:,\d{3})+|\d+(?:\.\d+)?)\s*(thousand|million)?\s+(?:(?:full[- ]time|part[- ]time|global|worldwide|total|active|regular|and|,)\s+)*(?:employees|associates|team members|colleagues|people|workers|personnel)/gi;
-  for (const zone of zones) {
+  // In the Human Capital section take the largest figure (the total, not
+  // "approximately 250 employees in our Dublin office"); elsewhere the first.
+  for (const [i, zone] of zones.entries()) {
     const hits = allMatches(re, zone).map(({ m }) => toNumber(m[1], m[2])).filter(n => n >= 100 && n <= 3e6);
-    if (hits.length) return hits[0];
+    if (hits.length) return i === 0 && zones.length > 1 ? Math.max(...hits) : hits[0];
   }
   return null;
 }

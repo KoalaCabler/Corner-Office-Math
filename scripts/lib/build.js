@@ -98,9 +98,13 @@ function buildIndex(companies) {
       ceoPay: round(quantile(ceo, 0.5)),
       medianPay: round(quantile(med, 0.5)),
     };
-  }).filter(t => t.companies >= 20);
+  });
+  // Leave out years only a few companies have reported yet (the current
+  // fiscal year early on), so the trend isn't skewed by early filers.
+  const most = Math.max(0, ...trend.map(t => t.companies));
+  const fullTrend = trend.filter(t => t.companies >= Math.max(20, most * 0.5));
 
-  return { updatedAt: new Date().toISOString(), firstYear: FIRST_YEAR, companies: list, trend };
+  return { updatedAt: new Date().toISOString(), firstYear: FIRST_YEAR, companies: list, trend: fullTrend };
 }
 
 module.exports = { buildCompany, buildIndex, growth };

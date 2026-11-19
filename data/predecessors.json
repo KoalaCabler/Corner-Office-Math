@@ -1,0 +1,20 @@
+{
+  "_note": "Earlier SEC CIK numbers for companies that moved to a new holding company, so their history before the move is included. Ticker -> list of older CIKs.",
+  "companies": {
+    "XOM": [
+      34088
+    ],
+    "SKYD": [
+      813828
+    ],
+    "BLK": [
+      1364742
+    ],
+    "MRVL": [
+      1058057
+    ],
+    "APA": [
+      6769
+    ]
+  }
+}

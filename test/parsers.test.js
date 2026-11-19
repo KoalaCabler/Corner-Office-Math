@@ -90,3 +90,37 @@ test('CEO paid nothing (ratio 0:1)', () => {
   const r = parsePayRatio(t);
   assert.deepStrictEqual([r.ceoPay, r.medianPay, r.payRatio], [0, 45811, 0]);
 });
+
+test('bare ratio number in a sentence (Marsh McLennan style)', () => {
+  const t = 'CEO Pay Ratio. The ratio of the annual total compensation for our CEO compared to the median of the annual total compensation of all of our employees for 2025 is 330. The ratio is based on the following: Median employee: | $76,092 | CEO: | $25,051,051 |';
+  const r = parsePayRatio(t);
+  assert.deepStrictEqual([r.ceoPay, r.medianPay, r.payRatio], [25051051, 76092, 330]);
+});
+
+test('bare ratio in a table cell (Charter style)', () => {
+  const html = '<p>pay ratio</p><table><tr><td>CEO Total Annual Compensation</td><td>$6,466,193</td></tr><tr><td>Median Employee Total Annual Compensation</td><td>$ 79,159</td></tr><tr><td>Ratio of CEO to Median Employee Total Annual Compensation</td><td>81.7</td></tr></table>';
+  const r = parsePayRatio(htmlToText(html));
+  assert.deepStrictEqual([r.ceoPay, r.medianPay, r.payRatio], [6466193, 79159, 81.7]);
+});
+
+test('token CEO pay far below the median (Block style)', () => {
+  const t = 'PAY RATIO DISCLOSURE. For 2025: the median of the annual total compensation of all our employees was $222,772; and the annual total compensation of our Block Head, as reported in the Summary Compensation Table, was $2.75. Based on this information, the annual total compensation of our Block Head was less than 0.00001 times that of the median.';
+  const r = parsePayRatio(t);
+  assert.deepStrictEqual([r.ceoPay, r.medianPay, r.payRatio], [2.75, 222772, 0.00001]);
+});
+
+test('component rows in a pay table do not beat the totals (Church & Dwight style)', () => {
+  const t = 'Our 2024 CEO to median employee pay ratio is 157.1:1. | CEO to Median Employee Pay Ratio | President and CEO | Median Employee | Base Salary | $ | 1,231,633 | $ | 65,938 | Annual Incentive | 2,499,000 | 3,930 | Total | $ | 10,965,000 | $ | 69,796 |';
+  const r = parsePayRatio(t);
+  assert.strictEqual(r.payRatio, 157.1);
+  assert.ok(r.medianPay < 700000);
+});
+
+test('revenue: bank with no revenue tag uses net interest income + noninterest income', () => {
+  const f = val => ({ val, start: '2025-01-01', end: '2025-12-31', form: '10-K', filed: '2026-02-10', accn: 'x' });
+  const facts = { facts: { 'us-gaap': {
+    InterestIncomeExpenseNet: { units: { USD: [f(18466e6)] } },
+    NoninterestIncome: { units: { USD: [f(520e6)] } },
+  } } };
+  assert.strictEqual(revenueByYear(facts)[2025].revenue, 18986e6);
+});
