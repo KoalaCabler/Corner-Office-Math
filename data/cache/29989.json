@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001213900-26-034811": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/29989/000121390026034811/ea0274271-02.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001213900-25-124548": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-12-22",
    "url": "https://www.sec.gov/Archives/edgar/data/29989/000121390025124548/ea0268945-02.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001013762-25-003435": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/29989/000101376225003435/ea0227091-02.htm",
    "periodEnd": "2024-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001213900-24-027211": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/29989/000121390024027211/def14a0224_omnicom.htm",
    "periodEnd": "2023-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001213900-23-022354": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/29989/000121390023022354/def14a2023_omnicom.htm",
    "periodEnd": "2022-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001206774-22-000839": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/29989/000120677422000839/omc3995631-def14a.htm",
    "periodEnd": "2021-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001206774-21-000823": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/29989/000120677421000823/omc3858241-def14a.htm",
    "periodEnd": "2020-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-20-001421": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/29989/000120677420001421/omc3607811-def14a.htm",
    "periodEnd": "2019-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001206774-19-001288": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/29989/000120677419001288/omc3497561-def14a.htm",
    "periodEnd": "2018-12-31",
@@ -145,7 +145,7 @@
    }
   },
   "0001206774-18-001175": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/29989/000120677418001175/omc3336841-def14a.htm",
    "periodEnd": "2017-12-31",

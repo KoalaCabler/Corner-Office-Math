@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001104659-26-060253": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-05-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000110465926060253/tm261486-1_def14a.htm",
    "periodEnd": "2026-01-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001104659-25-043088": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-05-01",
    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000110465925043088/tm252448-4_def14a.htm",
    "periodEnd": "2025-02-01",
@@ -33,7 +33,7 @@
    }
   },
   "0001104659-24-058658": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-05-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000110465924058658/tm242819-d2_def14a.htm",
    "periodEnd": "2024-02-03",
@@ -49,7 +49,7 @@
    }
   },
   "0001104659-23-055484": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-05-03",
    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000110465923055484/tm232045d2_def14a.htm",
    "periodEnd": "2023-01-28",
@@ -65,7 +65,7 @@
    }
   },
   "0001104659-22-056869": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-05-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000110465922056869/tm226068-1_def14a.htm",
    "periodEnd": "2022-01-29",
@@ -81,11 +81,11 @@
    }
   },
   "0001193125-21-176583": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-05-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1835632/000119312521176583/d151238ddef14a.htm",
-   "periodEnd": null,
-   "tenK": null,
+   "periodEnd": "2021-01-30",
+   "tenK": "0001058057-21-000009",
    "result": {
     "ceoPay": 14615795,
     "medianPay": 147993,
@@ -94,6 +94,54 @@
     "employees": null,
     "statedYear": 2021,
     "excerpt": "to the annual total compensation of our median employee. During fiscal 2021, the principal executive officer of the Company was our President and Chief Executive Officer, Matthew J. Murphy. For fiscal 2021, Mr. Murphys annual total compensation, as disclosed in the Summary Compensation Table, was $14,615,795 and our median employees annual total compensation was $147,993, resulting in a pay ratio of approximately 99:1. The applicable SEC rules allow us to identify a median employee only once every three years, if we conclude that there have been no changes in our employee population or employee compensation arrangements that we believe would significantly impact the calculation of our CEO Pay Ratio. For fiscal 2021, we have concluded that there have been no significant changes between D"
+   }
+  },
+  "0001193125-20-154371": {
+   "parserVersion": 2,
+   "filingDate": "2020-05-28",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058057/000119312520154371/d908107ddef14a.htm",
+   "periodEnd": "2020-02-01",
+   "tenK": "0001058057-20-000014",
+   "result": {
+    "ceoPay": 20624344,
+    "medianPay": 152014,
+    "payRatio": 136,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "to the annual total compensation of our median employee. During fiscal 2020, the principal executive officer of the Company was our President and Chief Executive Officer, Matthew J. Murphy. For fiscal 2020, Mr. Murphys annual total compensation, as disclosed in the Summary Compensation Table, was $20,624,344 and our median employees annual total compensation was $152,014, resulting in a pay ratio of approximately 136:1. We note that excluding the value of the Value Creation Award granted to Mr. Murphy during the year, which may or may not vest based on share performance targets (as discussed under the Fiscal 2020 Equity Awards section of the Compensation Discussion and Analysis), compensation for our Chief Executive Officer would have been $10,624,349 and the pay ratio would have been"
+   }
+  },
+  "0001193125-19-149399": {
+   "parserVersion": 2,
+   "filingDate": "2019-05-16",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058057/000119312519149399/d713236ddef14a.htm",
+   "periodEnd": "2019-02-02",
+   "tenK": "0001058057-19-000010",
+   "result": {
+    "ceoPay": 7166309,
+    "medianPay": 162933,
+    "payRatio": 44,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "to the annual total compensation of our median employee. During fiscal 2019, the principal executive officer of the Company was our President and Chief Executive Officer, Matthew J. Murphy. For fiscal 2019, Mr. Murphys annual total compensation, as disclosed in the Summary Compensation Table, was $7,166,309, and our median employees annual total compensation was $162,933, resulting in a pay ratio of approximately 44:1. In accordance with Item 402(u) of Regulation S-K and consistent with the process we adopted to identify our median for fiscal 2018, we identified the median employee as of December 29, 2018 (the last business day of calendar 2018) by (i) aggregating for each applicable employee (A) annual base salary for salaried employees (or hourly rate multiplied by the estimated annua"
+   }
+  },
+  "0001193125-18-165601": {
+   "parserVersion": 2,
+   "filingDate": "2018-05-17",
+   "url": "https://www.sec.gov/Archives/edgar/data/1058057/000119312518165601/d563083ddef14a.htm",
+   "periodEnd": "2018-02-03",
+   "tenK": "0001058057-18-000009",
+   "result": {
+    "ceoPay": 6229552,
+    "medianPay": 141126,
+    "payRatio": 44,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "icer to the annual total compensation of our median employee. During fiscal 2018, the principal executive officer of Marvell was our President and Chief Executive Officer, Matthew J. Murphy. For fiscal 2018, Mr. Murphys annual total compensation, as disclosed in the Summary Compensation Table, was $6,229,552, and our median employees annual total compensation was $141,126, resulting in a pay ratio of approximately 44:1. In accordance with Item 402(u) of Regulation S-K, we identified the median employee as of December 29, 2017 (the last business day of calendar 2017) by (i) aggregating for each applicable employee (A) annual base salary for salaried employees (or hourly rate multiplied by estimated annual work schedule, for hourly employees), (B) the target incentive compensation, and (C)"
    }
   }
  },
@@ -117,10 +165,102 @@
   "0001835632-26-000011": {
    "parserVersion": 1,
    "employees": 7480
+  },
+  "0001628280-17-002968": {
+   "parserVersion": 2,
+   "employees": 4617
+  },
+  "0001058057-18-000009": {
+   "parserVersion": 2,
+   "employees": 3749
+  },
+  "0001058057-19-000010": {
+   "parserVersion": 2,
+   "employees": 5275
+  },
+  "0001058057-20-000014": {
+   "parserVersion": 2,
+   "employees": 5633
+  },
+  "0001058057-21-000009": {
+   "parserVersion": 2,
+   "employees": 5340
   }
  },
  "facts": {
   "revenue": {
+   "2008": {
+    "revenue": 2894693000,
+    "periodEnd": "2008-02-02",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-10-073247"
+   },
+   "2009": {
+    "revenue": 2950563000,
+    "periodEnd": "2009-01-31",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-11-078410"
+   },
+   "2010": {
+    "revenue": 2807687000,
+    "periodEnd": "2010-01-30",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-12-134488"
+   },
+   "2011": {
+    "revenue": 3611893000,
+    "periodEnd": "2011-01-29",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-13-134707"
+   },
+   "2012": {
+    "revenue": 3393040000,
+    "periodEnd": "2012-01-28",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-14-118715"
+   },
+   "2013": {
+    "revenue": 3168630000,
+    "periodEnd": "2013-02-02",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-15-107187"
+   },
+   "2014": {
+    "revenue": 3404400000,
+    "periodEnd": "2014-02-01",
+    "revenueTag": "Revenues",
+    "accession": "0001193125-16-653778"
+   },
+   "2015": {
+    "revenue": 3637206000,
+    "periodEnd": "2015-01-31",
+    "revenueTag": "Revenues",
+    "accession": "0001628280-17-002968"
+   },
+   "2016": {
+    "revenue": 2602497000,
+    "periodEnd": "2016-01-30",
+    "revenueTag": "Revenues",
+    "accession": "0001058057-18-000009"
+   },
+   "2017": {
+    "revenue": 2300992000,
+    "periodEnd": "2017-01-28",
+    "revenueTag": "Revenues",
+    "accession": "0001058057-18-000009"
+   },
+   "2018": {
+    "revenue": 2409170000,
+    "periodEnd": "2018-02-03",
+    "revenueTag": "Revenues",
+    "accession": "0001058057-18-000009"
+   },
+   "2019": {
+    "revenue": 2865791000,
+    "periodEnd": "2019-02-02",
+    "revenueTag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+    "accession": "0001058057-21-000009"
+   },
    "2020": {
     "revenue": 2699161000,
     "periodEnd": "2020-02-01",
@@ -204,6 +344,36 @@
     "filingDate": "2022-03-10",
     "reportDate": "2022-01-29",
     "url": "https://www.sec.gov/Archives/edgar/data/1835632/000183563222000016/mrvl-20220129.htm"
+   },
+   {
+    "accession": "0001058057-21-000009",
+    "filingDate": "2021-03-16",
+    "reportDate": "2021-01-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058057/000105805721000009/mrvl-20210130.htm"
+   },
+   {
+    "accession": "0001058057-20-000014",
+    "filingDate": "2020-03-23",
+    "reportDate": "2020-02-01",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058057/000105805720000014/mrvl-20200201.htm"
+   },
+   {
+    "accession": "0001058057-19-000010",
+    "filingDate": "2019-03-28",
+    "reportDate": "2019-02-02",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058057/000105805719000010/mrvl-2022019x10k.htm"
+   },
+   {
+    "accession": "0001058057-18-000009",
+    "filingDate": "2018-03-29",
+    "reportDate": "2018-02-03",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058057/000105805718000009/mrvl-2032018x10k.htm"
+   },
+   {
+    "accession": "0001628280-17-002968",
+    "filingDate": "2017-03-28",
+    "reportDate": "2017-01-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/1058057/000162828017002968/mrvl-1282017x10k.htm"
    }
   ]
  }

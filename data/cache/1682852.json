@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-26-000081": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817926000081/mrna-20260316.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001682852-25-000062": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-10-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000168285225000062/mrna-optionexchangedefinit.htm",
    "periodEnd": "2024-12-31",
@@ -25,7 +25,7 @@
    "result": null
   },
   "0001308179-25-000082": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-11",
    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817925000082/mrna-20250310.htm",
    "periodEnd": "2024-12-31",
@@ -41,7 +41,7 @@
    }
   },
   "0001308179-24-000208": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817924000208/lmrna2024_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -57,7 +57,7 @@
    }
   },
   "0001308179-23-000184": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817923000184/lmrna2023_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -73,7 +73,7 @@
    }
   },
   "0001308179-22-000041": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817922000041/lmrna2022_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -89,7 +89,7 @@
    }
   },
   "0001308179-21-000031": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000130817921000031/lmrn2021_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -105,7 +105,7 @@
    }
   },
   "0001193125-20-073721": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000119312520073721/d831877ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    "result": null
   },
   "0001193125-19-148153": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-05-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1682852/000119312519148153/d689184ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -121,7 +121,16 @@
    "result": null
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0001682852-19-000009": {
+   "parserVersion": 2,
+   "employees": 760
+  },
+  "0001682852-20-000006": {
+   "parserVersion": 2,
+   "employees": 830
+  }
+ },
  "facts": {
   "revenue": {
    "2016": {

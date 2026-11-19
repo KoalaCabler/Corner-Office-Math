@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001206774-26-000185": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-02",
    "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677426000185/citi4583461-def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,23 +17,39 @@
    }
   },
   "0001145443-25-000075": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/831001/000114544325000075/citi4405291-def14a.htm",
    "periodEnd": "2024-12-31",
    "tenK": "0000831001-25-000067",
-   "result": null
+   "result": {
+    "ceoPay": 31142602,
+    "medianPay": 70138,
+    "payRatio": 444,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "mployees to the annual total compensation of our CEO. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. | · For 2024, the annual total compensation for the median employee of our Company (other than the CEO) was $70,138, and the annual total compensation of our CEO was $31,142,602. (1) · Based on this information, for 2024, the ratio of the annual total compensation of our CEO to the annual total compensation for our median employee was estimated to be 444. | | | (1) | | This number is the sum of the 2024 total compensation reported in the 2024 Summary Compensation Table and the value of employer contributions to broad-based employee benefit plans not already included in the Summary Compensation Table."
+   }
   },
   "0001145443-24-000041": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/831001/000114544324000041/citi4284971-def14a.htm",
    "periodEnd": "2023-12-31",
    "tenK": "0000831001-24-000033",
-   "result": null
+   "result": {
+    "ceoPay": 25472477,
+    "medianPay": 70731,
+    "payRatio": 360,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "es to the annual total compensation of our CEO. The pay ratio included in this information is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. | | ● | | For 2023, the median annual total compensation of all employees of our Company (other than the CEO) was $70,731, and the annual total compensation of our CEO was $25,472,477. (1) | | | ● | | Based on this information, for 2023, the ratio of the annual total compensation of our CEO to the median annual total compensation of all employees was estimated to be 360. | | | (1) | | This number is the sum of the 2023 total compensation reported in the 2023 Summary Compensation Table and the value of employer contributions to broad-based employee benefit plans not already included in the Summary Compensati"
+   }
   },
   "0001206774-23-000374": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677423000374/citi4100891-def14a.htm",
    "periodEnd": "2022-12-31",
@@ -49,7 +65,7 @@
    }
   },
   "0001206774-22-000697": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677422000697/citi3969751-def14a.htm",
    "periodEnd": "2021-12-31",
@@ -65,7 +81,7 @@
    }
   },
   "0001206774-21-000735": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677421000735/citi3828191-def14a.htm",
    "periodEnd": "2020-12-31",
@@ -81,7 +97,7 @@
    }
   },
   "0001206774-20-000777": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-11",
    "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677420000777/citi3648191-def14a.htm",
    "periodEnd": "2019-12-31",
@@ -97,7 +113,7 @@
    }
   },
   "0001206774-19-000719": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-06",
    "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677419000719/citi3503291-def14a.htm",
    "periodEnd": "2018-12-31",
@@ -113,7 +129,7 @@
    }
   },
   "0001206774-18-000792": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/831001/000120677418000792/citi3349731-def14a.htm",
    "periodEnd": "2017-12-31",
@@ -155,8 +171,16 @@
    "employees": 240000
   },
   "0000831001-26-000011": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 800
+  },
+  "0000831001-24-000033": {
+   "parserVersion": 2,
+   "employees": 239000
+  },
+  "0000831001-25-000067": {
+   "parserVersion": 2,
+   "employees": 229000
   }
  },
  "facts": {

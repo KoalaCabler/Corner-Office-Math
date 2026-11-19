@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001783180-26-000016": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-03",
    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318026000016/carr-20260303.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001783180-25-000014": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-02-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318025000014/carr-20250225.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001783180-24-000027": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318024000027/carr-20240304.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001783180-23-000024": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-07",
    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318023000024/carr-20230306.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001783180-22-000021": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-01",
    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000178318022000021/a2022proxystatement.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001206774-21-000621": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1783180/000120677421000621/carr3816401-def14a.htm",
    "periodEnd": "2020-12-31",

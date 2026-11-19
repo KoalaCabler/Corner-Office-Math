@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001140361-26-008170": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-06",
    "url": "https://www.sec.gov/Archives/edgar/data/93556/000114036126008170/ny20055502x771_def14a.htm",
    "periodEnd": "2026-01-03",
@@ -17,7 +17,7 @@
    }
   },
   "0001140361-25-007512": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-07",
    "url": "https://www.sec.gov/Archives/edgar/data/93556/000114036125007512/ny20036270x771_def14a.htm",
    "periodEnd": "2024-12-28",
@@ -33,7 +33,7 @@
    }
   },
   "0001206774-24-000242": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-08",
    "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677424000242/swk4258921-def14a.htm",
    "periodEnd": "2023-12-30",
@@ -49,7 +49,7 @@
    }
   },
   "0001206774-23-000344": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-10",
    "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677423000344/swk4118481-def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-22-000635": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-09",
    "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677422000635/stanley3978221-def14a.htm",
    "periodEnd": "2022-01-01",
@@ -81,7 +81,7 @@
    }
   },
   "0001206774-21-000878": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677421000878/stanley3818831-def14a.htm",
    "periodEnd": "2021-01-02",
@@ -97,7 +97,7 @@
    }
   },
   "0001206774-20-000687": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-04",
    "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677420000687/stanley3655671-def14a.htm",
    "periodEnd": "2019-12-28",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-19-000703": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-06",
    "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677419000703/stanley3501101-def14a.htm",
    "periodEnd": "2018-12-29",
@@ -129,7 +129,7 @@
    }
   },
   "0001206774-18-000732": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-09",
    "url": "https://www.sec.gov/Archives/edgar/data/93556/000120677418000732/stanley3347211-def14a.htm",
    "periodEnd": "2017-12-30",

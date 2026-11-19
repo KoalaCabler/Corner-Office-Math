@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000936340-26-000062": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-12",
    "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634026000062/dte-20260312.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000936340-25-000081": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634025000081/dte-20250313.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000936340-24-000100": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-07",
    "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634024000100/dte-20240307.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001558370-23-004430": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/936340/000155837023004430/dte-20230504xdef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0000936340-22-000105": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634022000105/def14a2022.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000936340-21-000140": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634021000140/def14a2021.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0000936340-20-000145": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-12",
    "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634020000145/def14a2020.htm",
    "periodEnd": "2019-12-31",
@@ -105,15 +105,15 @@
    "result": {
     "ceoPay": 8776433,
     "medianPay": 153976,
-    "payRatio": 57,
+    "payRatio": 58,
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2019,
-    "excerpt": "ng median employee is a senior professional within our electric generation organization; | | | | | | • | | The median employee had a salary of $119,157; | | | | | | • | | The annual total compensation of the median employee of the Company (other than Mr. Norcia, the Company's President and CEO) was $153,976; and | | | | | | • | | The annual total compensation of Mr. Norcia, our President and CEO, when annualized for a full year of service as CEO, was $8,776,433. | The difference between the employee's salary, wages, and overtime pay and the employee's annual total compensation represents the reported value of the employee's: | | | | | • | | Non-equity incentive compensation of $12,063 | | | | | | • | | Change in pension value of $14,212 | | | | | | • | | Section 401(k) Employer matching co"
+    "excerpt": "accidental death and disability insurance for a 24-month period. | | | | | | (7) | | The consideration for the non-competition prohibition in the Change-In-Control Severance Agreement is 100% of each Named Executive Officer's base salary and target bonus as of December 31, 2019. | | | | | | | | | | 58 DTE ENERGY 2020 PROXY STATEMENT | | | Employment Agreement for Mr. Norcia Under Mr. Norcia's employment agreement discussed on page 47 assuming we terminated his employment without cause, or Mr. Norcia terminated his employment for good reason on December 31, 2019, Mr. Norcia would have been entitled to payments with an approximate value of $13,353,898 under the hypothetical termination. The payments represent twenty-four (24) months base salary, two times his 2019 annual incentive award with"
    }
   },
   "0000936340-19-000101": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634019000101/def14a2019.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0000936340-18-000093": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-09",
    "url": "https://www.sec.gov/Archives/edgar/data/936340/000093634018000093/def14a2018.htm",
    "periodEnd": "2017-12-31",

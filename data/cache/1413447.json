@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001413447-26-000026": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344726000026/nxpi-20260427.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001413447-25-000035": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344725000035/nxpi-20250429.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001413447-24-000033": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344724000033/nxpi-20240411.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001413447-23-000014": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1413447/000141344723000014/nxpi-20230407.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-101634": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-11",
    "url": "https://www.sec.gov/Archives/edgar/data/1413447/000119312522101634/d202862ddef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-21-105532": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1413447/000119312521105532/d73007ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-20-104825": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1413447/000119312520104825/d869470ddef14a.htm",
    "periodEnd": "2019-12-31",

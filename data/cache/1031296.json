@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-138029": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/1031296/000119312526138029/fe-20260401.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-071853": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-03",
    "url": "https://www.sec.gov/Archives/edgar/data/1031296/000119312525071853/d786829ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-082179": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1031296/000119312524082179/d433586ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-082288": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1031296/000119312523082288/d414153ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-082777": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1031296/000119312522082777/d156096ddef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-21-096807": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1031296/000119312521096807/d116252ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-20-093494": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/1031296/000119312520093494/d791638ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-19-093674": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/1031296/000119312519093674/d615586ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-102860": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1031296/000119312518102860/d497515ddef14a.htm",
    "periodEnd": "2017-12-31",
@@ -171,7 +171,7 @@
    "employees": 12335
   },
   "0001031296-24-000008": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 179
   },
   "0001031296-25-000006": {

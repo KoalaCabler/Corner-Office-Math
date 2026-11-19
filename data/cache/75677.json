@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-127602": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/75677/000119312526127602/d176963ddef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-064584": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/75677/000119312525064584/d880156ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-079613": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/75677/000119312524079613/d701024ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-077463": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/75677/000119312523077463/d405175ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,15 +65,23 @@
    }
   },
   "0001193125-22-084631": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/75677/000119312522084631/d229340ddef14a.htm",
    "periodEnd": "2021-12-31",
    "tenK": "0000950170-22-001913",
-   "result": null
+   "result": {
+    "ceoPay": 12157313,
+    "medianPay": 78062,
+    "payRatio": 155.7,
+    "method": "cross-checked",
+    "employees": 15230,
+    "statedYear": 2021,
+    "excerpt": "P. He had 14.71 years of service under the plan through his retirement on December 30, 2013. 37 CHIEF EXECUTIVE OFFICER PAY RATIO As disclosed in Executive and Director CompensationSummary Compensation Table, the 2021 annual total compensation of our chief executive officer, Mark W. Kowlzan, was $12,157,313. The 2021 annual total compensation of our median employee, as calculated in accordance with the requirements of Item 402 (c)(2)(x) of Regulation S-K, was $78,062. Our median employee was identified as of December 31, 2021 using gross earnings for our domestic employees as provided by our payroll system, at which time we had 15,230 employees substantially all of whom are domestic. As permitted under applicable rules, we omitted our foreign employees from the determination, as our num"
+   }
   },
   "0001193125-21-087638": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/75677/000119312521087638/d104527ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -89,7 +97,7 @@
    }
   },
   "0001193125-20-080666": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/75677/000119312520080666/d861725ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -97,7 +105,7 @@
    "result": null
   },
   "0001193125-19-083317": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/75677/000119312519083317/d704646ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -113,7 +121,7 @@
    }
   },
   "0001193125-18-093603": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/75677/000119312518093603/d423684ddef14a.htm",
    "periodEnd": "2017-12-31",

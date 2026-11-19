@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001104659-26-026094": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-11",
    "url": "https://www.sec.gov/Archives/edgar/data/2005951/000110465926026094/sw-20260501xdef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001104659-25-025323": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/2005951/000110465925025323/tm2425283-3_def14a.htm",
    "periodEnd": "2024-12-31",
@@ -25,7 +25,12 @@
    "result": null
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0002005951-25-000005": {
+   "parserVersion": 2,
+   "employees": 100000
+  }
+ },
  "facts": {
   "revenue": {
    "2022": {

@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000883241-26-000007": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-02-19",
    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324126000007/snps-20260219.htm",
    "periodEnd": "2025-10-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000883241-25-000008": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-02-14",
    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324125000008/snps-20250214.htm",
    "periodEnd": "2024-10-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000883241-24-000006": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-02-16",
    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324124000006/snps-20240216.htm",
    "periodEnd": "2023-10-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000883241-23-000007": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-02-17",
    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324123000007/a2023proxystatementdef14a.htm",
    "periodEnd": "2022-10-31",
@@ -65,7 +65,7 @@
    }
   },
   "0000883241-22-000007": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-02-23",
    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324122000007/a2022proxystatementdef14a.htm",
    "periodEnd": "2021-10-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000883241-21-000005": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-02-18",
    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324121000005/a2021proxystatementdef14a.htm",
    "periodEnd": "2020-10-31",
@@ -97,7 +97,7 @@
    }
   },
   "0000883241-20-000003": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-02-18",
    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324120000003/synopsys-2020proxy.htm",
    "periodEnd": "2019-10-31",
@@ -113,7 +113,7 @@
    }
   },
   "0000883241-19-000004": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-02-15",
    "url": "https://www.sec.gov/Archives/edgar/data/883241/000088324119000004/synopsys-2019proxy.htm",
    "periodEnd": "2018-10-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-048649": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-02-16",
    "url": "https://www.sec.gov/Archives/edgar/data/883241/000119312518048649/d515555ddef14a.htm",
    "periodEnd": "2017-10-31",
@@ -157,6 +157,10 @@
   "0000883241-25-000028": {
    "parserVersion": 1,
    "employees": 28000
+  },
+  "0000883241-17-000014": {
+   "parserVersion": 2,
+   "employees": 11686
   }
  },
  "facts": {

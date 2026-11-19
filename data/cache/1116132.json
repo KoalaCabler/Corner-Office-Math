@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001116132-26-000024": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-09-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000111613226000024/tpr-20260924.htm",
    "periodEnd": "2026-06-27",
@@ -17,7 +17,7 @@
    }
   },
   "0001140361-25-036303": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-09-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036125036303/ny20053837x1_def14a.htm",
    "periodEnd": "2025-06-28",
@@ -33,7 +33,7 @@
    }
   },
   "0001140361-24-042187": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-09-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036124042187/ny20032442x1_def14a.htm",
    "periodEnd": "2024-06-29",
@@ -49,7 +49,7 @@
    }
   },
   "0001140361-23-044958": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-09-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036123044958/ny20009546x1_def14a.htm",
    "periodEnd": "2023-07-01",
@@ -65,7 +65,7 @@
    }
   },
   "0001140361-22-035475": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-09-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036122035475/ny20004839x1_def14a.htm",
    "periodEnd": "2022-07-02",
@@ -81,7 +81,7 @@
    }
   },
   "0001140361-21-032470": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-09-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036121032470/ny20000403x1_def14a.htm",
    "periodEnd": "2021-07-03",
@@ -97,7 +97,7 @@
    }
   },
   "0001140361-20-021572": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-09-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036120021572/nc10014780x1_def14a.htm",
    "periodEnd": "2020-06-27",
@@ -113,7 +113,7 @@
    }
   },
   "0001140361-19-017437": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-09-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036119017437/nc10002633x1_def14a.htm",
    "periodEnd": "2019-06-29",
@@ -129,7 +129,7 @@
    }
   },
   "0001140361-18-039582": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-09-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1116132/000114036118039582/s002363x1_def14a.htm",
    "periodEnd": "2018-06-30",
@@ -147,15 +147,15 @@
  },
  "tenKs": {
   "0001116132-18-000021": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001116132-19-000016": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001116132-20-000022": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001116132-21-000020": {
@@ -181,6 +181,10 @@
   "0001116132-26-000018": {
    "parserVersion": 1,
    "employees": 20600
+  },
+  "0001116132-17-000011": {
+   "parserVersion": 2,
+   "employees": null
   }
  },
  "facts": {

@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001140361-26-015389": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036126015389/ny20061782x1_def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001140361-25-012360": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036125012360/ny20040372x1_def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001140361-24-018332": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036124018332/ny20017136x1_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001140361-23-017048": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000114036123017048/ny20004612x1_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-22-001053": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000120677422001053/otis3963051-def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001206774-21-000694": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1781335/000120677421000694/otis3814731-def14a.htm",
    "periodEnd": "2020-12-31",
@@ -91,12 +91,16 @@
  },
  "tenKs": {
   "0001781335-25-000010": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001781335-26-000011": {
    "parserVersion": 1,
    "employees": 72000
+  },
+  "0001781335-21-000023": {
+   "parserVersion": 2,
+   "employees": 69000
   }
  },
  "facts": {

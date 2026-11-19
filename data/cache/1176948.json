@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001628280-26-026286": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828026026286/ares-20260420.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001628280-25-018040": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828025018040/ares-20250416.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001628280-24-016964": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828024016964/ares-20240419.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001628280-23-014249": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828023014249/ares-20230428.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001628280-22-011250": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828022011250/proxy2021a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001628280-21-008232": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828021008232/proxy2020.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001628280-20-005199": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828020005199/proxy2019.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001628280-19-004051": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1176948/000162828019004051/proxy.htm",
    "periodEnd": "2018-12-31",
@@ -161,6 +161,10 @@
   "0001628280-26-011413": {
    "parserVersion": 1,
    "employees": 4250
+  },
+  "0001628280-18-002576": {
+   "parserVersion": 2,
+   "employees": 1000
   }
  },
  "facts": {

@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-150293": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1050915/000119312526150293/d118470ddef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-078453": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-11",
    "url": "https://www.sec.gov/Archives/edgar/data/1050915/000119312525078453/d689988ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,23 +33,23 @@
    }
   },
   "0001193125-24-093877": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1050915/000119312524093877/d641374ddef14a.htm",
    "periodEnd": "2023-12-31",
    "tenK": "0001050915-24-000009",
    "result": {
-    "ceoPay": null,
+    "ceoPay": 108385,
     "medianPay": 108385,
-    "payRatio": 135,
-    "method": "ratio-and-median",
+    "payRatio": 1,
+    "method": "cross-checked",
     "employees": 46158,
     "statedYear": 2023,
     "excerpt": "p of the annual total compensation of the median employee of the Company and the annual total compensation of Mr. Austin, Quanta's CEO. For 2023, Quanta's last completed fiscal year: | | | • | | | | the median of the annual total compensation of all employees of Quanta (other than Quanta's CEO) was $108,385; | | | | • | | | | the annual total compensation of Quanta's CEO was 14,624,532; and | | | | • | | | | based on this information, the ratio of the annual total compensation of Quanta's CEO to the median of the annual total compensation of all employees was 135 to 1. | Identification of Median Employee We determined that during 2023 there was no change in the employee population or employee compensation arrangements that we believe would reasonably result in a significant change to our p"
    }
   },
   "0001193125-23-099832": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1050915/000119312523099832/d458724ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-104904": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1050915/000119312522104904/d299134ddef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-21-118459": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1050915/000119312521118459/d38532ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-20-109894": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1050915/000119312520109894/d822931ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-19-001303": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1050915/000120677419001303/pwr3516371-def14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001206774-18-001182": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1050915/000120677418001182/quanta3374291-def14a.htm",
    "periodEnd": "2017-12-31",

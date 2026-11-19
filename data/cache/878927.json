@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000878927-26-000006": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-20",
    "url": "https://www.sec.gov/Archives/edgar/data/878927/000087892726000006/odfl-20260417.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000950170-25-056052": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-21",
    "url": "https://www.sec.gov/Archives/edgar/data/878927/000095017025056052/odfl-20250421.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000950170-24-044327": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-15",
    "url": "https://www.sec.gov/Archives/edgar/data/878927/000095017024044327/odfl-20240415.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000950170-23-013009": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-17",
    "url": "https://www.sec.gov/Archives/edgar/data/878927/000095017023013009/odfl-20230417.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001564590-22-014579": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-18",
    "url": "https://www.sec.gov/Archives/edgar/data/878927/000156459022014579/odfl-def14a_20220518.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001564590-21-019440": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-19",
    "url": "https://www.sec.gov/Archives/edgar/data/878927/000156459021019440/odfl-def14a_20210519.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001564590-20-017392": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-20",
    "url": "https://www.sec.gov/Archives/edgar/data/878927/000156459020017392/odfl-def14a_20200520.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001564590-19-011585": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-15",
    "url": "https://www.sec.gov/Archives/edgar/data/878927/000156459019011585/odfl-def14a_20190515.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0000878927-18-000011": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/878927/000087892718000011/a2018odfldefinitiveproxy.htm",
    "periodEnd": "2017-12-31",
@@ -147,15 +147,15 @@
  },
  "tenKs": {
   "0000878927-18-000005": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001564590-19-004755": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001564590-20-006626": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001564590-21-008056": {

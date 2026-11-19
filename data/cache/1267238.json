@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001267238-26-000018": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723826000018/aiz-20260406.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001267238-25-000018": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723825000018/aiz-20250404.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001267238-24-000019": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723824000019/aiz-20240404.htm",
    "periodEnd": "2023-12-31",
@@ -49,52 +49,100 @@
    }
   },
   "0001267238-23-000020": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723823000020/aiz-20230323.htm",
    "periodEnd": "2022-12-31",
    "tenK": "0001267238-23-000007",
-   "result": null
+   "result": {
+    "ceoPay": 8372281,
+    "medianPay": 43451,
+    "payRatio": 192.7,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ic employee. After identifying the median employee, we calculated the annual total compensation for such employee using the same methodology we used for our CEO as set forth in the 2022 Summary Compensation Table foun d on page 56. Fo r 2022, we estimate that our CEO to median employee pay ratio is 192.7, the annual total compensation for the median employee was $43,451 and the annual total compensation for our CEO was $8,372,281. Our 2022 pay ratio is intended to be a reasonable estimate calculated in a manner consistent with SEC rules. Given the different methodologies that various public companies use to determine their estimates of pay ratio, including the different assumptions, exclusions, estimates and methodologies allowed under the SEC rules, and differing employment and compensati"
+   }
   },
   "0001267238-22-000010": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723822000010/aiz2021proxy.htm",
    "periodEnd": "2021-12-31",
    "tenK": "0001267238-22-000006",
-   "result": null
+   "result": {
+    "ceoPay": 11504780,
+    "medianPay": 44558,
+    "payRatio": 258.2,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "stic employee. After identifying the median employee, we calculated the annual total compensation for such employee using the same methodology we used for our CEO as set forth in the 2021 Summary Compensation Table found on page 57. For 2021, we estimate that our CEO to median employee pay ratio is 258.2, the annual total compensation for the median employee was $44,558 and the annual total compensation for our CEO was $11,504,780. Our 2021 pay ratio is intended to be a reasonable estimate calculated in a manner consistent with SEC rules. Given the different methodologies that various public companies use to determine their estimates of pay ratio, including the different assumptions, exclusions, estimates and methodologies allowed under the | | | | | | | | | | | | | 74 | | Notice of 2022 A"
+   }
   },
   "0001628280-21-005278": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000162828021005278/aizfy2020proxy.htm",
    "periodEnd": "2020-12-31",
    "tenK": "0001267238-21-000010",
-   "result": null
+   "result": {
+    "ceoPay": 11855966,
+    "medianPay": 45128,
+    "payRatio": 262.7,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ith SEC rules. After identifying the median employee, we calculated the annual total compensation for such employee using the same methodology we used for our CEO as set forth in the 2020 Summary Compensation Table found on page 68. For 2020, we estimate that our CEO to median employee pay ratio is 262.7, the annual total compensation for the median employee was $45,128, and the annual total compensation for our CEO was $11,855,966. | | | | | | | | | | | | | 88 | | Notice of 2021 Annual Meeting of Stockholders and Proxy Statement | Director Compensation The following table sets forth the cash and other compensation earned by or accrued to the non-management members of the Board for all services in all capacities during the fiscal year ended December 31, 2020. Mr. Colberg is not eligible to"
+   }
   },
   "0001267238-20-000008": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000126723820000008/aizfy2019proxy1.htm",
    "periodEnd": "2019-12-31",
    "tenK": "0001267238-20-000004",
-   "result": null
+   "result": {
+    "ceoPay": 10155682,
+    "medianPay": 43368,
+    "payRatio": 234.2,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "o disclosure. After identifying the median employee, we calculated the annual total compensation for such employee using the same methodology we used for our CEO as set forth in the 2019 Summary Compensation Table found on page 46. For 2019, we estimate that our CEO to median employee pay ratio is: 234.2, the annual total compensation for the median employee was $43,368, and the annual total compensation for our CEO was $10,155,682. | | | | | | | 68 | | Notice of 2020 Annual Meeting of Stockholders and Proxy Statement | Director Compensation The following table sets forth the cash and other compensation earned by or accrued to the non-management members of the Board for all services in all capacities during the fiscal year ended December 31, 2019 . Mr. Colberg is not eligible to participat"
+   }
   },
   "0001628280-19-003334": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000162828019003334/aiz2018def14a.htm",
    "periodEnd": "2018-12-31",
    "tenK": "0001628280-19-001767",
-   "result": null
+   "result": {
+    "ceoPay": 13616946,
+    "medianPay": 41399,
+    "payRatio": 328.9,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "th SEC rules. After identifying the median employee, we calculated the annual total compensation for such employee using the same methodology we used for our CEO as set forth in the 2018 Summary Compensation Table found on page 41. For 2018, we estimate that our CEO to median employee pay ratio is: 328.9, the annual total compensation for the median employee was $41,399, and the annual total compensation for our CEO was $13,616,946. 59 | | | | | | | | | Table of Contents | | | | Director Compensation | DIRECTOR COMPENSATION The following table sets forth the cash and other compensation earned by (or accrued to) the non-management members of the Board for all services in all capacities during the fiscal year ended December 31, 2018. Mr. Colberg is not eligible to participate in the Director"
+   }
   },
   "0001628280-18-003600": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1267238/000162828018003600/aiz2017def14a.htm",
    "periodEnd": "2017-12-31",
    "tenK": "0001628280-18-001695",
-   "result": null
+   "result": {
+    "ceoPay": 9274743,
+    "medianPay": 41853,
+    "payRatio": 221.6,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "gulation S-K. After identifying the median employee, we calculated the annual total compensation for such employee using the same methodology we used for our CEO as set forth in the 2017 Summary Compensation Table found on page 34. For 2017, we estimate that our CEO to median employee pay ratio is: 221.6, the annual total compensation for the median employee was $41,853, and the annual total compensation for our CEO was $9,274,743. 36 | | | | | | | | | Table of Contents | | | | Executive Compensation | Grants of Plan-Based Awards The table below sets forth individual grants of awards made to each NEO during 2017 . Grants of Plan-Based Awards Table for Fiscal Year 2017 | | | | | | | | | | | | | | | | | | | | | | | | | | | Name | | Grant Date | | Estimated Future Payouts Under Non-Equity Inc"
+   }
   }
  },
  "tenKs": {
@@ -109,6 +157,30 @@
   "0001267238-26-000010": {
    "parserVersion": 1,
    "employees": 14800
+  },
+  "0001628280-18-001695": {
+   "parserVersion": 2,
+   "employees": 14750
+  },
+  "0001628280-19-001767": {
+   "parserVersion": 2,
+   "employees": 14750
+  },
+  "0001267238-20-000004": {
+   "parserVersion": 2,
+   "employees": 14200
+  },
+  "0001267238-21-000010": {
+   "parserVersion": 2,
+   "employees": 14100
+  },
+  "0001267238-22-000006": {
+   "parserVersion": 2,
+   "employees": 15600
+  },
+  "0001267238-23-000007": {
+   "parserVersion": 2,
+   "employees": 13700
   }
  },
  "facts": {

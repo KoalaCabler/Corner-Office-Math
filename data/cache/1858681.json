@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-177321": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312526177321/d948913ddef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-096971": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312525096971/d920046ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-118090": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312524118090/d802194ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-215946": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-08-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312523215946/d543681ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,12 +65,20 @@
    }
   },
   "0001193125-22-225440": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-08-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1858681/000119312522225440/d339343ddef14a.htm",
    "periodEnd": null,
    "tenK": null,
-   "result": null
+   "result": {
+    "ceoPay": 302310,
+    "medianPay": 215817,
+    "payRatio": 1.4,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "calculated excluding the PEO), and permit the registrant to annualize the compensation of the person who was the PEO on the date selected for identifying the median employee, which in our case was Mr. Rowan, and our ratio is as follows: Mr. Rowans total compensation as PEO, on an annualized basis: $302,310 Median employee total annual compensation: $215,817 52 Table of Contents Ratio of PEO to median employee total annual compensation: 1.4 In determining the median employee, we prepared a list of all AAM employees as of December 31, 2021. Consistent with applicable rules, we used reasonable estimates in the methodology used to identify the median employee. We determined the median employee by reviewing the base salary paid in 2021, the annual cash bonus paid in 2021 and the value of the e"
+   }
   }
  },
  "tenKs": {

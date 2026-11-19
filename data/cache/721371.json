@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-26-000402": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-09-21",
    "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817926000402/cah-20260921.htm",
    "periodEnd": "2026-06-30",
@@ -17,7 +17,7 @@
    }
   },
   "0000721371-25-000114": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-09-16",
    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137125000114/cah-20250916.htm",
    "periodEnd": "2025-06-30",
@@ -33,7 +33,7 @@
    }
   },
   "0000721371-24-000103": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-09-16",
    "url": "https://www.sec.gov/Archives/edgar/data/721371/000072137124000103/cah-20240913.htm",
    "periodEnd": "2024-06-30",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-001007": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-09-27",
    "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817923001007/lcah2023_def14a.htm",
    "periodEnd": "2023-06-30",
@@ -65,7 +65,7 @@
    }
   },
   "0001308179-22-000365": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-09-28",
    "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817922000365/lcah2022_def14a.htm",
    "periodEnd": "2022-06-30",
@@ -81,7 +81,7 @@
    }
   },
   "0001308179-21-000318": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-09-23",
    "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817921000318/lcah2021_def14a.htm",
    "periodEnd": "2021-06-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001308179-20-000273": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-09-23",
    "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817920000273/lcah2020_def14a.htm",
    "periodEnd": "2020-06-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001308179-19-000231": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-09-20",
    "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817919000231/lcah2019_def14a.htm",
    "periodEnd": "2019-06-30",
@@ -129,7 +129,7 @@
    }
   },
   "0001308179-18-000266": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-09-26",
    "url": "https://www.sec.gov/Archives/edgar/data/721371/000130817918000266/lcah2018_def14a.htm",
    "periodEnd": "2018-06-30",
@@ -181,6 +181,10 @@
   "0000721371-26-000038": {
    "parserVersion": 1,
    "employees": 63900
+  },
+  "0000721371-17-000083": {
+   "parserVersion": 2,
+   "employees": 28000
   }
  },
  "facts": {

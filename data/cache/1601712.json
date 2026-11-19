@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001601712-26-000017": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171226000017/synchronyfinancialproxy202.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001601712-25-000149": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171225000149/syf-20250425.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001601712-24-000168": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000160171224000168/syf-20240425.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-090318": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312523090318/d449242ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-095656": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312522095656/d330618ddef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-21-107599": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312521107599/d58902ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-20-099542": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312520099542/d847267ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-19-099228": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312519099228/d718975ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-107511": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1601712/000119312518107511/d512206ddef14a.htm",
    "periodEnd": "2017-12-31",
@@ -184,7 +184,92 @@
   }
  },
  "facts": {
-  "revenue": {},
+  "revenue": {
+   "2012": {
+    "revenue": 10048000000,
+    "periodEnd": "2012-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-15-000007"
+   },
+   "2013": {
+    "revenue": 11071000000,
+    "periodEnd": "2013-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-16-000069"
+   },
+   "2014": {
+    "revenue": 11805000000,
+    "periodEnd": "2014-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-17-000031"
+   },
+   "2015": {
+    "revenue": 12485000000,
+    "periodEnd": "2015-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-18-000107"
+   },
+   "2016": {
+    "revenue": 13874000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-19-000053"
+   },
+   "2017": {
+    "revenue": 15304000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-20-000038"
+   },
+   "2018": {
+    "revenue": 16383000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-21-000057"
+   },
+   "2019": {
+    "revenue": 17170000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-22-000053"
+   },
+   "2020": {
+    "revenue": 14807000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-23-000037"
+   },
+   "2021": {
+    "revenue": 14720000000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-24-000047"
+   },
+   "2022": {
+    "revenue": 16005000000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-25-000044"
+   },
+   "2023": {
+    "revenue": 17288000000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-26-000006"
+   },
+   "2024": {
+    "revenue": 19532000000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-26-000006"
+   },
+   "2025": {
+    "revenue": 18986000000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
+    "accession": "0001601712-26-000006"
+   }
+  },
   "employeesTagged": {},
   "ceoPayPvp": {}
  },

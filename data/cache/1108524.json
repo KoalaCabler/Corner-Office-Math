@@ -1,63 +1,119 @@
 {
  "proxies": {
   "0001108524-26-000085": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000085/crm-20260416.htm",
    "periodEnd": "2026-01-31",
    "tenK": "0001108524-26-000060",
-   "result": null
+   "result": {
+    "ceoPay": 49379252,
+    "medianPay": 166753,
+    "payRatio": 296,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2026,
+    "excerpt": "of transparency. | | | | | | | | | | Salesforce, Inc. | | 89 | | 2026 Proxy Statement | | | | | | | | | | Fiscal 2026 CEO Pay Ratio The fiscal 2026 total compensation of our median employee, based on the compensation of all employees who were employed as of November 1, 2025, other than our CEO, was $166,753. Mr. Benioff's fiscal 2026 annual total compensation was $49,379,252. The ratio of our CEO's fiscal 2026 pay to that of our median employee (our \"Pay Ratio\") was approximately 296-1. The fiscal 2026 Pay Ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the following methodology. First, we identified our employee population as of November 1, 2025 based on our payroll records. Second, we collected employee compe"
+   }
   },
   "0001108524-25-000009": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852425000009/crm-20250424.htm",
    "periodEnd": "2025-01-31",
    "tenK": "0001108524-25-000006",
-   "result": null
+   "result": {
+    "ceoPay": 55074656,
+    "medianPay": 178949,
+    "payRatio": 308,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "of transparency. | | | | | | | | | | Salesforce, Inc. | | 83 | | 2025 Proxy Statement | | | | | | | | | | Fiscal 2025 CEO Pay Ratio The fiscal 2025 total compensation of our median employee, based on the compensation of all employees who were employed as of November 1, 2024, other than our CEO, was $178,949. Mr. Benioff's fiscal 2025 annual total compensation was $55,074,656. The ratio of our CEO's fiscal 2025 pay to that of our median employee (our \"Pay Ratio\") was approximately 308-1. The fiscal 2025 Pay Ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the following methodology. First, we identified our employee population as of November 1, 2024 based on our payroll records. Second, we collected employee compe"
+   }
   },
   "0001193125-24-140549": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-05-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312524140549/d26900ddef14a.htm",
    "periodEnd": "2024-01-31",
    "tenK": "0001108524-24-000005",
-   "result": null
+   "result": {
+    "ceoPay": 39642173,
+    "medianPay": 164985,
+    "payRatio": 240,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2024,
+    "excerpt": "TATEMENT | | | | | | | | | | 72 | | | | | | | Table of Contents | | | | | | | FISCAL 2024 CEO PAY RATIO | FISCAL 2024 CEO PAY RATIO The fiscal 2024 total compensation of our median employee, based on the compensation of all employees who were employed as of November 1, 2023, other than our CEO, was $164,985. Mr. Benioff's fiscal 2024 annual total compensation was $39,642,173. The ratio of our CEO's fiscal 2024 pay to that of our median employee (our \"Pay Ratio\") was approximately 240-1. The fiscal 2024 Pay Ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the following methodology described herein. First, we identified our employee population as of November 1, 2023 based on our payroll records. Second, we collect"
+   }
   },
   "0001193125-23-122123": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312523122123/d406753ddef14a.htm",
    "periodEnd": "2023-01-31",
    "tenK": "0001108524-23-000011",
-   "result": null
+   "result": {
+    "ceoPay": 29868893,
+    "medianPay": 199130,
+    "payRatio": 150,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | FISCAL 2023 CEO PAY RATIOS | | | FISCAL 2023 CEO PAY RATIOS The fiscal 2023 total compensation of our median employee, based on the compensation of all employees who were employed as of November 1, 2022, other than our Co-CEOs, was $199,130. Mr. Benioff's fiscal 2023 annual total compensation was $29,868,893 and Mr. Taylor's fiscal 2023 annual total compensation was $26,792,798. The ratios of our CEO's and former Co-CEO's fiscal 2023 pay to that of our median employee (our \"Pay Ratios\") were approximately 150-1 and 135-1, respectively. The fiscal 2023 Pay Ratios are a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described herein. First,"
+   }
   },
   "0001193125-22-127612": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312522127612/d301179ddef14a.htm",
    "periodEnd": "2022-01-31",
    "tenK": "0001108524-22-000013",
-   "result": null
+   "result": {
+    "ceoPay": 22794415,
+    "medianPay": 181612,
+    "payRatio": 126,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "rements for our Executive Officers, help mitigate the risks of unethical behavior and inappropriate risk-taking. CEO PAY RATIOS The fiscal 2022 total compensation of the median employee, based on the compensation of all employees who were employed as of November 1, 2021, other than our Co-CEOs, was $181,612. Mr. Benioffs fiscal 2022 annual total compensation was $28,602,112 and Mr. Taylors fiscal 2022 annual total compensation was $22,794,415. The ratios of our Co-CEOs fiscal 2022 pay to that of our median employee (our Pay Ratios) were approximately 157-1 and 126-1, respectively. The fiscal 2022 Pay Ratios are a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described herein. First, we identified ou"
+   }
   },
   "0001193125-21-140350": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312521140350/d80344ddef14a.htm",
    "periodEnd": "2021-01-31",
    "tenK": "0001108524-22-000008",
-   "result": null
+   "result": {
+    "ceoPay": 25740775,
+    "medianPay": 154799,
+    "payRatio": 166,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "requirements for our Executive Officers, help mitigate the risks of unethical behavior and inappropriate risk-taking. CEO PAY RATIO The fiscal 2021 total compensation of the median employee, based on the compensation of all employees who were employed as of November 1, 2020, other than our CEO, was $154,799. Mr. Benioffs fiscal 2021 annual total compensation was $25,740,775. The ratio of our CEOs fiscal 2021 pay to that of our median employee (our Pay Ratio) was 166-1. The fiscal 2021 Pay Ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described herein. First, we identified our employee population as of November 1, 2020 based on our payroll records. Second, we collected employee compensation"
+   }
   },
   "0001193125-20-131040": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-05-01",
    "url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312520131040/d861721ddef14a.htm",
    "periodEnd": "2020-01-31",
    "tenK": "0001108524-20-000014",
-   "result": null
+   "result": {
+    "ceoPay": 19310896,
+    "medianPay": 167750,
+    "payRatio": 115,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "ur Executive Officers, help mitigate the risks of unethical behavior and inappropriate risk-taking. CEO PAY RATIO The fiscal 2020 total compensation of the median employee, based on the compensation of all employees who were employed as of November 1, 2019, other than our CEO and Former Co-CEO, was $167,750. Mr. Benioffs fiscal 2020 annual total compensation was $25,969,494 and Mr. Blocks fiscal 2020 annual total compensation was $19,310,896. The ratios of our CEOs and former Co-CEOs fiscal 2020 pay to that of our median employee (our Pay Ratios) were 155-1 and 115-1, respectively. The fiscal 2020 Pay Ratios are a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records and the methodology described herein. First, we collected e"
+   }
   },
   "0001193125-19-119702": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312519119702/d664082ddef14a.htm",
    "periodEnd": "2019-01-31",
@@ -73,7 +129,7 @@
    }
   },
   "0001193125-18-148743": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-05-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1108524/000119312518148743/d491144ddef14a.htm",
    "periodEnd": "2018-01-31",
@@ -97,6 +153,38 @@
   "0001108524-19-000009": {
    "parserVersion": 1,
    "employees": 35000
+  },
+  "0001108524-17-000006": {
+   "parserVersion": 2,
+   "employees": 25000
+  },
+  "0001108524-20-000014": {
+   "parserVersion": 2,
+   "employees": 49000
+  },
+  "0001108524-22-000008": {
+   "parserVersion": 2,
+   "employees": 56606
+  },
+  "0001108524-22-000013": {
+   "parserVersion": 2,
+   "employees": 73541
+  },
+  "0001108524-23-000011": {
+   "parserVersion": 2,
+   "employees": 79390
+  },
+  "0001108524-24-000005": {
+   "parserVersion": 2,
+   "employees": 72682
+  },
+  "0001108524-25-000006": {
+   "parserVersion": 2,
+   "employees": 76453
+  },
+  "0001108524-26-000060": {
+   "parserVersion": 2,
+   "employees": 83334
   }
  },
  "facts": {

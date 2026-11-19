@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001206774-26-000148": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677426000148/glw4500541-def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001206774-25-000146": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677425000146/glw4400681_def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001206774-24-000283": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677424000283/glw4258981-def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001206774-23-000387": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677423000387/glw4120101-def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-22-000773": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677422000773/corning3977371-def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001206774-21-000742": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677421000742/corning3847741-def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001206774-20-000853": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677420000853/corning3662391-def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-19-000978": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677419000978/corning3492731-def14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001206774-18-000825": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/24741/000120677418000825/corning3345331-def14a.htm",
    "periodEnd": "2017-12-31",
@@ -147,15 +147,15 @@
  },
  "tenKs": {
   "0001437749-23-003123": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001437749-24-003735": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001628280-25-005347": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000024741-26-000124": {

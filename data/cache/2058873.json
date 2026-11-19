@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001628280-26-024259": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/2058873/000162828026024259/q-20260408.htm",
    "periodEnd": "2025-12-31",
@@ -9,7 +9,12 @@
    "result": null
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0002058873-26-000010": {
+   "parserVersion": 2,
+   "employees": 10000
+  }
+ },
  "facts": {
   "revenue": {
    "2023": {

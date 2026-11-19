@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-148814": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312526148814/uhs-20260403.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000950170-25-049925": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-03",
    "url": "https://www.sec.gov/Archives/edgar/data/352915/000095017025049925/uhs-20250327.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-086555": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312524086555/d631163ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-093052": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312523093052/d445017ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,83 +65,83 @@
    }
   },
   "0001193125-22-098067": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/352915/000119312522098067/d465454ddef14a.htm",
    "periodEnd": "2021-12-31",
    "tenK": "0001564590-22-006717",
    "result": {
-    "ceoPay": 29653917,
-    "medianPay": 94000,
-    "payRatio": 309,
+    "ceoPay": 404199,
+    "medianPay": 404199,
+    "payRatio": 1,
     "method": "cross-checked",
     "employees": null,
-    "statedYear": null,
-    "excerpt": "control of the Company. The intrinsic value of our named executive officers stock options for which vesting would have accelerated assuming a change in control of the Company in which equity awards are not assumed or substituted had occurred as of December 31, 2021, is as follows: Alan B. Miller: $29,653,917; Marc D. Miller: $5,026,083; Steve G. Filton: $3,518,230; Marvin G. Pember: $6,058,510; and Matthew J. Peterson: $2,387,764. Additionally, the intrinsic value of Alan B. Millers restricted stock grant awards for which vesting would have accelerated assuming a change in control of the Company in which equity awards are not assumed or substituted had occurred as of December 31, 2021 was $1,376,860. Such intrinsic values of the accelerated stock options and accelerated restricted stock"
+    "statedYear": 2021,
+    "excerpt": "compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare industry, we recalculated the median employee in 2021 and determined that persons total compensation was $45,454. The ratio of CEO pay to median worker pay is 309:1. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employees annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companies may have different employment and compensation practices"
    }
   },
   "0001564590-21-017879": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459021017879/uhs-def14a_20210621.htm",
    "periodEnd": "2020-12-31",
    "tenK": "0001564590-21-008851",
    "result": {
-    "ceoPay": null,
-    "medianPay": 43337,
-    "payRatio": 305,
-    "method": "ratio-and-median",
+    "ceoPay": 145796,
+    "medianPay": 145796,
+    "payRatio": 1,
+    "method": "cross-checked",
     "employees": null,
     "statedYear": 2020,
-    "excerpt": "porary employees reduces the median of the annual total compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare 54 industry, we recalculated the median employee in 2020 and determined that person's total compensation was $43,337. The ratio of CEO pay to median worker pay is 305:1. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companie"
+    "excerpt": "mpensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare 54 industry, we recalculated the median employee in 2020 and determined that person's total compensation was $43,337. The ratio of CEO pay to median worker pay is 305:1. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companies may have different employment and compensation practices"
    }
   },
   "0001564590-20-015986": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459020015986/uhs-def14a_20200520.htm",
    "periodEnd": "2019-12-31",
    "tenK": "0001564590-20-006793",
    "result": {
-    "ceoPay": null,
-    "medianPay": 38931,
-    "payRatio": 629,
-    "method": "ratio-and-median",
+    "ceoPay": 304349,
+    "medianPay": 304349,
+    "payRatio": 1,
+    "method": "cross-checked",
     "employees": null,
     "statedYear": 2019,
-    "excerpt": "temporary employees reduces the median of the annual total compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare industry, we recalculated the median employee in 2019 and determined that person's total compensation was $38,931. The ratio of CEO pay to median worker pay is 629:1. 67 The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compen sation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other comp"
+    "excerpt": "compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare industry, we recalculated the median employee in 2019 and determined that person's total compensation was $38,931. The ratio of CEO pay to median worker pay is 629:1. 67 The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compen sation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companies may have different employment and compensation pract"
    }
   },
   "0001564590-19-010754": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459019010754/uhs-def14a_20181231.htm",
    "periodEnd": "2018-12-31",
    "tenK": "0001564590-19-004919",
    "result": {
-    "ceoPay": null,
-    "medianPay": 40826,
-    "payRatio": 578,
-    "method": "ratio-and-median",
+    "ceoPay": 281640,
+    "medianPay": 281640,
+    "payRatio": 1,
+    "method": "cross-checked",
     "employees": null,
     "statedYear": 2018,
-    "excerpt": "temporary employees reduces the median of the annual total compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare industry, we recalculated the median employee in 2018 and determined that person's total compensation was $40,826. The ratio of CEO pay to median worker pay is 578:1. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companie"
+    "excerpt": "compensation for the overall group of our employees. Due to the amount of turnover and job status changes that exist in the healthcare industry, we recalculated the median employee in 2018 and determined that person's total compensation was $40,826. The ratio of CEO pay to median worker pay is 578:1. The SEC rules for identifying the median compensated employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain exclusions and to make reasonable estimates and assumptions that reflect their compensation practices. As such, the pay ratio reported by other companies may not be comparable to the pay ratio reported above, as other companies may have different employment and compensation practices"
    }
   },
   "0001564590-18-007630": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/352915/000156459018007630/uhs-def14a_20180516.htm",
    "periodEnd": "2017-12-31",
    "tenK": "0001564590-18-003808",
    "result": {
-    "ceoPay": 51749134,
-    "medianPay": 98000,
-    "payRatio": 541,
+    "ceoPay": 3000000,
+    "medianPay": 39978,
+    "payRatio": 75,
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2017,
-    "excerpt": "$ | | 0 | | | | | | | | $ | | 39,548,584 | | | | Termination by Mr. Alan Miller for \"Breach by the Company\" or Termination by the Company Without Cause | | | | $ | | 6,726,600 | | | | (b.) | | | | $ | | 2,473,949 | | | | (c.) | | | | $ | | 39,548,585 | | | | | | $ | | 3,000,000 | | | | (d.) | | | | $ | | 51,749,134 | | | | (a.) | | Based upon 50% of the targeted 2018 non-equity incentive plan bonus award and 50% (6 months) of Mr. Alan Miller's 2018 base salary. | | (b.) | | Assumes (i) continuation of all cash compensation through 2019 (automatic annual renewal termination date); (ii) annual base salary increase of 2.0% through 2019, and; (iii) an annual bonus award equal to 100% of his estimated base salary through 2019, which assumes the achievement of the bonus opportunity target set fo"
+    "excerpt": "| | | | $ | | 39,548,584 | | | | | | $ | | 0 | | | | | | | | $ | | 39,548,584 | | | | Termination by Mr. Alan Miller for \"Breach by the Company\" or Termination by the Company Without Cause | | | | $ | | 6,726,600 | | | | (b.) | | | | $ | | 2,473,949 | | | | (c.) | | | | $ | | 39,548,585 | | | | | | $ | | 3,000,000 | | | | (d.) | | | | $ | | 51,749,134 | | | | (a.) | | Based upon 50% of the targeted 2018 non-equity incentive plan bonus award and 50% (6 months) of Mr. Alan Miller's 2018 base salary. | | (b.) | | Assumes (i) continuation of all cash compensation through 2019 (automatic annual renewal termination date); (ii) annual base salary increase of 2.0% through 2019, and; (iii) an annual bonus award equal to 100% of his estimated base salary through 2019, which assumes the achievement o"
    }
   }
  },

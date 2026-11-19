@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001679788-26-000045": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978826000045/coin-20260424.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001679788-25-000070": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978825000070/coin-20250425.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001679788-24-000080": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978824000080/coin-20240425.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001679788-23-000065": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000167978823000065/coin-20230428.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001140361-22-015201": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000114036122015201/edge20001234x1_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -89,6 +89,10 @@
   "0001679788-26-000015": {
    "parserVersion": 1,
    "employees": 4951
+  },
+  "0001679788-22-000031": {
+   "parserVersion": 2,
+   "employees": 3730
   }
  },
  "facts": {

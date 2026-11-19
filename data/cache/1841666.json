@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-149453": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1841666/000119312526149453/apa-20260409.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-077464": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1841666/000119312525077464/d833413ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-094013": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1841666/000119312524094013/d776369ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-097278": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-11",
    "url": "https://www.sec.gov/Archives/edgar/data/1841666/000119312523097278/d434054ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-092931": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/1841666/000119312522092931/d299749ddef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,11 +81,11 @@
    }
   },
   "0001193125-21-114082": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1841666/000119312521114082/d106113ddef14a.htm",
-   "periodEnd": null,
-   "tenK": null,
+   "periodEnd": "2020-12-31",
+   "tenK": "0001673379-21-000007",
    "result": {
     "ceoPay": 14321225,
     "medianPay": 170381,
@@ -94,6 +94,54 @@
     "employees": null,
     "statedYear": 2020,
     "excerpt": "orm and Consumer Protection Act and Item 402(u) of Regulation S-K, the following is a reasonable estimate of the ratio of the annual total compensation of our CEO and President to the annual total compensation of our median employee. The annual total compensation of our median employee for 2020 was $170,381. As disclosed in the Summary Compensation Table, our CEO and Presidents annual total compensation for 2020 was $14,321,225. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO and President to the annual total compensation of our median employee was 84:1, down from 91:1 in 2019. We identified the median employee using the employee population on December 31, 2020 that received taxable compensation (other than our CEO and President) for the calen"
+   }
+  },
+  "0001193125-20-097206": {
+   "parserVersion": 2,
+   "filingDate": "2020-04-03",
+   "url": "https://www.sec.gov/Archives/edgar/data/6769/000119312520097206/d839957ddef14a.htm",
+   "periodEnd": "2019-12-31",
+   "tenK": "0001733037-20-000004",
+   "result": {
+    "ceoPay": 14287300,
+    "medianPay": 157761,
+    "payRatio": 91,
+    "method": "cross-checked",
+    "employees": 3343,
+    "statedYear": 2019,
+    "excerpt": "atio The following is a reasonable estimate, prepared under applicable SEC rules, of the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of our median employee. The annual total compensation of our median employee for the calendar year 2019 was $157,761 USD. As disclosed in the Summary Compensation Table, our Chief Executive Officers annual total compensation for 2019 was $14,287,300 USD. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 91:1, down from 96:1 in 2018. We did not have any substantial changes in our workforce population that we believe would significantly impact our pay ratio calculation. Therefore, we utilized the sam"
+   }
+  },
+  "0001193125-19-101241": {
+   "parserVersion": 2,
+   "filingDate": "2019-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/6769/000119312519101241/d640102ddef14a.htm",
+   "periodEnd": "2018-12-31",
+   "tenK": "0001733037-19-000004",
+   "result": {
+    "ceoPay": 15201447,
+    "medianPay": 158214,
+    "payRatio": 96,
+    "method": "cross-checked",
+    "employees": 3343,
+    "statedYear": 2017,
+    "excerpt": "atio The following is a reasonable estimate, prepared under applicable SEC rules, of the ratio of the annual total compensation of our Chief Executive Officer to the annual total compensation of our median employee. The annual total compensation of our median employee for the calendar year 2018 was $158,214 USD. As disclosed in the Summary Compensation Table, our Chief Executive Officers annual total compensation for 2018 was $15,201,447 USD. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee was 96:1, down from 99:1 in 2017. | | | | | | | | | | | APACHE CORPORATION - 2019 Proxy Statement | | | | | | 69 | | | Table of Contents We did not have any substantial changes in our workforce populati"
+   }
+  },
+  "0001193125-18-111013": {
+   "parserVersion": 2,
+   "filingDate": "2018-04-09",
+   "url": "https://www.sec.gov/Archives/edgar/data/6769/000119312518111013/d426301ddef14a.htm",
+   "periodEnd": "2017-12-31",
+   "tenK": "0001673379-18-000008",
+   "result": {
+    "ceoPay": 14433373,
+    "medianPay": 145954,
+    "payRatio": 99,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "sation (other than our Chief Executive Officer) for the calendar year 2017, which included our looking at gross compensation, excluding equity, within the calendar year 2017. The annual total compensation of our median employee (other than the Chief Executive Officer) for the calendar year 2017 was $145,954. The original median employee identified began employment part-way through the year, therefore, a similarly situated employee was selected to provide a median employee that reflected compensation for a full year. As disclosed in the Summary Compensation Table, our Chief Executive Officers annual total compensation for 2017 was $14,433,373. Based on the foregoing, our estimate of the ratio of the annual total compensation of our CEO to the annual total compensation of our median employe"
    }
   }
  },
@@ -117,10 +165,49 @@
   "0001841666-26-000015": {
    "parserVersion": 1,
    "employees": null
+  },
+  "0001673379-18-000008": {
+   "parserVersion": 2,
+   "employees": 3356
+  },
+  "0001673379-21-000007": {
+   "parserVersion": 2,
+   "employees": 637
   }
  },
  "facts": {
-  "revenue": {},
+  "revenue": {
+   "2016": {
+    "revenue": 5367000000,
+    "periodEnd": "2016-12-31",
+    "revenueTag": "RevenueFromContractWithCustomerIncludingAssessedTax",
+    "accession": "0001733037-19-000004"
+   },
+   "2017": {
+    "revenue": 6423000000,
+    "periodEnd": "2017-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001733037-20-000004"
+   },
+   "2018": {
+    "revenue": 7764000000,
+    "periodEnd": "2018-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001673379-21-000007"
+   },
+   "2019": {
+    "revenue": 6553000000,
+    "periodEnd": "2019-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001673379-21-000007"
+   },
+   "2020": {
+    "revenue": 4308000000,
+    "periodEnd": "2020-12-31",
+    "revenueTag": "Revenues",
+    "accession": "0001673379-21-000007"
+   }
+  },
   "employeesTagged": {},
   "ceoPayPvp": {
    "2021": 15040707,
@@ -151,16 +238,64 @@
     "url": "https://www.sec.gov/Archives/edgar/data/1841666/000178403124000003/apa-20231231.htm"
    },
    {
+    "accession": "0001784031-24-000004",
+    "filingDate": "2024-02-22",
+    "reportDate": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/6769/000178403124000004/apa-20231231.htm"
+   },
+   {
     "accession": "0001784031-23-000007",
     "filingDate": "2023-02-23",
     "reportDate": "2022-12-31",
     "url": "https://www.sec.gov/Archives/edgar/data/1841666/000178403123000007/apa-20221231.htm"
    },
    {
+    "accession": "0001784031-23-000008",
+    "filingDate": "2023-02-23",
+    "reportDate": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/6769/000178403123000008/apa-20221231.htm"
+   },
+   {
     "accession": "0001784031-22-000009",
     "filingDate": "2022-02-22",
     "reportDate": "2021-12-31",
     "url": "https://www.sec.gov/Archives/edgar/data/1841666/000178403122000009/apa-20211231.htm"
+   },
+   {
+    "accession": "0001784031-22-000010",
+    "filingDate": "2022-02-22",
+    "reportDate": "2021-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/6769/000178403122000010/apa-20211231.htm"
+   },
+   {
+    "accession": "0001673379-21-000007",
+    "filingDate": "2021-02-26",
+    "reportDate": "2020-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/6769/000167337921000007/apa-20201231.htm"
+   },
+   {
+    "accession": "0001733037-20-000004",
+    "filingDate": "2020-02-28",
+    "reportDate": "2019-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/6769/000173303720000004/apa10-k2019.htm"
+   },
+   {
+    "accession": "0001733037-19-000004",
+    "filingDate": "2019-03-01",
+    "reportDate": "2018-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/6769/000173303719000004/apa10-k2018.htm"
+   },
+   {
+    "accession": "0001673379-18-000008",
+    "filingDate": "2018-02-23",
+    "reportDate": "2017-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/6769/000167337918000008/apa10-k2017.htm"
+   },
+   {
+    "accession": "0001673379-17-000004",
+    "filingDate": "2017-02-24",
+    "reportDate": "2016-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/6769/000167337917000004/apa10-k2016.htm"
    }
   ]
  }

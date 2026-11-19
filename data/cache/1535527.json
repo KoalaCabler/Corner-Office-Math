@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001104659-26-055599": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-05-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465926055599/tm2532333-4_def14a.htm",
    "periodEnd": "2026-01-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001104659-25-045047": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-05-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465925045047/tm252455-2_def14a.htm",
    "periodEnd": "2025-01-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001104659-24-057449": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-05-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465924057449/tm242831d2_def14a.htm",
    "periodEnd": "2024-01-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001104659-23-056548": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-05-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465923056548/tm232065-3_def14a.htm",
    "periodEnd": "2023-01-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001104659-22-057039": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-05-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465922057039/tm229592-1_def14a.htm",
    "periodEnd": "2022-01-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001104659-21-066463": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-05-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000110465921066463/tm214527-1_def14a.htm",
    "periodEnd": "2021-01-31",
@@ -89,7 +89,7 @@
    "result": null
   },
   "0001047469-20-003177": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-05-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000104746920003177/a2241598zdef14a.htm",
    "periodEnd": "2020-01-31",
@@ -97,7 +97,16 @@
    "result": null
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0001535527-20-000006": {
+   "parserVersion": 2,
+   "employees": 2309
+  },
+  "0001535527-21-000007": {
+   "parserVersion": 2,
+   "employees": 3394
+  }
+ },
  "facts": {
   "revenue": {
    "2018": {

@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000320187-26-000089": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-07-15",
    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000089/nke-20260715.htm",
    "periodEnd": "2026-05-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000320187-25-000048": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-07-17",
    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018725000048/nke-20250717.htm",
    "periodEnd": "2025-05-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000320187-24-000045": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-07-25",
    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000045/nke-20240725.htm",
    "periodEnd": "2024-05-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000320187-23-000040": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-07-20",
    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018723000040/nke-20230720.htm",
    "periodEnd": "2023-05-31",
@@ -65,7 +65,7 @@
    }
   },
   "0000320187-22-000041": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-07-21",
    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018722000041/nike2022proxy.htm",
    "periodEnd": "2022-05-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000320187-21-000035": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-08-09",
    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018721000035/nike2021proxy.htm",
    "periodEnd": "2021-05-31",
@@ -97,7 +97,7 @@
    }
   },
   "0000320187-20-000049": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-07-24",
    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018720000049/nike2020proxy.htm",
    "periodEnd": "2020-05-31",
@@ -113,7 +113,7 @@
    }
   },
   "0000320187-19-000053": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-07-23",
    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018719000053/nike2019proxy.htm",
    "periodEnd": "2019-05-31",
@@ -129,7 +129,7 @@
    }
   },
   "0000320187-18-000144": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-07-25",
    "url": "https://www.sec.gov/Archives/edgar/data/320187/000032018718000144/nke-2018xdef14a.htm",
    "periodEnd": "2018-05-31",
@@ -145,7 +145,12 @@
    }
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0000320187-17-000090": {
+   "parserVersion": 2,
+   "employees": 74400
+  }
+ },
  "facts": {
   "revenue": {
    "2008": {

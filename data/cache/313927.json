@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-115994": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312526115994/chd-20260319.htm",
    "periodEnd": "2025-12-31",
@@ -17,39 +17,39 @@
    }
   },
   "0001193125-25-059273": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312525059273/d941120ddef14a.htm",
    "periodEnd": "2024-12-31",
    "tenK": "0000950170-25-019801",
    "result": {
-    "ceoPay": 1231633,
-    "medianPay": 1231633,
-    "payRatio": 1,
-    "method": "cross-checked",
+    "ceoPay": null,
+    "medianPay": 65938,
+    "payRatio": 157.1,
+    "method": "ratio-and-median",
     "employees": null,
     "statedYear": 2023,
-    "excerpt": "to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2024 Summary Compensation Table in this Proxy Statement. As illustrated in the table below, our 2024 CEO to median employee pay ratio is 157.1:1. | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,231,633 | | | | | | | | | | | | $ | | 65,938 | | | | Annual Incentive Plan Compensation | | | | | | 2,499,000 | | | | | | | | | | | | | | 3,930 | | | | Long-Term Incentive Awards | | | | | | 8,060,000 | | | | | | | | | | | | | | - | | | | All Other Compensation | | | | | | 462,792 | | | | |"
+    "excerpt": "ate our employees to create shareholder value. We are committed to internal pay equity, and the Compensation & Human Capital Committee monitors the relationship between the pay our officers receive and the pay our non-officer employees receive. The compensation for our CEO in 2024 was approximately 157.1:1 times the 2024 pay for our median employee. As a result of the rules adopted by the SEC under the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the \"Dodd-Frank Act\"), we are required to disclose the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee, using the required calculations. As permitted by the rules, we used the median employee identified in 2023 for our 2024 analysis. There was no significant change in"
    }
   },
   "0001193125-24-075319": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312524075319/d17100ddef14a.htm",
    "periodEnd": "2023-12-31",
    "tenK": "0000950170-24-015810",
    "result": {
-    "ceoPay": null,
-    "medianPay": 1183975,
-    "payRatio": 126.4,
-    "method": "ratio-and-median",
+    "ceoPay": 1183975,
+    "medianPay": 74124,
+    "payRatio": 16,
+    "method": "cross-checked",
     "employees": null,
     "statedYear": 2023,
-    "excerpt": "ate our employees to create shareholder value. We are committed to internal pay equity, and the Compensation & Human Capital Committee monitors the relationship between the pay our officers receive and the pay our non-officer employees receive. The compensation for our CEO in 2023 was approximately 126.4:1 times the 2023 pay for our median employee. As a result of the rules adopted by the SEC under the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (the \"Dodd-Frank Act\"), we are required to disclose the ratio of the annual total compensation of our CEO to the annual total compensation of our median employee, using the required calculations. We identified our median employee utilizing data as of November 30, 2023 by examining the 2023 target total cash compensation (base"
+    "excerpt": "roxy Statement. As illustrated in the table below, our 2023 CEO to median employee pay ratio is 126.4:1. | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,183,975 | | | | | | | | | | | | $ | | 74,124 | | | | Annual Incentive Plan Compensation | | | | | | 2,530,700 | | | | | | | | | | | | | | 5,070 | | | | Long-Term Incentive Awards | | | | | | 7,232,300 | | | | | | | | | | | | | | - | | | | All Other Compensation | | | | | | 235,191 | | | | | | | | | | | | | | 9,287 | | | | TOTAL | | | | | | 11,182,166 | | | | | | | | | | | | | | 88,482 | | | | CEO Pay to Median Employee Pay Ratio | | | | | | 126.4 | | | | | | | | | | | | | | | | 1 | | | |"
    }
   },
   "0001193125-23-073946": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312523073946/d462087ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -61,11 +61,11 @@
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2020,
-    "excerpt": "rds to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2022 Summary Compensation Table in this Proxy Statement. As illustrated in the table below, our 2022 CEO to median employee pay ratio is 138.4:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,156,275 | | | | | | | | | | | | | | $ | | 54,541 | | | | Option Awards | | | | | | 6,590,722 | | | | | | | | | | | | | | | | - | | | | Restricted Stock Units | | | | | | - | | | | | | | | | | | | | | | | - | | | | Annual Incentive Plan Compensation | | | | | | 4"
+    "excerpt": "| | | - | | | | Restricted Stock Units | | | | | | - | | | | | | | | | | | | | | | | - | | | | Annual Incentive Plan Compensation | | | | | | 453,600 | | | | | | | | | | | | | | | | 1,048 | | | | All Other Compensation | | | | | | 174,764 | | | | | | | | | | | | | | | | 4,909 | | | | TOTAL | | | | $ | | 8,375,361 | | | | | | | | | | | | | | $ | | 60,498 | | | | CEO Pay to Median Employee Pay Ratio | | | | | | 138.4 | | | | | | | | : | | | | | | | | 1 | | | | | | | | | | | | | | Church & Dwight Co. | 2023 Proxy Statement | | | | 79 | Table of Contents | | | | | | | | | | | EQUITY COMPENSATION PLAN INFORMATION | | | | | EQUITY COMPENSATION PLAN INFORMATION AS OF DECEMBER 31, 2022 The following table provides information as of December 31, 2022, regarding securities issuable under our equity"
    }
   },
   "0001193125-22-079492": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312522079492/d240098ddef14a.htm",
    "periodEnd": "2021-12-31",
@@ -77,11 +77,11 @@
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2021,
-    "excerpt": "rds to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2021 Summary Compensation Table in this Proxy Statement. As illustrated in the table below, our 2021 CEO to median employee pay ratio is 121.0:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,117,400 | | | | | | | | | | | | | | $ | | 63,133 | | | | Option Awards | | | | | | 6,359,608 | | | | | | | | | | | | | | | |  | | | | Restricted Stock Units | | | | | |  | | | | | | | | | | | | | | | | 1,242 | | | | Annual Incentive Plan Compensation | | | | |"
+    "excerpt": " | | | | Restricted Stock Units | | | | | |  | | | | | | | | | | | | | | | | 1,242 | | | | Annual Incentive Plan Compensation | | | | | | 1,130,800 | | | | | | | | | | | | | | | | 2,525 | | | | All Other Compensation | | | | | | 281,718 | | | | | | | | | | | | | | | | 6,566 | | | | TOTAL | | | | $ | | 8,889,526 | | | | | | | | | | | | | | $ | | 73,466 | | | | CEO Pay to Median Employee Pay Ratio | | | | | | 121.0 | | | | | | | | : | | | | | | | | 1 | | | | | | | | | | | | | | 80 | | | | Church & Dwight Co. | 2022 Proxy Statement | Table of Contents | | | | | | | | | | | | | | | DELINQUENT SECTION 16(A) REPORTS | DELINQUENT SECTION 16(A) REPORTS Each Director, executive officer and Chief Accounting Officer of the Company and any greater than 10% beneficial owner of Common Stock is requir"
    }
   },
   "0001193125-21-087577": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312521087577/d67012ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -93,11 +93,11 @@
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2020,
-    "excerpt": "rds to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2020 Summary Compensation Table in this Proxy Statement. As illustrated in the table below, our 2020 CEO to median employee pay ratio is 140:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,084,825 | | | | | | | | | | | | | | $ | | 60,044 | | | | Option Awards | | | | | | 6,174,305 | | | | | | | | | | | | | | | |  | | | | Restricted Stock Units | | | | | |  | | | | | | | | | | | | | | | |  | | | | Annual Incentive Plan Compensation | | | | | | 2,1"
+    "excerpt": "| |  | | | | Restricted Stock Units | | | | | |  | | | | | | | | | | | | | | | |  | | | | Annual Incentive Plan Compensation | | | | | | 2,195,700 | | | | | | | | | | | | | | | | 3,170 | | | | All Other Compensation | | | | | | 434,962 | | | | | | | | | | | | | | | | 5,591 | | | | TOTAL | | | | $ | | 9,889,792 | | | | | | | | | | | | | | $ | | 70,649 | | | | CEO Pay to Median Employee Pay Ratio | | | | | | 140 | | | | | | | | : | | | | | | | | 1 | | | | | | | | | | | | | | Church & Dwight Co. | 2021 Proxy Statement | | | | 73 | Table of Contents | | | | | | | | | | | EQUITY COMPENSATION PLAN INFORMATION | | | | | EQUITY COMPENSATION PLAN INFORMATION AS OF DECEMBER 31, 2020 The following table provides information as of December 31, 2020, regarding securities issuable under our equity c"
    }
   },
   "0001193125-20-080717": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312520080717/d861884ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -109,11 +109,11 @@
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2017,
-    "excerpt": "rds to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2019 Summary Compensation Table in this proxy statement. As illustrated in the table below, our 2019 CEO to median employee pay ratio is 136.4:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,053,175 | | | | | | | | | | | | | | $ | | 56,153 | | | | Option Awards | | | | | | 5,622,700 | | | | | | | | | | | | | | | |  | | | | Restricted Stock Units | | | | | |  | | | | | | | | | | | | | | | |  | | | | Annual Incentive Plan Compensation | | | | | | 1"
+    "excerpt": "| |  | | | | Restricted Stock Units | | | | | |  | | | | | | | | | | | | | | | |  | | | | Annual Incentive Plan Compensation | | | | | | 1,937,800 | | | | | | | | | | | | | | | | 2,695 | | | | All Other Compensation | | | | | | 371,377 | | | | | | | | | | | | | | | | 7,046 | | | | TOTAL | | | | $ | | 8,985,122 | | | | | | | | | | | | | | $ | | 65,894 | | | | CEO Pay to Median Employee Pay Ratio | | | | | | 136.4 | | | | | | | | : | | | | | | | | 1 | | | | | | | | | | | | | | | | | | | | 68 | | | | | | Church & Dwight Co. | 2020 Proxy Statement | Table of Contents | | | | | | | | | | | | | | | EQUITY COMPENSATION PLAN INFORMATION | EQUITY COMPENSATION PLAN INFORMATION AS OF DECEMBER 31, 2019 The following table provides information as of December 31, 2019, regarding securities issuable"
    }
   },
   "0001193125-19-083523": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312519083523/d661468ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -125,11 +125,11 @@
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2017,
-    "excerpt": "rds to employees. We calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2018 Summary Compensation Table in this proxy statement. As illustrated in the table below, our 2018 CEO to median employee pay ratio is 113.6:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,022,500 | | | | | | | | | | | | | | $ | | 54,047 | | | | Option Awards | | | | | | 4,377,524 | | | | | | | | | | | | | | | |  | | | | Restricted Stock Units | | | | | |  | | | | | | | | | | | | | | | | 1,059 | | | | Annual Incentive Plan Compensation | | | | |"
+    "excerpt": ",059 | | | | Annual Incentive Plan Compensation | | | | | | 1,387,500 | | | | | | | | | | | | | | | | 1,913 | | | | Additional Bonus | | | | | | 208,100 | | | | | | | | | | | | | | | | 287 | | | | All Other Compensation | | | | | | 272,089 | | | | | | | | | | | | | | | | 6,695 | | | | TOTAL | | | | $ | | 7,267,713 | | | | | | | | | | | | | | $ | | 64,001 | | | | CEO Pay to Median Employee Pay Ratio | | | | | | 113.6 | | | | | | | | : | | | | | | | | 1 | | | | | | | | | | | | | | 66 | | | | Church & Dwight Co. | 2019 Proxy Statement | Table of Contents | | | | | | | | | | | | | | | EQUITY COMPENSATION PLAN INFORMATION | EQUITY COMPENSATION PLAN INFORMATION AS OF DECEMBER 31, 2018 The following table provides information as of December 31, 2018, regarding securities issuable under our equity"
    }
   },
   "0001193125-18-093066": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/313927/000119312518093066/d536443ddef14a.htm",
    "periodEnd": "2017-12-31",
@@ -141,7 +141,7 @@
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2017,
-    "excerpt": "ash compensation, we calculated annual total compensation for that employee using the same methodology we use for our named executive officers as set forth in the 2017 Summary Compensation Table in this proxy statement. As illustrated in the table below, our 2017 CEO to median employee pay ratio is 97.8:1. | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | CEO to Median Employee Pay Ratio | | | | | | | | President and CEO | | | | | | | | | | | | Median Employee | | | | Base Salary | | | | $ | | 1,000,000 | | | | | | | | | | | | | | $ | | 56,358 | | | | Option Awards | | | | | | 3,849, 993 | | | | | | | | | | | | | | | |  | | | | Annual Incentive Plan Compensation | | | | | | 1,150,000 | | | | | | | | | | | | | | | | 1,691 | | | | All Other Compensation | | | | | | 259,622 | | |"
+    "excerpt": "56,358 | | | | Option Awards | | | | | | 3,849, 993 | | | | | | | | | | | | | | | |  | | | | Annual Incentive Plan Compensation | | | | | | 1,150,000 | | | | | | | | | | | | | | | | 1,691 | | | | All Other Compensation | | | | | | 259,622 | | | | | | | | | | | | | | | | 5,940 | | | | TOTAL | | | | $ | | 6,259,615 | | | | | | | | | | | | | | $ | | 63,989 | | | | CEO Pay to Median Employee Pay Ratio | | | | | | 97.8 | | | | | | | | : | | | | | | | | 1 | | | | | | | | | | | | | | 60 | | | | Church & Dwight Co. | 2018 Proxy Statement | Table of Contents | | | | | | | | | | | | | | | EQUITY COMPENSATION PLAN INFORMATION | EQUITY COMPENSATION PLAN INFORMATION AS OF DECEMBER 31, 2017 The following table provides information as of December 31, 2017, regarding securities issuable under our equity"
    }
   }
  },

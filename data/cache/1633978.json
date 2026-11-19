@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-26-000420": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-10-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000130817926000420/lite2026-def14a.htm",
    "periodEnd": "2026-06-27",
@@ -17,7 +17,7 @@
    }
   },
   "0001308179-25-000615": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-10-07",
    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000130817925000615/lite014752-def14a.htm",
    "periodEnd": "2025-06-28",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-24-000748": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-10-03",
    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000130817924000748/lite4368861_def14a.htm",
    "periodEnd": "2024-06-29",
@@ -49,7 +49,7 @@
    }
   },
   "0001628280-23-037470": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-11-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000162828023037470/schedule14alitesupplementa.htm",
    "periodEnd": "2023-07-01",
@@ -57,7 +57,7 @@
    "result": null
   },
   "0001308179-23-000998": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-09-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000130817923000998/llite2023_def14a.htm",
    "periodEnd": "2023-07-01",
@@ -73,7 +73,7 @@
    }
   },
   "0001206774-22-002471": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-09-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000120677422002471/lite4083761-def14a.htm",
    "periodEnd": "2022-07-02",
@@ -89,7 +89,7 @@
    }
   },
   "0001206774-21-002547": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-09-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000120677421002547/lite3932931-def14a.htm",
    "periodEnd": "2021-07-03",
@@ -105,7 +105,7 @@
    }
   },
   "0001206774-20-002794": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-09-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000120677420002794/lite3785431-def14a.htm",
    "periodEnd": "2020-06-27",
@@ -121,7 +121,7 @@
    }
   },
   "0001206774-19-003314": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-09-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000120677419003314/lite3636821-def14a.htm",
    "periodEnd": "2019-06-29",
@@ -137,7 +137,7 @@
    }
   },
   "0001206774-18-002797": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-09-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1633978/000120677418002797/lite3411121-def14a.htm",
    "periodEnd": "2018-06-30",
@@ -189,6 +189,10 @@
   "0001628280-26-057358": {
    "parserVersion": 1,
    "employees": 13757
+  },
+  "0001633978-17-000095": {
+   "parserVersion": 2,
+   "employees": 2057
   }
  },
  "facts": {

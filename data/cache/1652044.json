@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-26-000342": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817926000342/goog-20260424.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001308179-25-000511": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817925000511/goog012701-def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-24-000612": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817924000612/lgoog2024_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-000736": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817923000736/lgoog2023_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001308179-22-000262": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817922000262/lgoog2022_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001308179-21-000256": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817921000256/lgoog2021_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001308179-20-000203": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817920000203/lgoog2020_def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,20 +113,36 @@
    }
   },
   "0001308179-19-000205": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817919000205/lgoog2019_def14a.htm",
    "periodEnd": "2018-12-31",
    "tenK": "0001652044-19-000004",
-   "result": null
+   "result": {
+    "ceoPay": 1,
+    "medianPay": 246804,
+    "payRatio": 0.000004,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "xy Statement 51 | | | Back to Contents | ALPHABET CEO PAY RATIO The following table sets forth the ratio of Alphabet Chief Executive Officer Larry's total compensation to that of Alphabet's median employee for the year ended December 31, 2018. | Chief Executive Officer total annual compensation | | $1 | | Median Employee total annual compensation | | $246,804 | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | 1:246,804 or 0.000004 | In 2017, we granted half-size transitional equity awards to align our equity compensation cycle to the calendar year. In 2018, we resumed granting full-size equity awards, resulting in a year-over-year increase in the median employee total annual compensation. To determine the median employee compensation, we analyzed all of A"
+   }
   },
   "0001308179-18-000222": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000130817918000222/lgoog2018-def14a.htm",
    "periodEnd": "2017-12-31",
    "tenK": "0001652044-18-000007",
-   "result": null
+   "result": {
+    "ceoPay": 1,
+    "medianPay": 197274,
+    "payRatio": 0.000005,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "46 Back to Contents ALPHABET CEO PAY RATIO The following table sets forth the ratio of Alphabet Chief Executive Officer Larry Page's total compensation to that of Alphabet's median employee for the year ended December 31, 2017. | | | | | | | Chief Executive Officer total annual compensation | | | | $1 | | Median Employee total annual compensation | | | | $197,274 | | Ratio of Chief Executive Officer to Median Employee total annual compensation | | | | 1:197,274 or 0.000005 | To determine the median employee compensation, we analyzed all of Alphabet's employees, excluding Alphabet's Chief Executive Officer, as of December 31, 2017. We annualized wages and salaries for employees that were not employed for the full year. We used base salary and actual bonus as the consistently applied compens"
+   }
   }
  },
  "tenKs": {
@@ -157,6 +173,14 @@
   "0001652044-26-000018": {
    "parserVersion": 1,
    "employees": 190820
+  },
+  "0001652044-18-000007": {
+   "parserVersion": 2,
+   "employees": 80110
+  },
+  "0001652044-19-000004": {
+   "parserVersion": 2,
+   "employees": 98771
   }
  },
  "facts": {

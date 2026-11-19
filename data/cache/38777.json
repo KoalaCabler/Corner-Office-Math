@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001140361-25-046314": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-12-22",
    "url": "https://www.sec.gov/Archives/edgar/data/38777/000114036125046314/ny20055304x771_def14a.htm",
    "periodEnd": "2025-09-30",
@@ -17,7 +17,7 @@
    }
   },
   "0001140361-24-050019": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-12-20",
    "url": "https://www.sec.gov/Archives/edgar/data/38777/000114036124050019/ny20036387x1_def14a.htm",
    "periodEnd": "2024-09-30",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-23-001092": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-12-27",
    "url": "https://www.sec.gov/Archives/edgar/data/38777/000130817923001092/lben2024_def14a.htm",
    "periodEnd": "2023-09-30",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-22-000433": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-12-28",
    "url": "https://www.sec.gov/Archives/edgar/data/38777/000130817922000433/ben4107981-def14a.htm",
    "periodEnd": "2022-09-30",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-22-000056": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-01-11",
    "url": "https://www.sec.gov/Archives/edgar/data/38777/000120677422000056/ben3966241-def14a.htm",
    "periodEnd": "2021-09-30",
@@ -81,7 +81,7 @@
    }
   },
   "0001206774-20-003248": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-12-28",
    "url": "https://www.sec.gov/Archives/edgar/data/38777/000120677420003248/ben3833951-def14a.htm",
    "periodEnd": "2020-09-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001206774-19-003966": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-12-26",
    "url": "https://www.sec.gov/Archives/edgar/data/38777/000120677419003966/ben3646281-def14a.htm",
    "periodEnd": "2019-09-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-18-003548": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-12-27",
    "url": "https://www.sec.gov/Archives/edgar/data/38777/000120677418003548/franklin3460961-def14a.htm",
    "periodEnd": "2018-09-30",
@@ -129,7 +129,7 @@
    }
   },
   "0001206774-18-000008": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-01-03",
    "url": "https://www.sec.gov/Archives/edgar/data/38777/000120677418000008/franklin3306241-def14a.htm",
    "periodEnd": "2017-09-30",
@@ -161,6 +161,14 @@
   "0000038777-25-000238": {
    "parserVersion": 1,
    "employees": 9800
+  },
+  "0000038777-17-000268": {
+   "parserVersion": 2,
+   "employees": 9400
+  },
+  "0000038777-26-000289": {
+   "parserVersion": 2,
+   "employees": 9900
   }
  },
  "facts": {

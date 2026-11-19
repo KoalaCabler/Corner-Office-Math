@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0002011641-26-000016": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164126000016/ferg-20260315.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0002011641-25-000045": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-10-15",
    "url": "https://www.sec.gov/Archives/edgar/data/2011641/000201164125000045/ferg-20251014.htm",
    "periodEnd": "2025-07-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-237140": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-10-15",
    "url": "https://www.sec.gov/Archives/edgar/data/2011641/000119312524237140/d834558ddef14a.htm",
    "periodEnd": "2024-07-31",

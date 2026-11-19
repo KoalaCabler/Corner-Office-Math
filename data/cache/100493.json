@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000100493-25-000114": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-12-17",
    "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049325000114/tsn-20251217.htm",
    "periodEnd": "2025-09-27",
@@ -17,7 +17,7 @@
    }
   },
   "0000100493-24-000195": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-12-18",
    "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049324000195/tsn-20241218.htm",
    "periodEnd": "2024-09-28",
@@ -33,7 +33,7 @@
    }
   },
   "0000100493-23-000136": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-12-21",
    "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049323000136/tsn-20231221.htm",
    "periodEnd": "2023-09-30",
@@ -49,7 +49,7 @@
    }
   },
   "0000100493-22-000129": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-12-21",
    "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049322000129/a2022proxystatement.htm",
    "periodEnd": "2022-10-01",
@@ -65,7 +65,7 @@
    }
   },
   "0000100493-21-000194": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-12-22",
    "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049321000194/a2021proxystatement.htm",
    "periodEnd": "2021-10-02",
@@ -81,7 +81,7 @@
    }
   },
   "0000100493-20-000207": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-12-23",
    "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049320000207/proxystatement-2020.htm",
    "periodEnd": "2020-10-03",
@@ -97,7 +97,7 @@
    }
   },
   "0000100493-19-000170": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-12-20",
    "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049319000170/proxystatement-2019.htm",
    "periodEnd": "2019-09-28",
@@ -113,7 +113,7 @@
    }
   },
   "0000100493-18-000169": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-12-20",
    "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049318000169/proxystatement-2018.htm",
    "periodEnd": "2018-09-29",
@@ -129,7 +129,16 @@
    }
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0000100493-17-000133": {
+   "parserVersion": 2,
+   "employees": 122000
+  },
+  "0000100493-26-000079": {
+   "parserVersion": 2,
+   "employees": 124000
+  }
+ },
  "facts": {
   "revenue": {
    "2008": {

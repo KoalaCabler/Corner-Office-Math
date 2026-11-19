@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000827054-26-000026": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-07-06",
    "url": "https://www.sec.gov/Archives/edgar/data/827054/000082705426000026/mchp-20260701.htm",
    "periodEnd": "2026-03-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000827054-25-000099": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-07-07",
    "url": "https://www.sec.gov/Archives/edgar/data/827054/000082705425000099/mchp-20250702.htm",
    "periodEnd": "2025-03-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000827054-24-000128": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-07-08",
    "url": "https://www.sec.gov/Archives/edgar/data/827054/000082705424000128/mchp-20240708.htm",
    "periodEnd": "2024-03-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000827054-23-000104": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-07-07",
    "url": "https://www.sec.gov/Archives/edgar/data/827054/000082705423000104/mchp-20230707.htm",
    "periodEnd": "2023-03-31",
@@ -65,7 +65,7 @@
    }
   },
   "0000827054-22-000137": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-07-14",
    "url": "https://www.sec.gov/Archives/edgar/data/827054/000082705422000137/a2022proxy.htm",
    "periodEnd": "2022-03-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000827054-21-000174": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-07-19",
    "url": "https://www.sec.gov/Archives/edgar/data/827054/000082705421000174/a2021proxy.htm",
    "periodEnd": "2021-03-31",
@@ -97,7 +97,7 @@
    }
   },
   "0000827054-20-000175": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-07-14",
    "url": "https://www.sec.gov/Archives/edgar/data/827054/000082705420000175/a2020proxy.htm",
    "periodEnd": "2020-03-31",
@@ -113,7 +113,7 @@
    }
   },
   "0000827054-19-000187": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-07-15",
    "url": "https://www.sec.gov/Archives/edgar/data/827054/000082705419000187/a2019proxy.htm",
    "periodEnd": "2019-03-31",
@@ -129,7 +129,7 @@
    }
   },
   "0000827054-18-000137": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-07-12",
    "url": "https://www.sec.gov/Archives/edgar/data/827054/000082705418000137/a2018proxy.htm",
    "periodEnd": "2018-03-31",
@@ -165,6 +165,10 @@
   "0000827054-22-000094": {
    "parserVersion": 1,
    "employees": 21000
+  },
+  "0000827054-17-000098": {
+   "parserVersion": 2,
+   "employees": 12656
   }
  },
  "facts": {

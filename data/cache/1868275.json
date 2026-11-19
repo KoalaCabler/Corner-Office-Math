@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001552781-26-000140": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1868275/000155278126000140/e26004_ceg-def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001552781-25-000090": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1868275/000155278125000090/e25015_ceg-def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001552781-24-000159": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1868275/000155278124000159/e24016_ceg-def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001552781-23-000110": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1868275/000155278123000110/e23042_ceg-def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,12 @@
    }
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0001868275-22-000020": {
+   "parserVersion": 2,
+   "employees": 12700
+  }
+ },
  "facts": {
   "revenue": {
    "2020": {

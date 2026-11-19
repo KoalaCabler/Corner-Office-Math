@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001510295-26-000023": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029526000023/mpc-20260316.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001510295-25-000023": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029525000023/mpc-20250317.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001510295-24-000033": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029524000033/mpc-20240313.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001510295-23-000028": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029523000028/mpc-20230313.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001510295-22-000023": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029522000023/a2022mpcproxystatement.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001510295-21-000046": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029521000046/a2021mpcproxystatement.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001510295-20-000017": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029520000017/a2020mpcproxystatement.htm",
    "periodEnd": "2019-12-31",
@@ -113,15 +113,23 @@
    }
   },
   "0001510295-19-000021": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000151029519000021/def14a_2019mpcproxystateme.htm",
    "periodEnd": "2018-12-31",
    "tenK": "0001510295-19-000014",
-   "result": null
+   "result": {
+    "ceoPay": 19806050,
+    "medianPay": 27730,
+    "payRatio": 714,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "ur employees. Our median employee's total compensation was calculated using the same methodology required by the SEC rules for disclosure of compensation to the principal executive officer in the \" 2018 Summary Compensation Table.\" | | | | | | | | | | | Mr. Heminger's annual total compensation: | | $ | | 19,806,050 | | | | Median Employee annual total compensation: | | $ | | 27,730 | | | | Ratio of CEO to Median Employee Compensation: | | 714 | | | Our Ratio in Context Our ratio may be relatively high when compared to other domestic U.S. refiners. This expected difference is largely due to our substantial retail operations (approximately 3,900 stores), staffed by approximately 40,000 employees, many of whom are part-time employees. We are the only entirely domestic downstream refining comp"
+   }
   },
   "0001193125-18-084039": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1510295/000119312518084039/d496012ddef14a.htm",
    "periodEnd": "2017-12-31",
@@ -161,6 +169,10 @@
   "0001510295-24-000015": {
    "parserVersion": 1,
    "employees": 18200
+  },
+  "0001510295-19-000014": {
+   "parserVersion": 2,
+   "employees": 60350
   }
  },
  "facts": {

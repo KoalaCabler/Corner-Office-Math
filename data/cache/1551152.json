@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001104659-26-033387": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000110465926033387/abbv-20260508xdef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001558370-25-003537": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837025003537/abbv-20250509xdef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001558370-24-003496": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837024003496/abbv-20240503xdef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001558370-23-004204": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837023004204/abbv-20230505xdef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001558370-22-004011": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837022004011/tmb-20220506xdef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,23 +81,23 @@
    }
   },
   "0001558370-21-003318": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000155837021003318/tmb-20210507xdef14a.htm",
    "periodEnd": "2020-12-31",
    "tenK": "0001551152-21-000008",
    "result": {
-    "ceoPay": null,
-    "medianPay": 155772,
-    "payRatio": 154,
-    "method": "ratio-and-median",
+    "ceoPay": 6045599,
+    "medianPay": 14884,
+    "payRatio": 402,
+    "method": "cross-checked",
     "employees": null,
     "statedYear": 2020,
-    "excerpt": "onable estimate calculated in a manner consistent with Regulation S-K Item 402(u). The ratio of Mr. Gonzalez's annual total compensation for 2020, as reported in the Summary Compensation Table in this proxy statement, to the median employee annual total compensation determined on the same basis was 154:1. For 2020, the annual total compensation of our median employee (other than Mr. Gonzalez) was $155,772. To identify the median employee, we prepared a list of active AbbVie employees throughout the world as of December 25, 2020. In accordance with SEC rules, we omitted approximately 16,935 legacy Allergan employees who became our employees during 2020 as a result of our acquisition of Allergan plc. The consistently applied compensation measure used to identify the median employee was annua"
+    "excerpt": "income to the NEO, if required, and the NEO pays taxes in accordance with tax regulations without gross-ups. The totals shown in the table include the following costs for non-business-related air travel and services: R. Gonzalez: $340,001; R. Michael; $11,321; L. Schumacher: $9,818; and M. Severino $14,884. AbbVie determines the incremental cost for flights based on the direct cost to AbbVie, including fuel costs, parking, handling and landing fees, catering, travel fees, and other miscellaneous direct costs. AbbVie imputes income to the NEO, if required, and the NEO pays taxes in accordance with tax regulations without gross-ups. For Mr. Gonzalez, the total includes $92,614 for costs associated with security, determined based on AbbVie's actual costs for such services. The security was pr"
    }
   },
   "0001047469-20-001710": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746920001710/a2241076zdef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,23 +113,23 @@
    }
   },
   "0001047469-19-001544": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746919001544/a2238040zdef14a.htm",
    "periodEnd": "2018-12-31",
    "tenK": "0001551152-19-000008",
    "result": {
-    "ceoPay": null,
-    "medianPay": 148823,
-    "payRatio": 143,
-    "method": "ratio-and-median",
+    "ceoPay": 598447,
+    "medianPay": 31945,
+    "payRatio": 19,
+    "method": "cross-checked",
     "employees": null,
-    "statedYear": 2018,
-    "excerpt": "onable estimate calculated in a manner consistent with Regulation S-K Item 402(u). The ratio of Mr. Gonzalez's annual total compensation for 2018, as reported in the Summary Compensation Table in this proxy statement, to the median employee annual total compensation determined on the same basis was 143:1. For 2018, the annual total compensation of our median employee (other than Mr. Gonzalez) was $148,823. To identify the median employee, we prepared a list of all active AbbVie employees throughout the world as of December 28, 2018. The consistently applied compensation measure used to identify the median employee was annual base pay and target 48 | 2019 Proxy Statement Table of Contents | EXECUTIVE COMPENSATION | bonus, using hours worked during 2018 for hourly employees and base salary f"
+    "statedYear": null,
+    "excerpt": "r each NEO other than Mr. Michael, whose 2018 allowance was $6,500. AbbVie imputes income to the NEO, if required, and the NEO pays taxes in accordance with tax regulations without gross-ups. The totals shown in the table include the following costs for non-business-related air travel: R. Gonzalez: $598,447; W. Chase: $31,945; and L. Schumacher: $16,426. AbbVie determines the incremental cost for flights based on the direct cost to AbbVie, including fuel costs, parking, handling and landing fees, catering, travel fees, and other miscellaneous direct costs. AbbVie imputes income to the NEO, if required, and the NEO pays taxes in accordance with tax regulations without gross-ups. For Mr. Gonzalez, the total includes $32,666 for costs associated with security, determined based on AbbVie's act"
    }
   },
   "0001047469-18-001843": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1551152/000104746918001843/a2234787zdef14a.htm",
    "periodEnd": "2017-12-31",

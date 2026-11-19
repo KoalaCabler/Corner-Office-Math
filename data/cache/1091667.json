@@ -1,87 +1,176 @@
 {
  "proxies": {
   "0001140361-26-009220": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000114036126009220/ny20062718x1_def14a.htm",
    "periodEnd": "2025-12-31",
    "tenK": "0001091667-26-000017",
-   "result": null
+   "result": {
+    "ceoPay": 79159,
+    "medianPay": 79159,
+    "payRatio": 1,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "l annual compensation for the CEO to that of the Median Employee. In 2025, a new Median Employee was identified for purposes of calculating our CEO Pay Ratio. The Median Employee for 2025 was identified using the same methodology as in prior years and based on an analysis of the median 2025 W-2 Box 1 income among the approximately 92,000 full and part-time U.S. employees, other than the CEO, who were actively employed by Charter as of December 31, 2025 (Charter has no employees outside of the U.S.). No adjustments were applied to W-2 Box 1 income for purposes of determining the Median Employee, such as for employees who were employed for only part of the year or on unpaid leave of absence at some point during the year. Charter's CEO Pay Ratio is a reasonable estimate calculated in a manner"
+   }
   },
   "0001140361-25-008627": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000114036125008627/ny20042259x1_def14a.htm",
    "periodEnd": "2024-12-31",
    "tenK": "0001091667-25-000034",
-   "result": null
+   "result": {
+    "ceoPay": 69829,
+    "medianPay": 69829,
+    "payRatio": 1,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "l annual compensation for the CEO to that of the Median Employee. In 2022, a new Median Employee was identified for purposes of calculating our CEO Pay Ratio. The Median Employee for 2022 was identified using the same methodology as in prior years and based on an analysis of the median 2022 W-2 Box 1 income among the 101,700 full and part-time U.S. employees, other than the CEO, who were actively employed by Charter as of December 31, 2022 (Charter has no employees outside of the U.S.). No adjustments were applied to W-2 Box 1 income for purposes of determining the Median Employee, such as for employees who were employed for only part of the year or on unpaid leave of absence at some point during the year. As of December 31, 2024, Charter had 94,500 full and part-time active U.S. employees"
+   }
   },
   "0001193125-24-067965": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312524067965/d534477ddef14a.htm",
    "periodEnd": "2023-12-31",
    "tenK": "0001091667-24-000028",
-   "result": null
+   "result": {
+    "ceoPay": 89077078,
+    "medianPay": 54476,
+    "payRatio": 1635.2,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "but are not included in the measure of total annual compensation used to calculate the pay ratio. The ratio of the CEO's total annual compensation as disclosed in the Summary Compensation Table relative to that of the Median Employee was as follows: | | | | | | CEO Total Annual Compensation | | | | $ | | 89,077,078 | | | | Median Employee Total Annual Compensation | | | | $ | | 54,476 | | | | Ratio of CEO to Median Employee Total Annual Compensation | | | | | | 1,635.2 | | | As approximately 75% of the CEO's compensation disclosed in the Summary Compensation Table was from equity awards made under the 2023 Performance Equity Program - which is intended to provide value over a multi-year period and described in further detail in the in the Compensation Discussion and Analysis - an alternati"
+   }
   },
   "0001193125-23-072624": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312523072624/d460546ddef14a.htm",
    "periodEnd": "2022-12-31",
    "tenK": "0001091667-23-000024",
-   "result": null
+   "result": {
+    "ceoPay": 1700000,
+    "medianPay": 55429,
+    "payRatio": 31,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "ar or on unpaid leave of absence at some point during the year. With respect to the CEO Total Annual Compensation used in calculating the CEO Pay Ratio, the role of CEO transitioned from Mr. Rutledge to Mr. Winfrey effective December 1, 2022, with Mr. Winfrey therefore serving as CEO as of December 31, 2022 when Charter determined the Median Employee. As permitted by Item 402(u), the CEO Pay Ratio was therefore calculated using Mr. Winfrey's total compensation corresponding to his service as CEO, with such compensation annualized as if it had been in effect for the full year. The table below provides further detail regarding how the various pay elements disclosed in the Summary Compensation Table for Mr. Winfrey were annualized. | | | | | | | | | | | | | | | | | | | | | | | | | | | Summary"
+   }
   },
   "0001193125-22-078350": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312522078350/d243396ddef14a.htm",
    "periodEnd": "2021-12-31",
    "tenK": "0001091667-22-000024",
-   "result": null
+   "result": {
+    "ceoPay": 41860263,
+    "medianPay": 60007,
+    "payRatio": 697.6,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "s, which provide significant additional value but are not included in the measure of total annual compensation used to calculate the pay ratio. The ratio of the CEOs total annual compensation to that of the Median Employee was as follows: | | | | | | | | | | | CEO Total Annual Compensation | | | | $ | | 41,860,263 | | | | Median Employee Total Annual Compensation | | | | $ | | 60,007 | | | | Ratio of CEO to Median Employee Total Annual Compensation | | | | | | 697.6 | | | Code of Ethics We have adopted a Financial Code of Ethics within the meaning of federal securities regulations for our employees, including all executive officers and directors. We also established a hotline and website for reporting alleged violations of the Financial Code of Ethics, established procedures for processin"
+   }
   },
   "0001193125-21-085916": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312521085916/d102224ddef14a.htm",
    "periodEnd": "2020-12-31",
    "tenK": "0001091667-21-000022",
-   "result": null
+   "result": {
+    "ceoPay": 38846705,
+    "medianPay": 56568,
+    "payRatio": 686.7,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "s, which provide significant additional value but are not included in the measure of total annual compensation used to calculate the pay ratio. The ratio of the CEOs total annual compensation to that of the Median Employee was as follows: | | | | | | | | | | | CEO Total Annual Compensation | | | | $ | | 38,846,705 | | | | Median Employee Total Annual Compensation | | | | $ | | 56,568 | | | | Ratio of CEO to Median Employee Total Annual Compensation | | | | | | 686.7 | | | Code of Ethics We have adopted a Financial Code of Ethics within the meaning of federal securities regulations for our employees, including all executive officers and directors. We also established a hotline and website for reporting alleged violations of the Financial Code of Ethics, established procedures for processin"
+   }
   },
   "0001193125-20-078940": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312520078940/d859544ddef14a.htm",
    "periodEnd": "2019-12-31",
    "tenK": "0001091667-20-000024",
-   "result": null
+   "result": {
+    "ceoPay": 8743601,
+    "medianPay": 57625,
+    "payRatio": 151.7,
+    "method": "cross-checked",
+    "employees": 95064,
+    "statedYear": 2021,
+    "excerpt": "s, which provide significant additional value but are not included in the measure of total annual compensation used to calculate the pay ratio. The ratio of the CEOs total annual compensation to that of the Median Employee was as follows: | | | | | | | | | | | CEO Total Annual Compensation | | | | $ | | 8,743,601 | | | | Median Employee Total Annual Compensation | | | | $ | | 57,625 | | | | Ratio of CEO to Median Employee Total Annual Compensation | | | | | | 151.7 | | | Code of Ethics We have adopted a Financial Code of Ethics within the meaning of federal securities regulations for our employees, including all executive officers and directors. We also established a hotline and website for reporting alleged violations of the Financial Code of Ethics, established procedures for processing"
+   }
   },
   "0001193125-19-074765": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312519074765/d717086ddef14a.htm",
    "periodEnd": "2018-12-31",
    "tenK": "0001091667-19-000029",
-   "result": null
+   "result": {
+    "ceoPay": 55560,
+    "medianPay": 55560,
+    "payRatio": 1,
+    "method": "cross-checked",
+    "employees": 95064,
+    "statedYear": 2018,
+    "excerpt": "Employee pay ratio for 2018 was calculated pursuant to Item 402(u) of Regulation S-K, comparing total annual compensation for the CEO to that of the Median Employee. In 2017, for purposes of calculating the pay ratio, the Median Employee was selected based on an analysis of the median 2017 W-2 Box 1 income among all full and part-time U.S. employees, other than the CEO, who were actively employed by Charter as of December 31, 2017. No adjustments were applied to W-2 Box 1 income for purposes of determining the Median Employee, such as for employees who were employed for only part of the year or on unpaid leave of absence at some point during the year. Charters employees outside of the U.S. were excluded from this analysis on the basis that they collectively represented less than 5% of Ch"
+   }
   },
   "0001193125-18-084077": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1091667/000119312518084077/d544693ddef14a.htm",
    "periodEnd": "2017-12-31",
    "tenK": "0001091667-18-000025",
    "result": {
-    "ceoPay": 7813316,
+    "ceoPay": 52722,
     "medianPay": 52722,
-    "payRatio": 148,
+    "payRatio": 1,
     "method": "cross-checked",
     "employees": 95064,
     "statedYear": 2017,
-    "excerpt": "s, which provide significant additional value but are not included in the measure of total annual compensation used to calculate the pay ratio. The ratio of the CEOs total annual compensation to that of the Median Employee was as follows: | | | | | | | | | | | CEO Total Annual Compensation | | | | $ | | 7,813,316 | | | | Median Employee Total Annual Compensation | | | | $ | | 52,722 | | | | Ratio of CEO to Median Employee Total Annual Compensation | | | | | | 148 : 1 | | | 63 Section 16(a) Beneficial Ownership Reporting Requirement Section 16 of the Exchange Act requires our directors and certain of our officers, and persons who own more than 10% of our common stock, to file initial reports of ownership and reports of changes in ownership of our common stock and other of our equity securi"
+    "excerpt": "to Median Employee pay ratio for 2017 was calculated pursuant to Item 402(u) of Regulation S-K, comparing total annual compensation for the CEO to that of the Median Employee. For purposes of calculating the pay ratio, the Median Employee was selected based on an analysis of the median 2017 W-2 Box 1 income among all full and part-time U.S. employees, other than the CEO, who were actively employed by Charter as of December 31, 2017. No adjustments were applied to W-2 Box 1 income for purposes of determining the Median Employee, such as for employees who were employed for only part of the year or on unpaid leave of absence at some point during the year. Charters employees outside of the U.S. were excluded from this analysis on the basis that they collectively represented less than 5% of Ch"
    }
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0001091667-21-000022": {
+   "parserVersion": 2,
+   "employees": null
+  },
+  "0001091667-22-000024": {
+   "parserVersion": 2,
+   "employees": null
+  },
+  "0001091667-23-000024": {
+   "parserVersion": 2,
+   "employees": null
+  },
+  "0001091667-24-000028": {
+   "parserVersion": 2,
+   "employees": null
+  },
+  "0001091667-25-000034": {
+   "parserVersion": 2,
+   "employees": null
+  },
+  "0001091667-26-000017": {
+   "parserVersion": 2,
+   "employees": null
+  }
+ },
  "facts": {
   "revenue": {
    "2010": {

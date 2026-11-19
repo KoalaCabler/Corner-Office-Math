@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-129074": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/789570/000119312526129074/d899213ddef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-066345": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/789570/000119312525066345/d858403ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-074463": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/789570/000119312524074463/d743019ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-077890": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/789570/000119312523077890/d408488ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001140361-22-011198": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/789570/000114036122011198/ny20001312x1_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001140361-21-010237": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/789570/000114036121010237/nc10017770x2_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -89,15 +89,15 @@
    "result": {
     "ceoPay": 14000684,
     "medianPay": 35526,
-    "payRatio": 394,
+    "payRatio": 402,
     "method": "cross-checked",
     "employees": 60820,
     "statedYear": 2020,
-    "excerpt": "r. To calculate the annual total compensation of the median employee, we annualized the median employee's 2020 wages. Based on this, we determined that the median of the annual total compensation of all our employees, excluding the Chief Executive Officer in office as of the Determination Date, was $35,526 and the annual total compensation of Mr. Hornbuckle was $14,000,684, resulting in a ratio of the annual total compensation of our Chief Executive Officer to the median of the annual total compensation of all other employees included in our calculations of 394:1. We believe this pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. Because the SEC rules for identifying the median of the annual total compensation of our employees and calcu"
+    "excerpt": "ions generally continue for the 12-month period following termination (or for such period that remains in the term of the agreement if less than 12 months). 75 TABLE OF CONTENTS CEO PAY RATIO DISCLOSURE As required by Section 953(b) of the Dodd-Frank Wall Street and Consumer Protection Act and Item 402(u) of Regulation S-K, we are providing the following information about the relationship of the annual total compensation of Mr. Hornbuckle, our Chief Executive Officer as of the Determination Date (as defined below), and the annual total compensation of our employees. Pursuant to the applicable SEC rules, in order to calculate the pay ratio for 2020, we re-identified the median employee for 2020. To identify the median of the annual total compensation of all our employees (other than the CEO"
    }
   },
   "0001140361-20-007210": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/789570/000114036120007210/nc10010344x1_def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-19-080934": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/789570/000119312519080934/d378482ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-090787": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/789570/000119312518090787/d509157ddef14a.htm",
    "periodEnd": "2017-12-31",

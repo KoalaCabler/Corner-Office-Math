@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000936468-26-000004": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/936468/000093646826000004/lmt-20260326.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000936468-25-000015": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/936468/000093646825000015/lmt-20250327.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000936468-24-000032": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/936468/000093646824000032/lmt-20240315.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000936468-23-000034": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/936468/000093646823000034/lmt-20230313.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0000936468-22-000033": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-11",
    "url": "https://www.sec.gov/Archives/edgar/data/936468/000093646822000033/lockheedmartin2022proxy.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000936468-21-000035": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-12",
    "url": "https://www.sec.gov/Archives/edgar/data/936468/000093646821000035/lockheedmartin2021proxy.htm",
    "periodEnd": "2020-12-31",
@@ -97,23 +97,23 @@
    }
   },
   "0000936468-20-000024": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-11",
    "url": "https://www.sec.gov/Archives/edgar/data/936468/000093646820000024/lockheedmartin2020proxy.htm",
    "periodEnd": "2019-12-31",
    "tenK": "0000936468-20-000016",
    "result": {
-    "ceoPay": null,
-    "medianPay": 154883,
-    "payRatio": 200,
-    "method": "ratio-and-median",
+    "ceoPay": 15877606,
+    "medianPay": 40700,
+    "payRatio": 402,
+    "method": "cross-checked",
     "employees": null,
-    "statedYear": 2019,
-    "excerpt": "the median of the annual total compensation of all of its employees (excluding the CEO), the annual total compensation of its CEO, and the ratio of the CEO compensation to the employee median compensation. The ratio of CEO pay to the pay of the Corporation's median employee for fiscal year 2019 is 200 to one. Lockheed Martin employs approximately 110,000 employees that are, in large part, highly-skilled professionals located primarily in the United States, but also represented in numerous other countries. For purposes of the fiscal year 2019 CEO pay ratio set forth above, we used the same median employee identified with respect to our fiscal year 2018 CEO pay ratio, because there has not been a change in our employee population or employee compensation arrangements that we believe would s"
+    "statedYear": 2018,
+    "excerpt": "of the \"Outstanding Equity Awards at 2019 Fiscal Year-End Table\" and for 2018-2020 and 2019-2021 in column (j) of that table. The prorated amounts for a trigger event occurring on December 31, 2019 plus deferred dividend equivalents that accrued are for each cycle: (i) 2017-2019 cycle: Ms. Hewson: $15,877,606; Mr. Possenriede: $214,059; Mr. Ambrose: $3,676,261; Mr. Bennett: $4,478,257; Ms. Evans: $214,059; and Mr. St. John: $235,589; and (ii) 2018-2020 cycle: Ms. Hewson: $7,684,362; Mr. Possenriede: $95,546; Mr. Ambrose: $2,261,398; Mr. Bennett: $2,261,398; Ms. Evans: $119,128; and Mr. St. John: $2,261,398; and (iii) 2019-2021 cycle: Ms. Hewson: $3,727,243; Mr. Possenriede: $1,173,229; Mr. Ambrose: $1,023,438; Mr. Bennett: $1,023,438; Ms. Evans: $1,023,438; and Mr. St. John: $1,023,438. T"
    }
   },
   "0000936468-19-000014": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/936468/000093646819000014/lockheedmartin2019proxy.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001206774-18-000848": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/936468/000120677418000848/lockheed3346761-def14a.htm",
    "periodEnd": "2017-12-31",

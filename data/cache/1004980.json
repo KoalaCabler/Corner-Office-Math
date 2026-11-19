@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001004980-26-000020": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1004980/000100498026000020/pcg-20260409.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001004980-25-000073": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1004980/000100498025000073/pcg-20250409.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001004980-24-000044": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1004980/000100498024000044/pcg-20240404.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001004980-23-000072": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1004980/000100498023000072/pcg-20230331.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001004980-22-000059": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/1004980/000100498022000059/pcg-corp_lpcg2022xdef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001308179-21-000200": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1004980/000130817921000200/lpcg2021_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001308179-19-000209": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-05-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1004980/000130817919000209/lpcg2019_def14a.htm",
    "periodEnd": "2018-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001308179-18-000082": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1004980/000130817918000082/lpcg2018_def14a.htm",
    "periodEnd": "2017-12-31",
@@ -129,7 +129,12 @@
    }
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0001004980-20-000009": {
+   "parserVersion": 2,
+   "employees": 23000
+  }
+ },
  "facts": {
   "revenue": {
    "2007": {

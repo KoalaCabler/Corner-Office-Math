@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001140361-26-018265": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-30",
    "url": "https://www.sec.gov/Archives/edgar/data/764478/000114036126018265/ny20063180x1_def14a.htm",
    "periodEnd": "2026-01-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001140361-25-016935": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-05-01",
    "url": "https://www.sec.gov/Archives/edgar/data/764478/000114036125016935/ny20041064x771_def14a.htm",
    "periodEnd": "2025-02-01",
@@ -33,7 +33,7 @@
    }
   },
   "0001140361-24-023237": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-30",
    "url": "https://www.sec.gov/Archives/edgar/data/764478/000114036124023237/ny20018247x1_def14a.htm",
    "periodEnd": "2024-02-03",
@@ -49,7 +49,7 @@
    }
   },
   "0001140361-23-022482": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-05-02",
    "url": "https://www.sec.gov/Archives/edgar/data/764478/000114036123022482/ny20006533x1_def14a.htm",
    "periodEnd": "2023-01-28",
@@ -65,7 +65,7 @@
    }
   },
   "0001140361-22-016250": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-27",
    "url": "https://www.sec.gov/Archives/edgar/data/764478/000114036122016250/ny20001944x1_def14a.htm",
    "periodEnd": "2022-01-29",
@@ -81,7 +81,7 @@
    }
   },
   "0001140361-21-015963": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-05-05",
    "url": "https://www.sec.gov/Archives/edgar/data/764478/000114036121015963/nc10018363x1_def14a.htm",
    "periodEnd": "2021-01-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001140361-20-010133": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/764478/000114036120010133/nc10007505x3_def14a.htm",
    "periodEnd": "2020-02-01",
@@ -113,7 +113,7 @@
    }
   },
   "0001140361-19-008156": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-05-01",
    "url": "https://www.sec.gov/Archives/edgar/data/764478/000114036119008156/nc10000834x1_def14a.htm",
    "periodEnd": "2019-02-02",
@@ -129,7 +129,7 @@
    }
   },
   "0000764478-18-000017": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-05-02",
    "url": "https://www.sec.gov/Archives/edgar/data/764478/000076447818000017/bbydefinitiveproxy2018.htm",
    "periodEnd": "2018-02-03",
@@ -145,7 +145,12 @@
    }
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0000764478-17-000008": {
+   "parserVersion": 2,
+   "employees": 125000
+  }
+ },
  "facts": {
   "revenue": {
    "2008": {

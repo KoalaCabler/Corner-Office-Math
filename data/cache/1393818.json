@@ -1,6 +1,43 @@
 {
  "proxies": {},
- "tenKs": {},
+ "tenKs": {
+  "0001193125-18-067079": {
+   "parserVersion": 2,
+   "employees": 2360
+  },
+  "0001193125-19-061011": {
+   "parserVersion": 2,
+   "employees": 410
+  },
+  "0001193125-20-056733": {
+   "parserVersion": 2,
+   "employees": 2905
+  },
+  "0001193125-21-060361": {
+   "parserVersion": 2,
+   "employees": 3165
+  },
+  "0001193125-22-054433": {
+   "parserVersion": 2,
+   "employees": 3795
+  },
+  "0001193125-23-048733": {
+   "parserVersion": 2,
+   "employees": 4695
+  },
+  "0001193125-24-044485": {
+   "parserVersion": 2,
+   "employees": 4735
+  },
+  "0001193125-25-042469": {
+   "parserVersion": 2,
+   "employees": 4895
+  },
+  "0001193125-26-082531": {
+   "parserVersion": 2,
+   "employees": 5285
+  }
+ },
  "facts": {
   "revenue": {
    "2008": {

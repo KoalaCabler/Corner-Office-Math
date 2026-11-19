@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-126280": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1389170/000119312526126280/trgp-20260326.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-067057": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1389170/000119312525067057/d909508ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-073912": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1389170/000119312524073912/d794370ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-085626": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1389170/000119312523085626/d433659ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-091791": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-31",
    "url": "https://www.sec.gov/Archives/edgar/data/1389170/000119312522091791/d285039ddef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-21-103974": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/1389170/000119312521103974/d943487ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001564590-20-013624": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1389170/000156459020013624/trgp-def14a_20200519.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-19-092766": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1389170/000119312519092766/d641553ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-102225": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1389170/000119312518102225/d559871ddef14a.htm",
    "periodEnd": "2017-12-31",

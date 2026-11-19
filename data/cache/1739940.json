@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001739940-26-000023": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1739940/000173994026000023/ci-20260312.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001739940-25-000015": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1739940/000173994025000015/ci-20250314.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001739940-24-000010": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1739940/000173994024000010/ci-20240315.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001140361-23-012300": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036123012300/ny20006075x2_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001140361-22-010160": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036122010160/ny20002777x1_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001140361-21-009343": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036121009343/nc10021080x1_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001140361-20-005769": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036120005769/nc10005480x1_def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001140361-19-005025": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1739940/000114036119005025/s002722x1_def14a.htm",
    "periodEnd": "2018-12-31",

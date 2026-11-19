@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-127556": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/33185/000119312526127556/d947238ddef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001104659-25-029348": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/33185/000110465925029348/tm2423995d11_def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-24-000243": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/33185/000130817924000243/lefx2024_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-000314": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/33185/000130817923000314/lefx2023_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001308179-22-000112": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/33185/000130817922000112/lefx2022_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001308179-21-000102": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/33185/000130817921000102/lefx2021_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001308179-20-000090": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/33185/000130817920000090/efx2020-def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001308179-19-000056": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/33185/000130817919000056/lefx2019_def14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001308179-18-000113": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-02",
    "url": "https://www.sec.gov/Archives/edgar/data/33185/000130817918000113/lefx2018_def14a.htm",
    "periodEnd": "2017-12-31",

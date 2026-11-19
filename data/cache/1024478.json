@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-25-000665": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-12-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1024478/000130817925000665/rok014559-def14a.htm",
    "periodEnd": "2025-09-30",
@@ -17,7 +17,7 @@
    }
   },
   "0001308179-24-000829": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-12-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1024478/000130817924000829/rok4392763-def14a.htm",
    "periodEnd": "2024-09-30",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-23-001086": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-12-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1024478/000130817923001086/lrok2023_def14a.htm",
    "periodEnd": "2023-09-30",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-22-000421": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-12-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1024478/000130817922000421/lrok2022_def14a.htm",
    "periodEnd": "2022-09-30",
@@ -65,7 +65,7 @@
    }
   },
   "0001308179-21-000345": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-12-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1024478/000130817921000345/lrok2021_def14a.htm",
    "periodEnd": "2021-09-30",
@@ -81,7 +81,7 @@
    }
   },
   "0001308179-20-000294": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-12-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1024478/000130817920000294/lrok2020_def14a.htm",
    "periodEnd": "2020-09-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001308179-19-000257": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-12-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1024478/000130817919000257/lrok2019_def14a.htm",
    "periodEnd": "2019-09-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001308179-18-000290": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-12-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1024478/000130817918000290/lrok2018_def14a.htm",
    "periodEnd": "2018-09-30",
@@ -139,27 +139,35 @@
    "employees": 23000
   },
   "0001024478-20-000038": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001024478-21-000083": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001024478-22-000093": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001024478-23-000126": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001024478-24-000107": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001024478-25-000116": {
-   "parserVersion": 1,
+   "parserVersion": 2,
+   "employees": null
+  },
+  "0001024478-17-000034": {
+   "parserVersion": 2,
+   "employees": 22000
+  },
+  "0001024478-26-000048": {
+   "parserVersion": 2,
    "employees": null
   }
  },

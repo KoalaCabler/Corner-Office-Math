@@ -1,79 +1,184 @@
 {
  "proxies": {
   "0001193125-26-133303": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-31",
    "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312526133303/d94896ddef14a.htm",
    "periodEnd": "2025-12-31",
    "tenK": "0000062709-26-000022",
-   "result": null
+   "result": {
+    "ceoPay": 25051051,
+    "medianPay": 76092,
+    "payRatio": 330,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2025,
+    "excerpt": "(excluding for purposes of this disclosure, our CEO) for our last completed fiscal year, which ended December 31, 2025. The ratio of the annual total compensation for our CEO (Mr. Doyle) compared to the median of the annual total compensation of all of our employees (excluding our CEO) for 2025 is 330. We believe this ratio to be a reasonable estimate, based upon the assumptions and adjustments described below. The ratio for 2025 is based on the annual total compensation of the Company's median employee (excluding our CEO) and our CEO (as disclosed in the 2025 Summary Compensation Table in this proxy statement), as follows: | | | | | | | | | | | | | | • Median employee: | | | | $76,092 | | | | | | | | | | | | | | | | | • CEO: | | | | $25,051,051 | | | | | | | | | | | | | | | | We identifi"
+   }
   },
   "0001193125-25-066228": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312525066228/d878421ddef14a.htm",
    "periodEnd": "2024-12-31",
    "tenK": "0000062709-25-000015",
-   "result": null
+   "result": {
+    "ceoPay": 22807539,
+    "medianPay": 72671,
+    "payRatio": 314,
+    "method": "cross-checked",
+    "employees": 3500,
+    "statedYear": 2024,
+    "excerpt": "(excluding for purposes of this disclosure, our CEO) for our last completed fiscal year, which ended December 31, 2024. The ratio of the annual total compensation for our CEO (Mr. Doyle) compared to the median of the annual total compensation of all of our employees (excluding our CEO) for 2024 is 314. We believe this ratio to be a reasonable estimate, based upon the assumptions and adjustments described below. The ratio for 2024 is based on the annual total compensation of the Company's median employee (excluding our CEO) and our CEO (as disclosed in the 2024 Summary Compensation Table in this proxy statement), as follows: | | | | • Median employee: | | | | $72,671 | | • CEO: | | | | $22,807,539 | As permitted under SEC rules, the median employee that was used for purposes of calculating"
+   }
   },
   "0001193125-24-081524": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312524081524/d365210ddef14a.htm",
    "periodEnd": "2023-12-31",
    "tenK": "0000062709-24-000016",
-   "result": null
+   "result": {
+    "ceoPay": 19054956,
+    "medianPay": 69634,
+    "payRatio": 274,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2023,
+    "excerpt": "roxy Statement | | | | | | 84 | | | Table of Contents | | | | ADDITIONAL INFORMATION | | | | (Continued) | CEO PAY RATIO The ratio of the annual total compensation for our CEO (Mr. Doyle) compared to the median of the annual total compensation of all of our employees (excluding our CEO) for 2023 is 274, as calculated in accordance with Item 402(u) of Regulation S-K. We believe this ratio to be a reasonable estimate, based upon the assumptions and adjustments described below. The ratio for 2023 is based on the annual total compensation of the Company's median employee (excluding our CEO) and our CEO (as disclosed in the 2023 Summary Compensation Table in this proxy statement), as follows: | | | | • Median employee: | | | | $69,634 | | • CEO: | | | | $19,054,956 | As permitted under SEC rule"
+   }
   },
   "0001193125-23-086755": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-31",
    "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312523086755/d450201ddef14a.htm",
    "periodEnd": "2022-12-31",
    "tenK": "0000062709-23-000014",
-   "result": null
+   "result": {
+    "ceoPay": 30924435,
+    "medianPay": 68138,
+    "payRatio": 454,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "of Annual Meeting and 2023 Proxy Statement | | | | | Table of Contents ADDITIONAL INFORMATION (Continued) CEO PAY RATIO The ratio of the annual total compensation for our CEO (Mr. Glaser) compared to the median of the annual total compensation of all of our employees (excluding our CEO) for 2022 is 454, as calculated in accordance with Item 402(u) of Regulation S-K. We believe this ratio to be a reasonable estimate, based upon the assumptions and adjustments described below. The ratio for 2022 is based on the annual total compensation of the Company's median employee ( e xcluding our C EO) a nd our CEO (as disclosed in the 2022 Summary Compensation Table in this proxy statement), as follows: | | | | | | | • Median employee: | | | | $68,138 | | • CEO: | | | | $30,924,435 | We identified the"
+   }
   },
   "0001193125-22-092794": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312522092794/d310397ddef14a.htm",
    "periodEnd": "2021-12-31",
    "tenK": "0000062709-22-000009",
-   "result": null
+   "result": {
+    "ceoPay": 21519703,
+    "medianPay": 67143,
+    "payRatio": 321,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "es available or from open market purchases. Open market purchases do not count against the remaining shares available. CEO PAY RATIO The ratio of the annual total compensation for our CEO compared to the median of the annual total compensation of all of our employees (excluding our CEO) for 2021 is 321, as calculated in accordance with Item 402(u) of Regulation S-K. We believe this ratio to be a reasonable estimate, based upon the assumptions and adjustments described below. The ratio for 2021 is based on the annual total compensation of the Companys median employee (excluding our CEO) and our CEO (as disclosed in the 2021 Summary Compensation Table in this proxy statement), as follows: | | | | | | |  Median employee: | | | | $67,143 | |  CEO: | | | | $21,519,703 | We identified the med"
+   }
   },
   "0001193125-21-101422": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-31",
    "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312521101422/d81851ddef14a.htm",
    "periodEnd": "2020-12-31",
    "tenK": "0000062709-21-000008",
-   "result": null
+   "result": {
+    "ceoPay": 19695980,
+    "medianPay": 67816,
+    "payRatio": 290,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2020,
+    "excerpt": "es, Inc. Notice of Annual Meeting and 2021 Proxy Statement | | | | | Table of Contents | | | | | | | | | ADDITIONAL INFORMATION (Continued) | CEO PAY RATIO The ratio of the annual total compensation for our CEO compared to the annual total compensation of our median employee for fiscal year 2020 is 290, as calculated in accordance with Item 402(u) of Regulation S-K. We believe this ratio to be a reasonable estimate, based upon the assumptions and adjustments described below. The ratio for fiscal year 2020 is based on the annual total compensation of the Companys median employee (excluding the CEO) and the CEO (as disclosed in the 2020 Summary Compensation Table in this proxy statement), as follows: | | | | | | | | | | | | | | | | | | |  | | | | Median employee: | | | | $67,816 | | | | |"
+   }
   },
   "0001193125-20-098080": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-03",
    "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312520098080/d821972ddef14a.htm",
    "periodEnd": "2019-12-31",
    "tenK": "0000062709-20-000010",
-   "result": null
+   "result": {
+    "ceoPay": 20331697,
+    "medianPay": 67826,
+    "payRatio": 300,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "an Companies, Inc. Notice of Annual Meeting and 2020 Proxy Statement Table of Contents | | | | | | | | | Additional Information (Continued) | CEO Pay Ratio The ratio of the annual total compensation for our CEO compared to the annual total compensation of our median employee for fiscal year 2019 is 300, as calculated in accordance with Item 402(u) of Regulation S-K. We believe this ratio to be a reasonable estimate, based upon the assumptions and adjustments described below. The ratio for fiscal year 2019 is based on the annual total compensation of the Companys median employee (excluding the CEO) and the CEO (as disclosed in the 2019 Summary Compensation Table in this proxy statement), as follows: | | | | | | | | | | | | | | | | | | | ● | | | | Median employee: | | | | $67,826 | | | | |"
+   }
   },
   "0001193125-19-091672": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312519091672/d624844ddef14a.htm",
    "periodEnd": "2018-12-31",
    "tenK": "0000062709-19-000010",
-   "result": null
+   "result": {
+    "ceoPay": 17281919,
+    "medianPay": 64238,
+    "payRatio": 269,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "an Companies, Inc. Notice of Annual Meeting and 2019 Proxy Statement Table of Contents | | | | | | | | | Additional Information (Continued) | CEO Pay Ratio The ratio of the annual total compensation for our CEO compared to the annual total compensation of our median employee for fiscal year 2018 is 269, as calculated in accordance with Item 402(u) of Regulation S-K. We believe this ratio to be a reasonable estimate, based upon the assumptions and adjustments described below. The ratio for fiscal year 2018 is based on the annual total compensation of the Companys median employee (excluding the CEO) and the CEO (as disclosed in the 2018 Summary Compensation Table in this proxy statement), as follows: | | | | | | | | | | | | | | | | | | | ● | | | | Median employee: | | | | $64,238 | | | | |"
+   }
   },
   "0001193125-18-103118": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-30",
    "url": "https://www.sec.gov/Archives/edgar/data/62709/000119312518103118/d484564ddef14a.htm",
    "periodEnd": "2017-12-31",
    "tenK": "0000062709-18-000007",
-   "result": null
+   "result": {
+    "ceoPay": 17011341,
+    "medianPay": 61318,
+    "payRatio": 277,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "Companies, Inc. Notice of Annual Meeting and 2018 Proxy Statement 63 Table of Contents | | | | | | | | | Additional Information (Continued) | CEO Pay Ratio The ratio of the annual total compensation for our CEO compared to the annual total compensation of our median employee for fiscal year 2017 is 277, as calculated in accordance with Item 402(u) of Regulation S-K. We believe this ratio to be a reasonable estimate, based upon the assumptions and adjustments described below. The ratio for fiscal year 2017 is based on the annual total compensation of the Companys median employee (excluding the CEO) and the CEO (as disclosed in the 2017 Summary Compensation Table in this proxy statement), as follows: | | | | | | | | | | | | | | | | | | | ● | | | | Median employee: | | | | $61,318 | | | | |"
+   }
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0000062709-18-000007": {
+   "parserVersion": 2,
+   "employees": 35000
+  },
+  "0000062709-19-000010": {
+   "parserVersion": 2,
+   "employees": 65000
+  },
+  "0000062709-20-000010": {
+   "parserVersion": 2,
+   "employees": 43600
+  },
+  "0000062709-21-000008": {
+   "parserVersion": 2,
+   "employees": 44100
+  },
+  "0000062709-22-000009": {
+   "parserVersion": 2,
+   "employees": 48800
+  },
+  "0000062709-23-000014": {
+   "parserVersion": 2,
+   "employees": 85000
+  },
+  "0000062709-24-000016": {
+   "parserVersion": 2,
+   "employees": 85000
+  },
+  "0000062709-26-000022": {
+   "parserVersion": 2,
+   "employees": 95000
+  }
+ },
  "facts": {
   "revenue": {
    "2007": {

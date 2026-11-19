@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-26-000201": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-03",
    "url": "https://www.sec.gov/Archives/edgar/data/64803/000130817926000201/cvs014969-def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001308179-25-000386": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/64803/000130817925000386/cvs012729_def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-24-000463": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/64803/000130817924000463/lcvs2024_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-000606": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/64803/000130817923000606/cvs4106991-def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,23 +65,23 @@
    }
   },
   "0001206774-22-000965": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/64803/000120677422000965/cvs3990751-def14a.htm",
    "periodEnd": "2021-12-31",
    "tenK": "0000064803-22-000008",
    "result": {
-    "ceoPay": 20604192,
+    "ceoPay": 1429167,
     "medianPay": 45010,
-    "payRatio": 458,
+    "payRatio": 31,
     "method": "cross-checked",
     "employees": null,
     "statedYear": 2021,
-    "excerpt": "(12), India (2), Ireland (11), Kuwait (1), Qatar (1), Singapore (78), South Africa (5), Thailand (344), United Arab Emirates (223) and United Kingdom (336). Using this methodology, our new median employee was determined to be a full-time employee. The annual compensation for our median employee was $45,010, calculated in accordance with the rules applicable to the SCT which begins on page 72 of this proxy statement. The annual compensation for our median employee includes the Company-paid portion of health benefits plus company contributions to the 401(k) Plan, if applicable. As permitted by SEC rules, the Company elected to annualize the compensation of Ms. Lynch, who became CEO of the Company on February 1, 2021 and was serving as CEO on December 31, 2021, the anniversary of the determin"
+    "excerpt": "s to our pharmacist and distribution center colleagues. As required by current SEC rules, we are disclosing the ratio of compensation of Ms. Lynch, who served as our CEO for the majority of 2021 and served in that position on December 31, 2021, to that of the employee who was identified on December 31, 2021 as having an annual total compensation that is the median of all of our employees as of that date. While we are allowed under relevant rules to use the same median employee as we did last year, that employee was promoted during the year to a position that paid substantially more, resulting in an increase of their annual total compensation, and we believed that the employee was no longer an appropriate median employee. We identified the new median employee by ranking the total compensati"
    }
   },
   "0001206774-21-000974": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-02",
    "url": "https://www.sec.gov/Archives/edgar/data/64803/000120677421000974/cvs3833491-def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001206774-20-001053": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-03",
    "url": "https://www.sec.gov/Archives/edgar/data/64803/000120677420001053/cvs3650331-def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-19-001240": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/64803/000120677419001240/cvs3508731-def14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001206774-18-001346": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/64803/000120677418001346/cvs3324661-def14a.htm",
    "periodEnd": "2017-12-31",

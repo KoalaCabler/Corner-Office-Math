@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-26-000064": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1800/000130817926000064/abt-20260311.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001308179-25-000134": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1800/000130817925000134/abt012575_def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-24-000182": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1800/000130817924000182/abt4257331-def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-000247": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1800/000130817923000247/abt4116441-def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-22-000778": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1800/000120677422000778/abt3910011-def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001047469-21-000592": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1800/000104746921000592/a2242988zdef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001047469-20-001466": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1800/000104746920001466/a2240611zdef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001047469-19-001316": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/1800/000104746919001316/a2237648zdef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,19 +129,19 @@
    }
   },
   "0001047469-18-001774": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1800/000104746918001774/a2234262zdef14a.htm",
    "periodEnd": "2017-12-31",
    "tenK": "0001047469-18-000856",
    "result": {
-    "ceoPay": null,
-    "medianPay": 75679,
-    "payRatio": 251,
-    "method": "ratio-and-median",
+    "ceoPay": 14156810,
+    "medianPay": 12597,
+    "payRatio": 1122,
+    "method": "cross-checked",
     "employees": 89647,
-    "statedYear": 2018,
-    "excerpt": "e use for our named executive officers as disclosed in the Summary Compensation Table on page 44 and then added the cost of medical and dental benefits ($12,597) in the calculation of annual total compensation for the median employee and CEO. The annual total compensation of our median employee was $75,679, resulting in a ratio of 251:1. The above ratio and annual total compensation amount are reasonable estimates that have been calculated using methodologies and assumptions permitted by SEC rules. 1 Total U.S. employees: 24,988; total non-U.S. employees: 64,659. Abbott Laboratories 61 Table of Contents RATIFICATION OF ERNST & YOUNG LLP AS AUDITORS (ITEM 2 ON PROXY CARD) Abbott's By-Laws provide that the Audit Committee shall appoint annually a firm of independent registered public account"
+    "statedYear": 2017,
+    "excerpt": "nd settlement dates were as follows: M. T. Rousseau: Vesting date: $159,271; Settlement date: $4,784,443; and E. S. Fain: Vesting date: $77,480; Settlement date: $1,832,323. The values of the converted St. Jude Medical stock options on their respective vesting dates were as follows: M. T. Rousseau: $14,156,810; E. S. Fain: $5,985,741. The value of Mr. Fain's restricted stock award on its vesting date was $2,581,197. The values of the converted St. Jude Medical restricted stock unit awards and Mr. Fain's restricted stock award are determined by multiplying the number of shares vested and the closing price of a common share on the applicable settlement date and July 21, 2017, respectively. The values of the converted St. Jude Medical stock options are based on the excess of the closing price"
    }
   }
  },

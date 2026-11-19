@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001053507-26-000088": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350726000088/amt-20260406.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001053507-25-000092": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350725000092/amt-20250401.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001053507-24-000075": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350724000075/amt-20240408.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001053507-23-000107": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350723000107/amt-20230412.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001053507-22-000059": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350722000059/americantowercorporation20.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001053507-21-000075": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350721000075/americantowercorporation20.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001053507-20-000081": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000105350720000081/americantowercorporation20.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-19-102393": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000119312519102393/d658937ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-114920": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/1053507/000119312518114920/d563232ddef14a.htm",
    "periodEnd": "2017-12-31",

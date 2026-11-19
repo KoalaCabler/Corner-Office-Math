@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001104659-26-020027": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-02-26",
    "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465926020027/tm261383-1_def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001104659-25-019408": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-03",
    "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465925019408/tm252296d4_def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001104659-24-029592": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-01",
    "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465924029592/tm2329632d3_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001104659-23-027608": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-02",
    "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465923027608/tm231740d3_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001104659-22-026318": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-02-24",
    "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465922026318/tm223361-1_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001104659-21-080127": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-06-11",
    "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465921080127/tm2117308-2_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -89,7 +89,7 @@
    "result": null
   },
   "0001104659-21-027539": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-02-24",
    "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465921027539/tm2039127-2_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -105,7 +105,7 @@
    }
   },
   "0001104659-20-080062": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-07-02",
    "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465920080062/tm2021785-2_def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,15 +113,23 @@
    "result": null
   },
   "0001104659-20-030961": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-10",
    "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465920030961/tm192550d2_def14a.htm",
    "periodEnd": "2019-12-31",
    "tenK": "0000033213-20-000008",
-   "result": null
+   "result": {
+    "ceoPay": 1,
+    "medianPay": 115690,
+    "payRatio": 0.0001,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2019,
+    "excerpt": "methodologies different than ours; as a result, the following information may not be directly comparable to the information provided by other companies in our peer group or otherwise. Our President and CEO, Mr. Toby Rice, had annual total compensation for 2019, calculated pursuant to SEC rules, of $1.00. The annual total compensation of the median employee of the Company for 2019, calculated pursuant to SEC rules, was $115,690. Accordingly, the ratio of the annual total compensation of the CEO to the annual total compensation of the median employee of the Company was less than 0.0001 for 2019. In light of the rebalancing of our workforce during 2019, which resulted in a reduction in the size and makeup of our workforce, we updated our analysis to identify the Company's median employee as"
+   }
   },
   "0001104659-18-027302": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-27",
    "url": "https://www.sec.gov/Archives/edgar/data/33213/000110465918027302/a18-2933_1def14a.htm",
    "periodEnd": "2017-12-31",
@@ -143,28 +151,36 @@
    "employees": 2067
   },
   "0000033213-21-000006": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000033213-22-000007": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000033213-23-000008": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000033213-24-000008": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 881
   },
   "0000033213-25-000011": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000033213-26-000018": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
+  },
+  "0000033213-19-000006": {
+   "parserVersion": 2,
+   "employees": 863
+  },
+  "0000033213-20-000008": {
+   "parserVersion": 2,
+   "employees": 647
   }
  },
  "facts": {

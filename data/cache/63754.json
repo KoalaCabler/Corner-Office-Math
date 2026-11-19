@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000063754-26-000140": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-02-18",
    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375426000140/mkc-20260217.htm",
    "periodEnd": "2025-11-30",
@@ -17,7 +17,7 @@
    }
   },
   "0000063754-25-000016": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-02-13",
    "url": "https://www.sec.gov/Archives/edgar/data/63754/000006375425000016/mkc-20250212.htm",
    "periodEnd": "2024-11-30",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-24-000026": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-02-15",
    "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817924000026/lmkc016_def14a.htm",
    "periodEnd": "2023-11-30",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-000045": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-02-17",
    "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817923000045/lmkc2023_def14a.htm",
    "periodEnd": "2022-11-30",
@@ -65,7 +65,7 @@
    }
   },
   "0001308179-22-000010": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-02-17",
    "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817922000010/lmkc2022_def14a.htm",
    "periodEnd": "2021-11-30",
@@ -81,7 +81,7 @@
    }
   },
   "0001308179-21-000009": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-02-17",
    "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817921000009/lmkc_def14a.htm",
    "periodEnd": "2020-11-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001308179-20-000006": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-02-14",
    "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817920000006/lmkc_def14a.htm",
    "periodEnd": "2019-11-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001308179-19-000003": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-02-14",
    "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817919000003/lmkc2019_def14a.htm",
    "periodEnd": "2018-11-30",
@@ -129,7 +129,7 @@
    }
   },
   "0001308179-18-000009": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-02-15",
    "url": "https://www.sec.gov/Archives/edgar/data/63754/000130817918000009/lmkc0102018_def14a.htm",
    "periodEnd": "2017-11-30",
@@ -165,6 +165,10 @@
   "0000063754-25-000005": {
    "parserVersion": 1,
    "employees": 14100
+  },
+  "0000063754-18-000008": {
+   "parserVersion": 2,
+   "employees": 11700
   }
  },
  "facts": {

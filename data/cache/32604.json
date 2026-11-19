@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000032604-25-000103": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-12-12",
    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260425000103/emr-20251212.htm",
    "periodEnd": "2025-09-30",
@@ -17,7 +17,7 @@
    }
   },
   "0000032604-24-000057": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-12-13",
    "url": "https://www.sec.gov/Archives/edgar/data/32604/000003260424000057/emr-20241213.htm",
    "periodEnd": "2024-09-30",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-23-291718": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-12-08",
    "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312523291718/d552762ddef14a.htm",
    "periodEnd": "2023-09-30",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-22-301782": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-12-09",
    "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312522301782/d397384ddef14a.htm",
    "periodEnd": "2022-09-30",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-21-353934": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-12-10",
    "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312521353934/d25336ddef14a.htm",
    "periodEnd": "2021-09-30",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-20-315868": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-12-11",
    "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312520315868/d83341ddef14a.htm",
    "periodEnd": "2020-09-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-19-313893": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-12-13",
    "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312519313893/d823905ddef14a.htm",
    "periodEnd": "2019-09-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-18-349891": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-12-14",
    "url": "https://www.sec.gov/Archives/edgar/data/32604/000119312518349891/d615207ddef14a.htm",
    "periodEnd": "2018-09-30",
@@ -137,6 +137,14 @@
   "0000032604-21-000038": {
    "parserVersion": 1,
    "employees": 45000
+  },
+  "0000032604-17-000046": {
+   "parserVersion": 2,
+   "employees": 76500
+  },
+  "0000032604-26-000054": {
+   "parserVersion": 2,
+   "employees": 70000
   }
  },
  "facts": {

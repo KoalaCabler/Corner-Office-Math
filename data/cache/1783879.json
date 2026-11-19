@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001783879-26-000053": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387926000053/hood-20260422.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001783879-25-000134": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387925000134/hood-20250425.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001783879-24-000123": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387924000123/hood-20240426.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001783879-23-000098": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387923000098/hood-20230428.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001783879-22-000090": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-05-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1783879/000178387922000090/fscmix-robinhood2022proxy.htm",
    "periodEnd": "2021-12-31",
@@ -89,6 +89,10 @@
   "0001783879-26-000023": {
    "parserVersion": 1,
    "employees": 2900
+  },
+  "0001783879-22-000044": {
+   "parserVersion": 2,
+   "employees": 3800
   }
  },
  "facts": {

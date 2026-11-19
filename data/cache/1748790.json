@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001748790-26-000025": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-09-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879026000025/amcr-20260929.htm",
    "periodEnd": "2026-06-30",
@@ -17,7 +17,7 @@
    }
   },
   "0001748790-25-000032": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-09-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879025000032/amcr-20250922.htm",
    "periodEnd": "2025-06-30",
@@ -33,7 +33,7 @@
    }
   },
   "0001748790-24-000027": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-09-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1748790/000174879024000027/amcr-20240924.htm",
    "periodEnd": "2024-06-30",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-001004": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-09-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1748790/000130817923001004/lamcr2023_def14a.htm",
    "periodEnd": "2023-06-30",
@@ -65,7 +65,7 @@
    }
   },
   "0001308179-22-000363": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-09-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1748790/000130817922000363/lamcr2022_def14a.htm",
    "periodEnd": "2022-06-30",
@@ -81,7 +81,7 @@
    }
   },
   "0001308179-21-000322": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-09-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1748790/000130817921000322/lamcr2021_def14a.htm",
    "periodEnd": "2021-06-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001308179-20-000275": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-09-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1748790/000130817920000275/lamcr2020_def14a.htm",
    "periodEnd": "2020-06-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001308179-19-000235": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-09-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1748790/000130817919000235/lamcr2019_def14a.htm",
    "periodEnd": "2019-06-30",

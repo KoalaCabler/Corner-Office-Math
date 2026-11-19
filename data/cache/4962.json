@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001104659-26-034163": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/4962/000110465926034163/tm2519434-8_def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-25-054588": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312525054588/d804836ddef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-24-068837": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312524068837/d558747ddef14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-23-073923": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312523073923/d326074ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-079264": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312522079264/d235027ddef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-21-087284": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312521087284/d919404ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-20-083487": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/4962/000119312520083487/d804770ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-19-000869": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/4962/000120677419000869/axp3463051-def14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001206774-18-000866": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/4962/000120677418000866/amex3289431-def14a.htm",
    "periodEnd": "2017-12-31",
@@ -170,9 +170,9 @@
  "facts": {
   "revenue": {
    "2007": {
-    "revenue": 7424000000,
+    "revenue": 27559000000,
     "periodEnd": "2007-12-31",
-    "revenueTag": "InterestAndDividendIncomeOperating",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
     "accession": "0001193125-10-041232"
    },
    "2008": {
@@ -194,27 +194,27 @@
     "accession": "0000950123-11-019072"
    },
    "2011": {
-    "revenue": 6696000000,
+    "revenue": 29962000000,
     "periodEnd": "2011-12-31",
-    "revenueTag": "InterestAndDividendIncomeOperating",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
     "accession": "0001193125-14-066777"
    },
    "2012": {
-    "revenue": 6854000000,
+    "revenue": 31555000000,
     "periodEnd": "2012-12-31",
-    "revenueTag": "InterestAndDividendIncomeOperating",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
     "accession": "0001193125-15-059931"
    },
    "2013": {
-    "revenue": 7005000000,
+    "revenue": 32870000000,
     "periodEnd": "2013-12-31",
-    "revenueTag": "InterestAndDividendIncomeOperating",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
     "accession": "0001193125-16-469798"
    },
    "2014": {
-    "revenue": 7179000000,
+    "revenue": 34188000000,
     "periodEnd": "2014-12-31",
-    "revenueTag": "InterestAndDividendIncomeOperating",
+    "revenueTag": "InterestIncomeExpenseNet+NoninterestIncome",
     "accession": "0001193125-17-047588"
    },
    "2015": {

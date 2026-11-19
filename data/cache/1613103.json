@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001613103-26-000010": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-08-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310326000010/mdt-20260816.htm",
    "periodEnd": "2026-04-24",
@@ -17,7 +17,7 @@
    }
   },
   "0001613103-25-000151": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-08-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310325000151/mdt-20250825.htm",
    "periodEnd": "2025-04-25",
@@ -33,7 +33,7 @@
    }
   },
   "0001613103-24-000124": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-08-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310324000124/mdt-20240809.htm",
    "periodEnd": "2024-04-26",
@@ -49,7 +49,7 @@
    }
   },
   "0001613103-23-000108": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-08-11",
    "url": "https://www.sec.gov/Archives/edgar/data/1613103/000161310323000108/mdt-20230811.htm",
    "periodEnd": "2023-04-28",
@@ -65,7 +65,7 @@
    }
   },
   "0001193125-22-225369": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-08-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1613103/000119312522225369/d382106ddef14a.htm",
    "periodEnd": "2022-04-29",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-21-259369": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-08-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1613103/000119312521259369/d220554ddef14a.htm",
    "periodEnd": "2021-04-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-20-220558": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-08-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1613103/000119312520220558/d941945ddef14a.htm",
    "periodEnd": "2020-04-24",
@@ -113,7 +113,7 @@
    }
   },
   "0001308179-19-000222": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-08-16",
    "url": "https://www.sec.gov/Archives/edgar/data/1613103/000130817919000222/lmdt2019_def14a.htm",
    "periodEnd": "2019-04-26",
@@ -129,7 +129,7 @@
    }
   },
   "0001308179-18-000261": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-08-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1613103/000130817918000261/lmdt2018-def14a.htm",
    "periodEnd": "2018-04-27",
@@ -145,7 +145,12 @@
    }
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0001613103-17-000018": {
+   "parserVersion": 2,
+   "employees": 91000
+  }
+ },
  "facts": {
   "revenue": {
    "2013": {

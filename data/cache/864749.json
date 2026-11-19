@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000864749-26-000042": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474926000042/trmb-20260409.htm",
    "periodEnd": "2026-01-02",
@@ -17,7 +17,7 @@
    }
   },
   "0000864749-25-000100": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-30",
    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474925000100/trmb-20250430.htm",
    "periodEnd": "2025-01-03",
@@ -33,7 +33,7 @@
    }
   },
   "0000864749-24-000093": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474924000093/trmb-20240416.htm",
    "periodEnd": "2023-12-29",
@@ -49,7 +49,7 @@
    }
   },
   "0000864749-23-000053": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-18",
    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474923000053/trmb-20230418.htm",
    "periodEnd": "2022-12-30",
@@ -65,7 +65,7 @@
    }
   },
   "0000864749-22-000079": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474922000079/trimble-2022proxystatement.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000864749-21-000039": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-30",
    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474921000039/trimble-2021proxystatement.htm",
    "periodEnd": "2021-01-01",
@@ -97,7 +97,7 @@
    }
   },
   "0000864749-20-000039": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-15",
    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474920000039/trimble-2020proxystatement.htm",
    "periodEnd": "2020-01-03",
@@ -113,7 +113,7 @@
    }
   },
   "0000864749-19-000041": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/864749/000086474919000041/trimble-2019proxystatement.htm",
    "periodEnd": "2018-12-28",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-090599": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/864749/000119312518090599/d436248ddef14a.htm",
    "periodEnd": "2017-12-29",

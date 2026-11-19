@@ -1,71 +1,71 @@
 {
  "proxies": {
   "0001628280-26-021169": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026021169/pmi-20260325.htm",
    "periodEnd": "2025-12-31",
    "tenK": "0001628280-26-005939",
    "result": {
-    "ceoPay": null,
+    "ceoPay": 100,
     "medianPay": 43244,
-    "payRatio": 375,
-    "method": "ratio-and-median",
+    "payRatio": 0,
+    "method": "cross-checked",
     "employees": 84900,
     "statedYear": 2025,
-    "excerpt": "witzerland, where our Group CEO PMI resides. The total PPP- adjusted compensation for our median employee residing in Poland is approximately CHF 67,111. 3 Comparing this employee's total PPP-adjusted compensation to the 2025 total compensation of our Group CEO PMI in CHF, our adjusted pay ratio is 375:1. 4 Had we not used the PPP adjustment, our median employee's total 2025 compensation would have been approximately $43,244 5 . Comparing this employee's total compensation to the total compensation of our Group CEO PMI as set forth in the Summary Compensation Table on page 54, the ratio would be 672:1. The ratio of our Group CEO PMI's total compensation to the average total compensation of our other NEOs for 2025, was 2.2:1. Because the SEC rules for identifying the median employee and cal"
+    "excerpt": "and is approximately CHF 67,111. 3 Comparing this employee's total PPP-adjusted compensation to the 2025 total compensation of our Group CEO PMI in CHF, our adjusted pay ratio is 375:1. 4 Had we not used the PPP adjustment, our median employee's total 2025 compensation would have been approximately $43,244 5 . Comparing this employee's total compensation to the total compensation of our Group CEO PMI as set forth in the Summary Compensation Table on page 54, the ratio would be 672:1. The ratio of our Group CEO PMI's total compensation to the average total compensation of our other NEOs for 2025, was 2.2:1. Because the SEC rules for identifying the median employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodolo"
    }
   },
   "0001104659-25-028420": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000110465925028420/tm252327-2_def14a.htm",
    "periodEnd": "2024-12-31",
    "tenK": "0001413329-25-000013",
    "result": {
-    "ceoPay": null,
+    "ceoPay": 100,
     "medianPay": 47109,
-    "payRatio": 304,
-    "method": "ratio-and-median",
+    "payRatio": 0,
+    "method": "cross-checked",
     "employees": 83100,
     "statedYear": 2024,
-    "excerpt": "1 CHF would buy in Switzerland, where our CEO resides. The total PPP- adjusted compensation for our median employee residing in Poland is approximately CHF 58,786. 3 Comparing this employee's total PPP-adjusted compensation to the 2024 total compensation of our CEO in CHF, our adjusted pay ratio is 304:1. 4 Had we not used the PPP adjustment, our median employee's total 2024 compensation would have been approximately $47,109. Comparing this employee's total compensation to the total compensation of our CEO as set forth in the Summary Compensation Table on page 57, the ratio would be 430:1. The ratio of our CEO's total compensation to the average total compensation of our other NEOs for 2024, was 2.7:1. Because the SEC rules for identifying the median employee and calculating the pay ratio"
+    "excerpt": "ing in Poland is approximately CHF 58,786. 3 Comparing this employee's total PPP-adjusted compensation to the 2024 total compensation of our CEO in CHF, our adjusted pay ratio is 304:1. 4 Had we not used the PPP adjustment, our median employee's total 2024 compensation would have been approximately $47,109. Comparing this employee's total compensation to the total compensation of our CEO as set forth in the Summary Compensation Table on page 57, the ratio would be 430:1. The ratio of our CEO's total compensation to the average total compensation of our other NEOs for 2024, was 2.7:1. Because the SEC rules for identifying the median employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain"
    }
   },
   "0001104659-24-039955": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000110465924039955/tm242649-d2_def14a.htm",
    "periodEnd": "2023-12-31",
    "tenK": "0001413329-24-000013",
    "result": {
-    "ceoPay": null,
+    "ceoPay": 100,
     "medianPay": 39663,
-    "payRatio": 369,
-    "method": "ratio-and-median",
+    "payRatio": 0,
+    "method": "cross-checked",
     "employees": 82700,
     "statedYear": 2023,
-    "excerpt": "1 CHF would buy in Switzerland, where our CEO resides. The total PPP-adjusted compensation for our median employee residing in Poland is approximately CHF 60,974. 3 Comparing this employee's total PPP-adjusted compensation to the 2023 total compensation of our CEO in CHF, our adjusted pay ratio is 369:1. 4 Had we not used the PPP adjustment, our median employee's total 2023 compensation would have been approximately $39,663. Comparing this employee's total compensation to the total compensation of our CEO as set forth in the Summary Compensation Table on page 58, the ratio would be 642:1. The ratio of our CEO's total compensation to the average total compensation of our other NEOs for 2023, was 3:1. Because the SEC rules for identifying the median employee and calculating the pay ratio ba"
+    "excerpt": "ing in Poland is approximately CHF 60,974. 3 Comparing this employee's total PPP-adjusted compensation to the 2023 total compensation of our CEO in CHF, our adjusted pay ratio is 369:1. 4 Had we not used the PPP adjustment, our median employee's total 2023 compensation would have been approximately $39,663. Comparing this employee's total compensation to the total compensation of our CEO as set forth in the Summary Compensation Table on page 58, the ratio would be 642:1. The ratio of our CEO's total compensation to the average total compensation of our other NEOs for 2023, was 3:1. Because the SEC rules for identifying the median employee and calculating the pay ratio based on that employee's annual total compensation allow companies to adopt a variety of methodologies, to apply certain ex"
    }
   },
   "0001104659-23-036062": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000110465923036062/tm231786d2_def14a.htm",
    "periodEnd": "2022-12-31",
    "tenK": "0001413329-23-000025",
    "result": {
-    "ceoPay": null,
+    "ceoPay": 100,
     "medianPay": 19411,
-    "payRatio": 158,
-    "method": "ratio-and-median",
+    "payRatio": 0,
+    "method": "cross-checked",
     "employees": 79800,
     "statedYear": 2022,
-    "excerpt": "1 CHF would buy in Switzerland, where our CEO resides. The total PPP- adjusted compensation for our median employee residing in Turkey is approximately CHF 92,262. 4 Comparing this employee's total PPP-adjusted compensation to the 2022 total compensation of our CEO in CHF, our adjusted pay ratio is 158:1. 5 Had we not used the PPP adjustment, our median employee's total 2022 compensation would have been approximately $19,411. Comparing this employee's total compensation to the total compensation of our CEO as set forth in the Summary Compensation Table on page 55 , the ratio would be 813:1. For reference, the ratio of the CEO's total compensation to that of our median employee in Switzerland is 80:1. As of December 31, 2022, we employed approximately 3,310 people in Switzerland, including"
+    "excerpt": "ing in Turkey is approximately CHF 92,262. 4 Comparing this employee's total PPP-adjusted compensation to the 2022 total compensation of our CEO in CHF, our adjusted pay ratio is 158:1. 5 Had we not used the PPP adjustment, our median employee's total 2022 compensation would have been approximately $19,411. Comparing this employee's total compensation to the total compensation of our CEO as set forth in the Summary Compensation Table on page 55 , the ratio would be 813:1. For reference, the ratio of the CEO's total compensation to that of our median employee in Switzerland is 80:1. As of December 31, 2022, we employed approximately 3,310 people in Switzerland, including approximately 310 in our factory and 640 in our R&D facility in Neuchâtel. In addition, the ratio of our CEO's total comp"
    }
   },
   "0001104659-22-037508": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000110465922037508/tm2136562-3_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001193125-21-093264": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000119312521093264/d94090ddef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-20-085906": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000119312520085906/d832372ddef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-19-081395": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000119312519081395/d686733ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-100434": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1413329/000119312518100434/d449353ddef14a.htm",
    "periodEnd": "2017-12-31",

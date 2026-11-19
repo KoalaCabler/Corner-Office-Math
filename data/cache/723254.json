@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000723254-26-000040": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-09-15",
    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325426000040/ctas-20260915.htm",
    "periodEnd": "2026-05-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000723254-25-000025": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-09-16",
    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325425000025/ctas-20250915.htm",
    "periodEnd": "2025-05-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000723254-24-000047": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-09-19",
    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325424000047/ctas-20240919.htm",
    "periodEnd": "2024-05-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000723254-23-000030": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-09-12",
    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325423000030/ctas-20230912.htm",
    "periodEnd": "2023-05-31",
@@ -65,7 +65,7 @@
    }
   },
   "0000723254-22-000025": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-09-13",
    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325422000025/proxyfy22.htm",
    "periodEnd": "2022-05-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000723254-21-000026": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-09-15",
    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325421000026/proxyfy21.htm",
    "periodEnd": "2021-05-31",
@@ -97,7 +97,7 @@
    }
   },
   "0000723254-20-000033": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-09-15",
    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325420000033/proxyfy20.htm",
    "periodEnd": "2020-05-31",
@@ -113,7 +113,7 @@
    }
   },
   "0000723254-19-000024": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-09-17",
    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325419000024/proxyfy19.htm",
    "periodEnd": "2019-05-31",
@@ -129,7 +129,7 @@
    }
   },
   "0000723254-18-000023": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-09-20",
    "url": "https://www.sec.gov/Archives/edgar/data/723254/000072325418000023/proxyfy18.htm",
    "periodEnd": "2018-05-31",
@@ -151,36 +151,40 @@
    "employees": 41000
   },
   "0000723254-19-000021": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000723254-20-000025": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000723254-21-000021": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000723254-22-000019": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000723254-23-000025": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000723254-24-000036": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000723254-25-000017": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000723254-26-000028": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
+  },
+  "0000723254-17-000020": {
+   "parserVersion": 2,
+   "employees": 42000
   }
  },
  "facts": {

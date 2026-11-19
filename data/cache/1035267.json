@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001035267-26-000023": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526726000023/isrg-20260313.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001035267-25-000098": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526725000098/isrg-20250314.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001035267-24-000116": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526724000116/isrg-20240308.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001035267-23-000083": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526723000083/isrg-20230310.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001035267-22-000074": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526722000074/isrg-20211231xdef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001035267-21-000150": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-08-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526721000150/isrg-20210818xdef14a.htm",
    "periodEnd": "2020-12-31",
@@ -89,7 +89,7 @@
    "result": null
   },
   "0001035267-21-000059": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526721000059/isrg-20201231xdef14a.htm",
    "periodEnd": "2020-12-31",
@@ -105,7 +105,7 @@
    }
   },
   "0001035267-20-000062": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526720000062/isrg-20191231xdef14a.htm",
    "periodEnd": "2019-12-31",
@@ -121,7 +121,7 @@
    }
   },
   "0001035267-19-000034": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526719000034/isrg-20181231xdef14a.htm",
    "periodEnd": "2018-12-31",
@@ -137,7 +137,7 @@
    }
   },
   "0001035267-18-000039": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1035267/000103526718000039/isrg-20171231xdef14a.htm",
    "periodEnd": "2017-12-31",

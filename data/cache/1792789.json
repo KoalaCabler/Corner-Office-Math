@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001792789-26-000018": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000179278926000018/dash-20260420.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001628280-25-020666": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828025020666/dash-20250429.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001628280-24-018671": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828024018671/dash-20240426.htm",
    "periodEnd": "2023-12-31",
@@ -49,23 +49,39 @@
    }
   },
   "0001628280-23-014196": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828023014196/dash-20230428.htm",
    "periodEnd": "2022-12-31",
    "tenK": "0001628280-23-005131",
-   "result": null
+   "result": {
+    "ceoPay": 9873210,
+    "medianPay": 332810,
+    "payRatio": 30,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": null,
+    "excerpt": "control with qualifying termination | | | | | | | | | | | | | | | | | | | | Severance (3) | | $ | | 300,000 | | | | | | $ | | 350,000 | | | | | | $ | | 350,000 | | | | | | $ | | 350,000 | | | | | | $ | | 350,000 | | | | Restricted Stock Units (4) | | $ | | - | | | | | | $ | | 8,211,378 | | | | | | $ | | 9,873,210 | | | | | | $ | | 5,542,632 | | | | | | $ | | 6,406,356 | | | | Stock Options (5) | | $ | | - | | | | | | $ | | - | | | | | | $ | | - | | | | | | $ | | - | | | | | | $ | | - | | | | Continued benefits (2) | | $ | | 32,810 | | | | | | $ | | 36,069 | | | | | | $ | | 31,319 | | | | | | $ | | 31,066 | | | | | | $ | | 8,907 | | | | Total | | $ | | 332,810 | | | | | | $ | | 8,597,446 | | | | | | $ | | 10,254,530 | | | | | | $ | | 5,923,698 | | | | | | $ | | 6,765,263 | | | (1) Named ex"
+   }
   },
   "0001628280-22-011600": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-05-02",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828022011600/doordashdef14a2022fy21proxy.htm",
    "periodEnd": "2021-12-31",
    "tenK": "0001628280-22-004350",
-   "result": null
+   "result": {
+    "ceoPay": 82953086,
+    "medianPay": 87662,
+    "payRatio": 953,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2021,
+    "excerpt": "Options (5) | | | | $ | | 88,587,500 | | | | | | $ | | 14,026,590 | | | | | | $ | | 5,309,305 | | | | | | $ | | 4,247,735 | | | | Continued benefits (2) | | | | $ | | 19,724 | | | | | | $ | | 19,362 | | | | | | $ | | 19,362 | | | | | | $ | | 19,237 | | | | Total | | | | $ | | 88,907,224 | | | | | | $ | | 82,953,086 | | | | | | $ | | 41,015,466 | | | | | | $ | | 29,587,353 | | | 57 (1) Named executive officers will receive twelve months of base salary continuation (less applicable taxes). (2) Each named executive officer will receive a lump sum payment intended to cover medical, dental and vision plan premiums under COBRA. Each named executive officer is covered for the plan elections in effect on the date of the termination. (3) Payable as a lump sum. (4) Reflects value delivered to named"
+   }
   },
   "0001628280-21-008245": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1792789/000162828021008245/doordashinc-def14a.htm",
    "periodEnd": "2020-12-31",
@@ -85,6 +101,18 @@
   "0001792789-26-000013": {
    "parserVersion": 1,
    "employees": 31400
+  },
+  "0001628280-21-004032": {
+   "parserVersion": 2,
+   "employees": 3886
+  },
+  "0001628280-22-004350": {
+   "parserVersion": 2,
+   "employees": 8600
+  },
+  "0001628280-23-005131": {
+   "parserVersion": 2,
+   "employees": 16800
   }
  },
  "facts": {

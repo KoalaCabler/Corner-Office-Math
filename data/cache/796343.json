@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000796343-26-000043": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-02-27",
    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000043/adbe-20260227.htm",
    "periodEnd": "2025-11-28",
@@ -17,7 +17,7 @@
    }
   },
   "0000796343-25-000048": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-02-28",
    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634325000048/adbe-20250227.htm",
    "periodEnd": "2024-11-29",
@@ -33,7 +33,7 @@
    }
   },
   "0000796343-24-000051": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-01",
    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634324000051/adbe-20240301.htm",
    "periodEnd": "2023-12-01",
@@ -49,7 +49,7 @@
    }
   },
   "0000796343-23-000041": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-03",
    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000041/adbeproxy2023.htm",
    "periodEnd": "2022-12-02",
@@ -65,7 +65,7 @@
    }
   },
   "0000796343-22-000078": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-04",
    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634322000078/adbeproxy2022.htm",
    "periodEnd": "2021-12-03",
@@ -81,7 +81,7 @@
    }
   },
   "0000796343-21-000056": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-05",
    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634321000056/adbeproxy2021.htm",
    "periodEnd": "2020-11-27",
@@ -97,7 +97,7 @@
    }
   },
   "0000796343-20-000047": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-02-28",
    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634320000047/adbeproxy2020.htm",
    "periodEnd": "2019-11-29",
@@ -113,15 +113,23 @@
    }
   },
   "0000796343-19-000060": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-01",
    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634319000060/adbeproxy2019.htm",
    "periodEnd": "2018-11-30",
    "tenK": "0000796343-19-000019",
-   "result": null
+   "result": {
+    "ceoPay": 28397528,
+    "medianPay": 142192,
+    "payRatio": 200,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2018,
+    "excerpt": "tive officer in fiscal year 2016 or 2017. | | | | | | (5) | | Mr. Belsky was not a named executive officer in fiscal year 2016 or 2017. | | | | | | (6) | | Mr. Lamkin was not a named executive officer in fiscal year 2016. | CEO Pay Ratio The fiscal year 2018 annual total compensation of our CEO was $28,397,528 and the annual total compensation of our median compensated employee was $142,192, based on the methodology presented in the Summary Compensation Table. This resulted in a ratio of 200. For purposes of identifying the median employee, we took into account salary paid, target cash incentive bonus and grant date fair market value of RSUs granted during the year for our employees, excluding Mr. Narayen, as of November 30, 2018. We annualized this compensation for employees who did not w"
+   }
   },
   "0000796343-18-000052": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-02",
    "url": "https://www.sec.gov/Archives/edgar/data/796343/000079634318000052/adbeproxy2018.htm",
    "periodEnd": "2017-12-01",
@@ -157,6 +165,14 @@
   "0000796343-26-000003": {
    "parserVersion": 1,
    "employees": 31360
+  },
+  "0000796343-18-000015": {
+   "parserVersion": 2,
+   "employees": 17973
+  },
+  "0000796343-19-000019": {
+   "parserVersion": 2,
+   "employees": 21357
   }
  },
  "facts": {

@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001104659-26-032777": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/31462/000110465926032777/tm2530816-3_def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001104659-25-027292": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/31462/000110465925027292/tm2425999-8_def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001104659-24-035047": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/31462/000110465924035047/tm2317069d5_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001558370-23-004123": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/31462/000155837023004123/ecl-20230504xdef14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001558370-22-003929": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/31462/000155837022003929/ecl-20220505xdef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001558370-21-003266": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/31462/000155837021003266/ecl-20210506xdef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001558370-20-002970": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/31462/000155837020002970/ecl-20200507xdef14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,23 +113,23 @@
    }
   },
   "0001558370-19-002166": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/31462/000155837019002166/def14a.htm",
    "periodEnd": "2018-12-31",
    "tenK": "0001558370-19-001379",
    "result": {
-    "ceoPay": 14364033,
+    "ceoPay": 1651057,
     "medianPay": 54285,
-    "payRatio": 265,
+    "payRatio": 31,
     "method": "cross-checked",
     "employees": 52563,
     "statedYear": 2018,
-    "excerpt": "global employees' estimated annual total compensation, our \"global median employee\"); and (iii) the ratio of the annual total compensation for our CEO to the annual total compensation for our global median employee. For the year ended December 31, 2018, the annual total compensation for our CEO was $14,364,033, as reported in the final column of the Summary Compensation Table at page 44, and the annual total compensation for our global median employee was $54,285, calculated in accordance with the rules applicable to the Summary Compensation Table. For the year ended December 31, 2018, the annual total compensation for our CEO was 265 times the annual total compensation for our global median employee. For purposes of identifying our global median employee, in accordance with SEC rules we u"
+    "excerpt": "epresents the value of PBRSU and RSU awards as of December 31, 2018 ($147.35) that would be accelerated. Amounts are with respect to PBRSUs for Messrs. Baker, Schmechel and Handley and PBRSUs and RSUs for Messrs. Mulhere (13,712 PBRSUs/$2,020,463 and 14,400 RSUs/$2,121,840) and Brown (11,205 PBRSUs/$1,651,057 and 17,200 RSUs/$2,534,420). | | | | (5) | | | | Represents the sum of amounts in Column (A) Total Severance Payments, (B) Accelerated Portion of Stock Options and (C) Accelerated Portion of PBRSU and Restricted Stock Unit Awards . | | | | | | | | | | 58 | | ECOLAB - 2019 Proxy Statement | | | | | PAY RATIO DISCLOSURE PAY RATIO DISCLOSURE We are required by SEC rules and regulations to disclose: (i) the annual total compensation for our CEO; (ii) an estimate of the median annual total"
    }
   },
   "0001558370-18-002218": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/31462/000155837018002218/def14a.htm",
    "periodEnd": "2017-12-31",

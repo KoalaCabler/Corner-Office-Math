@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001104659-26-032725": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/820027/000110465926032725/amp-20260429xdef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,23 +17,23 @@
    }
   },
   "0001104659-25-026644": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/820027/000110465925026644/tm2422571-3_def14a.htm",
    "periodEnd": "2024-12-31",
    "tenK": "0000820027-25-000013",
    "result": {
-    "ceoPay": null,
-    "medianPay": 147252,
-    "payRatio": 210,
-    "method": "ratio-and-median",
+    "ceoPay": 70777,
+    "medianPay": 3401,
+    "payRatio": 21,
+    "method": "cross-checked",
     "employees": null,
-    "statedYear": 2024,
-    "excerpt": "on for 2024 was $134,226. We also added the value of Company-provided insurance ($16,727) to our CEO's 2024 annual total compensation as reported in the Summary Compensation Table. The resulting ratio of our CEO's annual total compensation to the annual total compensation of our median employee was 210:1. When excluding our employees based in India, the median annual total compensation for employees, other than our CEO, was $147,252. The ratio of this employee's compensation to that of our CEO was 191:1. Ameriprise Financial 2025 Proxy Statement | 81 TABLE OF CONTENTS Pay Versus Performance The following table sets forth compensation information of our Principal Executive Officer (\"PEO\") and our non-PEO NEOs along with total shareholder return, net income, and Adjusted Operating Earnings P"
+    "statedYear": 2012,
+    "excerpt": "ayable for Company provided coverage at four times annual base salary (capped at the U.K. notional earnings cap of £223,800 / $280,175 for the 2023/24 U.K. tax year) plus eight times annual base salary in excess of the notional earnings cap, plus the capital value of a spouse's pension of £56,536 / $70,777 per annum paid from the Threadneedle Pension Plan. (9) In the event of disability, the U.S. based executive would be eligible to receive disability income as long as they remained disabled until reaching age 65. The amount shown indicates the present value of potential future disability payments that would be received between December 31, 2024 and the executive reaching age 65, using a 5.66% discount rate. (10) Named executive officers are not eligible to receive a payment from the Compa"
    }
   },
   "0001140361-24-013509": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/820027/000114036124013509/ny20016516x2_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001140361-23-012336": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/820027/000114036123012336/ny20005314x500_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001140361-22-010129": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/820027/000114036122010129/ny20000959x1_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001140361-21-009324": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-19",
    "url": "https://www.sec.gov/Archives/edgar/data/820027/000114036121009324/nc10018011x1_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001308179-20-000059": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/820027/000130817920000059/lamp2020_def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001047469-19-001313": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/820027/000104746919001313/a2237978zdef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001047469-18-001767": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/820027/000104746918001767/a2234741zdef14a.htm",
    "periodEnd": "2017-12-31",
@@ -171,11 +171,11 @@
    "employees": 13500
   },
   "0000820027-24-000015": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000820027-25-000013": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 13600
   },
   "0000820027-26-000011": {

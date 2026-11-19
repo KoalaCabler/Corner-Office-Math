@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000943819-26-000080": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-10-01",
    "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000080/rmd-20261001.htm",
    "periodEnd": "2026-06-30",
@@ -17,7 +17,7 @@
    }
   },
   "0000943819-25-000079": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-10-02",
    "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381925000079/rmd-20251001.htm",
    "periodEnd": "2025-06-30",
@@ -33,7 +33,7 @@
    }
   },
   "0000943819-24-000019": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-10-03",
    "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381924000019/rmd-20241003.htm",
    "periodEnd": "2024-06-30",
@@ -49,7 +49,7 @@
    }
   },
   "0000943819-23-000019": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-10-05",
    "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381923000019/rmd-20231005.htm",
    "periodEnd": "2023-06-30",
@@ -65,7 +65,7 @@
    }
   },
   "0000943819-22-000014": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-10-05",
    "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381922000014/resmedproxy2022.htm",
    "periodEnd": "2022-06-30",
@@ -81,7 +81,7 @@
    }
   },
   "0000943819-21-000024": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-10-06",
    "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381921000024/rmd-20211006xdef14a.htm",
    "periodEnd": "2021-06-30",
@@ -97,7 +97,7 @@
    }
   },
   "0000943819-20-000019": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-10-06",
    "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381920000019/rmd-20201006xdef14a.htm",
    "periodEnd": "2020-06-30",
@@ -113,7 +113,7 @@
    }
   },
   "0000943819-19-000024": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-10-08",
    "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381919000024/rmd-20191121xdef14a.htm",
    "periodEnd": "2019-06-30",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-291742": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-10-03",
    "url": "https://www.sec.gov/Archives/edgar/data/943819/000119312518291742/d612931ddef14a.htm",
    "periodEnd": "2018-06-30",
@@ -153,6 +153,10 @@
   "0000943819-26-000047": {
    "parserVersion": 1,
    "employees": 11370
+  },
+  "0001193125-17-248016": {
+   "parserVersion": 2,
+   "employees": 6080
   }
  },
  "facts": {

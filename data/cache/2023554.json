@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-26-000423": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-10-06",
    "url": "https://www.sec.gov/Archives/edgar/data/2023554/000130817926000423/sndk-20261005.htm",
    "periodEnd": "2026-07-03",
@@ -17,7 +17,7 @@
    }
   },
   "0001628280-25-044481": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-10-07",
    "url": "https://www.sec.gov/Archives/edgar/data/2023554/000162828025044481/sndk-20251006.htm",
    "periodEnd": "2025-06-27",
@@ -25,7 +25,12 @@
    "result": null
   }
  },
- "tenKs": {},
+ "tenKs": {
+  "0002023554-25-000034": {
+   "parserVersion": 2,
+   "employees": 11000
+  }
+ },
  "facts": {
   "revenue": {
    "2023": {

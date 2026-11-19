@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-26-000310": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817926000310/bkng-20260420.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001308179-25-000476": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-22",
    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817925000476/bkng013642-def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-24-000549": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817924000549/lbkng2024_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-000754": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817923000754/lbkng2023_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001308179-22-000271": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817922000271/lbkng2022_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001308179-21-000239": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817921000239/lbkng2021_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001308179-20-000206": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817920000206/lbkng2020_def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001308179-19-000158": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817919000158/lbkng2019_def14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,19 +129,19 @@
    }
   },
   "0001308179-18-000213": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1075531/000130817918000213/lbkng2018_def14a.htm",
    "periodEnd": "2017-12-31",
    "tenK": "0001075531-18-000015",
    "result": {
-    "ceoPay": null,
-    "medianPay": 46355,
-    "payRatio": 599,
-    "method": "ratio-and-median",
+    "ceoPay": 265000,
+    "medianPay": 60000,
+    "payRatio": 5,
+    "method": "cross-checked",
     "employees": null,
-    "statedYear": null,
-    "excerpt": "work for the Company for the entire fiscal year. We did not make any cost-of-living adjustments, and we excluded the value of equity awards because we do not distribute annual equity awards to all employees. Based on the methodology described above, the total compensation of our median employee was $46,355 and the ratio of Mr. Fogel's total 2017 compensation to the total 2017 compensation of our median employee is 599 to 1. Mr. Fogel's total 2017 compensation includes a one-time promotion RSU award of $7 million in connection with his becoming our Chief Executive Officer on January 1, 2017. This award is intended to be a one-time grant to provide a retention incentive during Mr. Fogel's first years of employment as our Chief Executive Officer, to balance the uncertainty associated with his"
+    "statedYear": 2017,
+    "excerpt": "and Restated KAYAK Software Corporation 2012 Equity Incentive Plan and the KAYAK Software Corporation 2005 Equity Incentive Plan (the \"2005 KAYAK Plan\"). No further grants may be made under the 2005 KAYAK Plan, although the stock options shown in the table were outstanding as of December 31, 2017. (5) The assumed Buuteeq plan is the Buuteeq, Inc. Amended and Restated 2010 Stock Plan. (6) The assumed OpenTable plan is the OpenTable, Inc. Amended and Restated 2009 Equity Incentive Award Plan. (7) The assumed RocketMiles plan is the Amended and Restated Rocket Travel, Inc. 2012 Stock Incentive Plan. | BOOKING HOLDINGS INC. - 2018 Proxy Statement 64 Back to Contents 2017 NON-EMPLOYEE DIRECTOR COMPENSATION AND BENEFITS For 2017, directors who were also our employees received no additional compe"
    }
   }
  },

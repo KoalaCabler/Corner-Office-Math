@@ -1,6 +1,11 @@
 {
  "proxies": {},
- "tenKs": {},
+ "tenKs": {
+  "0001628280-26-053359": {
+   "parserVersion": 2,
+   "employees": 40000
+  }
+ },
  "facts": {
   "revenue": {
    "2024": {

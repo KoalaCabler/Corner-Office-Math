@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001104659-26-110963": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-09-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1811074/000110465926110963/tm264934-6_def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001104659-25-093848": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-09-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1811074/000110465925093848/tm2523293-1_def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001104659-24-102208": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-09-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1811074/000110465924102208/tm2419969d6_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001140361-23-047453": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-10-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1811074/000114036123047453/ny20009971x1_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001104659-22-106944": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-10-07",
    "url": "https://www.sec.gov/Archives/edgar/data/1811074/000110465922106944/tm2227513d1_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001104659-21-122327": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-10-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1811074/000110465921122327/tm2129101d1_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -103,11 +103,11 @@
    "employees": 102
   },
   "0001811074-22-000014": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001811074-23-000014": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0001811074-24-000015": {

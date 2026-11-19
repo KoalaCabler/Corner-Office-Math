@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000882184-25-000114": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-12-10",
    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218425000114/dhi-20251210.htm",
    "periodEnd": "2025-09-30",
@@ -17,7 +17,7 @@
    }
   },
   "0001193125-24-278379": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-12-13",
    "url": "https://www.sec.gov/Archives/edgar/data/882184/000119312524278379/d832781ddef14a.htm",
    "periodEnd": "2024-09-30",
@@ -33,7 +33,7 @@
    }
   },
   "0001193125-23-296787": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-12-15",
    "url": "https://www.sec.gov/Archives/edgar/data/882184/000119312523296787/d492945ddef14a.htm",
    "periodEnd": "2023-09-30",
@@ -49,7 +49,7 @@
    }
   },
   "0001193125-22-303898": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-12-13",
    "url": "https://www.sec.gov/Archives/edgar/data/882184/000119312522303898/d399328ddef14a.htm",
    "periodEnd": "2022-09-30",
@@ -65,7 +65,7 @@
    }
   },
   "0000882184-21-000238": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-12-21",
    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218421000238/dhiproxydoc-2022meeting.htm",
    "periodEnd": "2021-09-30",
@@ -81,7 +81,7 @@
    }
   },
   "0000882184-20-000173": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-12-23",
    "url": "https://www.sec.gov/Archives/edgar/data/882184/000088218420000173/proxydoc-2021meeting.htm",
    "periodEnd": "2020-09-30",
@@ -97,7 +97,7 @@
    }
   },
   "0001193125-19-319220": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-12-19",
    "url": "https://www.sec.gov/Archives/edgar/data/882184/000119312519319220/d844232ddef14a.htm",
    "periodEnd": "2019-09-30",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-18-350016": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-12-14",
    "url": "https://www.sec.gov/Archives/edgar/data/882184/000119312518350016/d427542ddef14a.htm",
    "periodEnd": "2018-09-30",
@@ -133,6 +133,14 @@
   "0000882184-25-000081": {
    "parserVersion": 1,
    "employees": 14341
+  },
+  "0000882184-17-000103": {
+   "parserVersion": 2,
+   "employees": null
+  },
+  "0000882184-26-000157": {
+   "parserVersion": 2,
+   "employees": 14030
   }
  },
  "facts": {

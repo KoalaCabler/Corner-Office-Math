@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000096021-26-000037": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-10-01",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000009602126000037/syy-20261001.htm",
    "periodEnd": "2026-06-27",
@@ -17,7 +17,7 @@
    }
   },
   "0000096021-25-000147": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-10-02",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000009602125000147/syy-20251001.htm",
    "periodEnd": "2025-06-28",
@@ -33,7 +33,7 @@
    }
   },
   "0000096021-24-000175": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-10-03",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000009602124000175/syy-20241003.htm",
    "periodEnd": "2024-06-29",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-001019": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-10-05",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817923001019/lsyy2023_def14a.htm",
    "periodEnd": "2023-07-01",
@@ -65,15 +65,23 @@
    }
   },
   "0001308179-22-000374": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-10-06",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817922000374/lsysco2022_def14a.htm",
    "periodEnd": "2022-07-02",
    "tenK": "0000096021-22-000151",
-   "result": null
+   "result": {
+    "ceoPay": 13656506,
+    "medianPay": 83737.43,
+    "payRatio": 163.1,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2022,
+    "excerpt": "l total compensation, calculated in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K (the \"Annual Total Compensation\"), of our CEO, Kevin P. Hourican, and the Annual Total Compensation of our median employee. For fiscal 2022: | The Annual Total Compensation of our CEO | | | | $ | | 13,656,506 | | | | The Annual Total Compensation of our Median Employee | | | | $ | | 83,737.43 | | | | The Ratio of the CEO's to the Median Employee's Annual Total Compensation | | | | | | 163.1 | | | In accordance with Instruction 2 to Item 402(u) of Regulation S-K, because there had been no change in our employee population or employee compensation arrangements in the past fiscal year that we reasonably believed would result in a significant change to our CEO pay ratio disclosure, we el"
+   }
   },
   "0001308179-21-000326": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-10-06",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817921000326/lsysco2021_def14a.htm",
    "periodEnd": "2021-07-03",
@@ -89,7 +97,7 @@
    }
   },
   "0001308179-20-000279": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-10-07",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817920000279/lsyy2020_def14a.htm",
    "periodEnd": "2020-06-27",
@@ -105,7 +113,7 @@
    }
   },
   "0001308179-19-000241": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-10-02",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817919000241/lsyy_2019def14a.htm",
    "periodEnd": "2019-06-29",
@@ -121,7 +129,7 @@
    }
   },
   "0001308179-18-000271": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-10-05",
    "url": "https://www.sec.gov/Archives/edgar/data/96021/000130817918000271/lsyy2018_def14a.htm",
    "periodEnd": "2018-06-30",
@@ -153,6 +161,14 @@
   "0000096021-26-000033": {
    "parserVersion": 1,
    "employees": 75000
+  },
+  "0000096021-17-000120": {
+   "parserVersion": 2,
+   "employees": 66500
+  },
+  "0000096021-22-000151": {
+   "parserVersion": 2,
+   "employees": 71000
   }
  },
  "facts": {

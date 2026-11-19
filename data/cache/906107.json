@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001193125-26-155007": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-14",
    "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312526155007/eqr-20260410.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000950170-25-054259": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-15",
    "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017025054259/eqr-20250414.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000950170-24-044809": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-16",
    "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017024044809/eqr-20240416.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000950170-23-013299": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-18",
    "url": "https://www.sec.gov/Archives/edgar/data/906107/000095017023013299/eqr-20230417.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001564590-22-014653": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-18",
    "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459022014653/eqr-def14a_20220616.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001564590-21-019643": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-20",
    "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459021019643/eqr-def14a_20210617.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001564590-20-017733": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-21",
    "url": "https://www.sec.gov/Archives/edgar/data/906107/000156459020017733/eqr-def14a_20200625.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-19-115026": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-23",
    "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312519115026/d665098ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001193125-18-134962": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/906107/000119312518134962/d539840ddef14a.htm",
    "periodEnd": "2017-12-31",
@@ -268,6 +268,36 @@
     "periodEnd": "2020-12-31",
     "revenueTag": "OperatingLeasesIncomeStatementLeaseRevenue",
     "accession": "0001564590-21-006679"
+   },
+   "2021": {
+    "revenue": 2463997000,
+    "periodEnd": "2021-12-31",
+    "revenueTag": "OperatingLeaseLeaseIncome",
+    "accession": "0000950170-24-015907"
+   },
+   "2022": {
+    "revenue": 3093959000,
+    "periodEnd": "2022-12-31",
+    "revenueTag": "OperatingLeaseLeaseIncome",
+    "accession": "0001193125-26-051433"
+   },
+   "2023": {
+    "revenue": 2873964000,
+    "periodEnd": "2023-12-31",
+    "revenueTag": "OperatingLeaseLeaseIncome",
+    "accession": "0001193125-26-051433"
+   },
+   "2024": {
+    "revenue": 2980108000,
+    "periodEnd": "2024-12-31",
+    "revenueTag": "OperatingLeaseLeaseIncome",
+    "accession": "0001193125-26-051433"
+   },
+   "2025": {
+    "revenue": 3093959000,
+    "periodEnd": "2025-12-31",
+    "revenueTag": "OperatingLeaseLeaseIncome",
+    "accession": "0001193125-26-051433"
    }
   },
   "employeesTagged": {},

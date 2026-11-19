@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000783325-26-000035": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/783325/000078332526000035/wec-20260324.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000107815-25-000149": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781525000149/wec-20250311.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000930413-24-001170": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/783325/000093041324001170/c107525_def14a-ixbrl.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000930413-23-001083": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/783325/000093041323001083/c104991_def14a-ixbrl.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0000107815-22-000154": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781522000154/wec-2022proxystatement.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0000107815-21-000114": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781521000114/wec-2021proxystatement.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0000107815-20-000127": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781520000127/wec-2020proxystatement.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0000107815-19-000156": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781519000156/wec-2019proxystatement.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0000107815-18-000155": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-22",
    "url": "https://www.sec.gov/Archives/edgar/data/783325/000010781518000155/wec-2018proxystatement.htm",
    "periodEnd": "2017-12-31",
@@ -147,39 +147,39 @@
  },
  "tenKs": {
   "0000107815-18-000134": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000107815-19-000128": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000107815-20-000089": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000107815-21-000079": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000107815-22-000116": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000107815-23-000100": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000107815-24-000095": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000107815-25-000103": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   },
   "0000783325-26-000018": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": null
   }
  },

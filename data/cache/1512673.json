@@ -1,76 +1,148 @@
 {
  "proxies": {
   "0001628280-26-027203": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000162828026027203/sq-20260423.htm",
    "periodEnd": "2025-12-31",
    "tenK": "0001628280-26-012254",
-   "result": null
+   "result": {
+    "ceoPay": 2.75,
+    "medianPay": 222772,
+    "payRatio": 0.00001,
+    "method": "cross-checked",
+    "employees": 10197,
+    "statedYear": 2025,
+    "excerpt": "tionship of the annual total compensation of our employees and the annual total compensation of Mr. Dorsey, our Block Head. For 2025, our last completed fiscal year: • the median of the annual total compensation of all our employees (determined as described below, and other than our Block Head) was $222,772; and • the annual total compensation of our Block Head, as reported in the Summary Compensation Table included elsewhere in this proxy statement, was $2.75. Based on this information, for 2025, the annual total compensation of our Block Head was less than 0.00001 times that of the median of the annual total compensation for all employees. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. To identify the median of the annual tot"
+   }
   },
   "0000950170-25-058701": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000095017025058701/sq-20250425.htm",
    "periodEnd": "2024-12-31",
    "tenK": "0001628280-25-007376",
-   "result": null
+   "result": {
+    "ceoPay": 2.75,
+    "medianPay": 202981,
+    "payRatio": 0.0001,
+    "method": "cross-checked",
+    "employees": 11367,
+    "statedYear": 2024,
+    "excerpt": "tionship of the annual total compensation of our employees and the annual total compensation of Mr. Dorsey, our Block Head. For 2024, our last completed fiscal year: • the median of the annual total compensation of all our employees (determined as described below, and other than our Block Head) was $202,981; and • the annual total compensation of our Block Head, as reported in the Summary Compensation Table included elsewhere in this proxy statement, was $2.75. Based on this information, for 2024, the annual total compensation of our Block Head was less than 0.0001 times that of the median of the annual total compensation for all employees. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. To identify the median of the annual tota"
+   }
   },
   "0000950170-24-049064": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000095017024049064/sq-20240426.htm",
    "periodEnd": "2023-12-31",
    "tenK": "0001628280-24-006354",
-   "result": null
+   "result": {
+    "ceoPay": 2.75,
+    "medianPay": 204687,
+    "payRatio": 0.0001,
+    "method": "cross-checked",
+    "employees": 11938,
+    "statedYear": 2023,
+    "excerpt": "tionship of the annual total compensation of our employees and the annual total compensation of Mr. Dorsey, our Block Head. For 2023, our last completed fiscal year: • the median of the annual total compensation of all our employees (determined as described below, and other than our Block Head) was $204,687; and • the annual total compensation of our Block Head, as reported in the Summary Compensation Table included elsewhere in this proxy statement, was $2.75. Based on this information, for 2023, the annual total compensation of our Block Head was less than 0.0001 times that of the median of the annual total compensation for all employees. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. To identify the median of the annual tota"
+   }
   },
   "0000950170-23-015788": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000095017023015788/sq-20230428.htm",
    "periodEnd": "2022-12-31",
    "tenK": "0001628280-23-004840",
-   "result": null
+   "result": {
+    "ceoPay": 2.75,
+    "medianPay": 198423,
+    "payRatio": 0.0001,
+    "method": "cross-checked",
+    "employees": 12427,
+    "statedYear": 2022,
+    "excerpt": "tionship of the annual total compensation of our employees and the annual total compensation of Mr. Dorsey, our Block Head. For 2022, our last completed fiscal year: • the median of the annual total compensation of all our employees (determined as described below, and other than our Block Head) was $198,423; and • the annual total compensation of our Block Head, as reported in the Summary Compensation Table included elsewhere in this proxy statement, was $2.75. Based on this information, for 2022, the annual total compensation of our Block Head was less than 0.0001 times that of the median of the annual total compensation for all employees. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. To identify the median of the annual tota"
+   }
   },
   "0001140361-22-016516": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000114036122016516/ny20002695x1_def14a.htm",
    "periodEnd": "2021-12-31",
    "tenK": "0001628280-22-003825",
-   "result": null
+   "result": {
+    "ceoPay": 2.75,
+    "medianPay": 169093,
+    "payRatio": 0.0001,
+    "method": "cross-checked",
+    "employees": 8525,
+    "statedYear": 2021,
+    "excerpt": "ip of the annual total compensation of our employees and the annual total compensation of Mr. Dorsey, our Block Head. For 2021, our last completed fiscal year: | • | | the median of the annual total compensation of all our employees (determined as described below, and other than our Block Head) was $169,093; and | | • | | the annual total compensation of our Block Head, as reported in the Summary Compensation Table included elsewhere in this proxy statement, was $2.75. | Based on this information, for 2021, the annual total compensation of our Block Head was less than 0.0001 times that of the median of the annual total compensation for all employees. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. To identify the median of the a"
+   }
   },
   "0001140361-21-014943": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000114036121014943/nc10021573x1_def14a.htm",
    "periodEnd": "2020-12-31",
    "tenK": "0001512673-21-000008",
-   "result": null
+   "result": {
+    "ceoPay": 2.75,
+    "medianPay": 188087,
+    "payRatio": 0.00001,
+    "method": "cross-checked",
+    "employees": 5477,
+    "statedYear": 2020,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Dorsey, our CEO. For 2020, our last completed fiscal year: | • | | the median of the annual total compensation of all our employees (determined as described below, and other than our CEO) was $188,087; and | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included elsewhere in this proxy statement, was $2.75. | Based on this information, for 2020, the annual total compensation of our CEO was less than 0.00001 times that of the median of the annual total compensation for all employees. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. To identify the median of the annual total c"
+   }
   },
   "0001140361-20-009680": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000114036120009680/nc10010090x1_def14a.htm",
    "periodEnd": "2019-12-31",
    "tenK": "0001628280-20-002303",
-   "result": null
+   "result": {
+    "ceoPay": 2.75,
+    "medianPay": 164369,
+    "payRatio": 0.0001,
+    "method": "cross-checked",
+    "employees": 3837,
+    "statedYear": 2019,
+    "excerpt": "the relationship of the annual total compensation of our employees and the annual total compensation of Mr. Dorsey, our CEO. For 2019, our last completed fiscal year: | • | | the median of the annual total compensation of all our employees (determined as described below, and other than our CEO) was $164,369 and | | • | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included elsewhere in this proxy statement, was $2.75. | Based on this information, for 2019, the annual total compensation of our CEO was less than 0.0001 times that of the median of the annual total compensation for all employees. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. To identify the median of the annual total com"
+   }
   },
   "0001193125-19-122264": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000119312519122264/d696298ddef14a.htm",
    "periodEnd": "2018-12-31",
    "tenK": "0001512673-19-000003",
-   "result": null
+   "result": {
+    "ceoPay": 2.75,
+    "medianPay": 155200,
+    "payRatio": 0.0001,
+    "method": "cross-checked",
+    "employees": 3349,
+    "statedYear": 2018,
+    "excerpt": "tionship of the annual total compensation of our employees and the annual total compensation of Mr. Dorsey, our CEO. For 2018, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all our employees (determined as described below, and other than our CEO) was $155,200; and | | | |  | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included elsewhere in this proxy statement, was $2.75. | Based on this information, for 2018, the annual total compensation of our CEO was less than 0.0001 times that of the median of the annual total compensation for all employees. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. To identify the median of the annual"
+   }
   },
   "0001193125-18-138944": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1512673/000119312518138944/d570454ddef14a.htm",
    "periodEnd": "2017-12-31",
    "tenK": "0001512673-18-000004",
-   "result": null
+   "result": {
+    "ceoPay": 2.75,
+    "medianPay": 152265,
+    "payRatio": 0.0001,
+    "method": "cross-checked",
+    "employees": 2338,
+    "statedYear": 2017,
+    "excerpt": "tionship of the annual total compensation of our employees and the annual total compensation of Mr. Dorsey, our CEO. For 2017, our last completed fiscal year: | | |  | | | | the median of the annual total compensation of all our employees (determined as described below, and other than our CEO) was $152,265; and | | | |  | | | | the annual total compensation of our CEO, as reported in the Summary Compensation Table included elsewhere in this proxy statement, was $2.75. | Based on this information, for 2017, the annual total compensation of our CEO was less than 0.0001 times that of the median of the annual total compensation for all employees. This pay ratio is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K. To identify the median of the annual"
+   }
   }
  },
  "tenKs": {},

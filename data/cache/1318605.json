@@ -1,15 +1,23 @@
 {
  "proxies": {
   "0001104659-26-116700": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-10-19",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465926116700/tm267596-1_def14a.htm",
    "periodEnd": "2025-12-31",
    "tenK": "0001628280-26-003952",
-   "result": null
+   "result": {
+    "ceoPay": 334.09,
+    "medianPay": 62786,
+    "payRatio": 0,
+    "method": "cross-checked",
+    "employees": 135623,
+    "statedYear": 2025,
+    "excerpt": ", the vast majority of the 2025 annual total compensation for Mr. Musk reflects an accounting-driven valuation for the 2025 CEO Performance Award, as to which no shares have vested as of the date of this filing, and which, upon vesting, is further subject to an offset of a number of shares equal to $334.09 per vested share, unless Mr. Musk elects to pay such offset amount in cash. In addition, the 2025 annual total compensation includes the value of the 2025 CEO Interim Award of approximately $26.1 billion, which was forfeited in its entirety in April 2026. Mr. Musk's 2025 annual total compensation, as reported under \" Executive Compensation for Fiscal Year 2025 - 2025 Summary Compensation Table ,\" was $158,359,009,867, the vast majority of which reflects an accounting-driven valuation for"
+   }
   },
   "0001104659-25-090866": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-09-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465925090866/tm252289-12_def14a.htm",
    "periodEnd": "2024-12-31",
@@ -25,7 +33,7 @@
    }
   },
   "0001104659-24-053333": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465924053333/tm2326076d15_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -41,7 +49,7 @@
    }
   },
   "0001193125-23-094075": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312523094075/d451342ddef14a.htm",
    "periodEnd": "2022-12-31",
@@ -57,7 +65,7 @@
    }
   },
   "0001564590-22-024064": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-06-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459022024064/tsla-def14a_20220804.htm",
    "periodEnd": "2021-12-31",
@@ -73,7 +81,7 @@
    }
   },
   "0001564590-21-045926": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-08-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459021045926/tsla-def14a_20210826.htm",
    "periodEnd": "2020-12-31",
@@ -89,15 +97,23 @@
    }
   },
   "0001564590-20-027321": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-05-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459020027321/tsla-def14a_20200707.htm",
    "periodEnd": "2019-12-31",
    "tenK": "0001564590-20-004475",
-   "result": null
+   "result": {
+    "ceoPay": 23760,
+    "medianPay": 58455,
+    "payRatio": 0.41,
+    "method": "cross-checked",
+    "employees": 44452,
+    "statedYear": 2019,
+    "excerpt": "f all of such employees were named executive officers, in each case calculated pursuant to the disclosure requirements of \" Executive Compensation-Summary Compensation Table \" above. Mr. Musk's 2019 annual total compensation, as reported in \" Executive Compensation-Summary Compensation Table, \" was $ 23,760 , and the median 2019 annual total compensation of all other qualifying employees, as determined pursuant to the methodology set forth below, was $58,455. Consequently, the applicable ratio of such amounts for 2019 was 0.41:1. Our methodology for identifying the median of the 2019 annual total compensation for each individual other than Mr. Musk was as follows: | | | • | | We determined that as of December 31, 2019, Tesla and all of our subsidiaries had 44,452 individuals qualifying for"
+   }
   },
   "0001564590-19-014268": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-30",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459019014268/tsla-def14a_20190611.htm",
    "periodEnd": "2018-12-31",
@@ -113,15 +129,23 @@
    }
   },
   "0001564590-18-009339": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000156459018009339/tsla-def14a_20180606.htm",
    "periodEnd": "2017-12-31",
    "tenK": "0001564590-18-002956",
-   "result": null
+   "result": {
+    "ceoPay": 49920,
+    "medianPay": 54816,
+    "payRatio": 0.91,
+    "method": "cross-checked",
+    "employees": null,
+    "statedYear": 2017,
+    "excerpt": "Mr. Musk, calculated pursuant to the disclosure requirements of \" Executive Compensation-Summary Compensation Table \" above as if all of our employees were named executive officers. Mr. Musk's 2017 annual total compensation, as reported in \" Executive Compensation-Summary Compensation Table, \" was $49,920, and the median 2017 annual total compensation of all other employees was $54,816. Consequently, the applicable ratio of such amounts for 2017 was 0.91:1. Our methodology for identifying the median of the 2017 annual total compensation for each of our employees other than Mr. Musk was as follows: | | | • | | We determined that as of December 31, 2017, Tesla and all of our subsidiaries had 36,302 qualifying individuals (full-time, part-time and temporary employees other than Mr. Musk), of"
+   }
   },
   "0001193125-18-035345": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-02-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000119312518035345/d524719ddef14a.htm",
    "periodEnd": "2016-12-31",
@@ -133,6 +157,10 @@
   "0001564590-19-003165": {
    "parserVersion": 1,
    "employees": 48817
+  },
+  "0001564590-18-002956": {
+   "parserVersion": 2,
+   "employees": 37543
   }
  },
  "facts": {

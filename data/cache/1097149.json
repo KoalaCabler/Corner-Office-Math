@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001097149-26-000023": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714926000023/algn-20260407.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001097149-25-000021": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714925000021/algn-20250407.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001097149-24-000018": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714924000018/algn-20240409.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001097149-23-000029": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714923000029/algn-20230404.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001097149-22-000015": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714922000015/algn-20211231xdef14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001097149-21-000018": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714921000018/algn-20201231xdef14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001097149-20-000016": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714920000016/algn-20191231xdef.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001097149-19-000012": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-04",
    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714919000012/algn-20181231xdef.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001097149-18-000015": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/1097149/000109714918000015/algn-20171231xdef.htm",
    "periodEnd": "2017-12-31",

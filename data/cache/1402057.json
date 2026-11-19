@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001308179-26-000251": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1402057/000130817926000251/cdw014321-def14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001308179-25-000419": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-09",
    "url": "https://www.sec.gov/Archives/edgar/data/1402057/000130817925000419/cdw013560-def14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-24-000494": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1402057/000130817924000494/lcdw2024_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-000596": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/1402057/000130817923000596/cdw-20221231.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001308179-22-000212": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-07",
    "url": "https://www.sec.gov/Archives/edgar/data/1402057/000130817922000212/lcdw2022_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001308179-21-000189": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/1402057/000130817921000189/lcdw2021_def14a.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001308179-20-000173": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1402057/000130817920000173/lcdw2020_def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001308179-19-000131": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-10",
    "url": "https://www.sec.gov/Archives/edgar/data/1402057/000130817919000131/lcdw2019_def14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001308179-18-000169": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-11",
    "url": "https://www.sec.gov/Archives/edgar/data/1402057/000130817918000169/lcdw2018_def14a.htm",
    "periodEnd": "2017-12-31",
@@ -147,39 +147,39 @@
  },
  "tenKs": {
   "0001402057-18-000038": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 250
   },
   "0001402057-19-000046": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 250
   },
   "0001402057-20-000042": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 250
   },
   "0001402057-21-000022": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 250
   },
   "0001402057-22-000020": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 250
   },
   "0001402057-23-000052": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 250
   },
   "0001402057-24-000015": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 250
   },
   "0001402057-25-000018": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 250
   },
   "0001402057-26-000011": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 250
   }
  },

@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001104659-26-108960": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-09-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1415404/000110465926108960/sats-20261030xdef14a.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001558370-25-003470": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1415404/000155837025003470/tmb-20250502xdef14a.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001104659-24-036703": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1415404/000110465924036703/tm242929d2_def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001104659-23-032290": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1415404/000110465923032290/tm238523d1_def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001415404-22-000013": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1415404/000141540422000013/a2022satsproxystatement.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001415404-21-000011": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-17",
    "url": "https://www.sec.gov/Archives/edgar/data/1415404/000141540421000011/a2021satsproxystatement.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001415404-20-000009": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1415404/000141540420000009/a2020satsproxystatement.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001415404-19-000012": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-18",
    "url": "https://www.sec.gov/Archives/edgar/data/1415404/000141540419000012/a2019satsproxystatement.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001415404-18-000009": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-20",
    "url": "https://www.sec.gov/Archives/edgar/data/1415404/000141540418000009/sats2018proxystatement.htm",
    "periodEnd": "2017-12-31",

@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000092122-26-000028": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-03",
    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212226000028/so-20260402.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000092122-25-000036": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-11",
    "url": "https://www.sec.gov/Archives/edgar/data/92122/000009212225000036/so-20250410.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001308179-24-000515": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/92122/000130817924000515/so4274141-def14a.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-000671": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-14",
    "url": "https://www.sec.gov/Archives/edgar/data/92122/000130817923000671/so4109301-def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-22-001105": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-04-15",
    "url": "https://www.sec.gov/Archives/edgar/data/92122/000120677422001105/so3978871_def14a.htm",
    "periodEnd": "2021-12-31",
@@ -81,23 +81,23 @@
    }
   },
   "0001206774-21-001083": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-12",
    "url": "https://www.sec.gov/Archives/edgar/data/92122/000120677421001083/so3828771-def14a.htm",
    "periodEnd": "2020-12-31",
    "tenK": "0000092122-21-000006",
    "result": {
-    "ceoPay": null,
-    "medianPay": 122763,
-    "payRatio": 134,
-    "method": "ratio-and-median",
+    "ceoPay": 89600,
+    "medianPay": 43900,
+    "payRatio": 2,
+    "method": "cross-checked",
     "employees": 27000,
     "statedYear": 2020,
-    "excerpt": "n control. | | | | | Severance Amount ($) | | Tom Fanning | | | | 12,375,000 | | Andrew Evans | | | | 3,092,544 | | Paul Bowers | | | | 3,814,724 | | Mark Crosswhite | | | | 3,085,780 | | Stephen Kuczynski | | | | 2,853,694 | Pay Ratio Disclosure For 2020, we have calculated the CEO pay ratio to be 134 to 1. This ratio is a reasonable estimate calculated in a manner consistent with SEC rules based on our payroll and employment records as of December 31, 2020 and the methodology described below. | ► | | The change in pension value as shown in the Summary Compensation Table is not due to any changes or modifications to the existing program or plan formula. | | ► | | Traditional pension plans are extremely sensitive to interest rate changes, and changes to macroeconomic factors such as intere"
+    "excerpt": "nnual total compensation of the median employee, calculated in accordance with the Summary Compensation Table requirements and including amounts paid under nondiscriminatory health and welfare benefit plans, was $122,763. The median employee's annual total compensation is comprised of approximately $89,600 in base salary, $14,500 in annual incentive payout, $4,500 in ESP matching contributions, $43,900 that represents the annual accounting change in pension value, $200 in perquisites and $14,000 in health and welfare equivalent benefits. The median employee is a Security Shift Lieutenant for one of our state-regulated electric utilities. | | ► | | The CEO's annual total compensation was $22,380,866. This amount includes the total compensation amount included in the Summary Compensation Tab"
    }
   },
   "0001206774-20-001156": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-13",
    "url": "https://www.sec.gov/Archives/edgar/data/92122/000120677420001156/so3664831-def14a.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001206774-19-001244": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/92122/000120677419001244/so3463381-def14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001206774-18-001121": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-06",
    "url": "https://www.sec.gov/Archives/edgar/data/92122/000120677418001121/so3345001-def14a.htm",
    "periodEnd": "2017-12-31",

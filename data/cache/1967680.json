@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001967680-26-000016": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-27",
    "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768026000016/vlto-20260326.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001967680-25-000058": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-28",
    "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768025000058/vlto-20250326.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001967680-24-000046": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-29",
    "url": "https://www.sec.gov/Archives/edgar/data/1967680/000196768024000046/vlto-20240327.htm",
    "periodEnd": "2023-12-31",
@@ -49,6 +49,10 @@
   "0001967680-26-000011": {
    "parserVersion": 1,
    "employees": 17000
+  },
+  "0001967680-24-000033": {
+   "parserVersion": 2,
+   "employees": 16000
   }
  },
  "facts": {

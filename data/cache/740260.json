@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000740260-26-000010": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/740260/000074026026000010/vtr-20260401.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0000740260-25-000098": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/740260/000074026025000098/vtr-20250331.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0000740260-24-000094": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-04-02",
    "url": "https://www.sec.gov/Archives/edgar/data/740260/000074026024000094/vtr-20240402.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001308179-23-000537": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-04-05",
    "url": "https://www.sec.gov/Archives/edgar/data/740260/000130817923000537/vtr4121871-def14a.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001206774-21-001097": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-04-13",
    "url": "https://www.sec.gov/Archives/edgar/data/740260/000120677421001097/vtr3838031-def14a.htm",
    "periodEnd": "2020-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001140361-20-008370": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-04-08",
    "url": "https://www.sec.gov/Archives/edgar/data/740260/000114036120008370/nc10007408x1_def14a.htm",
    "periodEnd": "2019-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001140361-19-006206": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-04-01",
    "url": "https://www.sec.gov/Archives/edgar/data/740260/000114036119006206/ncp10000567x1_def14a.htm",
    "periodEnd": "2018-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001104659-18-021813": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-04-02",
    "url": "https://www.sec.gov/Archives/edgar/data/740260/000110465918021813/a18-2989_1def14a.htm",
    "periodEnd": "2017-12-31",
@@ -159,8 +159,12 @@
    "employees": 498
   },
   "0000740260-26-000006": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "employees": 542
+  },
+  "0000740260-22-000057": {
+   "parserVersion": 2,
+   "employees": 434
   }
  },
  "facts": {

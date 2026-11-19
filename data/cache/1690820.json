@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0001690820-26-000024": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082026000024/cvna-20260325.htm",
    "periodEnd": "2025-12-31",
@@ -17,7 +17,7 @@
    }
   },
   "0001690820-25-000105": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-25",
    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082025000105/cvna-20250321.htm",
    "periodEnd": "2024-12-31",
@@ -33,7 +33,7 @@
    }
   },
   "0001690820-24-000138": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-26",
    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082024000138/cvna-20240326.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0001690820-23-000094": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-21",
    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082023000094/cvna-20230321.htm",
    "periodEnd": "2022-12-31",
@@ -65,7 +65,7 @@
    }
   },
   "0001690820-22-000110": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082022000110/a2022proxystatement.htm",
    "periodEnd": "2021-12-31",
@@ -81,7 +81,7 @@
    }
   },
   "0001690820-21-000095": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-24",
    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082021000095/a2021proxystatement.htm",
    "periodEnd": "2020-12-31",
@@ -97,7 +97,7 @@
    }
   },
   "0001690820-20-000068": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-11",
    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082020000068/a2020proxystatement.htm",
    "periodEnd": "2019-12-31",
@@ -113,7 +113,7 @@
    }
   },
   "0001193125-19-074789": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000119312519074789/d660766ddef14a.htm",
    "periodEnd": "2018-12-31",
@@ -129,7 +129,7 @@
    }
   },
   "0001690820-18-000007": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-23",
    "url": "https://www.sec.gov/Archives/edgar/data/1690820/000169082018000007/a2018proxystatement.htm",
    "periodEnd": "2017-12-31",
@@ -169,6 +169,10 @@
   "0001690820-26-000009": {
    "parserVersion": 1,
    "employees": 23100
+  },
+  "0001690820-18-000005": {
+   "parserVersion": 2,
+   "employees": 1864
   }
  },
  "facts": {

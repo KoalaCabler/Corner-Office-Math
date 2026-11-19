@@ -1,7 +1,7 @@
 {
  "proxies": {
   "0000200406-26-000063": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2026-03-11",
    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000063/jnj-20260309.htm",
    "periodEnd": "2025-12-28",
@@ -17,7 +17,7 @@
    }
   },
   "0000200406-25-000099": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2025-03-12",
    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040625000099/jnj-20250311.htm",
    "periodEnd": "2024-12-29",
@@ -33,7 +33,7 @@
    }
   },
   "0000200406-24-000024": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2024-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040624000024/jnj-20240311.htm",
    "periodEnd": "2023-12-31",
@@ -49,7 +49,7 @@
    }
   },
   "0000200406-23-000023": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2023-03-15",
    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040623000023/jnj-20230313.htm",
    "periodEnd": "2023-01-01",
@@ -65,7 +65,7 @@
    }
   },
   "0000200406-22-000026": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2022-03-16",
    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040622000026/a2022jnjproxy.htm",
    "periodEnd": "2022-01-02",
@@ -81,7 +81,7 @@
    }
   },
   "0000200406-21-000011": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2021-03-10",
    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040621000011/jnjproxy2021.htm",
    "periodEnd": "2021-01-03",
@@ -97,7 +97,7 @@
    }
   },
   "0000200406-20-000018": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2020-03-11",
    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040620000018/jnjproxy2020.htm",
    "periodEnd": "2019-12-29",
@@ -113,7 +113,7 @@
    }
   },
   "0000200406-19-000013": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2019-03-13",
    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040619000013/a2019jnjproxy.htm",
    "periodEnd": "2018-12-30",
@@ -129,7 +129,7 @@
    }
   },
   "0000200406-18-000009": {
-   "parserVersion": 1,
+   "parserVersion": 2,
    "filingDate": "2018-03-14",
    "url": "https://www.sec.gov/Archives/edgar/data/200406/000020040618000009/a2018jnjproxy.htm",
    "periodEnd": "2017-12-31",
