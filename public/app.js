@@ -71,7 +71,7 @@
     document.title = 'Corner Office Math';
     let idx;
     try { idx = await getIndex(); } catch {
-      app.innerHTML = '<p class="empty">The data has not been built yet. Run <code>node scripts/update-data.js</code>.</p>';
+      app.innerHTML = '<h1>Corner Office Math</h1><p class="lede">CEO pay, median employee pay and revenue for S&amp;P 500 companies, from SEC filings. The data is being gathered now. Please check back soon.</p>';
       return;
     }
     setUpdated(idx.updatedAt);
