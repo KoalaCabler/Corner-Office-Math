@@ -1,0 +1,7 @@
+{
+  "_note": "Years whose parsed pay figures were checked by hand and found wrong. Their CEO pay, median pay and ratio are hidden (revenue stays). Remove an entry once the parser reads that company correctly.",
+  "hidePay": {
+    "PCAR": [2018, 2019, 2020, 2021, 2022, 2023, 2024],
+    "UHS": [2019, 2020]
+  }
+}

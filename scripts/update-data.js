@@ -48,6 +48,9 @@ const BUDGET_MS = (Number(opt('budget-minutes')) || 24 * 60) * 60000;
 const REFETCH = !!opt('refetch');
 const REBUILD_ONLY = !!opt('rebuild');
 const CONCURRENCY = 4;
+const OVERRIDES = (() => {
+  try { return JSON.parse(fs.readFileSync(path.join(DATA, 'overrides.json'), 'utf8')).hidePay || {}; } catch { return {}; }
+})();
 const PREDECESSORS = (() => {
   try { return JSON.parse(fs.readFileSync(path.join(DATA, 'predecessors.json'), 'utf8')).companies || {}; } catch { return {}; }
 })();
@@ -153,7 +156,15 @@ async function processCompany(co) {
   }
 
   if (!cache.facts) return null;
-  const company = buildCompany(co, assembleYears(co, cache));
+  const years = assembleYears(co, cache);
+  // data/overrides.json hides pay figures checked by hand and found wrong,
+  // until the parser handles that company's wording.
+  for (const y of years) {
+    if ((OVERRIDES[co.ticker] || []).includes(y.year)) {
+      for (const k of ['ceoPay', 'ceoPaySct', 'medianPay', 'payRatio', 'payMethod', 'proxyUrl']) delete y[k];
+    }
+  }
+  const company = buildCompany(co, years);
   fs.writeFileSync(path.join(OUT, `${fileSafe(co.ticker)}.json`), JSON.stringify(company));
   return company;
 }
